@@ -444,8 +444,8 @@ b,strong{font-weight:600}
 .iconbtn{background:transparent;color:var(--text)}
 .iconbtn .ic{width:22px;height:22px}
 .lang-btn{font-weight:600;font-size:14px}
-.hero-q{font-size:27px;font-weight:500;line-height:1.15;margin:22px 2px 16px;max-width:15em}
-.hero-card .search{background:rgba(0,0,0,.35);border-color:rgba(255,255,255,.08);margin-bottom:18px}
+.hero-q{font-size:27px;font-weight:500;line-height:1.15;margin:26px 2px 40px;max-width:15em}
+.hero-card .search{background:rgba(0,0,0,.35);border-color:rgba(255,255,255,.08);margin:0 0 4px}
 :root[data-theme=light] .hero-card .search{background:rgba(255,255,255,.75);border-color:rgba(0,0,0,.06)}
 .search .ic{color:var(--muted);width:20px;height:20px}
 .actions{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}

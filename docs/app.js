@@ -299,7 +299,6 @@
     const h = new Date().getHours();
     const greet = h >= 5 && h < 12 ? L('Goedemorgen', 'Good morning') : h >= 12 && h < 18 ? L('Goedemiddag', 'Good afternoon') : L('Goedenavond', 'Good evening');
     const first = a ? String(a.name).split(' ')[0] : '';
-    const action = (href, ic, label) => `<a class="action" href="${href}"><span class="action-ic">${IC(ic)}</span><span>${label}</span></a>`;
     return `<section class="hero-card">
         <div class="homebar"><button class="avbtn" data-act="menu" aria-label="${esc(a?.name || 'Menu')}">${avatar(a, 48)}</button>
           <div class="who"><div class="who-greet">${esc(greet)}</div><div class="who-name">${esc(first || 'Oldenhof')}</div></div>
@@ -307,7 +306,6 @@
           <button class="iconbtn" data-act="menu" aria-label="Menu">${IC('menu')}${n ? '<i class="dot"></i>' : ''}</button></div>
         <h1 class="hero-q">${L('Wat wil de klant vandaag weten?', 'What does the customer want to know today?')}</h1>
         <a class="search" href="#/zoek">${IC('search')}<span class="faint">${L('Zoek op naam, merk of barcode', 'Search by name, brand or barcode')}</span></a>
-        <div class="actions">${action('#/scan', 'scan', L('Scannen', 'Scan'))}${action('#/zoek', 'search', L('Zoeken', 'Search'))}${action('#/quiz', 'quiz', 'Quiz')}${action('#/notities', 'pencil', L('Notities', 'Notes'))}</div>
       </section>
       ${S.state.error ? `<div class="card tight small"><span class="status-dot off"></span>${esc(syncLabel())}</div>` : ''}
       ${outOfStockSection()}
