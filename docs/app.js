@@ -272,7 +272,7 @@
         <a class="mrow" href="#/check"><i>${IC('alert')}</i><span>${L('Controle', 'Check')}</span>${n ? `<b class="badge">${n}</b>` : ''}</a>
         <a class="mrow" href="#/notities"><i>${IC('pencil')}</i><span>${L('Notities', 'Notes')}</span></a>
         <a class="mrow" href="#/voorraad"><i>${IC('flag')}</i><span>${L('Niet op voorraad', 'Out of stock')}</span>${outs ? `<b class="badge">${outs}</b>` : ''}</a>
-        ${isManager() ? `<a class="mrow" href="#/rapport"><i>${IC('report')}</i><span>${L('Rapport', 'Report')}</span></a>
+        ${isManager() ? `<a class="mrow" href="#/rapport"><i>${IC('report')}</i><span>${L('Rapport', 'Report')}</span>${S.allIssues().filter(i => !i.resolved).length ? `<b class="badge">${S.allIssues().filter(i => !i.resolved).length}</b>` : ''}</a>
         <a class="mrow" href="#/accounts"><i>${IC('users')}</i><span>${L('Accounts', 'Accounts')}</span></a>` : ''}
       </div>
       <div class="small muted mlabel">${L('Weergave', 'Appearance')}</div>
@@ -441,33 +441,30 @@
     const p = idx.product[id]; if (!p) return notFound();
     const v = p.variants.find(x => x.id === q.get('v')) || p.variants[0];
     const brand = idx.brand[p.brandID];
-    const notes = S.notesFor(p.id);
+    const notes = S.notesFor(p.id).filter(n => !n.variantID || n.variantID === v.id);
     const out = S.isOut(v.id); const fl = S.flag(v.id);
     return `${top(brand?.name)}
       <div class="photo"><img src="${esc(v.image)}" alt="${esc(p.name + ' ' + v.colorName)}">
-        ${out ? `<span class="pill neg flag">${IC('flag')} ${L('Niet op voorraad', 'Out of stock')}</span>` : ''}</div>
+        ${out ? `<span class="pill neg flag">${IC('flag')} ${L('Niet op voorraad', 'Out of stock')}</span>` : ''}
+        <button class="photo-act" data-act="pmenu" data-v="${esc(v.id)}" aria-label="${L('Notitie, onjuistheid of voorraad melden', 'Add a note, report an inaccuracy or stock')}">${IC('plus')}</button></div>
       <div class="hero" style="margin-top:0"><div class="eyebrow">${p.typeIDs.map(t => esc(idx.type[t]?.name || t)).join(' · ')}</div>
         <h1>${esc(p.name)}</h1>${p.suitedFor ? `<p class="muted">${esc(p.suitedFor.text)}</p>` : ''}</div>
       ${p.variants.length > 1 ? `<div class="card tight"><div class="small muted">${L('Kleur', 'Colour')}: <b style="color:var(--text)">${esc(v.colorName)}</b></div>
-        <div class="swatches">${p.variants.map(x => `<a class="swatch ${x.id === v.id ? 'on' : ''} ${S.isOut(x.id) ? 'out' : ''}" href="#/p/${esc(p.id)}?v=${esc(x.id)}" aria-label="${esc(x.colorName)}" style="background-color:${esc(x.colorHex || '#888')}"></a>`).join('')}</div></div>` : ''}
+        <div class="swatches">${p.variants.map(x => `<a class="swatch ${x.id === v.id ? 'on' : ''} ${S.isOut(x.id) ? 'out' : ''}" data-act="swatch" href="#/p/${esc(p.id)}?v=${esc(x.id)}" aria-label="${esc(x.colorName)}" style="background-color:${esc(x.colorHex || '#888')}"></a>`).join('')}</div></div>` : ''}
       <div class="card">
         <dl class="kv"><dt>${L('Kleur', 'Colour')}</dt><dd>${esc(v.colorName)}</dd>
           <dt>EAN</dt><dd class="ean">${v.ean ? esc(v.ean) : `<span class="pill warn">${L('ontbreekt', 'missing')}</span>`}</dd>
           ${v.articleNumber ? `<dt>${L('Artikelnummer', 'Article number')}</dt><dd class="ean">${esc(v.articleNumber)}</dd>` : ''}</dl>
-        <div class="toggle" style="margin-top:16px"><div><div class="name">${L('Niet op voorraad', 'Out of stock')}</div>
-          <div class="small faint">${fl ? `${fl.out ? L('Gemeld', 'Reported') : L('Weer op voorraad', 'Back in stock')} ${L('door', 'by')} ${esc(fl.author)}, ${esc(fmtTime(fl.updatedAt))}${fl.out && fl.comment ? ' · ' + esc(fl.comment) : ''}` : L('Geldt alleen voor deze kleur', 'Applies to this colour only')}</div></div>
-          <button class="switch ${out ? 'on' : ''}" role="switch" aria-checked="${out}" data-act="stock" data-v="${esc(v.id)}" aria-label="${L('Niet op voorraad', 'Out of stock')}"></button></div>
+        ${out ? `<div class="outline"><div class="outline-t">${IC('flag')} ${L(`${esc(v.colorName)} is niet op voorraad`, `${esc(v.colorName)} is out of stock`)}</div>
+          <div class="small muted">${L('Gemeld door', 'Reported by')} ${esc(fl.author)}, ${esc(fmtTime(fl.updatedAt))}${fl.comment ? ' · ' + esc(fl.comment) : ''}</div>
+          <button class="btn ghost small-btn" data-act="stock" data-v="${esc(v.id)}">${L('Weer op voorraad', 'Back in stock')}</button></div>` : ''}
       </div>
+      ${notes.length ? `<div class="card good"><h3>${IC('pencil')} ${L('Goed om te weten', 'Good to know')}</h3>
+        ${notes.map(n => `<div class="note">${esc(n.text)}<div class="meta"><span>${esc(n.author)} · ${esc(fmtTime(n.createdAt))}${n.variantID ? ` · ${L('alleen', 'only')} ${esc(idx.variant[n.variantID]?.v.colorName || '')}` : ''}</span>
+          ${S.canDeleteNote(n) ? `<button class="faint" data-act="delnote" data-id="${esc(n.id)}">${L('Verwijder', 'Delete')}</button>` : ''}</div></div>`).join('')}</div>` : ''}
       <div class="card"><h3>${L('Kort voor de klant', 'In short for the customer')}</h3><ul class="bullets">${p.tellTheCustomer.map(b => `<li>${esc(b)}</li>`).join('')}</ul>${source(p.source)}</div>
       ${mismatchCard(p.mismatchIDs)}
       ${p.specs?.length ? `<div class="card"><h3 style="margin-bottom:12px">${L('Specificaties', 'Specifications')}</h3><dl class="kv">${p.specs.map(s => `<dt>${esc(s.label)}</dt><dd>${esc(s.value)}</dd>`).join('')}</dl>${source(p.source)}</div>` : ''}
-      <div class="card"><h3>${L("Notities van collega's", "Colleagues' notes")}</h3>
-        ${notes.length ? notes.map(n => `<div class="note">${esc(n.text)}<div class="meta"><span>${esc(n.author)} · ${esc(fmtTime(n.createdAt))}${n.variantID ? ` · ${esc(idx.variant[n.variantID]?.v.colorName || '')}` : ''}</span>
-          ${S.canDeleteNote(n) ? `<button class="faint" data-act="delnote" data-id="${esc(n.id)}">${L('Verwijder', 'Delete')}</button>` : ''}</div></div>`).join('') : `<p class="muted small">${L('Nog geen notities.', 'No notes yet.')}</p>`}
-        <form data-act="addnote" data-p="${esc(p.id)}" data-v="${esc(v.id)}" style="margin-top:12px">
-          <textarea name="t" placeholder="${L('Bijv. klanten vragen vaak… / demo-model staat bij de kassa', 'E.g. customers often ask… / demo model is at the till')}" maxlength="1000"></textarea>
-          <label class="check"><input type="checkbox" name="only"> ${L('Alleen voor kleur', 'Only for colour')} ${esc(v.colorName)}</label>
-          <button class="btn block" type="submit">${L('Notitie opslaan', 'Save note')}</button></form></div>
       <details class="card"><summary>${L('Originele tekst van de website', 'Original website text (Dutch)')}</summary><p class="orig">${esc(p.originalDescription)}</p>
         <div class="source"><a href="${esc(v.productURL)}" target="_blank" rel="noopener">${L('Open op kookwinkel.nl', 'Open on kookwinkel.nl')} ↗</a></div></details>
       ${brand?.officialURL ? `<a class="btn ghost block" href="${esc(brand.officialURL)}" target="_blank" rel="noopener">${L(`Officiële ${esc(brand.name)}-website`, `Official ${esc(brand.name)} website`)} ↗</a>` : ''}`;
@@ -560,15 +557,26 @@
     const flags = S.outList().filter(f => idx.variant[f.variantID] && inP(f.updatedAt) && (!person || f.author === person) && (!dept || groupOfProduct(idx.product[f.productID])?.id === dept));
     const notes = S.allNotes().filter(n => idx.product[n.productID] && inP(n.createdAt) && (!person || n.author === person) && (!dept || groupOfProduct(idx.product[n.productID])?.id === dept));
     const quiz = S.quizResults().filter(r => inP(r.date) && (!person || r.accountName === person) && (!dept || r.quizID === dept));
-    const people = [...new Set([...S.outList().map(f => f.author), ...S.allNotes().map(n => n.author), ...S.quizResults().map(r => r.accountName)])].filter(Boolean).sort();
+    const issues = S.allIssues().filter(i => idx.product[i.productID] && inP(i.createdAt) && (!person || i.author === person) && (!dept || groupOfProduct(idx.product[i.productID])?.id === dept));
+    const openIssues = issues.filter(i => !i.resolved), doneIssues = issues.filter(i => i.resolved);
+    const people = [...new Set([...S.outList().map(f => f.author), ...S.allNotes().map(n => n.author), ...S.allIssues().map(i => i.author), ...S.quizResults().map(r => r.accountName)])].filter(Boolean).sort();
     const link = (k, v) => { const p = new URLSearchParams({ periode: period, persoon: person, afdeling: dept }); p.set(k, v); return '#/rapport?' + p.toString(); };
-    report.rows = { flags, notes, quiz };
+    report.rows = { flags, notes, quiz, issues };
+    const issueRow = i => { const p = idx.product[i.productID]; const x = i.variantID && idx.variant[i.variantID];
+      return `<div class="row issue ${i.resolved ? 'done' : ''}"><a href="#/p/${esc(p.id)}${x ? `?v=${esc(x.v.id)}` : ''}"><img class="thumb" src="${esc(x ? x.v.image : productImg(p))}" alt=""></a>
+        <div class="grow"><a class="name" href="#/p/${esc(p.id)}${x ? `?v=${esc(x.v.id)}` : ''}">${esc(p.name)}</a><div class="sub">${esc(i.text)}</div>
+        <div class="sub faint">${esc(i.author)} · ${esc(fmtTime(i.createdAt))}${x ? ' · ' + esc(x.v.colorName) : ''}${i.resolved && i.resolvedBy ? ` · ${L('opgelost door', 'resolved by')} ${esc(i.resolvedBy)}` : ''}</div></div>
+        <button class="pill ${i.resolved ? '' : 'accent'}" data-act="resolve" data-id="${esc(i.id)}" data-r="${i.resolved ? '0' : '1'}">${i.resolved ? L('Heropen', 'Reopen') : L('Opgelost', 'Resolved')}</button></div>`; };
+    const issueWarn = S.state.issuesSetup === false ? `<div class="card tight small">${IC('alert')} ${L('Meldingen worden nog niet gedeeld: voer eerst het SQL-bestand voor onjuistheden uit in Supabase. Tot dan blijven ze op deze telefoon.', 'Reports are not shared yet: first run the SQL file for inaccuracies in Supabase. Until then they stay on this phone.')}</div>` : '';
     const none = `<p class="muted small">${L('Niets in deze selectie.', 'Nothing in this selection.')}</p>`;
-    return `${top('')}<div class="hero"><h1>${L('Rapport', 'Report')}</h1><p class="muted small">${L('Alle notities, wat er niet op voorraad is en de quizscores.', 'All notes, what is out of stock and the quiz scores.')}</p></div>
+    return `${top('')}<div class="hero"><h1>${L('Rapport', 'Report')}</h1><p class="muted small">${L('Gemelde onjuistheden, wat er niet op voorraad is, alle notities en de quizscores.', 'Reported inaccuracies, what is out of stock, all notes and the quiz scores.')}</p></div>
       <div class="seg">${[['week', L('7 dagen', '7 days')], ['month', L('30 dagen', '30 days')], ['all', L('Alles', 'All')]].map(([k, t]) => `<a class="${period === k ? 'on' : ''}" href="${link('periode', k)}">${t}</a>`).join('')}</div>
       <div class="filters"><select class="field" data-act="filter" data-k="persoon"><option value="">${L('Iedereen', 'Everyone')}</option>${people.map(p => `<option ${p === person ? 'selected' : ''}>${esc(p)}</option>`).join('')}</select>
         <select class="field" data-act="filter" data-k="afdeling"><option value="">${L('Alle afdelingen', 'All departments')}</option>${B.groups.map(g => `<option value="${esc(g.id)}" ${g.id === dept ? 'selected' : ''}>${esc(LT(g.title))}</option>`).join('')}</select></div>
       <button class="btn ghost block" data-act="csv" style="margin-bottom:6px">${IC('download')} ${L('Download als CSV (Excel)', 'Download as CSV (Excel)')}</button>
+      <div class="section-title"><h2>${L('Onjuistheden gemeld', 'Reported inaccuracies')}</h2><span class="muted small">${openIssues.length} ${L('open', 'open')}</span></div>
+      ${issueWarn}${openIssues.length ? `<div class="list">${openIssues.map(issueRow).join('')}</div>` : none}
+      ${doneIssues.length ? `<details class="card tight"><summary class="small">${L('Opgelost', 'Resolved')} (${doneIssues.length})</summary><div class="list" style="margin-top:10px">${doneIssues.map(issueRow).join('')}</div></details>` : ''}
       <div class="section-title"><h2>${L('Niet op voorraad', 'Out of stock')}</h2><span class="muted small">${flags.length}</span></div>
       ${flags.length ? `<div class="list">${flags.map(f => { const x = idx.variant[f.variantID]; return `<a class="row" href="#/p/${esc(x.p.id)}?v=${esc(x.v.id)}"><img class="thumb" src="${esc(x.v.image)}" alt=""><div class="grow"><div class="name">${esc(x.p.name)}</div><div class="sub">${esc(x.v.colorName)}${f.comment ? ' · ' + esc(f.comment) : ''}</div><div class="sub faint">${esc(f.author)} · ${esc(fmtTime(f.updatedAt))}</div></div>${chev}</a>`; }).join('')}</div>` : none}
       <div class="section-title"><h2>${L('Notities', 'Notes')}</h2><span class="muted small">${notes.length}</span></div>
@@ -579,8 +587,9 @@
   function downloadCSV() {
     const f = s => '"' + String(s ?? '').replace(/"/g, '""') + '"';
     const lines = [[L('Soort', 'Type'), L('Datum', 'Date'), L('Persoon', 'Person'), L('Onderwerp', 'Subject'), 'Details'].map(f).join(';')];
-    const { flags = [], notes = [], quiz = [] } = report.rows || {};
+    const { flags = [], notes = [], quiz = [], issues = [] } = report.rows || {};
     flags.forEach(x => { const v = idx.variant[x.variantID]; lines.push([L('Niet op voorraad', 'Out of stock'), x.updatedAt, x.author, v.p.name, [v.v.colorName, x.comment].filter(Boolean).join(' · ')].map(f).join(';')); });
+    issues.forEach(i => lines.push([L('Onjuistheid', 'Inaccuracy') + (i.resolved ? ' (' + L('opgelost', 'resolved') + ')' : ''), i.createdAt, i.author, idx.product[i.productID].name, [i.variantID && idx.variant[i.variantID]?.v.colorName, i.text].filter(Boolean).join(' · ')].map(f).join(';')));
     notes.forEach(n => lines.push([L('Notitie', 'Note'), n.createdAt, n.author, idx.product[n.productID].name, n.text].map(f).join(';')));
     quiz.forEach(r => lines.push(['Quiz', r.date, r.accountName, LT(Q.find(z => z.id === r.quizID)?.title) || r.quizID, `${r.score}/${r.total}`].map(f).join(';')));
     const blob = new Blob(['﻿' + lines.join('\n')], { type: 'text/csv;charset=utf-8' });
@@ -718,9 +727,38 @@
   document.addEventListener('click', e => {
     const b = e.target.closest('[data-act]'); if (!b || b.tagName === 'FORM' || b.tagName === 'SELECT') return;
     const act = b.dataset.act;
+    if (act === 'swatch') { e.preventDefault(); location.replace(b.getAttribute('href')); return; }
+    if (act === 'pmenu') {
+      const x = idx.variant[b.dataset.v]; const cn = esc(x.v.colorName); const out = S.isOut(x.v.id);
+      const opt = (a, ic, t, sub, cls = '') => `<button class="sheet-row ${cls}" data-act="${a}" data-v="${esc(x.v.id)}"><span class="sheet-ic">${IC(ic)}</span><span class="grow"><b>${t}</b><span>${sub}</span></span>${chev}</button>`;
+      openDialog(`<h3>${esc(x.p.name)}</h3><p class="small muted" style="margin:0 0 12px">${L('Kleur', 'Colour')}: ${cn}</p><div class="sheet">
+        ${opt('notedlg', 'pencil', L('Productnotitie', 'Product note'), L('Goed om te weten. Staat boven ‘Kort voor de klant’.', 'Good to know. Shown above ‘In short for the customer’.'))}
+        ${opt('issuedlg', 'alert', L('Onjuistheid melden', 'Report an inaccuracy'), L('Komt in het rapport voor de developer en bazen.', 'Goes to the report for the developer and bosses.'))}
+        ${opt('stock', 'flag', out ? L('Weer op voorraad', 'Back in stock') : L('Niet op voorraad', 'Out of stock'), out ? L(`${cn} is weer leverbaar`, `${cn} is available again`) : L(`Alleen voor de kleur ${cn}`, `Only for the colour ${cn}`), out ? '' : 'neg')}
+        </div><button class="btn ghost block" data-act="closedlg" style="margin-top:12px">${L('Annuleer', 'Cancel')}</button>`);
+      return;
+    }
+    if (act === 'notedlg') {
+      const x = idx.variant[b.dataset.v];
+      openDialog(`<form data-act="addnote" data-p="${esc(x.p.id)}" data-v="${esc(x.v.id)}"><h3>${L('Productnotitie', 'Product note')}</h3>
+        <p class="small muted">${L("Iets wat goed is om te weten over dit product. Collega's zien het boven ‘Kort voor de klant’.", 'Something good to know about this product. Colleagues see it above ‘In short for the customer’.')}</p>
+        <textarea name="t" required maxlength="1000" placeholder="${L('Bijv. demo-model staat bij de kassa', 'E.g. demo model is at the till')}"></textarea>
+        <label class="check"><input type="checkbox" name="only"> ${L('Alleen voor kleur', 'Only for colour')} ${esc(x.v.colorName)}</label>
+        <div class="dlg-btns"><button type="button" class="btn ghost" data-act="closedlg">${L('Annuleer', 'Cancel')}</button><button class="btn">${L('Opslaan', 'Save')}</button></div></form>`);
+      return;
+    }
+    if (act === 'issuedlg') {
+      const x = idx.variant[b.dataset.v];
+      openDialog(`<form data-act="addissue" data-p="${esc(x.p.id)}" data-v="${esc(x.v.id)}"><h3>${L('Onjuistheid melden', 'Report an inaccuracy')}</h3>
+        <p class="small muted">${L('Wat klopt er niet? Dit komt in het rapport voor de developer en de bazen.', 'What is wrong? This goes to the report for the developer and the bosses.')}</p>
+        <textarea name="t" required maxlength="1000" placeholder="${L('Bijv. de inhoud is 5,3 liter, niet 6,7', 'E.g. the capacity is 5.3 litres, not 6.7')}"></textarea>
+        <div class="dlg-btns" style="margin-top:12px"><button type="button" class="btn ghost" data-act="closedlg">${L('Annuleer', 'Cancel')}</button><button class="btn">${L('Meld', 'Report')}</button></div></form>`);
+      return;
+    }
+    if (act === 'resolve') { S.setIssueResolved(b.dataset.id, b.dataset.r === '1'); return; }
     if (act === 'stock') {
       const x = idx.variant[b.dataset.v]; const cn = x.v.colorName;
-      if (S.isOut(x.v.id)) { S.setOut(x.p.id, x.v.id, false); toast(L(`${cn} weer op voorraad`, `${cn} back in stock`)); }
+      if (S.isOut(x.v.id)) { S.setOut(x.p.id, x.v.id, false); closeDialog(); toast(L(`${cn} weer op voorraad`, `${cn} back in stock`)); }
       else openDialog(`<form data-act="report-out" data-p="${esc(x.p.id)}" data-v="${esc(x.v.id)}"><h3>${L(`${esc(cn)} niet op voorraad?`, `${esc(cn)} out of stock?`)}</h3>
         <p class="small muted">${L("Collega's zien dit direct bij het product.", 'Colleagues see this straight away on the product.')}</p>
         <input class="field" name="c" placeholder="${L('Toelichting (optioneel)', 'Comment (optional)')}" maxlength="200" style="margin-bottom:12px">
@@ -771,7 +809,10 @@
     const act = f.dataset.act;
     if (act === 'addnote') {
       const t = f.t.value.trim(); if (!t) return;
-      S.addNote(f.dataset.p, f.only.checked ? f.dataset.v : null, t); f.t.value = ''; f.t.blur(); toast(L('Notitie opgeslagen', 'Note saved')); route();
+      S.addNote(f.dataset.p, f.only.checked ? f.dataset.v : null, t); f.t.value = ''; f.t.blur(); closeDialog(); toast(L('Notitie opgeslagen', 'Note saved')); route();
+    } else if (act === 'addissue') {
+      const t = f.t.value.trim(); if (!t) return;
+      S.addIssue(f.dataset.p, f.dataset.v, t); f.t.blur(); closeDialog(); toast(L('Gemeld. Dank je!', 'Reported. Thank you!')); route();
     } else if (act === 'report-out') {
       S.setOut(f.dataset.p, f.dataset.v, true, f.c.value.trim()); closeDialog(); route();
       toast(L(`${idx.variant[f.dataset.v].v.colorName} gemeld als niet op voorraad`, `${idx.variant[f.dataset.v].v.colorName} reported out of stock`));

@@ -83,7 +83,7 @@ details[open].card summary::after{content:"–"}
 .mm{border-left:3px solid var(--accent);padding-left:14px;margin:12px 0}
 .mm .t{font-weight:600}
 .mm .b{font-size:14px;color:var(--muted);margin-top:4px;line-height:1.4}
-textarea,input.field{width:100%;background:var(--raised);border:1px solid var(--stroke);border-radius:16px;color:var(--text);font:inherit;font-size:16px;padding:12px 14px;outline:none}
+textarea,input.field,select.field{width:100%;background:var(--raised);border:1px solid var(--stroke);border-radius:16px;color:var(--text);font:inherit;font-size:16px;padding:12px 14px;outline:none}
 textarea{min-height:84px;resize:vertical}
 textarea:focus,input.field:focus{border-color:var(--accent)}
 .note{padding:12px 0;border-top:1px solid var(--stroke)}
@@ -513,3 +513,27 @@ details.card summary{font-family:var(--sans);font-weight:600}
   :root[data-theme=system] .back{background:var(--card)}}
 .tile .icon{width:48px;height:48px}
 .tile .icon .ic{width:24px;height:24px}
+
+/* product page: action button on the photo, out-of-stock line, "good to know" notes, choice sheet */
+.photo .flag{right:auto;left:14px}
+.photo-act{position:absolute;top:12px;right:12px;width:46px;height:46px;border-radius:50%;background:#111;color:#fff;display:grid;place-items:center;box-shadow:0 4px 14px rgba(0,0,0,.25)}
+.photo-act .ic{width:24px;height:24px;stroke-width:2.2}
+.outline{margin-top:16px;padding:14px;border-radius:18px;background:rgba(255,90,79,.12);border:1px solid rgba(255,90,79,.35)}
+.outline-t{display:flex;align-items:center;gap:8px;font-weight:600;color:var(--neg);margin-bottom:4px}
+.outline-t .ic{width:18px;height:18px}
+.small-btn{height:40px;font-size:14px;margin-top:10px;padding:0 16px}
+.card.good{border-color:rgba(246,195,28,.45);background:linear-gradient(180deg,rgba(246,195,28,.10),rgba(246,195,28,0) 60%),var(--card)}
+.card.good h3{display:flex;align-items:center;gap:8px;margin-bottom:4px}
+.card.good h3 .ic{width:20px;height:20px;color:var(--accent-text)}
+.sheet{display:flex;flex-direction:column;gap:8px}
+.sheet-row{display:flex;align-items:center;gap:14px;width:100%;text-align:left;background:var(--raised);border-radius:18px;padding:12px 14px}
+.sheet-row .grow{flex:1;display:flex;flex-direction:column;gap:2px;min-width:0}
+.sheet-row .grow span{font-size:13px;color:var(--muted);line-height:1.3}
+.sheet-ic{width:42px;height:42px;border-radius:50%;background:var(--card);display:grid;place-items:center;flex:none;color:var(--accent-text)}
+.sheet-row.neg .sheet-ic{color:var(--neg)}
+.dlg-card h3{font-size:20px}
+.dlg-card textarea{margin:6px 0 4px}
+.row.issue{align-items:flex-start}
+.row.issue .pill{flex:none;align-self:center}
+.row.issue.done{opacity:.65}
+.card.tight .ic{display:inline-block;width:16px;height:16px;vertical-align:-3px}

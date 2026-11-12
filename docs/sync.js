@@ -2,9 +2,10 @@
    - Notes and out-of-stock flags: local-first (saved on the phone, works offline), synced to Supabase when online.
    - Accounts: kept in Supabase (shared by every phone). PINs are checked by the database, never stored here.
      A login gives a session token; with "stay logged in" it is remembered on this phone.
+   - Inaccuracy reports (table issues): like notes, but only shown in the report for managers.
    - Quiz scores: saved through the database; finished quizzes wait in a queue while offline. */
 (function () {
-  const K = { notes: 'oh.notes', flags: 'oh.flags', queue: 'oh.queue', since: 'oh.since', user: 'oh.user', team: 'oh.team',
+  const K = { notes: 'oh.notes', issues: 'oh.issues', flags: 'oh.flags', queue: 'oh.queue', since: 'oh.since', user: 'oh.user', team: 'oh.team',
               session: 'oh.session', accounts: 'oh.accounts', quizq: 'oh.quizq', quiz: 'oh.quizres' };
   const store = (s => { try { s.setItem('oh.t', '1'); s.removeItem('oh.t'); return s; } catch { return null; } });
   const LS = store(window.localStorage), SS = store(window.sessionStorage);
@@ -15,6 +16,7 @@
   const listeners = new Set();
   let notes = read(K.notes, {});      // id -> note
   let flags = read(K.flags, {});      // variantID -> flag
+  let issues = read(K.issues, {});    // id -> inaccuracy report
   let queue = read(K.queue, []);      // [{table,row}]
   let quizQueue = read(K.quizq, []);  // finished quizzes not sent yet
   let quizResults = read(K.quiz, []); // last known results (own, or all for managers)
@@ -25,7 +27,7 @@
   const uid = () => (crypto.randomUUID ? crypto.randomUUID() :
     'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, c => { const r = Math.random() * 16 | 0; return (c === 'x' ? r : (r & 3 | 8)).toString(16); }));
   const now = () => new Date().toISOString();
-  const save = () => { write(K.notes, notes); write(K.flags, flags); write(K.queue, queue); write(K.quizq, quizQueue); write(K.quiz, quizResults); };
+  const save = () => { write(K.notes, notes); write(K.issues, issues); write(K.flags, flags); write(K.queue, queue); write(K.quizq, quizQueue); write(K.quiz, quizResults); };
   const emit = () => listeners.forEach(f => { try { f(); } catch (e) { console.error(e); } });
 
   const toRow = {
@@ -34,11 +36,15 @@
     stock_flags: f => ({ variant_id: f.variantID, product_id: f.productID, out_of_stock: f.out, author: f.author, account_id: f.accountID || null,
                          comment: f.comment || null, updated_at: f.updatedAt })
   };
+  toRow.issues = i => ({ id: i.id, product_id: i.productID, variant_id: i.variantID, text: i.text, author: i.author, account_id: i.accountID || null,
+                         created_at: i.createdAt, updated_at: i.updatedAt, resolved: !!i.resolved, resolved_by: i.resolvedBy || null, deleted: !!i.deleted });
   const fromRow = {
     notes: r => ({ id: r.id, productID: r.product_id, variantID: r.variant_id, text: r.text, author: r.author, accountID: r.account_id,
                    createdAt: r.created_at, updatedAt: r.updated_at, deleted: r.deleted }),
     stock_flags: r => ({ variantID: r.variant_id, productID: r.product_id, out: r.out_of_stock, author: r.author, accountID: r.account_id,
-                         comment: r.comment, updatedAt: r.updated_at })
+                         comment: r.comment, updatedAt: r.updated_at }),
+    issues: r => ({ id: r.id, productID: r.product_id, variantID: r.variant_id, text: r.text, author: r.author, accountID: r.account_id,
+                    createdAt: r.created_at, updatedAt: r.updated_at, resolved: r.resolved, resolvedBy: r.resolved_by, deleted: r.deleted })
   };
 
   const teamCode = () => cfg.teamCode || read(K.team, '');
@@ -61,20 +67,25 @@
     if (res.ok) state.verified = true;
   }
   async function push() {
-    while (queue.length) {
-      const batch = queue.slice(0, 50);
-      const byTable = {};
-      batch.forEach(op => (byTable[op.table] = byTable[op.table] || []).push(op.row));
-      for (const t of Object.keys(byTable)) {
-        // one row per key: the last change wins
-        const key = t === 'notes' ? 'id' : 'variant_id';
-        const rows = Object.values(Object.fromEntries(byTable[t].map(r => [r[key], r])));
-        const res = await fetch(`${cfg.supabaseURL}/rest/v1/${t}`, { method: 'POST',
-          headers: headers({ Prefer: 'resolution=merge-duplicates,return=minimal' }), body: JSON.stringify(rows) });
-        if (!res.ok) throw new Error(`Opslaan mislukt (${res.status})`);
-      }
-      queue = queue.slice(batch.length); save();
+    // Each table is sent on its own: if one fails (e.g. a table that is not set up yet), its changes stay
+    // in the queue for the next try and the other tables still go through.
+    const failed = new Set(); let firstError = null;
+    for (const t of [...new Set(queue.map(op => op.table))]) {
+      const ops = queue.filter(op => op.table === t);
+      const key = t === 'stock_flags' ? 'variant_id' : 'id';
+      // one row per key: the last change wins
+      const rows = Object.values(Object.fromEntries(ops.map(op => [op.row[key], op.row])));
+      try {
+        for (let i = 0; i < rows.length; i += 50) {
+          const res = await fetch(`${cfg.supabaseURL}/rest/v1/${t}`, { method: 'POST',
+            headers: headers({ Prefer: 'resolution=merge-duplicates,return=minimal' }), body: JSON.stringify(rows.slice(i, i + 50)) });
+          if (!res.ok) throw new Error(t === 'issues' && res.status === 404 ? 'issues-setup' : `Opslaan mislukt (${res.status})`);
+        }
+      } catch (e) { failed.add(t); firstError = firstError || e; }
     }
+    queue = queue.filter(op => failed.has(op.table)); save();
+    if (firstError && firstError.message !== 'issues-setup') throw firstError;
+    state.issuesSetup = !failed.has('issues');
     while (quizQueue.length && session) {
       const q = quizQueue[0];
       const r = await rpc('add_quiz_result', { p_token: session.token, p_id: q.id, p_quiz_id: q.quizID, p_score: q.score, p_total: q.total, p_at: q.date });
@@ -86,12 +97,15 @@
     // Always fetch the full (small) tables: a note written offline keeps its original time,
     // so an "only newer than my last sync" filter could skip it.
     const started = now();
-    for (const t of ['notes', 'stock_flags']) {
+    for (const t of ['notes', 'stock_flags', 'issues']) {
       const res = await fetch(`${cfg.supabaseURL}/rest/v1/${t}?select=*&order=updated_at.asc&limit=5000`, { headers: headers() });
+      if (t === 'issues' && !res.ok) { state.issuesSetup = false; continue; }   // table not made yet: keep the local reports
       if (!res.ok) throw new Error(`Ophalen mislukt (${res.status})`);
+      if (t === 'issues') state.issuesSetup = true;
       for (const r of await res.json()) {
         const x = fromRow[t](r);
         if (t === 'notes') { if (!notes[x.id] || notes[x.id].updatedAt <= x.updatedAt) notes[x.id] = x; }
+        else if (t === 'issues') { if (!issues[x.id] || issues[x.id].updatedAt <= x.updatedAt) issues[x.id] = x; }
         else if (!flags[x.variantID] || flags[x.variantID].updatedAt <= x.updatedAt) flags[x.variantID] = x;
       }
     }
@@ -201,6 +215,19 @@
     deleteNote(id) {
       const n = notes[id]; if (!n) return;
       n.deleted = true; n.updatedAt = now(); save(); enqueue('notes', toRow.notes(n));
+    },
+
+    // inaccuracy reports (shown in the report for the developer and bosses)
+    allIssues() { return Object.values(issues).filter(i => !i.deleted).sort((a, b) => b.createdAt.localeCompare(a.createdAt)); },
+    addIssue(productID, variantID, text) {
+      const t = now(), m = me();
+      const i = { id: uid(), productID, variantID: variantID || null, text, author: this.user || 'Onbekend', accountID: m ? m.id : null,
+                  createdAt: t, updatedAt: t, resolved: false, resolvedBy: null, deleted: false };
+      issues[i.id] = i; save(); enqueue('issues', toRow.issues(i)); return i;
+    },
+    setIssueResolved(id, resolved) {
+      const i = issues[id]; if (!i) return;
+      i.resolved = !!resolved; i.resolvedBy = resolved ? (this.user || null) : null; i.updatedAt = now(); save(); enqueue('issues', toRow.issues(i));
     },
 
     // out-of-stock flags
