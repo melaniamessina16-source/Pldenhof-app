@@ -25,26 +25,27 @@
   const fmtDate = iso => { try { return new Date(iso).toLocaleDateString(LOC(), { day: 'numeric', month: 'short', year: 'numeric' }); } catch { return iso; } };
   const fmtTime = iso => { try { return new Date(iso).toLocaleString(LOC(), { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }); } catch { return iso; } };
   const PALETTE = ['#D99E1A', '#29879E', '#B34033', '#4D73D9', '#40995A', '#9E529E'];
-  const EMOJI = { pannen: '🍳', koffie: '☕', messen: '🔪', 'klein-elektrisch': '🔌', fornuis: '🔥', 'koffie-espresso': '☕', 'kassa-groepen': '🧾',
-                  producten: '📦', plaatstaal: '🔥', roestvrijstaal: '✨', gietijzer: '🫕', 'aluminium-antiaanbak': '🥚',
-                  volautomaat: '🤖', halfautomaat: '🧑‍🍳', filterkoffie: '🫖' };
-  // pictures for booklet topics and their parts: decoration only, picked from words in the title
-  const PICS = [[/verkoop|aandachtspunt/, '💬'], [/onderhoud|schoonma|vliegroest|waas/, '🧽'], [/aanzet|slijp/, '🪨'], [/anatomie|heft|lemmet|krop|snede/, '🔪'],
-    [/aziat/, '🍣'], [/europe/, '🥖'], [/mes/, '🔪'], [/mandoline/, '🥒'], [/snijplank|hout|kunststof|gerecycled/, '🪵'], [/snijmachine|berkel|ritter/, '🥓'],
-    [/inductie/, '🧲'], [/gas/, '🔥'], [/elektrisch koken|keramisch koken/, '♨️'], [/warmtebron/, '🔥'], [/antiaanbak/, '🥚'], [/aluminium/, '🥚'],
-    [/plaatstaal/, '⚫'], [/roestvrij/, '✨'], [/gietijzer/, '🫕'], [/materia/, '🧱'], [/poffertje|pannenkoek/, '🥞'], [/paella/, '🥘'], [/vis/, '🐟'],
-    [/grill|plancha|tosti|wafel/, '🥪'], [/wok|wadjan/, '🥡'], [/soep|kookpan|pasta|stoom|asperge|mossel|snelkook|cataplana|sappan|jam/, '🍲'],
-    [/frituur/, '🍟'], [/saus|steel|melk|bain-marie|fondue/, '🥛'], [/braad|faitout|tajine/, '🍖'], [/downdraft|special/, '⭐'], [/koekenpan|bakpan|hapjes|pannen/, '🍳'],
-    [/broodroost/, '🍞'], [/broodbak/, '🥖'], [/foodprocessor|magimix|accessoire/, '🥕'], [/waterkoker|teamaker/, '🫖'], [/standmixer|kitchenaid|bakery|ankarsrum/, '🎂'],
-    [/handmixer|mixer|bamix/, '🥣'], [/slowcook|multicook/, '🍲'], [/droog/, '🍎'], [/blender/, '🥤'], [/juicer|citrus|sapcentrifuge/, '🍊'], [/ijs/, '🍨'],
-    [/sous-vide|vacu/, '🌡️'], [/kamado|bastard|green egg|bbq|merken vergelijken/, '🔥'], [/volautoma/, '🤖'], [/halfautoma/, '🧑‍🍳'], [/koffiemolen/, '⚙️'],
-    [/koffie/, '☕'], [/kassa|productgroep/, '🧾'], [/belangrijk/, '❗'], [/algemeen/, '📋'], [/specifiek/, '🎯']];
+  const IC = (n, cls) => window.Icons.svg(n, cls);
+  const GROUP_ICON = { pannen: 'pan', koffie: 'coffee', messen: 'knife', 'klein-elektrisch': 'plug', fornuis: 'flame', 'koffie-espresso': 'coffee', 'kassa-groepen': 'receipt',
+                  producten: 'box', plaatstaal: 'disc', roestvrijstaal: 'sparkle', gietijzer: 'casserole', 'aluminium-antiaanbak': 'egg',
+                  volautomaat: 'robot', halfautomaat: 'hand', filterkoffie: 'kettle' };
+  // icons for booklet topics and their parts: decoration only, picked from words in the title
+  const PICS = [[/verkoop|aandachtspunt/, 'chat'], [/onderhoud|schoonma|vliegroest|waas/, 'sponge'], [/aanzet|slijp/, 'stone'], [/anatomie|heft|lemmet|krop|snede/, 'knife'],
+    [/aziat|europe|mes/, 'knife'], [/mandoline/, 'leaf'], [/snijplank|hout|kunststof|gerecycled/, 'board'], [/snijmachine|berkel|ritter/, 'slicer'],
+    [/inductie/, 'magnet'], [/gas/, 'flame'], [/elektrisch koken|keramisch koken/, 'heat'], [/warmtebron/, 'flame'], [/antiaanbak|aluminium/, 'egg'],
+    [/plaatstaal/, 'disc'], [/roestvrij/, 'sparkle'], [/gietijzer/, 'casserole'], [/materia/, 'layers'], [/poffertje|pannenkoek/, 'pancake'], [/paella/, 'pan'], [/vis/, 'fish'],
+    [/grill|plancha|tosti|wafel/, 'grill'], [/wok|wadjan/, 'wok'], [/soep|kookpan|pasta|stoom|asperge|mossel|snelkook|cataplana|sappan|jam/, 'pot'],
+    [/frituur/, 'fryer'], [/saus|steel|melk|bain-marie|fondue/, 'saucepan'], [/braad|faitout|tajine/, 'casserole'], [/downdraft|special/, 'star'], [/koekenpan|bakpan|hapjes|pannen/, 'pan'],
+    [/broodroost/, 'toaster'], [/broodbak/, 'bread'], [/foodprocessor|magimix|accessoire/, 'leaf'], [/waterkoker|teamaker/, 'kettle'], [/standmixer|kitchenaid|bakery|ankarsrum/, 'mixer'],
+    [/handmixer|mixer|bamix/, 'whisk'], [/slowcook|multicook/, 'timer'], [/droog/, 'apple'], [/blender/, 'blender'], [/juicer|citrus|sapcentrifuge/, 'citrus'], [/ijs/, 'icecream'],
+    [/sous-vide|vacu/, 'thermo'], [/kamado|bastard|green egg|bbq|merken vergelijken/, 'flame'], [/volautoma/, 'robot'], [/halfautoma/, 'hand'], [/koffiemolen/, 'grinder'],
+    [/koffie/, 'coffee'], [/kassa|productgroep/, 'receipt'], [/belangrijk/, 'alert'], [/algemeen/, 'list'], [/specifiek/, 'target']];
   const picFor = text => { const t = String(text || '').toLowerCase(); const m = PICS.find(([re]) => re.test(t)); return m ? m[1] : null; };
-  const picIcon = (nlText, i) => { const c = PALETTE[i % PALETTE.length]; const p = picFor(nlText);
-    return `<span class="icon" style="background:${c}33;color:${c}">${p || `<b class="num">${i + 1}</b>`}</span>`; };
-  const icon = (id, i) => `<span class="icon" style="background:${PALETTE[i % PALETTE.length]}33;color:${PALETTE[i % PALETTE.length]}">${EMOJI[id] || '•'}</span>`;
+  const picIcon = (nlText, i) => { const p = picFor(nlText);
+    return `<span class="icon">${p ? IC(p) : `<b class="num">${i + 1}</b>`}</span>`; };
+  const icon = (id, i) => { const c = PALETTE[i % PALETTE.length]; return `<span class="icon tint" style="--tint:${c}">${IC(GROUP_ICON[id] || 'grid')}</span>`; };
   const chev = '<span class="chev" aria-hidden="true"></span>';
-  const backBtn = () => `<button class="back" onclick="history.length>1?history.back():location.hash='#/'" aria-label="${L('Terug', 'Back')}"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>`;
+  const backBtn = () => `<button class="back" onclick="history.length>1?history.back():location.hash='#/'" aria-label="${L('Terug', 'Back')}">${IC('back')}</button>`;
   const top = title => `<div class="top">${backBtn()}<div class="title">${esc(title || '')}</div></div>`;
   const ROLE = { employee: () => L('Medewerker', 'Employee'), boss: () => L('Baas', 'Boss'), developer: () => 'Developer' };
   const roleName = r => (ROLE[r] || ROLE.employee)();
@@ -144,7 +145,7 @@
     const list = S.outList().map(f => ({ f, x: idx.variant[f.variantID] })).filter(o => o.x);
     return list.length ? `<div class="list">${list.map(({ f, x }) => `<a class="row" href="#/p/${esc(x.p.id)}?v=${esc(x.v.id)}"><img class="thumb" src="${esc(x.v.image)}" alt="">
         <div class="grow"><div class="name">${esc(x.p.name)}</div><div class="sub">${esc(x.v.colorName)}${f.comment ? ' · ' + esc(f.comment) : ''}</div>
-        <div class="sub faint">${esc(f.author)} · ${esc(fmtTime(f.updatedAt))}</div></div><span class="flagdot">⚑</span></a>`).join('')}</div>` : '';
+        <div class="sub faint">${esc(f.author)} · ${esc(fmtTime(f.updatedAt))}</div></div><span class="flagdot">${IC('flag')}</span></a>`).join('')}</div>` : '';
   }
   function outOfStockSection() {
     const n = S.outList().filter(f => idx.variant[f.variantID]).length;
@@ -268,19 +269,19 @@
     return `<div class="menu-backdrop" data-act="closemenu"></div><nav class="menu-panel" aria-label="Menu">
       <div class="menu-head">${avatar(a, 54)}<div><div class="name">${esc(a?.name)}</div><div style="margin-top:4px">${rankBadge(a?.role)}</div></div></div>
       <div class="menu-rows">
-        <a class="mrow" href="#/check"><i>⚠︎</i><span>${L('Controle', 'Check')}</span>${n ? `<b class="badge">${n}</b>` : ''}</a>
-        <a class="mrow" href="#/notities"><i>✎</i><span>${L('Notities', 'Notes')}</span></a>
-        <a class="mrow" href="#/voorraad"><i>⚑</i><span>${L('Niet op voorraad', 'Out of stock')}</span>${outs ? `<b class="badge">${outs}</b>` : ''}</a>
-        ${isManager() ? `<a class="mrow" href="#/rapport"><i>▤</i><span>${L('Rapport', 'Report')}</span></a>
-        <a class="mrow" href="#/accounts"><i>☺</i><span>${L('Accounts', 'Accounts')}</span></a>` : ''}
+        <a class="mrow" href="#/check"><i>${IC('alert')}</i><span>${L('Controle', 'Check')}</span>${n ? `<b class="badge">${n}</b>` : ''}</a>
+        <a class="mrow" href="#/notities"><i>${IC('pencil')}</i><span>${L('Notities', 'Notes')}</span></a>
+        <a class="mrow" href="#/voorraad"><i>${IC('flag')}</i><span>${L('Niet op voorraad', 'Out of stock')}</span>${outs ? `<b class="badge">${outs}</b>` : ''}</a>
+        ${isManager() ? `<a class="mrow" href="#/rapport"><i>${IC('report')}</i><span>${L('Rapport', 'Report')}</span></a>
+        <a class="mrow" href="#/accounts"><i>${IC('users')}</i><span>${L('Accounts', 'Accounts')}</span></a>` : ''}
       </div>
       <div class="small muted mlabel">${L('Weergave', 'Appearance')}</div>
       <div class="seg">${[['system', L('Systeem', 'System')], ['light', L('Licht', 'Light')], ['dark', L('Donker', 'Dark')]].map(([k, t]) => `<button class="${THEME === k ? 'on' : ''}" data-act="theme" data-t="${k}">${t}</button>`).join('')}</div>
       <div class="small muted mlabel">${L('Taal', 'Language')}</div>
       <div class="seg"><button class="${LANG === 'nl' ? 'on' : ''}" data-act="lang" data-l="nl">Nederlands</button><button class="${LANG === 'en' ? 'on' : ''}" data-act="lang" data-l="en">English</button></div>
       <div class="menu-rows">
-        <a class="mrow" href="#/over"><i>ⓘ</i><span>${L('Over de app', 'About')}</span></a>
-        <button class="mrow neg" data-act="logout"><i>⎋</i><span>${L('Uitloggen', 'Log out')}</span></button>
+        <a class="mrow" href="#/over"><i>${IC('info')}</i><span>${L('Over de app', 'About')}</span></a>
+        <button class="mrow neg" data-act="logout"><i>${IC('logout')}</i><span>${L('Uitloggen', 'Log out')}</span></button>
       </div></nav>`;
   }
   function openMenu() { const m = document.getElementById('menu'); m.innerHTML = menuHTML(); m.classList.add('open'); }
@@ -298,19 +299,24 @@
     const h = new Date().getHours();
     const greet = h >= 5 && h < 12 ? L('Goedemorgen', 'Good morning') : h >= 12 && h < 18 ? L('Goedemiddag', 'Good afternoon') : L('Goedenavond', 'Good evening');
     const first = a ? String(a.name).split(' ')[0] : '';
-    return `<div class="homebar"><button class="iconbtn" data-act="menu" aria-label="Menu"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg>${n ? '<i class="dot"></i>' : ''}</button>
-        <div style="flex:1"></div>${langSwitch()}<button class="avbtn" data-act="menu" aria-label="${esc(a?.name || 'Menu')}">${avatar(a, 40)}</button></div>
-      <div class="hero"><h1>${esc(greet)}${first ? ', ' + esc(first) : ''}</h1>
-        <p class="lead"><b>${L('Wat wil de klant', 'What does the customer')}</b> <span class="muted">${L('vandaag weten?', 'want to know today?')}</span></p></div>
-      <a class="search" href="#/zoek"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><span class="faint">${L('Zoek op naam, merk of barcode', 'Search by name, brand or barcode')}</span></a>
+    const action = (href, ic, label) => `<a class="action" href="${href}"><span class="action-ic">${IC(ic)}</span><span>${label}</span></a>`;
+    return `<section class="hero-card">
+        <div class="homebar"><button class="avbtn" data-act="menu" aria-label="${esc(a?.name || 'Menu')}">${avatar(a, 48)}</button>
+          <div class="who"><div class="who-greet">${esc(greet)}</div><div class="who-name">${esc(first || 'Oldenhof')}</div></div>
+          <button class="iconbtn lang-btn" data-act="lang" data-l="${LANG === 'nl' ? 'en' : 'nl'}" aria-label="${L('Switch to English', 'Naar Nederlands')}">${LANG === 'nl' ? 'EN' : 'NL'}</button>
+          <button class="iconbtn" data-act="menu" aria-label="Menu">${IC('menu')}${n ? '<i class="dot"></i>' : ''}</button></div>
+        <h1 class="hero-q">${L('Wat wil de klant vandaag weten?', 'What does the customer want to know today?')}</h1>
+        <a class="search" href="#/zoek">${IC('search')}<span class="faint">${L('Zoek op naam, merk of barcode', 'Search by name, brand or barcode')}</span></a>
+        <div class="actions">${action('#/scan', 'scan', L('Scannen', 'Scan'))}${action('#/zoek', 'search', L('Zoeken', 'Search'))}${action('#/quiz', 'quiz', 'Quiz')}${action('#/notities', 'pencil', L('Notities', 'Notes'))}</div>
+      </section>
       ${S.state.error ? `<div class="card tight small"><span class="status-dot off"></span>${esc(syncLabel())}</div>` : ''}
       ${outOfStockSection()}
       <h2>${L('Afdelingen', 'Departments')}</h2>
       <div class="tiles">${B.groups.map((g, i) => {
         const np = g.categoryID ? productsOfCat(g.categoryID).length : 0;
-        return `<a class="tile" href="#/g/${esc(g.id)}">${icon(g.id, i)}<div><div class="label">${esc(LT(g.title))}</div><div class="count">${np ? `${np} ${L('producten', 'products')} · ` : ''}${g.topics.length} ${g.topics.length > 1 ? L('onderwerpen', 'topics') : L('onderwerp', 'topic')}</div></div></a>`; }).join('')}</div>
+        return `<a class="tile" href="#/g/${esc(g.id)}"><div class="tile-top">${icon(g.id, i)}<span class="tile-arrow">${IC('arrow')}</span></div><div><div class="label">${esc(LT(g.title))}</div><div class="count">${np ? `${np} ${L('producten', 'products')} · ` : ''}${g.topics.length} ${g.topics.length > 1 ? L('onderwerpen', 'topics') : L('onderwerp', 'topic')}</div></div></a>`; }).join('')}</div>
       <div class="section-title"><h2>${L('Alle producten', 'All products')}</h2><a href="#/zoek">${L('Zoeken', 'Search')} →</a></div>
-      <div class="shelf">${C.products.map(p => `<a class="shelf-item" href="#/p/${esc(p.id)}"><div class="shelf-img"><img loading="lazy" src="${esc(productImg(p))}" alt="">${outCount(p) ? '<span class="flagdot corner">⚑</span>' : ''}</div><div class="small">${esc(p.name)}</div></a>`).join('')}</div>
+      <div class="shelf">${C.products.map(p => `<a class="shelf-item" href="#/p/${esc(p.id)}"><div class="shelf-img"><img loading="lazy" src="${esc(productImg(p))}" alt="">${outCount(p) ? `<span class="flagdot corner">${IC('flag')}</span>` : ''}</div><div class="small">${esc(p.name)}</div></a>`).join('')}</div>
       <p class="faint small" style="text-align:center;margin-top:24px">${L('Werkt zonder internet · Productinformatie van kookwinkel.nl en het informatieboekje', 'Works offline · Product information from kookwinkel.nl and the information booklet')} · ${esc(fmtDate(C.generatedOn))}</p>`;
   };
 
@@ -441,7 +447,7 @@
     const out = S.isOut(v.id); const fl = S.flag(v.id);
     return `${top(brand?.name)}
       <div class="photo"><img src="${esc(v.image)}" alt="${esc(p.name + ' ' + v.colorName)}">
-        ${out ? `<span class="pill neg flag">⚑ ${L('Niet op voorraad', 'Out of stock')}</span>` : ''}</div>
+        ${out ? `<span class="pill neg flag">${IC('flag')} ${L('Niet op voorraad', 'Out of stock')}</span>` : ''}</div>
       <div class="hero" style="margin-top:0"><div class="eyebrow">${p.typeIDs.map(t => esc(idx.type[t]?.name || t)).join(' · ')}</div>
         <h1>${esc(p.name)}</h1>${p.suitedFor ? `<p class="muted">${esc(p.suitedFor.text)}</p>` : ''}</div>
       ${p.variants.length > 1 ? `<div class="card tight"><div class="small muted">${L('Kleur', 'Colour')}: <b style="color:var(--text)">${esc(v.colorName)}</b></div>
@@ -520,7 +526,7 @@
     return `<div class="hero"><h1>Quiz</h1><p class="muted">${L('Test wat je weet. Alle vragen komen uit het informatieboekje en de producten in de app.', 'Test what you know. Every question comes from the information booklet and the products in the app.')}</p></div>
       ${Q.map((z, i) => { const best = Math.max(-1, ...mine.filter(r => r.quizID === z.id).map(r => r.score));
         return `<a class="card quiz-card" href="#/quiz/${esc(z.id)}">${icon(z.id, i)}<div class="grow"><div class="name">${esc(LT(z.title))}</div>
-          <div class="sub muted">${best >= 0 ? L(`Beste score: ${best}/${z.questions.length}`, `Best score: ${best}/${z.questions.length}`) : L(`${z.questions.length} vragen`, `${z.questions.length} questions`)}</div></div><span class="play">▶</span></a>`; }).join('')}
+          <div class="sub muted">${best >= 0 ? L(`Beste score: ${best}/${z.questions.length}`, `Best score: ${best}/${z.questions.length}`) : L(`${z.questions.length} vragen`, `${z.questions.length} questions`)}</div></div><span class="play">${IC('play')}</span></a>`; }).join('')}
       ${mine.length ? `<h2>${L('Mijn resultaten', 'My results')}</h2><div class="list">${mine.slice(0, 10).map(r => `<div class="row"><div class="grow"><div class="name">${esc(LT(Q.find(z => z.id === r.quizID)?.title) || r.quizID)}</div><div class="sub">${esc(fmtTime(r.date))}</div></div><b class="score">${r.score}/${r.total}</b></div>`).join('')}</div>` : ''}`;
   };
   views.quizRun = ([id]) => {
@@ -528,7 +534,7 @@
     if (!run || run.quiz !== z) run = { quiz: z, i: 0, chosen: null, score: 0, done: false };
     if (run.done) {
       const s = run.score, n = z.questions.length;
-      return `${top(LT(z.title))}<div class="card center"><div class="big">${s >= 8 ? '🏆' : s >= 5 ? '⭐' : '📖'}</div><h1>${s}/${n}</h1>
+      return `${top(LT(z.title))}<div class="card center"><div class="big">${IC(s >= 8 ? 'trophy' : s >= 5 ? 'star' : 'book')}</div><h1>${s}/${n}</h1>
         <p class="muted">${s >= 8 ? L('Top! Jij kent je producten.', 'Great! You know your products.') : s >= 5 ? L('Goed bezig. Lees de theorie nog eens door.', 'Good going. Read the theory again.') : L('Lees de theorie in de afdeling en probeer het opnieuw.', 'Read the theory in the department and try again.')}</p>
         <button class="btn block" data-act="quizagain">${L('Opnieuw', 'Try again')}</button><a class="btn ghost block" style="margin-top:10px" href="#/quiz">${L('Terug naar quizzen', 'Back to quizzes')}</a></div>`;
     }
@@ -564,7 +570,7 @@
       <div class="seg">${[['week', L('7 dagen', '7 days')], ['month', L('30 dagen', '30 days')], ['all', L('Alles', 'All')]].map(([k, t]) => `<a class="${period === k ? 'on' : ''}" href="${link('periode', k)}">${t}</a>`).join('')}</div>
       <div class="filters"><select class="field" data-act="filter" data-k="persoon"><option value="">${L('Iedereen', 'Everyone')}</option>${people.map(p => `<option ${p === person ? 'selected' : ''}>${esc(p)}</option>`).join('')}</select>
         <select class="field" data-act="filter" data-k="afdeling"><option value="">${L('Alle afdelingen', 'All departments')}</option>${B.groups.map(g => `<option value="${esc(g.id)}" ${g.id === dept ? 'selected' : ''}>${esc(LT(g.title))}</option>`).join('')}</select></div>
-      <button class="btn ghost block" data-act="csv" style="margin-bottom:6px">⇩ ${L('Download als CSV (Excel)', 'Download as CSV (Excel)')}</button>
+      <button class="btn ghost block" data-act="csv" style="margin-bottom:6px">${IC('download')} ${L('Download als CSV (Excel)', 'Download as CSV (Excel)')}</button>
       <div class="section-title"><h2>${L('Niet op voorraad', 'Out of stock')}</h2><span class="muted small">${flags.length}</span></div>
       ${flags.length ? `<div class="list">${flags.map(f => { const x = idx.variant[f.variantID]; return `<a class="row" href="#/p/${esc(x.p.id)}?v=${esc(x.v.id)}"><img class="thumb" src="${esc(x.v.image)}" alt=""><div class="grow"><div class="name">${esc(x.p.name)}</div><div class="sub">${esc(x.v.colorName)}${f.comment ? ' · ' + esc(f.comment) : ''}</div><div class="sub faint">${esc(f.author)} · ${esc(fmtTime(f.updatedAt))}</div></div>${chev}</a>`; }).join('')}</div>` : none}
       <div class="section-title"><h2>${L('Notities', 'Notes')}</h2><span class="muted small">${notes.length}</span></div>
@@ -663,7 +669,8 @@
     else if (parts[0] === 'over' || parts[0] === 'instellingen') html = views.about();
     else html = notFound();
     app.innerHTML = html;
-    document.querySelectorAll('.tabbar a').forEach(a => a.classList.toggle('on', a.dataset.tab === tab));
+    const TABS = { home: 'Home', zoek: L('Zoeken', 'Search'), scan: L('Scannen', 'Scan'), quiz: 'Quiz' };
+    document.querySelectorAll('.tabbar a').forEach(a => { a.classList.toggle('on', a.dataset.tab === tab); const sp = a.querySelector('span'); if (sp) sp.textContent = TABS[a.dataset.tab]; a.setAttribute('aria-label', TABS[a.dataset.tab]); });
     if (route.last !== location.hash.split('?')[0]) window.scrollTo(0, 0);
     route.last = location.hash.split('?')[0];
     if (!gated && tab === 'zoek') wireSearch();

@@ -1,11 +1,12 @@
+@font-face{font-family:"Outfit";src:url(fonts/outfit-latin.woff2) format("woff2");font-weight:300 700;font-style:normal;font-display:swap}
 :root{
-  --bg:#000; --card:#1C1C1E; --raised:#2A2A2D; --stroke:rgba(255,255,255,.08);
+  --bg:#000; --card:#161618; --raised:#26262A; --stroke:rgba(255,255,255,.08);
   --text:#fff; --muted:rgba(255,255,255,.6); --faint:rgba(255,255,255,.38);
   --accent:#F6C31C; --on-accent:#000; --pos:#34C759; --neg:#FF5A4F;
   --accent-text:#F6C31C; --bar:rgba(28,28,30,.92); --shade:rgba(0,0,0,.55); --input:#2A2A2D;
-  --r:24px; --gap:16px;
-  --serif: ui-serif, "New York", "Iowan Old Style", Georgia, serif;
-  --sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, sans-serif;
+  --r:26px; --gap:16px;
+  --serif: "Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --sans: "Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 *{box-sizing:border-box}
 html,body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);-webkit-text-size-adjust:100%}
@@ -113,9 +114,9 @@ textarea:focus,input.field:focus{border-color:var(--accent)}
 @media (min-width:560px){.tiles{grid-template-columns:repeat(3,1fr)}}
 
 /* ---------- light theme (same colours as the Swift app) ---------- */
-:root[data-theme=light]{--bg:#F4F3EF;--card:#FFFFFF;--raised:#ECEBE6;--stroke:rgba(0,0,0,.08);--text:#111;--muted:rgba(0,0,0,.6);--faint:rgba(0,0,0,.4);
+:root[data-theme=light]{--bg:#F6F1E7;--card:#FFFFFF;--raised:#F1EADB;--stroke:rgba(0,0,0,.08);--text:#111;--muted:rgba(0,0,0,.6);--faint:rgba(0,0,0,.4);
   --accent-text:#8A6100;--bar:rgba(255,255,255,.92);--shade:rgba(0,0,0,.35);--pos:#1E8E3E;--neg:#D93025}
-@media (prefers-color-scheme:light){:root[data-theme=system]{--bg:#F4F3EF;--card:#FFFFFF;--raised:#ECEBE6;--stroke:rgba(0,0,0,.08);--text:#111;--muted:rgba(0,0,0,.6);--faint:rgba(0,0,0,.4);
+@media (prefers-color-scheme:light){:root[data-theme=system]{--bg:#F6F1E7;--card:#FFFFFF;--raised:#F1EADB;--stroke:rgba(0,0,0,.08);--text:#111;--muted:rgba(0,0,0,.6);--faint:rgba(0,0,0,.4);
   --accent-text:#8A6100;--bar:rgba(255,255,255,.92);--shade:rgba(0,0,0,.35);--pos:#1E8E3E;--neg:#D93025}}
 :root[data-theme=light] .switch::after{box-shadow:0 1px 3px rgba(0,0,0,.25)}
 .accent-text{color:var(--accent-text)} .pos-text{color:var(--pos)}
@@ -408,3 +409,107 @@ button[disabled]{opacity:.5}
   .dg-cats{grid-template-columns:1fr}
   .dg-legend{grid-template-columns:1fr 1fr}
 }
+
+/* ---------- look v2: clear and simple (after Meli's reference pictures, 12 Nov) ---------- */
+body{font-size:16px;letter-spacing:-.005em;padding-bottom:calc(112px + env(safe-area-inset-bottom))}
+h1,h2,h3{font-weight:600;letter-spacing:-.02em}
+h1{font-size:30px;line-height:1.12}
+h2{font-size:20px;margin:30px 0 12px}
+h3{font-size:18px}
+b,strong{font-weight:600}
+.ic{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex:none;display:block}
+.hero .eyebrow{text-transform:none;letter-spacing:0;font-weight:500;font-size:14px}
+
+/* top bar: round outline back button, centred title */
+.top{position:relative}
+.back{background:transparent;border:1px solid var(--stroke);color:var(--text)}
+:root[data-theme=light] .back{background:var(--card)}
+.back .ic{width:20px;height:20px;stroke-width:2}
+.top .title{font-family:var(--sans);font-weight:600;font-size:17px;text-align:center;padding-right:56px}
+
+/* round icons: neutral, or tinted for departments */
+.icon{background:var(--raised);color:var(--text)}
+.icon .ic{width:22px;height:22px}
+.icon.tint{background:color-mix(in srgb,var(--tint) 22%,transparent);color:var(--tint)}
+:root[data-theme=light] .icon.tint{background:color-mix(in srgb,var(--tint) 16%,#fff)}
+.part-hero .icon .ic{width:28px;height:28px}
+
+/* home: highlight card with a soft yellow glow */
+.hero-card{position:relative;border-radius:32px;padding:16px 16px 18px;margin:4px 0 6px;border:1px solid var(--stroke);overflow:hidden;
+  background:radial-gradient(130% 85% at 100% 100%,rgba(246,195,28,.62) 0%,rgba(246,195,28,.22) 38%,rgba(246,195,28,0) 70%),var(--card)}
+.hero-card .homebar{margin:0;gap:12px}
+.who{flex:1;min-width:0;line-height:1.2}
+.who-greet{font-size:14px;color:var(--muted)}
+.who-name{font-size:20px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.iconbtn{background:transparent;color:var(--text)}
+.iconbtn .ic{width:22px;height:22px}
+.lang-btn{font-weight:600;font-size:14px}
+.hero-q{font-size:27px;font-weight:500;line-height:1.15;margin:22px 2px 16px;max-width:15em}
+.hero-card .search{background:rgba(0,0,0,.35);border-color:rgba(255,255,255,.08);margin-bottom:18px}
+:root[data-theme=light] .hero-card .search{background:rgba(255,255,255,.75);border-color:rgba(0,0,0,.06)}
+.search .ic{color:var(--muted);width:20px;height:20px}
+.actions{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
+.action{display:flex;flex-direction:column;align-items:center;gap:8px;font-size:14px;font-weight:500}
+.action-ic{width:58px;height:58px;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.12);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);border:1px solid rgba(255,255,255,.08)}
+:root[data-theme=light] .action-ic{background:rgba(255,255,255,.7);border-color:rgba(0,0,0,.05)}
+.action-ic .ic{width:24px;height:24px}
+.action:active .action-ic{background:var(--accent);color:#000}
+
+/* tiles */
+.tile{border-radius:24px;min-height:150px;gap:14px}
+.tile-top{display:flex;justify-content:space-between;align-items:flex-start}
+.tile .icon{margin-bottom:0}
+.tile-arrow{width:32px;height:32px;border-radius:50%;border:1px solid var(--stroke);display:grid;place-items:center;color:var(--muted)}
+.tile-arrow .ic{width:16px;height:16px}
+.tile .label{font-family:var(--sans);font-weight:600;font-size:18px;line-height:1.2}
+.tiles.parts .tile{min-height:120px}
+.tiles.parts .label{font-weight:600;font-size:16px}
+
+/* products shelf as cards */
+.shelf-item{width:150px;background:var(--card);border:1px solid var(--stroke);border-radius:22px;padding:8px 8px 12px}
+.shelf-img{width:100%;height:132px;border-radius:16px}
+.shelf-item .small{padding:0 4px;font-size:14px;font-weight:500;color:var(--text)}
+.section-title a{font-weight:500}
+
+/* buttons, chips, segments */
+.btn{height:52px;font-weight:600}
+.chip{padding:9px 16px;font-weight:500}
+.chip.on{color:#000}
+.seg button{font-weight:500}
+.pill .ic{width:14px;height:14px}
+.flagdot{display:inline-grid}
+.flagdot .ic{width:18px;height:18px;stroke:var(--neg);stroke-width:2}
+.flagdot.corner{top:8px;right:8px;background:#fff;border-radius:50%;width:28px;height:28px;place-items:center}
+.flagdot.corner .ic{width:16px;height:16px}
+details.card summary{font-family:var(--sans);font-weight:600}
+.lead{font-family:var(--sans)}
+
+/* tab bar: icons with labels, active one in a yellow circle */
+.tabbar{left:16px;right:16px;transform:none;margin:0 auto;max-width:420px;justify-content:space-around;padding:8px 6px;border-radius:30px;gap:0}
+.tabbar a{width:auto;flex:1;height:auto;display:flex;flex-direction:column;align-items:center;gap:3px;border-radius:0;font-size:11.5px;font-weight:500;color:var(--muted)}
+.tabbar a i{width:42px;height:42px;border-radius:50%;display:grid;place-items:center}
+.tabbar a.on{background:none;outline:0;color:var(--accent-text)}
+.tabbar a.on i{background:var(--accent)}
+.tabbar a.on svg{stroke:#000}
+#toast{bottom:calc(104px + env(safe-area-inset-bottom))}
+
+/* side menu */
+.menu-head .name{font-family:var(--sans);font-weight:600}
+.mrow{height:56px}
+.mrow i{width:34px;height:34px;border-radius:50%;background:var(--raised);display:grid;place-items:center;color:var(--text)}
+.mrow i .ic{width:18px;height:18px}
+.mrow.neg i{background:rgba(255,90,79,.14);color:var(--neg)}
+
+/* quiz */
+.quiz-card .name{font-family:var(--sans);font-weight:600;font-size:18px}
+.play .ic{width:16px;height:16px;fill:#000;stroke:#000;margin-left:2px}
+.big{display:grid;place-items:center;color:var(--accent-text)}
+.big .ic{width:64px;height:64px;stroke-width:1.5}
+.icon .num,.key > b{font-family:var(--sans)}
+:root[data-theme=light] .icon.tint{color:color-mix(in srgb,var(--tint) 80%,#000)}
+@media (prefers-color-scheme:light){:root[data-theme=system] .icon.tint{background:color-mix(in srgb,var(--tint) 16%,#fff);color:color-mix(in srgb,var(--tint) 80%,#000)}
+  :root[data-theme=system] .hero-card .search{background:rgba(255,255,255,.75);border-color:rgba(0,0,0,.06)}
+  :root[data-theme=system] .action-ic{background:rgba(255,255,255,.7);border-color:rgba(0,0,0,.05)}
+  :root[data-theme=system] .back{background:var(--card)}}
+.tile .icon{width:48px;height:48px}
+.tile .icon .ic{width:24px;height:24px}
