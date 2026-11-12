@@ -90,6 +90,7 @@
     if (LANG === 'en' && !EN) EN = await getJSON('data/catalog.en.json').catch(() => ({}));
     C = LANG === 'en' ? translate(RAW) : RAW;
     document.documentElement.lang = LANG;
+    if (window.Diagrams) Diagrams.setLang(LANG);
     idx.cat = Object.fromEntries(C.categories.map(c => [c.id, c]));
     idx.type = Object.fromEntries(C.typeGuides.map(t => [t.id, t]));
     idx.brand = Object.fromEntries(C.brands.map(b => [b.id, b]));
@@ -347,7 +348,9 @@
       case 'bullets': return itemsHTML(b.items || []);
       case 'numbered': return itemsHTML(b.items || [], true);
       case 'brands': return `<div class="pills" style="margin:10px 0">${(b.names || []).map(n => `<span class="pill">${esc(n)}</span>`).join('')}</div>`;
-      case 'figure': return `<figure class="fig"><img src="img/booklet/${esc(b.image)}.webp" alt="${esc(LT(b.text))}" loading="lazy"><figcaption class="small muted">${esc(LT(b.text))}${LANG === 'en' ? ' (labels in Dutch, as in the booklet)' : ''}</figcaption></figure>`;
+      case 'figure': return window.Diagrams && Diagrams.hasFigure(b.image)
+        ? `${Diagrams.figure(b.image)}<details class="fig-orig"><summary>${L('Originele afbeelding uit het boekje', 'Original picture from the booklet')}</summary><figure class="fig"><img src="img/booklet/${esc(b.image)}.webp" alt="${esc(LT(b.text))}" loading="lazy"><figcaption class="small muted">${esc(LT(b.text))}</figcaption></figure></details>`
+        : `<figure class="fig"><img src="img/booklet/${esc(b.image)}.webp" alt="${esc(LT(b.text))}" loading="lazy"><figcaption class="small muted">${esc(LT(b.text))}${LANG === 'en' ? ' (labels in Dutch, as in the booklet)' : ''}</figcaption></figure>`;
       case 'cards': return `<div class="bcards">${(b.cards || []).map(c => `<div class="bcard"><div class="name">${esc(LT(c.title))}</div>${c.subtitle ? `<div class="small muted">${esc(LT(c.subtitle))}</div>` : ''}
         <dl class="kv left">${c.rows.map(r => `<dt>${esc(LT(r.label))}</dt><dd>${md(LT(r.value))}</dd>`).join('')}</dl></div>`).join('')}</div>`;
       default: return '';
@@ -379,8 +382,10 @@
     const keys = t.summary?.length ? `<h2 style="margin-top:4px">${L('In het kort', 'At a glance')}</h2>
       <div class="keys">${t.summary.map((x, k) => `<div class="key"><b>${k + 1}</b><div>${md(LT(x))}</div></div>`).join('')}</div>` : '';
     const src = `<div class="source">${L('Bron: informatieboekje Kookwinkel Oldenhof Maastricht', 'Source: Kookwinkel Oldenhof Maastricht information booklet')}, ${esc(pageLabel(t))} · ${L('nog niet vergeleken met de website', 'not yet compared with the website')}</div>`;
-    if (parts.length <= 1) return `${head}${keys}<h2>${L('Uitleg', 'Explanation')}</h2>${(parts[0]?.blocks || []).map(boxedHTML).join('')}${src}`;
-    return `${head}${keys}<h2>${L('Kies een onderdeel', 'Choose a part')}</h2>
+    const pic = window.Diagrams ? Diagrams.topic(t.id) : '';
+    const picHTML = pic ? `<h2>${L('In één beeld', 'In one picture')}</h2>${pic}` : '';
+    if (parts.length <= 1) return `${head}${keys}${picHTML}<h2>${L('Uitleg', 'Explanation')}</h2>${(parts[0]?.blocks || []).map(boxedHTML).join('')}${src}`;
+    return `${head}${keys}${picHTML}<h2>${L('Kies een onderdeel', 'Choose a part')}</h2>
       <div class="tiles parts">${parts.map((p, k) => `<a class="tile" href="#/g/${esc(gid)}/${esc(tid)}/${k + 1}">${picIcon(partTitleNL(p, t), k)}<div class="label">${esc(partTitle(p, t))}</div></a>`).join('')}</div>${src}`;
   };
   views.part = ([gid, tid, n]) => {
@@ -388,7 +393,7 @@
     const parts = partsOf(t); const k = (+n || 1) - 1; const p = parts[k]; if (!p) return notFound();
     const nav = (d, label) => parts[k + d] ? `<a class="btn ghost" href="#/g/${esc(gid)}/${esc(tid)}/${k + d + 1}">${label}</a>` : '<span></span>';
     return `${top(LT(t.title))}<div class="hero part-hero">${picIcon(partTitleNL(p, t), k)}<div><div class="eyebrow">${esc(LT(t.title))} · ${k + 1}/${parts.length}</div><h1>${esc(partTitle(p, t))}</h1></div></div>
-      ${p.blocks.map(boxedHTML).join('') || `<div class="empty">${L('Zie de onderdelen hieronder.', 'See the parts below.')}</div>`}
+      ${window.Diagrams && p.head ? Diagrams.part(t.id, p.head.text.nl) : ''}${p.blocks.map(boxedHTML).join('') || `<div class="empty">${L('Zie de onderdelen hieronder.', 'See the parts below.')}</div>`}
       <div class="partnav">${nav(-1, '← ' + L('Vorige', 'Previous'))}${nav(1, L('Volgende', 'Next') + ' →')}</div>
       <div class="source">${L('Bron: informatieboekje, p.', 'Source: information booklet, p.')} ${esc([...new Set(p.blocks.concat(p.head || []).map(b => b.page).filter(Boolean))].join(', ') || pageLabel(t))}</div>`;
   };

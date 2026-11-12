@@ -11,7 +11,7 @@ Usage (from oldenhof-app/):  python3 -I tools/build_web.py [raw-image-folder]
 import hashlib, json, os, sys
 
 WEB = 'docs'
-SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'sync.js', 'config.js', 'manifest.webmanifest',
+SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'sync.js', 'diagrams.js', 'config.js', 'manifest.webmanifest',
          'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'vendor/zxing.min.js',
          'data/catalog.json', 'data/catalog.en.json', 'data/booklet.json', 'data/quiz.json']
 
