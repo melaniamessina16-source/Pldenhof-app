@@ -124,12 +124,6 @@ textarea:focus,input.field:focus{border-color:var(--accent)}
 body.gate .tabbar{display:none}
 body.gate{padding-bottom:24px}
 
-/* tab bar: the scan tab is the raised yellow button */
-.tabbar a[data-tab=scan]{background:var(--accent)}
-.tabbar a[data-tab=scan] svg{stroke:#000}
-.tabbar a[data-tab=scan].on{outline:2px solid var(--text);outline-offset:1px;background:var(--accent)}
-.tabbar a[data-tab=scan].on svg{stroke:#000}
-
 /* home */
 .homebar{display:flex;align-items:center;gap:10px;min-height:52px;margin-bottom:4px}
 .homebar .seg{margin:0;padding:3px}
@@ -243,3 +237,35 @@ button[disabled]{opacity:.5}
 .seg a.on{background:var(--accent);color:var(--on-accent);font-weight:600}
 .hero .seg.lang{display:inline-flex;margin:14px 0 0}
 .hero .seg.lang button{flex:none;height:32px;padding:0 16px}
+
+/* ranks */
+.rank{display:inline-flex;align-items:center;gap:4px;border-radius:999px;padding:3px 9px;font-size:12px;font-weight:600;white-space:nowrap;vertical-align:middle}
+.rank-developer{background:var(--accent);color:#000}
+.rank-boss{background:rgba(246,195,28,.18);color:var(--accent-text)}
+.rank-employee{background:var(--raised);color:var(--muted)}
+.rank-head{display:flex;align-items:center;justify-content:space-between;margin:18px 2px 8px}
+.person .rank{margin-top:4px;font-size:11px;padding:2px 7px}
+.card .rank{margin:2px 0}
+
+/* booklet theory: short boxes and tiles */
+.icon .num{font-family:var(--sans);font-size:17px}
+.keys{display:grid;gap:10px;margin-bottom:8px}
+.key{display:flex;gap:12px;align-items:flex-start;background:var(--card);border:1px solid var(--stroke);border-radius:18px;padding:14px;line-height:1.4}
+.key > b{flex:none;width:28px;height:28px;border-radius:50%;background:var(--accent);color:#000;display:grid;place-items:center;font-size:14px}
+.tiles.parts .tile{min-height:112px;justify-content:flex-start;gap:12px}
+.tiles.parts .tile .icon{margin-bottom:0}
+.tiles.parts .label{font-size:17px;line-height:1.25}
+.part-hero{display:flex;gap:14px;align-items:center}
+.part-hero .icon{width:56px;height:56px;font-size:26px}
+.pbox{background:var(--card);border:1px solid var(--stroke);border-radius:18px;padding:14px 16px;margin-bottom:10px;line-height:1.5}
+.bgrid{display:grid;gap:8px;margin-bottom:10px}
+@media (min-width:560px){.bgrid{grid-template-columns:1fr 1fr}}
+.bitem{display:flex;gap:10px;background:var(--card);border:1px solid var(--stroke);border-radius:16px;padding:12px 14px;line-height:1.4}
+.bitem > i{flex:none;width:8px;height:8px;border-radius:50%;background:var(--accent);margin-top:7px}
+.steps{display:grid;gap:8px;margin-bottom:10px}
+.step{display:flex;gap:12px;background:var(--card);border:1px solid var(--stroke);border-radius:16px;padding:12px 14px;line-height:1.4}
+.step > b{flex:none;width:26px;height:26px;border-radius:50%;background:var(--raised);color:var(--accent-text);display:grid;place-items:center;font-size:13px}
+.brandbox{background:var(--card);border:1px solid var(--stroke);border-radius:18px;padding:12px 14px;margin-bottom:10px}
+.brandbox .pills{margin-top:8px}
+.partnav{display:flex;justify-content:space-between;gap:10px;margin:16px 0 4px}
+.partnav .btn{flex:1;max-width:48%}

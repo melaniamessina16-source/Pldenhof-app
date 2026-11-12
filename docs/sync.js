@@ -170,6 +170,15 @@
       if (!r.error) await pullAccounts();
       emit(); return r;
     },
+    // add an account from the login screen: a boss or developer confirms with their own PIN.
+    // The confirmation gives a short session that is only used for this and then closed; this phone stays logged out.
+    async managerCheck(id, pin) { return rpc('log_in', { p_id: id, p_pin: pin }); },
+    async addAccountAs(token, name, workID, role, pin, photo) {
+      const r = await rpc('save_account', { p_token: token, p_id: null, p_name: name, p_work_id: workID, p_role: role, p_pin: pin, p_photo: photo || null });
+      if (!r.error) await pullAccounts();
+      emit(); return r;
+    },
+    endManagerCheck(token) { if (token) rpc('log_out', { p_token: token }).catch(() => {}); },
     async deleteAccount(id) {
       const r = await rpc('delete_account', { p_token: session.token, p_id: id });
       if (r.error === 'login') endSession();

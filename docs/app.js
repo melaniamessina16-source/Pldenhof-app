@@ -28,12 +28,32 @@
   const EMOJI = { pannen: '🍳', koffie: '☕', messen: '🔪', 'klein-elektrisch': '🔌', fornuis: '🔥', 'koffie-espresso': '☕', 'kassa-groepen': '🧾',
                   producten: '📦', plaatstaal: '🔥', roestvrijstaal: '✨', gietijzer: '🫕', 'aluminium-antiaanbak': '🥚',
                   volautomaat: '🤖', halfautomaat: '🧑‍🍳', filterkoffie: '🫖' };
+  // pictures for booklet topics and their parts: decoration only, picked from words in the title
+  const PICS = [[/verkoop|aandachtspunt/, '💬'], [/onderhoud|schoonma|vliegroest|waas/, '🧽'], [/aanzet|slijp/, '🪨'], [/anatomie|heft|lemmet|krop|snede/, '🔪'],
+    [/aziat/, '🍣'], [/europe/, '🥖'], [/mes/, '🔪'], [/mandoline/, '🥒'], [/snijplank|hout|kunststof|gerecycled/, '🪵'], [/snijmachine|berkel|ritter/, '🥓'],
+    [/inductie/, '🧲'], [/gas/, '🔥'], [/elektrisch koken|keramisch koken/, '♨️'], [/warmtebron/, '🔥'], [/antiaanbak/, '🥚'], [/aluminium/, '🥚'],
+    [/plaatstaal/, '⚫'], [/roestvrij/, '✨'], [/gietijzer/, '🫕'], [/materia/, '🧱'], [/poffertje|pannenkoek/, '🥞'], [/paella/, '🥘'], [/vis/, '🐟'],
+    [/grill|plancha|tosti|wafel/, '🥪'], [/wok|wadjan/, '🥡'], [/soep|kookpan|pasta|stoom|asperge|mossel|snelkook|cataplana|sappan|jam/, '🍲'],
+    [/frituur/, '🍟'], [/saus|steel|melk|bain-marie|fondue/, '🥛'], [/braad|faitout|tajine/, '🍖'], [/downdraft|special/, '⭐'], [/koekenpan|bakpan|hapjes|pannen/, '🍳'],
+    [/broodroost/, '🍞'], [/broodbak/, '🥖'], [/foodprocessor|magimix|accessoire/, '🥕'], [/waterkoker|teamaker/, '🫖'], [/standmixer|kitchenaid|bakery|ankarsrum/, '🎂'],
+    [/handmixer|mixer|bamix/, '🥣'], [/slowcook|multicook/, '🍲'], [/droog/, '🍎'], [/blender/, '🥤'], [/juicer|citrus|sapcentrifuge/, '🍊'], [/ijs/, '🍨'],
+    [/sous-vide|vacu/, '🌡️'], [/kamado|bastard|green egg|bbq|merken vergelijken/, '🔥'], [/volautoma/, '🤖'], [/halfautoma/, '🧑‍🍳'], [/koffiemolen/, '⚙️'],
+    [/koffie/, '☕'], [/kassa|productgroep/, '🧾'], [/belangrijk/, '❗'], [/algemeen/, '📋'], [/specifiek/, '🎯']];
+  const picFor = text => { const t = String(text || '').toLowerCase(); const m = PICS.find(([re]) => re.test(t)); return m ? m[1] : null; };
+  const picIcon = (nlText, i) => { const c = PALETTE[i % PALETTE.length]; const p = picFor(nlText);
+    return `<span class="icon" style="background:${c}33;color:${c}">${p || `<b class="num">${i + 1}</b>`}</span>`; };
   const icon = (id, i) => `<span class="icon" style="background:${PALETTE[i % PALETTE.length]}33;color:${PALETTE[i % PALETTE.length]}">${EMOJI[id] || '•'}</span>`;
   const chev = '<span class="chev" aria-hidden="true"></span>';
   const backBtn = () => `<button class="back" onclick="history.length>1?history.back():location.hash='#/'" aria-label="${L('Terug', 'Back')}"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>`;
   const top = title => `<div class="top">${backBtn()}<div class="title">${esc(title || '')}</div></div>`;
   const ROLE = { employee: () => L('Medewerker', 'Employee'), boss: () => L('Baas', 'Boss'), developer: () => 'Developer' };
   const roleName = r => (ROLE[r] || ROLE.employee)();
+  const RANK = { developer: 3, boss: 2, employee: 1 };
+  const rankBadge = r => `<span class="rank rank-${esc(r || 'employee')}">${'★'.repeat(RANK[r] || 1)} ${esc(roleName(r))}</span>`;
+  const byRank = list => [...list].sort((a, b) => (RANK[b.role] || 1) - (RANK[a.role] || 1) || a.name.localeCompare(b.name));
+  // accounts grouped under their rank: developer, boss, employee
+  const rankGroups = (list, render) => ['developer', 'boss', 'employee'].map(r => { const l = list.filter(a => (a.role || 'employee') === r).sort((a, b) => a.name.localeCompare(b.name));
+    return l.length ? `<div class="rank-head">${rankBadge(r)}<span class="faint small">${l.length}</span></div>${render(l)}` : ''; }).join('');
   const initials = name => String(name || '?').split(/\s+/).slice(0, 2).map(w => w[0] || '').join('').toUpperCase();
   const avatar = (a, size = 44) => a && a.photo
     ? `<img class="avatar" src="${esc(a.photo)}" alt="" style="width:${size}px;height:${size}px">`
@@ -160,16 +180,36 @@
       ${accountForm(null, ['developer'], 'firstrun')}`;
   }
   function loginView() {
+    if (gate.adding) return addAccountGateView();
     const sel = S.accounts.find(a => a.id === gate.selected);
     return `<div class="hero"><div class="eyebrow">Kookwinkel Oldenhof</div><h1>${L('Wie ben je?', 'Who are you?')}</h1>${langSwitch()}</div>
-      <div class="people">${S.accounts.map(a => `<button class="person ${a.id === gate.selected ? 'on' : ''}" data-act="pick" data-id="${esc(a.id)}">
-        ${avatar(a, 64)}<div class="name">${esc(a.name)}</div><div class="small muted">${esc(roleName(a.role))}</div></button>`).join('')}</div>
+      ${rankGroups(S.accounts, l => `<div class="people">${l.map(a => personBtn(a, 'pick')).join('')}</div>`)}
       ${sel ? `<form data-act="login" class="card" style="margin-top:14px"><h3>${L('Pincode van', 'PIN for')} ${esc(sel.name)}</h3>
         <input class="field pin" name="pin" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="4" autocomplete="one-time-code" placeholder="••••" style="margin:12px 0">
         <label class="check"><input type="checkbox" name="stay" checked> ${L('Ingelogd blijven op dit toestel', 'Stay logged in on this device')}</label>
         ${gate.error ? `<p class="errtext">${esc(gate.error)}</p>` : ''}
         <button class="btn block" ${gate.busy ? 'disabled' : ''}>${L('Inloggen', 'Log in')}</button></form>` : ''}
-      <p class="faint small" style="text-align:center;margin-top:18px">${L('Geen account? Vraag de bedrijfsleider om er een te maken.', 'No account? Ask the manager to create one.')}</p>`;
+      <button class="btn ghost block" data-act="gateadd" style="margin-top:18px">+ ${L('Account toevoegen', 'Add account')}</button>
+      <p class="faint small" style="text-align:center;margin-top:8px">${L('Een baas of developer bevestigt met zijn of haar eigen pincode.', 'A boss or developer confirms with their own PIN.')}</p>`;
+  }
+  const personBtn = (a, act, on) => `<button class="person ${(on ?? a.id === gate.selected) ? 'on' : ''}" data-act="${act}" data-id="${esc(a.id)}">
+        ${avatar(a, 64)}<div class="name">${esc(a.name)}</div>${rankBadge(a.role)}</button>`;
+  // adding an account from the login screen: step 1 a boss/developer confirms, step 2 the account form
+  function addAccountGateView() {
+    const back = `<button class="btn ghost block" data-act="gatecancel" style="margin-top:12px">${L('Annuleer', 'Cancel')}</button>`;
+    if (gate.adding.token) {
+      const m = gate.adding.manager;
+      return `<div class="hero"><h1>${L('Nieuw account', 'New account')}</h1><p class="muted small">${L('Bevestigd door', 'Confirmed by')} ${esc(m.name)} (${esc(roleName(m.role))})</p></div>
+        ${accountForm(null, S.assignable(m.role), 'gate')}${back}`;
+    }
+    const managers = S.accounts.filter(a => a.role !== 'employee');
+    const sel = managers.find(a => a.id === gate.adding.managerID);
+    return `<div class="hero"><h1>${L('Account toevoegen', 'Add account')}</h1><p class="muted">${L('Wie geeft toestemming? Alleen een baas of developer kan een account maken.', 'Who gives permission? Only a boss or developer can create an account.')}</p></div>
+      <div class="people">${managers.map(a => personBtn(a, 'gatemgr', a.id === gate.adding.managerID)).join('')}</div>
+      ${sel ? `<form data-act="gatemgr" class="card" style="margin-top:14px"><h3>${L('Pincode van', 'PIN for')} ${esc(sel.name)}</h3>
+        <input class="field pin" name="pin" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="4" autocomplete="off" placeholder="••••" style="margin:12px 0">
+        ${gate.error ? `<p class="errtext">${esc(gate.error)}</p>` : ''}
+        <button class="btn block" ${gate.busy ? 'disabled' : ''}>${L('Bevestig', 'Confirm')}</button></form>` : ''}${back}`;
   }
 
   // ---------- account form (first run, new, edit) ----------
@@ -225,7 +265,7 @@
   function menuHTML() {
     const a = S.account; const n = openMismatchCount(); const outs = S.outList().filter(f => idx.variant[f.variantID]).length;
     return `<div class="menu-backdrop" data-act="closemenu"></div><nav class="menu-panel" aria-label="Menu">
-      <div class="menu-head">${avatar(a, 54)}<div><div class="name">${esc(a?.name)}</div><div class="small accent-text">${esc(roleName(a?.role))}</div></div></div>
+      <div class="menu-head">${avatar(a, 54)}<div><div class="name">${esc(a?.name)}</div><div style="margin-top:4px">${rankBadge(a?.role)}</div></div></div>
       <div class="menu-rows">
         <a class="mrow" href="#/check"><i>⚠︎</i><span>${L('Controle', 'Check')}</span>${n ? `<b class="badge">${n}</b>` : ''}</a>
         <a class="mrow" href="#/notities"><i>✎</i><span>${L('Notities', 'Notes')}</span></a>
@@ -291,8 +331,8 @@
           <div class="sub">${esc(t.oneLiner?.text || t.subtitle || '')}</div><div class="sub faint">${productsOfType(t.id).length} ${L('producten', 'products')}</div></div>${chev}</a>`).join('')}</div>` : ''}
       ${c && c.advice?.length ? `<div class="card"><h3>${L('Advies bij verkoop', 'Sales advice')}</h3><ul class="bullets">${c.advice.map(a => `<li>${esc(a.text)}</li>`).join('')}</ul>${source(c.advice[0].source)}</div>` : ''}
       <h2>${L('Theorie uit het boekje', 'Theory from the booklet')}</h2>
-      ${g.topics.map(t => `<a class="card topic-card" href="#/g/${esc(id)}/${esc(t.id)}"><div class="section-title"><h3>${esc(LT(t.title))}</h3><span class="faint small">${esc(pageLabel(t))}</span></div>
-        ${t.summary?.length ? `<ul class="bullets">${t.summary.map(s => `<li>${md(LT(s))}</li>`).join('')}</ul>` : ''}<div class="small accent-text" style="margin-top:8px">${L('Lees meer', 'Read more')} →</div></a>`).join('')}`;
+      <div class="tiles">${g.topics.map((t, i) => `<a class="tile" href="#/g/${esc(id)}/${esc(t.id)}">${picIcon(t.title.nl, i)}<div><div class="label">${esc(LT(t.title))}</div>
+        <div class="count">${esc(pageLabel(t))}</div></div></a>`).join('')}</div>`;
   };
   const pageLabel = t => { const p = [...(t.pages || [])].sort((a, b) => a - b); return p.length ? (p[0] === p[p.length - 1] ? `p. ${p[0]}` : `p. ${p[0]}-${p[p.length - 1]}`) : ''; };
   function itemsHTML(items, ordered) {
@@ -313,17 +353,44 @@
       default: return '';
     }
   }
-  views.topic = ([gid, tid]) => {
-    const g = idx.group[gid]; const t = g && g.topics.find(x => x.id === tid); if (!t) return notFound();
-    // split into sections at each heading so long topics stay readable
+  // a topic is split into parts at each heading; text before the first heading is the "explanation" part
+  function partsOf(t) {
     const parts = []; let cur = { head: null, blocks: [] };
     t.blocks.forEach(b => { if (b.kind === 'heading') { if (cur.head || cur.blocks.length) parts.push(cur); cur = { head: b, blocks: [] }; } else cur.blocks.push(b); });
     parts.push(cur);
-    return `${top(LT(g.title))}<div class="hero"><div class="eyebrow">${esc(LT(g.title))} · ${esc(pageLabel(t))}</div><h1>${esc(LT(t.title))}</h1>${t.subtitle ? `<p class="muted">${esc(LT(t.subtitle))}</p>` : ''}</div>
-      ${t.summary?.length ? `<div class="card glance"><h3>${L('In het kort', 'At a glance')}</h3><ul class="bullets">${t.summary.map(s => `<li>${md(LT(s))}</li>`).join('')}</ul></div>` : ''}
-      ${parts.map(p => p.head ? `<details class="card" ${p.blocks.length <= 3 ? 'open' : ''}><summary>${esc(LT(p.head.text))}</summary><div class="prose">${p.blocks.map(blockHTML).join('')}</div></details>`
-        : (p.blocks.length ? `<div class="card prose">${p.blocks.map(blockHTML).join('')}</div>` : '')).join('')}
-      <div class="source">${L('Bron: informatieboekje Kookwinkel Oldenhof Maastricht', 'Source: Kookwinkel Oldenhof Maastricht information booklet')}, ${esc(pageLabel(t))} · ${L('nog niet vergeleken met de website', 'not yet compared with the website')}</div>`;
+    return parts.filter(p => p.head || p.blocks.length);
+  }
+  const partTitle = (p, t) => p.head ? LT(p.head.text) : L('Uitleg', 'Explanation');
+  const partTitleNL = (p, t) => p.head ? p.head.text.nl : t.title.nl;
+  // the booklet text, but each paragraph / list item in its own small box
+  function boxedHTML(b) {
+    switch (b.kind) {
+      case 'paragraph': return `<div class="pbox">${md(LT(b.text))}</div>`;
+      case 'bullets': return `<div class="bgrid">${(b.items || []).map(i => `<div class="bitem"><i></i><div>${md(LT(i.text))}${i.children?.length ? itemsHTML(i.children) : ''}</div></div>`).join('')}</div>`;
+      case 'numbered': return `<div class="steps">${(b.items || []).map((i, k) => `<div class="step"><b>${k + 1}</b><div>${md(LT(i.text))}${i.children?.length ? itemsHTML(i.children) : ''}</div></div>`).join('')}</div>`;
+      case 'brands': return `<div class="brandbox"><div class="small muted">${L('Merken', 'Brands')}</div><div class="pills">${(b.names || []).map(n => `<span class="pill">${esc(n)}</span>`).join('')}</div></div>`;
+      default: return blockHTML(b);
+    }
+  }
+  views.topic = ([gid, tid]) => {
+    const g = idx.group[gid]; const t = g && g.topics.find(x => x.id === tid); if (!t) return notFound();
+    const parts = partsOf(t);
+    const head = `${top(LT(g.title))}<div class="hero"><div class="eyebrow">${esc(LT(g.title))} · ${esc(pageLabel(t))}</div><h1>${esc(LT(t.title))}</h1>${t.subtitle ? `<p class="muted">${esc(LT(t.subtitle))}</p>` : ''}</div>`;
+    const keys = t.summary?.length ? `<h2 style="margin-top:4px">${L('In het kort', 'At a glance')}</h2>
+      <div class="keys">${t.summary.map((x, k) => `<div class="key"><b>${k + 1}</b><div>${md(LT(x))}</div></div>`).join('')}</div>` : '';
+    const src = `<div class="source">${L('Bron: informatieboekje Kookwinkel Oldenhof Maastricht', 'Source: Kookwinkel Oldenhof Maastricht information booklet')}, ${esc(pageLabel(t))} · ${L('nog niet vergeleken met de website', 'not yet compared with the website')}</div>`;
+    if (parts.length <= 1) return `${head}${keys}<h2>${L('Uitleg', 'Explanation')}</h2>${(parts[0]?.blocks || []).map(boxedHTML).join('')}${src}`;
+    return `${head}${keys}<h2>${L('Kies een onderdeel', 'Choose a part')}</h2>
+      <div class="tiles parts">${parts.map((p, k) => `<a class="tile" href="#/g/${esc(gid)}/${esc(tid)}/${k + 1}">${picIcon(partTitleNL(p, t), k)}<div class="label">${esc(partTitle(p, t))}</div></a>`).join('')}</div>${src}`;
+  };
+  views.part = ([gid, tid, n]) => {
+    const g = idx.group[gid]; const t = g && g.topics.find(x => x.id === tid); if (!t) return notFound();
+    const parts = partsOf(t); const k = (+n || 1) - 1; const p = parts[k]; if (!p) return notFound();
+    const nav = (d, label) => parts[k + d] ? `<a class="btn ghost" href="#/g/${esc(gid)}/${esc(tid)}/${k + d + 1}">${label}</a>` : '<span></span>';
+    return `${top(LT(t.title))}<div class="hero part-hero">${picIcon(partTitleNL(p, t), k)}<div><div class="eyebrow">${esc(LT(t.title))} · ${k + 1}/${parts.length}</div><h1>${esc(partTitle(p, t))}</h1></div></div>
+      ${p.blocks.map(boxedHTML).join('') || `<div class="empty">${L('Zie de onderdelen hieronder.', 'See the parts below.')}</div>`}
+      <div class="partnav">${nav(-1, '← ' + L('Vorige', 'Previous'))}${nav(1, L('Volgende', 'Next') + ' →')}</div>
+      <div class="source">${L('Bron: informatieboekje, p.', 'Source: information booklet, p.')} ${esc([...new Set(p.blocks.concat(p.head || []).map(b => b.page).filter(Boolean))].join(', ') || pageLabel(t))}</div>`;
   };
 
   views.category = ([id]) => {
@@ -517,10 +584,12 @@
     if (!isManager()) return notFound();
     return `${top('')}<div class="hero"><h1>${L('Accounts', 'Accounts')}</h1><p class="muted small">${L('Een account werkt op elke telefoon van het team.', "An account works on every team member's phone.")}</p></div>
       <a class="btn block" href="#/accounts/nieuw" style="margin-bottom:14px">+ ${L('Nieuw account', 'New account')}</a>
-      <div class="list">${S.accounts.map(a => `<div class="row">${avatar(a, 44)}<div class="grow"><div class="name">${esc(a.name)}${a.id === S.account.id ? ` <span class="faint small">(${L('jij', 'you')})</span>` : ''}</div>
-        <div class="sub">${esc(roleName(a.role))}${a.workID ? ` · ${L('Werknr.', 'Work ID')} ${esc(a.workID)}` : ''}</div></div>
+      <div class="card tight small muted">${rankBadge('developer')} ${L('alles, ook bazen en developers beheren', 'everything, including managing bosses and developers')}<br>
+        ${rankBadge('boss')} ${L('rapport, en accounts van medewerkers', 'report, and employee accounts')}<br>${rankBadge('employee')} ${L('producten, notities, voorraad en quiz', 'products, notes, stock and quiz')}</div>
+      ${rankGroups(S.accounts, l => `<div class="list">${l.map(a => `<div class="row">${avatar(a, 44)}<div class="grow"><div class="name">${esc(a.name)}${a.id === S.account.id ? ` <span class="faint small">(${L('jij', 'you')})</span>` : ''}</div>
+        <div class="sub">${a.workID ? `${L('Werknr.', 'Work ID')} ${esc(a.workID)}` : esc(roleName(a.role))}</div></div>
         ${S.canEdit(a) ? `<a class="pill" href="#/accounts/${esc(a.id)}">${L('Wijzig', 'Edit')}</a>` : ''}
-        ${S.canDelete(a) ? `<button class="pill neg" data-act="delacc" data-id="${esc(a.id)}">${L('Verwijder', 'Delete')}</button>` : ''}</div>`).join('')}</div>`;
+        ${S.canDelete(a) ? `<button class="pill neg" data-act="delacc" data-id="${esc(a.id)}">${L('Verwijder', 'Delete')}</button>` : ''}</div>`).join('')}</div>`)}`;
   };
   views.accountEdit = ([id]) => {
     if (!isManager()) return notFound();
@@ -568,6 +637,7 @@
     document.body.classList.toggle('gate', gated);
     if (gated) html = gateView();
     else if (!parts.length) html = views.home();
+    else if (parts[0] === 'g' && parts[3]) html = views.part([parts[1], parts[2], parts[3]]);
     else if (parts[0] === 'g' && parts[2]) html = views.topic([parts[1], parts[2]]);
     else if (parts[0] === 'g') html = views.group([parts[1]], q);
     else if (parts[0] === 'c') html = views.category(parts.slice(1));
@@ -657,6 +727,9 @@
     else if (act === 'closemenu') closeMenu();
     else if (act === 'closedlg') closeDialog();
     else if (act === 'logout') { closeMenu(); gate = { selected: null, error: '', busy: false }; S.logOut(); location.hash = '#/'; route(); }
+    else if (act === 'gateadd') { gate = { selected: null, error: '', busy: false, adding: {} }; route(); }
+    else if (act === 'gatecancel') { if (gate.adding?.token) S.endManagerCheck(gate.adding.token); gate = { selected: null, error: '', busy: false }; route(); }
+    else if (act === 'gatemgr') { gate.adding.managerID = b.dataset.id; gate.error = ''; route(); setTimeout(() => app.querySelector('input[name=pin]')?.focus(), 30); }
     else if (act === 'pick') { gate.selected = b.dataset.id; gate.error = ''; route(); setTimeout(() => app.querySelector('input[name=pin]')?.focus(), 30); }
     else if (act === 'answer' && run && run.chosen == null) {
       run.chosen = +b.dataset.k; if (run.chosen === run.quiz.questions[run.i].correct) run.score++; route();
@@ -702,6 +775,16 @@
       try { const r = await S.logIn(gate.selected, f.pin.value, f.stay.checked); gate.error = r.error ? errText(r.error) : ''; }
       catch (err) { gate.error = navigator.onLine ? errText(err.message) : errText('offline'); }
       gate.busy = false; if (S.account) { gate.selected = null; location.hash = '#/'; } route();
+    } else if (act === 'gatemgr') {
+      if (f.pin.value.length !== 4) { gate.error = L('Vul 4 cijfers in.', 'Enter 4 digits.'); route(); return; }
+      gate.busy = true; gate.error = '';
+      try {
+        const r = await S.managerCheck(gate.adding.managerID, f.pin.value);
+        if (r.error) gate.error = errText(r.error);
+        else if (r.account.role === 'employee') { S.endManagerCheck(r.token); gate.error = errText('forbidden'); }
+        else gate.adding = { token: r.token, manager: r.account };
+      } catch (err) { gate.error = navigator.onLine ? errText(err.message) : errText('offline'); }
+      gate.busy = false; route();
     } else if (act === 'account') {
       const err = m => { const el = document.getElementById('formErr'); if (el) el.textContent = m; };
       const el = f.elements;
@@ -713,8 +796,11 @@
       const btn = f.querySelector('button.btn'); btn.disabled = true;
       try {
         const r = mode === 'firstrun' ? await S.createFirstDeveloper(name, work, pin, formPhoto)
-                                      : await S.saveAccount(mode === 'edit' ? f.dataset.id : null, name, work, role, pin || null, formPhoto);
+                : mode === 'gate' ? await S.addAccountAs(gate.adding.token, name, work, role, pin, formPhoto)
+                : await S.saveAccount(mode === 'edit' ? f.dataset.id : null, name, work, role, pin || null, formPhoto);
         if (r.error) { btn.disabled = false; return err(errText(r.error)); }
+        if (mode === 'gate') { S.endManagerCheck(gate.adding.token); gate = { selected: r.account.id, error: '', busy: false };
+          toast(L(`Account van ${r.account.name} gemaakt. Log nu in.`, `${r.account.name}'s account created. Log in now.`)); route(); return; }
         toast(L('Opgeslagen', 'Saved')); document.activeElement?.blur?.(); location.hash = mode === 'firstrun' ? '#/' : '#/accounts'; route();
       } catch (ex) { btn.disabled = false; err(navigator.onLine ? errText(ex.message) : errText('offline')); }
     }
@@ -725,7 +811,7 @@
     if (a && (a.tagName === 'TEXTAREA' || a.tagName === 'INPUT' || a.tagName === 'SELECT')) return;
     if (document.getElementById('dlg').classList.contains('open')) return;
     if (/^#\/(zoek|scan|quiz\/|accounts\/)/.test(location.hash)) return;
-    if (document.body.classList.contains('gate') && !S.account && gate.selected) return;
+    if (document.body.classList.contains('gate') && !S.account && (gate.selected || gate.adding)) return;
     const y = scrollY; route(); scrollTo(0, y);
   });
 
