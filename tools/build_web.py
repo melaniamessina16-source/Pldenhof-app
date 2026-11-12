@@ -13,7 +13,7 @@ import hashlib, json, os, sys
 WEB = 'docs'
 SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'sync.js', 'config.js', 'manifest.webmanifest',
          'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'vendor/zxing.min.js',
-         'data/catalog.json', 'data/catalog.en.json']
+         'data/catalog.json', 'data/catalog.en.json', 'data/booklet.json', 'data/quiz.json']
 
 def main(raw=None):
     cat = json.load(open('data/catalog.json', encoding='utf-8'))
@@ -34,7 +34,12 @@ def main(raw=None):
     # English: map of Dutch catalog text -> English (data/i18n/en.json); missing entries stay Dutch
     en = json.load(open('data/i18n/en.json', encoding='utf-8')) if os.path.exists('data/i18n/en.json') else {}
     json.dump(en, open(os.path.join(WEB, 'data/catalog.en.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
-    images = sorted({v['image'] for p in cat['products'] for v in p['variants']})
+    # product guide and quiz from the information booklet (data/booklet/), figures in docs/img/booklet/
+    import shutil
+    for f in ('booklet.json', 'quiz.json'):
+        shutil.copyfile(os.path.join('data/booklet', f), os.path.join(WEB, 'data', f))
+    figures = sorted('img/booklet/' + f for f in os.listdir(os.path.join(WEB, 'img/booklet')) if f.endswith('.webp'))
+    images = sorted({v['image'] for p in cat['products'] for v in p['variants']} | set(figures))
     h = hashlib.sha256()
     for f in SHELL[1:] + images:
         h.update(f.encode()); h.update(open(os.path.join(WEB, f), 'rb').read())

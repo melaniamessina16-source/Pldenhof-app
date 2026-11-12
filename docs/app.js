@@ -1,27 +1,43 @@
 /* Oldenhof Producten: offline product-info web app for shop employees.
-   All product text comes from data/catalog.json (website first, booklet second). Nothing here adds facts. */
+   Product text comes from data/catalog.json (website first, booklet second); the product guide and quiz
+   come from data/booklet.json and data/quiz.json (the information booklet). Nothing here adds facts. */
 (function () {
   'use strict';
   const app = document.getElementById('app');
   const S = window.TeamStore;
-  let C = null;                         // catalog
+  let C = null;                         // catalog (in the current language)
+  let B = null, Q = null;               // booklet, quizzes
   const idx = {};                       // lookups
 
-  // ---------- helpers ----------
-  let LANG = (() => { try { return localStorage.getItem('oh.lang') || 'nl'; } catch { return 'nl'; } })();
+  // ---------- language, theme, helpers ----------
+  const pref = (k, d) => { try { return localStorage.getItem(k) || d; } catch { return d; } };
+  const setPref = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
+  let LANG = pref('oh.lang', 'nl');
+  let THEME = pref('oh.theme', 'dark');
+  const applyTheme = () => { document.documentElement.dataset.theme = THEME; };
+  applyTheme();
   const L = (nl, en) => LANG === 'en' ? en : nl;
+  const LT = o => o ? (LANG === 'en' ? (o.en || o.nl) : o.nl) : '';
   const LOC = () => LANG === 'en' ? 'en-GB' : 'nl-NL';
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const md = s => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>');
   const norm = s => String(s ?? '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
   const fmtDate = iso => { try { return new Date(iso).toLocaleDateString(LOC(), { day: 'numeric', month: 'short', year: 'numeric' }); } catch { return iso; } };
   const fmtTime = iso => { try { return new Date(iso).toLocaleString(LOC(), { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }); } catch { return iso; } };
   const PALETTE = ['#D99E1A', '#29879E', '#B34033', '#4D73D9', '#40995A', '#9E529E'];
-  const EMOJI = { pannen: '🍳', koffie: '☕', plaatstaal: '🔥', roestvrijstaal: '✨', gietijzer: '🫕', 'aluminium-antiaanbak': '🥚',
+  const EMOJI = { pannen: '🍳', koffie: '☕', messen: '🔪', 'klein-elektrisch': '🔌', fornuis: '🔥', 'koffie-espresso': '☕', 'kassa-groepen': '🧾',
+                  producten: '📦', plaatstaal: '🔥', roestvrijstaal: '✨', gietijzer: '🫕', 'aluminium-antiaanbak': '🥚',
                   volautomaat: '🤖', halfautomaat: '🧑‍🍳', filterkoffie: '🫖' };
   const icon = (id, i) => `<span class="icon" style="background:${PALETTE[i % PALETTE.length]}33;color:${PALETTE[i % PALETTE.length]}">${EMOJI[id] || '•'}</span>`;
   const chev = '<span class="chev" aria-hidden="true"></span>';
-  const backBtn = `<button class="back" onclick="history.length>1?history.back():location.hash='#/'" aria-label="Back"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>`;
-  const top = title => `<div class="top">${backBtn}<div class="title">${esc(title || '')}</div></div>`;
+  const backBtn = () => `<button class="back" onclick="history.length>1?history.back():location.hash='#/'" aria-label="${L('Terug', 'Back')}"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>`;
+  const top = title => `<div class="top">${backBtn()}<div class="title">${esc(title || '')}</div></div>`;
+  const ROLE = { employee: () => L('Medewerker', 'Employee'), boss: () => L('Baas', 'Boss'), developer: () => 'Developer' };
+  const roleName = r => (ROLE[r] || ROLE.employee)();
+  const initials = name => String(name || '?').split(/\s+/).slice(0, 2).map(w => w[0] || '').join('').toUpperCase();
+  const avatar = (a, size = 44) => a && a.photo
+    ? `<img class="avatar" src="${esc(a.photo)}" alt="" style="width:${size}px;height:${size}px">`
+    : `<span class="avatar" style="width:${size}px;height:${size}px;font-size:${Math.round(size * 0.38)}px">${esc(initials(a && a.name))}</span>`;
   function source(src) {
     if (!src) return '';
     if (src.kind === 'booklet') return `<div class="source">${L('Bron: informatieboekje, p.', 'Source: info booklet, p.')} ${esc(src.page)}</div>`;
@@ -30,10 +46,11 @@
   }
   function toast(msg) {
     const t = document.getElementById('toast'); t.textContent = msg; t.classList.add('show');
-    clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove('show'), 2200);
+    clearTimeout(toast.t); toast.t = setTimeout(() => t.classList.remove('show'), 2400);
   }
   const productImg = (p, v) => (v || p.variants[0]).image;
   const outCount = p => p.variants.filter(v => S.isOut(v.id)).length;
+  const isManager = () => S.isManager(S.account);
 
   // ---------- data ----------
   let RAW = null, EN = null;
@@ -48,7 +65,8 @@
     if (!res || !res.ok) throw new Error(u); return res.json();
   }
   async function load() {
-    if (!RAW) RAW = await getJSON('data/catalog.json');
+    if (!RAW) [RAW, B, Q] = await Promise.all([getJSON('data/catalog.json'), getJSON('data/booklet.json').catch(() => ({ groups: [] })),
+                                               getJSON('data/quiz.json').then(q => q.quizzes).catch(() => [])]);
     if (LANG === 'en' && !EN) EN = await getJSON('data/catalog.en.json').catch(() => ({}));
     C = LANG === 'en' ? translate(RAW) : RAW;
     document.documentElement.lang = LANG;
@@ -57,19 +75,26 @@
     idx.brand = Object.fromEntries(C.brands.map(b => [b.id, b]));
     idx.product = Object.fromEntries(C.products.map(p => [p.id, p]));
     idx.mm = Object.fromEntries(C.mismatches.map(m => [m.id, m]));
-    idx.variant = {};
-    idx.ean = {};
+    idx.group = Object.fromEntries(B.groups.map(g => [g.id, g]));
+    idx.groupOfCat = Object.fromEntries(B.groups.filter(g => g.categoryID).map(g => [g.categoryID, g]));
+    idx.variant = {}; idx.ean = {};
     C.products.forEach(p => p.variants.forEach(v => {
       idx.variant[v.id] = { p, v };
       if (v.ean) idx.ean[String(v.ean).replace(/^0+/, '')] = { p, v };
     }));
     idx.search = C.products.map(p => ({ p, hay: norm([p.name, idx.brand[p.brandID]?.name, ...p.typeIDs.map(t => idx.type[t]?.name),
       ...p.variants.flatMap(v => [v.colorName, v.ean, v.articleNumber])].join(' ')) }));
+    idx.topics = B.groups.flatMap(g => g.topics.map(t => ({ g, t, hay: norm([LT(t.title), ...(t.summary || []).map(LT), ...t.blocks.map(blockText)].join(' ')) })));
   }
+  const blockText = b => [LT(b.text), ...(b.items || []).flatMap(function f(i) { return [LT(i.text), ...(i.children || []).flatMap(f)]; }),
+    ...(b.names || []), ...(b.cards || []).flatMap(c => [LT(c.title), ...c.rows.flatMap(r => [LT(r.label), LT(r.value)])])].join(' ');
   const productsOfType = t => C.products.filter(p => p.typeIDs.includes(t));
   const typesOfCat = c => C.typeGuides.filter(t => t.categoryID === c);
   const productsOfCat = c => C.products.filter(p => p.typeIDs.some(t => idx.type[t]?.categoryID === c));
+  const groupOfProduct = p => { const t = p && p.typeIDs.map(id => idx.type[id]).find(Boolean); return t ? idx.groupOfCat[t.categoryID] : null; };
   const openMismatches = ids => (ids || []).map(id => idx.mm[id]).filter(m => m && m.status !== 'resolved');
+  const openMismatchCount = () => C.mismatches.filter(m => m.status !== 'confirmed' && m.status !== 'resolved').length;
+  const QUIZ_PRODUCT = { 'profitec-go-2': 'profitec-go-2-0', 'sage-oracle-jet': 'sage-the-oracle-jet' };
 
   // ---------- components ----------
   function productRow(p, sub) {
@@ -94,47 +119,226 @@
     if (!list.length) return '';
     return `<details class="card"><summary>${L(`Let op: ${list.length} punt${list.length > 1 ? 'en' : ''} te controleren`, `Note: ${list.length} point${list.length > 1 ? 's' : ''} to check`)}</summary>${list.map(mismatchBlock).join('')}</details>`;
   }
+  function outList() {
+    const list = S.outList().map(f => ({ f, x: idx.variant[f.variantID] })).filter(o => o.x);
+    return list.length ? `<div class="list">${list.map(({ f, x }) => `<a class="row" href="#/p/${esc(x.p.id)}?v=${esc(x.v.id)}"><img class="thumb" src="${esc(x.v.image)}" alt="">
+        <div class="grow"><div class="name">${esc(x.p.name)}</div><div class="sub">${esc(x.v.colorName)}${f.comment ? ' · ' + esc(f.comment) : ''}</div>
+        <div class="sub faint">${esc(f.author)} · ${esc(fmtTime(f.updatedAt))}</div></div><span class="flagdot">⚑</span></a>`).join('')}</div>` : '';
+  }
+  function outOfStockSection() {
+    const n = S.outList().filter(f => idx.variant[f.variantID]).length;
+    return n ? `<div class="section-title"><h2>${L('Niet op voorraad', 'Out of stock')}</h2><span class="muted small">${n}</span></div>${outList()}` : '';
+  }
+
+  // ---------- gate: team code, first developer account, login ----------
+  let gate = { selected: null, error: '', busy: false };
+  function gateView() {
+    if (!S.hasTeamCode || S.state.error === 'teamcode') return teamCodeView();
+    if (S.state.error === 'setup') return `<div class="hero"><h1>${L('Bijna klaar', 'Almost ready')}</h1></div>
+      <div class="card"><p>${L('De accounts zijn nog niet ingesteld in de database. Vraag de developer om het accounts-script in Supabase uit te voeren.', 'Accounts are not set up in the database yet. Ask the developer to run the accounts script in Supabase.')}</p>
+      <button class="btn block" data-act="retry">${L('Opnieuw proberen', 'Try again')}</button></div>`;
+    if (!S.state.accountsLoaded) {
+      if (!navigator.onLine) return `<div class="hero"><h1>${L('Even internet nodig', 'Internet needed once')}</h1></div><div class="card"><p>${L('Om de eerste keer in te loggen heeft de app internet nodig. Daarna werkt hij ook zonder.', 'To log in the first time the app needs internet. After that it also works without.')}</p><button class="btn block" data-act="retry">${L('Opnieuw proberen', 'Try again')}</button></div>`;
+      if (!gate.loading) { gate.loading = true; S.loadAccounts().catch(e => { S.state.error = e.message; }).finally(() => { gate.loading = false; route(); }); }
+      return `<p class="loading">${L('Laden…', 'Loading…')}</p>`;
+    }
+    if (!S.accounts.length) return firstRunView();
+    return loginView();
+  }
+  const langSwitch = () => `<div class="seg lang"><button class="${LANG === 'nl' ? 'on' : ''}" data-act="lang" data-l="nl">NL</button><button class="${LANG === 'en' ? 'on' : ''}" data-act="lang" data-l="en">EN</button></div>`;
+  function teamCodeView() {
+    return `<div class="hero"><div class="eyebrow">Kookwinkel Oldenhof</div><h1>${L('Welkom', 'Welcome')}</h1>
+        <p class="muted">${L('Vul de teamcode in die je van de bedrijfsleider hebt gekregen. Dat hoeft maar één keer.', 'Enter the team code you got from the manager. You only need to do this once.')}</p>${langSwitch()}</div>
+      <form data-act="team" class="card">
+        ${S.state.error === 'teamcode' ? `<p class="errtext">${L('Deze teamcode klopt niet.', 'This team code is not right.')}</p>` : ''}
+        <input class="field" name="c" type="text" placeholder="${L('Teamcode', 'Team code')}" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" style="margin-bottom:10px">
+        <button class="btn block">${L('Doorgaan', 'Continue')}</button></form>`;
+  }
+  function firstRunView() {
+    return `<div class="hero"><h1>${L('Account aanmaken', 'Create account')}</h1>
+        <p class="muted">${L('Welkom! Maak eerst het developer-account aan. Daarmee kun je later accounts voor de baas en medewerkers maken.', 'Welcome! First create the developer account. With it you can later create accounts for the boss and employees.')}</p></div>
+      ${accountForm(null, ['developer'], 'firstrun')}`;
+  }
+  function loginView() {
+    const sel = S.accounts.find(a => a.id === gate.selected);
+    return `<div class="hero"><div class="eyebrow">Kookwinkel Oldenhof</div><h1>${L('Wie ben je?', 'Who are you?')}</h1>${langSwitch()}</div>
+      <div class="people">${S.accounts.map(a => `<button class="person ${a.id === gate.selected ? 'on' : ''}" data-act="pick" data-id="${esc(a.id)}">
+        ${avatar(a, 64)}<div class="name">${esc(a.name)}</div><div class="small muted">${esc(roleName(a.role))}</div></button>`).join('')}</div>
+      ${sel ? `<form data-act="login" class="card" style="margin-top:14px"><h3>${L('Pincode van', 'PIN for')} ${esc(sel.name)}</h3>
+        <input class="field pin" name="pin" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="4" autocomplete="one-time-code" placeholder="••••" style="margin:12px 0">
+        <label class="check"><input type="checkbox" name="stay" checked> ${L('Ingelogd blijven op dit toestel', 'Stay logged in on this device')}</label>
+        ${gate.error ? `<p class="errtext">${esc(gate.error)}</p>` : ''}
+        <button class="btn block" ${gate.busy ? 'disabled' : ''}>${L('Inloggen', 'Log in')}</button></form>` : ''}
+      <p class="faint small" style="text-align:center;margin-top:18px">${L('Geen account? Vraag de bedrijfsleider om er een te maken.', 'No account? Ask the manager to create one.')}</p>`;
+  }
+
+  // ---------- account form (first run, new, edit) ----------
+  let formPhoto = null;   // data URL picked in the form
+  function accountForm(acc, roles, mode) {
+    formPhoto = acc ? acc.photo || null : null;
+    const role = acc ? acc.role : roles[0];
+    return `<form data-act="account" data-mode="${mode}" data-id="${esc(acc ? acc.id : '')}" class="card">
+      <div class="photo-pick"><label><span id="photoPrev">${avatar(acc ? { name: acc.name, photo: acc.photo } : { name: '+' }, 84)}</span>
+        <input type="file" accept="image/*" name="photo" hidden><span class="small accent-text">${L('Foto kiezen (optioneel)', 'Choose photo (optional)')}</span></label>
+        <button type="button" class="small faint" data-act="nophoto">${L('Foto verwijderen', 'Remove photo')}</button></div>
+      <label class="lbl">${L('Naam', 'Name')}</label><input class="field" name="name" value="${esc(acc ? acc.name : '')}" autocomplete="name">
+      <label class="lbl">${L('Werknummer', 'Work ID number')}</label><input class="field" name="work" value="${esc(acc ? acc.workID : '')}" inputmode="numeric">
+      <label class="lbl">${L('Niveau', 'Level')}</label>
+      ${roles.length > 1 ? `<select class="field" name="role">${roles.map(r => `<option value="${r}" ${r === role ? 'selected' : ''}>${esc(roleName(r))}</option>`).join('')}</select>`
+        : `<input type="hidden" name="role" value="${esc(role)}"><div class="field static">${esc(roleName(role))}</div>`}
+      <label class="lbl">${acc ? L('Nieuwe pincode (leeg = niet wijzigen)', 'New PIN (empty = keep)') : L('Pincode (4 cijfers)', 'PIN (4 digits)')}</label>
+      <input class="field pin" name="pin" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="4" autocomplete="new-password">
+      <label class="lbl">${L('Herhaal pincode', 'Repeat PIN')}</label>
+      <input class="field pin" name="pin2" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="4" autocomplete="new-password">
+      <p class="small faint">${L('De pincode wordt alleen versleuteld bewaard. Niemand kan hem teruglezen.', 'The PIN is only stored encrypted. Nobody can read it back.')}</p>
+      <p class="errtext" id="formErr"></p>
+      <button class="btn block">${L('Bewaar', 'Save')}</button></form>`;
+  }
+  function resizePhoto(file) {
+    return new Promise((ok, bad) => {
+      const img = new Image(); const url = URL.createObjectURL(file);
+      img.onload = () => {
+        const side = 256, s = Math.max(side / img.width, side / img.height);
+        const c = document.createElement('canvas'); c.width = side; c.height = side;
+        const w = img.width * s, h = img.height * s;
+        c.getContext('2d').drawImage(img, (side - w) / 2, (side - h) / 2, w, h);
+        URL.revokeObjectURL(url); ok(c.toDataURL('image/jpeg', 0.8));
+      };
+      img.onerror = bad; img.src = url;
+    });
+  }
+  const ERR = {
+    wrong_pin: () => L('Onjuiste pincode.', 'Wrong PIN.'),
+    locked: () => L('Te vaak een verkeerde pincode. Probeer het over 5 minuten opnieuw.', 'Too many wrong PINs. Try again in 5 minutes.'),
+    forbidden: () => L('Dit mag je niet met jouw niveau.', 'Your level does not allow this.'),
+    exists: () => L('Er bestaat al een account. Log in.', 'An account already exists. Please log in.'),
+    invalid: () => L('Controleer naam en pincode (4 cijfers).', 'Check the name and PIN (4 digits).'),
+    login: () => L('Je bent uitgelogd. Log opnieuw in.', 'You have been logged out. Please log in again.'),
+    unknown: () => L('Account niet gevonden.', 'Account not found.'),
+    teamcode: () => L('Teamcode klopt niet.', 'Team code is wrong.'),
+    setup: () => L('De accounts zijn nog niet ingesteld in de database.', 'Accounts are not set up in the database yet.'),
+    offline: () => L('Hiervoor is internet nodig.', 'This needs internet.')
+  };
+  const errText = e => (ERR[e] ? ERR[e]() : L('Er ging iets mis: ', 'Something went wrong: ') + e);
+
+  // ---------- side menu ----------
+  function menuHTML() {
+    const a = S.account; const n = openMismatchCount(); const outs = S.outList().filter(f => idx.variant[f.variantID]).length;
+    return `<div class="menu-backdrop" data-act="closemenu"></div><nav class="menu-panel" aria-label="Menu">
+      <div class="menu-head">${avatar(a, 54)}<div><div class="name">${esc(a?.name)}</div><div class="small accent-text">${esc(roleName(a?.role))}</div></div></div>
+      <div class="menu-rows">
+        <a class="mrow" href="#/check"><i>⚠︎</i><span>${L('Controle', 'Check')}</span>${n ? `<b class="badge">${n}</b>` : ''}</a>
+        <a class="mrow" href="#/notities"><i>✎</i><span>${L('Notities', 'Notes')}</span></a>
+        <a class="mrow" href="#/voorraad"><i>⚑</i><span>${L('Niet op voorraad', 'Out of stock')}</span>${outs ? `<b class="badge">${outs}</b>` : ''}</a>
+        ${isManager() ? `<a class="mrow" href="#/rapport"><i>▤</i><span>${L('Rapport', 'Report')}</span></a>
+        <a class="mrow" href="#/accounts"><i>☺</i><span>${L('Accounts', 'Accounts')}</span></a>` : ''}
+      </div>
+      <div class="small muted mlabel">${L('Weergave', 'Appearance')}</div>
+      <div class="seg">${[['system', L('Systeem', 'System')], ['light', L('Licht', 'Light')], ['dark', L('Donker', 'Dark')]].map(([k, t]) => `<button class="${THEME === k ? 'on' : ''}" data-act="theme" data-t="${k}">${t}</button>`).join('')}</div>
+      <div class="small muted mlabel">${L('Taal', 'Language')}</div>
+      <div class="seg"><button class="${LANG === 'nl' ? 'on' : ''}" data-act="lang" data-l="nl">Nederlands</button><button class="${LANG === 'en' ? 'on' : ''}" data-act="lang" data-l="en">English</button></div>
+      <div class="menu-rows">
+        <a class="mrow" href="#/over"><i>ⓘ</i><span>${L('Over de app', 'About')}</span></a>
+        <button class="mrow neg" data-act="logout"><i>⎋</i><span>${L('Uitloggen', 'Log out')}</span></button>
+      </div></nav>`;
+  }
+  function openMenu() { const m = document.getElementById('menu'); m.innerHTML = menuHTML(); m.classList.add('open'); }
+  function closeMenu() { document.getElementById('menu').classList.remove('open'); }
+
+  // ---------- dialog ----------
+  function openDialog(html) { const d = document.getElementById('dlg'); d.innerHTML = `<div class="dlg-backdrop" data-act="closedlg"></div><div class="dlg-card">${html}</div>`; d.classList.add('open'); setTimeout(() => d.querySelector('input,textarea')?.focus(), 50); }
+  function closeDialog() { document.getElementById('dlg').classList.remove('open'); }
 
   // ---------- views ----------
   const views = {};
 
   views.home = () => {
-    const name = S.user;
-    const toCheck = C.mismatches.filter(m => m.status !== 'confirmed' && m.status !== 'resolved').length;
-    const outs = S.outList().length;
-    return `<div class="hero"><div class="eyebrow">Kookwinkel Oldenhof</div><h1>${name ? `${L('Hoi', 'Hi')} ${esc(name.split(' ')[0])}` : L('Productinfo', 'Product info')}</h1>
-        <p class="muted" style="margin:6px 0 0">${L('Wat wil de klant weten?', 'What does the customer want to know?')}</p>
-        <div class="seg lang" style="margin-top:12px;max-width:140px"><button class="${LANG === 'nl' ? 'on' : ''}" data-act="lang" data-l="nl">NL</button><button class="${LANG === 'en' ? 'on' : ''}" data-act="lang" data-l="en">EN</button></div></div>
-      <a class="search" href="#/zoek"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><span class="faint">${L('Zoek product, merk of EAN', 'Search product, brand or EAN')}</span></a>
-      <div class="tiles">
-        ${C.categories.map((c, i) => `<a class="tile" href="#/c/${esc(c.id)}">${icon(c.id, i)}<div><div class="label">${esc(c.name)}</div><div class="count">${productsOfCat(c.id).length} ${L('producten', 'products')}</div></div></a>`).join('')}
-        <a class="tile" href="#/scan"><span class="icon" style="background:#4D73D933;color:#7C9BF0"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7V5a1 1 0 0 1 1-1h2M17 4h2a1 1 0 0 1 1 1v2M20 17v2a1 1 0 0 1-1 1h-2M7 20H5a1 1 0 0 1-1-1v-2M8 8v8M11 8v8M14 8v8M17 8v8"/></svg></span><div><div class="label">Scan</div><div class="count">${L('Barcode op de doos', 'Barcode on the box')}</div></div></a>
-      </div>
-      ${S.remote && (!S.hasTeamCode || !name) ? setupCard() : ''}
-      <div class="list">
-        <a class="row" href="#/team?tab=voorraad"><div class="grow"><div class="name">${L('Uitverkocht', 'Out of stock')}</div><div class="sub">${outs ? L(`${outs} kleur${outs > 1 ? 'en' : ''} gemarkeerd`, `${outs} colour${outs > 1 ? 's' : ''} marked`) : L('Niets gemarkeerd', 'Nothing marked')}</div></div>${chev}</a>
-        <a class="row" href="#/team?tab=notities"><div class="grow"><div class="name">${L("Notities van collega's", "Colleagues' notes")}</div><div class="sub">${S.allNotes().length} ${L('notities', 'notes')}</div></div>${chev}</a>
-        <a class="row" href="#/check"><div class="grow"><div class="name">${L('Te controleren', 'To check')}</div><div class="sub">${toCheck} ${L('verschillen en fouten op de website', 'differences and website errors')}</div></div>${chev}</a>
-        <a class="row" href="#/instellingen"><div class="grow"><div class="name">${L('Instellingen', 'Settings')}</div><div class="sub">${name ? esc(name) : L('Stel je naam in', 'Set your name')} · ${syncLabel()}</div></div>${chev}</a>
-      </div>
-      <p class="faint small" style="text-align:center">${L('Gegevens van', 'Data from')} ${esc(fmtDate(C.generatedOn))} · ${L('versie', 'version')} ${esc(C.version)}</p>`;
+    const a = S.account; const n = openMismatchCount();
+    const h = new Date().getHours();
+    const greet = h >= 5 && h < 12 ? L('Goedemorgen', 'Good morning') : h >= 12 && h < 18 ? L('Goedemiddag', 'Good afternoon') : L('Goedenavond', 'Good evening');
+    const first = a ? String(a.name).split(' ')[0] : '';
+    return `<div class="homebar"><button class="iconbtn" data-act="menu" aria-label="Menu"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg>${n ? '<i class="dot"></i>' : ''}</button>
+        <div style="flex:1"></div>${langSwitch()}<button class="avbtn" data-act="menu" aria-label="${esc(a?.name || 'Menu')}">${avatar(a, 40)}</button></div>
+      <div class="hero"><h1>${esc(greet)}${first ? ', ' + esc(first) : ''}</h1>
+        <p class="lead"><b>${L('Wat wil de klant', 'What does the customer')}</b> <span class="muted">${L('vandaag weten?', 'want to know today?')}</span></p></div>
+      <a class="search" href="#/zoek"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg><span class="faint">${L('Zoek op naam, merk of barcode', 'Search by name, brand or barcode')}</span></a>
+      ${S.state.error ? `<div class="card tight small"><span class="status-dot off"></span>${esc(syncLabel())}</div>` : ''}
+      ${outOfStockSection()}
+      <h2>${L('Afdelingen', 'Departments')}</h2>
+      <div class="tiles">${B.groups.map((g, i) => {
+        const np = g.categoryID ? productsOfCat(g.categoryID).length : 0;
+        return `<a class="tile" href="#/g/${esc(g.id)}">${icon(g.id, i)}<div><div class="label">${esc(LT(g.title))}</div><div class="count">${np ? `${np} ${L('producten', 'products')} · ` : ''}${g.topics.length} ${g.topics.length > 1 ? L('onderwerpen', 'topics') : L('onderwerp', 'topic')}</div></div></a>`; }).join('')}</div>
+      <div class="section-title"><h2>${L('Alle producten', 'All products')}</h2><a href="#/zoek">${L('Zoeken', 'Search')} →</a></div>
+      <div class="shelf">${C.products.map(p => `<a class="shelf-item" href="#/p/${esc(p.id)}"><div class="shelf-img"><img loading="lazy" src="${esc(productImg(p))}" alt="">${outCount(p) ? '<span class="flagdot corner">⚑</span>' : ''}</div><div class="small">${esc(p.name)}</div></a>`).join('')}</div>
+      <p class="faint small" style="text-align:center;margin-top:24px">${L('Werkt zonder internet · Productinformatie van kookwinkel.nl en het informatieboekje', 'Works offline · Product information from kookwinkel.nl and the information booklet')} · ${esc(fmtDate(C.generatedOn))}</p>`;
+  };
+
+  // department = booklet group, with the catalog category of the same subject on the same page
+  views.group = ([id], q) => {
+    const g = idx.group[id]; if (!g) return notFound();
+    const c = g.categoryID ? idx.cat[g.categoryID] : null;
+    const prods = c ? productsOfCat(c.id) : [];
+    const brandIDs = [...new Set(prods.map(p => p.brandID))].filter(b => idx.brand[b]).sort((a, b) => idx.brand[a].name.localeCompare(idx.brand[b].name));
+    const bf = q.get('merk');
+    const shown = bf ? prods.filter(p => p.brandID === bf) : prods;
+    const types = c ? typesOfCat(c.id) : [];
+    return `${top('')}<div class="hero"><div class="eyebrow">${esc(LT(g.subtitle))}</div><h1>${esc(LT(g.title))}</h1></div>
+      ${prods.length ? `<div class="section-title"><h2>${L('Producten', 'Products')}</h2><span class="muted small">${shown.length}</span></div>
+        <div class="chips"><a class="chip ${!bf ? 'on' : ''}" href="#/g/${esc(id)}">${L('Alle', 'All')}</a>${brandIDs.map(b => `<a class="chip ${bf === b ? 'on' : ''}" href="#/g/${esc(id)}?merk=${esc(b)}">${esc(idx.brand[b].name)}</a>`).join('')}</div>
+        <div class="list">${shown.map(p => productRow(p)).join('')}</div>` : ''}
+      ${types.length ? `<h2>${esc(c.groupingLabel || L('Soorten', 'Types'))}</h2>
+        <div class="list">${types.map((t, i) => `<a class="row" href="#/t/${esc(t.id)}">${icon(t.id, i)}<div class="grow"><div class="name">${esc(t.name)}</div>
+          <div class="sub">${esc(t.oneLiner?.text || t.subtitle || '')}</div><div class="sub faint">${productsOfType(t.id).length} ${L('producten', 'products')}</div></div>${chev}</a>`).join('')}</div>` : ''}
+      ${c && c.advice?.length ? `<div class="card"><h3>${L('Advies bij verkoop', 'Sales advice')}</h3><ul class="bullets">${c.advice.map(a => `<li>${esc(a.text)}</li>`).join('')}</ul>${source(c.advice[0].source)}</div>` : ''}
+      <h2>${L('Theorie uit het boekje', 'Theory from the booklet')}</h2>
+      ${g.topics.map(t => `<a class="card topic-card" href="#/g/${esc(id)}/${esc(t.id)}"><div class="section-title"><h3>${esc(LT(t.title))}</h3><span class="faint small">${esc(pageLabel(t))}</span></div>
+        ${t.summary?.length ? `<ul class="bullets">${t.summary.map(s => `<li>${md(LT(s))}</li>`).join('')}</ul>` : ''}<div class="small accent-text" style="margin-top:8px">${L('Lees meer', 'Read more')} →</div></a>`).join('')}`;
+  };
+  const pageLabel = t => { const p = [...(t.pages || [])].sort((a, b) => a - b); return p.length ? (p[0] === p[p.length - 1] ? `p. ${p[0]}` : `p. ${p[0]}-${p[p.length - 1]}`) : ''; };
+  function itemsHTML(items, ordered) {
+    const tag = ordered ? 'ol' : 'ul';
+    return `<${tag} class="${ordered ? 'numbered' : 'bullets'}">${items.map(i => `<li>${md(LT(i.text))}${i.children?.length ? itemsHTML(i.children) : ''}</li>`).join('')}</${tag}>`;
+  }
+  function blockHTML(b) {
+    switch (b.kind) {
+      case 'heading': return `<h3 class="bh">${esc(LT(b.text))}</h3>`;
+      case 'paragraph': return `<p>${md(LT(b.text))}</p>`;
+      case 'note': return `<div class="notebox">${md(LT(b.text))}</div>`;
+      case 'bullets': return itemsHTML(b.items || []);
+      case 'numbered': return itemsHTML(b.items || [], true);
+      case 'brands': return `<div class="pills" style="margin:10px 0">${(b.names || []).map(n => `<span class="pill">${esc(n)}</span>`).join('')}</div>`;
+      case 'figure': return `<figure class="fig"><img src="img/booklet/${esc(b.image)}.webp" alt="${esc(LT(b.text))}" loading="lazy"><figcaption class="small muted">${esc(LT(b.text))}${LANG === 'en' ? ' (labels in Dutch, as in the booklet)' : ''}</figcaption></figure>`;
+      case 'cards': return `<div class="bcards">${(b.cards || []).map(c => `<div class="bcard"><div class="name">${esc(LT(c.title))}</div>${c.subtitle ? `<div class="small muted">${esc(LT(c.subtitle))}</div>` : ''}
+        <dl class="kv left">${c.rows.map(r => `<dt>${esc(LT(r.label))}</dt><dd>${md(LT(r.value))}</dd>`).join('')}</dl></div>`).join('')}</div>`;
+      default: return '';
+    }
+  }
+  views.topic = ([gid, tid]) => {
+    const g = idx.group[gid]; const t = g && g.topics.find(x => x.id === tid); if (!t) return notFound();
+    // split into sections at each heading so long topics stay readable
+    const parts = []; let cur = { head: null, blocks: [] };
+    t.blocks.forEach(b => { if (b.kind === 'heading') { if (cur.head || cur.blocks.length) parts.push(cur); cur = { head: b, blocks: [] }; } else cur.blocks.push(b); });
+    parts.push(cur);
+    return `${top(LT(g.title))}<div class="hero"><div class="eyebrow">${esc(LT(g.title))} · ${esc(pageLabel(t))}</div><h1>${esc(LT(t.title))}</h1>${t.subtitle ? `<p class="muted">${esc(LT(t.subtitle))}</p>` : ''}</div>
+      ${t.summary?.length ? `<div class="card glance"><h3>${L('In het kort', 'At a glance')}</h3><ul class="bullets">${t.summary.map(s => `<li>${md(LT(s))}</li>`).join('')}</ul></div>` : ''}
+      ${parts.map(p => p.head ? `<details class="card" ${p.blocks.length <= 3 ? 'open' : ''}><summary>${esc(LT(p.head.text))}</summary><div class="prose">${p.blocks.map(blockHTML).join('')}</div></details>`
+        : (p.blocks.length ? `<div class="card prose">${p.blocks.map(blockHTML).join('')}</div>` : '')).join('')}
+      <div class="source">${L('Bron: informatieboekje Kookwinkel Oldenhof Maastricht', 'Source: Kookwinkel Oldenhof Maastricht information booklet')}, ${esc(pageLabel(t))} · ${L('nog niet vergeleken met de website', 'not yet compared with the website')}</div>`;
   };
 
   views.category = ([id]) => {
+    const g = idx.groupOfCat[id];
+    if (g) { setTimeout(() => location.replace('#/g/' + g.id)); return ''; }
     const c = idx.cat[id]; if (!c) return notFound();
-    const types = typesOfCat(id);
-    return `${top('')}<div class="hero"><div class="eyebrow">${esc(c.groupingLabel || '')}</div><h1>${esc(c.name)}</h1></div>
-      <div class="list">${types.map((t, i) => `<a class="row" href="#/t/${esc(t.id)}">${icon(t.id, i)}<div class="grow"><div class="name">${esc(t.name)}</div>
-        <div class="sub">${esc(t.oneLiner?.text || t.subtitle || '')}</div><div class="sub faint">${productsOfType(t.id).length} ${L('producten', 'products')}</div></div>${chev}</a>`).join('')}</div>
-      ${c.advice?.length ? `<h2>${L('Advies bij verkoop', 'Sales advice')}</h2><div class="card"><ul class="bullets">${c.advice.map(a => `<li>${esc(a.text)}</li>`).join('')}</ul>
-        ${source(c.advice[0].source)}</div>` : ''}`;
+    return `${top('')}<div class="hero"><h1>${esc(c.name)}</h1></div><div class="list">${productsOfCat(id).map(p => productRow(p)).join('')}</div>`;
   };
 
   views.type = ([id]) => {
     const t = idx.type[id]; if (!t) return notFound();
     const prods = productsOfType(id);
     const brands = [...new Set([...(t.brandIDs || []), ...prods.map(p => p.brandID)])].filter(b => idx.brand[b]);
-    return `${top(idx.cat[t.categoryID]?.name)}<div class="hero"><div class="eyebrow">${esc(t.subtitle || '')}</div><h1>${esc(t.name)}</h1>
+    const g = idx.groupOfCat[t.categoryID];
+    return `${top(g ? LT(g.title) : idx.cat[t.categoryID]?.name)}<div class="hero"><div class="eyebrow">${esc(t.subtitle || '')}</div><h1>${esc(t.name)}</h1>
         ${t.oneLiner ? `<p class="muted">${esc(t.oneLiner.text)}</p>${source(t.oneLiner.source)}` : ''}</div>
       ${t.facts?.length ? `<div class="facts">${t.facts.map(f => `<div class="fact ${esc(f.tone)}"><div class="l">${esc(f.label)}</div><div class="v">${esc(f.value)}</div></div>`).join('')}</div>` : ''}
       ${mismatchCard(t.mismatchIDs)}
@@ -165,7 +369,7 @@
     const out = S.isOut(v.id); const fl = S.flag(v.id);
     return `${top(brand?.name)}
       <div class="photo"><img src="${esc(v.image)}" alt="${esc(p.name + ' ' + v.colorName)}">
-        ${out ? `<span class="pill neg flag">${L('Uitverkocht', 'Out of stock')}</span>` : ''}</div>
+        ${out ? `<span class="pill neg flag">⚑ ${L('Niet op voorraad', 'Out of stock')}</span>` : ''}</div>
       <div class="hero" style="margin-top:0"><div class="eyebrow">${p.typeIDs.map(t => esc(idx.type[t]?.name || t)).join(' · ')}</div>
         <h1>${esc(p.name)}</h1>${p.suitedFor ? `<p class="muted">${esc(p.suitedFor.text)}</p>` : ''}</div>
       ${p.variants.length > 1 ? `<div class="card tight"><div class="small muted">${L('Kleur', 'Colour')}: <b style="color:var(--text)">${esc(v.colorName)}</b></div>
@@ -174,19 +378,19 @@
         <dl class="kv"><dt>${L('Kleur', 'Colour')}</dt><dd>${esc(v.colorName)}</dd>
           <dt>EAN</dt><dd class="ean">${v.ean ? esc(v.ean) : `<span class="pill warn">${L('ontbreekt', 'missing')}</span>`}</dd>
           ${v.articleNumber ? `<dt>${L('Artikelnummer', 'Article number')}</dt><dd class="ean">${esc(v.articleNumber)}</dd>` : ''}</dl>
-        <div class="toggle" style="margin-top:16px"><div><div class="name">${L('Uitverkocht', 'Out of stock')}</div>
-          <div class="small faint">${fl ? `${fl.out ? L('Gemarkeerd', 'Marked') : L('Weer op voorraad', 'Back in stock')} ${L('door', 'by')} ${esc(fl.author)}, ${esc(fmtTime(fl.updatedAt))}` : L('Geldt alleen voor deze kleur', 'Applies to this colour only')}</div></div>
-          <button class="switch ${out ? 'on' : ''}" role="switch" aria-checked="${out}" data-act="stock" data-v="${esc(v.id)}" aria-label="${L('Uitverkocht', 'Out of stock')}"></button></div>
+        <div class="toggle" style="margin-top:16px"><div><div class="name">${L('Niet op voorraad', 'Out of stock')}</div>
+          <div class="small faint">${fl ? `${fl.out ? L('Gemeld', 'Reported') : L('Weer op voorraad', 'Back in stock')} ${L('door', 'by')} ${esc(fl.author)}, ${esc(fmtTime(fl.updatedAt))}${fl.out && fl.comment ? ' · ' + esc(fl.comment) : ''}` : L('Geldt alleen voor deze kleur', 'Applies to this colour only')}</div></div>
+          <button class="switch ${out ? 'on' : ''}" role="switch" aria-checked="${out}" data-act="stock" data-v="${esc(v.id)}" aria-label="${L('Niet op voorraad', 'Out of stock')}"></button></div>
       </div>
       <div class="card"><h3>${L('Kort voor de klant', 'In short for the customer')}</h3><ul class="bullets">${p.tellTheCustomer.map(b => `<li>${esc(b)}</li>`).join('')}</ul>${source(p.source)}</div>
       ${mismatchCard(p.mismatchIDs)}
       ${p.specs?.length ? `<div class="card"><h3 style="margin-bottom:12px">${L('Specificaties', 'Specifications')}</h3><dl class="kv">${p.specs.map(s => `<dt>${esc(s.label)}</dt><dd>${esc(s.value)}</dd>`).join('')}</dl>${source(p.source)}</div>` : ''}
       <div class="card"><h3>${L("Notities van collega's", "Colleagues' notes")}</h3>
         ${notes.length ? notes.map(n => `<div class="note">${esc(n.text)}<div class="meta"><span>${esc(n.author)} · ${esc(fmtTime(n.createdAt))}${n.variantID ? ` · ${esc(idx.variant[n.variantID]?.v.colorName || '')}` : ''}</span>
-          <button class="faint" data-act="delnote" data-id="${esc(n.id)}">${L('Verwijder', 'Delete')}</button></div></div>`).join('') : `<p class="muted small">${L('Nog geen notities.', 'No notes yet.')}</p>`}
+          ${S.canDeleteNote(n) ? `<button class="faint" data-act="delnote" data-id="${esc(n.id)}">${L('Verwijder', 'Delete')}</button>` : ''}</div></div>`).join('') : `<p class="muted small">${L('Nog geen notities.', 'No notes yet.')}</p>`}
         <form data-act="addnote" data-p="${esc(p.id)}" data-v="${esc(v.id)}" style="margin-top:12px">
           <textarea name="t" placeholder="${L('Bijv. klanten vragen vaak… / demo-model staat bij de kassa', 'E.g. customers often ask… / demo model is at the till')}" maxlength="1000"></textarea>
-          <label class="small muted" style="display:flex;gap:8px;align-items:center;margin:8px 0"><input type="checkbox" name="only"> ${L('Alleen voor kleur', 'Only for colour')} ${esc(v.colorName)}</label>
+          <label class="check"><input type="checkbox" name="only"> ${L('Alleen voor kleur', 'Only for colour')} ${esc(v.colorName)}</label>
           <button class="btn block" type="submit">${L('Notitie opslaan', 'Save note')}</button></form></div>
       <details class="card"><summary>${L('Originele tekst van de website', 'Original website text (Dutch)')}</summary><p class="orig">${esc(p.originalDescription)}</p>
         <div class="source"><a href="${esc(v.productURL)}" target="_blank" rel="noopener">${L('Open op kookwinkel.nl', 'Open on kookwinkel.nl')} ↗</a></div></details>
@@ -197,15 +401,17 @@
     const term = q.get('q') || '';
     return `<div class="hero"><h1>${L('Zoeken', 'Search')}</h1></div>
       <label class="search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
-      <input id="q" type="search" inputmode="search" autocomplete="off" placeholder="${L('Product, merk, kleur of EAN', 'Product, brand, colour or EAN')}" value="${esc(term)}"></label>
+      <input id="q" type="search" inputmode="search" autocomplete="off" placeholder="${L('Product, merk, kleur, EAN of onderwerp', 'Product, brand, colour, EAN or topic')}" value="${esc(term)}"></label>
       <div id="results">${results(term)}</div>`;
   };
   function results(term) {
     const toks = norm(term).split(/\s+/).filter(Boolean);
-    if (!toks.length) return `<div class="empty">${L('Typ een naam, merk, kleur of barcode.', 'Type a name, brand, colour or barcode.')}</div>`;
+    if (!toks.length) return `<div class="empty">${L('Typ een naam, merk, kleur, barcode of onderwerp.', 'Type a name, brand, colour, barcode or topic.')}</div>`;
     const hits = idx.search.filter(x => toks.every(t => x.hay.includes(t))).map(x => x.p);
-    if (!hits.length) return `<div class="empty">${L('Niets gevonden voor', 'Nothing found for')} “${esc(term)}”.</div>`;
-    return `<p class="muted small">${hits.length} ${L('resultaten', 'results')}</p><div class="list">${hits.slice(0, 80).map(p => productRow(p, idx.brand[p.brandID]?.name + ' · ' + p.typeIDs.map(t => idx.type[t]?.name).join(', '))).join('')}</div>`;
+    const th = idx.topics.filter(x => toks.every(t => x.hay.includes(t)));
+    if (!hits.length && !th.length) return `<div class="empty">${L('Niets gevonden voor', 'Nothing found for')} “${esc(term)}”.</div>`;
+    return `${hits.length ? `<p class="muted small">${hits.length} ${L('producten', 'products')}</p><div class="list">${hits.slice(0, 80).map(p => productRow(p, idx.brand[p.brandID]?.name + ' · ' + p.typeIDs.map(t => idx.type[t]?.name).join(', '))).join('')}</div>` : ''}
+      ${th.length ? `<p class="muted small">${th.length} ${L('onderwerpen uit het boekje', 'topics from the booklet')}</p><div class="list">${th.slice(0, 40).map(({ g, t }) => `<a class="row" href="#/g/${esc(g.id)}/${esc(t.id)}"><div class="grow"><div class="name">${esc(LT(t.title))}</div><div class="sub">${esc(LT(g.title))} · ${esc(pageLabel(t))}</div></div>${chev}</a>`).join('')}</div>` : ''}`;
   }
 
   views.scan = () => `<div class="hero"><h1>${L('Barcode scannen', 'Scan barcode')}</h1><p class="muted">${L('Richt de camera op de streepjescode op de doos.', 'Point the camera at the barcode on the box.')}</p></div>
@@ -213,25 +419,15 @@
       <form data-act="ean" class="card tight" style="display:flex;gap:10px"><input class="field" name="ean" inputmode="numeric" placeholder="${L('Of typ de EAN', 'Or type the EAN')}" autocomplete="off"><button class="btn" type="submit">${L('Zoek', 'Search')}</button></form>
       <p id="scanmsg" class="muted small" style="text-align:center"></p>`;
 
-  views.team = (_, q) => {
-    const tab = q.get('tab') || 'voorraad';
-    let body;
-    if (tab === 'voorraad') {
-      const list = S.outList().map(f => ({ f, x: idx.variant[f.variantID] })).filter(o => o.x);
-      body = list.length ? `<div class="list">${list.map(({ f, x }) => `<a class="row" href="#/p/${esc(x.p.id)}?v=${esc(x.v.id)}"><img class="thumb" src="${esc(x.v.image)}" alt="">
-        <div class="grow"><div class="name">${esc(x.p.name)}</div><div class="sub">${esc(x.v.colorName)} · EAN ${esc(x.v.ean || '–')}</div>
-        <div class="sub faint">${esc(f.author)} · ${esc(fmtTime(f.updatedAt))}</div></div>${chev}</a>`).join('')}</div>`
-        : `<div class="empty">${L('Niets gemarkeerd als uitverkocht.', 'Nothing marked as out of stock.')}</div>`;
-    } else {
-      const list = S.allNotes().filter(n => idx.product[n.productID]);
-      body = list.length ? `<div class="list">${list.map(n => { const p = idx.product[n.productID]; return `<a class="row" href="#/p/${esc(p.id)}"><div class="grow">
+  views.notes = () => {
+    const list = S.allNotes().filter(n => idx.product[n.productID]);
+    return `${top('')}<div class="hero"><h1>${L('Notities', 'Notes')}</h1><p class="muted small"><span class="status-dot ${S.state.error ? 'off' : 'on'}"></span>${esc(syncLabel())}</p></div>
+      ${list.length ? `<div class="list">${list.map(n => { const p = idx.product[n.productID]; return `<a class="row" href="#/p/${esc(p.id)}"><img class="thumb" src="${esc(productImg(p))}" alt=""><div class="grow">
         <div class="name">${esc(p.name)}</div><div class="sub">${esc(n.text)}</div><div class="sub faint">${esc(n.author)} · ${esc(fmtTime(n.createdAt))}</div></div>${chev}</a>`; }).join('')}</div>`
-        : `<div class="empty">${L('Nog geen notities.', 'No notes yet.')}</div>`;
-    }
-    return `<div class="hero"><h1>Team</h1><p class="muted small"><span class="status-dot ${S.remote ? (S.state.error ? 'off' : 'on') : ''}"></span>${syncLabel()}</p></div>
-      <div class="seg"><button class="${tab === 'voorraad' ? 'on' : ''}" onclick="location.hash='#/team?tab=voorraad'">${L('Uitverkocht', 'Out of stock')}</button>
-        <button class="${tab === 'notities' ? 'on' : ''}" onclick="location.hash='#/team?tab=notities'">${L('Notities', 'Notes')}</button></div>${S.remote && (!S.hasTeamCode || !S.user) ? setupCard() : ''}${body}`;
+        : `<div class="empty">${L('Nog geen notities. Schrijf er een onderaan een productpagina.', 'No notes yet. Write one at the bottom of a product page.')}</div>`}`;
   };
+  views.stock = () => `${top('')}<div class="hero"><h1>${L('Niet op voorraad', 'Out of stock')}</h1></div>
+      ${outList() || `<div class="empty">${L('Niets gemeld.', 'Nothing reported.')}</div>`}`;
 
   views.check = () => {
     const groups = [
@@ -239,38 +435,122 @@
       [L('Fouten op de website', 'Errors on the website'), m => m.kind === 'websiteData' && m.status !== 'confirmed'],
       [L('Nog te controleren', 'Still to check'), m => !m.kind && m.status !== 'confirmed'],
       [L('Bevestigd', 'Confirmed'), m => m.status === 'confirmed']];
-    return `${top('')}<div class="hero"><h1>${L('Te controleren', 'To check')}</h1><p class="muted">${L('Punten waar het boekje en de website verschillen, of waar de website zelf iets fout toont. Vertel het de bedrijfsleider als je het antwoord weet.', 'Points where the booklet and the website differ, or where the website itself shows something wrong. Tell the manager if you know the answer.')}</p></div>
+    return `${top('')}<div class="hero"><h1>${L('Controle', 'Check')}</h1><p class="muted">${L('Punten waar het boekje en de website verschillen, of waar de website zelf iets fout toont. Vertel het de bedrijfsleider als je het antwoord weet.', 'Points where the booklet and the website differ, or where the website itself shows something wrong. Tell the manager if you know the answer.')}</p></div>
       ${groups.map(([title, f, open]) => { const l = C.mismatches.filter(f); return l.length ? `<details class="card" ${open ? 'open' : ''}><summary>${esc(title)} (${l.length})</summary>${l.map(m =>
-        mismatchBlock(m) + (m.productIDs ? `<div class="small" style="margin:-6px 0 10px 17px">${m.productIDs.filter(id => idx.product[id]).map(id => `<a style="color:var(--accent)" href="#/p/${esc(id)}">${esc(idx.product[id].name)} →</a>`).join(' ')}</div>` : '')).join('')}</details>` : ''; }).join('')}`;
+        mismatchBlock(m) + (m.productIDs ? `<div class="small" style="margin:-6px 0 10px 17px">${m.productIDs.filter(id => idx.product[id]).map(id => `<a class="accent-text" href="#/p/${esc(id)}">${esc(idx.product[id].name)} →</a>`).join(' ')}</div>` : '')).join('')}</details>` : ''; }).join('')}`;
   };
 
-  // name + team code in one card (home, team tab and settings)
-  const setupCard = () => `<form data-act="setup" class="card" style="border-color:var(--accent)"><h3>${S.hasTeamCode && S.user ? L('Naam en teamcode', 'Name and team code') : L('Welkom! Eenmalig instellen', 'Welcome! One-time setup')}</h3>
-      <p class="muted small">${L("Met je naam en de teamcode zie je de notities en voorraad van collega's.", "With your name and the team code you see your colleagues' notes and stock flags.")}</p>
-      <input class="field" name="n" value="${esc(S.user)}" placeholder="${L('Je voornaam', 'Your first name')}" autocomplete="given-name" style="margin-bottom:10px">
-      <input class="field" name="c" type="text" placeholder="${S.hasTeamCode ? L('Teamcode ingesteld (wijzigen?)', 'Team code set (change?)') : L('Teamcode', 'Team code')}" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" style="margin-bottom:10px">
-      <button class="btn block">${L('Opslaan', 'Save')}</button></form>`;
+  // ---------- quiz ----------
+  let run = null;   // {quiz, i, chosen, score, done}
+  const myResults = () => S.quizResults().filter(r => r.accountID === S.account?.id);
+  views.quiz = () => {
+    const mine = myResults();
+    return `<div class="hero"><h1>Quiz</h1><p class="muted">${L('Test wat je weet. Alle vragen komen uit het informatieboekje en de producten in de app.', 'Test what you know. Every question comes from the information booklet and the products in the app.')}</p></div>
+      ${Q.map((z, i) => { const best = Math.max(-1, ...mine.filter(r => r.quizID === z.id).map(r => r.score));
+        return `<a class="card quiz-card" href="#/quiz/${esc(z.id)}">${icon(z.id, i)}<div class="grow"><div class="name">${esc(LT(z.title))}</div>
+          <div class="sub muted">${best >= 0 ? L(`Beste score: ${best}/${z.questions.length}`, `Best score: ${best}/${z.questions.length}`) : L(`${z.questions.length} vragen`, `${z.questions.length} questions`)}</div></div><span class="play">▶</span></a>`; }).join('')}
+      ${mine.length ? `<h2>${L('Mijn resultaten', 'My results')}</h2><div class="list">${mine.slice(0, 10).map(r => `<div class="row"><div class="grow"><div class="name">${esc(LT(Q.find(z => z.id === r.quizID)?.title) || r.quizID)}</div><div class="sub">${esc(fmtTime(r.date))}</div></div><b class="score">${r.score}/${r.total}</b></div>`).join('')}</div>` : ''}`;
+  };
+  views.quizRun = ([id]) => {
+    const z = Q.find(x => x.id === id); if (!z) return notFound();
+    if (!run || run.quiz !== z) run = { quiz: z, i: 0, chosen: null, score: 0, done: false };
+    if (run.done) {
+      const s = run.score, n = z.questions.length;
+      return `${top(LT(z.title))}<div class="card center"><div class="big">${s >= 8 ? '🏆' : s >= 5 ? '⭐' : '📖'}</div><h1>${s}/${n}</h1>
+        <p class="muted">${s >= 8 ? L('Top! Jij kent je producten.', 'Great! You know your products.') : s >= 5 ? L('Goed bezig. Lees de theorie nog eens door.', 'Good going. Read the theory again.') : L('Lees de theorie in de afdeling en probeer het opnieuw.', 'Read the theory in the department and try again.')}</p>
+        <button class="btn block" data-act="quizagain">${L('Opnieuw', 'Try again')}</button><a class="btn ghost block" style="margin-top:10px" href="#/quiz">${L('Terug naar quizzen', 'Back to quizzes')}</a></div>`;
+    }
+    const q = z.questions[run.i];
+    const src = q.source.kind === 'product'
+      ? (() => { const pid = QUIZ_PRODUCT[q.source.productID] || q.source.productID; const p = idx.product[pid];
+                 return L('Bron: productpagina ', 'Source: product page ') + (p ? `<a class="accent-text" href="#/p/${esc(pid)}">${esc(p.name)}</a>` : esc(q.source.productID)); })()
+      : L('Bron: informatieboekje, p. ', 'Source: information booklet, p. ') + esc(q.source.page);
+    return `${top(LT(z.title))}<div class="progress"><i style="width:${((run.i + (run.chosen == null ? 0 : 1)) / z.questions.length) * 100}%"></i></div>
+      <div class="small muted" style="margin:10px 0">${L(`Vraag ${run.i + 1} van ${z.questions.length}`, `Question ${run.i + 1} of ${z.questions.length}`)}</div>
+      <h2 style="margin-top:0">${esc(LT(q.question))}</h2>
+      ${q.options.map((o, k) => { const cls = run.chosen == null ? '' : k === q.correct ? 'right' : k === run.chosen ? 'wrong' : '';
+        return `<button class="option ${cls}" data-act="answer" data-k="${k}" ${run.chosen != null ? 'disabled' : ''}>${esc(LT(o))}${cls === 'right' ? ' ✓' : cls === 'wrong' ? ' ✗' : ''}</button>`; }).join('')}
+      ${run.chosen != null ? `<div class="card" style="margin-top:6px"><b class="${run.chosen === q.correct ? 'pos-text' : 'accent-text'}">${run.chosen === q.correct ? L('Goed!', 'Correct!') : L('Helaas, niet goed.', 'Not quite.')}</b><div class="small muted" style="margin-top:6px">${src}</div></div>
+        <button class="btn block" data-act="quiznext">${run.i + 1 < z.questions.length ? L('Volgende vraag', 'Next question') : L('Bekijk score', 'See score')}</button>` : ''}`;
+  };
 
-  views.settings = () => `${top('')}<div class="hero"><h1>${L('Instellingen', 'Settings')}</h1></div>
-    <div class="card"><h3>${L('Taal', 'Language')}</h3><div class="seg lang"><button class="${LANG === 'nl' ? 'on' : ''}" data-act="lang" data-l="nl">Nederlands</button><button class="${LANG === 'en' ? 'on' : ''}" data-act="lang" data-l="en">English</button></div>
-      ${LANG === 'en' ? '<p class="small faint" style="margin-top:8px">Product texts are translated from the Dutch website. The original Dutch text is under each product.</p>' : ''}</div>
-    ${S.remote ? setupCard() : ''}
-    <div class="card"><h3>${L('Delen met het team', 'Sharing with the team')}</h3><p class="muted small"><span class="status-dot ${S.remote ? (S.state.error ? 'off' : 'on') : ''}"></span>${syncLabel()}</p>
-      ${S.remote ? `<button class="btn ghost block" data-act="sync">${L('Nu bijwerken', 'Update now')}</button>` : `<p class="small faint">${L('Notities en markeringen worden nu alleen op dit toestel bewaard.', 'Notes and flags are only stored on this device for now.')}</p>`}</div>
+  // ---------- report (boss, developer) ----------
+  const report = {};
+  views.report = (_, q) => {
+    if (!isManager()) return notFound();
+    const period = q.get('periode') || 'all', person = q.get('persoon') || '', dept = q.get('afdeling') || '';
+    const start = period === 'week' ? Date.now() - 7 * 864e5 : period === 'month' ? Date.now() - 30 * 864e5 : 0;
+    const inP = d => new Date(d).getTime() >= start;
+    const flags = S.outList().filter(f => idx.variant[f.variantID] && inP(f.updatedAt) && (!person || f.author === person) && (!dept || groupOfProduct(idx.product[f.productID])?.id === dept));
+    const notes = S.allNotes().filter(n => idx.product[n.productID] && inP(n.createdAt) && (!person || n.author === person) && (!dept || groupOfProduct(idx.product[n.productID])?.id === dept));
+    const quiz = S.quizResults().filter(r => inP(r.date) && (!person || r.accountName === person) && (!dept || r.quizID === dept));
+    const people = [...new Set([...S.outList().map(f => f.author), ...S.allNotes().map(n => n.author), ...S.quizResults().map(r => r.accountName)])].filter(Boolean).sort();
+    const link = (k, v) => { const p = new URLSearchParams({ periode: period, persoon: person, afdeling: dept }); p.set(k, v); return '#/rapport?' + p.toString(); };
+    report.rows = { flags, notes, quiz };
+    const none = `<p class="muted small">${L('Niets in deze selectie.', 'Nothing in this selection.')}</p>`;
+    return `${top('')}<div class="hero"><h1>${L('Rapport', 'Report')}</h1><p class="muted small">${L('Alle notities, wat er niet op voorraad is en de quizscores.', 'All notes, what is out of stock and the quiz scores.')}</p></div>
+      <div class="seg">${[['week', L('7 dagen', '7 days')], ['month', L('30 dagen', '30 days')], ['all', L('Alles', 'All')]].map(([k, t]) => `<a class="${period === k ? 'on' : ''}" href="${link('periode', k)}">${t}</a>`).join('')}</div>
+      <div class="filters"><select class="field" data-act="filter" data-k="persoon"><option value="">${L('Iedereen', 'Everyone')}</option>${people.map(p => `<option ${p === person ? 'selected' : ''}>${esc(p)}</option>`).join('')}</select>
+        <select class="field" data-act="filter" data-k="afdeling"><option value="">${L('Alle afdelingen', 'All departments')}</option>${B.groups.map(g => `<option value="${esc(g.id)}" ${g.id === dept ? 'selected' : ''}>${esc(LT(g.title))}</option>`).join('')}</select></div>
+      <button class="btn ghost block" data-act="csv" style="margin-bottom:6px">⇩ ${L('Download als CSV (Excel)', 'Download as CSV (Excel)')}</button>
+      <div class="section-title"><h2>${L('Niet op voorraad', 'Out of stock')}</h2><span class="muted small">${flags.length}</span></div>
+      ${flags.length ? `<div class="list">${flags.map(f => { const x = idx.variant[f.variantID]; return `<a class="row" href="#/p/${esc(x.p.id)}?v=${esc(x.v.id)}"><img class="thumb" src="${esc(x.v.image)}" alt=""><div class="grow"><div class="name">${esc(x.p.name)}</div><div class="sub">${esc(x.v.colorName)}${f.comment ? ' · ' + esc(f.comment) : ''}</div><div class="sub faint">${esc(f.author)} · ${esc(fmtTime(f.updatedAt))}</div></div>${chev}</a>`; }).join('')}</div>` : none}
+      <div class="section-title"><h2>${L('Notities', 'Notes')}</h2><span class="muted small">${notes.length}</span></div>
+      ${notes.length ? `<div class="list">${notes.map(n => { const p = idx.product[n.productID]; return `<a class="row" href="#/p/${esc(p.id)}"><img class="thumb" src="${esc(productImg(p))}" alt=""><div class="grow"><div class="name">${esc(p.name)}</div><div class="sub">${esc(n.text)}</div><div class="sub faint">${esc(n.author)} · ${esc(fmtTime(n.createdAt))}</div></div>${chev}</a>`; }).join('')}</div>` : none}
+      <div class="section-title"><h2>${L('Quizscores', 'Quiz scores')}</h2><span class="muted small">${quiz.length}</span></div>
+      ${quiz.length ? `<div class="list">${quiz.map(r => `<div class="row"><div class="grow"><div class="name">${esc(r.accountName)}</div><div class="sub">${esc(LT(Q.find(z => z.id === r.quizID)?.title) || r.quizID)} · ${esc(fmtTime(r.date))}</div></div><b class="score">${r.score}/${r.total}</b></div>`).join('')}</div>` : none}`;
+  };
+  function downloadCSV() {
+    const f = s => '"' + String(s ?? '').replace(/"/g, '""') + '"';
+    const lines = [[L('Soort', 'Type'), L('Datum', 'Date'), L('Persoon', 'Person'), L('Onderwerp', 'Subject'), 'Details'].map(f).join(';')];
+    const { flags = [], notes = [], quiz = [] } = report.rows || {};
+    flags.forEach(x => { const v = idx.variant[x.variantID]; lines.push([L('Niet op voorraad', 'Out of stock'), x.updatedAt, x.author, v.p.name, [v.v.colorName, x.comment].filter(Boolean).join(' · ')].map(f).join(';')); });
+    notes.forEach(n => lines.push([L('Notitie', 'Note'), n.createdAt, n.author, idx.product[n.productID].name, n.text].map(f).join(';')));
+    quiz.forEach(r => lines.push(['Quiz', r.date, r.accountName, LT(Q.find(z => z.id === r.quizID)?.title) || r.quizID, `${r.score}/${r.total}`].map(f).join(';')));
+    const blob = new Blob(['﻿' + lines.join('\n')], { type: 'text/csv;charset=utf-8' });
+    const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = L('Oldenhof-rapport.csv', 'Oldenhof-report.csv');
+    document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+  }
+
+  // ---------- accounts (boss, developer) ----------
+  views.accounts = () => {
+    if (!isManager()) return notFound();
+    return `${top('')}<div class="hero"><h1>${L('Accounts', 'Accounts')}</h1><p class="muted small">${L('Een account werkt op elke telefoon van het team.', "An account works on every team member's phone.")}</p></div>
+      <a class="btn block" href="#/accounts/nieuw" style="margin-bottom:14px">+ ${L('Nieuw account', 'New account')}</a>
+      <div class="list">${S.accounts.map(a => `<div class="row">${avatar(a, 44)}<div class="grow"><div class="name">${esc(a.name)}${a.id === S.account.id ? ` <span class="faint small">(${L('jij', 'you')})</span>` : ''}</div>
+        <div class="sub">${esc(roleName(a.role))}${a.workID ? ` · ${L('Werknr.', 'Work ID')} ${esc(a.workID)}` : ''}</div></div>
+        ${S.canEdit(a) ? `<a class="pill" href="#/accounts/${esc(a.id)}">${L('Wijzig', 'Edit')}</a>` : ''}
+        ${S.canDelete(a) ? `<button class="pill neg" data-act="delacc" data-id="${esc(a.id)}">${L('Verwijder', 'Delete')}</button>` : ''}</div>`).join('')}</div>`;
+  };
+  views.accountEdit = ([id]) => {
+    if (!isManager()) return notFound();
+    const me = S.account;
+    if (id === 'nieuw') return `${top(L('Accounts', 'Accounts'))}<div class="hero"><h1>${L('Nieuw account', 'New account')}</h1></div>${accountForm(null, S.assignable(me.role), 'new')}`;
+    const a = S.accounts.find(x => x.id === id); if (!a || !S.canEdit(a)) return notFound();
+    const roles = a.id === me.id ? [a.role] : S.assignable(me.role);
+    return `${top(L('Accounts', 'Accounts'))}<div class="hero"><h1>${L('Account wijzigen', 'Edit account')}</h1></div>${accountForm(a, roles.includes(a.role) ? roles : [a.role, ...roles], 'edit')}`;
+  };
+
+  views.about = () => `${top('')}<div class="hero"><h1>${L('Over de app', 'About')}</h1></div>
+    <div class="card"><h3>${L('Gedeeld met het team', 'Shared with the team')}</h3>
+      <p>${L('Accounts, notities, voorraadmeldingen en quizscores worden gedeeld met het hele team via de teamcode. Alles wat je zonder internet doet, wordt verstuurd zodra er weer verbinding is.', 'Accounts, notes, stock reports and quiz scores are shared with the whole team through the team code. Anything you do offline is sent as soon as there is a connection again.')}</p>
+      <p class="small muted">${L('Pincodes worden alleen versleuteld bewaard. Na 5 verkeerde pincodes is een account 5 minuten geblokkeerd.', 'PINs are only stored encrypted. After 5 wrong PINs an account is locked for 5 minutes.')}</p>
+      <p class="small muted"><span class="status-dot ${S.state.error ? 'off' : 'on'}"></span>${esc(syncLabel())}</p>
+      <button class="btn ghost block" data-act="sync">${L('Nu bijwerken', 'Update now')}</button></div>
     <div class="card"><h3>${L('Op je beginscherm zetten', 'Add to your home screen')}</h3><ul class="bullets">
-      ${L(`<li><b>iPhone (Safari):</b> deel-knop → “Zet op beginscherm”.</li>
-      <li><b>Android (Chrome):</b> menu ⋮ → “App installeren” of “Toevoegen aan startscherm”.</li>
-      <li>Daarna werkt de app ook zonder internet.</li>`, `<li><b>iPhone (Safari):</b> share button → “Add to Home Screen”.</li>
-      <li><b>Android (Chrome):</b> menu ⋮ → “Install app” or “Add to Home screen”.</li>
-      <li>After that the app also works without internet.</li>`)}</ul></div>
-    <p class="faint small" style="text-align:center">${L('Productgegevens: kookwinkel.nl en het informatieboekje', 'Product data: kookwinkel.nl and the info booklet')} · ${esc(C.products.length)} ${L('producten', 'products')}</p>`;
+      ${L(`<li><b>iPhone (Safari):</b> deel-knop → “Zet op beginscherm”.</li><li><b>Android (Chrome):</b> menu ⋮ → “App installeren” of “Toevoegen aan startscherm”.</li><li>Daarna werkt de app ook zonder internet.</li>`,
+          `<li><b>iPhone (Safari):</b> share button → “Add to Home Screen”.</li><li><b>Android (Chrome):</b> menu ⋮ → “Install app” or “Add to Home screen”.</li><li>After that the app also works without internet.</li>`)}</ul></div>
+    <form data-act="team" class="card"><h3>${L('Teamcode', 'Team code')}</h3><p class="small muted">${L('Alleen wijzigen als de bedrijfsleider een nieuwe code geeft.', 'Only change this when the manager gives a new code.')}</p>
+      <input class="field" name="c" type="text" placeholder="${L('Nieuwe teamcode', 'New team code')}" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" style="margin-bottom:10px"><button class="btn ghost block">${L('Opslaan', 'Save')}</button></form>
+    <p class="faint small" style="text-align:center">${L('Productinformatie: kookwinkel.nl en het informatieboekje Kookwinkel Oldenhof Maastricht', 'Product information: kookwinkel.nl and the Kookwinkel Oldenhof Maastricht information booklet')} · ${esc(C.products.length)} ${L('producten', 'products')} · ${L('versie', 'version')} ${esc(C.version)}</p>`;
 
   function syncLabel() {
     if (!S.remote) return L('Alleen op dit toestel', 'This device only');
     if (!S.hasTeamCode) return L('Teamcode nog niet ingesteld', 'Team code not set yet');
     if (!navigator.onLine) return L(`Offline · ${S.pending()} wijziging(en) wachten`, `Offline · ${S.pending()} change(s) waiting`);
     if (S.state.syncing) return L('Bijwerken…', 'Updating…');
-    if (S.state.error) return (S.state.error === 'teamcode' || /\b40[13]\b/.test(S.state.error)) ? L('Teamcode klopt niet. Vul hem opnieuw in.', 'Team code is wrong. Please enter it again.') : L('Delen lukt niet: ', 'Sharing failed: ') + S.state.error;
+    if (S.state.error) return (S.state.error === 'teamcode' || /\b40[13]\b/.test(S.state.error)) ? L('Teamcode klopt niet.', 'Team code is wrong.')
+      : S.state.error === 'setup' ? errText('setup') : L('Delen lukt niet: ', 'Sharing failed: ') + S.state.error;
     return S.state.lastSync ? L(`Gedeeld · bijgewerkt ${fmtTime(S.state.lastSync)}`, `Shared · updated ${fmtTime(S.state.lastSync)}`) : L('Gedeeld', 'Shared');
   }
   function notFound() { return `${top('')}<div class="empty">${L('Niet gevonden.', 'Not found.')}</div>`; }
@@ -278,12 +558,18 @@
   // ---------- router ----------
   let stopScan = null;
   function route() {
+    if (!C) return;
     if (stopScan) { stopScan(); stopScan = null; }
     const [path, qs] = (location.hash.slice(1) || '/').split('?');
     const q = new URLSearchParams(qs || '');
     const parts = path.split('/').filter(Boolean).map(decodeURIComponent);
     let html, tab = 'home';
-    if (!parts.length) html = views.home();
+    const gated = S.remote && !S.account;
+    document.body.classList.toggle('gate', gated);
+    if (gated) html = gateView();
+    else if (!parts.length) html = views.home();
+    else if (parts[0] === 'g' && parts[2]) html = views.topic([parts[1], parts[2]]);
+    else if (parts[0] === 'g') html = views.group([parts[1]], q);
     else if (parts[0] === 'c') html = views.category(parts.slice(1));
     else if (parts[0] === 't' && parts[2] === 'b') html = views.brand([parts[1], parts[3]]);
     else if (parts[0] === 't') html = views.type(parts.slice(1));
@@ -291,16 +577,22 @@
     else if (parts[0] === 'p') html = views.product(parts.slice(1), q);
     else if (parts[0] === 'zoek') { html = views.search(parts, q); tab = 'zoek'; }
     else if (parts[0] === 'scan') { html = views.scan(); tab = 'scan'; }
-    else if (parts[0] === 'team') { html = views.team(parts, q); tab = 'team'; }
+    else if (parts[0] === 'quiz' && parts[1]) { html = views.quizRun([parts[1]]); tab = 'quiz'; }
+    else if (parts[0] === 'quiz') { run = null; html = views.quiz(); tab = 'quiz'; }
+    else if (parts[0] === 'notities' || parts[0] === 'team') html = views.notes();
+    else if (parts[0] === 'voorraad') html = views.stock();
     else if (parts[0] === 'check') html = views.check();
-    else if (parts[0] === 'instellingen') html = views.settings();
+    else if (parts[0] === 'rapport') html = views.report(parts, q);
+    else if (parts[0] === 'accounts' && parts[1]) html = views.accountEdit([parts[1]]);
+    else if (parts[0] === 'accounts') html = views.accounts();
+    else if (parts[0] === 'over' || parts[0] === 'instellingen') html = views.about();
     else html = notFound();
     app.innerHTML = html;
     document.querySelectorAll('.tabbar a').forEach(a => a.classList.toggle('on', a.dataset.tab === tab));
     if (route.last !== location.hash.split('?')[0]) window.scrollTo(0, 0);
     route.last = location.hash.split('?')[0];
-    if (tab === 'zoek') wireSearch();
-    if (tab === 'scan') startScan();
+    if (!gated && tab === 'zoek') wireSearch();
+    if (!gated && tab === 'scan') startScan();
   }
   function wireSearch() {
     const input = document.getElementById('q'); if (!input) return;
@@ -344,41 +636,101 @@
 
   // ---------- actions ----------
   document.addEventListener('click', e => {
-    const b = e.target.closest('[data-act]'); if (!b || b.tagName === 'FORM') return;
-    if (b.dataset.act === 'stock') {
-      const x = idx.variant[b.dataset.v]; const now = !S.isOut(x.v.id);
-      S.setOut(x.p.id, x.v.id, now); const cn = idx.variant[x.v.id].v.colorName; toast(now ? L(`${cn} gemarkeerd als uitverkocht`, `${cn} marked out of stock`) : L(`${cn} weer op voorraad`, `${cn} back in stock`));
-    } else if (b.dataset.act === 'delnote') {
+    const b = e.target.closest('[data-act]'); if (!b || b.tagName === 'FORM' || b.tagName === 'SELECT') return;
+    const act = b.dataset.act;
+    if (act === 'stock') {
+      const x = idx.variant[b.dataset.v]; const cn = x.v.colorName;
+      if (S.isOut(x.v.id)) { S.setOut(x.p.id, x.v.id, false); toast(L(`${cn} weer op voorraad`, `${cn} back in stock`)); }
+      else openDialog(`<form data-act="report-out" data-p="${esc(x.p.id)}" data-v="${esc(x.v.id)}"><h3>${L(`${esc(cn)} niet op voorraad?`, `${esc(cn)} out of stock?`)}</h3>
+        <p class="small muted">${L("Collega's zien dit direct bij het product.", 'Colleagues see this straight away on the product.')}</p>
+        <input class="field" name="c" placeholder="${L('Toelichting (optioneel)', 'Comment (optional)')}" maxlength="200" style="margin-bottom:12px">
+        <div class="dlg-btns"><button type="button" class="btn ghost" data-act="closedlg">${L('Annuleer', 'Cancel')}</button><button class="btn">${L('Meld', 'Report')}</button></div></form>`);
+    } else if (act === 'delnote') {
       if (confirm(L('Deze notitie verwijderen?', 'Delete this note?'))) S.deleteNote(b.dataset.id);
-    } else if (b.dataset.act === 'sync') { S.sync(); }
-    else if (b.dataset.act === 'lang' && b.dataset.l !== LANG) {
-      LANG = b.dataset.l; try { localStorage.setItem('oh.lang', LANG); } catch {}
-      load().then(route);
+    } else if (act === 'sync') { S.sync(); }
+    else if (act === 'retry') { S.state.error = null; S.state.accountsLoaded = false; route(); }
+    else if (act === 'lang' && b.dataset.l !== LANG) {
+      LANG = b.dataset.l; setPref('oh.lang', LANG);
+      load().then(() => { route(); if (document.getElementById('menu').classList.contains('open')) openMenu(); });
+    } else if (act === 'theme') { THEME = b.dataset.t; setPref('oh.theme', THEME); applyTheme(); openMenu(); }
+    else if (act === 'menu') openMenu();
+    else if (act === 'closemenu') closeMenu();
+    else if (act === 'closedlg') closeDialog();
+    else if (act === 'logout') { closeMenu(); gate = { selected: null, error: '', busy: false }; S.logOut(); location.hash = '#/'; route(); }
+    else if (act === 'pick') { gate.selected = b.dataset.id; gate.error = ''; route(); setTimeout(() => app.querySelector('input[name=pin]')?.focus(), 30); }
+    else if (act === 'answer' && run && run.chosen == null) {
+      run.chosen = +b.dataset.k; if (run.chosen === run.quiz.questions[run.i].correct) run.score++; route();
+    } else if (act === 'quiznext' && run) {
+      if (run.i + 1 < run.quiz.questions.length) { run.i++; run.chosen = null; }
+      else { run.done = true; S.addQuizResult(run.quiz.id, run.score, run.quiz.questions.length); }
+      route(); scrollTo(0, 0);
+    } else if (act === 'quizagain' && run) { run = { quiz: run.quiz, i: 0, chosen: null, score: 0, done: false }; route(); }
+    else if (act === 'csv') downloadCSV();
+    else if (act === 'nophoto') { formPhoto = null; const pv = document.getElementById('photoPrev'); if (pv) pv.innerHTML = avatar({ name: b.form?.elements?.name?.value || '+' }, 84); }
+    else if (act === 'delacc') {
+      const a = S.accounts.find(x => x.id === b.dataset.id);
+      if (a && confirm(L(`Account van ${a.name} verwijderen?`, `Delete ${a.name}'s account?`)))
+        S.deleteAccount(a.id).then(r => toast(r.error ? errText(r.error) : L('Verwijderd', 'Deleted'))).catch(() => toast(errText('offline')));
     }
   });
-  document.addEventListener('submit', e => {
-    const f = e.target; if (!f.dataset.act) return; e.preventDefault();
-    if (f.dataset.act === 'addnote') {
-      const t = f.t.value.trim(); if (!t) return;
-      if (!S.user) { const n = prompt(L('Wat is je naam? (staat bij je notities)', 'What is your name? (shown with your notes)')); if (n) S.user = n.trim(); }
-      S.addNote(f.dataset.p, f.only.checked ? f.dataset.v : null, t); toast(L('Notitie opgeslagen', 'Note saved'));
-    } else if (f.dataset.act === 'setup') {
-      const n = f.n.value.trim(), c = f.c.value.trim();
-      if (n) S.user = n;
-      if (c) S.setTeamCode(c);
-      f.c.value = ''; document.activeElement?.blur?.(); toast(L('Opgeslagen', 'Saved')); route();
+  document.addEventListener('change', async e => {
+    const t = e.target;
+    if (t.dataset && t.dataset.act === 'filter') {
+      const [path, qs] = location.hash.split('?'); const p = new URLSearchParams(qs || ''); p.set(t.dataset.k, t.value); location.hash = path + '?' + p.toString();
+    } else if (t.name === 'photo' && t.files && t.files[0]) {
+      try { formPhoto = await resizePhoto(t.files[0]); document.getElementById('photoPrev').innerHTML = avatar({ photo: formPhoto }, 84); }
+      catch { toast(L('Deze foto kan niet worden gelezen.', 'This photo cannot be read.')); }
     }
-    else if (f.dataset.act === 'ean') { const v = f.ean.value.replace(/\D/g, ''); if (v) openEAN(v); }
+  });
+  document.addEventListener('input', e => { if (e.target.classList && e.target.classList.contains('pin')) e.target.value = e.target.value.replace(/\D/g, '').slice(0, 4); });
+  document.addEventListener('submit', async e => {
+    const f = e.target; if (!f.dataset.act) return; e.preventDefault();
+    const act = f.dataset.act;
+    if (act === 'addnote') {
+      const t = f.t.value.trim(); if (!t) return;
+      S.addNote(f.dataset.p, f.only.checked ? f.dataset.v : null, t); f.t.value = ''; f.t.blur(); toast(L('Notitie opgeslagen', 'Note saved')); route();
+    } else if (act === 'report-out') {
+      S.setOut(f.dataset.p, f.dataset.v, true, f.c.value.trim()); closeDialog(); route();
+      toast(L(`${idx.variant[f.dataset.v].v.colorName} gemeld als niet op voorraad`, `${idx.variant[f.dataset.v].v.colorName} reported out of stock`));
+    } else if (act === 'team') {
+      const c = f.c.value.trim(); if (!c) return;
+      S.setTeamCode(c); f.c.value = ''; toast(L('Teamcode opgeslagen', 'Team code saved')); route();
+    } else if (act === 'ean') { const v = f.ean.value.replace(/\D/g, ''); if (v) openEAN(v); }
+    else if (act === 'login') {
+      if (f.pin.value.length !== 4) { gate.error = L('Vul 4 cijfers in.', 'Enter 4 digits.'); route(); return; }
+      gate.busy = true; gate.error = '';
+      try { const r = await S.logIn(gate.selected, f.pin.value, f.stay.checked); gate.error = r.error ? errText(r.error) : ''; }
+      catch (err) { gate.error = navigator.onLine ? errText(err.message) : errText('offline'); }
+      gate.busy = false; if (S.account) { gate.selected = null; location.hash = '#/'; } route();
+    } else if (act === 'account') {
+      const err = m => { const el = document.getElementById('formErr'); if (el) el.textContent = m; };
+      const el = f.elements;
+      const name = el.name.value.trim(), work = el.work.value.trim(), role = el.role.value, pin = el.pin.value, pin2 = el.pin2.value;
+      const mode = f.dataset.mode;
+      if (!name) return err(L('Vul een naam in.', 'Enter a name.'));
+      if ((mode !== 'edit' || pin) && !/^\d{4}$/.test(pin)) return err(L('De pincode moet 4 cijfers zijn.', 'The PIN must be 4 digits.'));
+      if (pin !== pin2) return err(L('De pincodes zijn niet gelijk.', 'The PINs do not match.'));
+      const btn = f.querySelector('button.btn'); btn.disabled = true;
+      try {
+        const r = mode === 'firstrun' ? await S.createFirstDeveloper(name, work, pin, formPhoto)
+                                      : await S.saveAccount(mode === 'edit' ? f.dataset.id : null, name, work, role, pin || null, formPhoto);
+        if (r.error) { btn.disabled = false; return err(errText(r.error)); }
+        toast(L('Opgeslagen', 'Saved')); document.activeElement?.blur?.(); location.hash = mode === 'firstrun' ? '#/' : '#/accounts'; route();
+      } catch (ex) { btn.disabled = false; err(navigator.onLine ? errText(ex.message) : errText('offline')); }
+    }
   });
   S.onChange(() => {
-    // re-render only views that show team data, and never while typing
+    // re-render, but never while someone is typing, in a dialog, in a quiz or in a form
     const a = document.activeElement;
-    if (a && (a.tagName === 'TEXTAREA' || a.tagName === 'INPUT')) return;
-    if (!/^#\/(zoek|scan)/.test(location.hash)) { const y = scrollY; route(); scrollTo(0, y); }
+    if (a && (a.tagName === 'TEXTAREA' || a.tagName === 'INPUT' || a.tagName === 'SELECT')) return;
+    if (document.getElementById('dlg').classList.contains('open')) return;
+    if (/^#\/(zoek|scan|quiz\/|accounts\/)/.test(location.hash)) return;
+    if (document.body.classList.contains('gate') && !S.account && gate.selected) return;
+    const y = scrollY; route(); scrollTo(0, y);
   });
 
   // ---------- start ----------
-  window.addEventListener('hashchange', route);
+  window.addEventListener('hashchange', () => { closeMenu(); route(); });
   load().then(route).catch(() => { app.innerHTML = `<div class="empty">${L('De gegevens konden niet worden geladen. Open de app één keer met internet.', 'The data could not be loaded. Open the app once with internet.')}</div>`; });
   if ('serviceWorker' in navigator) {
     // when a new version is installed, reload once so nobody keeps an old copy

@@ -1,0 +1,1840 @@
+{
+ "quizzes": [
+  {
+   "id": "messen",
+   "symbol": "fork.knife",
+   "title": {
+    "nl": "Messen",
+    "en": "Knives"
+   },
+   "questions": [
+    {
+     "question": {
+      "nl": "Onder welke hoek worden Europese messen geslepen?",
+      "en": "At what angle are European knives sharpened?"
+     },
+     "options": [
+      {
+       "nl": "16°",
+       "en": "16°"
+      },
+      {
+       "nl": "22°",
+       "en": "22°"
+      },
+      {
+       "nl": "30°",
+       "en": "30°"
+      },
+      {
+       "nl": "10°",
+       "en": "10°"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 14
+     },
+     "id": "messen-1"
+    },
+    {
+     "question": {
+      "nl": "Onder welke hoek worden Aziatische messen geslepen?",
+      "en": "At what angle are Asian knives sharpened?"
+     },
+     "options": [
+      {
+       "nl": "16°",
+       "en": "16°"
+      },
+      {
+       "nl": "22°",
+       "en": "22°"
+      },
+      {
+       "nl": "45°",
+       "en": "45°"
+      },
+      {
+       "nl": "8°",
+       "en": "8°"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 14
+     },
+     "id": "messen-2"
+    },
+    {
+     "question": {
+      "nl": "Hoe hard is het staal van Aziatische messen?",
+      "en": "How hard is the steel of Asian knives?"
+     },
+     "options": [
+      {
+       "nl": "40-45 HRC",
+       "en": "40-45 HRC"
+      },
+      {
+       "nl": "56-59 HRC",
+       "en": "56-59 HRC"
+      },
+      {
+       "nl": "58-66 HRC",
+       "en": "58-66 HRC"
+      },
+      {
+       "nl": "70-80 HRC",
+       "en": "70-80 HRC"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 15
+     },
+     "id": "messen-3"
+    },
+    {
+     "question": {
+      "nl": "Hoe vaak zet je een mes aan met een aanzetstaal?",
+      "en": "How often do you hone a knife with a honing steel?"
+     },
+     "options": [
+      {
+       "nl": "± 1 keer per week",
+       "en": "About once a week"
+      },
+      {
+       "nl": "± 1 keer per jaar",
+       "en": "About once a year"
+      },
+      {
+       "nl": "± 1 keer per maand",
+       "en": "About once a month"
+      },
+      {
+       "nl": "Nooit",
+       "en": "Never"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 15
+     },
+     "id": "messen-4"
+    },
+    {
+     "question": {
+      "nl": "Hoe vaak slijp je een mes?",
+      "en": "How often do you sharpen a knife?"
+     },
+     "options": [
+      {
+       "nl": "± 1 keer per jaar",
+       "en": "About once a year"
+      },
+      {
+       "nl": "± 1 keer per maand",
+       "en": "About once a month"
+      },
+      {
+       "nl": "Na elk gebruik",
+       "en": "After every use"
+      },
+      {
+       "nl": "Elke 5 jaar",
+       "en": "Every 5 years"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 15
+     },
+     "id": "messen-5"
+    },
+    {
+     "question": {
+      "nl": "Welk aanzetstaal gebruik je NIET voor een Aziatisch mes?",
+      "en": "Which honing steel do you NOT use on an Asian knife?"
+     },
+     "options": [
+      {
+       "nl": "Keramisch",
+       "en": "Ceramic"
+      },
+      {
+       "nl": "Diamant",
+       "en": "Diamond"
+      },
+      {
+       "nl": "Staal",
+       "en": "Steel"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 15
+     },
+     "id": "messen-6"
+    },
+    {
+     "question": {
+      "nl": "Wat kost de slijpservice voor een koksmes?",
+      "en": "What does the sharpening service cost for a chef's knife?"
+     },
+     "options": [
+      {
+       "nl": "€ 3,50",
+       "en": "€ 3.50"
+      },
+      {
+       "nl": "€ 9,00",
+       "en": "€ 9.00"
+      },
+      {
+       "nl": "€ 5,00",
+       "en": "€ 5.00"
+      },
+      {
+       "nl": "€ 12,50",
+       "en": "€ 12.50"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 17
+     },
+     "id": "messen-7"
+    },
+    {
+     "question": {
+      "nl": "Waarom verkopen we geen snijplanken van glas of steen?",
+      "en": "Why don't we sell glass or stone cutting boards?"
+     },
+     "options": [
+      {
+       "nl": "Ze zijn te zwaar",
+       "en": "They are too heavy"
+      },
+      {
+       "nl": "Ze zijn niet hygiënisch",
+       "en": "They aren't hygienic"
+      },
+      {
+       "nl": "De plank mag nooit harder zijn dan het mes",
+       "en": "The board must never be harder than the knife"
+      },
+      {
+       "nl": "Ze zijn te duur",
+       "en": "They are too expensive"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 17
+     },
+     "id": "messen-8"
+    },
+    {
+     "question": {
+      "nl": "Welk mandolinemerk is de 'golden standard'?",
+      "en": "Which mandoline brand is the 'golden standard'?"
+     },
+     "options": [
+      {
+       "nl": "Benriner",
+       "en": "Benriner"
+      },
+      {
+       "nl": "De Buyer",
+       "en": "De Buyer"
+      },
+      {
+       "nl": "Kyocera",
+       "en": "Kyocera"
+      },
+      {
+       "nl": "Westmark",
+       "en": "Westmark"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 16
+     },
+     "id": "messen-9"
+    },
+    {
+     "question": {
+      "nl": "Welk deel van het mes geeft balans en beschermt de hand?",
+      "en": "Which part of the knife gives balance and protects the hand?"
+     },
+     "options": [
+      {
+       "nl": "De krop",
+       "en": "The bolster"
+      },
+      {
+       "nl": "De angel",
+       "en": "The tang"
+      },
+      {
+       "nl": "De snede",
+       "en": "The cutting edge"
+      },
+      {
+       "nl": "De punt",
+       "en": "The tip"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 13
+     },
+     "id": "messen-10"
+    }
+   ]
+  },
+  {
+   "id": "pannen",
+   "symbol": "frying.pan",
+   "title": {
+    "nl": "Pannen",
+    "en": "Pans"
+   },
+   "questions": [
+    {
+     "question": {
+      "nl": "Op welke warmtebron kunnen alle pannen?",
+      "en": "Which heat source works with all pans?"
+     },
+     "options": [
+      {
+       "nl": "Inductie",
+       "en": "Induction"
+      },
+      {
+       "nl": "Gas",
+       "en": "Gas"
+      },
+      {
+       "nl": "Keramisch",
+       "en": "Ceramic"
+      },
+      {
+       "nl": "Elektrisch",
+       "en": "Electric"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 22
+     },
+     "id": "pannen-1"
+    },
+    {
+     "question": {
+      "nl": "Wat heeft een pan nodig voor inductie?",
+      "en": "What does a pan need for induction?"
+     },
+     "options": [
+      {
+       "nl": "Een antiaanbaklaag",
+       "en": "A non-stick coating"
+      },
+      {
+       "nl": "Een koperen bodem",
+       "en": "A copper base"
+      },
+      {
+       "nl": "Magnetisch zijn en een vlakke bodem",
+       "en": "To be magnetic with a flat base"
+      },
+      {
+       "nl": "Een deksel",
+       "en": "A lid"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 23
+     },
+     "id": "pannen-2"
+    },
+    {
+     "question": {
+      "nl": "Boven welke temperatuur verbrandt een antiaanbaklaag?",
+      "en": "Above what temperature does a non-stick coating burn?"
+     },
+     "options": [
+      {
+       "nl": "180 °C",
+       "en": "180 °C"
+      },
+      {
+       "nl": "220 °C",
+       "en": "220 °C"
+      },
+      {
+       "nl": "270 °C",
+       "en": "270 °C"
+      },
+      {
+       "nl": "400 °C",
+       "en": "400 °C"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 27
+     },
+     "id": "pannen-3"
+    },
+    {
+     "question": {
+      "nl": "Hoeveel vermogen gebruik je maximaal bij een antiaanbakpan?",
+      "en": "How much power do you use at most with a non-stick pan?"
+     },
+     "options": [
+      {
+       "nl": "Vol vuur",
+       "en": "Full heat"
+      },
+      {
+       "nl": "2/3 (stand 6 van 9)",
+       "en": "2/3 (setting 6 of 9)"
+      },
+      {
+       "nl": "1/4",
+       "en": "1/4"
+      },
+      {
+       "nl": "Boostfunctie",
+       "en": "Boost function"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 27
+     },
+     "id": "pannen-4"
+    },
+    {
+     "question": {
+      "nl": "Hoe maak je een plaatstalen pan schoon?",
+      "en": "How do you clean a carbon steel pan?"
+     },
+     "options": [
+      {
+       "nl": "In de vaatwasser",
+       "en": "In the dishwasher"
+      },
+      {
+       "nl": "Met sop en schuurspons",
+       "en": "With soapy water and a scourer"
+      },
+      {
+       "nl": "Heet water en een borstel, nooit sop",
+       "en": "Hot water and a brush, never soap"
+      },
+      {
+       "nl": "Laten weken in water",
+       "en": "Soak it in water"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 25
+     },
+     "id": "pannen-5"
+    },
+    {
+     "question": {
+      "nl": "Hoe lang 'bakt' een plaatstalen pan bij het inbranden in de oven?",
+      "en": "How long does a carbon steel pan 'bake' in the oven when seasoning?"
+     },
+     "options": [
+      {
+       "nl": "10 minuten",
+       "en": "10 minutes"
+      },
+      {
+       "nl": "30 minuten",
+       "en": "30 minutes"
+      },
+      {
+       "nl": "60 minuten",
+       "en": "60 minutes"
+      },
+      {
+       "nl": "3 uur",
+       "en": "3 hours"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 24
+     },
+     "id": "pannen-6"
+    },
+    {
+     "question": {
+      "nl": "Wanneer voeg je zout toe in een RVS-kookpan?",
+      "en": "When do you add salt in a stainless steel pot?"
+     },
+     "options": [
+      {
+       "nl": "Meteen bij het koude water",
+       "en": "Straight into the cold water"
+      },
+      {
+       "nl": "Als het water kookt",
+       "en": "Once the water boils"
+      },
+      {
+       "nl": "Nooit",
+       "en": "Never"
+      },
+      {
+       "nl": "Na het afgieten",
+       "en": "After draining"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 25
+     },
+     "id": "pannen-7"
+    },
+    {
+     "question": {
+      "nl": "Waar komt een blauwe waas op een RVS-pan vandaan?",
+      "en": "Where does a blue haze on a stainless steel pan come from?"
+     },
+     "options": [
+      {
+       "nl": "Zetmeelresten",
+       "en": "Starch residue"
+      },
+      {
+       "nl": "Te veel zout",
+       "en": "Too much salt"
+      },
+      {
+       "nl": "Een fabrieksfout",
+       "en": "A factory defect"
+      },
+      {
+       "nl": "Olie",
+       "en": "Oil"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 29
+     },
+     "id": "pannen-8"
+    },
+    {
+     "question": {
+      "nl": "Waar ontstaat vliegroest meestal?",
+      "en": "Where does flash rust usually form?"
+     },
+     "options": [
+      {
+       "nl": "Op het gasfornuis",
+       "en": "On the gas hob"
+      },
+      {
+       "nl": "In de vaatwasser, door staaldeeltjes van andere artikelen",
+       "en": "In the dishwasher, from steel particles of other items"
+      },
+      {
+       "nl": "In de oven",
+       "en": "In the oven"
+      },
+      {
+       "nl": "Door zout water",
+       "en": "From salt water"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 28
+     },
+     "id": "pannen-9"
+    },
+    {
+     "question": {
+      "nl": "Klant vindt gietijzer te zwaar voor een braadpan. Wat wijs je aan?",
+      "en": "A customer finds cast iron too heavy for a casserole. What do you point out?"
+     },
+     "options": [
+      {
+       "nl": "Een wok",
+       "en": "A wok"
+      },
+      {
+       "nl": "Het alternatief van Demeyere en Cristel",
+       "en": "The Demeyere and Cristel alternative"
+      },
+      {
+       "nl": "Een plaatstalen pan",
+       "en": "A carbon steel pan"
+      },
+      {
+       "nl": "Een snelkookpan",
+       "en": "A pressure cooker"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 28
+     },
+     "id": "pannen-10"
+    }
+   ]
+  },
+  {
+   "id": "klein-elektrisch",
+   "symbol": "powerplug.fill",
+   "title": {
+    "nl": "Klein elektrisch",
+    "en": "Small electrical"
+   },
+   "questions": [
+    {
+     "question": {
+      "nl": "Welke snijmachine is de 'golden standard'?",
+      "en": "Which slicer is the 'golden standard'?"
+     },
+     "options": [
+      {
+       "nl": "Ritter",
+       "en": "Ritter"
+      },
+      {
+       "nl": "Berkel",
+       "en": "Berkel"
+      },
+      {
+       "nl": "Sage",
+       "en": "Sage"
+      },
+      {
+       "nl": "SMEG",
+       "en": "SMEG"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 30
+     },
+     "id": "klein-elektrisch-1"
+    },
+    {
+     "question": {
+      "nl": "Waarvoor is een Ritter snijmachine NIET geschikt?",
+      "en": "What is a Ritter slicer NOT suitable for?"
+     },
+     "options": [
+      {
+       "nl": "Brood",
+       "en": "Bread"
+      },
+      {
+       "nl": "Ham",
+       "en": "Ham"
+      },
+      {
+       "nl": "Carpaccio",
+       "en": "Carpaccio"
+      },
+      {
+       "nl": "Salami",
+       "en": "Salami"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 30
+     },
+     "id": "klein-elektrisch-2"
+    },
+    {
+     "question": {
+      "nl": "Welke broodrooster kan worden gerepareerd?",
+      "en": "Which toaster can be repaired?"
+     },
+     "options": [
+      {
+       "nl": "De duurdere Dualit",
+       "en": "The more expensive Dualit"
+      },
+      {
+       "nl": "Alessi",
+       "en": "Alessi"
+      },
+      {
+       "nl": "SMEG",
+       "en": "SMEG"
+      },
+      {
+       "nl": "Geen enkele",
+       "en": "None"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 30
+     },
+     "id": "klein-elektrisch-3"
+    },
+    {
+     "question": {
+      "nl": "Hoeveel deeg kan een Ankarsrum kneden?",
+      "en": "How much dough can an Ankarsrum knead?"
+     },
+     "options": [
+      {
+       "nl": "1 kg",
+       "en": "1 kg"
+      },
+      {
+       "nl": "2 kg",
+       "en": "2 kg"
+      },
+      {
+       "nl": "5 kg",
+       "en": "5 kg"
+      },
+      {
+       "nl": "10 kg",
+       "en": "10 kg"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 33
+     },
+     "id": "klein-elektrisch-4"
+    },
+    {
+     "question": {
+      "nl": "Welk vermogen heeft de motor van de KitchenAid (4,8 L)?",
+      "en": "What power does the KitchenAid (4.8 L) motor have?"
+     },
+     "options": [
+      {
+       "nl": "300 W",
+       "en": "300 W"
+      },
+      {
+       "nl": "900 W",
+       "en": "900 W"
+      },
+      {
+       "nl": "1500 W",
+       "en": "1500 W"
+      },
+      {
+       "nl": "150 W",
+       "en": "150 W"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 32
+     },
+     "id": "klein-elektrisch-5"
+    },
+    {
+     "question": {
+      "nl": "Hoe lang gaart een slowcooker op de lage stand?",
+      "en": "How long does a slow cooker cook on low?"
+     },
+     "options": [
+      {
+       "nl": "1 uur",
+       "en": "1 hour"
+      },
+      {
+       "nl": "2,5 uur",
+       "en": "2.5 hours"
+      },
+      {
+       "nl": "5 uur",
+       "en": "5 hours"
+      },
+      {
+       "nl": "12 uur",
+       "en": "12 hours"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 34
+     },
+     "id": "klein-elektrisch-6"
+    },
+    {
+     "question": {
+      "nl": "Hoe snel draait een slowjuicer?",
+      "en": "How fast does a slow juicer turn?"
+     },
+     "options": [
+      {
+       "nl": "30-80 omwentelingen per minuut",
+       "en": "30-80 revolutions per minute"
+      },
+      {
+       "nl": "1.000 per minuut",
+       "en": "1,000 per minute"
+      },
+      {
+       "nl": "20.000 per minuut",
+       "en": "20,000 per minute"
+      },
+      {
+       "nl": "5 per minuut",
+       "en": "5 per minute"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 36
+     },
+     "id": "klein-elektrisch-7"
+    },
+    {
+     "question": {
+      "nl": "Wat moet je in een blender altijd toevoegen?",
+      "en": "What must you always add in a blender?"
+     },
+     "options": [
+      {
+       "nl": "Ijs",
+       "en": "Ice"
+      },
+      {
+       "nl": "Een vloeistof",
+       "en": "A liquid"
+      },
+      {
+       "nl": "Suiker",
+       "en": "Sugar"
+      },
+      {
+       "nl": "Niets",
+       "en": "Nothing"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 35
+     },
+     "id": "klein-elektrisch-8"
+    },
+    {
+     "question": {
+      "nl": "Bij welke ijsmachine hoef je de kom NIET eerst in te vriezen?",
+      "en": "With which ice cream maker do you NOT need to freeze the bowl first?"
+     },
+     "options": [
+      {
+       "nl": "Niet-zelfvriezend",
+       "en": "Non-self-freezing"
+      },
+      {
+       "nl": "Zelfvriezend",
+       "en": "Self-freezing"
+      },
+      {
+       "nl": "Bij allebei",
+       "en": "Both"
+      },
+      {
+       "nl": "Bij geen van beide",
+       "en": "Neither"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 36
+     },
+     "id": "klein-elektrisch-9"
+    },
+    {
+     "question": {
+      "nl": "Wat kan de broodbakmachine van Gastroback extra?",
+      "en": "What extra can the Gastroback bread maker do?"
+     },
+     "options": [
+      {
+       "nl": "IJs maken",
+       "en": "Make ice cream"
+      },
+      {
+       "nl": "Koffie zetten",
+       "en": "Brew coffee"
+      },
+      {
+       "nl": "Vacumeren",
+       "en": "Vacuum seal"
+      },
+      {
+       "nl": "Sap persen",
+       "en": "Press juice"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 32
+     },
+     "id": "klein-elektrisch-10"
+    }
+   ]
+  },
+  {
+   "id": "fornuis",
+   "symbol": "flame.fill",
+   "title": {
+    "nl": "Fornuis en BBQ",
+    "en": "Cooking and BBQ"
+   },
+   "questions": [
+    {
+     "question": {
+      "nl": "Welk kamado-merk herken je aan de groene kleur?",
+      "en": "Which kamado brand is recognisable by its green colour?"
+     },
+     "options": [
+      {
+       "nl": "Big Green Egg",
+       "en": "Big Green Egg"
+      },
+      {
+       "nl": "The Bastard",
+       "en": "The Bastard"
+      },
+      {
+       "nl": "Kamado Joe",
+       "en": "Kamado Joe"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 43
+     },
+     "id": "fornuis-1"
+    },
+    {
+     "question": {
+      "nl": "Welk kamado-merk herken je aan de zwarte kleur?",
+      "en": "Which kamado brand is recognisable by its black colour?"
+     },
+     "options": [
+      {
+       "nl": "Big Green Egg",
+       "en": "Big Green Egg"
+      },
+      {
+       "nl": "The Bastard",
+       "en": "The Bastard"
+      },
+      {
+       "nl": "Kamado Joe",
+       "en": "Kamado Joe"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 43
+     },
+     "id": "fornuis-2"
+    },
+    {
+     "question": {
+      "nl": "Welk kamado-merk herken je aan de rode kleur?",
+      "en": "Which kamado brand is recognisable by its red colour?"
+     },
+     "options": [
+      {
+       "nl": "Big Green Egg",
+       "en": "Big Green Egg"
+      },
+      {
+       "nl": "The Bastard",
+       "en": "The Bastard"
+      },
+      {
+       "nl": "Kamado Joe",
+       "en": "Kamado Joe"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 43
+     },
+     "id": "fornuis-3"
+    },
+    {
+     "question": {
+      "nl": "Welk kamado-merk is Nederlands?",
+      "en": "Which kamado brand is Dutch?"
+     },
+     "options": [
+      {
+       "nl": "Big Green Egg",
+       "en": "Big Green Egg"
+      },
+      {
+       "nl": "The Bastard",
+       "en": "The Bastard"
+      },
+      {
+       "nl": "Kamado Joe",
+       "en": "Kamado Joe"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 43
+     },
+     "id": "fornuis-4"
+    },
+    {
+     "question": {
+      "nl": "Welk merk heeft maar 2 jaar garantie op de binnenschil van het keramiek?",
+      "en": "Which brand has only 2 years' warranty on the inner ceramic shell?"
+     },
+     "options": [
+      {
+       "nl": "Big Green Egg",
+       "en": "Big Green Egg"
+      },
+      {
+       "nl": "The Bastard",
+       "en": "The Bastard"
+      },
+      {
+       "nl": "Kamado Joe",
+       "en": "Kamado Joe"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 43
+     },
+     "id": "fornuis-5"
+    },
+    {
+     "question": {
+      "nl": "Welke diameter heeft de Kamado Joe Junior?",
+      "en": "What is the diameter of the Kamado Joe Junior?"
+     },
+     "options": [
+      {
+       "nl": "25 cm",
+       "en": "25 cm"
+      },
+      {
+       "nl": "34 cm",
+       "en": "34 cm"
+      },
+      {
+       "nl": "45 cm",
+       "en": "45 cm"
+      },
+      {
+       "nl": "61 cm",
+       "en": "61 cm"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 40
+     },
+     "id": "fornuis-6"
+    },
+    {
+     "question": {
+      "nl": "Wat zit er bij de Kamado Joe Classic III voor slowcooken en roken?",
+      "en": "What comes with the Kamado Joe Classic III for slow cooking and smoking?"
+     },
+     "options": [
+      {
+       "nl": "SlōRoller",
+       "en": "SlōRoller"
+      },
+      {
+       "nl": "Plate setter",
+       "en": "Plate setter"
+      },
+      {
+       "nl": "Pizzasteen",
+       "en": "Pizza stone"
+      },
+      {
+       "nl": "Rookpan",
+       "en": "Smoker pan"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 40
+     },
+     "id": "fornuis-7"
+    },
+    {
+     "question": {
+      "nl": "Hoe wordt een Big Green Egg geleverd?",
+      "en": "How does a Big Green Egg come?"
+     },
+     "options": [
+      {
+       "nl": "Heel compleet",
+       "en": "Very complete"
+      },
+      {
+       "nl": "Redelijk kaal: accessoires bijkopen",
+       "en": "Fairly bare: buy accessories too"
+      },
+      {
+       "nl": "Met houten zijtafels",
+       "en": "With wooden side tables"
+      },
+      {
+       "nl": "Met onderstel en zijtafels",
+       "en": "With stand and side tables"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 43
+     },
+     "id": "fornuis-8"
+    },
+    {
+     "question": {
+      "nl": "Wat is het verschil tussen The Bastard Classic en Urban?",
+      "en": "What is the difference between The Bastard Classic and Urban?"
+     },
+     "options": [
+      {
+       "nl": "Classic glanzend, Urban mat",
+       "en": "Classic glossy, Urban matte"
+      },
+      {
+       "nl": "Classic groter",
+       "en": "Classic is bigger"
+      },
+      {
+       "nl": "Urban is van staal",
+       "en": "Urban is made of steel"
+      },
+      {
+       "nl": "Geen verschil",
+       "en": "No difference"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 41
+     },
+     "id": "fornuis-9"
+    },
+    {
+     "question": {
+      "nl": "Welke garantie geeft Big Green Egg op het keramiek?",
+      "en": "What warranty does Big Green Egg give on the ceramics?"
+     },
+     "options": [
+      {
+       "nl": "2 jaar",
+       "en": "2 years"
+      },
+      {
+       "nl": "5 jaar",
+       "en": "5 years"
+      },
+      {
+       "nl": "20 jaar",
+       "en": "20 years"
+      },
+      {
+       "nl": "Levenslang",
+       "en": "Lifetime"
+      }
+     ],
+     "correct": 3,
+     "source": {
+      "kind": "booklet",
+      "page": 42
+     },
+     "id": "fornuis-10"
+    }
+   ]
+  },
+  {
+   "id": "koffie-espresso",
+   "symbol": "cup.and.saucer.fill",
+   "title": {
+    "nl": "Koffie en espresso",
+    "en": "Coffee and espresso"
+   },
+   "questions": [
+    {
+     "question": {
+      "nl": "Klant wil gemak en elke keer dezelfde smaak. Wat adviseer je?",
+      "en": "The customer wants convenience and the same taste every time. What do you recommend?"
+     },
+     "options": [
+      {
+       "nl": "Een volautomaat",
+       "en": "A bean-to-cup machine"
+      },
+      {
+       "nl": "Een halfautomaat",
+       "en": "A semi-automatic"
+      },
+      {
+       "nl": "Een losse koffiemolen",
+       "en": "A separate grinder"
+      },
+      {
+       "nl": "Een mokkapot",
+       "en": "A moka pot"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 45
+     },
+     "id": "koffie-espresso-1"
+    },
+    {
+     "question": {
+      "nl": "Welk merk volautomaten is de 'golden standard'?",
+      "en": "Which bean-to-cup brand is the 'golden standard'?"
+     },
+     "options": [
+      {
+       "nl": "Nivona",
+       "en": "Nivona"
+      },
+      {
+       "nl": "SMEG",
+       "en": "SMEG"
+      },
+      {
+       "nl": "Jura",
+       "en": "Jura"
+      },
+      {
+       "nl": "Sage",
+       "en": "Sage"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 44
+     },
+     "id": "koffie-espresso-2"
+    },
+    {
+     "question": {
+      "nl": "Welke maling heb je nodig voor een French press?",
+      "en": "What grind do you need for a French press?"
+     },
+     "options": [
+      {
+       "nl": "Fijn",
+       "en": "Fine"
+      },
+      {
+       "nl": "Grof",
+       "en": "Coarse"
+      },
+      {
+       "nl": "Poeder",
+       "en": "Powder"
+      },
+      {
+       "nl": "Maakt niet uit",
+       "en": "Doesn't matter"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 45
+     },
+     "id": "koffie-espresso-3"
+    },
+    {
+     "question": {
+      "nl": "Wat is het voordeel van platte maalschijven?",
+      "en": "What is the advantage of flat burrs?"
+     },
+     "options": [
+      {
+       "nl": "Goedkoper",
+       "en": "Cheaper"
+      },
+      {
+       "nl": "Stiller",
+       "en": "Quieter"
+      },
+      {
+       "nl": "Nauwkeuriger in te stellen en consistenter",
+       "en": "More precise to set and more consistent"
+      },
+      {
+       "nl": "Sneller schoon",
+       "en": "Quicker to clean"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "booklet",
+      "page": 45
+     },
+     "id": "koffie-espresso-4"
+    },
+    {
+     "question": {
+      "nl": "Wat bied je als bijverkoop bij een espressomachine?",
+      "en": "What add-on do you offer with an espresso machine?"
+     },
+     "options": [
+      {
+       "nl": "Een tamper of melkschuimkan",
+       "en": "A tamper or milk jug"
+      },
+      {
+       "nl": "Een mandoline",
+       "en": "A mandoline"
+      },
+      {
+       "nl": "Een slowcooker",
+       "en": "A slow cooker"
+      },
+      {
+       "nl": "Een snijplank",
+       "en": "A cutting board"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 45
+     },
+     "id": "koffie-espresso-5"
+    },
+    {
+     "question": {
+      "nl": "Klant wil een volautomaat. Wat vraag je altijd na?",
+      "en": "The customer wants a bean-to-cup machine. What do you always check?"
+     },
+     "options": [
+      {
+       "nl": "Of die op gas kookt",
+       "en": "Whether they cook on gas"
+      },
+      {
+       "nl": "Of die cappuccino's wil maken",
+       "en": "Whether they want to make cappuccinos"
+      },
+      {
+       "nl": "Welke kleur",
+       "en": "Which colour"
+      },
+      {
+       "nl": "Hoeveel personen",
+       "en": "How many people"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 45
+     },
+     "id": "koffie-espresso-6"
+    },
+    {
+     "question": {
+      "nl": "Wie maalt en doseert bij een halfautomaat?",
+      "en": "Who grinds and doses with a semi-automatic?"
+     },
+     "options": [
+      {
+       "nl": "De machine, met één knop",
+       "en": "The machine, with one button"
+      },
+      {
+       "nl": "De gebruiker zelf",
+       "en": "The user themselves"
+      },
+      {
+       "nl": "Niemand: je koopt gemalen koffie",
+       "en": "Nobody: you buy ground coffee"
+      },
+      {
+       "nl": "De winkel",
+       "en": "The shop"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 44
+     },
+     "id": "koffie-espresso-7"
+    },
+    {
+     "question": {
+      "nl": "Hoe snel is de Profitec GO 2.0 klaar voor espresso?",
+      "en": "How quickly is the Profitec GO 2.0 ready for espresso?"
+     },
+     "options": [
+      {
+       "nl": "In een paar seconden",
+       "en": "In a few seconds"
+      },
+      {
+       "nl": "Ongeveer 7 minuten",
+       "en": "About 7 minutes"
+      },
+      {
+       "nl": "30 minuten",
+       "en": "30 minutes"
+      },
+      {
+       "nl": "1 uur",
+       "en": "1 hour"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "product",
+      "productID": "profitec-go-2"
+     },
+     "id": "koffie-espresso-8"
+    },
+    {
+     "question": {
+      "nl": "Hoeveel bonen passen in de bonencontainer van de Sage Oracle Jet?",
+      "en": "How many beans fit in the Sage Oracle Jet bean hopper?"
+     },
+     "options": [
+      {
+       "nl": "100 gram",
+       "en": "100 grams"
+      },
+      {
+       "nl": "250 gram",
+       "en": "250 grams"
+      },
+      {
+       "nl": "340 gram",
+       "en": "340 grams"
+      },
+      {
+       "nl": "1 kilo",
+       "en": "1 kilo"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "product",
+      "productID": "sage-oracle-jet"
+     },
+     "id": "koffie-espresso-9"
+    },
+    {
+     "question": {
+      "nl": "Welke zetgroepmaat heeft de Sage Oracle Jet?",
+      "en": "What brew group size does the Sage Oracle Jet have?"
+     },
+     "options": [
+      {
+       "nl": "51 mm",
+       "en": "51 mm"
+      },
+      {
+       "nl": "54 mm",
+       "en": "54 mm"
+      },
+      {
+       "nl": "58 mm",
+       "en": "58 mm"
+      },
+      {
+       "nl": "63 mm",
+       "en": "63 mm"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "product",
+      "productID": "sage-oracle-jet"
+     },
+     "id": "koffie-espresso-10"
+    }
+   ]
+  },
+  {
+   "id": "producten",
+   "symbol": "shippingbox.fill",
+   "title": {
+    "nl": "Producten en kassa",
+    "en": "Products and till"
+   },
+   "questions": [
+    {
+     "question": {
+      "nl": "Hoeveel liter is de Le Creuset Signature braadpan ø 28 cm?",
+      "en": "How many litres is the Le Creuset Signature casserole ø 28 cm?"
+     },
+     "options": [
+      {
+       "nl": "4,2 liter",
+       "en": "4.2 litres"
+      },
+      {
+       "nl": "5,3 liter",
+       "en": "5.3 litres"
+      },
+      {
+       "nl": "6,7 liter",
+       "en": "6.7 litres"
+      },
+      {
+       "nl": "8 liter",
+       "en": "8 litres"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "product",
+      "productID": "lecreuset-signature-braadpan-28"
+     },
+     "id": "producten-1"
+    },
+    {
+     "question": {
+      "nl": "Voor hoeveel personen is de Le Creuset braadpan ø 28 cm bedoeld?",
+      "en": "How many people is the Le Creuset casserole ø 28 cm meant for?"
+     },
+     "options": [
+      {
+       "nl": "1 tot 2",
+       "en": "1 to 2"
+      },
+      {
+       "nl": "3 tot 4",
+       "en": "3 to 4"
+      },
+      {
+       "nl": "6 tot 8",
+       "en": "6 to 8"
+      },
+      {
+       "nl": "12 of meer",
+       "en": "12 or more"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "product",
+      "productID": "lecreuset-signature-braadpan-28"
+     },
+     "id": "producten-2"
+    },
+    {
+     "question": {
+      "nl": "Met welk laagje wordt de De Buyer B-Element blinipan geleverd?",
+      "en": "What layer does the De Buyer B-Element blini pan come with?"
+     },
+     "options": [
+      {
+       "nl": "Antiaanbaklaag",
+       "en": "Non-stick coating"
+      },
+      {
+       "nl": "Bijenwas",
+       "en": "Beeswax"
+      },
+      {
+       "nl": "Email",
+       "en": "Enamel"
+      },
+      {
+       "nl": "Geen laagje",
+       "en": "No layer"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "product",
+      "productID": "debuyer-b-element-blinipan-12"
+     },
+     "id": "producten-3"
+    },
+    {
+     "question": {
+      "nl": "Op welke warmtebron raadt de website De Buyer-pannen af?",
+      "en": "Which heat source does the website advise against for De Buyer pans?"
+     },
+     "options": [
+      {
+       "nl": "Gas",
+       "en": "Gas"
+      },
+      {
+       "nl": "Inductie",
+       "en": "Induction"
+      },
+      {
+       "nl": "Keramisch",
+       "en": "Ceramic"
+      },
+      {
+       "nl": "Elektrisch",
+       "en": "Electric"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "product",
+      "productID": "debuyer-b-element-blinipan-12"
+     },
+     "id": "producten-4"
+    },
+    {
+     "question": {
+      "nl": "Hoeveel broodstanden heeft de Sage Toast Select Luxe?",
+      "en": "How many bread settings does the Sage Toast Select Luxe have?"
+     },
+     "options": [
+      {
+       "nl": "2",
+       "en": "2"
+      },
+      {
+       "nl": "4",
+       "en": "4"
+      },
+      {
+       "nl": "6",
+       "en": "6"
+      },
+      {
+       "nl": "10",
+       "en": "10"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "product",
+      "productID": "sage-toast-select-luxe"
+     },
+     "id": "producten-5"
+    },
+    {
+     "question": {
+      "nl": "Met welke knop rooster je bij de Toast Select Luxe nog net iets langer?",
+      "en": "Which button on the Toast Select Luxe toasts a little longer?"
+     },
+     "options": [
+      {
+       "nl": "'Lift & look'",
+       "en": "'Lift & look'"
+      },
+      {
+       "nl": "'A bit more'",
+       "en": "'A bit more'"
+      },
+      {
+       "nl": "'Boost'",
+       "en": "'Boost'"
+      },
+      {
+       "nl": "'Defrost'",
+       "en": "'Defrost'"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "product",
+      "productID": "sage-toast-select-luxe"
+     },
+     "id": "producten-6"
+    },
+    {
+     "question": {
+      "nl": "Hoeveel liter is de watertank van de Profitec GO 2.0?",
+      "en": "How many litres is the Profitec GO 2.0 water tank?"
+     },
+     "options": [
+      {
+       "nl": "1,2 liter",
+       "en": "1.2 litres"
+      },
+      {
+       "nl": "2,3 liter",
+       "en": "2.3 litres"
+      },
+      {
+       "nl": "2,8 liter",
+       "en": "2.8 litres"
+      },
+      {
+       "nl": "4 liter",
+       "en": "4 litres"
+      }
+     ],
+     "correct": 2,
+     "source": {
+      "kind": "product",
+      "productID": "profitec-go-2"
+     },
+     "id": "producten-7"
+    },
+    {
+     "question": {
+      "nl": "Op welke kassagroep sla je een broodrooster aan?",
+      "en": "Which till group do you ring up a toaster under?"
+     },
+     "options": [
+      {
+       "nl": "Klein keuken",
+       "en": "Small kitchenware"
+      },
+      {
+       "nl": "Klein elektrisch",
+       "en": "Small electrical"
+      },
+      {
+       "nl": "Espresso",
+       "en": "Espresso"
+      },
+      {
+       "nl": "Kado",
+       "en": "Gift card"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 9
+     },
+     "id": "producten-8"
+    },
+    {
+     "question": {
+      "nl": "Wat geldt voor producten uit de kluis?",
+      "en": "What applies to products from the vault?"
+     },
+     "options": [
+      {
+       "nl": "Ze mogen niet meer geruild worden",
+       "en": "They can no longer be exchanged"
+      },
+      {
+       "nl": "Altijd 10% korting",
+       "en": "Always 10% discount"
+      },
+      {
+       "nl": "Alleen pinnen",
+       "en": "Card payment only"
+      },
+      {
+       "nl": "Gratis inpakken",
+       "en": "Free gift wrapping"
+      }
+     ],
+     "correct": 0,
+     "source": {
+      "kind": "booklet",
+      "page": 9
+     },
+     "id": "producten-9"
+    },
+    {
+     "question": {
+      "nl": "Op welke kassagroep sla je een Jura aan?",
+      "en": "Which till group do you ring up a Jura under?"
+     },
+     "options": [
+      {
+       "nl": "Klein elektrisch",
+       "en": "Small electrical"
+      },
+      {
+       "nl": "Espresso",
+       "en": "Espresso"
+      },
+      {
+       "nl": "Fornuis/BBQ",
+       "en": "Cooking/BBQ"
+      },
+      {
+       "nl": "Klein keuken",
+       "en": "Small kitchenware"
+      }
+     ],
+     "correct": 1,
+     "source": {
+      "kind": "booklet",
+      "page": 9
+     },
+     "id": "producten-10"
+    }
+   ]
+  }
+ ]
+}
