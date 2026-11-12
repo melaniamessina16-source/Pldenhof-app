@@ -48,7 +48,9 @@
     }
   }
   async function pull() {
-    const since = state.lastSync || '1970-01-01T00:00:00Z';
+    // Always fetch the full (small) tables: a note written offline keeps its original time,
+    // so an "only newer than my last sync" filter could skip it.
+    const since = '1970-01-01T00:00:00Z';
     const started = now();
     for (const t of ['notes', 'stock_flags']) {
       const res = await fetch(`${cfg.supabaseURL}/rest/v1/${t}?select=*&updated_at=gt.${encodeURIComponent(since)}&order=updated_at.asc&limit=5000`, { headers: headers() });
