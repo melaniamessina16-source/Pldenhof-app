@@ -1,0 +1,220 @@
+[
+ {
+  "id": "graef-estessa",
+  "name": "Graef Estessa",
+  "brandID": "graef",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Halfautomaat met E61-zetgroep, PID en thermoblock: snel op temperatuur; tamper en melkkannetje erbij.",
+  "tellTheCustomer": [
+   "Halfautomaat met dubbel thermoblock: komt snel op temperatuur.",
+   "Faema E61-zetgroep, actief verwarmd, met hendel; een waterbuffer zorgt voor pre-infusie.",
+   "PID: temperatuur zelf instellen voor espresso, stoom of heet water.",
+   "Espresso, ristretto, melkschuim voor cappuccino en latte macchiato, en heet water.",
+   "Waterreservoir 2,5 liter; bijvullen via de afneembare dekplaat (kopjes kunnen erop blijven staan).",
+   "Meegeleverd: filters voor 1 en 2 kopjes, blindfilter (backflushen), tamper en melkkannetje.",
+   "Schoonmaken: behuizing met vochtige doek, lekbak met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Waterreservoir",
+    "value": "2,5 liter"
+   },
+   {
+    "label": "Afmetingen",
+    "value": "43,3 x 29 x 42,8 cm (volgens de beschrijving)"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Graef Estessa espressomachine ｜ Kookwinkel Oldenhof (12_11_2026 14：29：06).html",
+    "colorName": "Standaard",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "la-piccola-piccola-1-liter",
+  "name": "La Piccola Piccola",
+  "brandID": "lapiccola",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Mini-machine (15 cm breed) voor E.S.E.-servings: alleen espresso, heel eenvoudig.",
+  "tellTheCustomer": [
+   "Compacte machine voor E.S.E.-servings (papieren pads), gebaseerd op het Illy E.S.E.-systeem.",
+   "Servings o.a. van Illy, Lucaffé en The Golden Coffee Box.",
+   "Werking: serving erin, hendel over, knop bovenop indrukken.",
+   "Thermoblok: snelle opwarmtijd. Alleen espresso (geen stoompijp genoemd).",
+   "Glazen waterreservoir van 1 liter; 22 x 15 x 25 cm.",
+   "Schoonmaken: buitenkant met vochtige doek, lekbak met warm water en afwasmiddel; zo nodig ontkalken."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "La Piccola Piccola espressomachine 1 liter rvs mat ｜ Kookwinkel Oldenhof (12_11_2026 14：29：07).html",
+    "colorName": "rvs mat",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "la-piccola-sara-classic-3-liter",
+  "name": "La Piccola Sara Classic",
+  "brandID": "lapiccola",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Machine voor E.S.E.-servings met groot reservoir (3 liter) en heetwater-functie.",
+  "tellTheCustomer": [
+   "Machine voor E.S.E.-servings (papieren pads).",
+   "Twee messing thermoblokken: één voor koffie (snel warm), één voor heet water.",
+   "Werking: serving erin, hendel over, knop aan de voorkant indrukken.",
+   "Groot waterreservoir van 3 liter.",
+   "Schoonmaken: buitenkant met vochtige doek, lekbak met warm water en afwasmiddel; zo nodig ontkalken."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Waterreservoir",
+    "value": "3 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "La Piccola Sara Classic espressomachine 3 liter rvs ｜ Kookwinkel Oldenhof (12_11_2026 14：29：08).html",
+    "colorName": "rvs",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "La Piccola Sara Classic: half- of volautomaat?",
+    "websiteSays": "De eerste alinea zegt \"halfautomatische espressomachine\", de tweede \"volautomatische espressomachine\".",
+    "note": "In de app bij halfautomaat (servingmachine)."
+   }
+  ]
+ },
+ {
+  "id": "la-piccola-sara-vapore-3-liter",
+  "name": "La Piccola Sara Vapore",
+  "brandID": "lapiccola",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Servingmachine met stoomfunctie: espresso en melkschuim voor cappuccino.",
+  "tellTheCustomer": [
+   "Machine voor E.S.E.-servings; volgens de specificaties ook gemalen koffie.",
+   "Twee messing thermoblokken: één voor koffie (snel warm), één voor heet water en stoom.",
+   "Espresso en melkschuim voor cappuccino.",
+   "Groot waterreservoir van 3 liter; 1200 W.",
+   "Schoonmaken: buitenkant met vochtige doek, lekbak met warm water en afwasmiddel; zo nodig ontkalken."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Waterreservoir",
+    "value": "3 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "La Piccola Sara Vapore espressomachine 3 liter rvs glans ｜ Kookwinkel Oldenhof (12_11_2026 14：29：08).html",
+    "colorName": "rvs glans",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "La Piccola Sara Vapore: half- of volautomaat?",
+    "websiteSays": "De eerste alinea zegt \"halfautomatische espressomachine\", de tweede \"volautomatische espressomachine\".",
+    "note": "In de app bij halfautomaat (servingmachine)."
+   }
+  ]
+ },
+ {
+  "id": "rancilio-silvia-pro-x-soft-infusion",
+  "name": "Rancilio Silvia Pro X",
+  "brandID": "rancilio",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Dubbele boiler met PID en shottimer: direct stoom, instelbare pre-infusie.",
+  "tellTheCustomer": [
+   "Halfautomaat met twee boilers: koffieboiler 300 ml (brons), stoomboiler 1 liter (rvs). Direct stoom beschikbaar.",
+   "PID: temperatuur van beide boilers instellen; display werkt ook als shottimer.",
+   "Voorperculatie (pre-infusie) instelbaar van 0 tot 6 seconden.",
+   "Aparte heetwaterkraan, bijvoorbeeld voor thee of kopjes voorverwarmen.",
+   "Eco-modus (uit na 30 of 60 minuten), aan-timer en automatisch blindfilter-reinigingsprogramma.",
+   "Waterreservoir 2 liter; 58 mm piston.",
+   "Schoonmaken: behuizing met vochtige doek, losse onderdelen met warm water en afwasmiddel; zo nodig ontkalken."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Rancilio Silvia Pro X Soft infusion espressomachine rvs zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：29：07).html",
+    "colorName": "rvs zwart",
+    "colorHex": "#1E1E1E"
+   },
+   {
+    "file": "Rancilio Silvia Pro X Soft infusion espressomachine rvs ｜ Kookwinkel Oldenhof (12_11_2026 14：29：05).html",
+    "colorName": "rvs",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Rancilio Silvia Pro X rvs zwart: ongeldige barcode",
+    "websiteSays": "EAN op de website: 0110408824 (10 cijfers; een EAN heeft er 13).",
+    "note": "Scan de doos in de winkel en controleer."
+   }
+  ]
+ },
+ {
+  "id": "rancilio-silvia-v6-e",
+  "name": "Rancilio Silvia V6 E",
+  "brandID": "rancilio",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Robuuste klassieker met semi-professionele zetgroep en krachtige stoom; zuinig door geïsoleerde boiler.",
+  "tellTheCustomer": [
+   "Halfautomaat met semi-professionele zetgroep en 58 mm piston.",
+   "Krachtige stoomfunctie voor melkschuim (cappuccino, caffè latte).",
+   "Boiler in isolatieschuim: kost minder energie om warm te houden; automatisch uit na 30 minuten.",
+   "Filters voor 1 en 2 doseringen en een tamper meegeleverd.",
+   "Waterreservoir 2,5 liter; 34 cm hoog, 29 cm breed, 23,5 cm diep. Kopjes bewaren/voorverwarmen bovenop.",
+   "Schoonmaken: behuizing met vochtige doek, losse onderdelen met warm water en afwasmiddel; zo nodig ontkalken."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Waterreservoir",
+    "value": "2,5 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Rancilio Silvia V6 espressomachine Sage Green kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：28：56).html",
+    "colorName": "Sage groen",
+    "colorHex": "#9CAF88"
+   },
+   {
+    "file": "Rancilio Silvia espressomachine model V6 E rvs mat ｜ Kookwinkel Oldenhof (12_11_2026 14：28：56).html",
+    "colorName": "rvs mat",
+    "colorHex": "#C8CACC"
+   },
+   {
+    "file": "Rancilio Silvia espressomachine model V6 E rvs zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：29：07).html",
+    "colorName": "rvs zwart",
+    "colorHex": "#1E1E1E"
+   },
+   {
+    "file": "Rancilio Silvia v6 espressomachine White kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：28：59).html",
+    "colorName": "Wit",
+    "colorHex": "#F2F0EA"
+   }
+  ],
+  "mismatches": []
+ }
+]

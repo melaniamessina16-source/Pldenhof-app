@@ -1,0 +1,326 @@
+{
+ "_readme": "Hand-written layer on top of the parsed website pages. Every bullet and spec here is taken from the kookwinkel.nl page named in 'url' (description or spec table); nothing comes from elsewhere. 'dropSpecs' removes spec rows that are broken or shown per colour. 'extraSpecs' are values stated in the page description. Checked on 2026-11-01 from pages Meli saved.",
+ "checkedOn": "2026-11-01",
+ "brands": {
+  "lecreuset": {
+   "officialURL": "https://www.lecreuset.nl/nl_NL/",
+   "checkedOn": "2026-11-01"
+  },
+  "profitec": {
+   "officialURL": "https://www.profitec-espresso.com/",
+   "checkedOn": "2026-11-01"
+  }
+ },
+ "products": [
+  {
+   "id": "lecreuset-signature-braadpan-28",
+   "name": "Le Creuset Signature braadpan 6,7 liter ø 28 cm",
+   "brandID": "lecreuset",
+   "typeIDs": [
+    "gietijzer"
+   ],
+   "suitedFor": "Voor 6 tot 8 personen: soep en stoofgerechten zoals boeuf bourguignon.",
+   "tellTheCustomer": [
+    "Geëmailleerd gietijzer: verdeelt de warmte gelijkmatig door de hele pan, ook op laag vuur.",
+    "6,7 liter en ø 28 cm, bedoeld voor 6 tot 8 personen.",
+    "Het gietijzeren deksel helpt de warmte te verdelen, zodat vlees rondom gelijkmatig gaart.",
+    "Extra grote grepen, makkelijk vast te pakken met ovenwanten. Dankzij de rvs knop mag de pan de oven in.",
+    "Email binnen en buiten: glad, goed bestand tegen schokken en krassen, kleur-, geur- en smaakneutraal en beschermt tegen voedselzuren.",
+    "Schoonmaken met de hand: warm water en afwasmiddel.",
+    "Levenslange garantie van Le Creuset op fabricage- en kwaliteitsdefecten van het gietijzer."
+   ],
+   "dropSpecs": [
+    "Merk",
+    "Artikelnummer",
+    "EAN",
+    "Kleur",
+    "Soort pan"
+   ],
+   "extraSpecs": [],
+   "variants": [
+    {
+     "file": "1d7f60d5",
+     "id": "lecreuset-signature-braadpan-28-kersrood",
+     "colorName": "Kersrood",
+     "colorHex": "#B3141C",
+     "imageName": "lecreuset-signature-braadpan-28-kersrood"
+    }
+   ],
+   "mismatchIDs": [
+    "web-lecreuset-soortpan"
+   ]
+  },
+  {
+   "id": "debuyer-b-element-blinipan-12",
+   "name": "De Buyer B-Element blinipan ø 12 cm",
+   "brandID": "debuyer",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": "Kleine plaatstalen koekenpan (ø 12 cm): warmt snel op en kan hoge temperaturen aan.",
+   "tellTheCustomer": [
+    "Plaatstaal: warmt snel op en verdraagt hoge temperaturen. Door veel gebruik ontstaat een natuurlijke antiaanbaklaag.",
+    "Wordt geleverd met een laagje bijenwas tegen roest. Dat moet er vóór het eerste gebruik helemaal af.",
+    "Vóór het eerste gebruik inbranden met plantaardige olie, en de pan daarna altijd een beetje vet houden tegen roest.",
+    "Schoonmaken met de hand: heet water, eventueel een klein beetje afwasmiddel (daarna insmeren met olie) en goed afdrogen.",
+    "Aangebakken? Een hand zout in de pan, op het vuur zetten en het losgeweekte vuil wegvegen met een doekje.",
+    "Inductie raadt de website af: roest aan de onderkant kan het contact met de kookplaat verhinderen. Wel geschikt voor elektrisch, gas, halogeen en keramisch.",
+    "Een krasje of roest op een nieuwe pan is normaal voor plaatstaal. Roest poets je weg met een schuursponsje."
+   ],
+   "dropSpecs": [
+    "Merk",
+    "Artikelnummer",
+    "EAN",
+    "Kleur"
+   ],
+   "extraSpecs": [],
+   "variants": [
+    {
+     "file": "489aa26a",
+     "id": "debuyer-b-element-blinipan-12-grijs",
+     "colorName": "Grijs (plaatstaal)",
+     "colorHex": "#6B6B6B",
+     "imageName": "debuyer-b-element-blinipan-12"
+    }
+   ],
+   "mismatchIDs": [
+    "plaatstaal-inductie",
+    "plaatstaal-afwasmiddel",
+    "plaatstaal-inbranden"
+   ]
+  },
+  {
+   "id": "profitec-go-2",
+   "name": "Profitec GO 2.0 espressomachine",
+   "brandID": "profitec",
+   "typeIDs": [
+    "halfautomaat"
+   ],
+   "suitedFor": "Compacte halfautomaat (21 cm breed) met PID en shottimer, in ongeveer 7 minuten warm.",
+   "tellTheCustomer": [
+    "Compacte halfautomatische espressomachine met één messing boiler (0,3 liter) en ringzetgroep.",
+    "Met de Fast Heat-Up Mode in ongeveer 7 minuten klaar voor espresso.",
+    "Zettemperatuur instellen via PID op het OLED-display. De zetdruk stel je in met het expansieventiel en lees je af op de manometer.",
+    "Twee verlichte zetknoppen met ingebouwde shottimer. Pre-infusie is in te schakelen.",
+    "Stoompijp met draaiknop voor melkschuim (cappuccino, flat white) en heet water (americano).",
+    "Instelbare aan- en uittijden en ECO-modus. Schakelt zelf uit als de watertank (2,8 liter, van boven te vullen) te leeg is.",
+    "Onderhoud: automatische reiniging van de zetgroep en een begeleid ontkalkingsprogramma. Lekbak en filterdrager met warm water en afwasmiddel, behuizing met een vochtige doek.",
+    "Meegeleverd: bodemloze filterdrager met siliconen opzetstukken, blindfilter, tamper, reinigingsborstel, waterfilterpatroon en teststrip voor de waterhardheid."
+   ],
+   "dropSpecs": [
+    "Merk",
+    "Artikelnummer",
+    "EAN",
+    "Kleur",
+    "Breedte",
+    "Lengte",
+    "Hoogte",
+    "Inhoud waterreservoir"
+   ],
+   "extraSpecs": [
+    {
+     "label": "Opwarmtijd",
+     "value": "ca. 7 minuten (Fast Heat-Up Mode)"
+    },
+    {
+     "label": "Boiler",
+     "value": "messing, 0,3 liter"
+    },
+    {
+     "label": "Watertank",
+     "value": "2,8 liter"
+    },
+    {
+     "label": "Afmetingen (b x d x h)",
+     "value": "21 x 36,2 x 38,1 cm (volgens de beschrijving)"
+    }
+   ],
+   "variants": [
+    {
+     "file": "ee303ee3",
+     "id": "profitec-go-2-mat-zwart",
+     "colorName": "Mat zwart",
+     "colorHex": "#1E1E1E",
+     "imageName": "profitec-go-2-mat-zwart"
+    }
+   ],
+   "mismatchIDs": [
+    "web-profitec-go-afmetingen",
+    "web-profitec-go-watertank"
+   ]
+  },
+  {
+   "id": "sage-oracle-jet",
+   "name": "Sage The Oracle Jet espressomachine",
+   "brandID": "sage",
+   "typeIDs": [
+    "halfautomaat"
+   ],
+   "suitedFor": "Maalt, doseert en drukt de koffie zelf aan; 11 programma's op een touchscreen en in een paar seconden warm.",
+   "tellTheCustomer": [
+    "Ingebouwde bonenmaler (Baratza, conisch maalwerk, 45 maalinstellingen) met een bonencontainer van 340 gram.",
+    "Maalt, doseert en drukt de koffie automatisch aan in de portafilter. Daarna hang je de piston zelf in de machine.",
+    "Groot touchscreen met 11 programma's, waaronder espresso, cappuccino, flat white, latte en cold brew, plus plek voor 20 eigen drankjes.",
+    "ThermoJet: in een paar seconden klaar voor gebruik. Volgens de website 32% minder energieverbruik.",
+    "Watertemperatuur instelbaar per 1 °C, 58 mm zetgroep, en pre-infusie voor een gelijkmatige extractie met minder bitterheid.",
+    "AutoMilQ: melkschuim afgestemd op koemelk, soja, amandel en haver, met een automatische en een handmatige stand. Het stoompijpje spoelt automatisch.",
+    "Schoonmaken: buitenkant met een vochtige doek. Veel reinigings- en onderhoudsspullen worden meegeleverd (zie de websitetekst)."
+   ],
+   "dropSpecs": [
+    "Merk",
+    "Artikelnummer",
+    "EAN",
+    "Breedte",
+    "Lengte",
+    "Inhoud waterreservoir",
+    "Materiaal verwarmingssysteem"
+   ],
+   "extraSpecs": [
+    {
+     "label": "Opwarmtijd",
+     "value": "een paar seconden (ThermoJet)"
+    },
+    {
+     "label": "Waterreservoir",
+     "value": "2,3 liter"
+    },
+    {
+     "label": "Bonencontainer",
+     "value": "340 gram"
+    },
+    {
+     "label": "Afmetingen (b x d x h)",
+     "value": "36,8 x 38,1 x 42,5 cm (volgens de beschrijving)"
+    }
+   ],
+   "variants": [
+    {
+     "file": "dfd6b367",
+     "id": "sage-oracle-jet-stainless-steel",
+     "colorName": "Stainless Steel",
+     "colorHex": "#BFC1C2",
+     "imageName": "sage-oracle-jet-stainless-steel"
+    }
+   ],
+   "mismatchIDs": [
+    "web-oraclejet-waterreservoir",
+    "web-oraclejet-verwarming",
+    "web-oraclejet-afmetingen",
+    "type-oraclejet"
+   ]
+  }
+ ],
+ "mismatches": [
+  {
+   "id": "plaatstaal-inductie",
+   "kind": "bookletVsWebsite",
+   "topic": "Plaatstaal op inductie",
+   "bookletSays": "In principe alle warmtebronnen, maar ze trekken krom als ze te snel worden verwarmd; vooral geschikt voor gas en elektrisch.",
+   "bookletPage": 24,
+   "websiteSays": "De Buyer B-Element: \"Om deze reden raden wij het gebruik van de Buyer pannen op inductie af\" (roest aan de onderkant kan het contact verhinderen). Inductie staat niet bij 'Geschikt voor'.",
+   "websiteURL": "https://www.kookwinkel.nl/de-buyer-b-element-blinipan-o-12-cm-plaatstaal",
+   "status": "confirmed",
+   "note": "Website is leidend: voor De Buyer inductie afraden. Andere plaatstalen merken nog niet gecontroleerd."
+  },
+  {
+   "id": "plaatstaal-afwasmiddel",
+   "kind": "bookletVsWebsite",
+   "topic": "Plaatstaal: afwasmiddel",
+   "bookletSays": "Alleen heet water en een borstel, nooit met sop.",
+   "bookletPage": 25,
+   "websiteSays": "De Buyer B-Element: heet water en eventueel een klein beetje afwasmiddel; daarna de pan insmeren met een beetje olie.",
+   "websiteURL": "https://www.kookwinkel.nl/de-buyer-b-element-blinipan-o-12-cm-plaatstaal",
+   "status": "confirmed",
+   "note": "De website staat een klein beetje afwasmiddel toe, het boekje niet."
+  },
+  {
+   "id": "plaatstaal-inbranden",
+   "kind": "bookletVsWebsite",
+   "topic": "Plaatstaal: eerste gebruik",
+   "bookletSays": "Beschermlaag verwijderen met sodasopje en schuurspons, invetten en 60 minuten in de oven op 200+ °C.",
+   "bookletPage": 24,
+   "websiteSays": "De Buyer B-Element: bijenwas helemaal verwijderen en inbranden met plantaardige olie. De website geeft geen oven- of tijdsmethode.",
+   "websiteURL": "https://www.kookwinkel.nl/de-buyer-b-element-blinipan-o-12-cm-plaatstaal",
+   "status": "toVerify",
+   "note": "Geen echte tegenspraak, maar de oven-methode staat alleen in het boekje. Meli: welke uitleg geven we?"
+  },
+  {
+   "id": "web-profitec-go-afmetingen",
+   "kind": "websiteData",
+   "topic": "Profitec GO 2.0: breedte en diepte omgedraaid",
+   "websiteSays": "Spec-tabel: breedte 36,2 cm, lengte 21 cm. Beschrijving: 21 cm breed en 36,2 cm diep.",
+   "websiteURL": "https://www.kookwinkel.nl/profitec-go-2-0-espressomachine-mat-zwart-29417-0001070627",
+   "status": "confirmed",
+   "note": "De app toont de maten uit de beschrijving. Laat de webshop de tabel aanpassen."
+  },
+  {
+   "id": "web-profitec-go-watertank",
+   "kind": "websiteData",
+   "topic": "Profitec GO 2.0: watertank toont een code",
+   "websiteSays": "Spec-tabel: 'Inhoud waterreservoir 27420'. Beschrijving: watertank van 2,8 liter.",
+   "websiteURL": "https://www.kookwinkel.nl/profitec-go-2-0-espressomachine-mat-zwart-29417-0001070627",
+   "status": "confirmed",
+   "note": "De app toont 2,8 liter uit de beschrijving."
+  },
+  {
+   "id": "web-oraclejet-waterreservoir",
+   "kind": "websiteData",
+   "topic": "Sage Oracle Jet: waterreservoir toont een code",
+   "websiteSays": "Spec-tabel: 'Inhoud waterreservoir 26742'. Beschrijving: waterreservoir van 2,3 liter.",
+   "websiteURL": "https://www.kookwinkel.nl/sage-the-oracle-jet-espressomachine-stainless-steel-67103-0001060113",
+   "status": "confirmed",
+   "note": "De app toont 2,3 liter uit de beschrijving."
+  },
+  {
+   "id": "web-oraclejet-verwarming",
+   "kind": "websiteData",
+   "topic": "Sage Oracle Jet: verwarmingssysteem toont een code",
+   "websiteSays": "Spec-tabel: 'Materiaal verwarmingssysteem 26743'. De beschrijving noemt het ThermoJet-systeem.",
+   "websiteURL": "https://www.kookwinkel.nl/sage-the-oracle-jet-espressomachine-stainless-steel-67103-0001060113",
+   "status": "confirmed",
+   "note": "Weggelaten in de app."
+  },
+  {
+   "id": "web-oraclejet-afmetingen",
+   "kind": "websiteData",
+   "topic": "Sage Oracle Jet: breedte en diepte omgedraaid",
+   "websiteSays": "Spec-tabel: breedte 38,1 cm, lengte 36,8 cm. Beschrijving: 36,8 x 38,1 x 42,5 cm (BxDxH).",
+   "websiteURL": "https://www.kookwinkel.nl/sage-the-oracle-jet-espressomachine-stainless-steel-67103-0001060113",
+   "status": "confirmed",
+   "note": "De app toont de maten uit de beschrijving."
+  },
+  {
+   "id": "web-lecreuset-soortpan",
+   "kind": "websiteData",
+   "topic": "Le Creuset Signature braadpan: 'Soort pan' toont een code",
+   "websiteSays": "Spec-tabel: 'Soort pan 26739'.",
+   "websiteURL": "https://www.kookwinkel.nl/le-creuset-signature-braadpan-6-7-liter-o-28-cm-gietijzer-kersrood",
+   "status": "confirmed",
+   "note": "Weggelaten in de app."
+  },
+  {
+   "id": "type-oraclejet",
+   "kind": "bookletVsWebsite",
+   "topic": "Sage Oracle Jet: halfautomaat of volautomaat?",
+   "bookletSays": "Sage staat bij de halfautomaten.",
+   "bookletPage": 44,
+   "websiteSays": "De website noemt het een 'espressomachine' met portafilter die automatisch maalt, doseert en aandrukt, en zegt niet of het een half- of volautomaat is.",
+   "websiteURL": "https://www.kookwinkel.nl/sage-the-oracle-jet-espressomachine-stainless-steel-67103-0001060113",
+   "status": "toVerify",
+   "note": "Voorlopig bij halfautomaat gezet, zoals in het boekje. Meli: klopt dat?"
+  }
+ ],
+ "mismatchUpdates": {
+  "coffee-groups": {
+   "websiteSays": "De website heeft de categorieën 'Volautomatische espressomachines' en 'Handmatige espressomachines' (plus 'Professionele espressomachines'). De Profitec GO 2.0-pagina noemt de machine 'halfautomatisch'.",
+   "websiteURL": "https://www.kookwinkel.nl/alles-voor-koffie-en-thee/koffiemachines/espressomachines/handmatige-espressomachines"
+  }
+ },
+ "typeGuideMismatches": {
+  "plaatstaal": [
+   "plaatstaal-inductie",
+   "plaatstaal-afwasmiddel",
+   "plaatstaal-inbranden"
+  ]
+ }
+}

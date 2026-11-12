@@ -1,0 +1,251 @@
+[
+ {
+  "id": "sage-the-barista-express",
+  "name": "Sage The Barista Express",
+  "brandID": "sage",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor de beginnende thuisbarista die van hele bonen espresso wil met een ingebouwde molen.",
+  "tellTheCustomer": [
+   "Halfautomaat met ingebouwde bonenmaler (conisch maalwerk): maalt direct in het portafilter en stopt bij de ingestelde hoeveelheid.",
+   "Maalstand en koffiehoeveelheid vooraf te programmeren.",
+   "PID: digitale temperatuurregeling.",
+   "Pre-infusie: de koffie wordt eerst met heet water besprenkeld voor extra aroma.",
+   "Zelf aandrukken met de (geïntegreerde) tamper; stoompijp voor melkschuim (cappuccino, caffè latte).",
+   "Drukmeter en verlichte toetsen aan de voorkant; kopjeswarmer bovenop.",
+   "Meegeleverd: Razor-doseringstool, rvs portafilter 54 mm, enkel- en dubbelwandige filterbakjes (1 en 2 cup), koffieschepje, tamper, rvs melkkan, reinigingsschijf en -tabletten, reinigingsborstel/-tool en inbussleutel, waterfilter met houder.",
+   "Waterreservoir 2 liter, bonenreservoir 450 gram; 31 x 32,5 x 40 cm (b x d x h).",
+   "Schoonmaken: vochtige doek."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Sage The Barista Express espressomachine Black Truffle ｜ Kookwinkel Oldenhof (12_11_2026 14：20：43).html",
+    "colorName": "Black Truffle",
+    "colorHex": "#2F2A28"
+   },
+   {
+    "file": "Sage The Barista Express espressomachine Stainless Steel ｜ Kookwinkel Oldenhof (12_11_2026 14：20：43).html",
+    "colorName": "Stainless Steel",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "sage-the-barista-express-impress",
+  "name": "Sage The Barista Express Impress",
+  "brandID": "sage",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie de Barista Express wil, maar zonder gedoe met doseren en aandrukken.",
+  "tellTheCustomer": [
+   "Volgens Sage van boon naar espresso in minder dan één minuut.",
+   "Impress Puck System: doseert en drukt de koffie aan met constant 10 kg en een barista-draai van 7°, zonder knoeien.",
+   "Intelligente dosering: berekent de dosis op basis van de vorige maling en onthoudt aanpassingen.",
+   "Ingebouwde conische molen met 25 maalstanden.",
+   "Thermocoil-verwarming met PID; extractie op 9 bar.",
+   "Stoompijp van 130 °C voor microschuim (latte macchiato, cappuccino).",
+   "Meegeleverd: Razor-doseringstool, rvs portafilter 54 mm, filterbakjes (1 en 2 cup, enkel- en dubbelwandig), rvs melkkan 480 ml, reinigingsschijf en -tabletten, ontkalkingspoeder, reinigingsborstel/-tool, inbussleutel, waterfilter met houder.",
+   "Waterreservoir 2 liter, bonenreservoir 250 gram; 33 x 38 x 41 cm (b x d x h).",
+   "Schoonmaken: vochtige doek."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Sage The Barista Express Impress espressomachine Black Stainless Steel ｜ Kookwinkel Oldenhof (12_11_2026 14：20：43).html",
+    "colorName": "Black Stainless Steel",
+    "colorHex": "#3A3B3E"
+   },
+   {
+    "file": "Sage The Barista Express Impress espressomachine Black Truffle ｜ Kookwinkel Oldenhof (12_11_2026 14：20：43).html",
+    "colorName": "Black Truffle",
+    "colorHex": "#2F2A28"
+   },
+   {
+    "file": "Sage The Barista Express Impress espressomachine Stainless Steel ｜ Kookwinkel Oldenhof (12_11_2026 14：20：44).html",
+    "colorName": "Stainless Steel",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "sage-the-barista-pro",
+  "name": "Sage The Barista Pro",
+  "brandID": "sage",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie een Barista Express zoekt die binnen 3 seconden klaar is.",
+  "tellTheCustomer": [
+   "Halfautomaat met ingebouwde conische bonenmaler; maalt direct in het portafilter en stopt bij de ingestelde hoeveelheid.",
+   "ThermoJet-verwarming: binnen 3 seconden op extractietemperatuur.",
+   "Maalstand en koffiehoeveelheid vooraf te programmeren.",
+   "Pre-infusie: koffie wordt eerst met heet water besprenkeld.",
+   "Zelf aandrukken met de geïntegreerde tamper; stoompijp voor melkschuim.",
+   "Meegeleverd: portafilter 54 mm, enkel- en dubbelwandige filterbakjes (1 en 2 cup), tamper, Razor-doseringstool, rvs melkkan 480 ml, reinigingsset, waterfilter.",
+   "Waterreservoir 2 liter, bonenreservoir 250 gram; 34 x 41 x 40,6 cm (b x d x h).",
+   "Schoonmaken: vochtige doek."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Sage The Barista Pro halfautomatische espressomachine Black Stainless Steel ｜ Kookwinkel Oldenhof (12_11_2026 14：20：43).html",
+    "colorName": "Black Stainless Steel",
+    "colorHex": "#3A3B3E"
+   },
+   {
+    "file": "Sage The Barista Pro halfautomatische espressomachine Black Truffle ｜ Kookwinkel Oldenhof (12_11_2026 14：20：52).html",
+    "colorName": "Black Truffle",
+    "colorHex": "#2F2A28"
+   },
+   {
+    "file": "Sage The Barista Pro handmatige espressomachine Stainless Steel ｜ Kookwinkel Oldenhof (12_11_2026 14：20：52).html",
+    "colorName": "Stainless Steel",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Sage The Barista Pro: half of handmatig?",
+    "websiteSays": "Black Stainless Steel en Black Truffle heten \"halfautomatische espressomachine\", Stainless Steel heet \"handmatige espressomachine\".",
+    "note": "Zelfde machine in een andere kleur. De website gebruikt beide woorden door elkaar."
+   }
+  ]
+ },
+ {
+  "id": "sage-the-dynamic-duo-2-delig",
+  "name": "Sage The Dynamic Duo (2-delig)",
+  "brandID": "sage",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor de thuisbarista die het hele proces van boon tot kopje zelf wil doen: dualboiler plus losse molen.",
+  "tellTheCustomer": [
+   "Set van twee: The Dual Boiler-espressomachine en The Smart Grinder Pro-koffiemolen, beide van geborsteld rvs.",
+   "Dubbele rvs-boiler met PID: tegelijk espresso zetten en melk opstomen.",
+   "Lagedruk-voorpercolatie voor zoveel mogelijk aroma; krachtige dubbele pomp, 15 bar.",
+   "LCD-scherm: watertemperatuur, waterhoeveelheid en doorlooptijd.",
+   "Kopjeswarmer bovenop, grote lekbak met rooster, uitneembare tamper en Razor-tool.",
+   "Smart Grinder Pro: langzaam draaiend conisch maalwerk (warmt de koffie zo min mogelijk op), 60 maalstanden, LCD voor maalgraad, maalduur en porties.",
+   "Molen maalt direct in een 50, 54 of 58 mm filterdrager, of in het glazen opvangbakje; bonenreservoir 450 gram; antislipvoet.",
+   "Meegeleverd bij de machine: Razor 58 mm, rvs portafilter 58 mm, filterbakjes (1 en 2 cup, enkel- en dubbelwandig), rvs melkkan 480 ml, reinigingsset.",
+   "Espressomachine: 37,1 x 37,3 x 37,3 cm, 2200 W; waterreservoir 2,5 liter.",
+   "Schoonmaken: vochtige doek."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,5 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Sage the Dynamic Duo Espressomachine 2-delig Stainless Steel ｜ Kookwinkel Oldenhof (12_11_2026 14：20：52).html",
+    "colorName": "Stainless Steel",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Sage The Dynamic Duo: pistondiameter",
+    "websiteSays": "Specificaties: pistondiameter 54 mm. Tekst: portafilter en Razor van 58 mm.",
+    "note": "Controleer bij Sage of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "sage-the-luxe-brewer-thermal-koffiezetapparaat-1-8-liter",
+  "name": "Sage The Luxe Brewer Thermal",
+  "brandID": "sage",
+  "typeIDs": [
+   "filterkoffie"
+  ],
+  "suitedFor": "Voor wie filterkoffie wil volgens de richtlijnen van de Specialty Coffee Association, warm gehouden in een thermoskan.",
+  "tellTheCustomer": [
+   "Filterkoffiezetapparaat van rvs met thermoskan van 1,8 liter: houdt koffie tot 4 uur op temperatuur.",
+   "Water tussen 92 en 96 °C, volgens de richtlijnen van de Specialty Coffee Association.",
+   "3 programma's: Brew, Cold brew en Uitgestelde start.",
+   "Aan te passen: bloom-volume, bloom-tijd, zettemperatuur en doorloopsnelheid.",
+   "Twee filtervormen meegeleverd, afhankelijk van de koffie: kegelvormig filterbakje en filterbakje met gaas; plus 10 papieren filters voor het platte bakje, maatlepel en teststrip voor waterhardheid.",
+   "1650 W.",
+   "Schoonmaken: buitenkant met een vochtige doek; kan met warm water en afwasmiddel. Gebruik een waterfilter."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Sage the Luxe Brewer Thermal koffiezetapparaat kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：20：52).html",
+    "colorName": "Stainless Steel",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "sage-the-oracle-jet",
+  "name": "Sage The Oracle Jet",
+  "brandID": "sage",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie barista-kwaliteit wil met zo min mogelijk handwerk: malen, doseren, aandrukken en melk opschuimen gaan automatisch.",
+  "tellTheCustomer": [
+   "Ingebouwde Europese Baratza-molen (conisch) met 45 maalstanden; maalt, doseert en drukt automatisch aan in het portafilter. U hangt zelf de piston in.",
+   "Groot touchscreen met 11 automatische programma's: flat white, latte, cappuccino, espresso, long black, babyccino, chocolademelk, thee, café crema, cold brew en koude espresso.",
+   "Tot 20 eigen drankjes met eigen naam op te slaan.",
+   "ThermoJet: in een paar seconden klaar; volgens Sage 32% minder energieverbruik.",
+   "Professionele 58 mm zetgroep; watertemperatuur in stappen van 1 °C.",
+   "Pre-infusie: druk loopt geleidelijk op, voor een gelijkmatige extractie en minder bitterheid.",
+   "AutoMilQ: instellingen voor koe-, soja-, amandel- en havermelk; automatische of handmatige modus; stoompijp spoelt automatisch.",
+   "Meegeleverd: rvs portafilter 58 mm, Knock Box 10, filterbakjes (1 en 2 kopjes), borstels, stoompijptool, inbussleutel, reinigingsschijf en -tabletten, teststrip, waterfilter met houder, ontkalkingspoeder.",
+   "Waterreservoir 2,3 liter, bonenreservoir 340 gram; 36,8 x 38,1 x 42,5 cm (b x d x h); 1600 W."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,3 liter"
+   },
+   {
+    "label": "Inhoud bonenreservoir",
+    "value": "340 gram"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Sage The Oracle Jet espressomachine Black Truffle ｜ Kookwinkel Oldenhof (12_11_2026 14：20：52).html",
+    "colorName": "Black Truffle",
+    "colorHex": "#2F2A28"
+   },
+   {
+    "file": "dfd6b367-Sage_The_Oracle_Jet_Espresso_Machine_Stainless_Steel___Cookware_Store_Oldenhof.html",
+    "colorName": "Stainless Steel",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Sage The Oracle Jet: half- of volautomaat?",
+    "websiteSays": "De website noemt de Oracle Jet alleen \"espressomachine\". Hij maalt, doseert en drukt automatisch aan, maar u hangt zelf de piston in.",
+    "note": "In de app staat hij nu bij halfautomaten. Nog te bevestigen door Oldenhof."
+   }
+  ]
+ }
+]

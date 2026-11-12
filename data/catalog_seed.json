@@ -1,0 +1,1277 @@
+{
+ "version": "0.2-web",
+ "generatedOn": "2026-11-01",
+ "categories": [
+  {
+   "id": "pannen",
+   "name": "Pannen",
+   "symbol": "frying.pan",
+   "groupingLabel": "Per materiaal",
+   "advice": [
+    {
+     "text": "Vraag altijd op welke warmtebron de klant kookt: niet elke pan werkt op inductie.",
+     "source": {
+      "kind": "booklet",
+      "page": 28
+     }
+    },
+    {
+     "text": "Vraag of de klant een voorkeur heeft voor een pan met of zonder antiaanbaklaag.",
+     "source": {
+      "kind": "booklet",
+      "page": 28
+     }
+    },
+    {
+     "text": "Kookt de klant nu op gas, vraag of die op termijn wil overstappen: pannen kunnen op gas kromtrekken.",
+     "source": {
+      "kind": "booklet",
+      "page": 28
+     }
+    },
+    {
+     "text": "Op inductie: hoe beter de kookplaat, hoe beter de pan moet zijn.",
+     "source": {
+      "kind": "booklet",
+      "page": 28
+     }
+    }
+   ]
+  },
+  {
+   "id": "koffie",
+   "name": "Koffie",
+   "symbol": "cup.and.saucer.fill",
+   "groupingLabel": "Per soort machine",
+   "advice": [
+    {
+     "text": "Gemak en elke keer dezelfde smaak? Adviseer een volautomaat. Zelf controle en experimenteren? Een halfautomaat.",
+     "source": {
+      "kind": "booklet",
+      "page": 45
+     }
+    },
+    {
+     "text": "Bij een volautomaat: vraag of de klant cappuccino's wil maken. Niet alle volautomaten kunnen dat; een losse melkopschuimer kan wel.",
+     "source": {
+      "kind": "booklet",
+      "page": 45
+     }
+    },
+    {
+     "text": "Bied een demonstratie en een kop koffie aan.",
+     "source": {
+      "kind": "booklet",
+      "page": 45
+     }
+    }
+   ]
+  }
+ ],
+ "typeGuides": [
+  {
+   "id": "plaatstaal",
+   "categoryID": "pannen",
+   "name": "Plaatstaal",
+   "subtitle": "Carbon steel",
+   "oneLiner": {
+    "text": "Goede warmtegeleiding en bij goed onderhoud onverslijtbaar, maar niet roestvrij: vraagt inbranden en olie.",
+    "source": {
+     "kind": "booklet",
+     "page": 24
+    }
+   },
+   "facts": [
+    {
+     "label": "Vaatwasser",
+     "value": "nee",
+     "symbol": "dishwasher",
+     "tone": "negative",
+     "source": {
+      "kind": "booklet",
+      "page": 25
+     }
+    },
+    {
+     "label": "Roestvrij",
+     "value": "nee",
+     "symbol": "drop",
+     "tone": "negative",
+     "source": {
+      "kind": "booklet",
+      "page": 24
+     }
+    },
+    {
+     "label": "Inductie",
+     "value": "kan, let op kromtrekken",
+     "symbol": "bolt",
+     "tone": "neutral",
+     "source": {
+      "kind": "booklet",
+      "page": 24
+     }
+    },
+    {
+     "label": "Onderhoud",
+     "value": "inbranden + olie",
+     "symbol": "flame",
+     "tone": "neutral",
+     "source": {
+      "kind": "booklet",
+      "page": 24
+     }
+    }
+   ],
+   "sections": [
+    {
+     "title": "Eigenschappen",
+     "symbol": "info.circle",
+     "bullets": [
+      "Goede warmtegeleiding.",
+      "Niet roestvrij, dus speciaal onderhoud nodig.",
+      "Relatief goedkoop.",
+      "Bij goed onderhoud onverslijtbaar."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 24
+     }
+    },
+    {
+     "title": "Warmtebronnen",
+     "symbol": "flame",
+     "bullets": [
+      "In principe alle warmtebronnen, maar ze trekken krom als ze te snel worden verwarmd.",
+      "Daarom vooral geschikt voor gas en elektrische kookplaten."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 24
+     }
+    },
+    {
+     "title": "Eerste gebruik: inbranden",
+     "symbol": "sparkles",
+     "bullets": [
+      "Beschermlaag verwijderen met een sodasopje en schuurspons (alleen de eerste keer).",
+      "Binnen- en buitenkant dun invetten met zonnebloem- of arachideolie.",
+      "Ondersteboven in de oven, mee opwarmen tot 200+ °C, dan 60 minuten laten 'bakken'.",
+      "Oven uit, pan in de oven laten afkoelen. Klaar voor gebruik.",
+      "Hoe vaker de pan wordt gebruikt, hoe beter hij gaat bakken."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 24
+     }
+    },
+    {
+     "title": "Gebruik",
+     "symbol": "frying.pan",
+     "bullets": [
+      "Niet erg geschikt voor zure producten (tomatensaus, afblussen met wijn): dat tast de laag aan en kan metaalachtig smaken.",
+      "Roestplek? Schuren en behandelen met olie of opnieuw inbranden."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 25
+     }
+    },
+    {
+     "title": "Schoonmaken",
+     "symbol": "drop",
+     "bullets": [
+      "Alleen heet water en een borstel, nooit met sop.",
+      "Nooit in water laten staan, nooit in de vaatwasser.",
+      "Na drogen altijd inwrijven met olie.",
+      "Aangekoekt? Rustig opwarmen met water, dan kookt het los."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 25
+     }
+    }
+   ],
+   "brandIDs": [
+    "turk",
+    "debuyer",
+    "vaello"
+   ],
+   "mismatchIDs": [
+    "brands-still-sold",
+    "plaatstaal-inductie",
+    "plaatstaal-afwasmiddel",
+    "plaatstaal-inbranden"
+   ]
+  },
+  {
+   "id": "roestvrijstaal",
+   "categoryID": "pannen",
+   "name": "Roestvrijstaal",
+   "subtitle": "Stainless steel / RVS",
+   "oneLiner": {
+    "text": "Kras- en zuurbestendig, op alle warmtebronnen te gebruiken; niet te snel opwarmen.",
+    "source": {
+     "kind": "booklet",
+     "page": 25
+    }
+   },
+   "facts": [
+    {
+     "label": "Inductie",
+     "value": "ja",
+     "symbol": "bolt",
+     "tone": "positive",
+     "source": {
+      "kind": "booklet",
+      "page": 25
+     }
+    },
+    {
+     "label": "Vaatwasser",
+     "value": "kan, wordt dof",
+     "symbol": "dishwasher",
+     "tone": "neutral",
+     "source": {
+      "kind": "booklet",
+      "page": 25
+     }
+    },
+    {
+     "label": "Zuurbestendig",
+     "value": "ja",
+     "symbol": "drop",
+     "tone": "positive",
+     "source": {
+      "kind": "booklet",
+      "page": 25
+     }
+    }
+   ],
+   "sections": [
+    {
+     "title": "Eigenschappen",
+     "symbol": "info.circle",
+     "bullets": [
+      "Kras- en zuurbestendig.",
+      "Bestand tegen zeer hoge temperaturen.",
+      "Warmt niet snel op, tenzij meerlaags met aluminium of koper.",
+      "RVS zelf geleidt slecht en is weinig magnetisch: daarom zitten er aluminium of koperen lagen in de bodem of ook in de wand. Voor inductie vaak een extra magnetische laag; dat hangt af van het merk."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 25
+     }
+    },
+    {
+     "title": "Gebruik",
+     "symbol": "frying.pan",
+     "bullets": [
+      "Niet te snel opwarmen, niet meteen op de hoogste stand.",
+      "Boostfunctie van de inductieplaat afraden: oververhitting kan de pan beschadigen en krom laten trekken.",
+      "Zout pas toevoegen als het water kookt, om schade en vlekken op de bodem te voorkomen."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 25
+     }
+    },
+    {
+     "title": "Schoonmaken",
+     "symbol": "drop",
+     "bullets": [
+      "Kan met een sopje of in de vaatwasser (tenzij anders vermeld). Ons advies: met de hand, de vaatwasser maakt het materiaal dof.",
+      "Kalk of witte, blauwe of bruine vlekjes: reinigen met (schoonmaak)azijn.",
+      "Aangebrand: beetje water in de hete pan. Blijft er iets zitten, scheutje citroensap met heet water een kwartier laten staan, dan zacht schoonboenen."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 25
+     }
+    },
+    {
+     "title": "Klant komt terug met roestplekjes of blauwe waas",
+     "symbol": "questionmark.bubble",
+     "bullets": [
+      "Vliegroest ontstaat meestal in de vaatwasser door staaldeeltjes van andere (goedkopere) artikelen. Schoonmaken met koperpoets of Demeyere schoonmaakcrème.",
+      "Blauwe of olievlekachtige waas komt van zetmeelresten en is normaal bij hoogwaardig RVS. Schoonmaken met azijn en warm water."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 28
+     }
+    }
+   ],
+   "brandIDs": [
+    "inoxibar",
+    "demeyere",
+    "fissler",
+    "spring",
+    "cristel"
+   ]
+  },
+  {
+   "id": "gietijzer",
+   "categoryID": "pannen",
+   "name": "Gietijzer",
+   "subtitle": "Cast iron, geëmailleerd of niet",
+   "oneLiner": {
+    "text": "Zwaar en duurzaam, houdt de warmte heel goed vast; altijd langzaam opwarmen.",
+    "source": {
+     "kind": "booklet",
+     "page": 26
+    }
+   },
+   "facts": [
+    {
+     "label": "Vaatwasser",
+     "value": "nee",
+     "symbol": "dishwasher",
+     "tone": "negative",
+     "source": {
+      "kind": "booklet",
+      "page": 26
+     }
+    },
+    {
+     "label": "Inductie",
+     "value": "ja",
+     "symbol": "bolt",
+     "tone": "positive",
+     "source": {
+      "kind": "booklet",
+      "page": 26
+     }
+    },
+    {
+     "label": "Oven",
+     "value": "meestal ja",
+     "symbol": "oven",
+     "tone": "positive",
+     "source": {
+      "kind": "booklet",
+      "page": 26
+     }
+    }
+   ],
+   "sections": [
+    {
+     "title": "Eigenschappen",
+     "symbol": "info.circle",
+     "bullets": [
+      "Zwaar en duurzaam, bestand tegen hoge temperaturen.",
+      "Verdeelt en geleidt de warmte goed, maar langzaam; houdt warmte goed vast.",
+      "Vervormt niet, meestal ovenbestendig.",
+      "Geëmailleerd: dun glas- en verflaagje beschermt tegen roest en zuren. Niet-geëmailleerd is niet roestvrij."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 26
+     }
+    },
+    {
+     "title": "Gebruik",
+     "symbol": "frying.pan",
+     "bullets": [
+      "Langzaam opwarmen, anders kan het gietijzer barsten.",
+      "Roestvlekjes (alleen niet-geëmailleerd): schuren en met olie behandelen."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 26
+     }
+    },
+    {
+     "title": "Schoonmaken niet-geëmailleerd",
+     "symbol": "drop",
+     "bullets": [
+      "Alleen heet water en een borstel, nooit met sop.",
+      "Nooit in water laten staan, nooit in de vaatwasser.",
+      "Na drogen altijd inwrijven met olie."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 26
+     }
+    },
+    {
+     "title": "Schoonmaken geëmailleerd",
+     "symbol": "drop",
+     "bullets": [
+      "Afwassen met een borstel en een sopje, niet in de vaatwasser.",
+      "Het bovenrandje is niet geëmailleerd: met een druppel olie inwrijven tegen roest."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 26
+     }
+    },
+    {
+     "title": "Advies",
+     "symbol": "lightbulb",
+     "bullets": [
+      "Vindt de klant gietijzer te zwaar voor een braadpan? Wijs op het alternatief van Demeyere en Cristel."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 28
+     }
+    }
+   ],
+   "brandIDs": [
+    "lecreuset",
+    "victoria",
+    "chasseur",
+    "lodge",
+    "thebastard"
+   ]
+  },
+  {
+   "id": "aluminium-antiaanbak",
+   "categoryID": "pannen",
+   "name": "Antiaanbaklaag",
+   "subtitle": "Meestal aluminium of RVS met coating",
+   "oneLiner": {
+    "text": "Handig voor delicate producten die snel aanbakken; nooit te heet, nooit scherpe spatels.",
+    "source": {
+     "kind": "booklet",
+     "page": 26
+    }
+   },
+   "facts": [
+    {
+     "label": "Max. vuur",
+     "value": "2/3, stand 6 van 9",
+     "symbol": "flame",
+     "tone": "neutral",
+     "source": {
+      "kind": "booklet",
+      "page": 27
+     }
+    },
+    {
+     "label": "Vaatwasser",
+     "value": "liever niet",
+     "symbol": "dishwasher",
+     "tone": "negative",
+     "source": {
+      "kind": "booklet",
+      "page": 27
+     }
+    },
+    {
+     "label": "Spatel",
+     "value": "siliconen of hout",
+     "symbol": "hand.raised",
+     "tone": "neutral",
+     "source": {
+      "kind": "booklet",
+      "page": 27
+     }
+    }
+   ],
+   "sections": [
+    {
+     "title": "Eigenschappen",
+     "symbol": "info.circle",
+     "bullets": [
+      "Handig voor producten die snel aanbakken; bakt minder krokant.",
+      "Zeer gevoelig voor krassen; kortere levensduur dan pannen zonder laag.",
+      "Vooral voor vis, eieren, groenten, aardappeltjes, pannenkoeken."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 26
+     }
+    },
+    {
+     "title": "Gebruik",
+     "symbol": "frying.pan",
+     "bullets": [
+      "Eerste keer afspoelen met heet water.",
+      "Laag tot middelhoog verwarmen met vetstof. Boven 270 °C verbrandt de laag en is de pan onbruikbaar.",
+      "Maximaal 2/3 van het vermogen (stand 6 van 9).",
+      "Geen scherpe voorwerpen, alleen siliconen of houten spatel."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 27
+     }
+    },
+    {
+     "title": "Schoonmaken",
+     "symbol": "drop",
+     "bullets": [
+      "Bij voorkeur met een zachte afwasborstel; vaatwastabletten tasten de laag aan.",
+      "Toch in de vaatwasser? Daarna even met wat olie insmeren."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 27
+     }
+    },
+    {
+     "title": "Keramische antiaanbaklaag",
+     "symbol": "circle.hexagongrid",
+     "bullets": [
+      "Bakt krokant, maar de laag verliest na verloop van tijd zijn functie.",
+      "Met de hand afwassen, maximaal 2/3 van het vermogen."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 27
+     }
+    },
+    {
+     "title": "Advies",
+     "symbol": "lightbulb",
+     "bullets": [
+      "Wok of grillpan met antiaanbaklaag is niet ideaal: hoge temperaturen maken de laag kapot.",
+      "Pan van alleen aluminium werkt niet op inductie; de meeste hebben een extra magnetische laag."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 28
+     }
+    }
+   ],
+   "brandIDs": [
+    "gastrolux",
+    "cristel",
+    "spring",
+    "fissler",
+    "greenpan",
+    "demeyere"
+   ],
+   "mismatchIDs": [
+    "pfoa-ptfe"
+   ]
+  },
+  {
+   "id": "volautomaat",
+   "categoryID": "koffie",
+   "name": "Volautomaat",
+   "subtitle": "Eén druk op de knop",
+   "oneLiner": {
+    "text": "Maalt, doseert, zet en schuimt melk (indien van toepassing) zelf: gemak en elke keer dezelfde smaak.",
+    "source": {
+     "kind": "booklet",
+     "page": 44
+    }
+   },
+   "facts": [
+    {
+     "label": "Molen",
+     "value": "ingebouwd",
+     "symbol": "gearshape",
+     "tone": "positive",
+     "source": {
+      "kind": "booklet",
+      "page": 44
+     }
+    },
+    {
+     "label": "Bediening",
+     "value": "één knop",
+     "symbol": "hand.tap",
+     "tone": "positive",
+     "source": {
+      "kind": "booklet",
+      "page": 44
+     }
+    }
+   ],
+   "sections": [
+    {
+     "title": "Voordelen",
+     "symbol": "checkmark.seal",
+     "bullets": [
+      "Gemakkelijk: één druk op de knop.",
+      "Consistente smaak doordat het proces geautomatiseerd is.",
+      "Ingebouwde molen: verse bonen voor elke kop."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 44
+     }
+    },
+    {
+     "title": "Let op bij verkoop",
+     "symbol": "exclamationmark.circle",
+     "bullets": [
+      "Vraag of de klant cappuccino's wil maken: niet alle volautomaten kunnen dit. Een aparte melkopschuimer kan wel."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 45
+     }
+    }
+   ],
+   "brandIDs": [
+    "jura",
+    "nivona",
+    "smeg"
+   ]
+  },
+  {
+   "id": "halfautomaat",
+   "categoryID": "koffie",
+   "name": "Halfautomaat",
+   "subtitle": "Espressomachine met portafilter",
+   "oneLiner": {
+    "text": "De klant maalt, doseert en regelt de extractie zelf: meer controle en een barista-ervaring.",
+    "source": {
+     "kind": "booklet",
+     "page": 44
+    }
+   },
+   "facts": [
+    {
+     "label": "Controle",
+     "value": "maling, dosis, tijd",
+     "symbol": "slider.horizontal.3",
+     "tone": "positive",
+     "source": {
+      "kind": "booklet",
+      "page": 44
+     }
+    },
+    {
+     "label": "Ervaring",
+     "value": "hands-on",
+     "symbol": "hand.raised",
+     "tone": "neutral",
+     "source": {
+      "kind": "booklet",
+      "page": 44
+     }
+    }
+   ],
+   "sections": [
+    {
+     "title": "Voordelen",
+     "symbol": "checkmark.seal",
+     "bullets": [
+      "Controle over maling, dosering en extractietijd.",
+      "Barista-ervaring, vergelijkbaar met een professional.",
+      "Ruimte om te experimenteren en vaardigheden te verbeteren."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 44
+     }
+    },
+    {
+     "title": "Bijverkoop",
+     "symbol": "bag",
+     "bullets": [
+      "Vraag naar barista-accessoires: tamper, tamperhouder, tamperstation, uitklopbak, melkschuimkan.",
+      "Vaak is een losse koffiemolen nodig. Platte maalschijven zijn nauwkeuriger in te stellen en geven een consistenter resultaat."
+     ],
+     "source": {
+      "kind": "booklet",
+      "page": 45
+     }
+    }
+   ],
+   "brandIDs": [
+    "ecm",
+    "isomac",
+    "lapavoni",
+    "profitec",
+    "sage",
+    "smeg"
+   ],
+   "mismatchIDs": [
+    "coffee-groups"
+   ]
+  }
+ ],
+ "brands": [
+  {
+   "id": "turk",
+   "name": "Turk"
+  },
+  {
+   "id": "debuyer",
+   "name": "De Buyer"
+  },
+  {
+   "id": "vaello",
+   "name": "Vaello"
+  },
+  {
+   "id": "inoxibar",
+   "name": "Inoxibar"
+  },
+  {
+   "id": "demeyere",
+   "name": "Demeyere"
+  },
+  {
+   "id": "fissler",
+   "name": "Fissler"
+  },
+  {
+   "id": "spring",
+   "name": "Spring"
+  },
+  {
+   "id": "cristel",
+   "name": "Cristel"
+  },
+  {
+   "id": "lecreuset",
+   "name": "Le Creuset",
+   "officialURL": "https://www.lecreuset.nl/nl_NL/",
+   "officialURLCheckedOn": "2026-11-01"
+  },
+  {
+   "id": "victoria",
+   "name": "Victoria"
+  },
+  {
+   "id": "chasseur",
+   "name": "Chasseur"
+  },
+  {
+   "id": "lodge",
+   "name": "Lodge"
+  },
+  {
+   "id": "thebastard",
+   "name": "The Bastard"
+  },
+  {
+   "id": "gastrolux",
+   "name": "Gastrolux"
+  },
+  {
+   "id": "greenpan",
+   "name": "GreenPan"
+  },
+  {
+   "id": "jura",
+   "name": "Jura"
+  },
+  {
+   "id": "nivona",
+   "name": "Nivona"
+  },
+  {
+   "id": "smeg",
+   "name": "SMEG"
+  },
+  {
+   "id": "ecm",
+   "name": "ECM"
+  },
+  {
+   "id": "isomac",
+   "name": "Isomac"
+  },
+  {
+   "id": "lapavoni",
+   "name": "La Pavoni"
+  },
+  {
+   "id": "profitec",
+   "name": "Profitec",
+   "officialURL": "https://www.profitec-espresso.com/",
+   "officialURLCheckedOn": "2026-11-01"
+  },
+  {
+   "id": "sage",
+   "name": "Sage"
+  }
+ ],
+ "products": [
+  {
+   "id": "lecreuset-signature-braadpan-28",
+   "name": "Le Creuset Signature braadpan 6,7 liter ø 28 cm",
+   "brandID": "lecreuset",
+   "typeIDs": [
+    "gietijzer"
+   ],
+   "suitedFor": {
+    "text": "Voor 6 tot 8 personen: soep en stoofgerechten zoals boeuf bourguignon.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/le-creuset-signature-braadpan-6-7-liter-o-28-cm-gietijzer-kersrood",
+     "checkedOn": "2026-11-01"
+    }
+   },
+   "tellTheCustomer": [
+    "Geëmailleerd gietijzer: verdeelt de warmte gelijkmatig door de hele pan, ook op laag vuur.",
+    "6,7 liter en ø 28 cm, bedoeld voor 6 tot 8 personen.",
+    "Het gietijzeren deksel helpt de warmte te verdelen, zodat vlees rondom gelijkmatig gaart.",
+    "Extra grote grepen, makkelijk vast te pakken met ovenwanten. Dankzij de rvs knop mag de pan de oven in.",
+    "Email binnen en buiten: glad, goed bestand tegen schokken en krassen, kleur-, geur- en smaakneutraal en beschermt tegen voedselzuren.",
+    "Schoonmaken met de hand: warm water en afwasmiddel.",
+    "Levenslange garantie van Le Creuset op fabricage- en kwaliteitsdefecten van het gietijzer."
+   ],
+   "specs": [
+    {
+     "label": "Serie",
+     "value": "Signature"
+    },
+    {
+     "label": "Materiaal",
+     "value": "gietijzer"
+    },
+    {
+     "label": "Diameter",
+     "value": "28 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "11,4 cm"
+    },
+    {
+     "label": "Inhoud",
+     "value": "6,7 liter"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch, oven"
+    },
+    {
+     "label": "Bodemdiameter",
+     "value": "22 cm"
+    },
+    {
+     "label": "Reiniging",
+     "value": "handafwas"
+    }
+   ],
+   "originalDescription": "De kersrode Signature braadpan van Le Creuset heeft een diameter van 28 cm. De ronde pan van geëmailleerd gietijzer heeft een inhoud van 6,7 liter, bedoeld voor 6 tot 8 personen. De braad-/ stoofpan heeft extra grote grepen. De ronde vorm maakt de Signature braadpan geschikt voor soep en stoofgerechten als boeuf bourguignon.\n\nLe Creuset Signature gietijzeren braadpan\n\nDe zware gietijzeren Signature stoof- en braadpan van Le Creuset is voorzien van een duurzame laag email aan de binnen- en buitenzijde. Het gietijzer zorgt voor een gelijkmatige warmteverdeling door de hele pan, ook op laag vuur. De gietijzeren deksel draagt bij aan de warmteverdeling en zorgt zo dat uw braadstuk rondom regelmatig gaart. De grepen van de pan zijn extra groot, waardoor de pan makkelijker te hanteren is, bijvoorbeeld wanneer u ovenhandschoenen draagt.\n\nU kunt de pan, dankzij de roestvrijstalen knop, ook in de oven zetten tijdens het stoven. De emaillelaag is ondoordringbaar en glad en zeer goed bestand tegen schokken en krassen. De Le Creuset stoofpan is eenvoudig schoon te houden en kleur-, geur- en smaakneutraal. Het email beschermt het gietijzer ook tegen invloeden van buitenaf, zoals voedselzuren. \n\n\n\nGebruik de braad- en stoofpan voor het braden van stukken vlees en gevogelte, het maken van stoofgerechten als boeuf bourguignon en hachee of het bereiden van dikke soep zoals erwtensoep en pompoensoep. \n\n\n\nLe Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer. \n\n\n\nReinig de Le Creuset Signature stoof- en braadpan met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "lecreuset-signature-braadpan-28-kersrood",
+     "colorName": "Kersrood",
+     "colorHex": "#B3141C",
+     "ean": "024147260998",
+     "articleNumber": "21177280602430",
+     "imageName": "lecreuset-signature-braadpan-28-kersrood",
+     "productURL": "https://www.kookwinkel.nl/le-creuset-signature-braadpan-6-7-liter-o-28-cm-gietijzer-kersrood"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/le-creuset-signature-braadpan-6-7-liter-o-28-cm-gietijzer-kersrood",
+    "checkedOn": "2026-11-01"
+   },
+   "mismatchIDs": [
+    "web-lecreuset-soortpan"
+   ]
+  },
+  {
+   "id": "debuyer-b-element-blinipan-12",
+   "name": "De Buyer B-Element blinipan ø 12 cm",
+   "brandID": "debuyer",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Kleine plaatstalen koekenpan (ø 12 cm): warmt snel op en kan hoge temperaturen aan.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/de-buyer-b-element-blinipan-o-12-cm-plaatstaal",
+     "checkedOn": "2026-11-01"
+    }
+   },
+   "tellTheCustomer": [
+    "Plaatstaal: warmt snel op en verdraagt hoge temperaturen. Door veel gebruik ontstaat een natuurlijke antiaanbaklaag.",
+    "Wordt geleverd met een laagje bijenwas tegen roest. Dat moet er vóór het eerste gebruik helemaal af.",
+    "Vóór het eerste gebruik inbranden met plantaardige olie, en de pan daarna altijd een beetje vet houden tegen roest.",
+    "Schoonmaken met de hand: heet water, eventueel een klein beetje afwasmiddel (daarna insmeren met olie) en goed afdrogen.",
+    "Aangebakken? Een hand zout in de pan, op het vuur zetten en het losgeweekte vuil wegvegen met een doekje.",
+    "Inductie raadt de website af: roest aan de onderkant kan het contact met de kookplaat verhinderen. Wel geschikt voor elektrisch, gas, halogeen en keramisch.",
+    "Een krasje of roest op een nieuwe pan is normaal voor plaatstaal. Roest poets je weg met een schuursponsje."
+   ],
+   "specs": [
+    {
+     "label": "Serie",
+     "value": "B-element"
+    },
+    {
+     "label": "Materiaal",
+     "value": "staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "12 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, keramisch"
+    },
+    {
+     "label": "Bodemdiameter",
+     "value": "10 cm"
+    },
+    {
+     "label": "Coating",
+     "value": "bijenwas"
+    },
+    {
+     "label": "Reiniging",
+     "value": "handafwas"
+    }
+   ],
+   "originalDescription": "De ronde De Buyer B-Element blinipan is een kleine koekenpan van plaatstaal en heeft een diameter van 12 cm. Dit materiaal warmt snel op en verdraagt hoge temperaturen. De pan is voorzien van een beschermende laag bijenwas die voor gebruik verwijderd dient te worden. Deze laag voorkomt roestvorming in de pan vóór gebruik. \n\n\n\nLet op: ziet u op uw nieuwe pan een krasje of roest? Geen paniek! Deze pannen kunnen tegen een stootje en dit zijn de normale eigenschappen van een plaatstalen pan. Roest poetst u eenvoudig weg met een schuursponsje.\n\nDe Buyer B-Element pan\n\nDe Buyer pannen zijn gemaakt van roestgevoelig plaatstaal. Als deze roest aan de onderkant van de pan vormt, kan het zijn dat de bodem geen contact meer kan maken met een inductiekookplaat. Om deze reden raden wij het gebruik van de Buyer pannen op inductie af.\n\nDe pannen van De Buyer B-Element zijn volledig vervaardigd uit plaatstaal, dat is voorzien van een dunne laag bijenwas. De bijenwas zorgt ervoor dat de pannen roestvrij bij u terechtkomen. Door veelvuldig gebruik ontstaat er een natuurlijke anti-aanbaklaag. Het plaatstaal warmt snel op en verdraagt hoge temperaturen. Gebruik de pan voor het bakken van uw etenswaren. \n\n\n\nReinig de pan grondig vóór het eerste gebruik, zorg er daarbij voor dat alle bijenwas verwijderd is. Om de B-Element pannen in goede conditie te houden is het nodig dat u deze voor het eerste gebruik inbrandt met plantaardige olie en ook tijdens hun verdere leven iets vet houdt om roesten te voorkomen. Reinig de pan met heet water en eventueel een klein beetje afwasmiddel, en droog de pan na reiniging goed af. Indien u afwasmiddel gebruikt dient u de pan in te wrijven met een beetje olie. \n\n\n\nZijn uw etenswaren aangebakken, strooi dan een hand zout in de plaatstalen pan en zet deze op het vuur. Hierdoor weekt het vuil los, en kunt u dit met een doekje eenvoudig verwijderen zonder uw De Buyer pan te beschadigen.",
+   "variants": [
+    {
+     "id": "debuyer-b-element-blinipan-12-grijs",
+     "colorName": "Grijs (plaatstaal)",
+     "colorHex": "#6B6B6B",
+     "ean": "3011245612122",
+     "articleNumber": "DB.5612.12",
+     "imageName": "debuyer-b-element-blinipan-12",
+     "productURL": "https://www.kookwinkel.nl/de-buyer-b-element-blinipan-o-12-cm-plaatstaal"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/de-buyer-b-element-blinipan-o-12-cm-plaatstaal",
+    "checkedOn": "2026-11-01"
+   },
+   "mismatchIDs": [
+    "plaatstaal-inductie",
+    "plaatstaal-afwasmiddel",
+    "plaatstaal-inbranden"
+   ]
+  },
+  {
+   "id": "profitec-go-2",
+   "name": "Profitec GO 2.0 espressomachine",
+   "brandID": "profitec",
+   "typeIDs": [
+    "halfautomaat"
+   ],
+   "suitedFor": {
+    "text": "Compacte halfautomaat (21 cm breed) met PID en shottimer, in ongeveer 7 minuten warm.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/profitec-go-2-0-espressomachine-mat-zwart-29417-0001070627",
+     "checkedOn": "2026-11-01"
+    }
+   },
+   "tellTheCustomer": [
+    "Compacte halfautomatische espressomachine met één messing boiler (0,3 liter) en ringzetgroep.",
+    "Met de Fast Heat-Up Mode in ongeveer 7 minuten klaar voor espresso.",
+    "Zettemperatuur instellen via PID op het OLED-display. De zetdruk stel je in met het expansieventiel en lees je af op de manometer.",
+    "Twee verlichte zetknoppen met ingebouwde shottimer. Pre-infusie is in te schakelen.",
+    "Stoompijp met draaiknop voor melkschuim (cappuccino, flat white) en heet water (americano).",
+    "Instelbare aan- en uittijden en ECO-modus. Schakelt zelf uit als de watertank (2,8 liter, van boven te vullen) te leeg is.",
+    "Onderhoud: automatische reiniging van de zetgroep en een begeleid ontkalkingsprogramma. Lekbak en filterdrager met warm water en afwasmiddel, behuizing met een vochtige doek.",
+    "Meegeleverd: bodemloze filterdrager met siliconen opzetstukken, blindfilter, tamper, reinigingsborstel, waterfilterpatroon en teststrip voor de waterhardheid."
+   ],
+   "specs": [
+    {
+     "label": "Afwerking",
+     "value": "Mat"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    },
+    {
+     "label": "Pomp",
+     "value": "Vibratiepomp"
+    },
+    {
+     "label": "Vermogen",
+     "value": "1200 W"
+    },
+    {
+     "label": "Verwarmingssysteem",
+     "value": "Boiler"
+    },
+    {
+     "label": "Opwarmtijd",
+     "value": "ca. 7 minuten (Fast Heat-Up Mode)"
+    },
+    {
+     "label": "Boiler",
+     "value": "messing, 0,3 liter"
+    },
+    {
+     "label": "Watertank",
+     "value": "2,8 liter"
+    },
+    {
+     "label": "Afmetingen (b x d x h)",
+     "value": "21 x 36,2 x 38,1 cm (volgens de beschrijving)"
+    }
+   ],
+   "originalDescription": "De Profitec GO 2.0 espressomachine mat zwart is een compacte halfautomatische espressomachine met een enkele boiler en ringzetgroep. De machine heeft een messing boiler van 0,3 liter, een watertank van 2,8 liter en een PID-regeling voor het instellen van de zettemperatuur. De GO 2.0 is 21 centimeter breed, 36,2 centimeter diep en 38,1 centimeter hoog en is uitgevoerd met een matzwarte behuizing.\n\nProfitec GO 2.0 espressomachine mat zwart\n\nMet de Fast Heat-Up Mode is de Profitec GO 2.0 in ongeveer 7 minuten opgewarmd voor het zetten van espresso. De temperatuur van de boiler wordt geregeld via PID en kan via het OLED-display worden ingesteld. Ook de zetdruk kan met het expansieventiel worden aangepast en op de manometer aan de voorzijde worden gecontroleerd.\n\nDe machine heeft twee LED-verlichte zetknoppen met geïntegreerde shottimer. Tijdens het zetten wordt de extractietijd in seconden bijgehouden, zodat de doorlooptijd van de espresso eenvoudig kan worden gecontroleerd. Via het OLED-display kan daarnaast pre-infusie worden ingeschakeld om de gemalen koffie voorafgaand aan de extractie te bevochtigen.\n\nDe stoompijp wordt bediend met een draaiknop en kan worden gebruikt voor het opschuimen van melk voor bijvoorbeeld cappuccino en flat white. Via dezelfde stoompijp kan heet water worden getapt, bijvoorbeeld voor het bereiden van een americano.\n\nVia het OLED-display zijn verschillende functies van de machine in te stellen. Naast de zettemperatuur en pre-infusie beschikt de GO 2.0 over programmeerbare in- en uitschakeltijden en een instelbare ECO-modus. De machine schakelt bovendien automatisch uit wanneer het waterniveau in de watertank te laag wordt.\n\nVoor het onderhoud beschikt de machine over automatische reiniging van de zetgroep en een begeleid ontkalkingsprogramma. De afneembare watertank heeft een inhoud van 2,8 liter en is vanaf de bovenzijde bereikbaar via het verwijderbare deksel.\n\nDe Profitec GO 2.0 wordt geleverd met een modulaire bodemloze filterdrager met siliconen opzetstukken, een blindfilter, tamper, reinigingsborstel, waterfilterpatroon en teststrip voor het bepalen van de hardheid van het water.\n\nReinig de afneembare lekbak en filterdrager met warm water en afwasmiddel. Neem de behuizing van de Profitec GO 2.0 af met een vochtige doek.",
+   "variants": [
+    {
+     "id": "profitec-go-2-mat-zwart",
+     "colorName": "Mat zwart",
+     "colorHex": "#1E1E1E",
+     "ean": "4260347833617",
+     "articleNumber": "CM500014-00",
+     "imageName": "profitec-go-2-mat-zwart",
+     "productURL": "https://www.kookwinkel.nl/profitec-go-2-0-espressomachine-mat-zwart-29417-0001070627"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/profitec-go-2-0-espressomachine-mat-zwart-29417-0001070627",
+    "checkedOn": "2026-11-01"
+   },
+   "mismatchIDs": [
+    "web-profitec-go-afmetingen",
+    "web-profitec-go-watertank"
+   ]
+  },
+  {
+   "id": "sage-oracle-jet",
+   "name": "Sage The Oracle Jet espressomachine",
+   "brandID": "sage",
+   "typeIDs": [
+    "halfautomaat"
+   ],
+   "suitedFor": {
+    "text": "Maalt, doseert en drukt de koffie zelf aan; 11 programma's op een touchscreen en in een paar seconden warm.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/sage-the-oracle-jet-espressomachine-stainless-steel-67103-0001060113",
+     "checkedOn": "2026-11-01"
+    }
+   },
+   "tellTheCustomer": [
+    "Ingebouwde bonenmaler (Baratza, conisch maalwerk, 45 maalinstellingen) met een bonencontainer van 340 gram.",
+    "Maalt, doseert en drukt de koffie automatisch aan in de portafilter. Daarna hang je de piston zelf in de machine.",
+    "Groot touchscreen met 11 programma's, waaronder espresso, cappuccino, flat white, latte en cold brew, plus plek voor 20 eigen drankjes.",
+    "ThermoJet: in een paar seconden klaar voor gebruik. Volgens de website 32% minder energieverbruik.",
+    "Watertemperatuur instelbaar per 1 °C, 58 mm zetgroep, en pre-infusie voor een gelijkmatige extractie met minder bitterheid.",
+    "AutoMilQ: melkschuim afgestemd op koemelk, soja, amandel en haver, met een automatische en een handmatige stand. Het stoompijpje spoelt automatisch.",
+    "Schoonmaken: buitenkant met een vochtige doek. Veel reinigings- en onderhoudsspullen worden meegeleverd (zie de websitetekst)."
+   ],
+   "specs": [
+    {
+     "label": "Koffievorm",
+     "value": "Koffiebonen"
+    },
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Materiaal maalwerk",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Pistondiameter",
+     "value": "58 mm"
+    },
+    {
+     "label": "Vermogen",
+     "value": "1600 W"
+    },
+    {
+     "label": "Opwarmtijd",
+     "value": "een paar seconden (ThermoJet)"
+    },
+    {
+     "label": "Waterreservoir",
+     "value": "2,3 liter"
+    },
+    {
+     "label": "Bonencontainer",
+     "value": "340 gram"
+    },
+    {
+     "label": "Afmetingen (b x d x h)",
+     "value": "36,8 x 38,1 x 42,5 cm (volgens de beschrijving)"
+    }
+   ],
+   "originalDescription": "De Sage The Oracle Jet espressomachine is vervaardigd uit mat roestvrij staal die espresso bereidt uit hele koffiebonen. De machine heeft een afmeting van 36,8 x 38,1 x 42,5 cm (BxDxH) en heeft een waterreservoir met een inhoud van 2,3 liter. Het apparaat is voorzien van een bonenmaler met een bonencontainer met een inhoud van 340 gram, waardoor u altijd koffie zet met versgemalen koffiebonen. De Sage The Oracle Jet espressomachine heeft standaard 11 automatische programma's voor het maken van flat white, latte, cappuccino, espresso, long black, babyccino, chocolademelk, thee, café crema, cold brew en koude espresso. Daarnaast heeft u de mogelijkheid om 20 eigen drankjes met een eigen gegeven naam te maken en op te slaan. De espressomachine is eenvoudig in te stellen dankzij het grote touchscreen. Gebruik voor het zetten van barista-kwaliteit-koffie bij u thuis.\n\nSage The Oracle Jet espressomachine\n\nDe Sage The Oracle Jet espressomachine is voorzien van een ingebouwde bonenmaler met conisch maalwerk. De espressomachine is eenvoudig te bedienen dankzij het grote touchscreen met 11 voorgeprogrammeerde bereidingen. U heeft de mogelijk om nog 20 drankjes toe te voegen als automatische programma's. \n\n\n\nDe espressomachine is voorzien van een Europese Baratza-molen met 45 maalinstellingen. De geïntegreerde bonenmolen kan automatisch koffie malen, doseren en aandrukken in het portafilter. Vervolgens hangt u de piston in de machine. De espressomachine is voorzien van een functie voor pre-infusie, de waterdruk wordt geleidelijk aan verhoogt, zodat de koffie langzaam uitzet voor een gelijkmatige extractie waardoor de bitterheid wordt verminderd.  \n\n\n\nHet ThermoJet-systeem garandeert ultrasnel voorverwarmen (een paar seconden zijn voldoende om de machine operationeel te maken) en het energieverbruik wordt met 32% verlaagd. Dankzij professionele 58 mm verwarmingsgroep kan de watertemperatuur worden aangepast in stappen van +/-1°C, waardoor u uw koffie altijd op de juiste temperatuur zet en de smaken optimaal tot zijn recht komen.\n\n\n\nDe machine is voorzien van een AutoMilQ-functie met instellingen geoptimaliseerd voor koemelk, soja, amandelen haver. Het biedt nauwkeurige instellingen voor druk, temperatuur en stoomduur, waardoor microschuim van professionele kwaliteit wordt gegarandeerd, ongeacht de gebruikte plantaardige basis.\n\n\n\nDe melkopschuimer biedt een automatische modus voor perfecte emulsie en een handmatige modus voor totaal maatwerk. In beide gevallen wordt de spuitdopspoeling geautomatiseerd voor optimale hygiëne.\n\n\n\nDe Sage Oracle Jet wordt geleverd met de volgende accessoires:\n\nroestvrijstalen portafilter van 58 mm\n\nKnock Box™ 10\n\nenkelwandig filterbakje voor 1 kopje.\n\nenkelwandig filterbakje voor 2 kopjes\n\nborstel voor maalopening en magneet om tamper te verwijderen\n\nreinigingsborstel\n\nreinigingstool voor tip van stoompijpje\n\ninbussleutel\n\nreinigingsschijf\n\nreinigingstabletten\n\nteststrip voor waterhardheid\n\nwaterfilter en -filterhouder\n\nontkalkingspoeder\n\nReinig de buitenzijde van de machine met een vochtige doek.",
+   "variants": [
+    {
+     "id": "sage-oracle-jet-stainless-steel",
+     "colorName": "Stainless Steel",
+     "colorHex": "#BFC1C2",
+     "ean": "9355973120080",
+     "articleNumber": "SES985BSS4EEU1",
+     "imageName": "sage-oracle-jet-stainless-steel",
+     "productURL": "https://www.kookwinkel.nl/sage-the-oracle-jet-espressomachine-stainless-steel-67103-0001060113"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/sage-the-oracle-jet-espressomachine-stainless-steel-67103-0001060113",
+    "checkedOn": "2026-11-01"
+   },
+   "mismatchIDs": [
+    "web-oraclejet-waterreservoir",
+    "web-oraclejet-verwarming",
+    "web-oraclejet-afmetingen",
+    "type-oraclejet"
+   ]
+  }
+ ],
+ "mismatches": [
+  {
+   "id": "pfoa-ptfe",
+   "topic": "PFOA- en PTFE-vrij",
+   "bookletSays": "Alle pannen met antiaanbaklaag in het assortiment zijn PFOA- en PTFE-vrij.",
+   "bookletPage": 28,
+   "status": "toVerify",
+   "note": "Gewone antiaanbaklagen zijn vaak juist PTFE. Per merk controleren voordat dit aan klanten wordt verteld."
+  },
+  {
+   "id": "kitchenaid-deeg",
+   "topic": "KitchenAid: hoeveel deeg",
+   "bookletSays": "Tot 2 kg deeg (max. 900 g vaste ingrediënten), en elders op dezelfde pagina: tot 1,9 kg.",
+   "bookletPage": 33,
+   "status": "confirmed",
+   "note": "Het boekje spreekt zichzelf tegen. Website nog controleren."
+  },
+  {
+   "id": "bbq-prijzen",
+   "topic": "Prijzen kamado BBQ's",
+   "bookletSays": "Prijzen uit 2023, bijv. Kamado Joe Classic III € 2.399.",
+   "bookletPage": 40,
+   "status": "toVerify"
+  },
+  {
+   "id": "kitchenaid-modellen",
+   "topic": "KitchenAid modellen",
+   "bookletSays": "KSM175, KSM185 en KSM195.",
+   "bookletPage": 32,
+   "status": "toVerify"
+  },
+  {
+   "id": "magimix-modellen",
+   "topic": "Magimix modellen",
+   "bookletSays": "5200 XL Premium, 4200 XL, 3200 XL, Mini Plus, Micro, Cook Expert.",
+   "bookletPage": 31,
+   "status": "toVerify"
+  },
+  {
+   "id": "slijpservice",
+   "topic": "Messenslijpservice",
+   "bookletSays": "Elke derde woensdag van de maand, € 3,50 per tafelmes en € 9,00 per koksmes.",
+   "bookletPage": 17,
+   "status": "toVerify"
+  },
+  {
+   "id": "brands-still-sold",
+   "topic": "Merken nog in assortiment",
+   "bookletSays": "Onder meer Vaello, GreenPan, Gastrolux, Atacama en The Space.",
+   "status": "toVerify"
+  },
+  {
+   "id": "coffee-groups",
+   "topic": "Indeling koffiemachines",
+   "bookletSays": "Twee groepen: volautomaat en halfautomaat (La Pavoni en Profitec bij halfautomaat).",
+   "bookletPage": 44,
+   "status": "toVerify",
+   "note": "Meli wil mogelijk een aparte groep 'handmatig'. Vraag uitstaand.",
+   "websiteSays": "De website heeft de categorieën 'Volautomatische espressomachines' en 'Handmatige espressomachines' (plus 'Professionele espressomachines'). De Profitec GO 2.0-pagina noemt de machine 'halfautomatisch'.",
+   "websiteURL": "https://www.kookwinkel.nl/alles-voor-koffie-en-thee/koffiemachines/espressomachines/handmatige-espressomachines"
+  },
+  {
+   "id": "plaatstaal-inductie",
+   "kind": "bookletVsWebsite",
+   "topic": "Plaatstaal op inductie",
+   "bookletSays": "In principe alle warmtebronnen, maar ze trekken krom als ze te snel worden verwarmd; vooral geschikt voor gas en elektrisch.",
+   "bookletPage": 24,
+   "websiteSays": "De Buyer B-Element: \"Om deze reden raden wij het gebruik van de Buyer pannen op inductie af\" (roest aan de onderkant kan het contact verhinderen). Inductie staat niet bij 'Geschikt voor'.",
+   "websiteURL": "https://www.kookwinkel.nl/de-buyer-b-element-blinipan-o-12-cm-plaatstaal",
+   "status": "confirmed",
+   "note": "Website is leidend: voor De Buyer inductie afraden. Andere plaatstalen merken nog niet gecontroleerd."
+  },
+  {
+   "id": "plaatstaal-afwasmiddel",
+   "kind": "bookletVsWebsite",
+   "topic": "Plaatstaal: afwasmiddel",
+   "bookletSays": "Alleen heet water en een borstel, nooit met sop.",
+   "bookletPage": 25,
+   "websiteSays": "De Buyer B-Element: heet water en eventueel een klein beetje afwasmiddel; daarna de pan insmeren met een beetje olie.",
+   "websiteURL": "https://www.kookwinkel.nl/de-buyer-b-element-blinipan-o-12-cm-plaatstaal",
+   "status": "confirmed",
+   "note": "De website staat een klein beetje afwasmiddel toe, het boekje niet."
+  },
+  {
+   "id": "plaatstaal-inbranden",
+   "kind": "bookletVsWebsite",
+   "topic": "Plaatstaal: eerste gebruik",
+   "bookletSays": "Beschermlaag verwijderen met sodasopje en schuurspons, invetten en 60 minuten in de oven op 200+ °C.",
+   "bookletPage": 24,
+   "websiteSays": "De Buyer B-Element: bijenwas helemaal verwijderen en inbranden met plantaardige olie. De website geeft geen oven- of tijdsmethode.",
+   "websiteURL": "https://www.kookwinkel.nl/de-buyer-b-element-blinipan-o-12-cm-plaatstaal",
+   "status": "toVerify",
+   "note": "Geen echte tegenspraak, maar de oven-methode staat alleen in het boekje. Meli: welke uitleg geven we?"
+  },
+  {
+   "id": "web-profitec-go-afmetingen",
+   "kind": "websiteData",
+   "topic": "Profitec GO 2.0: breedte en diepte omgedraaid",
+   "websiteSays": "Spec-tabel: breedte 36,2 cm, lengte 21 cm. Beschrijving: 21 cm breed en 36,2 cm diep.",
+   "websiteURL": "https://www.kookwinkel.nl/profitec-go-2-0-espressomachine-mat-zwart-29417-0001070627",
+   "status": "confirmed",
+   "note": "De app toont de maten uit de beschrijving. Laat de webshop de tabel aanpassen."
+  },
+  {
+   "id": "web-profitec-go-watertank",
+   "kind": "websiteData",
+   "topic": "Profitec GO 2.0: watertank toont een code",
+   "websiteSays": "Spec-tabel: 'Inhoud waterreservoir 27420'. Beschrijving: watertank van 2,8 liter.",
+   "websiteURL": "https://www.kookwinkel.nl/profitec-go-2-0-espressomachine-mat-zwart-29417-0001070627",
+   "status": "confirmed",
+   "note": "De app toont 2,8 liter uit de beschrijving."
+  },
+  {
+   "id": "web-oraclejet-waterreservoir",
+   "kind": "websiteData",
+   "topic": "Sage Oracle Jet: waterreservoir toont een code",
+   "websiteSays": "Spec-tabel: 'Inhoud waterreservoir 26742'. Beschrijving: waterreservoir van 2,3 liter.",
+   "websiteURL": "https://www.kookwinkel.nl/sage-the-oracle-jet-espressomachine-stainless-steel-67103-0001060113",
+   "status": "confirmed",
+   "note": "De app toont 2,3 liter uit de beschrijving."
+  },
+  {
+   "id": "web-oraclejet-verwarming",
+   "kind": "websiteData",
+   "topic": "Sage Oracle Jet: verwarmingssysteem toont een code",
+   "websiteSays": "Spec-tabel: 'Materiaal verwarmingssysteem 26743'. De beschrijving noemt het ThermoJet-systeem.",
+   "websiteURL": "https://www.kookwinkel.nl/sage-the-oracle-jet-espressomachine-stainless-steel-67103-0001060113",
+   "status": "confirmed",
+   "note": "Weggelaten in de app."
+  },
+  {
+   "id": "web-oraclejet-afmetingen",
+   "kind": "websiteData",
+   "topic": "Sage Oracle Jet: breedte en diepte omgedraaid",
+   "websiteSays": "Spec-tabel: breedte 38,1 cm, lengte 36,8 cm. Beschrijving: 36,8 x 38,1 x 42,5 cm (BxDxH).",
+   "websiteURL": "https://www.kookwinkel.nl/sage-the-oracle-jet-espressomachine-stainless-steel-67103-0001060113",
+   "status": "confirmed",
+   "note": "De app toont de maten uit de beschrijving."
+  },
+  {
+   "id": "web-lecreuset-soortpan",
+   "kind": "websiteData",
+   "topic": "Le Creuset Signature braadpan: 'Soort pan' toont een code",
+   "websiteSays": "Spec-tabel: 'Soort pan 26739'.",
+   "websiteURL": "https://www.kookwinkel.nl/le-creuset-signature-braadpan-6-7-liter-o-28-cm-gietijzer-kersrood",
+   "status": "confirmed",
+   "note": "Weggelaten in de app."
+  },
+  {
+   "id": "type-oraclejet",
+   "kind": "bookletVsWebsite",
+   "topic": "Sage Oracle Jet: halfautomaat of volautomaat?",
+   "bookletSays": "Sage staat bij de halfautomaten.",
+   "bookletPage": 44,
+   "websiteSays": "De website noemt het een 'espressomachine' met portafilter die automatisch maalt, doseert en aandrukt, en zegt niet of het een half- of volautomaat is.",
+   "websiteURL": "https://www.kookwinkel.nl/sage-the-oracle-jet-espressomachine-stainless-steel-67103-0001060113",
+   "status": "toVerify",
+   "note": "Voorlopig bij halfautomaat gezet, zoals in het boekje. Meli: klopt dat?"
+  }
+ ]
+}

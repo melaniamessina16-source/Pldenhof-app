@@ -1,0 +1,318 @@
+[
+ {
+  "id": "profitec-750-drive",
+  "name": "Profitec Pro 750 Drive",
+  "brandID": "profitec",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor de thuisbarista die tegelijk wil zetten en opschuimen, met alles in te stellen via PID.",
+  "tellTheCustomer": [
+   "Halfautomaat met roestvrijstalen dubbele boiler: koffieboiler 750 ml en stoom-/heetwaterboiler 2 liter. Tegelijk koffie zetten en melk opschuimen.",
+   "Faema E61-zetgroep: actief verwarmd, met hendel en een waterbuffer voor pre-infusie (de koffie wel kort op voor meer smaak en aroma).",
+   "Fast Heat-Up-modus: snel klaar voor espresso.",
+   "PID: temperatuur van beide boilers apart in te stellen. Mat zwart-uitvoering: OLED-display voor temperatuur, voorinfusie, timer, ECO-modus, keuze watertank of vaste wateraansluiting, extractietijd en onderhoudsmeldingen.",
+   "Rotatiepomp, met drukmeter aan de voorkant.",
+   "Dubbelwandige stoompijp en heetwateruitloop: veiliger en makkelijk schoon.",
+   "Dekplaat met rand afneembaar om de watertank te vullen; kopjes kunnen erop blijven staan.",
+   "Meegeleverd: enkel en dubbel piston met filters, blindfilter (backflushen), tamper, waterslangetje, reinigingsborstel.",
+   "Hoogglans gepolijste rvs-behuizing; zonder portafilter 34 x 59 x 42 cm (l x b x h).",
+   "Schoonmaken: lekbak met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Profitec 750 Drive espressomachine rvs ｜ Kookwinkel Oldenhof (12_11_2026 14：28：43).html",
+    "colorName": "rvs",
+    "colorHex": "#C8CACC"
+   },
+   {
+    "file": "Profitec Pro 750 Drive espressomachine mat zwart kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：28：56).html",
+    "colorName": "mat zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Profitec Pro 750 Drive: rvs en mat zwart verschillen",
+    "websiteSays": "rvs-pagina: rotatiepomp, waterreservoir 2,8 liter, lengte 59 cm. Mat zwart-pagina: specificaties zeggen vibratiepomp, 3 liter, lengte 48,5 cm, maar de tekst zegt rotatiepomp en 34 x 59 x 42 cm.",
+    "note": "Mogelijk zijn het twee generaties. Controleer pomp en maten per kleur."
+   }
+  ]
+ },
+ {
+  "id": "profitec-go-2-0",
+  "name": "Profitec GO 2.0",
+  "brandID": "profitec",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor de beginnende thuisbarista die een compacte machine wil met PID en shottimer.",
+  "tellTheCustomer": [
+   "Compacte halfautomaat met één messing boiler van 0,3 liter en ringzetgroep.",
+   "Fast Heat-Up Mode: in ongeveer 7 minuten klaar voor espresso.",
+   "PID-temperatuurregeling via het OLED-display; zetdruk aan te passen met het expansieventiel, te zien op de manometer.",
+   "Twee verlichte zetknoppen met ingebouwde shottimer (extractietijd in seconden).",
+   "Pre-infusie, programmeerbare in- en uitschakeltijden en ECO-modus via het display.",
+   "Stoompijp met draaiknop voor melkschuim (cappuccino, flat white) en heet water (americano).",
+   "Schakelt uit als de watertank te leeg is. Automatische zetgroepreiniging en begeleid ontkalken.",
+   "Watertank 2,8 liter, bereikbaar via het deksel bovenop.",
+   "Meegeleverd: modulaire bodemloze filterdrager met siliconen opzetstukken, blindfilter, tamper, reinigingsborstel, waterfilterpatroon en teststrip voor waterhardheid.",
+   "21 x 36,2 x 38,1 cm (b x d x h), 1200 W."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,8 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Profitec GO 2.0 espressomachine geel ｜ Kookwinkel Oldenhof (12_11_2026 14：28：42).html",
+    "colorName": "geel",
+    "colorHex": "#E8C33A"
+   },
+   {
+    "file": "Profitec GO 2.0 espressomachine mat blauw ｜ Kookwinkel Oldenhof (12_11_2026 14：28：43).html",
+    "colorName": "mat blauw",
+    "colorHex": "#4A6A8C"
+   },
+   {
+    "file": "Profitec GO 2.0 espressomachine rood ｜ Kookwinkel Oldenhof (12_11_2026 14：28：47).html",
+    "colorName": "rood",
+    "colorHex": "#B3262E"
+   },
+   {
+    "file": "Profitec GO 2.0 espressomachine rvs mat ｜ Kookwinkel Oldenhof (12_11_2026 14：28：49).html",
+    "colorName": "rvs mat",
+    "colorHex": "#C8CACC"
+   },
+   {
+    "file": "ee303ee3-Profitec_GO_2.0_espresso_machine_matte_black___Kookwinkel_Oldenhof.html",
+    "colorName": "mat zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Profitec GO 2.0: EAN geel, rood en rvs mat",
+    "websiteSays": "De EAN van geel, rood en rvs mat begint met 22. Zo'n nummer is meestal een interne winkelcode, geen fabrieksbarcode.",
+    "note": "Controleer de barcode op de doos."
+   },
+   {
+    "topic": "Profitec GO 2.0: lengte en breedte",
+    "websiteSays": "Tekst: 21 cm breed, 36,2 cm diep. Specificaties: breedte 36,2 cm, lengte 21 cm.",
+    "note": "Controleer bij Profitec of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "profitec-pro-100-go",
+  "name": "Profitec Pro 100 GO",
+  "brandID": "profitec",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte halfautomaat met PID zoekt die snel opwarmt.",
+  "tellTheCustomer": [
+   "Compacte halfautomaat van mat geborsteld rvs met boiler van 400 ml: opgewarmd in 5 minuten.",
+   "PID-controller: boilertemperatuur per 1 °C in te stellen; het display toont de zettijd in seconden.",
+   "Zetdruk aan te passen met het expansieventiel.",
+   "Verwarmingselement 1200 W.",
+   "Stoompijp om melk op te schuimen voor cappuccino.",
+   "ECO-modus met timer die de ketel uitschakelt als hij niet gebruikt wordt.",
+   "Watertank 2,8 liter.",
+   "Schoonmaken: lekbak met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,8 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Profitec Pro 100 GO espressomachine mat rvs ｜ Kookwinkel Oldenhof (12_11_2026 14：28：51).html",
+    "colorName": "mat rvs",
+    "colorHex": "#C8CACC"
+   },
+   {
+    "file": "Profitec Pro 100 GO espressomachine rvs geel kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：28：51).html",
+    "colorName": "rvs geel",
+    "colorHex": "#E8C33A"
+   },
+   {
+    "file": "Profitec Pro 100 GO espressomachine rvs mat blauw ｜ Kookwinkel Oldenhof (12_11_2026 14：28：42).html",
+    "colorName": "rvs mat blauw",
+    "colorHex": "#4A6A8C"
+   },
+   {
+    "file": "Profitec Pro 100 GO espressomachine rvs rood kopen ｜ Kookwinkel Oldenhof (12_11_2026 14：28：51).html",
+    "colorName": "rvs rood",
+    "colorHex": "#B3262E"
+   },
+   {
+    "file": "Profitec Pro 100 GO espressomachine zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：28：51).html",
+    "colorName": "zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Profitec Pro 100 GO: boilermateriaal en diepte",
+    "websiteSays": "Tekst: koffieboiler van brons, 38,1 cm diep. Specificaties per kleur: boiler koper (mat rvs) of messing (geel, blauw, rood); lengte 33,8, 36,2 of 41 cm.",
+    "note": "Controleer bij Profitec of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "profitec-pro-300",
+  "name": "Profitec Pro 300",
+  "brandID": "profitec",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte dualboiler wil die snel klaar is en waarvan de stoomboiler uit kan om energie te besparen.",
+  "tellTheCustomer": [
+   "Halfautomaat met twee aparte, geïsoleerde boilers: koffie (brons, 325 ml, 1200 W) en stoom/heet water (rvs, 750 ml, 1200 W).",
+   "In circa 5 minuten na inschakelen klaar voor espresso.",
+   "Stoomboiler apart uit te zetten om energie te besparen; genoeg stoomdruk voor meerdere cappuccino's; heet water voor thee.",
+   "PID-controller houdt de koffieboiler op de graad nauwkeurig; het display toont de zettijd in seconden.",
+   "Ulka EX5 vibratiepomp, 15 bar.",
+   "Niveausensor in de watertank schakelt de machine uit bij te weinig water.",
+   "Meegeleverd: enkel en dubbel piston met filters, blindfilter (backflushen), tamper, reinigingsborstel.",
+   "Watertank 3 liter; 38,5 x 25,5 x 41,5 cm (h x b x d); 18 kg; pistondiameter 58 mm.",
+   "Schoonmaken: lekbak met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Profitec Pro 300 espressomachine mat zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：28：53).html",
+    "colorName": "mat zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Profitec Pro 300 mat zwart: behuizing",
+    "websiteSays": "De tekst noemt de matzwarte machine ook \"een tot hoogglans gepolijste behuizing\".",
+    "note": "Waarschijnlijk tekst van de rvs-versie overgenomen."
+   }
+  ]
+ },
+ {
+  "id": "profitec-pro-400",
+  "name": "Profitec Pro 400",
+  "brandID": "profitec",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie de klassieke E61 wil en tegelijk wil zetten en opschuimen, in een smalle machine.",
+  "tellTheCustomer": [
+   "Halfautomaat met roestvrijstalen thermosifon-warmtewisselaar (1,6 liter, 1400 W): tegelijk of direct na elkaar espresso zetten, opschuimen en heet water tappen.",
+   "Faema E61-zetgroep: actief verwarmd, met hendel en een waterbuffer voor pre-infusie (de koffie wel kort op voor meer smaak en aroma).",
+   "Dubbelwandige stoompijp en heetwateruitloop: buitenkant minder heet, melk koekt nauwelijks aan.",
+   "Kranen met veersysteem tegen slijtage; gekleurde schijfjes voor de knoppen meegeleverd.",
+   "Ulka EX5 vibratiepomp, tot 12 bar.",
+   "Niveausensor met waarschuwingslampje; ECO-modus zet de machine uit na 90 minuten zonder gebruik.",
+   "Dekplaat afneembaar om de watertank (2,8 liter) te vullen; kopjes kunnen erop blijven staan.",
+   "Meegeleverd: enkel en dubbel piston met filters, blindfilter, tamper, reinigingsborstel.",
+   "37,2 x 22,8 x 44,8 cm (h x b x d)."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,8 liter"
+   },
+   {
+    "label": "Verwarmingssysteem",
+    "value": "warmtewisselaar"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Profitec Pro 400 Zwart kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：28：56).html",
+    "colorName": "rvs zwart",
+    "colorHex": "#2B2B2D"
+   },
+   {
+    "file": "Profitec Pro 400 espressomachine rvs ｜ Kookwinkel Oldenhof (12_11_2026 14：28：56).html",
+    "colorName": "rvs",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "profitec-pro-450-jump",
+  "name": "Profitec Pro 450 Jump",
+  "brandID": "profitec",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Zelfde basis als de Pro 400, met walnoothouten knoppen en handvatten en een klein display.",
+  "tellTheCustomer": [
+   "Halfautomaat met roestvrijstalen thermosifon-warmtewisselaar (1,6 liter, 1400 W): tegelijk espresso zetten, opschuimen en heet water tappen.",
+   "Faema E61-zetgroep: actief verwarmd, met hendel en een waterbuffer voor pre-infusie (de koffie wel kort op voor meer smaak en aroma).",
+   "Kranen met veersysteem, bediend met walnoothouten knoppen; pistons met walnoothouten handvat.",
+   "Dubbelwandige stoompijp en heetwateruitloop.",
+   "Ultrastille Ulka EX5 vibratiepomp, tot 12 bar.",
+   "Klein display: o.a. watertank bijna leeg en ECO-modus aan/uit; ECO zet de machine uit na 90 minuten zonder gebruik.",
+   "Mat geborstelde rvs-behuizing; watertank 2,8 liter; 37,2 x 22,8 x 44,8 cm (h x b x d).",
+   "Meegeleverd: enkel en dubbel piston met filters, blindfilter, tamper, reinigingsborstel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,8 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Profitec PRO 450 Jump espressomachine rvs ｜ Kookwinkel Oldenhof (12_11_2026 14：28：50).html",
+    "colorName": "rvs",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "profitec-ride",
+  "name": "Profitec Ride",
+  "brandID": "profitec",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor de thuisbarista die een dualboiler met veel instelmogelijkheden via het OLED-display wil.",
+  "tellTheCustomer": [
+   "Halfautomaat met dubbele rvs-boiler: koffie 0,75 liter en stoom/heet water 1 liter, onafhankelijk te gebruiken.",
+   "Fast Heat-Up-modus om sneller op te warmen.",
+   "Stoomboiler apart uit te zetten; stoomdruk aan te passen via de stoomboilertemperatuur.",
+   "OLED-display: ECO-modus, pre-infusie, onderhoudsmeldingen, zetfuncties, automatisch aan/uit.",
+   "Standby toont de zettemperatuur; ECO-modus na 30 tot 600 minuten (stopt met verwarmen).",
+   "Meegeleverd: bodemloze filterdrager met siliconen opzetstuk (1 en 2 kops), filtercups 7, 14 en 21 gram, blindfilter, tamper, schoonmaakborstel, handleiding.",
+   "rvs / zwart: mat rvs front, rest matzwart gepoedercoat. Exclusive Line Black: geheel matzwart met walnoothouten knoppen en zwarte meters.",
+   "30 x 37 x 45 cm, 2100 W.",
+   "Schoonmaken: vochtige doek; lekbak en piston met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,8 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Profitec Ride espressomachine kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：28：56).html",
+    "colorName": "rvs / zwart",
+    "colorHex": "#2B2B2D"
+   },
+   {
+    "file": "Profitec Ride Exclusive Line espressomachine Black kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：28：56).html",
+    "colorName": "Exclusive Line Black",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ }
+]

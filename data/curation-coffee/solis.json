@@ -1,0 +1,126 @@
+[
+ {
+  "id": "solis-barista-perfetta-plus",
+  "name": "Solis Barista Perfetta Plus",
+  "brandID": "solis",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor de beginnende thuisbarista met gemalen koffie, die snel wil starten en automatisch microschuim wil.",
+  "tellTheCustomer": [
+   "Halfautomaat van rvs voor gemalen koffie (ook E.S.E.-pads volgens de specificaties).",
+   "Portafilter van 54 mm.",
+   "Pre-infusie: de druk loopt geleidelijk op voor een gelijkmatige extractie.",
+   "Binnen 40 seconden op extractietemperatuur.",
+   "Manometer om de extractiedruk te controleren.",
+   "1 of 2 kopjes met één druk op de knop; stoomknop om verder op te warmen.",
+   "Automatisch stoompijpje: microschuim, smaak en textuur in te stellen.",
+   "Meegeleverd: portafilter en tamper 54 mm, 4 filterbakjes, maatschepje, waterfilter, melkschuimkan, reinigingstools.",
+   "Waterreservoir 1,7 liter; 18,7 x 37,2 x 32,1 cm (b x d x h).",
+   "Schoonmaken: buitenkant met vochtige doek; losse delen met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,7 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Solis Barista Perfetta Plus espressomachine Black ｜ Kookwinkel Oldenhof (12_11_2026 14：29：12).html",
+    "colorName": "Black",
+    "colorHex": "#1E1E1E"
+   },
+   {
+    "file": "Solis Barista Perfetta Plus espressomachine Silver ｜ Kookwinkel Oldenhof (12_11_2026 14：29：15).html",
+    "colorName": "Silver",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "solis-caffe-piu-volautomatisch-koffiezetapparaat",
+  "name": "Solis Caffè & Più",
+  "brandID": "solis",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte volautomaat wil die ook met verse melk cappuccino en latte macchiato maakt.",
+  "tellTheCustomer": [
+   "Compacte volautomaat van zwart kunststof: malen, zetten en opschuimen gaan automatisch.",
+   "Espresso, lungo, koffie, cappuccino, latte macchiato en warme melk via het display.",
+   "Sterkte in 3 niveaus; hoeveelheid 25 tot 250 ml per kop; zettemperatuur 86, 89, 92 of 95 °C.",
+   "Maalwerk in 5 standen.",
+   "Extern melkreservoir meegeleverd; werkt ook met verschillende melkverpakkingen. Luchttoevoer instelbaar voor fijner of steviger schuim.",
+   "Spoelherinnering na elke melkdrank; zetgroep uitneembaar.",
+   "Meegeleverd: waterfilter, melkreservoir, slangen, borstels en reinigingsdraad.",
+   "Bonenreservoir 130 gram; 18 x 32,5 x 42,5 cm; 1350 W.",
+   "Schoonmaken: vochtige doek; losse onderdelen met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Koffiesterktes",
+    "value": "3"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Solis Caffè & Più volautomatisch koffiezetapparaat ｜ Kookwinkel Oldenhof (12_11_2026 14：29：16).html",
+    "colorName": "zwart/lichtgrijs",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Solis Caffè & Più: EAN begint met 22",
+    "websiteSays": "De EAN op de website begint met 22. Zo'n nummer is meestal een interne winkelcode, geen fabrieksbarcode.",
+    "note": "Controleer de barcode op de doos."
+   }
+  ]
+ },
+ {
+  "id": "solis-grind-infuse-perfetta",
+  "name": "Solis Grind & Infuse Perfetta",
+  "brandID": "solis",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie van hele bonen espresso wil met een ingebouwde molen.",
+  "tellTheCustomer": [
+   "Halfautomaat van mat rvs met ingebouwde conische bonenmaler; maalt in het portafilter en stopt bij de ingestelde hoeveelheid.",
+   "PID: digitale temperatuurregeling.",
+   "Pre-infusie: koffie wordt eerst met heet water besprenkeld.",
+   "Zelf aandrukken met de tamper; stoompijp voor melkschuim.",
+   "Kopjeswarmer bovenop; drukmeter en verlichte toetsen voor het programmeren.",
+   "Meegeleverd: rvs portafilter 54 mm, filterbakjes (1 en 2 cup, enkel- en dubbelwandig), koffieschepje, tamper, rvs melkkan, reinigingstools, waterfilter met houder.",
+   "Waterreservoir 2,6 liter; 30 x 38 x 40 cm (b x d x h).",
+   "Schoonmaken: vochtige doek."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,6 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Solis Grind & Infuse Perfetta espressomachine Black ｜ Kookwinkel Oldenhof (12_11_2026 14：29：16).html",
+    "colorName": "Black",
+    "colorHex": "#1E1E1E"
+   },
+   {
+    "file": "Solis Grind & Infuse Perfetta espressomachine Silver ｜ Kookwinkel Oldenhof (12_11_2026 14：29：16).html",
+    "colorName": "Silver",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Solis Grind & Infuse Perfetta: tekst van een ander merk",
+    "websiteSays": "De beschrijving zegt \"kunt u met de The Barista Express ook melkschuim maken\" (een Sage-model).",
+    "note": "Kopieerfout op de website. De wit-versie moet nog opnieuw worden opgeslagen (was vertaald)."
+   }
+  ]
+ }
+]

@@ -1,0 +1,440 @@
+[
+ {
+  "id": "smeg-50-s-style",
+  "name": "SMEG 50's style espressomachine (ECF02)",
+  "brandID": "smeg",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte, retro piston-machine zoekt voor gemalen koffie, in veel kleuren.",
+  "tellTheCustomer": [
+   "Espressomachine in 50's-stijl van kunststof en rvs, voor gemalen koffie; 1 of 2 koppen tegelijk.",
+   "Thermoblok; koffietemperatuur naar wens in te stellen.",
+   "Zelf aandrukken met de meegeleverde tamper, piston inhangen en op de 1- of 2-koppenknop drukken.",
+   "Stoompijpje voor melkschuim (cappuccino, caffè latte).",
+   "Kopjeswarmer bovenop; automatische stand-by na 10 minuten, 30 minuten of 1 uur.",
+   "Waterreservoir 1,1 liter; 33 x 14,9 x 32,9 cm; 1350 W.",
+   "Schoonmaken: vochtige doek; lekbak en schuimhulpstuk met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Smeg 50's style handmatige espressomachine crème ｜ Kookwinkel Oldenhof (12_11_2026 14：21：16).html",
+    "colorName": "crème",
+    "colorHex": "#EDE6D6"
+   },
+   {
+    "file": "Smeg 50's style handmatige espressomachine pastelblauw ｜ Kookwinkel Oldenhof (12_11_2026 14：21：16).html",
+    "colorName": "pastelblauw",
+    "colorHex": "#A9C8E0"
+   },
+   {
+    "file": "Smeg 50's style handmatige espressomachine rood ｜ Kookwinkel Oldenhof (12_11_2026 14：21：16).html",
+    "colorName": "rood",
+    "colorHex": "#C62B2B"
+   },
+   {
+    "file": "Smeg 50's style handmatige espressomachine roze ｜ Kookwinkel Oldenhof (12_11_2026 14：21：17).html",
+    "colorName": "roze",
+    "colorHex": "#F2C4CE"
+   },
+   {
+    "file": "Smeg 50's style handmatige espressomachine watergroen ｜ Kookwinkel Oldenhof (12_11_2026 14：21：17).html",
+    "colorName": "watergroen",
+    "colorHex": "#9FD3C1"
+   },
+   {
+    "file": "Smeg 50's style handmatige espressomachine wit ｜ Kookwinkel Oldenhof (12_11_2026 14：21：17).html",
+    "colorName": "wit",
+    "colorHex": "#F2F0EA"
+   },
+   {
+    "file": "Smeg 50's style handmatige espressomachine zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：21：24).html",
+    "colorName": "zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "SMEG 50's style: \"handmatige\" espressomachine",
+    "websiteSays": "De website noemt deze machines \"handmatige espressomachine\". In de app staan ze bij halfautomaten (u drukt zelf aan, de machine zet).",
+    "note": "Nog te bevestigen door Oldenhof."
+   }
+  ]
+ },
+ {
+  "id": "smeg-50-s-style-2-4-liter",
+  "name": "SMEG 50's style espressomachine met molen (2,4 liter)",
+  "brandID": "smeg",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie een retro piston-machine met ingebouwde bonenmolen wil, die tegelijk kan zetten en opschuimen.",
+  "tellTheCustomer": [
+   "Espressomachine met ingebouwde molen (rvs conisch maalwerk, zeer fijn in te stellen): maalt met één druk op de knop de juiste hoeveelheid voor 1 of 2 koppen.",
+   "Dubbel thermoblok: na het zetten direct melk opschuimen, zonder wachten.",
+   "Koffiesterkte en temperatuur via het bedieningspaneel.",
+   "Piston onder de molen hangen, zelf aandrukken met de tamper, terughangen en zetten.",
+   "Heetwater- en stoomfunctie (cappuccino, caffè Americano); melkkan meegeleverd.",
+   "Kopjeswarmer bovenop; automatische stand-by na 10, 30 of 40 minuten of 1 uur.",
+   "Waterreservoir 2,4 liter, bonenreservoir 250 gram; 44,3 x 33,4 x 34 cm.",
+   "Schoonmaken: vochtige doek; lekbak en schuimhulpstuk met warm water en afwasmiddel; bonenmaler uitneembaar, met borsteltje te reinigen."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,4 liter"
+   },
+   {
+    "label": "Inhoud bonenreservoir",
+    "value": "250 gram"
+   }
+  ],
+  "variants": [
+   {
+    "file": "SMEG 50's style handmatige espressomachine 2,4 liter volledig zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：21：06).html",
+    "colorName": "volledig zwart",
+    "colorHex": "#1E1E1E"
+   },
+   {
+    "file": "Smeg 50's style handmatige espressomachine 2,4 liter crème ｜ Kookwinkel Oldenhof (12_11_2026 14：21：06).html",
+    "colorName": "crème",
+    "colorHex": "#EDE6D6"
+   },
+   {
+    "file": "Smeg 50's style handmatige espressomachine 2,4 liter pastelblauw ｜ Kookwinkel Oldenhof (12_11_2026 14：21：06).html",
+    "colorName": "pastelblauw",
+    "colorHex": "#A9C8E0"
+   },
+   {
+    "file": "Smeg 50's style handmatige espressomachine 2,4 liter rood ｜ Kookwinkel Oldenhof (12_11_2026 14：21：07).html",
+    "colorName": "rood",
+    "colorHex": "#C62B2B"
+   },
+   {
+    "file": "Smeg 50's style handmatige espressomachine 2,4 liter watergroen ｜ Kookwinkel Oldenhof (12_11_2026 14：21：07).html",
+    "colorName": "watergroen",
+    "colorHex": "#9FD3C1"
+   },
+   {
+    "file": "Smeg 50's style handmatige espressomachine 2,4 liter zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：21：16).html",
+    "colorName": "zwart",
+    "colorHex": "#2B2B2D"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "SMEG 50's style: \"handmatige\" espressomachine",
+    "websiteSays": "De website noemt deze machines \"handmatige espressomachine\". In de app staan ze bij halfautomaten (u drukt zelf aan, de machine zet).",
+    "note": "Nog te bevestigen door Oldenhof."
+   }
+  ]
+ },
+ {
+  "id": "smeg-50-s-style-ecf03",
+  "name": "SMEG 50's style ECF03",
+  "brandID": "smeg",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte retro piston-machine wil die ook Cold Brew-shots maakt.",
+  "tellTheCustomer": [
+   "Compacte 50's-design espressomachine met chromen details, glanzend, voor gemalen koffie.",
+   "Thermoblok: in 45 seconden opgewarmd.",
+   "Enkele en dubbele espresso, plus Cold Brew enkel shot (100 ml) en dubbel shot (160 ml), voor ijskoffie, lattes en koffiecocktails.",
+   "Stoomfunctie voor cappuccino en latte macchiato; uitloop in hoogte verstelbaar.",
+   "Meegeleverd: enkel- en dubbelwandige filters (1 en 2 kops), tamper, cleaning disk, reinigingsborstel, stoompijpnaald, teststrip waterhardheid.",
+   "Uitneembaar waterreservoir van 1 liter; 36,5 hoog, 20,5 breed, 29,5 diep (cm); 1650 W.",
+   "Schoonmaken: vochtige doek; lekbak en filterdragers met warm water en mild reinigingsmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "SMEG 50's Style ECF03 handmatige espressomachine crème kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：20：52).html",
+    "colorName": "crème",
+    "colorHex": "#EDE6D6"
+   },
+   {
+    "file": "SMEG 50's Style ECF03 handmatige espressomachine pastelblauw kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：20：52).html",
+    "colorName": "pastelblauw",
+    "colorHex": "#A9C8E0"
+   },
+   {
+    "file": "SMEG 50's Style ECF03 handmatige espressomachine rood kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：20：52).html",
+    "colorName": "rood",
+    "colorHex": "#C62B2B"
+   },
+   {
+    "file": "SMEG 50's Style ECF03 handmatige espressomachine watergroen kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：21：07).html",
+    "colorName": "watergroen",
+    "colorHex": "#9FD3C1"
+   },
+   {
+    "file": "SMEG 50's Style ECF03 handmatige espressomachine wit kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：21：07).html",
+    "colorName": "wit",
+    "colorHex": "#F2F0EA"
+   },
+   {
+    "file": "SMEG 50's Style ECF03 handmatige espressomachine zwart kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：21：07).html",
+    "colorName": "zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "SMEG 50's style: \"handmatige\" espressomachine",
+    "websiteSays": "De website noemt deze machines \"handmatige espressomachine\". In de app staan ze bij halfautomaten (u drukt zelf aan, de machine zet).",
+    "note": "Nog te bevestigen door Oldenhof."
+   }
+  ]
+ },
+ {
+  "id": "smeg-50-s-style-koffiezetapparaat",
+  "name": "SMEG 50's style koffiezetapparaat",
+  "brandID": "smeg",
+  "typeIDs": [
+   "filterkoffie"
+  ],
+  "suitedFor": "Voor wie filterkoffie wil uit een retro apparaat, ook in kleine hoeveelheden.",
+  "tellTheCustomer": [
+   "Filterkoffiezetapparaat (snelfiltermethode) in jaren '50-stijl, kunststof; 10 koppen.",
+   "Timer om de starttijd uit te stellen.",
+   "4-kopsfunctie, afgestemd op een kleinere hoeveelheid water.",
+   "Houdt de koffie na het zetten nog 1 uur warm.",
+   "Filter met handvat, makkelijk uit te nemen.",
+   "Waterreservoir 1,4 liter; ongeveer 36 x 25,5 x 24,5 cm; 1050 W.",
+   "Schoonmaken: vochtige doek; kan en filter met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,4 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "SMEG 50's Style koffiezetapparaat kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：21：25).html",
+    "colorName": "mat zwart",
+    "colorHex": "#1E1E1E"
+   },
+   {
+    "file": "SMEG 50's style koffiezetapparaat kunststof Moonlight ｜ Kookwinkel Oldenhof (12_11_2026 14：21：26).html",
+    "colorName": "Moonlight",
+    "colorHex": "#E6DFCF"
+   },
+   {
+    "file": "SMEG 50's style koffiezetapparaat kunststof crème ｜ Kookwinkel Oldenhof (12_11_2026 14：21：25).html",
+    "colorName": "crème",
+    "colorHex": "#EDE6D6"
+   },
+   {
+    "file": "SMEG 50's style koffiezetapparaat kunststof pastelblauw ｜ Kookwinkel Oldenhof (12_11_2026 14：21：27).html",
+    "colorName": "pastelblauw",
+    "colorHex": "#A9C8E0"
+   },
+   {
+    "file": "SMEG 50's style koffiezetapparaat kunststof rood ｜ Kookwinkel Oldenhof (12_11_2026 14：21：27).html",
+    "colorName": "rood",
+    "colorHex": "#C62B2B"
+   },
+   {
+    "file": "SMEG 50's style koffiezetapparaat kunststof roze ｜ Kookwinkel Oldenhof (12_11_2026 14：21：27).html",
+    "colorName": "roze",
+    "colorHex": "#F2C4CE"
+   },
+   {
+    "file": "SMEG 50's style koffiezetapparaat kunststof wit ｜ Kookwinkel Oldenhof (12_11_2026 14：21：34).html",
+    "colorName": "wit",
+    "colorHex": "#F2F0EA"
+   },
+   {
+    "file": "Smeg 50's Style koffiezetapparaat Storm Blue kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：21：27).html",
+    "colorName": "Storm Blue",
+    "colorHex": "#4F6D8A"
+   },
+   {
+    "file": "Smeg 50's style koffiezetapparaat kunststof watergroen ｜ Kookwinkel Oldenhof (12_11_2026 14：21：32).html",
+    "colorName": "watergroen",
+    "colorHex": "#9FD3C1"
+   },
+   {
+    "file": "Smeg 50's style koffiezetapparaat kunststof zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：21：34).html",
+    "colorName": "zwart",
+    "colorHex": "#2B2B2D"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "SMEG 50's style koffiezetapparaat: specificaties per kleur verschillen",
+    "websiteSays": "Moonlight en roze: materiaal kunststof, rvs en glas, hoogte 36,1 cm. Andere kleuren: glas en kunststof (mat zwart ook metaal), hoogte 36 cm. Vermogen staat niet bij elke kleur.",
+    "note": "Mogelijk verschillende generaties. Controleer per kleur."
+   }
+  ]
+ },
+ {
+  "id": "smeg-50-s-style-medium",
+  "name": "SMEG 50's style Medium (BCC02)",
+  "brandID": "smeg",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een smalle, eenvoudige volautomaat wil voor één kop per keer.",
+  "tellTheCustomer": [
+   "Volautomaat van mat zwart kunststof en aluminium, voor hele bonen.",
+   "1 kop espresso, ristretto of lungo per keer.",
+   "Eenvoudige bediening met de knoppen bovenop; verlichting bij de uitloop tijdens gebruik.",
+   "Koffie-uitloop in hoogte verstelbaar.",
+   "Zwenkbare stoompijp voor heet water en melkschuim (cappuccino, latte macchiato).",
+   "Schakelt na gebruik zelf uit om energie te sparen.",
+   "Waterreservoir 1,4 liter, bonenreservoir 150 gram; 18 x 43,3 x 33,6 cm; 5 kg; 1350 W.",
+   "Schoonmaken: vochtige doek; lekbak met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud bonenreservoir",
+    "value": "150 gram"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Smeg 50's style Medium volautomatische espressomachine mat zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：21：34).html",
+    "colorName": "mat zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "smeg-bcc11-1-4-liter",
+  "name": "SMEG BCC11",
+  "brandID": "smeg",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een smalle, eenvoudige volautomaat wil voor zwarte koffie (geen stoompijp genoemd).",
+  "tellTheCustomer": [
+   "Volautomaat van mat kunststof en aluminium.",
+   "1 kop espresso, ristretto, lungo of een milde variant per keer.",
+   "Uitloop in hoogte verstelbaar: van espressokopje tot mok.",
+   "Bediening met knoppen bovenop; verlichting bij de uitloop.",
+   "Heet water voor thee of om een kopje voor te verwarmen.",
+   "Schakelt automatisch uit na 20 minuten niet gebruiken.",
+   "Waterreservoir 1,4 liter, bonenreservoir 150 gram; 1350 W.",
+   "Schoonmaken: behuizing met vochtige doek; lekbak en zetgroep met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,4 liter"
+   },
+   {
+    "label": "Inhoud bonenreservoir",
+    "value": "150 gram"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Smeg BCC11 espressomachine mat wit kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：21：34).html",
+    "colorName": "wit",
+    "colorHex": "#F2F0EA"
+   },
+   {
+    "file": "Smeg BCC11 espressomachine mat zwart kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：21：34).html",
+    "colorName": "zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "smeg-bcc12-1-4-liter",
+  "name": "SMEG BCC12",
+  "brandID": "smeg",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een smalle, eenvoudige volautomaat wil, met stoompijp voor melkschuim.",
+  "tellTheCustomer": [
+   "Volautomaat van mat kunststof en aluminium, voor hele bonen.",
+   "1 kop espresso, ristretto of lungo per keer.",
+   "Bediening met knoppen bovenop; verlichting bij de uitloop.",
+   "Koffie-uitloop in hoogte verstelbaar.",
+   "Zwenkbare stoompijp voor heet water en melkschuim.",
+   "Schakelt na gebruik zelf uit.",
+   "Waterreservoir 1,4 liter, bonenreservoir 150 gram; 1350 W.",
+   "Schoonmaken: vochtige doek; lekbak met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,4 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "SMEG BCC12 volautomatische espressomachine 1,4 liter Storm Blue ｜ Kookwinkel Oldenhof (12_11_2026 14：21：34).html",
+    "colorName": "Storm Blue",
+    "colorHex": "#4F6D8A"
+   },
+   {
+    "file": "SMEG BCC12 volautomatische espressomachine 1,4 liter wit ｜ Kookwinkel Oldenhof (12_11_2026 14：21：34).html",
+    "colorName": "wit",
+    "colorHex": "#F2F0EA"
+   },
+   {
+    "file": "SMEG BCC12 volautomatische espressomachine 1,4 liter zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：21：39).html",
+    "colorName": "zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "SMEG BCC12: afmetingen en materiaal",
+    "websiteSays": "Tekst: 18 x 43,3 x 33,6 cm, kunststof en aluminium. Specificaties: breedte 26,5, hoogte 44,5, lengte 49,5 cm, materiaal roestvrij staal.",
+    "note": "Mogelijk zijn de doosmaten ingevuld. Controleer bij SMEG."
+   }
+  ]
+ },
+ {
+  "id": "smeg-minipro",
+  "name": "SMEG minipro",
+  "brandID": "smeg",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte halfautomaat met 58 mm piston wil.",
+  "tellTheCustomer": [
+   "Halfautomaat van kunststof en rvs, voor gemalen koffie; 1 of 2 koppen tegelijk.",
+   "Thermoblok; koffietemperatuur naar wens in te stellen.",
+   "Zelf aandrukken met de meegeleverde tamper; piston 58 mm.",
+   "Heetwater- en stoomfunctie (cappuccino, caffè Americano, caffè latte).",
+   "Kopjeswarmer bovenop; automatische stand-by na 9 minuten, 30 minuten of 3 uur.",
+   "Waterreservoir 1,7 liter; 22 x 43 x 36 cm.",
+   "Schoonmaken: vochtige doek; lekbak en schuimhulpstuk met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,7 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "SMEG espressomachine minipro emerald green ｜ Kookwinkel Oldenhof (12_11_2026 14：21：40).html",
+    "colorName": "emerald green",
+    "colorHex": "#1F6B4F"
+   },
+   {
+    "file": "SMEG espressomachine minipro mat wit ｜ Kookwinkel Oldenhof (12_11_2026 14：21：41).html",
+    "colorName": "mat wit",
+    "colorHex": "#F2F0EA"
+   }
+  ],
+  "mismatches": []
+ }
+]

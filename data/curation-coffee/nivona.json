@@ -1,0 +1,800 @@
+[
+ {
+  "id": "nivona-caferomatica-1040",
+  "name": "Nivona CafeRomatica 1040",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor klein zakelijk en intensief gebruik: grote reservoirs, twee pompen en snel melkspecialiteiten.",
+  "tellTheCustomer": [
+   "Geschikt voor klein zakelijk en intensief gebruik.",
+   "Dubbel thermoblok en twee pompen: snel opwarmen en kortere zettijd voor melkspecialiteiten.",
+   "Dubbele uitloop voor koffie én melk: 1 of 2 espresso, koffie, cappuccino, macchiato en meer.",
+   "Kleurentouchscreen en de Nivona-app via bluetooth (recepten, statistieken, op afstand zetten, onderhoudsinstructies).",
+   "18 persoonlijke recepten; 5 sterktes, 3 watertemperaturen; Aroma Balans Systeem met 3 profielen.",
+   "Bonenreservoir 600 gram, uit te breiden tot 1 kg; conisch maalwerk van gehard staal, zo stil mogelijk.",
+   "Invoerschacht voor gemalen koffie (bijvoorbeeld cafeïnevrij). Kan 1,9 liter koffie in één keer zetten.",
+   "Melkspecialiteiten kunnen in het menu worden geblokkeerd.",
+   "Waterreservoir 3,5 liter, Claris-waterfilter mogelijk; 30 x 42 x 48 cm (b x h x l), 2700 W, 0 W stand-by in eco-modus.",
+   "Automatische spoel- en reinigingsprogramma's; zetgroep uitneembaar."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Vermogen",
+    "value": "2700 W"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona CafeRomatica 1040 volautomatische espressomachine grijs ｜ Kookwinkel Oldenhof (12_11_2026 14：06：40).html",
+    "colorName": "grijs",
+    "colorHex": "#7A7C80"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "nivona-caferomatica-690",
+  "name": "Nivona CafeRomatica 690",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte volautomaat wil en zelf melk opschuimt met de spumatore.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes ristretto, espresso of koffie tegelijk, van versgemalen bonen.",
+   "Spumatore om melk op te schuimen of te verwarmen (cappuccino, latte, koffie verkeerd).",
+   "Temperatuur in 3 stappen, 5 sterktes per koffiesoort; 5 eigen \"Mijn Koffie\"-recepten.",
+   "Bediening met draaiknop en TFT-kleurendisplay; instellingen aan te passen tijdens het zetten.",
+   "Koffie-uitloop in hoogte verstelbaar tot 14 cm (ook macchiatoglazen), met verlichting.",
+   "Bonenreservoir 250 gram, watertank 2,2 liter met plaats voor een Claris-filter; wieltjes achter.",
+   "Mat zwart met chromen details; 46 x 24 x 34 cm (l x b x h).",
+   "Reinigings- en onderhoudsprogramma's; zetgroep uitneembaar en met water schoon te maken."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,2 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona CafeRomatica 690 volautomatische espressomachine mat zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：06：40).html",
+    "colorName": "mat zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "nivona-caferomatica-790",
+  "name": "Nivona CafeRomatica 790",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een volautomaat met app-bediening en koppenwarmer wil, die melkspecialiteiten één voor één maakt.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso of koffie tegelijk; 1 cappuccino, macchiato of andere melkspecialiteit per keer.",
+   "Bediening met de knop en het TFT-kleurendisplay, of via de Nivona-app (bluetooth): recepten aanpassen, statistieken, op afstand koffie zetten, onderhoudsinstructies.",
+   "Elk recept apart in te stellen: 3 temperaturen, 5 maalgraden, waterhoeveelheid.",
+   "Aroma Balance System: 3 zetmethodes, van licht tot intens.",
+   "Stalen maalwerk met geluidsisolatie.",
+   "Vulschacht rechts voor gemalen koffie (bijvoorbeeld decafé); de machine herkent dat zelf.",
+   "Actief verwarmde koppenwarmer bovenop; wieltjes achter om te verplaatsen.",
+   "Waterreservoir 2,2 liter, bonenreservoir 250 gram, 10 kg.",
+   "Automatische spoel- en reinigingsprogramma's, uitneembare zetgroep; spaarstand zonder stroomverbruik."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,2 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona CafeRomatica 790 volautomatische espressomachine Matt Black ｜ Kookwinkel Oldenhof (12_11_2026 14：06：45).html",
+    "colorName": "Matt Black",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona 790: lengte en breedte",
+    "websiteSays": "Tekst: 44 cm lang en 55 cm breed. Specificaties: breedte 44 cm, lengte 55 cm.",
+    "note": "Controleer bij Nivona of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "nivona-caferomatica-795",
+  "name": "Nivona CafeRomatica 795",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een volautomaat met app-bediening en koppenwarmer wil, die melkspecialiteiten één voor één maakt.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso of koffie tegelijk; 1 cappuccino, macchiato of andere melkspecialiteit per keer.",
+   "Bediening met de knop en het TFT-kleurendisplay, of via de Nivona-app (bluetooth): recepten aanpassen, statistieken, op afstand koffie zetten, onderhoudsinstructies.",
+   "Elk recept apart in te stellen: 3 temperaturen, 5 maalgraden, waterhoeveelheid.",
+   "Aroma Balance System: 3 zetmethodes, van licht tot intens.",
+   "Stalen maalwerk met geluidsisolatie.",
+   "Vulschacht rechts voor gemalen koffie (bijvoorbeeld decafé); de machine herkent dat zelf.",
+   "Actief verwarmde koppenwarmer bovenop; wieltjes achter om te verplaatsen.",
+   "Waterreservoir 2,2 liter, bonenreservoir 250 gram, 10 kg.",
+   "Automatische spoel- en reinigingsprogramma's, uitneembare zetgroep; spaarstand zonder stroomverbruik."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,2 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona CafeRomatica 795 volautomatische espressomachine Titanium ｜ Kookwinkel Oldenhof (12_11_2026 14：06：44).html",
+    "colorName": "Titanium",
+    "colorHex": "#6E6F72"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona 795: lengte en breedte",
+    "websiteSays": "Tekst: 44 cm lang en 55 cm breed. Specificaties: breedte 44 cm, lengte 55 cm.",
+    "note": "Controleer bij Nivona of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "nivona-caferomatica-796-line",
+  "name": "Nivona CafeRomatica 796",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een volautomaat met app-bediening en koppenwarmer wil, die melkspecialiteiten één voor één maakt.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso of koffie tegelijk; 1 cappuccino, macchiato of andere melkspecialiteit per keer.",
+   "Bediening met de knop en het TFT-kleurendisplay, of via de Nivona-app (bluetooth): recepten aanpassen, statistieken, op afstand koffie zetten, onderhoudsinstructies.",
+   "Elk recept apart in te stellen: 3 temperaturen, 5 maalgraden, waterhoeveelheid.",
+   "Aroma Balance System: 3 zetmethodes, van licht tot intens.",
+   "Stalen maalwerk met geluidsisolatie.",
+   "Vulschacht rechts voor gemalen koffie (bijvoorbeeld decafé); de machine herkent dat zelf.",
+   "Actief verwarmde koppenwarmer bovenop; wieltjes achter om te verplaatsen.",
+   "Waterreservoir 2,2 liter, bonenreservoir 250 gram, 10 kg.",
+   "Automatische spoel- en reinigingsprogramma's, uitneembare zetgroep; spaarstand zonder stroomverbruik."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,2 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona CafeRomatica 796 volautomatische espressomachine White Line ｜ Kookwinkel Oldenhof (12_11_2026 14：06：50).html",
+    "colorName": "White Line",
+    "colorHex": "#F2F0EA"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona 796: lengte en breedte",
+    "websiteSays": "Tekst: 44 cm lang en 55 cm breed. Specificaties: breedte 44 cm, lengte 55 cm.",
+    "note": "Controleer bij Nivona of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "nivona-caferomatica-799",
+  "name": "Nivona CafeRomatica 799",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een volautomaat met app-bediening en koppenwarmer wil, die melkspecialiteiten één voor één maakt.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso of koffie tegelijk; 1 cappuccino, macchiato of andere melkspecialiteit per keer.",
+   "Bediening met de knop en het TFT-kleurendisplay, of via de Nivona-app (bluetooth): recepten aanpassen, statistieken, op afstand koffie zetten, onderhoudsinstructies.",
+   "Elk recept apart in te stellen: 3 temperaturen, 5 maalgraden, waterhoeveelheid.",
+   "Aroma Balance System: 3 zetmethodes, van licht tot intens.",
+   "Stalen maalwerk met geluidsisolatie.",
+   "Vulschacht rechts voor gemalen koffie (bijvoorbeeld decafé); de machine herkent dat zelf.",
+   "Actief verwarmde koppenwarmer bovenop; wieltjes achter om te verplaatsen.",
+   "Waterreservoir 2,2 liter, bonenreservoir 250 gram, 10 kg.",
+   "Automatische spoel- en reinigingsprogramma's, uitneembare zetgroep; spaarstand zonder stroomverbruik."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Nivona CafeRomatica 799 volautomatische espressomachine Stainless Steel ｜ Kookwinkel Oldenhof (12_11_2026 14：06：50).html",
+    "colorName": "Stainless Steel",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona 799: lengte en breedte",
+    "websiteSays": "Tekst: 44 cm lang en 55 cm breed. Specificaties: breedte 44 cm, lengte 55 cm.",
+    "note": "Controleer bij Nivona of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "nivona-caferomatica-8101",
+  "name": "Nivona CafeRomatica 8101",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie twee cappuccino's tegelijk wil en de smaak wil afstemmen met 5 aromaprofielen.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso, ristretto, cappuccino of caffè lungo.",
+   "OneTouch-Spumatore DUOplus: slang in een kop of pak melk; twee cappuccino's tegelijk met één druk op de knop.",
+   "5 sterktes en 3 temperaturen; ook bij 2 koppen tegelijk per kop in te stellen.",
+   "Aroma Balance Systeem met 5 aromaprofielen.",
+   "RomaticaPlus-zetgroep voor een betere extractie en rijkere smaak.",
+   "TFT-scherm; symbolen klein of groot in te stellen.",
+   "Watertank 1,8 liter, bonenreservoir 250 gram; 24 x 34 x 48 cm (b x h x l).",
+   "Ook gemalen koffie mogelijk (bijvoorbeeld een kop cafeïnevrij).",
+   "Eco-modus en 0 W stand-by.",
+   "Reinigings- en onderhoudsprogramma's; zetgroep uitneembaar en met water schoon te maken."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,8 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona CafeRomatica 8101 volautomatische espressomachine zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：06：51).html",
+    "colorName": "zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "nivona-caferomatica-820",
+  "name": "Nivona CafeRomatica 820",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie twee cappuccino's tegelijk wil en zelf kiest of melk of koffie eerst gaat.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso, ristretto, cappuccino of caffè lungo.",
+   "Spumatore DUOplus: twee cappuccino's tegelijk met één druk op de knop.",
+   "Cappuccino-connaisseur: kies of eerst de melk of eerst de koffie komt.",
+   "5 sterktes en 3 temperaturen, ook per kop bij 2 koppen tegelijk.",
+   "TFT-scherm, symbolen klein of groot in te stellen.",
+   "Koffie-uitloop verstelbaar, kopjes tot 14 cm hoog.",
+   "Ook gemalen koffie mogelijk (bijvoorbeeld cafeïnevrij). Wieltjes achter.",
+   "Zwart kunststof front met verchroomde details; watertank 1,8 liter.",
+   "Eco-modus en 0 W stand-by; reinigingsprogramma's; zetgroep uitneembaar."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Nivona CafeRomatica 820 volautomatische espressomachine mat zwart_chroom ｜ Kookwinkel Oldenhof (12_11_2026 14：06：50).html",
+    "colorName": "mat zwart/chroom",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "nivona-caferomatica-825-chroom",
+  "name": "Nivona CafeRomatica 825",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Zelfde functies als de 820, maar met een roestvrijstalen front.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso, ristretto, cappuccino of caffè lungo.",
+   "Spumatore DUOplus: twee cappuccino's tegelijk met één druk op de knop.",
+   "Cappuccino-connaisseur: kies of eerst de melk of eerst de koffie komt.",
+   "5 sterktes en 3 temperaturen, ook per kop bij 2 koppen tegelijk.",
+   "TFT-scherm, symbolen klein of groot in te stellen.",
+   "Koffie-uitloop verstelbaar, kopjes tot 14 cm hoog.",
+   "Ook gemalen koffie mogelijk (bijvoorbeeld cafeïnevrij). Wieltjes achter.",
+   "Roestvrijstalen front met verchroomde details; watertank 1,8 liter.",
+   "Eco-modus en 0 W stand-by; reinigingsprogramma's; zetgroep uitneembaar."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Nivona CafeRomatica 825 volautomatische espressomachine rvs mat zwart_chroom ｜ Kookwinkel Oldenhof (12_11_2026 14：06：51).html",
+    "colorName": "rvs mat zwart/chroom",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "nivona-caferomatica-960",
+  "name": "Nivona CafeRomatica 960",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie veel zelf wil programmeren en twee melkdranken tegelijk wil maken.",
+  "tellTheCustomer": [
+   "Groot 5 inch (12,5 cm) kleurentouchscreen en de Nivona-app via bluetooth.",
+   "Dubbele uitloop voor koffie én melk: twee melkbereidingen tegelijk.",
+   "Cappuccino-connaisseur: eerst melk, eerst koffie of beide tegelijk.",
+   "9 eigen recepten met eigen naam; 5 sterktes, 4 watertemperaturen; Aroma Balans Systeem met 3 profielen.",
+   "Thermoblok voor snel opwarmen; zo stil mogelijk maalwerk.",
+   "Invoerschacht voor gemalen koffie (bijvoorbeeld cafeïnevrij).",
+   "Verlichting bij de uitloop in 2 kleuren, watertankverlichting in 8 kleuren.",
+   "Meegeleverd: Claris-waterfilter, reinigingstabletten, maatschep, melkslang en transparant melkreservoir van 1 liter.",
+   "Waterreservoir 2,2 liter; 27,6 x 37,5 x 49,5 cm (b x h x l); 1455 W; 0 W stand-by in eco-modus."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,2 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona CafeRomatica 960 volautomatische espressomachine zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：06：51).html",
+    "colorName": "zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona 960: bonenreservoir en breedte",
+    "websiteSays": "Tekst: bonenreservoir 270 gram, breedte 27,6 cm. Specificaties: 260 gram, breedte 27,5 cm.",
+    "note": "Controleer bij Nivona of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "nivona-caferomatica-970",
+  "name": "Nivona CafeRomatica 970",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie veel zelf wil programmeren en twee melkdranken tegelijk wil maken.",
+  "tellTheCustomer": [
+   "Groot 5 inch (12,5 cm) kleurentouchscreen en de Nivona-app via bluetooth.",
+   "Dubbele uitloop voor koffie én melk: twee melkbereidingen tegelijk.",
+   "Cappuccino-connaisseur: eerst melk, eerst koffie of beide tegelijk.",
+   "9 eigen recepten met eigen naam; 5 sterktes, 4 watertemperaturen; Aroma Balans Systeem met 3 profielen.",
+   "Thermoblok voor snel opwarmen; zo stil mogelijk maalwerk.",
+   "Invoerschacht voor gemalen koffie (bijvoorbeeld cafeïnevrij).",
+   "Verlichting bij de uitloop in 2 kleuren, watertankverlichting in 8 kleuren.",
+   "Meegeleverd: Claris-waterfilter, reinigingstabletten, maatschep, melkslang en transparant melkreservoir van 1 liter.",
+   "Waterreservoir 2,2 liter; 27,6 x 37,5 x 49,5 cm (b x h x l); 1455 W; 0 W stand-by in eco-modus."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,2 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona CafeRomatica 970 volautomatische espressomachine grijs ｜ Kookwinkel Oldenhof (12_11_2026 14：06：52).html",
+    "colorName": "grijs",
+    "colorHex": "#7A7C80"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona 970: bonenreservoir en breedte",
+    "websiteSays": "Tekst: bonenreservoir 270 gram, breedte 27,6 cm. Specificaties: 260 gram, breedte 27,5 cm.",
+    "note": "Controleer bij Nivona of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "nivona-cube-4102",
+  "name": "Nivona Cube 4102",
+  "brandID": "nivona",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie espresso uit een compacte machine wil met het gevoel van een piston, maar zonder zelf aan te drukken.",
+  "tellTheCustomer": [
+   "Combineert de techniek van een pistonmachine (portafilter) met die van een volautomaat, in een compact design.",
+   "Click Cup: maal direct in de zetgroep, schuif de houder in de zetpositie, en werp na het zetten de koffie met een draai uit.",
+   "Intelligent tampersysteem: de juiste aandrukdruk, ongeacht de hoeveelheid koffie.",
+   "5 maalstanden, 5 koffieformaten, 3 smaakprofielen en 3 zettemperaturen; keuze via het touchdisplay.",
+   "Programmeren: toets langer indrukken, nogmaals drukken bij de gewenste hoeveelheid; de machine onthoudt het.",
+   "Watertank 1,4 liter, bonenreservoir 250 gram; 21 x 21 x 32 cm; 1455 W.",
+   "Schoonmaken: Click Cup en lekbak met warm water en afwasmiddel, machine met een vochtige doek."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,4 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona Cube 4102 Crème espressomachine kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：52).html",
+    "colorName": "Cream white",
+    "colorHex": "#EDE6D6"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona Cube 4102: half- of volautomaat?",
+    "websiteSays": "De productnaam zegt \"halfautomatische espressomachine\", de beschrijving zegt \"volautomatische espressomachine\".",
+    "note": "In de app staat hij nu bij halfautomaten. Nog te bevestigen door Oldenhof."
+   }
+  ]
+ },
+ {
+  "id": "nivona-cube-4106",
+  "name": "Nivona Cube 4106",
+  "brandID": "nivona",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie espresso uit een compacte machine wil met het gevoel van een piston, maar zonder zelf aan te drukken.",
+  "tellTheCustomer": [
+   "Combineert de techniek van een pistonmachine (portafilter) met die van een volautomaat, in een compact design.",
+   "Click Cup: maal direct in de zetgroep, schuif de houder in de zetpositie, en werp na het zetten de koffie met een draai uit.",
+   "Intelligent tampersysteem: de juiste aandrukdruk, ongeacht de hoeveelheid koffie.",
+   "5 maalstanden, 5 koffieformaten, 3 smaakprofielen en 3 zettemperaturen; keuze via het touchdisplay.",
+   "Programmeren: toets langer indrukken, nogmaals drukken bij de gewenste hoeveelheid; de machine onthoudt het.",
+   "Watertank 1,4 liter, bonenreservoir 250 gram; 21 x 21 x 32 cm; 1455 W.",
+   "Schoonmaken: Click Cup en lekbak met warm water en afwasmiddel, machine met een vochtige doek."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,4 liter"
+   },
+   {
+    "label": "Inhoud bonenreservoir",
+    "value": "250 gram"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona Cube 4106 espressomachine kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：56).html",
+    "colorName": "Grey black",
+    "colorHex": "#3C3D40"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona Cube 4106: half- of volautomaat?",
+    "websiteSays": "De productnaam zegt \"halfautomatische espressomachine\", de beschrijving zegt \"volautomatische espressomachine\".",
+    "note": "In de app staat hij nu bij halfautomaten. Nog te bevestigen door Oldenhof."
+   }
+  ]
+ },
+ {
+  "id": "nivona-nicr550",
+  "name": "Nivona NICR550",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een eenvoudige volautomaat wil die ook twee cappuccino's tegelijk maakt.",
+  "tellTheCustomer": [
+   "Espresso, ristretto, cappuccino en meer uit hele bonen; 2-kops-functie.",
+   "Spumatore DUOplus: twee cappuccino's tegelijk met één druk op de knop.",
+   "3 sterktes en 3 temperaturen; bediening via touchscreen-paneel, symbolen klein of groot.",
+   "Koffie-uitloop in hoogte verstelbaar.",
+   "Zwart kunststof; watertank 2,2 liter, bonenreservoir 250 gram; 46 x 24 x 34 cm (l x b x h); 8,2 kg.",
+   "Eco-modus en 0 W stand-by; reinigingsprogramma's; zetgroep uitneembaar."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Nivona NICR550 volautomatische espressomachine zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：06：56).html",
+    "colorName": "zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona NICR550: EAN begint met 22",
+    "websiteSays": "De EAN op de website begint met 22. Zo'n nummer is meestal een interne winkelcode, geen fabrieksbarcode.",
+    "note": "Controleer de barcode op de doos."
+   }
+  ]
+ },
+ {
+  "id": "nivona-nicr560",
+  "name": "Nivona NICR560",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een eenvoudige volautomaat wil die ook twee cappuccino's tegelijk maakt.",
+  "tellTheCustomer": [
+   "Espresso, ristretto, cappuccino en meer uit hele bonen; 2-kops-functie.",
+   "Spumatore DUOplus: twee cappuccino's tegelijk met één druk op de knop.",
+   "3 sterktes en 3 temperaturen; bediening via touchscreen-paneel, symbolen klein of groot.",
+   "Koffie-uitloop in hoogte verstelbaar.",
+   "Wit kunststof; watertank 2,2 liter, bonenreservoir 250 gram; 46 x 24 x 34 cm (l x b x h); 8,2 kg.",
+   "Eco-modus en 0 W stand-by; reinigingsprogramma's; zetgroep uitneembaar."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Nivona NICR560 volautomatische espressomachine wit ｜ Kookwinkel Oldenhof (12_11_2026 14：07：04).html",
+    "colorName": "wit",
+    "colorHex": "#F2F0EA"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "nivona-nicr793",
+  "name": "Nivona CafeRomatica 793",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte volautomaat met app-bediening wil, die melkspecialiteiten één voor één maakt.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso of koffie tegelijk; 1 cappuccino, macchiato of andere melkspecialiteit per keer.",
+   "Bediening met knop en TFT-kleurendisplay, of via de Nivona-app (bluetooth).",
+   "Elk recept apart: 3 temperaturen, 5 maalgraden, waterhoeveelheid.",
+   "Aroma Balance System: 3 zetmethodes, van licht tot intens.",
+   "Stalen maalwerk met geluidsisolatie.",
+   "Vulschacht rechts voor gemalen koffie; de machine herkent dat zelf.",
+   "Wieltjes achter; waterreservoir 2,2 liter, bonenreservoir 250 gram; 46 x 24 x 34 cm, 9,9 kg.",
+   "Automatische spoel- en reinigingsprogramma's, uitneembare zetgroep; spaarstand zonder stroomverbruik."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,2 liter"
+   },
+   {
+    "label": "Inhoud bonenreservoir",
+    "value": "250 gram"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona 793 volautomatische espressomachine kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：56).html",
+    "colorName": "Grey black",
+    "colorHex": "#3C3D40"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "nivona-nivo-8103",
+  "name": "Nivona NIVO 8103",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie twee cappuccino's tegelijk wil en de smaak wil afstemmen met 5 aromaprofielen.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso, ristretto, cappuccino of caffè lungo.",
+   "OneTouch-Spumatore DUOplus: slang in een kop of pak melk; twee cappuccino's tegelijk met één druk op de knop.",
+   "5 sterktes en 3 temperaturen; ook bij 2 koppen tegelijk per kop in te stellen.",
+   "Aroma Balance Systeem met 5 aromaprofielen.",
+   "RomaticaPlus-zetgroep voor een betere extractie en rijkere smaak.",
+   "TFT-scherm; symbolen klein of groot in te stellen.",
+   "Watertank 1,8 liter.",
+   "Ook gemalen koffie mogelijk (bijvoorbeeld een kop cafeïnevrij).",
+   "Eco-modus en 0 W stand-by.",
+   "Reinigings- en onderhoudsprogramma's; zetgroep uitneembaar en met water schoon te maken."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,8 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona 8103 volautomatische espressomachine kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：07：04).html",
+    "colorName": "Titanium",
+    "colorHex": "#6E6F72"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "nivona-nivo-8107",
+  "name": "Nivona NIVO 8107",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie ook ijskoffie wil (Chilled Brew) en zelf kiest wat eerst in het kopje komt.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso, ristretto, cappuccino of caffè lungo.",
+   "OneTouch-Spumatore DUOplus: slang in een kop of pak melk; twee cappuccino's tegelijk met één druk op de knop.",
+   "5 sterktes en 3 temperaturen; ook bij 2 koppen tegelijk per kop in te stellen.",
+   "Aroma Balance Systeem met 5 aromaprofielen.",
+   "RomaticaPlus-zetgroep voor een betere extractie en rijkere smaak.",
+   "TFT-scherm; symbolen klein of groot in te stellen.",
+   "Americano Connaisseur (eerst water of eerst koffie) en Cappuccino Connaisseur (eerst melk of eerst koffie).",
+   "Chilled Brew: koffie zonder het water te verwarmen, voor ijskoffie.",
+   "Watertank 1,8 liter.",
+   "Ook gemalen koffie mogelijk (bijvoorbeeld een kop cafeïnevrij).",
+   "Eco-modus en 0 W stand-by.",
+   "Reinigings- en onderhoudsprogramma's; zetgroep uitneembaar en met water schoon te maken."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,8 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona 8107 volautomatische espressomachine kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：07：04).html",
+    "colorName": "Pearl blue",
+    "colorHex": "#4A6A8C"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona NIVO 8107: afmetingen",
+    "websiteSays": "Specificaties: hoogte 48 cm en lengte 46 cm. De andere NIVO 8000-modellen: hoogte 34 cm, lengte 48 cm.",
+    "note": "Lijkt omgedraaid of verkeerd ingevoerd. Controleer bij Nivona."
+   }
+  ]
+ },
+ {
+  "id": "nivona-nivo-8111",
+  "name": "Nivona NIVO 8111",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie ook ijskoffie en nitrokoffie wil, en zelf kiest wat eerst in het kopje komt.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso, ristretto, cappuccino of caffè lungo.",
+   "OneTouch-Spumatore DUOplus: twee cappuccino's tegelijk met één druk op de knop.",
+   "5 sterktes en 3 temperaturen; Aroma Balance Systeem met 5 aromaprofielen.",
+   "Americano-Connaisseur (eerst water of eerst koffie) en Cappuccino-Connaisseur (eerst melk of eerst koffie).",
+   "Chilled Brew: koffie zonder het water te verwarmen, voor ijskoffie.",
+   "Nitro-functie: koude, romige nitrokoffie met één knopdruk.",
+   "RomaticaPlus-zetgroep; TFT-kleurendisplay; bluetooth voor de Nivona-app.",
+   "Vak voor gemalen koffie (bijvoorbeeld cafeïnevrij). CLARIS-waterfilter inbegrepen.",
+   "Watertank 1,8 liter, bonenreservoir 250 gram; 1455 W; eco-modus en 0 W stand-by.",
+   "Reinigings- en onderhoudsprogramma's; zetgroep uitneembaar."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,8 liter"
+   },
+   {
+    "label": "Koffiesterktes",
+    "value": "5"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona NIVO 8111 volautomatische espressomachine ｜ Kookwinkel Oldenhof (12_11_2026 14：07：05).html",
+    "colorName": "zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "nivona-nivo-8113",
+  "name": "Nivona NIVO 8113",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie ook ijskoffie en nitrokoffie wil, en zelf kiest wat eerst in het kopje komt.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso, ristretto, cappuccino of caffè lungo.",
+   "OneTouch-Spumatore DUOplus: twee cappuccino's tegelijk met één druk op de knop.",
+   "5 sterktes en 3 temperaturen; Aroma Balance Systeem met 5 aromaprofielen.",
+   "Americano-Connaisseur (eerst water of eerst koffie) en Cappuccino-Connaisseur (eerst melk of eerst koffie).",
+   "Chilled Brew: koffie zonder het water te verwarmen, voor ijskoffie.",
+   "Nitro-functie: koude, romige nitrokoffie met één knopdruk.",
+   "RomaticaPlus-zetgroep; TFT-kleurendisplay; bluetooth voor de Nivona-app.",
+   "Vak voor gemalen koffie (bijvoorbeeld cafeïnevrij). CLARIS-waterfilter inbegrepen.",
+   "Watertank 1,8 liter, bonenreservoir 250 gram; 1455 W; eco-modus en 0 W stand-by.",
+   "Reinigings- en onderhoudsprogramma's; zetgroep uitneembaar."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,8 liter"
+   },
+   {
+    "label": "Koffiesterktes",
+    "value": "5"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona NIVO 8113 Titanium ｜ Kookwinkel Oldenhof (12_11_2026 14：07：06).html",
+    "colorName": "Titanium",
+    "colorHex": "#6E6F72"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "nivona-nivo-8117",
+  "name": "Nivona NIVO 8117",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie ook ijskoffie en nitrokoffie wil, en zelf kiest wat eerst in het kopje komt.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes espresso, ristretto, cappuccino of caffè lungo.",
+   "OneTouch-Spumatore DUOplus: twee cappuccino's tegelijk met één druk op de knop.",
+   "5 sterktes en 3 temperaturen; Aroma Balance Systeem met 5 aromaprofielen.",
+   "Americano-Connaisseur (eerst water of eerst koffie) en Cappuccino-Connaisseur (eerst melk of eerst koffie).",
+   "Chilled Brew: koffie zonder het water te verwarmen, voor ijskoffie.",
+   "Nitro-functie: koude, romige nitrokoffie met één knopdruk.",
+   "RomaticaPlus-zetgroep; TFT-kleurendisplay; bluetooth voor de Nivona-app.",
+   "Vak voor gemalen koffie (bijvoorbeeld cafeïnevrij). CLARIS-waterfilter inbegrepen.",
+   "Watertank 1,8 liter, bonenreservoir 250 gram; 1455 W; eco-modus en 0 W stand-by.",
+   "Reinigings- en onderhoudsprogramma's; zetgroep uitneembaar."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,8 liter"
+   },
+   {
+    "label": "Koffiesterktes",
+    "value": "5"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Nivona NIVO 8117 volautomatische espressomachine Parelblauw ｜ Kookwinkel Oldenhof (12_11_2026 14：07：06).html",
+    "colorName": "Parelblauw",
+    "colorHex": "#4A6A8C"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "nivona-nivo-9-101",
+  "name": "Nivona NIVO 9101",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie veel wil personaliseren, met een groot 7 inch display en warme én koude koffie.",
+  "tellTheCustomer": [
+   "Van espresso tot flat white; warme en koude koffie dankzij Chilled Brew (koude extractie zonder verhitting).",
+   "RomaticaPlus-zetgroep en een 7 inch kleurendisplay.",
+   "Aroma Pre-Select, 5 aromaprofielen, instelbare maalgraad, temperatuurkeuze en dubbele kopfunctie.",
+   "Dubbele melkuitloop.",
+   "Mat zwart; waterreservoir 2,2 liter; 26 x 36 x 50 cm; 1465 W.",
+   "Schoonmaken: losse onderdelen met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Nivona NIVO 9'101 volautomatische espressomachine kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：07：07).html",
+    "colorName": "mat zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona NIVO 9'101: bonenreservoir",
+    "websiteSays": "Tekst: bonenreservoir 320 g. Specificaties: 300 gram.",
+    "note": "Controleer bij Nivona of op de doos."
+   }
+  ]
+ }
+]

@@ -1,0 +1,529 @@
+[
+ {
+  "id": "jura-c3",
+  "name": "JURA C3",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een zeer compacte volautomaat zoekt voor alleen espresso en koffie (zonder melkfunctie).",
+  "tellTheCustomer": [
+   "Zeer compacte volautomaat: 2 koffiespecialiteiten (koffie en espresso) in 3 sterktes, 1 of 2 kopjes tegelijk.",
+   "Werkt met hele bonen of gemalen koffie.",
+   "Bediening via het Easy Control Panel.",
+   "Professional Aroma Grinder (P.A.G.) bonenmolen: snel, stil en efficiënt.",
+   "Thermoblok: water snel op temperatuur, meerdere kopjes achter elkaar. Bereidingstemperatuur in 3 standen.",
+   "P.E.P. (impulsextractieproces) voor het volle espresso-aroma.",
+   "Koffie-uitloop in hoogte verstelbaar (80 - 110 mm).",
+   "Waterfilter wordt automatisch herkend (RFID). Wireless Ready: met de optionele Smart Connect te bedienen via de J.O.E-app.",
+   "Afmetingen 44,7 x 26 x 32,5 cm (l x b x h), waterreservoir 1,6 liter.",
+   "Schoonmaken: reinigingsprogramma's; lek- en residubak met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,6 liter"
+   },
+   {
+    "label": "Hoogte koffieuitloop",
+    "value": "80 - 110 mm"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Jura C3 Espressomachine Piano Black kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：14).html",
+    "colorName": "Piano Black",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "jura-c9",
+  "name": "JURA C9",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte volautomaat met melkfunctie wil en ook mildere Light Brew-koffie of siroop in het melkschuim.",
+  "tellTheCustomer": [
+   "Compacte volautomaat met 17 koffiespecialiteiten, waaronder flat white, cortado, espresso macchiato en latte macchiato.",
+   "Hot Brew (klassiek, intenser) en Light Brew (rond 60 °C, milder en direct op drinktemperatuur).",
+   "Sweet Foam: melkschuim met siroop.",
+   "Melk via de cappuccinatore: slangetje in een kan of pak melk.",
+   "Poederschacht voor gemalen koffie, bijvoorbeeld cafeïnevrij.",
+   "2,8 inch kleurendisplay. Aroma, koffie- en melkhoeveelheid en temperatuur apart in te stellen; bereidings- en heetwatertemperatuur elk in 3 standen.",
+   "P.A.G.-molen maalt vers voor iedere bereiding; thermoblok voor snel opwarmen.",
+   "Combi-uitloop verstelbaar van 75 tot 115 mm.",
+   "Waterfilter wordt automatisch herkend (RFID). Wireless Ready met de optionele Smart Connect.",
+   "Schoonmaken: reinigingsprogramma's; melkuitloop mag in de vaatwasser."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "JURA C9 Platina (EA) koffiemachine ｜ Kookwinkel Oldenhof (12_11_2026 14：06：14).html",
+    "colorName": "Platina",
+    "colorHex": "#B9B6B0"
+   },
+   {
+    "file": "JURA C9 volautomaat koffiemachine Piano White (EA) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：14).html",
+    "colorName": "Piano White",
+    "colorHex": "#F2F0EA"
+   },
+   {
+    "file": "Jura C9 Piano Black (EA) kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：14).html",
+    "colorName": "Piano Black",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "JURA C9: afmetingen en waterreservoir",
+    "websiteSays": "Tekst: 44,6 x 27 x 36 cm en waterreservoir 1,9 liter. Specificaties: lengte 43,8, breedte 26, hoogte 32,5 cm en waterreservoir 1,6 liter.",
+    "note": "Tekst en specificaties spreken elkaar tegen. Controleer bij JURA of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "jura-e10",
+  "name": "JURA E10",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie veel keuze wil: warme, koude en melkspecialiteiten, met Cold Brew en Light Brew.",
+  "tellTheCustomer": [
+   "36 koffiespecialiteiten in vier werelden: Hot Brew, Cold Brew, Light Brew en Sweet Foam.",
+   "Cold Brew: koud water wordt pulserend onder hoge druk door de gemalen koffie geleid.",
+   "Light Brew: minder koffie, rond 60 °C, direct te drinken.",
+   "Sweet Foam: melkschuim met siroop; siroopopzetstuk wordt meegeleverd.",
+   "P.A.G.2+ molen maalt vers voor iedere bereiding; Aroma Control helpt bij het instellen van de maalgraad.",
+   "3,5 inch kleurendisplay met toetsen aan de zijkant; herkent gemalen koffie in de poederschacht.",
+   "Coffee Timer via de J.O.E.-app (optionele JURA Wi-Fi Connect V2 nodig). Quality Assistant helpt bij het onderhoud.",
+   "Automatische melksysteemreiniging; CLARIS Smart+ filter wordt automatisch herkend.",
+   "Waterreservoir 1,9 liter, bonenreservoir 280 gram, 27 x 44,6 x 34,8 cm (b x d x h), 1450 W."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,9 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "JURA E10 Diamond Black (EA) koffiemachine ｜ Kookwinkel Oldenhof (12_11_2026 14：06：14).html",
+    "colorName": "Diamond Black",
+    "colorHex": "#2A2A2C"
+   },
+   {
+    "file": "JURA E10 Onyx Grey (EA) koffiemachine ｜ Kookwinkel Oldenhof (12_11_2026 14：06：15).html",
+    "colorName": "Onyx Grey",
+    "colorHex": "#5E6064"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "jura-e4",
+  "name": "JURA E4",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie alleen koffie drinkt (Coffee-Only, geen melkfunctie) en een compacte, eenvoudige volautomaat wil.",
+  "tellTheCustomer": [
+   "Coffee-Only volautomaat: espresso, caffè lungo en meer, plus heet water voor thee.",
+   "Werkt met hele bonen of gemalen koffie; 1 of 2 kopjes tegelijk.",
+   "Bediening via het symbooldisplay aan de voorkant.",
+   "Koffiesterkte in 3 niveaus.",
+   "Professional Aroma Grinder bonenmolen; thermoblok voor snel opwarmen; P.E.P. voor het volle aroma.",
+   "Koffie-uitloop verstelbaar (65 - 111 mm).",
+   "Automatische filterdetectie. Wireless Ready: met de optionele Smart Connect te koppelen aan de Cool Control Wireless melkhouder en de JURA-app.",
+   "Waterreservoir 1,9 liter, bonenreservoir 280 gram, 1450 W."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "JURA E4 Piano Black (EA) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：18).html",
+    "colorName": "Piano Black",
+    "colorHex": "#1E1E1E"
+   },
+   {
+    "file": "JURA E4 Piano White (EA) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：23).html",
+    "colorName": "Piano White",
+    "colorHex": "#F2F0EA"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "jura-e6",
+  "name": "JURA E6",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte volautomaat wil die met één druk op de knop cappuccino maakt.",
+  "tellTheCustomer": [
+   "Compacte volautomaat: met één druk op de knop cappuccino en andere voorgeprogrammeerde specialiteiten, 1 of 2 kopjes.",
+   "Hot Brew (krachtig) en Light Brew (milder, direct drinkbaar).",
+   "Easy Cappuccino: koffie en melkschuim automatisch gecombineerd via de cappuccinatore (slangetje in pak of kan melk).",
+   "Professional Aroma Grinder G2 voor een consistente maling.",
+   "2,8 inch kleurendisplay. Koffie- en watertemperatuur in 3 standen; heetwaterfunctie voor thee.",
+   "Koffie-uitloop verstelbaar van 65 tot 111 mm; thermoblok voor snel opwarmen.",
+   "Automatische filterdetectie (RFID). Wireless Ready met de optionele Smart Connect.",
+   "Waterreservoir 1,9 liter, bonenreservoir 280 gram, 44,6 x 28 x 35,1 cm, 1450 W.",
+   "Schoonmaken: automatische programma's; melkuitloop mag in de vaatwasser."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "JURA E6 Piano White (ED) koffiemachine ｜ Kookwinkel Oldenhof (12_11_2026 14：06：24).html",
+    "colorName": "Piano White",
+    "colorHex": "#F2F0EA"
+   },
+   {
+    "file": "JURA E6 espressomachine volautomaat Piano Black (ED) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：23).html",
+    "colorName": "Piano Black",
+    "colorHex": "#1E1E1E"
+   },
+   {
+    "file": "JURA E6 volautomatische espressomachine Dark Inox (ED) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：23).html",
+    "colorName": "Dark Inox",
+    "colorHex": "#5A5C5E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "jura-e8",
+  "name": "JURA E8",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie veel melkspecialiteiten wil, met Light Brew, Sweet Foam en een Coffee Timer.",
+  "tellTheCustomer": [
+   "Volautomaat voor espresso, cappuccino, latte macchiato, caffè lungo en meer; 1 of 2 kopjes.",
+   "Hot Brew (klassiek, intens) en Light Brew (rond 60 °C, licht en direct drinkbaar), beide met Sweet Foam.",
+   "Coffee Timer via de J.O.E.-app; Quality Assistant voor makkelijker onderhoud.",
+   "3,5 inch kleurendisplay met knoppen aan de zijkant.",
+   "P.A.G.2 molen keert na elk malen terug naar de startpositie.",
+   "Melk via de cappuccinatore (slangetje in kop of pak melk).",
+   "Koffie-uitloop 65 - 111 mm, cappuccino-uitloop 107 - 153 mm.",
+   "Bereidings- en heetwatertemperatuur elk in 3 standen; automatische filterdetectie (RFID); Wireless Ready.",
+   "Waterreservoir 1,9 liter, bonenreservoir 280 gram, 44,6 x 27 x 36 cm.",
+   "Schoonmaken: reinigingsprogramma's; melkuitloop mag in de vaatwasser."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "JURA E8 Piano Black (ED) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：25).html",
+    "colorName": "Piano Black",
+    "colorHex": "#1E1E1E"
+   },
+   {
+    "file": "Jura E8 Cosmic Black (ED) kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：25).html",
+    "colorName": "Cosmic Black",
+    "colorHex": "#26262B"
+   },
+   {
+    "file": "Jura E8 Midnight Silver (ED) kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：25).html",
+    "colorName": "Midnight Silver",
+    "colorHex": "#8E9196"
+   },
+   {
+    "file": "Jura E8 Piano White (ED) kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：26).html",
+    "colorName": "Piano White",
+    "colorHex": "#F2F0EA"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "jura-ena-4",
+  "name": "JURA ENA 4",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een zo compact mogelijke volautomaat wil voor één kopje zwarte koffie per keer.",
+  "tellTheCustomer": [
+   "Volautomaat teruggebracht tot de essentie: malen en zetten, zo compact mogelijk.",
+   "Eén kopje per keer: ristretto, espresso of café crème. Geen melkfunctie genoemd.",
+   "Per bereiding waterhoeveelheid en sterkte (2 stappen) instelbaar.",
+   "Bediening door de symbolen op het display bovenop aan te raken.",
+   "Professional Aroma Grinder met traploos instelbare maalgraad, voor droge tot vette bonen.",
+   "P.E.P.: water in korte pulsen door de koffie voor een vollere smaak.",
+   "Koffie-uitloop 75 - 105 mm. Waterreservoir 1,1 liter. 27,1 x 32,3 x 44,5 cm, 9,4 kg, 1450 W."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "JURA ENA 4 Full Metropolitan Black (EB) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：31).html",
+    "colorName": "Full Metropolitan Black",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "JURA ENA 4: inhoud bonenreservoir",
+    "websiteSays": "Tekst: bonenreservoir voor 125 gram. Specificaties: 250 gram.",
+    "note": "Controleer bij JURA of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "jura-ena-5",
+  "name": "JURA ENA 5",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte volautomaat wil voor zwarte koffie, met de sterkte per bereiding in te stellen.",
+  "tellTheCustomer": [
+   "Compacte volautomaat voor tot 6 verschillende bereidingen, per kopje.",
+   "Sterkte in 10 standen, kopgrootte programmeerbaar.",
+   "Bediening via touchscreen.",
+   "Half-geïntegreerd waterreservoir van 1,1 liter aan de zijkant, in de vorm van een kristallen karaf.",
+   "Bonenreservoir tot 125 gram; Professional Aroma Grinder.",
+   "Koffie-uitloop verstelbaar (75 - 105 mm); thermoblok voor snel opwarmen.",
+   "Wireless Ready met de optionele Smart Connect (Cool Control Wireless melkhouder en JURA-app).",
+   "Afmetingen 44,5 diep, 27,1 breed, 32,3 hoog (cm), 1450 W. Night Inox: behuizing geheel zilver."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,1 liter"
+   },
+   {
+    "label": "Hoogte koffieuitloop",
+    "value": "75 - 105 mm"
+   },
+   {
+    "label": "Koffiesterktes",
+    "value": "10"
+   }
+  ],
+  "variants": [
+   {
+    "file": "JURA ENA 5 Night Inox (EA) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：31).html",
+    "colorName": "Night Inox",
+    "colorHex": "#6B6D70"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "jura-ena-8",
+  "name": "JURA ENA 8",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte volautomaat wil die ook cappuccino en caffè latte maakt.",
+  "tellTheCustomer": [
+   "Compacte volautomaat voor tot 10 verschillende bereidingen, waaronder espresso, cappuccino en caffè lungo.",
+   "Dubbele uitloop: 2 kopjes tegelijk.",
+   "Hot milk-methode voor stevig melkschuim.",
+   "Sterkte in 10 standen, kopgrootte programmeerbaar; bediening via touchscreen.",
+   "Half-geïntegreerd waterreservoir van 1,1 liter, in de vorm van een kristallen karaf; bonen tot 125 gram.",
+   "Koffie-uitloop verstelbaar (55 - 138 mm); thermoblok; Professional Aroma Grinder.",
+   "Wireless Ready met de optionele Smart Connect.",
+   "Afmetingen 44,5 x 27,1 x 32,3 cm, 1450 W."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Jura ENA 8 Full Nordic White (EC) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：33).html",
+    "colorName": "Full Nordic White",
+    "colorHex": "#F2F0EA"
+   },
+   {
+    "file": "Jura ENA 8 Touch Full Metropolitan Black (EC) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：33).html",
+    "colorName": "Full Metropolitan Black",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "jura-giga-10",
+  "name": "JURA GIGA 10",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie het topmodel wil: twee molens, twee pompen en twee specialiteiten tegelijk.",
+  "tellTheCustomer": [
+   "Tot 35 koffiespecialiteiten, 1 of 2 kopjes; 10 koffiesterktes.",
+   "2 verwarmingssystemen en 2 pompen: koffie en melk(schuim) tegelijk, of twee specialiteiten tegelijk.",
+   "2 elektronisch verstelbare keramische schijfmolens: twee soorten bonen te gebruiken. Automatic Grinder Adjustment.",
+   "Kleurendisplay met touchscreen.",
+   "Koffie-uitloop 70 - 153 mm.",
+   "Wireless Ready met de optionele Smart Connect.",
+   "Waterreservoir 2,6 liter, bonenreservoir 560 gram, 32 x 41,5 x 50 cm.",
+   "Schoonmaken: reinigingsprogramma's; restwaterbak mag in de vaatwasser."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "JURA GIGA 10 Diamond Black (EA) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：34).html",
+    "colorName": "Diamond Black",
+    "colorHex": "#2A2A2C"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "JURA GIGA 10: EAN begint met 22",
+    "websiteSays": "De EAN op de website begint met 22. Zo'n nummer is meestal een interne winkelcode, geen fabrieksbarcode.",
+    "note": "Controleer de barcode op de doos."
+   }
+  ]
+ },
+ {
+  "id": "jura-j10",
+  "name": "JURA J10",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie veel keuze wil (42 specialiteiten), inclusief Cold Brew en siroop in het melkschuim.",
+  "tellTheCustomer": [
+   "42 voorgeprogrammeerde specialiteiten uit hele bonen of gemalen koffie; 1 of 2 kopjes.",
+   "Groot 4,2 inch touchscreen kleurendisplay.",
+   "Melk via de cappuccinatore; Sweet Foam voor melkschuim met siroop (bijvoorbeeld Sweet Latte).",
+   "Cold Extraction Process: Cold Brew met de espressomethode, fruitig en zonder bitterheid.",
+   "Coffee Eye herkent waar het kopje staat en past de keuze op het display aan.",
+   "P.A.G.2+ molen, maalgraad in 7 standen. Bereidings- en heetwatertemperatuur in 3 standen.",
+   "Koffie-uitloop 65 - 111 mm; thermoblok; automatische filterdetectie (RFID); Wireless Ready.",
+   "Afmetingen 44,6 x 31,8 x 34,8 cm, waterreservoir 1,9 liter.",
+   "Schoonmaken: reinigingsprogramma's; melkuitloop mag in de vaatwasser."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,9 liter"
+   },
+   {
+    "label": "Hoogte koffieuitloop",
+    "value": "65 - 111 mm"
+   }
+  ],
+  "variants": [
+   {
+    "file": "JURA J10 Piano Black (EA) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：34).html",
+    "colorName": "Piano Black",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "jura-j10-twin",
+  "name": "JURA J10 twin",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie het meeste uit de J10 wil: twee molens en 46 specialiteiten.",
+  "tellTheCustomer": [
+   "46 koffiespecialiteiten in vier werelden: Hot Brew, Cold Brew, Light Brew en Sweet Foam; 1 of 2 kopjes.",
+   "Twee P.A.G.3+ molens voor meer koffiekeuze; maalgraad in 7 standen.",
+   "Groot 6,7 inch touchscreen kleurendisplay.",
+   "Melk via de cappuccinatore; Sweet Foam voor melkschuim met siroop.",
+   "Coffee Eye herkent waar het kopje staat.",
+   "Bereidings- en heetwatertemperatuur in 3 standen; thermoblok; automatische filterdetectie (RFID); Wireless Ready.",
+   "Afmetingen 44,6 x 31 x 36 cm, waterreservoir 1,9 liter, bonenreservoir 280 gram, 1450 W.",
+   "Schoonmaken: reinigingsprogramma's; melkuitloop mag in de vaatwasser."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,9 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "Jura J10 Twin Diamond Onyx (EA) kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：34).html",
+    "colorName": "Diamond Onyx",
+    "colorHex": "#3A3B3E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "jura-w8",
+  "name": "JURA W8",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een volautomaat met een groot waterreservoir (3 liter) en melkfunctie wil.",
+  "tellTheCustomer": [
+   "Cappuccino en 16 andere voorgeprogrammeerde specialiteiten met één druk op de knop; 1 of 2 kopjes.",
+   "Groot 3,5 inch touchscreen kleurendisplay.",
+   "Melk via de vernieuwde cappuccinatore (slangetje in kop of pak melk).",
+   "Coffee Eye herkent waar het kopje staat.",
+   "Koffie-uitloop verstelbaar (65 - 111 mm); thermoblok; P.E.P.",
+   "Automatische filterdetectie (RFID); Wireless Ready.",
+   "Waterreservoir 3 liter, bonenreservoir 500 gram, 44,6 x 29,5 x 44,3 cm, 1450 W."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "3 liter"
+   },
+   {
+    "label": "Hoogte koffieuitloop",
+    "value": "65 - 111 mm"
+   }
+  ],
+  "variants": [
+   {
+    "file": "JURA W8 Dark Inox (EA) ｜ Kookwinkel Oldenhof (12_11_2026 14：06：34).html",
+    "colorName": "Dark Inox",
+    "colorHex": "#5A5C5E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "JURA W8: welke molen?",
+    "websiteSays": "De tekst noemt zowel een \"P.A.G.2\" molen als een \"Aroma G3\" bonenmolen, en sluit af met \"Reinig de behuizing van de JURA J8\".",
+    "note": "Tekst lijkt deels van een ander model overgenomen. Controleer de molen bij JURA."
+   }
+  ]
+ },
+ {
+  "id": "jura-z10",
+  "name": "JURA Z10",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie de meeste keuze en personalisatie wil: 51 specialiteiten, tot vier profielen en een cafeïneregelaar.",
+  "tellTheCustomer": [
+   "51 specialiteiten, van espresso en cappuccino tot Long Black, mocaccino en chocoladeschuim (chocolade-opzetstuk).",
+   "P.R.G.2+ molen stelt maalgraad en hoeveelheid automatisch in per specialiteit, ook voor Cold Brew.",
+   "Vijf bereidingsprocessen.",
+   "Coffee Timer (via de J.O.E.-app), cafeïneregelaar in 3 stappen, Milk Assistant en Quality Assistant.",
+   "Tikken en vegen door het menu; tot vier persoonlijke profielen; Easy Mode.",
+   "Wireless Ready: via wifi met het thuisnetwerk, bediening via de JURA-app.",
+   "Waterreservoir 2,4 liter, bonenreservoir 280 gram, 47 x 32 x 36,3 cm, 1450 W."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "Jura Z10 Aluminium Black (EB) kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：38).html",
+    "colorName": "Aluminium Black",
+    "colorHex": "#2B2B2D"
+   },
+   {
+    "file": "Jura Z10 Aluminium White (EB) kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：38).html",
+    "colorName": "Aluminium White",
+    "colorHex": "#E8E8E6"
+   }
+  ],
+  "mismatches": []
+ }
+]

@@ -1,0 +1,392 @@
+[
+ {
+  "id": "ecm-elektronika-ii-profi",
+  "name": "ECM Elektronika II Profi",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Handgemaakte halfautomaat met koperen ketel en warmtewisselaar: tegelijk koffie zetten en melk opschuimen.",
+  "tellTheCustomer": [
+   "Halfautomaat, met de hand gemaakt door ECM in Duitsland; espresso van gemalen koffie.",
+   "Boiler met warmtewisselaar: tegelijk koffie zetten en melk opschuimen. Koperen ketel en leidingen houden de warmte goed vast.",
+   "Zeer stille rotatiepomp, 15 bar. Pompdruk zelf instellen en aflezen op de manometer.",
+   "Knoppen bovenop: doorlooptijd instellen, 4 koffieprogramma's en een spoelprogramma.",
+   "Waterreservoir 3 liter (uitneembaar) of vaste wateraansluiting (slang meegeleverd).",
+   "Stoompijp, heetwaterkraan en kopjesverwarmer bovenop.",
+   "Meegeleverd: enkel en dubbel piston, filterbakjes, blindfilters, kunststof tamper, reinigingsborstel.",
+   "Schoonmaken: behuizing met een vochtige doek, losse onderdelen met warm water."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "ECM Elektronika II Profi espressomachine rvs glans ｜ Kookwinkel Oldenhof (12_11_2026 14：28：33).html",
+    "colorName": "rvs glans",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "ecm-estetika",
+  "name": "ECM Estetika",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Dubbele boiler met PID en verwarmde zetgroep: tegelijk zetten en opschuimen, in 5 à 9 minuten warm.",
+  "tellTheCustomer": [
+   "Halfautomaat met dubbele boiler: koffieketel 0,5 liter en stoom/heetwaterketel 2 liter, dus tegelijk zetten en opschuimen.",
+   "PID en 3CT-systeem (drievoudige temperatuurregeling) plus verwarmde zetgroep voor een constante temperatuur.",
+   "Snelle opwarmmodus: in ongeveer 5 tot 9 minuten op temperatuur.",
+   "3 programmeerbare volumeknoppen; displays met shot-timer, temperatuur en reinigings- en filtermeldingen.",
+   "Actieve en passieve pre-infusie, ECO-modus, 2 programmeerbare aan/uit-tijden.",
+   "Rotatiepomp, dual manometers, dubbelwandige stoompijp, barista-verlichting onder de zetgroep.",
+   "Watertank 2,8 liter of vaste wateraansluiting (metalen slang meegeleverd).",
+   "Meegeleverd: 2 filterdragers, filterbakjes 7 en 14 gram, bottomless filterbakje, blindfilter, tamper, borstel.",
+   "Schoonmaken: behuizing met vochtige doek; filterdragers, lekbak en stoompijp met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Watertank",
+    "value": "2,8 liter"
+   },
+   {
+    "label": "Opwarmtijd",
+    "value": "ca. 5 tot 9 minuten (snelle opwarmmodus)"
+   },
+   {
+    "label": "Boilers",
+    "value": "koffie 0,5 liter, stoom 2 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "ECM Estetika espressomachine dubbele boiler zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：28：33).html",
+    "colorName": "rvs zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "ecm-mechanika-iv-profi",
+  "name": "ECM Mechanika IV Profi",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Handgemaakte halfautomaat met warmtewisselaar en stille rotatiepomp; ook op vaste wateraansluiting.",
+  "tellTheCustomer": [
+   "Halfautomaat, met de hand gemaakt door ECM in Duitsland; espresso van gemalen koffie.",
+   "Warmtewisselaar: makkelijk wisselen tussen zetten, opschuimen en heet water, en tegelijk zetten en opschuimen.",
+   "Zeer stille rotatiepomp met stabiele 15 bar; pompdruk instellen en aflezen op de manometer.",
+   "Roestvrijstalen ketel met koperen leidingen; zetgroep van massief messing.",
+   "Waterreservoir 3 liter (uitneembaar) of vaste wateraansluiting (slang meegeleverd).",
+   "Meegeleverd: enkel en dubbel piston, filterbakjes, blindfilters, kunststof tamper, reinigingsborstel.",
+   "Schoonmaken: behuizing met een vochtige doek, losse onderdelen met warm water."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "ECM Mechanika IV Profi espressomachine rvs glans ｜ Kookwinkel Oldenhof (12_11_2026 14：28：33).html",
+    "colorName": "rvs glans",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "ecm-mechanika-max",
+  "name": "ECM Mechanika Max",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Compacte halfautomaat met warmtewisselaar, handgemaakt in Duitsland, voor wie espresso, cappuccino, latte of thee wil maken.",
+  "tellTheCustomer": [
+   "Halfautomaat met warmtewisselaar en rotatiepomp, met de hand gemaakt door ECM in Duitsland.",
+   "Volgens de website de eerste espressomachine met warmtewisselaar waarvan zowel de koffiezet- als de boilertemperatuur instelbaar is.",
+   "Dagtimer met aan/uit-schakelaar: de machine is klaar wanneer het u uitkomt.",
+   "Uitneembaar waterreservoir van 3 liter, of aan te sluiten op een vaste waterkraan.",
+   "Kopjeswarmer bovenop de machine.",
+   "Basis van de zetgroep van massief messing (houdt de warmte goed vast); losse delen van roestvrij staal, makkelijk schoon te maken.",
+   "Meegeleverd: enkel en dubbel piston, filterbakje 7 g en 14 g, blindfilter, tamper, handleiding, draining pan kit, reinigingsborstel en slang voor vaste wateraansluiting.",
+   "Afmetingen: 27,5 cm breed, 44,5 cm diep, 40,5 cm hoog.",
+   "Schoonmaken: behuizing met een vochtige doek, losse onderdelen met warm water."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "ECM Mechanika Max Matt Black kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：28：33).html",
+    "colorName": "Matt Black",
+    "colorHex": "#1E1E1E"
+   },
+   {
+    "file": "ECM Mechanika Max espressomachine rvs glans ｜ Kookwinkel Oldenhof (12_11_2026 14：28：33).html",
+    "colorName": "rvs glans",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "ecm-mechanika-max-ii",
+  "name": "ECM Mechanika Max II",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Compacte warmtewisselaar met instelbare zettemperatuur (90–95 °C) en verwarmde zetgroep; ca. 12 minuten warm.",
+  "tellTheCustomer": [
+   "Halfautomaat met warmtewisselaar, rotatiepomp en cartridge-verwarmde zetgroep in een compacte behuizing.",
+   "BTC-systeem: zettemperatuur instellen tussen 90 °C en 95 °C op het OLED-display; stoomtemperatuur in meerdere standen.",
+   "Binnen ongeveer 12 minuten klaar voor gebruik.",
+   "Actieve en passieve pre-infusie, ECO-modus en programmeerbare aan/uit-tijden.",
+   "Quick steam hendels voor stoom en heet water, dual manometers, afneembaar koppenplateau.",
+   "Watertank 3 liter of vaste wateraansluiting (metalen slang meegeleverd).",
+   "Schoonmaken: behuizing met vochtige doek; filterdragers, lekbak en stoompijp met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Watertank",
+    "value": "3 liter"
+   },
+   {
+    "label": "Opwarmtijd",
+    "value": "ca. 12 minuten"
+   },
+   {
+    "label": "Zettemperatuur",
+    "value": "instelbaar 90–95 °C"
+   }
+  ],
+  "variants": [
+   {
+    "file": "ECM Mechanika Max II espressomachine rvs ｜ Kookwinkel Oldenhof (12_11_2026 14：28：33).html",
+    "colorName": "rvs",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "ecm-mechanika-slim-pid",
+  "name": "ECM Mechanika Slim PID",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Slanke halfautomaat (25 cm breed) voor een kleine keuken, met PID, shottimer en pre-infusie.",
+  "tellTheCustomer": [
+   "Halfautomaat met slank design voor de compacte keuken, met de hand gemaakt in Duitsland.",
+   "Warmtewisselaar: tegelijk koffie zetten en melk opschuimen.",
+   "PID: koffie- en boilertemperatuur precies instellen; het display toont de extractietijd.",
+   "Boilertemperatuur-schakelaar (120, 124 of 128 °C), eco-modus en voorinfusie.",
+   "Vibratiepomp met stabiele 15 bar.",
+   "Waterreservoir 2,8 liter, uitneembaar.",
+   "Meegeleverd: enkel en dubbel piston, filterbakjes, blindfilters, kunststof tamper, reinigingsborstel.",
+   "Schoonmaken: behuizing met een vochtige doek, losse onderdelen met warm water."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Waterreservoir",
+    "value": "2,8 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "ECM Mechanika Slim PID espressomachine rvs glans ｜ Kookwinkel Oldenhof (12_11_2026 14：28：33).html",
+    "colorName": "rvs glans",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "ECM Mechanika Slim PID: lengte en hoogte omgedraaid",
+    "websiteSays": "Spec-tabel: hoogte 39,5 cm, lengte 44,5 cm. Beschrijving: lengte 39,5 cm, hoogte 44,5 cm.",
+    "note": "Controleer de maten bij ECM."
+   }
+  ]
+ },
+ {
+  "id": "ecm-mechanika-vi-slim",
+  "name": "ECM Mechanika VI Slim",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Slanke halfautomaat met E61-zetgroep en warmtewisselaar voor een kleine keuken.",
+  "tellTheCustomer": [
+   "Halfautomaat met slank design voor de compacte keuken, met de hand gemaakt in Duitsland.",
+   "Warmtewisselaar: tegelijk koffie zetten en melk opschuimen.",
+   "Boilertemperatuur-schakelaar (120, 124 of 128 °C), eco-modus en voorinfusie.",
+   "Vibratiepomp met stabiele 15 bar; pompdruk aflezen op de manometer.",
+   "Waterreservoir 2,8 liter, uitneembaar.",
+   "Meegeleverd: enkel en dubbel piston, filterbakjes, blindfilters, kunststof tamper, reinigingsborstel.",
+   "Schoonmaken: behuizing met een vochtige doek, losse onderdelen met warm water."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "ECM Mechanika VI Slim espressomachine rvs glans ｜ Kookwinkel Oldenhof (12_11_2026 14：28：36).html",
+    "colorName": "rvs glans",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "ECM Mechanika VI Slim: breedte verschilt",
+    "websiteSays": "Spec-tabel: breedte 23 cm. Beschrijving: breedte 25 cm.",
+    "note": "Controleer bij ECM."
+   }
+  ]
+ },
+ {
+  "id": "ecm-mechanika-vi-slim-heritage",
+  "name": "ECM Mechanika VI Slim Heritage",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Zelfde slanke Mechanika VI, met koperen accenten.",
+  "tellTheCustomer": [
+   "Halfautomaat met slank design en koperen accenten, met de hand gemaakt in Duitsland.",
+   "Warmtewisselaar: tegelijk koffie zetten en melk opschuimen.",
+   "Boilertemperatuur-schakelaar (120, 124 of 128 °C), eco-modus en voorinfusie.",
+   "Vibratiepomp met stabiele 15 bar; E61-zetgroep.",
+   "Waterreservoir 2,8 liter, uitneembaar.",
+   "Meegeleverd: enkel en dubbel piston, filterbakjes, blindfilters, kunststof tamper, reinigingsborstel.",
+   "Schoonmaken: behuizing met een vochtige doek, losse onderdelen met warm water."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "ECM Mechanika VI Slim Heritage espressomachine rvs glans ｜ Kookwinkel Oldenhof (12_11_2026 14：28：40).html",
+    "colorName": "rvs glans met koper",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "ECM Mechanika VI Slim Heritage: lengte en hoogte omgedraaid",
+    "websiteSays": "Spec-tabel: hoogte 39,5 cm, lengte 44,5 cm. Beschrijving: lengte 39,5 cm, hoogte 44,5 cm.",
+    "note": "Controleer de maten bij ECM."
+   }
+  ]
+ },
+ {
+  "id": "ecm-puristika",
+  "name": "ECM Puristika",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Zeer compacte espressomachine (19,5 cm breed) met PID en zelf instelbare koffiedruk.",
+  "tellTheCustomer": [
+   "Halfautomaat in gepolijst rvs en antraciet; compact: 19,5 cm breed.",
+   "Enkele boiler en vibratiepomp; externe watertank van 2 liter.",
+   "Koffiedruk zelf instellen tussen 8,5 en 12 bar via het expansieventiel.",
+   "PID houdt de watertemperatuur stabiel en precies regelbaar.",
+   "Schoonmaken: behuizing met vochtige doek, losse onderdelen met warm water; backflushen met de blindfilter."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "ECM Puristika espressomachine rvs _ antraciet ｜ Kookwinkel Oldenhof (12_11_2026 14：28：42).html",
+    "colorName": "rvs / antraciet",
+    "colorHex": "#4A4D50"
+   }
+  ],
+  "mismatches": []
+ },
+ {
+  "id": "ecm-synchronika",
+  "name": "ECM Synchronika",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Dubbele geïsoleerde boiler met PID-display en stille rotatiepomp: altijd water op de juiste temperatuur.",
+  "tellTheCustomer": [
+   "Halfautomaat met dubbele, geïsoleerde boiler: stoomboiler 2 liter, koffieboiler 0,75 liter.",
+   "PID-display aan de voorkant: temperatuur van de boilers precies instellen.",
+   "Zetgroep is een doorontwikkeling van de Faema E61, actief verwarmd; koffiedruk instelbaar met stelschroef.",
+   "Rotatiepomp: stiller dan een vibratiepomp. Geïsoleerde mantel dempt geluid.",
+   "Waterreservoir 3 liter; onder de juiste omstandigheden aan te sluiten op vaste wateraansluiting.",
+   "Hendels voor stoom en heet water; vrij beweegbaar stoompijpje. Vermogen 1400 watt.",
+   "Schoonmaken: behuizing met vochtige doek, losse onderdelen met warm water; backflushen met de blindfilter."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Waterreservoir",
+    "value": "3 liter"
+   },
+   {
+    "label": "Boilers",
+    "value": "stoom 2 liter, koffie 0,75 liter"
+   },
+   {
+    "label": "Vermogen",
+    "value": "1400 W"
+   }
+  ],
+  "variants": [
+   {
+    "file": "ECM Synchronika antraciet kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：28：41).html",
+    "colorName": "rvs antraciet",
+    "colorHex": "#4A4D50"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "ECM Synchronika: hoogte verschilt",
+    "websiteSays": "Spec-tabel: hoogte 41 cm. Beschrijving: 33,5 cm breed, 41 cm lang en 49 cm hoog.",
+    "note": "Controleer bij ECM."
+   }
+  ]
+ },
+ {
+  "id": "ecm-technika-vi",
+  "name": "ECM Technika VI",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Dubbele boiler met PID-display, shottimer en pre-infusie; tegelijk zetten en opschuimen.",
+  "tellTheCustomer": [
+   "Halfautomaat met roestvrijstalen dubbele boiler: koffie 0,5 liter, stoom/heet water 1 liter; tegelijk zetten en opschuimen.",
+   "PID-display: temperatuur van beide boilers instellen; toont ook de zettijd.",
+   "ECM-zetgroep met rvs-pin en roterende pomp voor constante druk.",
+   "Actieve en passieve pre-infusie, ECO-modus en programmeerbare aan/uit-tijden.",
+   "Ergonomische hendelkleppen voor stoom en heet water; vaste koppenwarmer.",
+   "Afmetingen zonder portafilter: 32,5 breed, 47,5 diep, 39 cm hoog. Vaste wateraansluiting mogelijk.",
+   "Meegeleverd: 2 portafilters (1 en 2 uitlopen), een- en tweekopsfilter, blindfilter, tamper, borstel, metalen slang.",
+   "Schoonmaken: lekbak met warm water en afwasmiddel, behuizing met vochtige doek."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Afmetingen (b x d x h)",
+    "value": "32,5 x 47,5 x 39 cm (zonder portafilter)"
+   },
+   {
+    "label": "Boilers",
+    "value": "koffie 0,5 liter, stoom 1 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "ECM Technika VI espressomachine rvs kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：28：42).html",
+    "colorName": "rvs",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "ECM Technika VI: bijna geen specificaties",
+    "websiteSays": "De spec-tabel toont alleen merk, artikelnummer en EAN.",
+    "note": "Maten en boilers in de app komen uit de beschrijving."
+   }
+  ]
+ }
+]
