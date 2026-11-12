@@ -13,7 +13,7 @@ import hashlib, json, os, sys
 WEB = 'docs'
 SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'sync.js', 'diagrams.js', 'icons.js', 'fonts/outfit-latin.woff2', 'config.js', 'manifest.webmanifest',
          'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'vendor/zxing.min.js',
-         'data/catalog.json', 'data/catalog.en.json', 'data/booklet.json', 'data/quiz.json']
+         'data/catalog.json', 'data/catalog.en.json', 'data/booklet.json', 'data/quiz.json', 'data/tasks.json', 'data/sage.json']
 
 def main(raw=None):
     cat = json.load(open('data/catalog.json', encoding='utf-8'))
@@ -36,8 +36,10 @@ def main(raw=None):
     json.dump(en, open(os.path.join(WEB, 'data/catalog.en.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
     # product guide and quiz from the information booklet (data/booklet/), figures in docs/img/booklet/
     import shutil
-    for f in ('booklet.json', 'quiz.json'):
+    for f in ('booklet.json', 'quiz.json', 'tasks.json'):
         shutil.copyfile(os.path.join('data/booklet', f), os.path.join(WEB, 'data', f))
+    # brand folders photographed in the shop (data/folders/), e.g. the Sage comparison chart
+    shutil.copyfile('data/folders/sage.json', os.path.join(WEB, 'data/sage.json'))
     figures = sorted('img/booklet/' + f for f in os.listdir(os.path.join(WEB, 'img/booklet')) if f.endswith('.webp'))
     images = sorted({v['image'] for p in cat['products'] for v in p['variants']} | set(figures))
     h = hashlib.sha256()

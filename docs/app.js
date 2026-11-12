@@ -7,6 +7,7 @@
   const S = window.TeamStore;
   let C = null;                         // catalog (in the current language)
   let B = null, Q = null;               // booklet, quizzes
+  let TASKS = null, FOLDERS = {};       // daily/weekly tasks (booklet ch. 3), brand folders (e.g. the Sage chart)
   const idx = {};                       // lookups
 
   // ---------- language, theme, helpers ----------
@@ -86,8 +87,12 @@
     if (!res || !res.ok) throw new Error(u); return res.json();
   }
   async function load() {
-    if (!RAW) [RAW, B, Q] = await Promise.all([getJSON('data/catalog.json'), getJSON('data/booklet.json').catch(() => ({ groups: [] })),
-                                               getJSON('data/quiz.json').then(q => q.quizzes).catch(() => [])]);
+    if (!RAW) {
+      let sage;
+      [RAW, B, Q, TASKS, sage] = await Promise.all([getJSON('data/catalog.json'), getJSON('data/booklet.json').catch(() => ({ groups: [] })),
+        getJSON('data/quiz.json').then(q => q.quizzes).catch(() => []), getJSON('data/tasks.json').catch(() => null), getJSON('data/sage.json').catch(() => null)]);
+      if (sage) FOLDERS[sage.brandID] = sage;
+    }
     if (LANG === 'en' && !EN) EN = await getJSON('data/catalog.en.json').catch(() => ({}));
     C = LANG === 'en' ? translate(RAW) : RAW;
     document.documentElement.lang = LANG;
@@ -106,6 +111,13 @@
     }));
     idx.search = C.products.map(p => ({ p, hay: norm([p.name, idx.brand[p.brandID]?.name, ...p.typeIDs.map(t => idx.type[t]?.name),
       ...p.variants.flatMap(v => [v.colorName, v.ean, v.articleNumber])].join(' ')) }));
+    // folder models <-> app products, matched on the article number (e.g. SES875BSS2EEU1 starts with SES875)
+    idx.folderOf = {}; idx.productOfModel = {};
+    Object.values(FOLDERS).forEach(F => F.models.forEach(m => {
+      const p = C.products.find(p => p.brandID === F.brandID && p.variants.some(v => String(v.articleNumber || '').startsWith(m.code)));
+      if (p) { idx.folderOf[p.id] = m; idx.productOfModel[m.code] = p; }
+    }));
+    idx.brandSearch = C.brands.map(b => ({ b, hay: norm(b.name) }));
     idx.topics = B.groups.flatMap(g => g.topics.map(t => ({ g, t, hay: norm([LT(t.title), ...(t.summary || []).map(LT), ...t.blocks.map(blockText)].join(' ')) })));
   }
   const blockText = b => [LT(b.text), ...(b.items || []).flatMap(function f(i) { return [LT(i.text), ...(i.children || []).flatMap(f)]; }),
@@ -313,6 +325,9 @@
       <div class="tiles">${B.groups.map((g, i) => {
         const np = g.categoryID ? productsOfCat(g.categoryID).length : 0;
         return `<a class="tile" href="#/g/${esc(g.id)}"><div class="tile-top">${icon(g.id, i)}<span class="tile-arrow">${IC('arrow')}</span></div><div><div class="label">${esc(LT(g.title))}</div><div class="count">${np ? `${np} ${L('producten', 'products')} · ` : ''}${g.topics.length} ${g.topics.length > 1 ? L('onderwerpen', 'topics') : L('onderwerp', 'topic')}</div></div></a>`; }).join('')}</div>
+      <div class="section-title"><h2>${L('Merken', 'Brands')}</h2><span class="muted small">${L('overzicht en vergelijken', 'overview and compare')}</span></div>
+      <div class="chips">${C.brands.map(b => ({ b, n: C.products.filter(p => p.brandID === b.id).length })).filter(x => x.n || FOLDERS[x.b.id]).sort((x, y) => y.n - x.n)
+        .map(({ b, n }) => `<a class="chip" href="#/b/${esc(b.id)}">${esc(b.name)} <span class="faint">${n}</span></a>`).join('')}</div>
       <div class="section-title"><h2>${L('Alle producten', 'All products')}</h2><a href="#/zoek">${L('Zoeken', 'Search')} →</a></div>
       <div class="shelf">${C.products.map(p => `<a class="shelf-item" href="#/p/${esc(p.id)}"><div class="shelf-img"><img loading="lazy" src="${esc(productImg(p))}" alt="">${outCount(p) ? `<span class="flagdot corner">${IC('flag')}</span>` : ''}</div><div class="small">${esc(p.name)}</div></a>`).join('')}</div>
       <p class="faint small" style="text-align:center;margin-top:24px">${L('Werkt zonder internet · Productinformatie van kookwinkel.nl en het informatieboekje', 'Works offline · Product information from kookwinkel.nl and the information booklet')} · ${esc(fmtDate(C.generatedOn))}</p>`;
@@ -427,15 +442,123 @@
       ${(t.sections || []).map(s => `<div class="card"><h3>${esc(s.title)}</h3><ul class="bullets">${s.bullets.map(b => `<li>${esc(b)}</li>`).join('')}</ul>${source(s.source)}</div>`).join('')}`;
   };
 
+  // ---------- brand overview, compare ----------
+  const cmp = new Set();                 // items picked for comparing: 'p:<productID>' or 'm:<brand>:<model code>'
+  const cmpBar = () => cmp.size ? `<div class="cmpbar"><span>${cmp.size} ${L('gekozen', 'chosen')}</span><button class="pill" data-act="cmpclear">${L('Wis', 'Clear')}</button>
+      <a class="btn" href="#/vergelijk?i=${encodeURIComponent([...cmp].join(','))}" ${cmp.size < 2 ? 'aria-disabled="true"' : ''}>${IC('compare')} ${L('Vergelijk', 'Compare')}</a></div>` : '';
+  const pick = key => `<button class="pick ${cmp.has(key) ? 'on' : ''}" data-act="pick" data-k="${esc(key)}" aria-pressed="${cmp.has(key)}" aria-label="${L('Kies om te vergelijken', 'Pick to compare')}">${IC('check')}</button>`;
+  const pickRow = (p, sub) => `<div class="pickrow">${productRow(p, sub)}${pick('p:' + p.id)}</div>`;
+  const FW = (F, v) => LANG === 'en' && typeof v === 'string' && F.words[v] ? F.words[v] : v;   // folder word in the app language
+  const folderCell = (F, v) => v === true ? `<span class="dg-yes">✓</span>` : v == null || v === false ? `<span class="faint">–</span>` : esc(FW(F, v));
+  const levelOf = (F, id) => F.levels.find(l => l.id === id);
+  function folderLevels(F, withPick) {
+    return `<div class="levels">${F.levels.map((lv, i) => `<div class="level lv${i + 1}"><div class="level-h"><span class="level-n">${i + 1}</span><div><b>${esc(LT(lv.title))}</b><span>“${esc(LT(lv.motto))}”</span></div></div>
+      <p class="level-q">${esc(LT(lv.quote))}</p>
+      <div class="models">${F.models.filter(m => m.level === lv.id).map(m => { const p = idx.productOfModel[m.code]; const key = `m:${F.brandID}:${m.code}`;
+        return `<div class="model"><a class="model-main" href="#/vergelijk?i=${encodeURIComponent(key)}"><b>${esc(m.name.replace(/^the /, ''))}</b><span>${esc(m.code)} · ${esc(FW(F, m.values.heating))} · ${esc(FW(F, m.values.milk))}</span>
+          ${p ? `<span class="pill pos tiny">${L('In de app', 'In the app')}</span>` : ''}</a>${withPick ? pick(key) : ''}</div>`; }).join('')}</div></div>`).join('')}</div>`;
+  }
+  function folderFormula(F) {
+    return `<div class="formula"><div class="small muted">${esc(LT(F.formulaTitle))}</div><div class="formula-row">${F.formula.map(f => `<div class="fstep"><span class="fn">${f.n}</span><b>${esc(f.value)}</b><span>${esc(LT(f.label))}</span></div>`).join('')}</div></div>`;
+  }
   views.brand = ([typeID, brandID]) => {
     const b = idx.brand[brandID]; if (!b) return notFound();
     const t = typeID ? idx.type[typeID] : null;
     const prods = C.products.filter(p => p.brandID === brandID && (!t || p.typeIDs.includes(typeID)));
-    return `${top(t ? t.name : L('Merk', 'Brand'))}<div class="hero"><div class="eyebrow">${t ? esc(t.name) : L('Merk', 'Brand')}</div><h1>${esc(b.name)}</h1>
-        ${b.officialURL ? `<p><a class="pill accent" href="${esc(b.officialURL)}" target="_blank" rel="noopener">${L('Officiële website', 'Official website')} ↗</a></p>` : ''}</div>
-      ${prods.length ? `<h2>${L('Welk model past bij wie?', 'Which model suits whom?')}</h2><div class="list">${prods.map(p => productRow(p)).join('')}</div>`
-        : `<div class="empty">${L('Nog geen producten van dit merk in de app.', 'No products from this brand in the app yet.')}</div>`}`;
+    const F = !t || t.id === 'halfautomaat' ? FOLDERS[brandID] : null;
+    const types = t ? [t.id] : [...new Set(prods.map(p => p.typeIDs[0]))].filter(x => idx.type[x]);
+    const byType = types.map(x => ({ t: idx.type[x], list: t ? prods : prods.filter(p => p.typeIDs[0] === x) })).filter(g => g.list.length);
+    return `${top(t ? t.name : L('Merk', 'Brand'))}<div class="hero"><div class="eyebrow">${t ? esc(t.name) : L('Merkoverzicht', 'Brand overview')}</div><h1>${esc(b.name)}</h1>
+        <div class="pills" style="margin-top:12px"><span class="pill">${prods.length} ${L('in de app', 'in the app')}</span>${F ? `<span class="pill">${F.models.length} ${L('modellen in de folder', 'models in the folder')}</span>` : ''}
+        ${b.officialURL ? `<a class="pill accent" href="${esc(b.officialURL)}" target="_blank" rel="noopener">${L('Officiële website', 'Official website')} ↗</a>` : ''}</div></div>
+      ${F ? `<h2>${L('Het hele assortiment in 3 niveaus', 'The whole range in 3 levels')}</h2><p class="muted small" style="margin-top:-6px">${esc(LT(F.title))}. ${L('Tik een machine aan, of kies er een paar met ✓ om te vergelijken.', 'Tap a machine, or pick a few with ✓ to compare.')}</p>
+        ${folderLevels(F, true)}${folderFormula(F)}
+        <a class="btn ghost block" href="#/folder/${esc(brandID)}" style="margin:12px 0 4px">${IC('compare')} ${L('Hele vergelijkingstabel', 'Full comparison table')}</a>
+        <div class="source">${L('Bron', 'Source')}: ${esc(LT(F.source))}</div>` : ''}
+      ${prods.length ? `<div class="section-title"><h2>${L('In de app', 'In the app')}</h2><span class="muted small">${L('✓ = vergelijken', '✓ = compare')}</span></div>
+        ${byType.map(g => `${byType.length > 1 ? `<div class="small muted" style="margin:14px 2px 8px">${esc(g.t.name)}</div>` : ''}<div class="list">${g.list.map(p => pickRow(p)).join('')}</div>`).join('')}`
+        : `<div class="empty">${L('Nog geen producten van dit merk in de app.', 'No products from this brand in the app yet.')}</div>`}
+      ${cmpBar()}`;
   };
+  // the whole folder as one table
+  views.folder = ([brandID]) => {
+    const F = FOLDERS[brandID]; if (!F) return notFound();
+    const head = F.models.map(m => `<th class="lv${F.levels.findIndex(l => l.id === m.level) + 1}"><span>${esc(m.name.replace(/^the /, ''))}</span><small>${esc(m.code)}</small></th>`).join('');
+    return `${top(idx.brand[brandID]?.name)}<div class="hero"><h1>${L('Vergelijkingstabel', 'Comparison table')}</h1><p class="muted small">${L('Veeg opzij voor alle machines. Kleur = niveau.', 'Swipe sideways for all machines. Colour = level.')}</p>
+        <div class="pills" style="margin-top:10px">${F.levels.map((l, i) => `<span class="pill lvpill lv${i + 1}">${i + 1} · ${esc(LT(l.title))}</span>`).join('')}</div></div>
+      <div class="ctable-wrap"><table class="ctable folder"><thead><tr><th class="rowh"></th>${head}</tr></thead><tbody>
+        ${F.rows.map(r => `<tr><th class="rowh">${esc(LT(r.label))}</th>${F.models.map(m => `<td>${folderCell(F, m.values[r.key])}</td>`).join('')}</tr>`).join('')}
+      </tbody></table></div>
+      <div class="source">${L('Bron', 'Source')}: ${esc(LT(F.source))}</div>`;
+  };
+  // side-by-side comparison of products from the app and/or folder models
+  views.compare = (_, q) => {
+    const keys = (q.get('i') || '').split(',').filter(Boolean).slice(0, 4);
+    const items = keys.map(k => { const [kind, a, c] = k.split(':');
+      if (kind === 'p' && idx.product[a]) { const p = idx.product[a]; return { key: k, p, m: idx.folderOf[p.id], F: FOLDERS[p.brandID] }; }
+      if (kind === 'm' && FOLDERS[a]) { const F = FOLDERS[a]; const m = F.models.find(x => x.code === c); if (m) return { key: k, m, F, p: idx.productOfModel[m.code] }; }
+      return null; }).filter(Boolean);
+    if (!items.length) return notFound();
+    const only = q.get('diff') === '1';
+    const name = it => it.p ? it.p.name : `${idx.brand[it.F.brandID]?.name || ''} ${it.m.name.replace(/^the /, '')}`;
+    const rows = [];
+    // 1. who it suits (website / curation)
+    if (items.some(it => it.p?.suitedFor)) rows.push({ label: L('Voor wie', 'Who it suits'), cells: items.map(it => it.p?.suitedFor ? esc(it.p.suitedFor.text) : '<span class="faint">–</span>'), plain: true });
+    // 2. folder rows
+    const Fs = [...new Set(items.map(it => it.F).filter(F => F && items.some(it => it.m && it.F === F)))];
+    Fs.forEach(F => {
+      rows.push({ section: `${L('Volgens de folder', 'According to the folder')} (${idx.brand[F.brandID]?.name})` });
+      rows.push({ label: L('Niveau', 'Level'), cells: items.map(it => it.m && it.F === F ? esc(LT(levelOf(F, it.m.level).title)) : '<span class="faint">–</span>') });
+      F.rows.forEach(r => rows.push({ label: LT(r.label), cells: items.map(it => it.m && it.F === F ? folderCell(F, it.m.values[r.key]) : '<span class="faint">–</span>') }));
+    });
+    // 3. website specs (union of labels)
+    const labels = [...new Set(items.flatMap(it => (it.p?.specs || []).map(s => s.label)))];
+    if (labels.length) {
+      rows.push({ section: L('Volgens kookwinkel.nl', 'According to kookwinkel.nl') });
+      labels.forEach(lb => rows.push({ label: lb, cells: items.map(it => { const sp = it.p?.specs?.find(s => s.label === lb); return sp ? esc(sp.value) : '<span class="faint">–</span>'; }) }));
+      rows.push({ label: L('Kleuren', 'Colours'), cells: items.map(it => it.p ? `${it.p.variants.length}` : '<span class="faint">–</span>') });
+    }
+    const same = r => r.cells && new Set(r.cells).size === 1;
+    const shown = rows.filter(r => !only || r.section || r.plain || !same(r));
+    const diffLink = `#/vergelijk?i=${encodeURIComponent(keys.join(','))}${only ? '' : '&diff=1'}`;
+    return `${top(L('Vergelijken', 'Compare'))}
+      <div class="seg" style="margin-top:4px"><a class="${only ? '' : 'on'}" href="#/vergelijk?i=${encodeURIComponent(keys.join(','))}">${L('Alles', 'Everything')}</a><a class="${only ? 'on' : ''}" href="${only ? '#' : diffLink}">${L('Alleen verschillen', 'Only differences')}</a></div>
+      <div class="ctable-wrap"><table class="ctable cmp n${items.length}"><thead><tr><th class="rowh"></th>${items.map(it => `<th>
+          ${it.p ? `<a href="#/p/${esc(it.p.id)}"><img src="${esc(productImg(it.p))}" alt=""></a>` : `<span class="cimg">${IC('machine')}</span>`}
+          <a class="cname" href="${it.p ? `#/p/${esc(it.p.id)}` : `#/b/${esc(it.F.brandID)}`}">${esc(name(it))}</a>${it.m ? `<small>${esc(it.m.code)}</small>` : ''}
+          <button class="pill tiny" data-act="cmpdrop" data-k="${esc(it.key)}">${L('Weg', 'Remove')}</button></th>`).join('')}</tr></thead><tbody>
+        ${shown.map(r => r.section ? `<tr class="sec"><th colspan="${items.length + 1}">${esc(r.section)}</th></tr>`
+          : `<tr class="${!r.plain && !same(r) ? 'diff' : ''}${r.plain ? ' plain' : ''}"><th class="rowh">${esc(r.label)}</th>${r.cells.map(c => `<td>${c}</td>`).join('')}</tr>`).join('')}
+      </tbody></table></div>
+      <p class="small muted">${L('Geel gemarkeerd = verschilt. Een streepje = staat niet in de bron.', 'Highlighted = differs. A dash = not in the source.')}</p>
+      ${Fs.map(F => `<div class="source">${L('Folder', 'Folder')}: ${esc(LT(F.source))}</div>`).join('')}${labels.length ? `<div class="source">${L('Specificaties: kookwinkel.nl', 'Specifications: kookwinkel.nl')}</div>` : ''}`;
+  };
+
+  // ---------- tasks for new colleagues (booklet ch. 3) ----------
+  const today = () => new Date().toISOString().slice(0, 10);
+  const doneKey = () => 'oh.tasks.' + today();
+  const doneSet = () => { try { return new Set(JSON.parse(localStorage.getItem(doneKey()) || '[]')); } catch { return new Set(); } };
+  views.tasks = (_, q) => {
+    if (!TASKS) return notFound();
+    const tab = q.get('t') || 'dag'; const done = doneSet();
+    const item = (id, t) => `<button class="task ${done.has(id) ? 'done' : ''}" data-act="task" data-id="${esc(id)}"><span class="tick">${IC('check')}</span><span>${esc(LT(t))}</span></button>`;
+    const block = (sec, idp) => `<div class="tcard"><div class="tcard-h"><span class="icon">${IC(sec.icon)}</span><div><h3>${esc(LT(sec.title))}</h3>${sec.when ? `<div class="small muted">${esc(LT(sec.when))}</div>` : ''}</div>
+        ${tab === 'week' && isToday(sec.id) ? `<span class="pill accent">${L('Vandaag', 'Today')}</span>` : ''}</div>
+      ${sec.tasks ? `<div class="tasks">${sec.tasks.map((t, k) => item(`${idp}${sec.id}-${k}`, t)).join('')}</div>` : ''}
+      ${(sec.steps || []).map((st, j) => `<div class="tstep"><span class="tstep-t">${IC('clock')} ${esc(LT(st.when))}</span><div class="tasks">${st.tasks.map((t, k) => item(`${idp}${sec.id}-${j}-${k}`, t)).join('')}</div></div>`).join('')}
+      ${sec.warn ? `<div class="twarn">${IC('alert')}<span>${esc(LT(sec.warn))}</span></div>` : ''}</div>`;
+    const dayIDs = TASKS.daily.flatMap(sec => sec.tasks ? sec.tasks.map((_, k) => `d${sec.id}-${k}`) : sec.steps.flatMap((st, j) => st.tasks.map((_, k) => `d${sec.id}-${j}-${k}`)));
+    const n = dayIDs.filter(id => done.has(id)).length;
+    const dow = new Date().getDay();
+    return `<div class="hero"><h1>${L('Taken', 'Tasks')}</h1><p class="muted">${L('Wat er elke dag en elke week gedaan moet worden. Vink af wat je gedaan hebt; dat blijft alleen op deze telefoon en begint elke dag opnieuw.', 'What needs doing every day and every week. Tick off what you did; this stays on this phone only and starts fresh every day.')}</p></div>
+      <div class="seg">${[['dag', L('Elke dag', 'Every day')], ['week', L('Per week', 'Weekly')], ['open', L('Openingstijden', 'Opening hours')]].map(([k, t]) => `<a class="${tab === k ? 'on' : ''}" href="#/taken?t=${k}">${t}</a>`).join('')}</div>
+      ${tab === 'dag' ? `<div class="tprogress"><div><b>${n}/${dayIDs.length}</b> ${L('vandaag gedaan', 'done today')}</div><div class="progress"><i style="width:${Math.round(n / dayIDs.length * 100)}%"></i></div></div>${TASKS.daily.map(sec => block(sec, 'd')).join('')}` : ''}
+      ${tab === 'week' ? TASKS.weekly.map(sec => block(sec, 'w')).join('') : ''}
+      ${tab === 'open' ? `<div class="list">${TASKS.hours.days.map(([d, h], i) => `<div class="row ${(i + 1) % 7 === dow ? 'today' : ''}"><div class="grow name">${esc(LT(d))}</div><b class="score">${esc(h)}</b></div>`).join('')}</div>
+        <p class="small muted">${esc(LT(TASKS.hours.note))}</p>` : ''}
+      <div class="source">${L('Bron', 'Source')}: ${esc(LT(TASKS.source))}</div>`;
+  };
+  const isToday = id => ({ maandag: 1, woensdag: 3 })[id] === new Date().getDay();
 
   views.product = ([id], q) => {
     const p = idx.product[id]; if (!p) return notFound();
@@ -448,7 +571,9 @@
         ${out ? `<span class="pill neg flag">${IC('flag')} ${L('Niet op voorraad', 'Out of stock')}</span>` : ''}
         <button class="photo-act" data-act="pmenu" data-v="${esc(v.id)}" aria-label="${L('Notitie, onjuistheid of voorraad melden', 'Add a note, report an inaccuracy or stock')}">${IC('plus')}</button></div>
       <div class="hero" style="margin-top:0"><div class="eyebrow">${p.typeIDs.map(t => esc(idx.type[t]?.name || t)).join(' · ')}</div>
-        <h1>${esc(p.name)}</h1>${p.suitedFor ? `<p class="muted">${esc(p.suitedFor.text)}</p>` : ''}</div>
+        <h1>${esc(p.name)}</h1>${p.suitedFor ? `<p class="muted">${esc(p.suitedFor.text)}</p>` : ''}
+        <div class="pills" style="margin-top:12px">${brand ? `<a class="pill" href="#/b/${esc(brand.id)}">${IC('tag')} ${L(`Alles van ${esc(brand.name)}`, `All ${esc(brand.name)}`)} →</a>` : ''}
+          <button class="pill ${cmp.has('p:' + p.id) ? 'accent' : ''}" data-act="pick" data-k="p:${esc(p.id)}">${IC('compare')} ${cmp.has('p:' + p.id) ? L('Gekozen om te vergelijken', 'Picked to compare') : L('Vergelijk', 'Compare')}</button></div></div>
       ${p.variants.length > 1 ? `<div class="card tight"><div class="small muted">${L('Kleur', 'Colour')}: <b style="color:var(--text)">${esc(v.colorName)}</b></div>
         <div class="swatches">${p.variants.map(x => `<a class="swatch ${x.id === v.id ? 'on' : ''} ${S.isOut(x.id) ? 'out' : ''}" data-act="swatch" href="#/p/${esc(p.id)}?v=${esc(x.id)}" aria-label="${esc(x.colorName)}" style="background-color:${esc(x.colorHex || '#888')}"></a>`).join('')}</div></div>` : ''}
       <div class="card">
@@ -467,7 +592,8 @@
       ${p.specs?.length ? `<div class="card"><h3 style="margin-bottom:12px">${L('Specificaties', 'Specifications')}</h3><dl class="kv">${p.specs.map(s => `<dt>${esc(s.label)}</dt><dd>${esc(s.value)}</dd>`).join('')}</dl>${source(p.source)}</div>` : ''}
       <details class="card"><summary>${L('Originele tekst van de website', 'Original website text (Dutch)')}</summary><p class="orig">${esc(p.originalDescription)}</p>
         <div class="source"><a href="${esc(v.productURL)}" target="_blank" rel="noopener">${L('Open op kookwinkel.nl', 'Open on kookwinkel.nl')} ↗</a></div></details>
-      ${brand?.officialURL ? `<a class="btn ghost block" href="${esc(brand.officialURL)}" target="_blank" rel="noopener">${L(`Officiële ${esc(brand.name)}-website`, `Official ${esc(brand.name)} website`)} ↗</a>` : ''}`;
+      ${idx.folderOf[p.id] ? `<a class="card tight folderlink" href="#/b/${esc(p.brandID)}"><span class="icon">${IC('compare')}</span><span class="grow"><b>${L(`In de ${esc(brand?.name)}-vergelijking`, `In the ${esc(brand?.name)} comparison`)}</b><span class="small muted">${esc(LT(levelOf(FOLDERS[p.brandID], idx.folderOf[p.id].level).title))} · ${esc(idx.folderOf[p.id].code)}</span></span>${chev}</a>` : ''}
+      ${brand?.officialURL ? `<a class="btn ghost block" href="${esc(brand.officialURL)}" target="_blank" rel="noopener">${L(`Officiële ${esc(brand.name)}-website`, `Official ${esc(brand.name)} website`)} ↗</a>` : ''}${cmpBar()}`;
   };
 
   views.search = (_, q) => {
@@ -482,8 +608,11 @@
     if (!toks.length) return `<div class="empty">${L('Typ een naam, merk, kleur, barcode of onderwerp.', 'Type a name, brand, colour, barcode or topic.')}</div>`;
     const hits = idx.search.filter(x => toks.every(t => x.hay.includes(t))).map(x => x.p);
     const th = idx.topics.filter(x => toks.every(t => x.hay.includes(t)));
-    if (!hits.length && !th.length) return `<div class="empty">${L('Niets gevonden voor', 'Nothing found for')} “${esc(term)}”.</div>`;
-    return `${hits.length ? `<p class="muted small">${hits.length} ${L('producten', 'products')}</p><div class="list">${hits.slice(0, 80).map(p => productRow(p, idx.brand[p.brandID]?.name + ' · ' + p.typeIDs.map(t => idx.type[t]?.name).join(', '))).join('')}</div>` : ''}
+    const bh = idx.brandSearch.filter(x => toks.every(t => x.hay.includes(t))).map(x => x.b);
+    const brandHTML = bh.length ? `<p class="muted small">${L('Merken', 'Brands')}</p><div class="list">${bh.map(b => { const n = C.products.filter(p => p.brandID === b.id).length;
+      return `<a class="row" href="#/b/${esc(b.id)}"><span class="icon">${IC('tag')}</span><div class="grow"><div class="name">${esc(b.name)}</div><div class="sub">${L('Merkoverzicht', 'Brand overview')} · ${n} ${L('in de app', 'in the app')}${FOLDERS[b.id] ? ` · ${FOLDERS[b.id].models.length} ${L('modellen in de folder', 'models in the folder')}` : ''}</div></div>${chev}</a>`; }).join('')}</div>` : '';
+    if (!hits.length && !th.length && !bh.length) return `<div class="empty">${L('Niets gevonden voor', 'Nothing found for')} “${esc(term)}”.</div>`;
+    return `${brandHTML}${hits.length ? `<p class="muted small">${hits.length} ${L('producten', 'products')}</p><div class="list">${hits.slice(0, 80).map(p => productRow(p, idx.brand[p.brandID]?.name + ' · ' + p.typeIDs.map(t => idx.type[t]?.name).join(', '))).join('')}</div>` : ''}
       ${th.length ? `<p class="muted small">${th.length} ${L('onderwerpen uit het boekje', 'topics from the booklet')}</p><div class="list">${th.slice(0, 40).map(({ g, t }) => `<a class="row" href="#/g/${esc(g.id)}/${esc(t.id)}"><div class="grow"><div class="name">${esc(LT(t.title))}</div><div class="sub">${esc(LT(g.title))} · ${esc(pageLabel(t))}</div></div>${chev}</a>`).join('')}</div>` : ''}`;
   }
 
@@ -664,6 +793,9 @@
     else if (parts[0] === 'b') html = views.brand([null, parts[1]]);
     else if (parts[0] === 'p') html = views.product(parts.slice(1), q);
     else if (parts[0] === 'zoek') { html = views.search(parts, q); tab = 'zoek'; }
+    else if (parts[0] === 'vergelijk') html = views.compare(parts, q);
+    else if (parts[0] === 'folder') html = views.folder(parts.slice(1));
+    else if (parts[0] === 'taken') { html = views.tasks(parts, q); tab = 'taken'; }
     else if (parts[0] === 'scan') { html = views.scan(); tab = 'scan'; }
     else if (parts[0] === 'quiz' && parts[1]) { html = views.quizRun([parts[1]]); tab = 'quiz'; }
     else if (parts[0] === 'quiz') { run = null; html = views.quiz(); tab = 'quiz'; }
@@ -676,7 +808,7 @@
     else if (parts[0] === 'over' || parts[0] === 'instellingen') html = views.about();
     else html = notFound();
     app.innerHTML = html;
-    const TABS = { home: 'Home', zoek: L('Zoeken', 'Search'), scan: L('Scannen', 'Scan'), quiz: 'Quiz' };
+    const TABS = { home: 'Home', zoek: L('Zoeken', 'Search'), scan: L('Scannen', 'Scan'), taken: L('Taken', 'Tasks'), quiz: 'Quiz' };
     document.querySelectorAll('.tabbar a').forEach(a => { a.classList.toggle('on', a.dataset.tab === tab); const sp = a.querySelector('span'); if (sp) sp.textContent = TABS[a.dataset.tab]; a.setAttribute('aria-label', TABS[a.dataset.tab]); });
     if (route.last !== location.hash.split('?')[0]) window.scrollTo(0, 0);
     route.last = location.hash.split('?')[0];
@@ -727,6 +859,11 @@
   document.addEventListener('click', e => {
     const b = e.target.closest('[data-act]'); if (!b || b.tagName === 'FORM' || b.tagName === 'SELECT') return;
     const act = b.dataset.act;
+    if (act === 'pick') { const k = b.dataset.k; cmp.has(k) ? cmp.delete(k) : cmp.size < 4 ? cmp.add(k) : toast(L('Maximaal 4 tegelijk', 'At most 4 at a time')); route(); return; }
+    if (act === 'cmpclear') { cmp.clear(); route(); return; }
+    if (act === 'cmpdrop') { cmp.delete(b.dataset.k); const [path, qs] = location.hash.split('?'); const p = new URLSearchParams(qs || '');
+      const left = (p.get('i') || '').split(',').filter(k => k && k !== b.dataset.k); if (!left.length) { history.back(); return; } p.set('i', left.join(',')); location.replace(path + '?' + p.toString()); return; }
+    if (act === 'task') { const d = doneSet(); const id = b.dataset.id; d.has(id) ? d.delete(id) : d.add(id); try { localStorage.setItem(doneKey(), JSON.stringify([...d])); } catch {} route(); return; }
     if (act === 'swatch') { e.preventDefault(); location.replace(b.getAttribute('href')); return; }
     if (act === 'pmenu') {
       const x = idx.variant[b.dataset.v]; const cn = esc(x.v.colorName); const out = S.isOut(x.v.id);

@@ -1,0 +1,294 @@
+{
+ "source": {
+  "nl": "Informatieboekje Kookwinkel Oldenhof Maastricht, hoofdstuk 3 (p. 7) en p. 5",
+  "en": "Kookwinkel Oldenhof Maastricht information booklet, chapter 3 (p. 7) and p. 5"
+ },
+ "daily": [
+  {
+   "id": "ochtend",
+   "icon": "sun",
+   "title": {
+    "nl": "Ochtend",
+    "en": "Morning"
+   },
+   "when": {
+    "nl": "Voor de opening van de winkel",
+    "en": "Before the shop opens"
+   },
+   "page": 7,
+   "tasks": [
+    {
+     "nl": "Stofzuigen.",
+     "en": "Vacuum."
+    },
+    {
+     "nl": "Ramen ontdoen van spinnenwebben e.d.",
+     "en": "Clear cobwebs etc. from the windows."
+    },
+    {
+     "nl": "Trap naar kelder vegen.",
+     "en": "Sweep the stairs to the basement."
+    },
+    {
+     "nl": "Tasjes e.d. bij kassa bijvullen.",
+     "en": "Refill bags etc. at the till."
+    },
+    {
+     "nl": "Glazen waterdispenser vullen (zomer).",
+     "en": "Fill the glass water dispenser (summer)."
+    }
+   ]
+  },
+  {
+   "id": "middag",
+   "icon": "sponge",
+   "title": {
+    "nl": "Middag",
+    "en": "Afternoon"
+   },
+   "when": null,
+   "page": 7,
+   "tasks": [
+    {
+     "nl": "Vloer swifferen.",
+     "en": "Swiffer the floor."
+    },
+    {
+     "nl": "Kassablok opruimen.",
+     "en": "Tidy the till counter."
+    },
+    {
+     "nl": "Afwas (inclusief koffiezetapparaat).",
+     "en": "Washing up (including the coffee maker)."
+    }
+   ]
+  },
+  {
+   "id": "sluiten",
+   "icon": "timer",
+   "title": {
+    "nl": "Sluitingstijd",
+    "en": "Closing time"
+   },
+   "when": null,
+   "page": 7,
+   "steps": [
+    {
+     "when": {
+      "nl": "15 minuten voor sluitingstijd",
+      "en": "15 minutes before closing"
+     },
+     "tasks": [
+      {
+       "nl": "Servieskelder afsluiten.",
+       "en": "Lock the crockery basement."
+      }
+     ]
+    },
+    {
+     "when": {
+      "nl": "10 minuten voor sluitingstijd",
+      "en": "10 minutes before closing"
+     },
+     "tasks": [
+      {
+       "nl": "Uitzetten muziek.",
+       "en": "Turn off the music."
+      },
+      {
+       "nl": "Uitzetten verwarming (winter).",
+       "en": "Turn off the heating (winter)."
+      },
+      {
+       "nl": "Uitzetten ventilatoren (zomer).",
+       "en": "Turn off the fans (summer)."
+      },
+      {
+       "nl": "Raam sluiten.",
+       "en": "Close the window."
+      },
+      {
+       "nl": "Spullen naar binnen.",
+       "en": "Bring things inside."
+      }
+     ]
+    },
+    {
+     "when": {
+      "nl": "5 minuten voor sluitingstijd",
+      "en": "5 minutes before closing"
+     },
+     "tasks": [
+      {
+       "nl": "PDF dagtotalen VVV- en cadeaubonnen in de Google Drive.",
+       "en": "Put the PDF of the daily totals for VVV and gift vouchers in the Google Drive."
+      },
+      {
+       "nl": "Rondje door de winkel lopen en klanten vriendelijk informeren dat de winkel over 5 minuten sluit.",
+       "en": "Walk round the shop and kindly tell customers the shop closes in 5 minutes."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "weekly": [
+  {
+   "id": "maandag",
+   "icon": "cal",
+   "title": {
+    "nl": "Maandagen",
+    "en": "Mondays"
+   },
+   "when": {
+    "nl": "Taken voor openingstijd, 10.00-12.00",
+    "en": "Tasks before opening time, 10.00-12.00"
+   },
+   "page": 7,
+   "tasks": [
+    {
+     "nl": "Dweilen (vergeet kelder en kantoor niet).",
+     "en": "Mop (do not forget the basement and office)."
+    },
+    {
+     "nl": "Toilet.",
+     "en": "Toilet."
+    },
+    {
+     "nl": "Kluis stofzuigen.",
+     "en": "Vacuum the safe room."
+    },
+    {
+     "nl": "Met schuursponsje strepen op trap naar kelder verwijderen.",
+     "en": "Remove marks on the basement stairs with a scouring pad."
+    },
+    {
+     "nl": "Winkelvloer checken op kauwgom en prijsstickers e.d.",
+     "en": "Check the shop floor for chewing gum, price stickers etc."
+    },
+    {
+     "nl": "Ramen wassen.",
+     "en": "Wash the windows."
+    },
+    {
+     "nl": "Grondig bijvullen (kratten met voorraad naar boven en van daaruit bijvullen).",
+     "en": "Restock thoroughly (bring crates of stock upstairs and refill from there)."
+    }
+   ],
+   "warn": {
+    "nl": "Let op! Gooi het vuile water nooit in de gootsteen of het toilet, maar buiten voor de winkel in het putje.",
+    "en": "Note! Never pour the dirty water into the sink or toilet, but outside in the drain in front of the shop."
+   }
+  },
+  {
+   "id": "woensdag",
+   "icon": "box",
+   "title": {
+    "nl": "Woensdagen",
+    "en": "Wednesdays"
+   },
+   "when": null,
+   "page": 7,
+   "tasks": [
+    {
+     "nl": "Karton naar buiten.",
+     "en": "Cardboard outside."
+    },
+    {
+     "nl": "Afval naar buiten (prullenbakken te legen: kassa, koffiemachine, keukenblok, toilet en kantoor).",
+     "en": "Rubbish outside (bins to empty: till, coffee machine, kitchen unit, toilet and office)."
+    }
+   ],
+   "warn": {
+    "nl": "NB. Geen half gevulde vuilniszakken naar buiten; we betalen deze per stuk.",
+    "en": "NB. No half-full rubbish bags outside; we pay for them per bag."
+   }
+  },
+  {
+   "id": "willekeurig",
+   "icon": "sparkle",
+   "title": {
+    "nl": "Willekeurige weekdagen",
+    "en": "Any weekday"
+   },
+   "when": null,
+   "page": 7,
+   "tasks": [
+    {
+     "nl": "Halfautomatische espressomachines reinigen.",
+     "en": "Clean the semi-automatic espresso machines."
+    },
+    {
+     "nl": "Uitneembare zetgroep volautomaat reinigen.",
+     "en": "Clean the removable brewing unit of the bean-to-cup machine."
+    },
+    {
+     "nl": "Ramen messenkast en vitrine in kassablok schoonmaken.",
+     "en": "Clean the glass of the knife cabinet and the display case in the till counter."
+    },
+    {
+     "nl": "Eén (of meerdere) afdeling(en) afstoffen.",
+     "en": "Dust one (or more) department(s)."
+    }
+   ]
+  }
+ ],
+ "hours": {
+  "page": 5,
+  "note": {
+   "nl": "Stand van het boekje (augustus 2023). Controleer bij twijfel de website.",
+   "en": "As in the booklet (August 2023). If in doubt, check the website."
+  },
+  "days": [
+   [
+    {
+     "nl": "Maandag",
+     "en": "Monday"
+    },
+    "12:00 - 18:00"
+   ],
+   [
+    {
+     "nl": "Dinsdag",
+     "en": "Tuesday"
+    },
+    "10:00 - 18:00"
+   ],
+   [
+    {
+     "nl": "Woensdag",
+     "en": "Wednesday"
+    },
+    "10:00 - 18:00"
+   ],
+   [
+    {
+     "nl": "Donderdag",
+     "en": "Thursday"
+    },
+    "10:00 - 18:00"
+   ],
+   [
+    {
+     "nl": "Vrijdag",
+     "en": "Friday"
+    },
+    "09:30 - 18:00"
+   ],
+   [
+    {
+     "nl": "Zaterdag",
+     "en": "Saturday"
+    },
+    "10:00 - 17:30"
+   ],
+   [
+    {
+     "nl": "Zondag",
+     "en": "Sunday"
+    },
+    "12:00 - 17:00"
+   ]
+  ]
+ }
+}

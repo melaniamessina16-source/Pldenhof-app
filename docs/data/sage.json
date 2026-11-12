@@ -1,0 +1,785 @@
+{
+ "brandID": "sage",
+ "source": {
+  "nl": "Sage-vergelijkingsfolder espressoapparaten (in de winkel, \"Espresso_Comparison_Chart_UK_L24\")",
+  "en": "Sage espresso comparison folder (in the shop, \"Espresso_Comparison_Chart_UK_L24\")"
+ },
+ "title": {
+  "nl": "Sage biedt 3 manieren voor third wave-kwaliteitskoffie in eigen huis",
+  "en": "Sage offers 3 ways to third-wave quality coffee at home"
+ },
+ "formulaTitle": {
+  "nl": "4-stappenformule voor professionele prestaties in eigen huis",
+  "en": "4-step formula for professional performance at home"
+ },
+ "levels": [
+  {
+   "id": "zelf",
+   "title": {
+    "nl": "Zelf een meester zijn",
+    "en": "Be the master yourself"
+   },
+   "motto": {
+    "nl": "Zelf maken",
+    "en": "Make it yourself"
+   },
+   "quote": {
+    "nl": "Ik wil zelf als barista aan de slag met een handmatig espressoapparaat dat professionele prestaties levert.",
+    "en": "I want to be the barista myself, with a manual espresso machine that delivers professional performance."
+   }
+  },
+  {
+   "id": "samen",
+   "title": {
+    "nl": "Meesterschap met ondersteuning",
+    "en": "Mastery with support"
+   },
+   "motto": {
+    "nl": "Doe het samen met mij",
+    "en": "Do it together with me"
+   },
+   "quote": {
+    "nl": "Ik wil begeleiding tijdens het koffiezetten om met gemak mijn perfecte kopje koffie te krijgen.",
+    "en": "I want guidance while making coffee, so I easily get my perfect cup."
+   }
+  },
+  {
+   "id": "meteen",
+   "title": {
+    "nl": "Meteen een meester",
+    "en": "A master straight away"
+   },
+   "motto": {
+    "nl": "Zet het maar voor mij",
+    "en": "Just make it for me"
+   },
+   "quote": {
+    "nl": "Ik wil simpelweg swipen, selecteren en genieten met automatisering in elke fase.",
+    "en": "I simply want to swipe, select and enjoy, with automation at every stage."
+   }
+  }
+ ],
+ "formula": [
+  {
+   "n": 1,
+   "value": "18-22 g",
+   "label": {
+    "nl": "Precisiepuck",
+    "en": "Precision puck"
+   }
+  },
+  {
+   "n": 2,
+   "value": "9 bar",
+   "label": {
+    "nl": "Extractiedruk",
+    "en": "Extraction pressure"
+   }
+  },
+  {
+   "n": 3,
+   "value": "93 °C · 200 °F",
+   "label": {
+    "nl": "Extractietemperatuur",
+    "en": "Extraction temperature"
+   }
+  },
+  {
+   "n": 4,
+   "value": "1.000.000 /ml",
+   "label": {
+    "nl": "Microschuimbelletjes",
+    "en": "Microfoam bubbles"
+   }
+  }
+ ],
+ "rows": [
+  {
+   "key": "portafilter",
+   "label": {
+    "nl": "Grootte portafilter (mm)",
+    "en": "Portafilter size (mm)"
+   }
+  },
+  {
+   "key": "heating",
+   "label": {
+    "nl": "Verwarmingssysteem",
+    "en": "Heating system"
+   }
+  },
+  {
+   "key": "heatedGroup",
+   "label": {
+    "nl": "Verwarmde zetgroep",
+    "en": "Heated group head"
+   }
+  },
+  {
+   "key": "simultaneous",
+   "label": {
+    "nl": "Gelijktijdig extractie en stoom",
+    "en": "Extraction and steam at the same time"
+   }
+  },
+  {
+   "key": "pid",
+   "label": {
+    "nl": "Digitale PID-temperatuurregeling",
+    "en": "Digital PID temperature control"
+   }
+  },
+  {
+   "key": "preinfusion",
+   "label": {
+    "nl": "Pre-infusie bij lage druk",
+    "en": "Low-pressure pre-infusion"
+   }
+  },
+  {
+   "key": "nineBar",
+   "label": {
+    "nl": "9 bar extractie via Italiaanse pomp van 15 bar",
+    "en": "9 bar extraction via a 15 bar Italian pump"
+   }
+  },
+  {
+   "key": "opv",
+   "label": {
+    "nl": "Overdrukventiel (OPV)",
+    "en": "Over-pressure valve (OPV)"
+   }
+  },
+  {
+   "key": "milk",
+   "label": {
+    "nl": "Melk opstomen",
+    "en": "Steaming milk"
+   }
+  },
+  {
+   "key": "milkAlt",
+   "label": {
+    "nl": "Instellingen voor melkvervangers",
+    "en": "Settings for milk alternatives"
+   }
+  },
+  {
+   "key": "milkTemp",
+   "label": {
+    "nl": "Instelbare melktemperatuur",
+    "en": "Adjustable milk temperature"
+   }
+  },
+  {
+   "key": "foam",
+   "label": {
+    "nl": "Instelbare microschuimniveaus",
+    "en": "Adjustable microfoam levels"
+   }
+  },
+  {
+   "key": "grinder",
+   "label": {
+    "nl": "Ingebouwde precisiemolen",
+    "en": "Built-in precision grinder"
+   }
+  },
+  {
+   "key": "baratza",
+   "label": {
+    "nl": "Europese precisie-maalelementen van Baratza",
+    "en": "European precision burrs by Baratza"
+   }
+  },
+  {
+   "key": "grindSettings",
+   "label": {
+    "nl": "Maalinstellingen",
+    "en": "Grind settings"
+   }
+  },
+  {
+   "key": "autoDose",
+   "label": {
+    "nl": "Automatisch malen en doseren",
+    "en": "Automatic grinding and dosing"
+   }
+  },
+  {
+   "key": "tamp",
+   "label": {
+    "nl": "Aandrukken",
+    "en": "Tamping"
+   }
+  },
+  {
+   "key": "interface",
+   "label": {
+    "nl": "Interface",
+    "en": "Interface"
+   }
+  },
+  {
+   "key": "profiles",
+   "label": {
+    "nl": "Gepersonaliseerde aangepaste instellingen",
+    "en": "Personalised custom settings"
+   }
+  },
+  {
+   "key": "tank",
+   "label": {
+    "nl": "Capaciteit van waterreservoir",
+    "en": "Water tank capacity"
+   }
+  },
+  {
+   "key": "power",
+   "label": {
+    "nl": "Vermogen",
+    "en": "Power"
+   }
+  },
+  {
+   "key": "height",
+   "label": {
+    "nl": "Aanbevolen vrije hoogte op aanrecht",
+    "en": "Recommended clearance on the worktop"
+   }
+  }
+ ],
+ "words": {
+  "Dubbele boiler": "Dual boiler",
+  "ThermoJet": "ThermoJet",
+  "Thermospoel": "Thermocoil",
+  "Dubbele ThermoJet": "Dual ThermoJet",
+  "Handmatig": "Manual",
+  "Auto MilQ": "Auto MilQ",
+  "Ondersteund": "Assisted",
+  "Automatisch": "Automatic",
+  "Lcd": "LCD",
+  "Knoppen": "Buttons",
+  "Analoog": "Analogue",
+  "Touchscreen": "Touchscreen"
+ },
+ "models": [
+  {
+   "code": "SES920",
+   "name": "the Dual Boiler",
+   "level": "zelf",
+   "values": {
+    "portafilter": 58,
+    "heating": "Dubbele boiler",
+    "heatedGroup": true,
+    "simultaneous": true,
+    "pid": true,
+    "preinfusion": true,
+    "nineBar": true,
+    "opv": true,
+    "milk": "Handmatig",
+    "milkAlt": null,
+    "milkTemp": null,
+    "foam": null,
+    "grinder": null,
+    "baratza": null,
+    "grindSettings": null,
+    "autoDose": null,
+    "tamp": "Handmatig",
+    "interface": "Lcd",
+    "profiles": null,
+    "tank": "2,5 l",
+    "power": "2200 W",
+    "height": "41 cm"
+   },
+   "overview": {
+    "interface": {
+     "nl": "Drukknoppen + manometer",
+     "en": "Push buttons + pressure gauge"
+    },
+    "heating": {
+     "nl": "Verwarmingssysteem met dubbele boiler. Gelijktijdige extractie en stoom",
+     "en": "Dual boiler heating system. Extraction and steam at the same time"
+    },
+    "puck": {
+     "nl": "Handmatig aandrukken",
+     "en": "Manual tamping"
+    },
+    "foam": {
+     "nl": "Hands-on melk opschuimen",
+     "en": "Hands-on milk frothing"
+    }
+   }
+  },
+  {
+   "code": "SES450",
+   "name": "the Bambino",
+   "level": "zelf",
+   "values": {
+    "portafilter": 54,
+    "heating": "ThermoJet",
+    "heatedGroup": null,
+    "simultaneous": null,
+    "pid": true,
+    "preinfusion": true,
+    "nineBar": true,
+    "opv": true,
+    "milk": "Handmatig",
+    "milkAlt": null,
+    "milkTemp": null,
+    "foam": null,
+    "grinder": null,
+    "baratza": null,
+    "grindSettings": null,
+    "autoDose": null,
+    "tamp": "Handmatig",
+    "interface": "Knoppen",
+    "profiles": null,
+    "tank": "1,4 l",
+    "power": "1560 W",
+    "height": "31 cm"
+   },
+   "overview": {
+    "interface": {
+     "nl": "Drukknoppen",
+     "en": "Push buttons"
+    },
+    "heating": {
+     "nl": "ThermoJet-verwarmingssysteem. Snel, precies en energie-efficiënt",
+     "en": "ThermoJet heating system. Fast, precise and energy-efficient"
+    },
+    "puck": {
+     "nl": "Handmatig aandrukken",
+     "en": "Manual tamping"
+    },
+    "foam": {
+     "nl": "Hands-on melk opschuimen",
+     "en": "Hands-on milk frothing"
+    }
+   }
+  },
+  {
+   "code": "SES875",
+   "name": "the Barista Express",
+   "level": "zelf",
+   "values": {
+    "portafilter": 54,
+    "heating": "Thermospoel",
+    "heatedGroup": null,
+    "simultaneous": null,
+    "pid": true,
+    "preinfusion": true,
+    "nineBar": true,
+    "opv": true,
+    "milk": "Handmatig",
+    "milkAlt": null,
+    "milkTemp": null,
+    "foam": null,
+    "grinder": true,
+    "baratza": null,
+    "grindSettings": 16,
+    "autoDose": true,
+    "tamp": "Handmatig",
+    "interface": "Analoog",
+    "profiles": null,
+    "tank": "2 l",
+    "power": "1850 W",
+    "height": "41 cm"
+   },
+   "overview": {
+    "interface": {
+     "nl": "Drukknoppen + manometer",
+     "en": "Push buttons + pressure gauge"
+    },
+    "heating": {
+     "nl": "Thermospoelverwarming",
+     "en": "Thermocoil heating"
+    },
+    "puck": {
+     "nl": "Handmatig aandrukken",
+     "en": "Manual tamping"
+    },
+    "foam": {
+     "nl": "Hands-on melk opschuimen",
+     "en": "Hands-on milk frothing"
+    }
+   }
+  },
+  {
+   "code": "SES878",
+   "name": "the Barista Pro",
+   "level": "zelf",
+   "values": {
+    "portafilter": 54,
+    "heating": "ThermoJet",
+    "heatedGroup": null,
+    "simultaneous": null,
+    "pid": true,
+    "preinfusion": true,
+    "nineBar": true,
+    "opv": true,
+    "milk": "Handmatig",
+    "milkAlt": null,
+    "milkTemp": null,
+    "foam": null,
+    "grinder": true,
+    "baratza": true,
+    "grindSettings": 30,
+    "autoDose": true,
+    "tamp": "Handmatig",
+    "interface": "Lcd",
+    "profiles": null,
+    "tank": "1,9 l",
+    "power": "1680 W",
+    "height": "41 cm"
+   },
+   "overview": {
+    "interface": {
+     "nl": "Drukknoppen + lcd",
+     "en": "Push buttons + LCD"
+    },
+    "heating": {
+     "nl": "ThermoJet-verwarmingssysteem. Snel, precies en energie-efficiënt",
+     "en": "ThermoJet heating system. Fast, precise and energy-efficient"
+    },
+    "puck": {
+     "nl": "Handmatig aandrukken",
+     "en": "Manual tamping"
+    },
+    "foam": {
+     "nl": "Hands-on melk opschuimen",
+     "en": "Hands-on milk frothing"
+    }
+   }
+  },
+  {
+   "code": "SES500",
+   "name": "the Bambino Plus",
+   "level": "samen",
+   "values": {
+    "portafilter": 54,
+    "heating": "ThermoJet",
+    "heatedGroup": null,
+    "simultaneous": null,
+    "pid": true,
+    "preinfusion": true,
+    "nineBar": true,
+    "opv": true,
+    "milk": "Auto MilQ",
+    "milkAlt": null,
+    "milkTemp": 3,
+    "foam": 3,
+    "grinder": null,
+    "baratza": null,
+    "grindSettings": null,
+    "autoDose": null,
+    "tamp": "Handmatig",
+    "interface": "Knoppen",
+    "profiles": null,
+    "tank": "1,9 l",
+    "power": "1600 W",
+    "height": "31 cm"
+   },
+   "overview": {
+    "interface": {
+     "nl": "Drukknoppen",
+     "en": "Push buttons"
+    },
+    "heating": {
+     "nl": "ThermoJet-verwarmingssysteem. Snel, precies en energie-efficiënt",
+     "en": "ThermoJet heating system. Fast, precise and energy-efficient"
+    },
+    "puck": {
+     "nl": "Handmatig aandrukken",
+     "en": "Manual tamping"
+    },
+    "foam": {
+     "nl": "Handsfree melk opschuimen (Auto MilQ)",
+     "en": "Hands-free milk frothing (Auto MilQ)"
+    }
+   }
+  },
+  {
+   "code": "SES876",
+   "name": "the Barista Express Impress",
+   "level": "samen",
+   "values": {
+    "portafilter": 54,
+    "heating": "Thermospoel",
+    "heatedGroup": null,
+    "simultaneous": null,
+    "pid": true,
+    "preinfusion": true,
+    "nineBar": true,
+    "opv": true,
+    "milk": "Handmatig",
+    "milkAlt": null,
+    "milkTemp": null,
+    "foam": null,
+    "grinder": true,
+    "baratza": null,
+    "grindSettings": 25,
+    "autoDose": true,
+    "tamp": "Ondersteund",
+    "interface": "Analoog",
+    "profiles": null,
+    "tank": "2 l",
+    "power": "1850 W",
+    "height": "41 cm"
+   },
+   "overview": {
+    "interface": {
+     "nl": "Drukknoppen + manometer",
+     "en": "Push buttons + pressure gauge"
+    },
+    "heating": {
+     "nl": "Thermospoelverwarming",
+     "en": "Thermocoil heating"
+    },
+    "puck": {
+     "nl": "Ondersteund aandrukken",
+     "en": "Assisted tamping"
+    },
+    "foam": {
+     "nl": "Hands-on melk opschuimen",
+     "en": "Hands-on milk frothing"
+    }
+   }
+  },
+  {
+   "code": "SES880",
+   "name": "the Barista Touch",
+   "level": "samen",
+   "values": {
+    "portafilter": 54,
+    "heating": "ThermoJet",
+    "heatedGroup": null,
+    "simultaneous": null,
+    "pid": true,
+    "preinfusion": true,
+    "nineBar": true,
+    "opv": true,
+    "milk": "Auto MilQ",
+    "milkAlt": null,
+    "milkTemp": 7,
+    "foam": 8,
+    "grinder": true,
+    "baratza": null,
+    "grindSettings": 30,
+    "autoDose": true,
+    "tamp": "Handmatig",
+    "interface": "Touchscreen",
+    "profiles": 8,
+    "tank": "2 l",
+    "power": "1680 W",
+    "height": "41 cm"
+   },
+   "overview": {
+    "interface": {
+     "nl": "Touchscreen",
+     "en": "Touchscreen"
+    },
+    "heating": {
+     "nl": "ThermoJet-verwarmingssysteem. Snel, precies en energie-efficiënt",
+     "en": "ThermoJet heating system. Fast, precise and energy-efficient"
+    },
+    "puck": {
+     "nl": "Handmatig aandrukken",
+     "en": "Manual tamping"
+    },
+    "foam": {
+     "nl": "Handsfree melk opschuimen (Auto MilQ)",
+     "en": "Hands-free milk frothing (Auto MilQ)"
+    }
+   }
+  },
+  {
+   "code": "SES881",
+   "name": "the Barista Touch Impress",
+   "level": "meteen",
+   "values": {
+    "portafilter": 54,
+    "heating": "ThermoJet",
+    "heatedGroup": null,
+    "simultaneous": null,
+    "pid": true,
+    "preinfusion": true,
+    "nineBar": true,
+    "opv": true,
+    "milk": "Auto MilQ",
+    "milkAlt": true,
+    "milkTemp": 7,
+    "foam": 8,
+    "grinder": true,
+    "baratza": true,
+    "grindSettings": 30,
+    "autoDose": true,
+    "tamp": "Ondersteund",
+    "interface": "Touchscreen",
+    "profiles": 8,
+    "tank": "2 l",
+    "power": "1700 W",
+    "height": "41 cm"
+   },
+   "overview": {
+    "interface": {
+     "nl": "Touchscreen + Barista Guidance",
+     "en": "Touchscreen + Barista Guidance"
+    },
+    "heating": {
+     "nl": "ThermoJet-verwarmingssysteem. Snel, precies en energie-efficiënt",
+     "en": "ThermoJet heating system. Fast, precise and energy-efficient"
+    },
+    "puck": {
+     "nl": "Ondersteund aandrukken",
+     "en": "Assisted tamping"
+    },
+    "foam": {
+     "nl": "Handsfree melk opschuimen (Auto MilQ) + melkvervangers",
+     "en": "Hands-free milk frothing (Auto MilQ) + milk alternatives"
+    }
+   }
+  },
+  {
+   "code": "SES980",
+   "name": "the Oracle",
+   "level": "meteen",
+   "values": {
+    "portafilter": 58,
+    "heating": "Dubbele boiler",
+    "heatedGroup": true,
+    "simultaneous": true,
+    "pid": true,
+    "preinfusion": true,
+    "nineBar": true,
+    "opv": true,
+    "milk": "Auto MilQ",
+    "milkAlt": null,
+    "milkTemp": 30,
+    "foam": 9,
+    "grinder": true,
+    "baratza": true,
+    "grindSettings": 45,
+    "autoDose": true,
+    "tamp": "Automatisch",
+    "interface": "Lcd",
+    "profiles": null,
+    "tank": "2,5 l",
+    "power": "2400 W",
+    "height": "46 cm"
+   },
+   "overview": {
+    "interface": {
+     "nl": "Drukknoppen + lcd",
+     "en": "Push buttons + LCD"
+    },
+    "heating": {
+     "nl": "Verwarmingssysteem met dubbele boiler. Gelijktijdige extractie en stoom",
+     "en": "Dual boiler heating system. Extraction and steam at the same time"
+    },
+    "puck": {
+     "nl": "Automatisch malen, doseren en aandrukken",
+     "en": "Automatic grinding, dosing and tamping"
+    },
+    "foam": {
+     "nl": "Handsfree melk opschuimen (Auto MilQ)",
+     "en": "Hands-free milk frothing (Auto MilQ)"
+    }
+   }
+  },
+  {
+   "code": "SES985",
+   "name": "the Oracle Jet",
+   "level": "meteen",
+   "values": {
+    "portafilter": 58,
+    "heating": "Dubbele ThermoJet",
+    "heatedGroup": true,
+    "simultaneous": null,
+    "pid": true,
+    "preinfusion": true,
+    "nineBar": true,
+    "opv": true,
+    "milk": "Auto MilQ",
+    "milkAlt": true,
+    "milkTemp": 30,
+    "foam": 9,
+    "grinder": true,
+    "baratza": true,
+    "grindSettings": 45,
+    "autoDose": true,
+    "tamp": "Automatisch",
+    "interface": "Touchscreen",
+    "profiles": 8,
+    "tank": "2,3 l",
+    "power": "1600 W",
+    "height": "44 cm"
+   },
+   "overview": {
+    "interface": {
+     "nl": "Touchscreen + Barista Guidance + instellingen voor koude dranken",
+     "en": "Touchscreen + Barista Guidance + settings for cold drinks"
+    },
+    "heating": {
+     "nl": "ThermoJet-verwarmingssysteem + verwarmde zetgroep. Snel, nauwkeurig en energie-efficiënt",
+     "en": "ThermoJet heating system + heated group head. Fast, accurate and energy-efficient"
+    },
+    "puck": {
+     "nl": "Automatisch malen, doseren en aandrukken",
+     "en": "Automatic grinding, dosing and tamping"
+    },
+    "foam": {
+     "nl": "Handsfree melk opschuimen (Auto MilQ) + melkvervangers",
+     "en": "Hands-free milk frothing (Auto MilQ) + milk alternatives"
+    }
+   }
+  },
+  {
+   "code": "SES990",
+   "name": "the Oracle Touch",
+   "level": "meteen",
+   "values": {
+    "portafilter": 58,
+    "heating": "Dubbele boiler",
+    "heatedGroup": true,
+    "simultaneous": true,
+    "pid": true,
+    "preinfusion": true,
+    "nineBar": true,
+    "opv": true,
+    "milk": "Auto MilQ",
+    "milkAlt": null,
+    "milkTemp": 30,
+    "foam": 9,
+    "grinder": true,
+    "baratza": true,
+    "grindSettings": 45,
+    "autoDose": true,
+    "tamp": "Automatisch",
+    "interface": "Touchscreen",
+    "profiles": 8,
+    "tank": "2,5 l",
+    "power": "2400 W",
+    "height": "46 cm"
+   },
+   "overview": {
+    "interface": {
+     "nl": "Touchscreen",
+     "en": "Touchscreen"
+    },
+    "heating": {
+     "nl": "Verwarmingssysteem met dubbele boiler. Gelijktijdige extractie en stoom",
+     "en": "Dual boiler heating system. Extraction and steam at the same time"
+    },
+    "puck": {
+     "nl": "Automatisch malen, doseren en aandrukken",
+     "en": "Automatic grinding, dosing and tamping"
+    },
+    "foam": {
+     "nl": "Handsfree melk opschuimen (Auto MilQ)",
+     "en": "Hands-free milk frothing (Auto MilQ)"
+    }
+   }
+  }
+ ]
+}

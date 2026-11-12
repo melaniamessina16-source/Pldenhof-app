@@ -77,6 +77,12 @@
     oven: '<rect x="3.5" y="4" width="17" height="16" rx="2.5"/><rect x="6.5" y="9.5" width="11" height="7.5" rx="1.5"/><path d="M7 6.8h.01M10 6.8h.01"/>',
     apple: '<path d="M12 7.5c-2-1.5-7-1.5-7 4.5 0 4 2.5 8 5 8 1 0 1.5-.5 2-.5s1 .5 2 .5c2.5 0 5-4 5-8 0-6-5-6-7-4.5z"/><path d="M12 7.5c0-2 1-3.5 3-4"/>',
     grid: '<rect x="4" y="4" width="7" height="7" rx="2"/><rect x="13" y="4" width="7" height="7" rx="2"/><rect x="4" y="13" width="7" height="7" rx="2"/><rect x="13" y="13" width="7" height="7" rx="2"/>',
+    cal: '<rect x="3.5" y="5" width="17" height="15.5" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/>',
+    check: '<path d="M5 12.5 10 17.5 19.5 7"/>',
+    tasks: '<rect x="4" y="3.5" width="16" height="17" rx="2.5"/><path d="M8 9l1.5 1.5L12 8M8 15l1.5 1.5L12 14M14.5 9.5H17M14.5 15.5H17"/>',
+    compare: '<rect x="3.5" y="4" width="7" height="16" rx="2"/><rect x="13.5" y="4" width="7" height="16" rx="2"/><path d="M6 8.5h2M6 12h2M16 8.5h2M16 12h2"/>',
+    clock: '<circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/>',
+    machine: '<path d="M5 3.5h14v4H5z"/><path d="M6 7.5h12v12.5H6z"/><path d="M9 11h6M12 11v3M10 17.5h4"/>',
     tag: '<path d="M3.5 12.5V4.5a1 1 0 0 1 1-1h8L21 12l-8.5 8.5z"/><circle cx="8" cy="8" r="1.5"/>',
   };
   const svg = (name, cls = '') => `<svg class="ic ${cls}" viewBox="0 0 24 24" aria-hidden="true">${P[name] || P.grid}</svg>`;
