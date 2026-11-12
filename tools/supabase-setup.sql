@@ -20,7 +20,7 @@ alter table notes enable row level security;
 alter table stock_flags enable row level security;
 
 create or replace function team_ok() returns boolean language sql stable as $$
-  select coalesce(current_setting('request.headers', true)::json->>'x-team-code', '') = 'CHANGE-ME'
+  select lower(trim(coalesce(current_setting('request.headers', true)::json->>'x-team-code', ''))) = lower('CHANGE-ME')
 $$;
 
 drop policy if exists notes_read on notes;
@@ -35,3 +35,7 @@ drop policy if exists flags_write on stock_flags;
 create policy flags_write on stock_flags for insert with check (team_ok());
 drop policy if exists flags_update on stock_flags;
 create policy flags_update on stock_flags for update using (team_ok()) with check (team_ok());
+
+-- Lets the app check whether a typed team code is right
+create or replace function check_team() returns boolean language sql stable as $$ select team_ok() $$;
+grant execute on function check_team() to anon;

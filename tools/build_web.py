@@ -13,7 +13,7 @@ import hashlib, json, os, sys
 WEB = 'docs'
 SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'sync.js', 'config.js', 'manifest.webmanifest',
          'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'vendor/zxing.min.js',
-         'data/catalog.json']
+         'data/catalog.json', 'data/catalog.en.json']
 
 def main(raw=None):
     cat = json.load(open('data/catalog.json', encoding='utf-8'))
@@ -31,6 +31,9 @@ def main(raw=None):
             else: v['image'] = 'icons/icon-512.png'; missing.append(v['id'])
     os.makedirs(os.path.join(WEB, 'data'), exist_ok=True)
     json.dump(cat, open(os.path.join(WEB, 'data/catalog.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
+    # English: map of Dutch catalog text -> English (data/i18n/en.json); missing entries stay Dutch
+    en = json.load(open('data/i18n/en.json', encoding='utf-8')) if os.path.exists('data/i18n/en.json') else {}
+    json.dump(en, open(os.path.join(WEB, 'data/catalog.en.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
     images = sorted({v['image'] for p in cat['products'] for v in p['variants']})
     h = hashlib.sha256()
     for f in SHELL[1:] + images:

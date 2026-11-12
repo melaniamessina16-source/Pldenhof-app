@@ -34,6 +34,14 @@
     return Object.assign({ apikey: cfg.supabaseKey, Authorization: 'Bearer ' + cfg.supabaseKey,
       'Content-Type': 'application/json', 'x-team-code': teamCode() }, extra || {});
   }
+  // Reads with a wrong code just return nothing, so ask the database once whether the code is right.
+  // (check_team() exists after running the team-code SQL; without it this check is skipped.)
+  async function verify() {
+    if (state.verified) return;
+    const res = await fetch(`${cfg.supabaseURL}/rest/v1/rpc/check_team`, { method: 'POST', headers: headers(), body: '{}' });
+    if (res.ok && (await res.json()) === false) throw new Error('teamcode');
+    if (res.ok) state.verified = true;
+  }
   async function push() {
     while (queue.length) {
       const batch = queue.slice(0, 50);
@@ -66,7 +74,7 @@
   async function sync() {
     if (!remote || !teamCode() || state.syncing || !navigator.onLine) return;
     state.syncing = true; emit();
-    try { await push(); await pull(); state.error = null; }
+    try { await verify(); await push(); await pull(); state.error = null; }
     catch (e) { state.error = e.message || String(e); }
     finally { state.syncing = false; emit(); }
   }
@@ -77,7 +85,7 @@
     onChange(f) { listeners.add(f); return () => listeners.delete(f); },
     get user() { return read(K.user, ''); },
     get hasTeamCode() { return !!teamCode(); },
-    setTeamCode(v) { write(K.team, v); write(K.since, null); state.lastSync = null; state.error = null; emit(); sync(); },
+    setTeamCode(v) { write(K.team, v); write(K.since, null); state.lastSync = null; state.error = null; state.verified = false; emit(); sync(); },
     set user(v) { write(K.user, v); emit(); },
     pending() { return queue.length; },
     notesFor(productID) {
