@@ -23,9 +23,15 @@ create or replace function team_ok() returns boolean language sql stable as $$
   select coalesce(current_setting('request.headers', true)::json->>'x-team-code', '') = 'CHANGE-ME'
 $$;
 
-create policy notes_read   on notes       for select using (team_ok());
-create policy notes_write  on notes       for insert with check (team_ok());
+drop policy if exists notes_read on notes;
+create policy notes_read on notes       for select using (team_ok());
+drop policy if exists notes_write on notes;
+create policy notes_write on notes       for insert with check (team_ok());
+drop policy if exists notes_update on notes;
 create policy notes_update on notes       for update using (team_ok()) with check (team_ok());
-create policy flags_read   on stock_flags for select using (team_ok());
-create policy flags_write  on stock_flags for insert with check (team_ok());
+drop policy if exists flags_read on stock_flags;
+create policy flags_read on stock_flags for select using (team_ok());
+drop policy if exists flags_write on stock_flags;
+create policy flags_write on stock_flags for insert with check (team_ok());
+drop policy if exists flags_update on stock_flags;
 create policy flags_update on stock_flags for update using (team_ok()) with check (team_ok());
