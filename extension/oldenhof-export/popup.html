@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="nl"><head><meta charset="utf-8"><style>
+  body{font:14px/1.4 -apple-system,system-ui,sans-serif;width:360px;margin:0;padding:14px;background:#111;color:#fff}
+  h1{font-size:17px;margin:0 0 2px} p{margin:6px 0;color:#bbb} b{color:#fff}
+  button{font:inherit;border:0;border-radius:999px;padding:10px 14px;cursor:pointer;background:#F6C31C;color:#000;font-weight:600}
+  button.ghost{background:#2a2a2d;color:#fff} button:disabled{opacity:.4;cursor:default}
+  textarea{width:100%;height:90px;box-sizing:border-box;border-radius:10px;border:1px solid #333;background:#1c1c1e;color:#fff;padding:8px;font:12px ui-monospace,monospace}
+  .row{display:flex;gap:8px;margin:10px 0;flex-wrap:wrap}
+  .bar{height:8px;border-radius:99px;background:#2a2a2d;overflow:hidden;margin:10px 0 4px}.bar i{display:block;height:100%;background:#F6C31C;width:0}
+  .msg{padding:8px 10px;border-radius:10px;background:#1c1c1e;margin-top:8px}.warn{background:#4a3a05;color:#ffe08a}
+  .tabs{display:flex;gap:6px;margin:10px 0}.tabs button{flex:1;padding:8px}.tabs .on{background:#F6C31C;color:#000}
+  label{color:#bbb;font-size:12px}
+  select,input[type=number]{background:#1c1c1e;color:#fff;border:1px solid #333;border-radius:8px;padding:4px}
+</style></head><body>
+<h1>Oldenhof export</h1>
+<p id="where"></p>
+<div id="setup">
+  <div class="tabs"><button id="tabList" class="on">Deze categoriepagina</button><button id="tabPaste" class="ghost">Links plakken</button></div>
+  <div id="paneList"><p>Open een categorie op kookwinkel.nl (bijv. <b>Pannen</b>). De extensie verzamelt alle producten op deze pagina en de volgende pagina's.</p></div>
+  <div id="panePaste" hidden><p>Plak hier de links (één per regel), bijvoorbeeld uit de lijst die ik je geef.</p><textarea id="links" placeholder="https://www.kookwinkel.nl/..."></textarea><p id="count"></p></div>
+  <div class="row"><label>Naam van het bestand <input id="label" value="export" size="12"></label>
+    <label>Tempo <select id="speed"><option value="1500">normaal (±1 pagina/1,5 s)</option><option value="2500">extra rustig</option><option value="1000">sneller</option></select></label></div>
+  <div class="row"><button id="start">Start</button><button id="resume" class="ghost">Verder met opslaan</button><button id="reset" class="ghost">Opnieuw beginnen</button></div>
+  <p id="resumeInfo"></p>
+</div>
+<div id="run" hidden>
+  <div class="bar"><i id="fill"></i></div><div id="nums"></div><div class="msg" id="msg"></div>
+  <div class="row"><button id="pause" class="ghost">Pauze</button><button id="stop" class="ghost">Stop en opslaan</button></div>
+  <p>Houd dit tabblad open en blijf er niet vanaf navigeren. De bestanden komen in je Downloads-map (Chrome kan vragen om meerdere downloads toe te staan: kies <b>Toestaan</b>).</p>
+</div>
+<script src="popup.js"></script></body></html>
