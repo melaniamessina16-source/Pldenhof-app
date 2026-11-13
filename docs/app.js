@@ -343,16 +343,16 @@
     const shown = bf ? prods.filter(p => p.brandID === bf) : prods;
     const types = c ? typesOfCat(c.id) : [];
     return `${top('')}<div class="hero"><div class="eyebrow">${esc(LT(g.subtitle))}</div><h1>${esc(LT(g.title))}</h1></div>
-      ${prods.length ? `<div class="section-title"><h2>${L('Producten', 'Products')}</h2><span class="muted small">${shown.length}</span></div>
-        <div class="chips"><a class="chip ${!bf ? 'on' : ''}" href="#/g/${esc(id)}">${L('Alle', 'All')}</a>${brandIDs.map(b => `<a class="chip ${bf === b ? 'on' : ''}" href="#/g/${esc(id)}?merk=${esc(b)}">${esc(idx.brand[b].name)}</a>`).join('')}</div>
-        <div class="list">${shown.map(p => productRow(p)).join('')}</div>` : ''}
       ${types.length ? `<h2>${esc(c.groupingLabel || L('Soorten', 'Types'))}</h2>
         <div class="list">${types.map((t, i) => `<a class="row" href="#/t/${esc(t.id)}">${icon(t.id, i)}<div class="grow"><div class="name">${esc(t.name)}</div>
           <div class="sub">${esc(t.oneLiner?.text || t.subtitle || '')}</div><div class="sub faint">${productsOfType(t.id).length} ${L('producten', 'products')}</div></div>${chev}</a>`).join('')}</div>` : ''}
       ${c && c.advice?.length ? `<div class="card"><h3>${L('Advies bij verkoop', 'Sales advice')}</h3><ul class="bullets">${c.advice.map(a => `<li>${esc(a.text)}</li>`).join('')}</ul>${source(c.advice[0].source)}</div>` : ''}
       <h2>${L('Theorie uit het boekje', 'Theory from the booklet')}</h2>
       <div class="tiles">${g.topics.map((t, i) => `<a class="tile" href="#/g/${esc(id)}/${esc(t.id)}">${picIcon(t.title.nl, i)}<div><div class="label">${esc(LT(t.title))}</div>
-        <div class="count">${esc(pageLabel(t))}</div></div></a>`).join('')}</div>`;
+        <div class="count">${esc(pageLabel(t))}</div></div></a>`).join('')}</div>
+      ${prods.length ? `<div class="section-title"><h2>${L('Producten', 'Products')}</h2><span class="muted small">${shown.length}</span></div>
+        <div class="chips"><a class="chip ${!bf ? 'on' : ''}" href="#/g/${esc(id)}">${L('Alle', 'All')}</a>${brandIDs.map(b => `<a class="chip ${bf === b ? 'on' : ''}" href="#/g/${esc(id)}?merk=${esc(b)}">${esc(idx.brand[b].name)}</a>`).join('')}</div>
+        <div class="list">${shown.map(p => productRow(p)).join('')}</div>` : ''}`;
   };
   const pageLabel = t => { const p = [...(t.pages || [])].sort((a, b) => a - b); return p.length ? (p[0] === p[p.length - 1] ? `p. ${p[0]}` : `p. ${p[0]}-${p[p.length - 1]}`) : ''; };
   function itemsHTML(items, ordered) {
