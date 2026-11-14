@@ -22,7 +22,7 @@ for f in glob.glob('data/curation-pans/*.json'):
     for e in json.load(open(f, encoding='utf-8')):
         claimed += e['match'] if isinstance(e['match'], list) else [e['match']]
 rx = [re.compile(m) for m in claimed]
-cat = json.load(open('data/catalog.json')); have = {v['productURL'] for p in cat['products'] for v in p['variants']}
+cat = json.load(open('data/catalog.json')); have = {v['productURL'] for p in cat['products'] if not p.get('autoText') for v in p['variants']}
 left = [p for p in pages if p['url'] not in have and not any(r.fullmatch(p['name']) for r in rx)]
 if len(sys.argv) == 2:
     c = collections.defaultdict(lambda: [0, set()])
