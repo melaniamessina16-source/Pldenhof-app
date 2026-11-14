@@ -1,2 +1,3 @@
 __pycache__/
 *.src
+data/pages_big.json

@@ -1,0 +1,246 @@
+[
+ {
+  "match": [
+   "Demeyere\\ Apollo\\ Braadpan\\ met\\ glasdeksel\\ ø\\ 24\\ cm\\ 2,8\\ liter\\ rvs"
+  ],
+  "brandID": "demeyere",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor soepen, pastasauzen en stoofgerechten; ook roerbakken en eenpansmaaltijden.",
+  "bullets": [
+   "Ronde braad- en stoofpan van 2,8 liter met glazen deksel: multifunctioneel voor soepen, sauzen, stoofschotels, roerbakken en eenpansmaaltijden.",
+   "Gelaste grepen die tijdens gebruik extra koud blijven; vet, vuil en bacteriën krijgen geen kans zich op te hopen.",
+   "Ronde gietrand: perfect om vloeistoffen uit te schenken.",
+   "7 lagen materiaal: roestvrij staal aan de binnenzijde, dan zuiver aluminium, een aluminiumlegering en weer zuiver aluminium. De onderste drie lagen vormen TriplInduc.",
+   "Met TriplInduc tot wel 30% meer rendement op inductie.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Silvinox-behandeling (door Demeyere ontwikkeld): de pan krijgt een zilverwitte kleur en behoudt die.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "dde05ba0"
+  ],
+  "requires": [
+   "Silvinox",
+   "gietrand"
+  ]
+ },
+ {
+  "match": [
+   "Demeyere\\ Apollo\\ braadpan\\ met\\ glasdeksel\\ ø\\ 24\\ cm\\ rvs\\ mat"
+  ],
+  "brandID": "demeyere",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor soepen, pastasauzen en stoofgerechten; ook roerbakken en eenpansmaaltijden.",
+  "bullets": [
+   "Ronde braad- en stoofpan van 3,3 liter met glazen deksel: multifunctioneel voor soepen, sauzen, stoofschotels, roerbakken en eenpansmaaltijden.",
+   "7 lagen materiaal: roestvrij staal aan de binnenzijde, dan zuiver aluminium, een aluminiumlegering en weer zuiver aluminium. De onderste drie lagen vormen TriplInduc.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Silvinox-behandeling (door Demeyere ontwikkeld): de pan krijgt een zilverwitte kleur en behoudt die.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d53211f6"
+  ],
+  "requires": [
+   "Silvinox",
+   "multifunctioneel"
+  ]
+ },
+ {
+  "match": [
+   "Demeyere\\ Apollo\\ conische\\ sauteuse\\ ø\\ 20\\ cm\\ rvs\\ met\\ gratis\\ Cuisipro\\ duogarde"
+  ],
+  "brandID": "demeyere",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor sauzen zoals béarnaisesaus en witte wijnsaus.",
+  "bullets": [
+   "Conische sauteuse van 2 liter (ø 20 cm): 7-laags roestvrij staal met een aluminium kern, voor optimale warmteverdeling tot aan de rand.",
+   "De vorm is ideaal voor gebruik met een garde en spatel; de handgreep blijft bij gebruik koel.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Silvinox-behandeling (door Demeyere ontwikkeld): de pan krijgt een zilverwitte kleur en behoudt die.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c23c0f5e"
+  ],
+  "requires": [
+   "Silvinox",
+   "garde"
+  ]
+ },
+ {
+  "match": [
+   "Demeyere\\ Apollo\\ sauspan\\ ø\\ 16\\ cm\\ rvs\\ mat",
+   "Demeyere\\ Apollo\\ sauspan\\ ø\\ 18\\ cm\\ rvs\\ mat"
+  ],
+  "brandID": "demeyere",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor sauzen zoals béarnaisesaus en witte wijnsaus; de ø 18 cm ook voor het smelten van chocolade en het opkloppen van sabayon op lage temperatuur.",
+  "bullets": [
+   "Sauspan van 7-laags roestvrij staal met een aluminium kern, voor optimale warmteverdeling tot aan de rand.",
+   "De vorm is ideaal voor gebruik met een garde en spatel; de handgreep blijft bij juist gebruik koel.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Silvinox-behandeling (door Demeyere ontwikkeld): de pan krijgt een zilverwitte kleur en behoudt die.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "aa9b4f66",
+   "51bc6965"
+  ],
+  "requires": [
+   "Silvinox",
+   "garde"
+  ],
+  "mismatches": [
+   {
+    "topic": "Apollo sauspan: garantie",
+    "websiteSays": "De pagina noemt '30 jaar garantie op de Industry pannen' bij een Apollo sauspan.",
+    "note": "Vraag na of de 30 jaar garantie ook voor Apollo geldt; daarom staat de garantie niet bij de tekst voor de klant."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Demeyere\\ Apollo\\ kookpan\\ met\\ deksel\\ ø\\ 16\\ cm\\ rvs",
+   "Demeyere\\ Apollo\\ kookpan\\ met\\ deksel\\ ø\\ 18\\ cm\\ rvs",
+   "Demeyere\\ Apollo\\ kookpan\\ met\\ deksel\\ ø\\ 20\\ cm\\ rvs",
+   "Demeyere\\ Apollo\\ kookpan\\ met\\ deksel\\ ø\\ 22\\ cm\\ rvs",
+   "Demeyere\\ Apollo\\ kookpan\\ met\\ deksel\\ ø\\ 24\\ cm\\ rvs",
+   "Demeyere\\ Apollo\\ kookpan\\ met\\ deksel\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "demeyere",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor koken, blancheren en pocheren van bijvoorbeeld aardappelen en vis en voor het bereiden van sauzen.",
+  "bullets": [
+   "Ronde kookpan met deksel (ø 16 cm: 1,5 liter; ø 18 cm: 2,2 liter).",
+   "Roestvrijstalen pan met de InductoBase bodem: gelijkmatige warmteverdeling over de hele bodem, ook op een kleine warmtebron; de bodem is vormvast, dus je kunt op elk moment naar een andere warmtebron overstappen, zelfs inductie.",
+   "7-laags TriplInduc bodem met een aluminium kern tussen twee lagen roestvrij staal.",
+   "Het deksel houdt zoveel mogelijk warmte in de pan.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Silvinox-behandeling (door Demeyere ontwikkeld): de pan krijgt een zilverwitte kleur en behoudt die.",
+   "Demeyere biedt 30 jaar garantie op de Apollo pannen.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e6db796e",
+   "3024509a"
+  ],
+  "requires": [
+   "InductoBase",
+   "Silvinox"
+  ]
+ },
+ {
+  "match": [
+   "Demeyere\\ Apollo\\ kookpannenset\\ rvs\\ 3\\-delig"
+  ],
+  "brandID": "demeyere",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het dagelijks koken.",
+  "bullets": [
+   "Set van 3 kookpannen met deksel (ø 18, 20 en 24 cm): een goede basisset.",
+   "7-laags TriplInduc bodem met een aluminium kern tussen twee lagen roestvrij staal, voor optimale warmteverdeling.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Silvinox-afwerking: de pannen blijven langdurig zilverwit.",
+   "Demeyere biedt 30 jaar garantie op de Apollo pannen.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a887b662"
+  ],
+  "requires": [
+   "Silvinox"
+  ]
+ },
+ {
+  "match": [
+   "Demeyere\\ Apollo\\ pannenset\\ rvs\\ 3\\-delig"
+  ],
+  "brandID": "demeyere",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken en pocheren van gevogelte en groenten; met de sauspan sauzen zoals mousselines en béarnaise.",
+  "bullets": [
+   "Startset van 3 delen: sauspan ø 20 cm en twee kookpannen (ø 18 en 20 cm) met deksel.",
+   "De sauspan heeft een aluminium kern voor optimale warmtegeleiding tot de rand; de kookpannen hebben een aluminium capsule die de warmte over de bodem verdeelt.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1aa69073"
+  ],
+  "requires": [
+   "startset"
+  ]
+ },
+ {
+  "match": [
+   "Demeyere\\ Apollo\\ soeppan\\ 5\\ liter\\ ø\\ 20\\ cm\\ rvs",
+   "Demeyere\\ Apollo\\ soeppan\\ 8\\ liter\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "demeyere",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van soepen en grote hoeveelheden ingrediënten.",
+  "bullets": [
+   "Ronde soeppan met deksel (ø 20 cm: 5 liter; ø 24 cm: 8 liter).",
+   "Roestvrijstalen pan met de InductoBase bodem: gelijkmatige warmteverdeling over de hele bodem, ook op een kleine warmtebron; de bodem is vormvast, dus je kunt op elk moment naar een andere warmtebron overstappen, zelfs inductie.",
+   "7-laags TriplInduc bodem met een aluminium kern tussen twee lagen roestvrij staal.",
+   "Het deksel houdt zoveel mogelijk warmte in de pan.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Silvinox-behandeling (door Demeyere ontwikkeld): de pan krijgt een zilverwitte kleur en behoudt die.",
+   "Demeyere biedt 30 jaar garantie op de Apollo pannen.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "46e894c6"
+  ],
+  "requires": [
+   "InductoBase",
+   "soepen"
+  ]
+ },
+ {
+  "match": [
+   "Demeyere\\ Apollo\\ steelpan\\ ø\\ 14\\ cm\\ rvs",
+   "Demeyere\\ Apollo\\ steelpan\\ ø\\ 16\\ cm\\ rvs",
+   "Demeyere\\ Apollo\\ steelpan\\ ø\\ 18\\ cm\\ rvs",
+   "Demeyere\\ Apollo\\ steelpan\\ ø\\ 22\\ cm\\ rvs",
+   "Demeyere\\ Apollo\\ steelpan\\ ø\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "demeyere",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen of het koken van kleine hoeveelheden ingrediënten; ook koken en pocheren van groenten en vis.",
+  "bullets": [
+   "Ronde steelpan van roestvrij staal en aluminium met de InductoBase bodem: gelijkmatige warmteverdeling, ook op een kleine warmtebron; vormvast, dus ook geschikt om van warmtebron te wisselen, zelfs inductie.",
+   "7-lagen bodem voor een optimale warmteverdeling.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Silvinox-behandeling (door Demeyere ontwikkeld): de pan krijgt een zilverwitte kleur en behoudt die.",
+   "Demeyere biedt 30 jaar garantie op de Apollo pannen.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6c349cb1",
+   "7a4b135a"
+  ],
+  "requires": [
+   "InductoBase",
+   "steelpan"
+  ]
+ }
+]

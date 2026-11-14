@@ -21,7 +21,7 @@ import glob, json, os, re, sys, unicodedata
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import auto_bullets
 
-SEED, OUT = 'data/catalog_seed.json', 'data/catalog.json'
+SEED, OUT = 'data/catalog_seed.json', os.environ.get('CATALOG_OUT', 'data/catalog.json')
 COFFEE_TYPES = {'volautomaat', 'halfautomaat', 'filterkoffie'}
 DROP_SPECS = {'Merk', 'Artikelnummer', 'EAN', 'Kleur'}
 CODE = re.compile(r'^\d{5}$')
@@ -155,10 +155,11 @@ def auto_products(pages, claimed, checked):
 def pans_products(checked):
     """One product per website name without its colour; colours are variants. Hand-written entries in
     data/curation-pans/*.json: {match: [regex on page name], brandID, typeIDs, suitedFor, bullets, keys, mismatches}."""
-    pages = load('data/pans_pages.json')
+    pages = load('data/pans_pages.json') + (load('data/pages_big.json') if os.path.exists('data/pages_big.json') else [])
+    only = os.environ.get('CURATION_GLOB')  # restrict to some curation files (parallel work), e.g. data/curation-pans/knives-*.json
     excluded = [e for f in sorted(glob.glob('data/curation-pans/_excluded.json')) for e in load(f)]
     claimed, products, mismatches, pending = {}, [], [], []
-    for f in sorted(glob.glob('data/curation-pans/*.json')):
+    for f in sorted(glob.glob(only or 'data/curation-pans/*.json')):
         if os.path.basename(f).startswith('_'): continue
         for item in load(f):
             hits = [p for p in pages if any(re.fullmatch(m, p['name']) for m in item['match'])]
@@ -180,6 +181,7 @@ def pans_products(checked):
                 groups.setdefault(n, []).append(p); cols[p['file']] = c
             for name, vpages in groups.items():
                 pid = slug(name); mids = []
+                if item.get('brandName'): NEW_BRANDS.setdefault(item['brandID'], item['brandName'])
                 def flag(n, topic, says, note, pid=pid):
                     mid = f'web-{pid}-{n}'
                     mismatches.append({'id': mid, 'kind': 'websiteData', 'topic': topic, 'websiteSays': says,
@@ -221,7 +223,7 @@ def pans_products(checked):
                                  'tellTheCustomer': item['bullets'], 'specs': specs,
                                  'originalDescription': original_text(first), 'variants': variants,
                                  'source': website, 'mismatchIDs': mids or None})
-    a_prod, a_mm, skipped = auto_products([p for p in pages if not any(re.fullmatch(e['match'], p['name']) for e in excluded)], claimed, checked)
+    a_prod, a_mm, skipped = ([], [], []) if only else auto_products([p for p in pages if not any(re.fullmatch(e['match'], p['name']) for e in excluded)], claimed, checked)
     products += a_prod; mismatches += a_mm
     for p in pages:
         if p['file'] in claimed: continue
@@ -304,6 +306,10 @@ def main():
     for p in products:
         if p['brandID'] not in known:
             sys.exit(f'Unknown brand {p["brandID"]}')
+    tids = {g['id'] for g in cat['typeGuides']} | {'filterkoffie'}
+    for p in products:
+        for t in p['typeIDs']:
+            if t not in tids: sys.exit(f'{p["name"]}: unknown typeID {t} (types are defined in data/catalog_seed.json)')
 
     if not any(g['id'] == 'filterkoffie' for g in cat['typeGuides']):
         cat['typeGuides'].append(FILTER_GUIDE)

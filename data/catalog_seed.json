@@ -66,6 +66,27 @@
      }
     }
    ]
+  },
+  {
+   "id": "messen",
+   "name": "Messen",
+   "symbol": "knife",
+   "groupingLabel": "Per soort",
+   "advice": []
+  },
+  {
+   "id": "klein-elektrisch",
+   "name": "Klein elektrisch",
+   "symbol": "bolt",
+   "groupingLabel": "Per soort",
+   "advice": []
+  },
+  {
+   "id": "bbq",
+   "name": "BBQ",
+   "symbol": "flame",
+   "groupingLabel": "Per soort",
+   "advice": []
   }
  ],
  "typeGuides": [
@@ -685,6 +706,259 @@
    "mismatchIDs": [
     "coffee-groups"
    ]
+  },
+  {
+   "id": "keukenmessen",
+   "categoryID": "messen",
+   "name": "Keukenmessen",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "japanse-messen",
+   "categoryID": "messen",
+   "name": "Japanse messen",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "tafel-en-zakmessen",
+   "categoryID": "messen",
+   "name": "Tafel- en zakmessen",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "snijplanken",
+   "categoryID": "messen",
+   "name": "Snijplanken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "mandolines",
+   "categoryID": "messen",
+   "name": "Mandolines",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "messen-onderhoud",
+   "categoryID": "messen",
+   "name": "Slijpen en onderhoud",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "tosti-wafel-grill",
+   "categoryID": "klein-elektrisch",
+   "name": "Tosti- en wafelijzers en grills",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "snijmachines",
+   "categoryID": "klein-elektrisch",
+   "name": "Snijmachines",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "broodroosters",
+   "categoryID": "klein-elektrisch",
+   "name": "Broodroosters",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "foodprocessors",
+   "categoryID": "klein-elektrisch",
+   "name": "Foodprocessors",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "waterkokers",
+   "categoryID": "klein-elektrisch",
+   "name": "Waterkokers en teamakers",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "broodbakmachines",
+   "categoryID": "klein-elektrisch",
+   "name": "Broodbakmachines",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "mixers",
+   "categoryID": "klein-elektrisch",
+   "name": "Hand-, stand- en staafmixers",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "slow-multicookers",
+   "categoryID": "klein-elektrisch",
+   "name": "Slowcookers en multicookers",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "droogapparaten",
+   "categoryID": "klein-elektrisch",
+   "name": "Droogapparaten",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "blenders-juicers",
+   "categoryID": "klein-elektrisch",
+   "name": "Blenders en juicers",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "ijsmachines",
+   "categoryID": "klein-elektrisch",
+   "name": "IJsmachines",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "sous-vide-vacumeren",
+   "categoryID": "klein-elektrisch",
+   "name": "Sous-vide en vacumeermachines",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "overig-klein-elektrisch",
+   "categoryID": "klein-elektrisch",
+   "name": "Overig klein elektrisch",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "kamado",
+   "categoryID": "bbq",
+   "name": "Kamado BBQ's",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "overige-bbq",
+   "categoryID": "bbq",
+   "name": "Overige barbecues",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "bbq-accessoires",
+   "categoryID": "bbq",
+   "name": "BBQ-accessoires",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "koper",
+   "categoryID": "pannen",
+   "name": "Koper",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
   }
  ],
  "brands": [
