@@ -17,7 +17,9 @@ Rules
     * Variants without an EAN are flagged. Pages that are not the original Dutch page are refused.
 Running it twice gives the same file.
 """
-import glob, json, re, sys, unicodedata
+import glob, json, os, re, sys, unicodedata
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import auto_bullets
 
 SEED, OUT = 'data/catalog_seed.json', 'data/catalog.json'
 COFFEE_TYPES = {'volautomaat', 'halfautomaat', 'filterkoffie'}
@@ -100,6 +102,56 @@ def split_colour(name, colours):
             return name[:-len(c) - 1], name[-len(c):]
     return name, ''
 
+def auto_types(p):
+    sp = spec_dict(p); mat = (sp.get('Materiaal') or '').lower(); coat = (sp.get('Coating') or '').lower(); name = p['name'].lower()
+    if not mat:
+        mat = ' '.join(w for w, k in (('roestvrij', ' rvs'), ('gietijzer', 'gietijzer'), ('aluminium', 'aluminium')) if k in ' ' + name)
+    metal = any(w in mat for w in ('roestvrij', 'aluminium', 'gietijzer', 'staal', 'ijzer'))
+    if 'koper' in mat or not metal: return []
+    t = []
+    if 'gietijzer' in mat: t.append('gietijzer')
+    if mat.strip() == 'staal' or 'plaatstaal' in name: t.append('plaatstaal')
+    if coat and 'bijenwas' not in coat and 'olie' not in coat or 'antikleef' in mat or 'anti-aanbak' in name or 'keramische' in name or 'ceraforce' in name or 'coating' in mat:
+        t.append('aluminium-antiaanbak')
+    if 'roestvrij' in mat and 'aluminium-antiaanbak' not in t or ('roestvrij' in mat and 'aluminium' not in mat and not coat): t.append('roestvrijstaal')
+    return list(dict.fromkeys(t))
+
+def auto_products(pages, claimed, checked):
+    """Brands listed in data/curation-pans/_auto.json that are not hand-written: summary sentences copied from the website."""
+    f = 'data/curation-pans/_auto.json'
+    if not os.path.exists(f): return [], [], []
+    cfg = load(f); products, mismatches, skipped = [], [], []
+    used = {slug(p['name']) for p in pages if p['file'] in claimed}
+    for p in pages:
+        if p['file'] in claimed or p['brand'] not in cfg['brands']: continue
+        if any(re.fullmatch(x, p['name']) for x in cfg.get('skipNames', [])): skipped.append((p['name'], 'overgeslagen')); continue
+        types = auto_types(p)
+        if not types: skipped.append((p['name'], 'geen passend type (materiaal)')); continue
+        check_page(p)
+        pid = slug(p['name'])
+        if pid in used: pid = pid + '-' + slug(p['sku'] or spec_dict(p).get('Artikelnummer') or 'x')
+        used.add(pid); claimed[p['file']] = 'auto'
+        suited, bullets = auto_bullets.summarize([d['text'] for d in p['description'][1:]])
+        mids = []
+        def flag(n, topic, says, note):
+            mid = f'web-{pid}-{n}'
+            mismatches.append({'id': mid, 'kind': 'websiteData', 'topic': topic, 'websiteSays': says, 'status': 'toVerify', 'note': note, 'productIDs': [pid]}); mids.append(mid)
+        coded = {s['label']: s['value'] for s in p['specs'] if CODE.match(s['value']) and s['label'] not in DROP_SPECS}
+        if coded:
+            flag('codes', f'{p["name"]}: specificaties tonen een code', 'Op de website staat een getal van 5 cijfers in plaats van een waarde bij: ' + '; '.join(f'{k} ({v})' for k, v in sorted(coded.items())) + '.', 'Deze regels zijn uit de app gelaten.')
+        sp = spec_dict(p)
+        if not (p['ean'] or sp.get('EAN')):
+            flag('ean', f'{p["name"]}: EAN ontbreekt', 'Geen EAN op de website voor deze pagina.', 'Scan de barcode op de doos en zet hem in een notitie.')
+        specs = [s for s in p['specs'] if s['label'] not in DROP_SPECS and not CODE.match(s['value'])]
+        website = {'kind': 'website', 'url': p['url'], 'checkedOn': checked}
+        products.append({'id': pid, 'name': p['name'], 'brandID': cfg['brands'][p['brand']], 'typeIDs': types,
+                         'suitedFor': {'text': suited, 'source': website} if suited else None,
+                         'tellTheCustomer': bullets, 'specs': specs, 'originalDescription': original_text(p),
+                         'variants': [{'id': pid, 'colorName': '', 'colorHex': None, 'ean': p['ean'] or sp.get('EAN'), 'articleNumber': sp.get('Artikelnummer'),
+                                       'imageName': None, 'imageURL': p.get('image'), 'productURL': p['url']}],
+                         'source': website, 'mismatchIDs': mids or None, 'autoText': True})
+    return products, mismatches, skipped
+
 def pans_products(checked):
     """One product per website name without its colour; colours are variants. Hand-written entries in
     data/curation-pans/*.json: {match: [regex on page name], brandID, typeIDs, suitedFor, bullets, keys, mismatches}."""
@@ -107,7 +159,7 @@ def pans_products(checked):
     excluded = [e for f in sorted(glob.glob('data/curation-pans/_excluded.json')) for e in load(f)]
     claimed, products, mismatches, pending = {}, [], [], []
     for f in sorted(glob.glob('data/curation-pans/*.json')):
-        if f.endswith('_excluded.json'): continue
+        if os.path.basename(f).startswith('_'): continue
         for item in load(f):
             hits = [p for p in pages if any(re.fullmatch(m, p['name']) for m in item['match'])]
             if not hits: sys.exit(f'{f}: entry matches no page: {item["match"]}')
@@ -169,11 +221,14 @@ def pans_products(checked):
                                  'tellTheCustomer': item['bullets'], 'specs': specs,
                                  'originalDescription': original_text(first), 'variants': variants,
                                  'source': website, 'mismatchIDs': mids or None})
+    a_prod, a_mm, skipped = auto_products([p for p in pages if not any(re.fullmatch(e['match'], p['name']) for e in excluded)], claimed, checked)
+    products += a_prod; mismatches += a_mm
     for p in pages:
         if p['file'] in claimed: continue
         if any(re.fullmatch(e['match'], p['name']) for e in excluded): continue
         pending.append(p['name'])
-    print(f'pans: {len(products)} products from {len(claimed)} pages; {len(pending)} pages still to curate')
+    print(f'pans: {len(products)} products ({len(a_prod)} automatic) from {len(claimed)} pages; {len(pending)} pages still to curate')
+    if os.environ.get('SHOW_PENDING'): print('\n'.join(pending)); print('skipped:', skipped)
     return products, mismatches
 
 def coffee_products(checked):

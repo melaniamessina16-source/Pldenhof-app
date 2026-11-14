@@ -587,7 +587,7 @@
       ${notes.length ? `<div class="card good"><h3>${IC('pencil')} ${L('Goed om te weten', 'Good to know')}</h3>
         ${notes.map(n => `<div class="note">${esc(n.text)}<div class="meta"><span>${esc(n.author)} · ${esc(fmtTime(n.createdAt))}${n.variantID ? ` · ${L('alleen', 'only')} ${esc(idx.variant[n.variantID]?.v.colorName || '')}` : ''}</span>
           ${S.canDeleteNote(n) ? `<button class="faint" data-act="delnote" data-id="${esc(n.id)}">${L('Verwijder', 'Delete')}</button>` : ''}</div></div>`).join('')}</div>` : ''}
-      <div class="card"><h3>${L('Kort voor de klant', 'In short for the customer')}</h3><ul class="bullets">${p.tellTheCustomer.map(b => `<li>${esc(b)}</li>`).join('')}</ul>${source(p.source)}</div>
+      <div class="card"><h3>${L('Kort voor de klant', 'In short for the customer')}</h3><ul class="bullets">${p.tellTheCustomer.map(b => `<li>${esc(b)}</li>`).join('')}</ul>${p.autoText ? `<p class="small muted" style="margin:8px 0 0">${L('Zinnen letterlijk uit de websitetekst gehaald; nog niet door een collega nagelezen.', 'Sentences taken word for word from the website text; not yet checked by a colleague.')}</p>` : ''}${source(p.source)}</div>
       ${mismatchCard(p.mismatchIDs)}
       ${p.specs?.length ? `<div class="card"><h3 style="margin-bottom:12px">${L('Specificaties', 'Specifications')}</h3><dl class="kv">${p.specs.map(s => `<dt>${esc(s.label)}</dt><dd>${esc(s.value)}</dd>`).join('')}</dl>${source(p.source)}</div>` : ''}
       <details class="card"><summary>${L('Originele tekst van de website', 'Original website text (Dutch)')}</summary><p class="orig">${esc(p.originalDescription)}</p>
