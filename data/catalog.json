@@ -838,6 +838,10 @@
   {
    "id": "lapiccola",
    "name": "La Piccola"
+  },
+  {
+   "id": "1821",
+   "name": "1821 Gietijzer"
   }
  ],
  "products": [
@@ -8192,6 +8196,498 @@
     "web-solis-grind-infuse-perfetta-1",
     "web-solis-grind-infuse-perfetta-codes"
    ]
+  },
+  {
+   "id": "1821-braadpan-24-cm-gietijzer",
+   "name": "1821 braadpan ø 24 cm gietijzer",
+   "brandID": "1821",
+   "typeIDs": [
+    "gietijzer"
+   ],
+   "suitedFor": {
+    "text": "Voor stoofgerechten, sauzen, bouillons en het sudderen van vlees, gevogelte of groenten; grote maat ook voor grotere bereidingen en gerechten voor meerdere personen.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/1821-braadpan-24-cm-gietijzer-donkergroen-65531-0001065639",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Ronde braadpan van gietijzer met twee vaste handgrepen en een bijpassend deksel.",
+    "Gietijzer verdeelt de warmte gelijkmatig en houdt die lang vast.",
+    "Geschikt voor langzaam garen, sauzen en bouillons, aanbraden en nagaren in de oven.",
+    "Geëmailleerde binnenzijde: glad en neemt geen geur of smaak op.",
+    "Geschikt voor alle warmtebronnen, ook inductie, en voor de oven.",
+    "Wordt geleverd met een roestvrijstalen én een koperen knop: de pan is naar eigen wens samen te stellen.",
+    "Schoonmaken: warm water en afwasmiddel."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Gietijzer"
+    },
+    {
+     "label": "Diameter",
+     "value": "24 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Elektrisch, Gas, Halogeen, Inductie, Keramisch, Oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De 1821 braadpan is een ronde pan van gietijzer met twee vaste handgrepen en een bijpassende deksel en is uitgevoerd in de kleur Gradient Dark Green. De pan heeft een diameter van Ø 24 cm met een geëmailleerde binnenzijde. De braadpan is bedoeld voor het bereiden van uiteenlopende gerechten op het fornuis of in de oven. De 1821 braadpan wordt geleverd met een roestvrijstalen én een koperen knop, zodat de pan naar eigen wens samen te stellen is.\n\n1821 braadpan ø 24 cm gietijzer\n\nDe 1821 braadpan is gemaakt van gietijzer, een materiaal dat warmte gelijkmatig verdeelt en langdurig vasthoudt. Hierdoor is de pan geschikt voor het langzaam garen van stoofgerechten, het bereiden van sauzen en bouillons en het sudderen van vlees, gevogelte of groenten. Ook voor het aanbraden van ingrediënten en het nagaren van het gerecht in de oven is de pan geschikt.\n\nDe geëmailleerde binnenzijde is glad afgewerkt en neemt geen geur of smaak op. De pan is geschikt voor alle warmtebronnen, inclusief inductie, en kan in de oven worden gebruikt.\n\nReinig de braadpan met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "1821-braadpan-24-cm-gietijzer-gradient-dark-green",
+     "colorName": "Gradient Dark Green",
+     "colorHex": null,
+     "ean": "2200010656398",
+     "articleNumber": "656398",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/8/1821-braadpan-gietijzer-donkergroen-01-zijaanzicht-1200_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/1821-braadpan-24-cm-gietijzer-donkergroen-65531-0001065639"
+    },
+    {
+     "id": "1821-braadpan-24-cm-gietijzer-gradient-teal",
+     "colorName": "Gradient Teal",
+     "colorHex": null,
+     "ean": "2200010656404",
+     "articleNumber": "656404",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/8/1821-braadpan-gietijzer-01-zijaanzicht-1200.jpg",
+     "productURL": "https://www.kookwinkel.nl/1821-braadpan-24-cm-gietijzer-gradient-teal-65531-0001065640"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/1821-braadpan-24-cm-gietijzer-donkergroen-65531-0001065639",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "1821-braadpan-28-cm-gietijzer",
+   "name": "1821 braadpan ø 28 cm gietijzer",
+   "brandID": "1821",
+   "typeIDs": [
+    "gietijzer"
+   ],
+   "suitedFor": {
+    "text": "Voor stoofgerechten, sauzen, bouillons en het sudderen van vlees, gevogelte of groenten; grote maat ook voor grotere bereidingen en gerechten voor meerdere personen.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/1821-braadpan-28-cm-gietijzer-donkergroen-65531-0001065641",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Ronde braadpan van gietijzer met twee vaste handgrepen en een bijpassend deksel.",
+    "Gietijzer verdeelt de warmte gelijkmatig en houdt die lang vast.",
+    "Geschikt voor langzaam garen, sauzen en bouillons, aanbraden en nagaren in de oven.",
+    "Geëmailleerde binnenzijde: glad en neemt geen geur of smaak op.",
+    "Geschikt voor alle warmtebronnen, ook inductie, en voor de oven.",
+    "Wordt geleverd met een roestvrijstalen én een koperen knop: de pan is naar eigen wens samen te stellen.",
+    "Schoonmaken: warm water en afwasmiddel."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Gietijzer"
+    },
+    {
+     "label": "Diameter",
+     "value": "28 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Elektrisch, Gas, Halogeen, Inductie, Keramisch, Oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De 1821 braadpan is een ronde pan van gietijzer met twee vaste handgrepen en een bijpassende deksel. De pan heeft een diameter van 28 cm en is uitgevoerd in gietijzer in de kleur Gradient Dark Green met een geëmailleerde binnenzijde. Door het ruime formaat is de pan geschikt voor grotere bereidingen. De 1821 braadpan wordt geleverd met een roestvrijstalen én een koperen knop, zodat de pan naar eigen wens samen te stellen is.\n\n1821 braadpan ø 28 cm gietijzer\n\nDe 1821 braadpan is gemaakt van gietijzer en ontworpen voor gelijkmatige warmteverdeling over de gehele pan. Dit maakt de pan geschikt voor het bereiden van stoofgerechten, het langzaam laten trekken van bouillons en het bereiden van soepen en sauzen. Ook voor het braden van grotere stukken vlees of het garen van gerechten voor meerdere personen is deze pan geschikt.\n\nHet gietijzer houdt de warmte goed vast, wat zorgt voor gecontroleerd en gelijkmatig garen. De geëmailleerde binnenzijde is glad en onderhoudsvriendelijk. De pan is geschikt voor alle warmtebronnen, inclusief inductie, en voor gebruik in de oven.\n\nReinig de braadpan met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "1821-braadpan-28-cm-gietijzer-gradient-dark-green",
+     "colorName": "Gradient Dark Green",
+     "colorHex": null,
+     "ean": "2200010656411",
+     "articleNumber": "656411",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/8/1821-braadpan-gietijzer-donkergroen-01-zijaanzicht-1200.jpg",
+     "productURL": "https://www.kookwinkel.nl/1821-braadpan-28-cm-gietijzer-donkergroen-65531-0001065641"
+    },
+    {
+     "id": "1821-braadpan-28-cm-gietijzer-gradient-teal",
+     "colorName": "Gradient Teal",
+     "colorHex": null,
+     "ean": "2200010656428",
+     "articleNumber": "656428",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/8/1821-braadpan-gietijzer-01-zijaanzicht-1200_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/1821-braadpan-28-cm-gietijzer-gradient-teal-65531-0001065642"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/1821-braadpan-28-cm-gietijzer-donkergroen-65531-0001065641",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "1821-multifunctionele-braadpan-31-cm-gietijzer",
+   "name": "1821 multifunctionele braadpan ø 31 cm gietijzer",
+   "brandID": "1821",
+   "typeIDs": [
+    "gietijzer"
+   ],
+   "suitedFor": {
+    "text": "Voor bakken, braden, stoofgerechten en sauzen met een grotere oppervlakte; ook als ovenschotel of serveerpan aan tafel.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/1821-multifunctionele-braadpan-31-cm-gietijzer-donkergroen-65531-0001065643",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Lage, brede, ronde braadpan van gietijzer met twee vaste handgrepen en een bijpassend deksel.",
+    "Gietijzer verdeelt de warmte gelijkmatig en houdt die goed vast: gecontroleerd garen.",
+    "Ook te gebruiken voor ovengerechten of als serveerpan aan tafel.",
+    "Geëmailleerde binnenzijde: glad en neemt geen geur of smaak op.",
+    "Geschikt voor alle warmtebronnen, ook inductie, en voor de oven.",
+    "Wordt geleverd met een roestvrijstalen én een koperen knop: de pan is naar eigen wens samen te stellen.",
+    "Schoonmaken: warm water en afwasmiddel."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Gietijzer"
+    },
+    {
+     "label": "Diameter",
+     "value": "31 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Keramisch, Oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De 1821 multifunctionele braadpan is een lage, ronde pan van gietijzer met twee vaste handgrepen en een bijpassende deksel. De pan heeft een diameter van 31 cm en is uitgevoerd in gietijzer in de kleur Gradient Dark Green met een geëmailleerde binnenzijde. Door de lage, brede vorm is de pan geschikt voor diverse bereidingen. De 1821 braadpan wordt geleverd met een roestvrijstalen én een koperen knop, zodat de pan naar eigen wens samen te stellen is.\n\n1821 multifunctionele braadpan ø 31 cm gietijzer\n\nDe 1821 multifunctionele braadpan is gemaakt van gietijzer en ontworpen voor een gelijkmatige warmteverdeling. De lage vorm maakt de pan geschikt voor het bakken en braden van ingrediënten, het bereiden van stoofgerechten en het sudderen van sauzen en gerechten met een grotere oppervlakte. Ook kan de pan worden gebruikt voor het bereiden van ovengerechten of als serveerpan aan tafel.\n\nHet gietijzer houdt warmte goed vast, wat zorgt voor gecontroleerd garen. De geëmailleerde binnenzijde is glad afgewerkt en neemt geen geur of smaak op. De pan is geschikt voor alle warmtebronnen, inclusief inductie, en kan in de oven worden gebruikt.\n\nReinig de braadpan met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "1821-multifunctionele-braadpan-31-cm-gietijzer-gradient-dark-green",
+     "colorName": "Gradient Dark Green",
+     "colorHex": null,
+     "ean": "2200010656435",
+     "articleNumber": "656435",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/8/1821-braadpan-gietijzer-origineel-01-zijaanzicht-1200.jpg",
+     "productURL": "https://www.kookwinkel.nl/1821-multifunctionele-braadpan-31-cm-gietijzer-donkergroen-65531-0001065643"
+    },
+    {
+     "id": "1821-multifunctionele-braadpan-31-cm-gietijzer-gradient-teal",
+     "colorName": "Gradient Teal",
+     "colorHex": null,
+     "ean": "2200010656442",
+     "articleNumber": "656442",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/8/1821-braadpan-gietijzer-gradient-teal-01-zijaanzicht-1200_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/1821-multifunctionele-braadpan-31-cm-gietijzer-gradient-65531-0001065644"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/1821-multifunctionele-braadpan-31-cm-gietijzer-donkergroen-65531-0001065643",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "1821-ovale-braadpan-30-x-23-cm-gietijzer",
+   "name": "1821 ovale braadpan 30 x 23 cm gietijzer",
+   "brandID": "1821",
+   "typeIDs": [
+    "gietijzer"
+   ],
+   "suitedFor": {
+    "text": "Voor grotere of langwerpige stukken vlees, gevogelte en vis; ook stoofgerechten, sauzen en bouillons.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/1821-ovale-braadpan-30-x-23-cm-gietijzer-donkergroen-65531-0001065645",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Ovale braadpan van gietijzer met twee vaste handgrepen en een bijpassend deksel; de ovale vorm past bij langwerpige ingrediënten.",
+    "Gietijzer verdeelt de warmte gelijkmatig en houdt die goed vast: gecontroleerd en gelijkmatig garen.",
+    "Geëmailleerde binnenzijde: glad en onderhoudsvriendelijk.",
+    "Geschikt voor alle warmtebronnen, ook inductie, en voor de oven.",
+    "Wordt geleverd met een roestvrijstalen én een koperen knop: de pan is naar eigen wens samen te stellen.",
+    "Schoonmaken: warm water en afwasmiddel."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Gietijzer"
+    },
+    {
+     "label": "Lengte",
+     "value": "30 cm"
+    },
+    {
+     "label": "Breedte",
+     "value": "23 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Inductie, Keramisch, Oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De 1821 ovale braadpan is gemaakt van gietijzer en voorzien van twee vaste handgrepen en een bijpassende deksel. De pan heeft een formaat van 30 x 23 cm en is uitgevoerd in gietijzer in de kleur Gradient Dark Green met een geëmailleerde binnenzijde. De ovale vorm is geschikt voor langwerpige ingrediënten. De 1821 braadpan wordt geleverd met een roestvrijstalen én een koperen knop, zodat de pan naar eigen wens samen te stellen is.\n\n1821 ovale braadpan 30 x 23 cm gietijzer\n\nDe 1821 ovale braadpan is gemaakt van gietijzer en ontworpen voor gelijkmatige warmteverdeling. De vorm van de pan maakt deze geschikt voor het bereiden van grotere of langwerpige stukken vlees, gevogelte en vis. Ook is de pan geschikt voor het langzaam garen van stoofgerechten, het bereiden van sauzen en het laten trekken van bouillons.\n\nHet gietijzer houdt warmte goed vast, wat bijdraagt aan gecontroleerd en gelijkmatig garen. De geëmailleerde binnenzijde is glad afgewerkt en onderhoudsvriendelijk. De pan is geschikt voor alle warmtebronnen, inclusief inductie, en voor gebruik in de oven.\n\nReinig de braadpan met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "1821-ovale-braadpan-30-x-23-cm-gietijzer-gradient-dark-green",
+     "colorName": "Gradient Dark Green",
+     "colorHex": null,
+     "ean": "2200010656459",
+     "articleNumber": "656459",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/p/a/pan_groen_1_1.png",
+     "productURL": "https://www.kookwinkel.nl/1821-ovale-braadpan-30-x-23-cm-gietijzer-donkergroen-65531-0001065645"
+    },
+    {
+     "id": "1821-ovale-braadpan-30-x-23-cm-gietijzer-gradient-teal",
+     "colorName": "Gradient Teal",
+     "colorHex": null,
+     "ean": "2200010656466",
+     "articleNumber": "656466",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/p/a/pan_blauw_3.png",
+     "productURL": "https://www.kookwinkel.nl/1821-ovale-braadpan-30-x-23-cm-gietijzer-gradient-teal-65531-0001065646"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/1821-ovale-braadpan-30-x-23-cm-gietijzer-donkergroen-65531-0001065645",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "1821-grillplaat-33-x-22-cm-gietijzer",
+   "name": "1821 grillplaat 33 x 22 cm gietijzer",
+   "brandID": "1821",
+   "typeIDs": [
+    "gietijzer"
+   ],
+   "suitedFor": {
+    "text": "Voor het grillen van vlees, vis en groenten.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/1821-grillplaat-33-x-22-cm-gietijzer-donkergroen-65531-0001065637",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Rechthoekige grillplaat van gietijzer met twee geïntegreerde handgrepen en een geribbeld grilloppervlak.",
+    "Geribbeld oppervlak geeft duidelijke grillstrepen en laat overtollig vet weglopen.",
+    "Gietijzer verdeelt de warmte gelijkmatig en houdt die goed vast; ontworpen voor hoge temperaturen.",
+    "Geschikt voor alle warmtebronnen, ook inductie.",
+    "Gebruik: eerst rustig op temperatuur laten komen, ingrediënten licht met olie bestrijken en pas keren wanneer het voedsel vanzelf loslaat.",
+    "Schoonmaken: warm water en afwasmiddel."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Gietijzer"
+    },
+    {
+     "label": "Lengte",
+     "value": "33 cm"
+    },
+    {
+     "label": "Breedte",
+     "value": "22 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Elektrisch, Gas, Halogeen, Inductie, Keramisch"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De 1821 grillplaat is een rechthoekige grillplaat van gietijzer met twee geïntegreerde handgrepen. De plaat heeft een geribbeld grilloppervlak en is uitgevoerd in gietijzer in de kleur Gradient Dark Green met een geëmailleerde binnenzijde in poeder emaille. De grillplaat heeft een formaat van 33 x 22 cm en is bedoeld voor het grillen van vlees, vis en groenten.\n\n1821 grillplaat 33 x 22 cm\n\nDe 1821 grillplaat is gemaakt van gietijzer en ontworpen voor gebruik bij hoge temperaturen. Het geribbelde oppervlak zorgt voor duidelijke grillstrepen en laat overtollig vet weglopen tijdens het grillen. Het gietijzer verdeelt de warmte gelijkmatig over de hele plaat en houdt deze goed vast. De grillplaat is geschikt voor alle warmtebronnen, inclusief inductie.\n\nLaat de grillplaat rustig op temperatuur komen voordat de ingrediënten worden toegevoegd. Bestrijk de ingrediënten licht met olie en plaats deze op de grillplaat. Keer het voedsel pas wanneer het vanzelf loslaat van het oppervlak.\n\nReinig de grillplaat met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "1821-grillplaat-33-x-22-cm-gietijzer-gradient-dark-green",
+     "colorName": "Gradient Dark Green",
+     "colorHex": null,
+     "ean": "2200010656374",
+     "articleNumber": "656374",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/g/r/grill_groen_1.png",
+     "productURL": "https://www.kookwinkel.nl/1821-grillplaat-33-x-22-cm-gietijzer-donkergroen-65531-0001065637"
+    },
+    {
+     "id": "1821-grillplaat-33-x-22-cm-gietijzer-gradient-teal",
+     "colorName": "Gradient Teal",
+     "colorHex": null,
+     "ean": "2200010656381",
+     "articleNumber": "656381",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/g/r/grill_blauw.png",
+     "productURL": "https://www.kookwinkel.nl/1821-grillplaat-33-x-22-cm-gietijzer-gradient-teal-65531-0001065638"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/1821-grillplaat-33-x-22-cm-gietijzer-donkergroen-65531-0001065637",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "1821-poffertjespan-20-cm-gietijzer-zwart",
+   "name": "1821 poffertjespan ø 20 cm gietijzer zwart",
+   "brandID": "1821",
+   "typeIDs": [
+    "gietijzer"
+   ],
+   "suitedFor": {
+    "text": "Voor poffertjes en andere kleine deegbereidingen zoals Japanse takoyaki.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/1821-poffertjespan-20-cm-gietijzer-zwart-65530-0001065633",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Poffertjespan van gietijzer met twee handgrepen.",
+    "Gietijzer zorgt voor een gelijkmatige warmteverdeling tijdens het bakken.",
+    "Vlakke onderzijde: geschikt voor verschillende warmtebronnen.",
+    "Gebruik: rustig laten opwarmen voor het beslag erin gaat, kuiltjes licht invetten, poffertjes keren zodra de onderkant kleurt.",
+    "Schoonmaken: warm water en daarna drogen."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Gietijzer"
+    },
+    {
+     "label": "Diameter",
+     "value": "24 cm"
+    },
+    {
+     "label": "Breedte",
+     "value": "24 cm"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De 1821 poffertjespan is vervaardigd van gietijzer en heeft een diameter van 24 cm. Het gietijzer zorgt voor een gelijkmatige verspreiding van de warmte door de pan. De twee handgrepen zorgen voor extra draaggemak. Gebruik de 1821 poffertjespan voor de bereiding van meerdere poffertjes per keer of andere kleine deegbereidingen zoals Japanse Takoyaki.\n\n1821 poffertjespan ø 24 cm gietijzer\n\nDe 1821 poffertjespan is bedoeld voor het bereiden van poffertjes. De pan is gemaakt van gietijzer, wat zorgt voor een gelijkmatige warmteverdeling tijdens het bakken. Dankzij de vlakke onderzijde is de pan geschikt voor gebruik op verschillende warmtebronnen. De twee handgrepen maken het verplaatsen van de pan eenvoudiger.\n\nLaat de poffertjespan rustig opwarmen voordat het beslag wordt toegevoegd. Vet de kuiltjes licht in en keer de poffertjes zodra de onderzijde begint te kleuren.\n\nReinig de poffertjespan met warm water en droog deze na gebruik.",
+   "variants": [
+    {
+     "id": "1821-poffertjespan-20-cm-gietijzer-zwart",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "2200010656336",
+     "articleNumber": "656336",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/p/o/poffertjespan_onderkant.png",
+     "productURL": "https://www.kookwinkel.nl/1821-poffertjespan-20-cm-gietijzer-zwart-65530-0001065633"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/1821-poffertjespan-20-cm-gietijzer-zwart-65530-0001065633",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-1821-poffertjespan-20-cm-gietijzer-zwart-1"
+   ]
+  },
+  {
+   "id": "1821-wok-32-cm-gietijzer-zwart",
+   "name": "1821 wok ø 32 cm gietijzer zwart",
+   "brandID": "1821",
+   "typeIDs": [
+    "gietijzer"
+   ],
+   "suitedFor": {
+    "text": "Voor roerbakken en andere bereidingen op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/1821-wok-32-cm-gietijzer-zwart-65530-0001065634",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Wok van gietijzer met twee vaste handgrepen.",
+    "Voorbehandeld met een seasoning: direct klaar voor gebruik.",
+    "Gietijzer verdeelt de warmte gelijkmatig en houdt die goed vast.",
+    "De seasoning is een natuurlijke beschermlaag en helpt aanbakken te verminderen. Na het afwassen licht invetten met een neutrale olie om de laag verder op te bouwen.",
+    "Schoonmaken: warm water en afwasmiddel, direct na gebruik drogen."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Gietijzer"
+    },
+    {
+     "label": "Diameter",
+     "value": "32 cm"
+    },
+    {
+     "label": "Afwerking",
+     "value": "Mat"
+    },
+    {
+     "label": "Coating",
+     "value": "Voorbehandeld met plantaardige olie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De 1821 wok is gemaakt van gietijzer en heeft een diameter van 32 cm. De wok is voorbehandeld met een seasoning, waardoor het oppervlak direct klaar is voor gebruik. Twee vaste handgrepen zorgen voor een stabiele grip tijdens het koken en verplaatsen van de wok.\n\n1821 wok ø 32 cm gietijzer\n\nDe 1821 wok is bedoeld voor roerbakken en andere bereidingen op hoge temperatuur. Het gietijzer zorgt voor een gelijkmatige warmteverdeling en houdt de warmte goed vast. Door de seasoning krijgt het oppervlak een natuurlijke beschermlaag die het bakken ondersteunt en helpt aanbakken te verminderen. Na het afwassen is het aan te raden om de wok weer lichtjes in te vetten met een neutrale olie om de coating verder op te bouwen en het gietijzer te beschermen.\n\nReinig de wok met warm water en afwasmiddel en droog deze direct na gebruik.",
+   "variants": [
+    {
+     "id": "1821-wok-32-cm-gietijzer-zwart",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "2200010656343",
+     "articleNumber": "656343",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/w/o/wokpan.png",
+     "productURL": "https://www.kookwinkel.nl/1821-wok-32-cm-gietijzer-zwart-65530-0001065634"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/1821-wok-32-cm-gietijzer-zwart-65530-0001065634",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
   }
  ],
  "mismatches": [
@@ -9197,6 +9693,17 @@
    "note": "Deze regels zijn uit de app gelaten. Waar de beschrijving de waarde noemt, staat die in de app.",
    "productIDs": [
     "solis-grind-infuse-perfetta"
+   ]
+  },
+  {
+   "id": "web-1821-poffertjespan-20-cm-gietijzer-zwart-1",
+   "kind": "websiteData",
+   "topic": "1821 poffertjespan: diameter",
+   "websiteSays": "De naam en de eerste alinea noemen ø 20 cm; de specificaties en de tekst verderop noemen ø 24 cm.",
+   "status": "toVerify",
+   "note": "Meet de pan na of vraag het aan 1821 voordat je een maat aan een klant noemt.",
+   "productIDs": [
+    "1821-poffertjespan-20-cm-gietijzer-zwart"
    ]
   },
   {

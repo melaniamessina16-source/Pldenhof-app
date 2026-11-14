@@ -23,7 +23,8 @@ SEED, OUT = 'data/catalog_seed.json', 'data/catalog.json'
 COFFEE_TYPES = {'volautomaat', 'halfautomaat', 'filterkoffie'}
 DROP_SPECS = {'Merk', 'Artikelnummer', 'EAN', 'Kleur'}
 CODE = re.compile(r'^\d{5}$')
-NEW_BRANDS = {'rancilio': 'Rancilio', 'solis': 'Solis', 'graef': 'Graef', 'lapiccola': 'La Piccola'}
+NEW_BRANDS = {'rancilio': 'Rancilio', 'solis': 'Solis', 'graef': 'Graef', 'lapiccola': 'La Piccola',
+              '1821': '1821 Gietijzer'}
 # booklet p. 44: which brands the shop sells per machine type
 BOOKLET_BRANDS = {'volautomaat': ['jura', 'nivona', 'smeg'],
                   'halfautomaat': ['ecm', 'isomac', 'lapavoni', 'profitec', 'sage', 'smeg']}
@@ -80,6 +81,91 @@ def old_products(cat, checked):
                     'mismatchIDs': item.get('mismatchIDs') or None})
     keep = {m['id'] for m in cur['mismatches'] if not m['id'].startswith(('web-profitec-go', 'web-oraclejet'))}
     return out, [m for m in cur['mismatches'] if m['id'] in keep], cur
+
+def text_key(p):
+    """Hash of a page's description text (first paragraph without its colour, digits as #). Curation entries list
+    the hashes of the texts they were written from, so a page with other text is never covered by mistake."""
+    import hashlib
+    paras = [d['text'] for d in p['description'][1:]]
+    kleur = spec_dict(p).get('Kleur')
+    first = paras[0] if paras else ''
+    if kleur: first = re.sub(re.escape(kleur), '', first, flags=re.I)
+    key = re.sub(r'\d+([,.]\d+)?', '#', first) + '||' + re.sub(r'\d+([,.]\d+)?', '#', ' || '.join(paras[1:]))
+    return hashlib.sha1(key.encode('utf-8')).hexdigest()[:8]
+
+def split_colour(name, colours):
+    """(name without trailing colour phrase, colour phrase as written on the website or '')."""
+    for c in sorted(colours or [], key=len, reverse=True):
+        if name.lower().endswith(' ' + c.lower()):
+            return name[:-len(c) - 1], name[-len(c):]
+    return name, ''
+
+def pans_products(checked):
+    """One product per website name without its colour; colours are variants. Hand-written entries in
+    data/curation-pans/*.json: {match: [regex on page name], brandID, typeIDs, suitedFor, bullets, keys, mismatches}."""
+    pages = load('data/pans_pages.json')
+    excluded = [e for f in sorted(glob.glob('data/curation-pans/_excluded.json')) for e in load(f)]
+    claimed, products, mismatches, pending = {}, [], [], []
+    for f in sorted(glob.glob('data/curation-pans/*.json')):
+        if f.endswith('_excluded.json'): continue
+        for item in load(f):
+            hits = [p for p in pages if any(re.fullmatch(m, p['name']) for m in item['match'])]
+            if not hits: sys.exit(f'{f}: entry matches no page: {item["match"]}')
+            for p in hits:
+                check_page(p)
+                if p['file'] in claimed: sys.exit(f'{p["name"]}: claimed twice ({claimed[p["file"]]} and {f})')
+                claimed[p['file']] = f
+                if text_key(p) not in item['keys']:
+                    sys.exit(f'{p["name"]}: description text {text_key(p)} was not read for this entry ({f}, {item["match"][0]})')
+            groups, cols = {}, {}
+            for p in hits:
+                n, c = split_colour(p['name'], item.get('colours'))
+                groups.setdefault(n, []).append(p); cols[p['file']] = c
+            for name, vpages in groups.items():
+                pid = slug(name); mids = []
+                def flag(n, topic, says, note, pid=pid):
+                    mid = f'web-{pid}-{n}'
+                    mismatches.append({'id': mid, 'kind': 'websiteData', 'topic': topic, 'websiteSays': says,
+                                       'status': 'toVerify', 'note': note, 'productIDs': [pid]})
+                    mids.append(mid)
+                for i, m in enumerate(item.get('mismatches', []), 1):
+                    if m.get('only') and m['only'] != name: continue
+                    flag(i, m['topic'], m['websiteSays'], m['note'])
+                coded = {}
+                for p in vpages:
+                    for s in p['specs']:
+                        if CODE.match(s['value']) and s['label'] not in DROP_SPECS:
+                            coded.setdefault(s['label'], set()).add(s['value'])
+                if coded:
+                    flag('codes', f'{name}: specificaties tonen een code',
+                         'Op de website staat een getal van 5 cijfers in plaats van een waarde bij: '
+                         + '; '.join(f'{k} ({", ".join(sorted(v))})' for k, v in sorted(coded.items())) + '.',
+                         'Deze regels zijn uit de app gelaten.')
+                cname = lambda p: cols[p['file']]
+                missing = [cname(p) or 'deze pagina' for p in vpages if not (p['ean'] or spec_dict(p).get('EAN'))]
+                if missing:
+                    flag('ean', f'{name}: EAN ontbreekt', 'Geen EAN op de website voor: ' + ', '.join(missing) + '.',
+                         'Scan de barcode op de doos en zet hem in een notitie.')
+                first = vpages[0]
+                specs = [s for s in first['specs'] if s['label'] not in DROP_SPECS and not CODE.match(s['value'])]
+                variants = []
+                for p in vpages:
+                    sp = spec_dict(p); cn = cname(p)
+                    variants.append({'id': f'{pid}-{slug(cn)}' if cn else pid, 'colorName': cn, 'colorHex': None,
+                                     'ean': p['ean'] or sp.get('EAN'), 'articleNumber': sp.get('Artikelnummer'),
+                                     'imageName': None, 'imageURL': p.get('image'), 'productURL': p['url']})
+                website = {'kind': 'website', 'url': first['url'], 'checkedOn': checked}
+                products.append({'id': pid, 'name': name, 'brandID': item['brandID'], 'typeIDs': item['typeIDs'],
+                                 'suitedFor': {'text': item['suitedFor'], 'source': website} if item.get('suitedFor') else None,
+                                 'tellTheCustomer': item['bullets'], 'specs': specs,
+                                 'originalDescription': original_text(first), 'variants': variants,
+                                 'source': website, 'mismatchIDs': mids or None})
+    for p in pages:
+        if p['file'] in claimed: continue
+        if any(re.fullmatch(e['match'], p['name']) for e in excluded): continue
+        pending.append(p['name'])
+    print(f'pans: {len(products)} products from {len(claimed)} pages; {len(pending)} pages still to curate')
+    return products, mismatches
 
 def coffee_products(checked):
     pages = {p['file']: p for p in load('data/sample_pages.json') + load('data/coffee_pages.json')}
@@ -138,7 +224,8 @@ def main():
     checked = '2026-11-12'
     pans, pan_mm, cur = old_products(cat, checked)
     coffee, coffee_mm = coffee_products(checked)
-    products = pans + coffee
+    pans2, pans2_mm = pans_products(checked)
+    products = pans + coffee + pans2
     ids = [p['id'] for p in products]
     if len(ids) != len(set(ids)):
         sys.exit('Duplicate product ids')
@@ -187,7 +274,7 @@ def main():
             p['mismatchIDs'] = [m for m in (p['mismatchIDs'] or []) if m != 'web-sage-the-oracle-jet-1'] + ['type-oraclejet']
     coffee_mm = [m for m in coffee_mm if m['id'] != 'web-sage-the-oracle-jet-1']
 
-    new = {m['id']: m for m in pan_mm + coffee_mm + type_mm}
+    new = {m['id']: m for m in pan_mm + coffee_mm + pans2_mm + type_mm}
     seed_mm = [m for m in cat['mismatches'] if m['id'] not in new
                and not m['id'].startswith(('web-profitec-go', 'web-oraclejet'))]
     mismatches = seed_mm + list(new.values())

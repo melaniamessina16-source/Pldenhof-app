@@ -1,0 +1,158 @@
+[
+ {
+  "match": [
+   "1821 braadpan ø 24 cm gietijzer .*",
+   "1821 braadpan ø 28 cm gietijzer .*"
+  ],
+  "brandID": "1821",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor stoofgerechten, sauzen, bouillons en het sudderen van vlees, gevogelte of groenten; grote maat ook voor grotere bereidingen en gerechten voor meerdere personen.",
+  "bullets": [
+   "Ronde braadpan van gietijzer met twee vaste handgrepen en een bijpassend deksel.",
+   "Gietijzer verdeelt de warmte gelijkmatig en houdt die lang vast.",
+   "Geschikt voor langzaam garen, sauzen en bouillons, aanbraden en nagaren in de oven.",
+   "Geëmailleerde binnenzijde: glad en neemt geen geur of smaak op.",
+   "Geschikt voor alle warmtebronnen, ook inductie, en voor de oven.",
+   "Wordt geleverd met een roestvrijstalen én een koperen knop: de pan is naar eigen wens samen te stellen.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1e5fa7ce",
+   "871d8009",
+   "c0f2d0e5",
+   "0feca1ff"
+  ],
+  "colours": [
+   "Gradient Dark Green",
+   "Gradient Teal"
+  ]
+ },
+ {
+  "match": [
+   "1821 multifunctionele braadpan ø 31 cm gietijzer .*"
+  ],
+  "brandID": "1821",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor bakken, braden, stoofgerechten en sauzen met een grotere oppervlakte; ook als ovenschotel of serveerpan aan tafel.",
+  "bullets": [
+   "Lage, brede, ronde braadpan van gietijzer met twee vaste handgrepen en een bijpassend deksel.",
+   "Gietijzer verdeelt de warmte gelijkmatig en houdt die goed vast: gecontroleerd garen.",
+   "Ook te gebruiken voor ovengerechten of als serveerpan aan tafel.",
+   "Geëmailleerde binnenzijde: glad en neemt geen geur of smaak op.",
+   "Geschikt voor alle warmtebronnen, ook inductie, en voor de oven.",
+   "Wordt geleverd met een roestvrijstalen én een koperen knop: de pan is naar eigen wens samen te stellen.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "132e7378",
+   "4b1e6e1f"
+  ],
+  "colours": [
+   "Gradient Dark Green",
+   "Gradient Teal"
+  ]
+ },
+ {
+  "match": [
+   "1821 ovale braadpan 30 x 23 cm gietijzer .*"
+  ],
+  "brandID": "1821",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor grotere of langwerpige stukken vlees, gevogelte en vis; ook stoofgerechten, sauzen en bouillons.",
+  "bullets": [
+   "Ovale braadpan van gietijzer met twee vaste handgrepen en een bijpassend deksel; de ovale vorm past bij langwerpige ingrediënten.",
+   "Gietijzer verdeelt de warmte gelijkmatig en houdt die goed vast: gecontroleerd en gelijkmatig garen.",
+   "Geëmailleerde binnenzijde: glad en onderhoudsvriendelijk.",
+   "Geschikt voor alle warmtebronnen, ook inductie, en voor de oven.",
+   "Wordt geleverd met een roestvrijstalen én een koperen knop: de pan is naar eigen wens samen te stellen.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2bc369c8",
+   "367777dc"
+  ],
+  "colours": [
+   "Gradient Dark Green",
+   "Gradient Teal"
+  ]
+ },
+ {
+  "match": [
+   "1821 grillplaat 33 x 22 cm gietijzer .*"
+  ],
+  "brandID": "1821",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het grillen van vlees, vis en groenten.",
+  "bullets": [
+   "Rechthoekige grillplaat van gietijzer met twee geïntegreerde handgrepen en een geribbeld grilloppervlak.",
+   "Geribbeld oppervlak geeft duidelijke grillstrepen en laat overtollig vet weglopen.",
+   "Gietijzer verdeelt de warmte gelijkmatig en houdt die goed vast; ontworpen voor hoge temperaturen.",
+   "Geschikt voor alle warmtebronnen, ook inductie.",
+   "Gebruik: eerst rustig op temperatuur laten komen, ingrediënten licht met olie bestrijken en pas keren wanneer het voedsel vanzelf loslaat.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "88e9157c",
+   "c666d36a"
+  ],
+  "colours": [
+   "Gradient Dark Green",
+   "Gradient Teal"
+  ]
+ },
+ {
+  "match": [
+   "1821 poffertjespan ø 20 cm gietijzer zwart"
+  ],
+  "brandID": "1821",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor poffertjes en andere kleine deegbereidingen zoals Japanse takoyaki.",
+  "bullets": [
+   "Poffertjespan van gietijzer met twee handgrepen.",
+   "Gietijzer zorgt voor een gelijkmatige warmteverdeling tijdens het bakken.",
+   "Vlakke onderzijde: geschikt voor verschillende warmtebronnen.",
+   "Gebruik: rustig laten opwarmen voor het beslag erin gaat, kuiltjes licht invetten, poffertjes keren zodra de onderkant kleurt.",
+   "Schoonmaken: warm water en daarna drogen."
+  ],
+  "mismatches": [
+   {
+    "topic": "1821 poffertjespan: diameter",
+    "websiteSays": "De naam en de eerste alinea noemen ø 20 cm; de specificaties en de tekst verderop noemen ø 24 cm.",
+    "note": "Meet de pan na of vraag het aan 1821 voordat je een maat aan een klant noemt."
+   }
+  ],
+  "keys": [
+   "6c4635df"
+  ]
+ },
+ {
+  "match": [
+   "1821 wok ø 32 cm gietijzer zwart"
+  ],
+  "brandID": "1821",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor roerbakken en andere bereidingen op hoge temperatuur.",
+  "bullets": [
+   "Wok van gietijzer met twee vaste handgrepen.",
+   "Voorbehandeld met een seasoning: direct klaar voor gebruik.",
+   "Gietijzer verdeelt de warmte gelijkmatig en houdt die goed vast.",
+   "De seasoning is een natuurlijke beschermlaag en helpt aanbakken te verminderen. Na het afwassen licht invetten met een neutrale olie om de laag verder op te bouwen.",
+   "Schoonmaken: warm water en afwasmiddel, direct na gebruik drogen."
+  ],
+  "keys": [
+   "52f69113"
+  ]
+ }
+]

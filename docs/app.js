@@ -575,12 +575,12 @@
         <div class="pills" style="margin-top:12px">${brand ? `<a class="pill" href="#/b/${esc(brand.id)}">${IC('tag')} ${L(`Alles van ${esc(brand.name)}`, `All ${esc(brand.name)}`)} →</a>` : ''}
           <button class="pill ${cmp.has('p:' + p.id) ? 'accent' : ''}" data-act="pick" data-k="p:${esc(p.id)}">${IC('compare')} ${cmp.has('p:' + p.id) ? L('Gekozen om te vergelijken', 'Picked to compare') : L('Vergelijk', 'Compare')}</button></div></div>
       ${p.variants.length > 1 ? `<div class="card tight"><div class="small muted">${L('Kleur', 'Colour')}: <b style="color:var(--text)">${esc(v.colorName)}</b></div>
-        <div class="swatches">${p.variants.map(x => `<a class="swatch ${x.id === v.id ? 'on' : ''} ${S.isOut(x.id) ? 'out' : ''}" data-act="swatch" href="#/p/${esc(p.id)}?v=${esc(x.id)}" aria-label="${esc(x.colorName)}" style="background-color:${esc(x.colorHex || '#888')}"></a>`).join('')}</div></div>` : ''}
+        <div class="swatches">${p.variants.map(x => `<a class="swatch ${x.colorHex ? '' : 'txt'} ${x.id === v.id ? 'on' : ''} ${S.isOut(x.id) ? 'out' : ''}" data-act="swatch" href="#/p/${esc(p.id)}?v=${esc(x.id)}" aria-label="${esc(x.colorName)}" ${x.colorHex ? `style="background-color:${esc(x.colorHex)}"` : ''}>${x.colorHex ? '' : esc(x.colorName)}</a>`).join('')}</div></div>` : ''}
       <div class="card">
-        <dl class="kv"><dt>${L('Kleur', 'Colour')}</dt><dd>${esc(v.colorName)}</dd>
+        <dl class="kv">${v.colorName ? `<dt>${L('Kleur', 'Colour')}</dt><dd>${esc(v.colorName)}</dd>` : ''}
           <dt>EAN</dt><dd class="ean">${v.ean ? esc(v.ean) : `<span class="pill warn">${L('ontbreekt', 'missing')}</span>`}</dd>
           ${v.articleNumber ? `<dt>${L('Artikelnummer', 'Article number')}</dt><dd class="ean">${esc(v.articleNumber)}</dd>` : ''}</dl>
-        ${out ? `<div class="outline"><div class="outline-t">${IC('flag')} ${L(`${esc(v.colorName)} is niet op voorraad`, `${esc(v.colorName)} is out of stock`)}</div>
+        ${out ? `<div class="outline"><div class="outline-t">${IC('flag')} ${L(`${esc(v.colorName || p.name)} is niet op voorraad`, `${esc(v.colorName || p.name)} is out of stock`)}</div>
           <div class="small muted">${L('Gemeld door', 'Reported by')} ${esc(fl.author)}, ${esc(fmtTime(fl.updatedAt))}${fl.comment ? ' · ' + esc(fl.comment) : ''}</div>
           <button class="btn ghost small-btn" data-act="stock" data-v="${esc(v.id)}">${L('Weer op voorraad', 'Back in stock')}</button></div>` : ''}
       </div>
