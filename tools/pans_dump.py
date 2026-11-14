@@ -14,8 +14,9 @@ for i in recs:
     if kl: first = re.sub(re.escape(kl), '', first, flags=re.I)
     h = hashlib.sha1((norm(first) + '||' + norm(' || '.join(paras[1:]))).encode('utf-8')).hexdigest()[:8]
     key = (norm(paras[0]) if paras else '', ' || '.join(paras[1:]), h)
-    g.setdefault(key, []).append(i)
-for n, (k, v) in enumerate(g.items(), 1):
+    g.setdefault(h, []).append((key, i))
+for n, (h, vv) in enumerate(g.items(), 1):
+    k = vv[0][0]; v = [x[1] for x in vv]
     print(f'=== GROEP {n} [{k[2]}]: {len(v)} pagina\'s')
     for i in v[:12]: print('  -', i['name'])
     if len(v) > 12: print(f'  … +{len(v)-12}')

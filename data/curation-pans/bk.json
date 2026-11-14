@@ -1,0 +1,61 @@
+[
+ {
+  "match": [
+   "BK Fortalit braadpan ø (20|22|24|26|28|36) cm plaatstaal zwart"
+  ],
+  "brandID": "bk",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het braden en bakken van gevogelte, vlees en groenten; vanaf ø 24 cm ook voor braadstukken en stoofpotten.",
+  "bullets": [
+   "Zwarte braadpan van geëmailleerd plaatstaal.",
+   "Door het email neemt de pan geen vuil, geur of vet op.",
+   "Voor het braden en bakken van gevogelte, vlees en groenten.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "38990b30",
+   "2d5057e1",
+   "36632b18"
+  ]
+ },
+ {
+  "match": [
+   "BK Fortalit braadslede 40 x 24 cm plaatstaal zwart"
+  ],
+  "brandID": "bk",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Als ovenschaal, bakblik en braadslede, bijvoorbeeld voor braadstukken, lasagne en gegrilde groenten.",
+  "bullets": [
+   "Braadslede van geëmailleerd plaatstaal: goede warmtegeleiding en slijtvast.",
+   "Smaakneutrale emaillelaag: neemt geen vuil, geur of vet op en voorkomt aanbranden.",
+   "Bruikbaar als ovenschaal, bakblik en braadslede.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "cec4b228"
+  ]
+ },
+ {
+  "match": [
+   "BK Fortalit mosselpan ø 22 cm"
+  ],
+  "brandID": "bk",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bereiden en serveren van mosselen.",
+  "bullets": [
+   "Mosselpan van zwart geëmailleerd plaatstaal met een zeer harde emaillelaag: geur- en smaakneutraal en beschermd tegen voedselzuren.",
+   "Het onderste deel is om de mosselen te bereiden; het bovenste deel is schaal voor de schelpen en deksel.",
+   "Vaatwasmachinebestendig; handafwas verlengt de levensduur van de pan."
+  ],
+  "keys": [
+   "080312ed"
+  ]
+ }
+]

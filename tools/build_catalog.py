@@ -24,7 +24,7 @@ COFFEE_TYPES = {'volautomaat', 'halfautomaat', 'filterkoffie'}
 DROP_SPECS = {'Merk', 'Artikelnummer', 'EAN', 'Kleur'}
 CODE = re.compile(r'^\d{5}$')
 NEW_BRANDS = {'rancilio': 'Rancilio', 'solis': 'Solis', 'graef': 'Graef', 'lapiccola': 'La Piccola',
-              '1821': '1821 Gietijzer'}
+              '1821': '1821 Gietijzer', 'bk': 'BK', 'alessi': 'Alessi', 'fbkitchenware': 'FB Kitchenware'}
 # booklet p. 44: which brands the shop sells per machine type
 BOOKLET_BRANDS = {'volautomaat': ['jura', 'nivona', 'smeg'],
                   'halfautomaat': ['ecm', 'isomac', 'lapavoni', 'profitec', 'sage', 'smeg']}

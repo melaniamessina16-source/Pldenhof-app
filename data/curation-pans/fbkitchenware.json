@@ -1,0 +1,86 @@
+[
+ {
+  "match": [
+   "BetBrothers BeSteel Satin koekenpan ø \\d\\d cm ijzer"
+  ],
+  "brandID": "fbkitchenware",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het aanbraden van vlees, roerbakken van groenten en andere bereidingen op hoge temperatuur.",
+  "bullets": [
+   "Koekenpan van natuurlijk ijzer (plaatstaal) met een natuurlijke oliebehandeling en een roestvrijstalen steel met satin afwerking.",
+   "Warmt snel op en is geschikt voor bakken op hoge temperaturen; reageert direct op temperatuurwisselingen.",
+   "Zonder synthetische anti-aanbaklaag: vrij van PTFE, PFOA en andere chemische coatings. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+   "Verkleuringen, vlekken en lichte roestvorming zijn normaal bij plaatstaal en hebben geen invloed op de werking.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+   "Schoonmaken: warm water en een zachte borstel, direct afdrogen en licht invetten met olie tegen roestvorming."
+  ],
+  "keys": [
+   "4dfbb3fc"
+  ]
+ },
+ {
+  "match": [
+   "BetBrothers BeSteel Satin wok ø 26 cm ijzer"
+  ],
+  "brandID": "fbkitchenware",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor snel roerbakken van groenten, vlees, noedels en andere gerechten op hoge temperatuur.",
+  "bullets": [
+   "Wok van natuurlijk ijzer (plaatstaal) met een natuurlijke oliebehandeling en een roestvrijstalen steel met satin afwerking.",
+   "Warmt snel op en reageert direct op temperatuurwisselingen.",
+   "Zonder synthetische anti-aanbaklaag: vrij van PTFE, PFOA en andere chemische coatings. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+   "Verkleuringen, vlekken en lichte roestvorming zijn normaal bij plaatstaal en hebben geen invloed op de werking.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+   "Schoonmaken: warm water en een zachte borstel, direct afdrogen en licht invetten met olie tegen roestvorming."
+  ],
+  "keys": [
+   "057ad936"
+  ]
+ },
+ {
+  "match": [
+   "BetBrothers NeroSteel koekenpan ø \\d\\d cm genitreerd ijzer"
+  ],
+  "brandID": "fbkitchenware",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het aanbraden van vlees, roerbakken van groenten en andere bereidingen op hoge temperatuur.",
+  "bullets": [
+   "Koekenpan van genitreerd zwart ijzer met een roestvrijstalen steel met harde goudkleurige PVD-afwerking.",
+   "Door het nitreren heeft het ijzer een donker oppervlak en een hogere weerstand tegen slijtage en oxidatie.",
+   "Warmt snel op en reageert direct op temperatuurwisselingen.",
+   "Vrij van synthetische anti-aanbaklagen, PTFE, PFOA en nikkelsporen. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+   "Schoonmaken: warm water en een zachte borstel, direct afdrogen en indien nodig licht invetten met olie."
+  ],
+  "keys": [
+   "640ff3fa"
+  ]
+ },
+ {
+  "match": [
+   "BetBrothers NeroSteel wok ø 26 cm genitreerd ijzer"
+  ],
+  "brandID": "fbkitchenware",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor snel roerbakken van groenten, vlees, noedels en andere gerechten op hoge temperatuur.",
+  "bullets": [
+   "Wok van genitreerd zwart ijzer met een roestvrijstalen steel met harde goudkleurige PVD-afwerking.",
+   "Door het nitreren heeft het ijzer een donker oppervlak en een hogere weerstand tegen slijtage en oxidatie.",
+   "Warmt snel op en reageert direct op temperatuurwisselingen.",
+   "Vrij van synthetische anti-aanbaklagen, PTFE, PFOA en nikkelsporen. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+   "Schoonmaken: warm water en een zachte borstel, direct afdrogen en indien nodig licht invetten met olie."
+  ],
+  "keys": [
+   "f1930e88"
+  ]
+ }
+]

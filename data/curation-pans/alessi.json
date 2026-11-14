@@ -1,0 +1,183 @@
+[
+ {
+  "match": [
+   "Alessi AR03 La Cubica kookpan 2,4 liter 21,5 x 17 cm gietaluminium zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het stoven en braden van gerechten.",
+  "bullets": [
+   "Kookpan van zwart gietaluminium met PFOA-vrije anti-aanbaklaag.",
+   "Ontworpen door Aldo Rossi in 1991 en in 2022 opnieuw uitgegeven (jubileum special edition van Alessi).",
+   "Dikke, stalen bodem: geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "052f2336"
+  ]
+ },
+ {
+  "match": [
+   "Alessi DC10[01]/\\d\\d Convivio kookpan ø \\d\\d cm [\\d,]+ liter rvs",
+   "Alessi DC102/\\d\\d Convivio braadpan ø \\d\\d cm [\\d,]+ liter rvs",
+   "Alessi DC105/16 Convivio sauspan ø 16 cm 1,8 liter rvs",
+   "Alessi DC11[04]/\\d\\d Convivio (hoge )?koekenpan ø \\d\\d cm rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Convivio is ontworpen door David Chipperfield.",
+   "Roestvrij staal met een aluminium kern in de bodem: 5-laags materiaal met uitstekende warmteverdeling door de hele pan.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Een deksel voor deze pan is apart verkrijgbaar.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "311e810f",
+   "cc2354a4",
+   "d08c8b37",
+   "1f403874",
+   "aedc84cf"
+  ]
+ },
+ {
+  "match": [
+   "Alessi DC100S7 Convivio pannenset rvs 4-delig"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Set met 7 delen: 4 pannen en 3 deksels: soeppan ø 20 cm met deksel, kookpan ø 20 cm, braadpan ø 24 cm met deksel, steelpan ø 16 cm met deksel.",
+   "Ontworpen door David Chipperfield; roestvrij staal met een aluminium kern in de bodem.",
+   "5-laags materiaal: uitstekende warmteverdeling; geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "5dd6701e"
+  ],
+  "mismatches": [
+   {
+    "topic": "Alessi Convivio pannenset: aantal delen",
+    "websiteSays": "De naam zegt 4-delig; de specificaties en de beschrijving noemen 7 delen (4 pannen en 3 deksels).",
+    "note": "De lijst met onderdelen in de beschrijving telt 4 pannen waarvan 3 met deksel."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Alessi Edo pannenset rvs 7-delig"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor dagelijkse kookwerkzaamheden.",
+  "bullets": [
+   "Set van 7 delen, ontworpen door Patricia Urquiola: lage kookpan ø 20 cm (2,8 liter), lage kook-/stoofpan ø 24 cm (3,25 liter), soeppan ø 20 cm (4,9 liter), sauspan ø 16 cm (1,3 liter) en deksels ø 16, 20 en 24 cm.",
+   "Volledig roestvrij staal; de stalen bodems zijn geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "De handgrepen zijn roestvrij staal met een PVD-coating: andere uitstraling en beter bestand tegen gebruikssporen en krassen."
+  ],
+  "keys": [
+   "03160556"
+  ]
+ },
+ {
+  "match": [
+   "Alessi Mami pannenset rvs 7-delig"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor dagelijkse gerechten, ook soepen en gerechten die lang en langzaam garen.",
+  "bullets": [
+   "Set van 7 delen, ontworpen door Stefano Giovannoni: (soep)pan ø 20,5 cm (5,6 liter), kookpan ø 20 cm (3,1 liter) met deksel, lage kookpan ø 24 cm (2,8 liter) met deksel, steelpan ø 14,5 cm (1,0 liter) met deksel.",
+   "Rvs met een aluminium kern in de bodem: geleidt warmte zeer goed en gelijkmatig.",
+   "Geschikt voor gas, elektrisch, keramisch, halogeen en inductie.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "554730ee"
+  ]
+ },
+ {
+  "match": [
+   "Alessi Pots & Pans koekenpan ø 20 cm rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken van vlees, aardappels of gevogelte.",
+  "bullets": [
+   "Koekenpan van roestvrij staal met een aluminium kern; ontworpen door Jasper Morrison.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4774eeae"
+  ]
+ },
+ {
+  "match": [
+   "Alessi Pots & Pans pannenset gerecycled aluminium 6-delig"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor dagelijkse kookwerkzaamheden.",
+  "bullets": [
+   "Zwarte set van 6 delen van gerecycled aluminium, ontworpen door Jasper Morrison: kookpan ø 20 cm, kookpan ø 24 cm, hapjespan ø 20 cm, braadpan ø 16 cm en deksels ø 20 en 24 cm.",
+   "Aan de binnenzijde een anti-aanbaklaag.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "02785958"
+  ]
+ },
+ {
+  "match": [
+   "Alessi Pots & Pans pannenset rvs 7-delig"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor dagelijkse kookwerkzaamheden.",
+  "bullets": [
+   "Set van 7 delen, ontworpen door Jasper Morrison: kookpan ø 20 cm, kookpan ø 24 cm, soeppan ø 20 cm, sauspan ø 16 cm en deksels ø 16, 20 en 24 cm.",
+   "Roestvrij staal met aluminium bodems: geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "47b71083"
+  ]
+ },
+ {
+  "match": [
+   "Alessi Pots & Pans pannenset rvs 9-delig"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor dagelijkse kookwerkzaamheden.",
+  "bullets": [
+   "Set van 9 delen, ontworpen door Jasper Morrison: kookpannen ø 16, 20 en 24 cm, soeppan ø 20 cm, melkpan, sauspan ø 16 cm en deksels ø 16, 20 en 24 cm.",
+   "Roestvrij staal met aluminium bodems: geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a7c1a611"
+  ]
+ }
+]

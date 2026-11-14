@@ -842,6 +842,18 @@
   {
    "id": "1821",
    "name": "1821 Gietijzer"
+  },
+  {
+   "id": "bk",
+   "name": "BK"
+  },
+  {
+   "id": "alessi",
+   "name": "Alessi"
+  },
+  {
+   "id": "fbkitchenware",
+   "name": "FB Kitchenware"
   }
  ],
  "products": [
@@ -8688,6 +8700,2369 @@
     "checkedOn": "2026-11-12"
    },
    "mismatchIDs": null
+  },
+  {
+   "id": "alessi-ar03-la-cubica-kookpan-2-4-liter-21-5-x-17-cm-gietaluminium-zwart",
+   "name": "Alessi AR03 La Cubica kookpan 2,4 liter 21,5 x 17 cm gietaluminium zwart",
+   "brandID": "alessi",
+   "typeIDs": [
+    "aluminium-antiaanbak"
+   ],
+   "suitedFor": {
+    "text": "Voor het stoven en braden van gerechten.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/alessi-ar03-la-cubica-kookpan-2-4-liter-21-5-x-17-cm-gietaluminium-zwart",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Kookpan van zwart gietaluminium met PFOA-vrije anti-aanbaklaag.",
+    "Ontworpen door Aldo Rossi in 1991 en in 2022 opnieuw uitgegeven (jubileum special edition van Alessi).",
+    "Dikke, stalen bodem: geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Schoonmaken: warm water en afwasmiddel."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "aluminium"
+    },
+    {
+     "label": "Lengte",
+     "value": "17 cm"
+    },
+    {
+     "label": "Breedte",
+     "value": "21,5 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "19 cm"
+    },
+    {
+     "label": "Inhoud",
+     "value": "2,4 liter"
+    },
+    {
+     "label": "Reiniging",
+     "value": "handafwas"
+    },
+    {
+     "label": "Ontwerper",
+     "value": "Aldo Rossi"
+    }
+   ],
+   "originalDescription": "Alessi viert in 2021 het 100-jarig jubileum en om deze mijlpaal te vieren, brengt het merk iedere maand een special edition op de markt. Deze Alessi AR03 La Cubica kookpan is ontworpen als één van deze jubileumproducten.\n\nDe Alessi AR03 La Cubica kookpan is gemaakt van zwart gietaluminium, heeft een afmeting van 21,5 x 17 cm en een inhoud van 2,4 liter. De door Aldo Rossi ontworpen kookpan is ontworpen in 1991 en wordt in 2022 opnieuw uitgegeven. Gebruik de La Cubica kookpan met anti-aanbaklaag voor het stoven en braden van uw gerechten.\n\nAlessi AR03 La Cubica kookpan\n\nDe Alessi La Cubica kookpan is gemaakt van zwart aluminium en bevat een PFOA-vrije anti-aanbaklaag. De dikke, stalen bodem leent uitstekend voor het koken op alle warmtebronnen inclusief inductie. Reinig de Alessi La Cubica kookpan met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "alessi-ar03-la-cubica-kookpan-2-4-liter-21-5-x-17-cm-gietaluminium-zwart",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299456024",
+     "articleNumber": "AR03",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/2/3/2353568_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/alessi-ar03-la-cubica-kookpan-2-4-liter-21-5-x-17-cm-gietaluminium-zwart"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-ar03-la-cubica-kookpan-2-4-liter-21-5-x-17-cm-gietaluminium-zwart",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-alessi-ar03-la-cubica-kookpan-2-4-liter-21-5-x-17-cm-gietaluminium-zwart-codes"
+   ]
+  },
+  {
+   "id": "alessi-dc100-20-convivio-kookpan-20-cm-5-7-liter-rvs",
+   "name": "Alessi DC100/20 Convivio kookpan ø 20 cm 5,7 liter rvs",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Convivio is ontworpen door David Chipperfield.",
+    "Roestvrij staal met een aluminium kern in de bodem: 5-laags materiaal met uitstekende warmteverdeling door de hele pan.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Een deksel voor deze pan is apart verkrijgbaar.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "20 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    }
+   ],
+   "originalDescription": "De Alessi Convivio kookpan is vervaardigd uit roestvrij staal met een aluminium kern in de bodem. De kookpan heeft een diameter van 20 cm en een inhoud van 5,7 liter. Gebruik de kookpan voor het koken van diverse ingrediënten. Een deksel voor deze pan is apart verkrijgbaar.\n\nAlessi Convivio pannen\n\nDe Alessi Convivio pannen zijn ontworpen door de bekende designer David Chipperfield. De pannen zijn opgebouwd uit een 5-laags materiaal bestaande uit een buitenlaag van roestvrij staal en binnenlagen van staal en aluminium. Dit materiaal zorgt voor een uitstekende warmteverdeling door de gehele pan. Dankzij dit materiaal zijn de pannen geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De Alessi Convivio pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-dc100-20-convivio-kookpan-20-cm-5-7-liter-rvs",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299478149",
+     "articleNumber": "DC100/20",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/6/1696708751conviviodc10020alessi.png",
+     "productURL": "https://www.kookwinkel.nl/alessi-dc100-20-convivio-kookpan-20-cm-5-7-liter-rvs-45104-0001055676"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-dc100-20-convivio-kookpan-20-cm-5-7-liter-rvs-45104-0001055676",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-alessi-dc100-20-convivio-kookpan-20-cm-5-7-liter-rvs-codes"
+   ]
+  },
+  {
+   "id": "alessi-dc100-24-convivio-kookpan-24-cm-10-liter-rvs",
+   "name": "Alessi DC100/24 Convivio kookpan ø 24 cm 10 liter rvs",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Convivio is ontworpen door David Chipperfield.",
+    "Roestvrij staal met een aluminium kern in de bodem: 5-laags materiaal met uitstekende warmteverdeling door de hele pan.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Een deksel voor deze pan is apart verkrijgbaar.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "24 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    },
+    {
+     "label": "Soort pan",
+     "value": "Kookpan"
+    }
+   ],
+   "originalDescription": "De Alessi Convivio kookpan is vervaardigd uit roestvrij staal met een aluminium kern in de bodem. De kookpan heeft een diameter van 24 cm en een inhoud van 10 liter. Gebruik de kookpan voor het koken van diverse ingrediënten. Een deksel voor deze pan is apart verkrijgbaar.\n\nAlessi Convivio pannen\n\nDe Alessi Convivio pannen zijn ontworpen door de bekende designer David Chipperfield. De pannen zijn opgebouwd uit een 5-laags materiaal bestaande uit een buitenlaag van roestvrij staal en binnenlagen van staal en aluminium. Dit materiaal zorgt voor een uitstekende warmteverdeling door de gehele pan. Dankzij dit materiaal zijn de pannen geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De Alessi Convivio pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-dc100-24-convivio-kookpan-24-cm-10-liter-rvs",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299478156",
+     "articleNumber": "DC100/24",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/6/1696751032conviviodc10024alessi.png",
+     "productURL": "https://www.kookwinkel.nl/alessi-dc100-24-convivio-kookpan-24-cm-10-liter-rvs-45104-0001055677"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-dc100-24-convivio-kookpan-24-cm-10-liter-rvs-45104-0001055677",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "alessi-dc101-20-convivio-kookpan-20-cm-3-1-liter-rvs",
+   "name": "Alessi DC101/20 Convivio kookpan ø 20 cm 3,1 liter rvs",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Convivio is ontworpen door David Chipperfield.",
+    "Roestvrij staal met een aluminium kern in de bodem: 5-laags materiaal met uitstekende warmteverdeling door de hele pan.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Een deksel voor deze pan is apart verkrijgbaar.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "20 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    }
+   ],
+   "originalDescription": "De Alessi Convivio kookpan is vervaardigd uit roestvrij staal met een aluminium kern in de bodem. De kookpan heeft een diameter van 20 cm en een inhoud van 3,1 liter. Gebruik de kookpan voor het koken van diverse ingrediënten. Een deksel voor deze pan is apart verkrijgbaar.\n\nAlessi Convivio pannen\n\nDe Alessi Convivio pannen zijn ontworpen door de bekende designer David Chipperfield. De pannen zijn opgebouwd uit een 5-laags materiaal bestaande uit een buitenlaag van roestvrij staal en binnenlagen van staal en aluminium. Dit materiaal zorgt voor een uitstekende warmteverdeling door de gehele pan. Dankzij dit materiaal zijn de pannen geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De Alessi Convivio pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-dc101-20-convivio-kookpan-20-cm-3-1-liter-rvs",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299478125",
+     "articleNumber": "DC101/20",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/6/1696748882conviviodc10120alessi.png",
+     "productURL": "https://www.kookwinkel.nl/alessi-dc101-20-convivio-kookpan-20-cm-3-1-liter-rvs-45104-0001055678"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-dc101-20-convivio-kookpan-20-cm-3-1-liter-rvs-45104-0001055678",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-alessi-dc101-20-convivio-kookpan-20-cm-3-1-liter-rvs-codes"
+   ]
+  },
+  {
+   "id": "alessi-dc101-24-convivio-kookpan-24-cm-5-4-liter-rvs",
+   "name": "Alessi DC101/24 Convivio kookpan ø 24 cm 5,4 liter rvs",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Convivio is ontworpen door David Chipperfield.",
+    "Roestvrij staal met een aluminium kern in de bodem: 5-laags materiaal met uitstekende warmteverdeling door de hele pan.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Een deksel voor deze pan is apart verkrijgbaar.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "24 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    }
+   ],
+   "originalDescription": "De Alessi Convivio kookpan is vervaardigd uit roestvrij staal met een aluminium kern in de bodem. De kookpan heeft een diameter van 24 cm en een inhoud van 5,4 liter. Gebruik de kookpan voor het koken van diverse ingrediënten. Een deksel voor deze pan is apart verkrijgbaar.\n\nAlessi Convivio pannen\n\nDe Alessi Convivio pannen zijn ontworpen door de bekende designer David Chipperfield. De pannen zijn opgebouwd uit een 5-laags materiaal bestaande uit een buitenlaag van roestvrij staal en binnenlagen van staal en aluminium. Dit materiaal zorgt voor een uitstekende warmteverdeling door de gehele pan. Dankzij dit materiaal zijn de pannen geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De Alessi Convivio pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-dc101-24-convivio-kookpan-24-cm-5-4-liter-rvs",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299478132",
+     "articleNumber": "DC101/24",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/6/1696763278conviviodc10124alessi2.png",
+     "productURL": "https://www.kookwinkel.nl/alessi-dc101-24-convivio-kookpan-24-cm-5-4-liter-rvs-45104-0001055679"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-dc101-24-convivio-kookpan-24-cm-5-4-liter-rvs-45104-0001055679",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-alessi-dc101-24-convivio-kookpan-24-cm-5-4-liter-rvs-codes"
+   ]
+  },
+  {
+   "id": "alessi-dc102-24-convivio-braadpan-24-cm-2-7-liter-rvs",
+   "name": "Alessi DC102/24 Convivio braadpan ø 24 cm 2,7 liter rvs",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Convivio is ontworpen door David Chipperfield.",
+    "Roestvrij staal met een aluminium kern in de bodem: 5-laags materiaal met uitstekende warmteverdeling door de hele pan.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Een deksel voor deze pan is apart verkrijgbaar.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "24 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    }
+   ],
+   "originalDescription": "De Alessi Convivio braadpan is vervaardigd uit roestvrij staal met een aluminium kern in de bodem. De braadpan heeft een diameter van 24 cm en een inhoud van 2,7 liter. Gebruik de braadpan voor het bakken en braden van diverse ingrediënten. Een deksel voor deze pan is apart verkrijgbaar.\n\nAlessi Convivio pannen\n\nDe Alessi Convivio pannen zijn ontworpen door de bekende designer David Chipperfield. De pannen zijn opgebouwd uit een 5-laags materiaal bestaande uit een buitenlaag van roestvrij staal en binnenlagen van staal en aluminium. Dit materiaal zorgt voor een uitstekende warmteverdeling door de gehele pan. Dankzij dit materiaal zijn de pannen geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De Alessi Convivio pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-dc102-24-convivio-braadpan-24-cm-2-7-liter-rvs",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299478101",
+     "articleNumber": "DC102/24",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/6/1696749125conviviodc10224alessi.png",
+     "productURL": "https://www.kookwinkel.nl/alessi-dc102-24-convivio-braadpan-24-cm-2-7-liter-rvs-45104-0001055680"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-dc102-24-convivio-braadpan-24-cm-2-7-liter-rvs-45104-0001055680",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-alessi-dc102-24-convivio-braadpan-24-cm-2-7-liter-rvs-codes"
+   ]
+  },
+  {
+   "id": "alessi-dc102-28-convivio-braadpan-28-cm-3-7-liter-rvs",
+   "name": "Alessi DC102/28 Convivio braadpan ø 28 cm 3,7 liter rvs",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Convivio is ontworpen door David Chipperfield.",
+    "Roestvrij staal met een aluminium kern in de bodem: 5-laags materiaal met uitstekende warmteverdeling door de hele pan.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Een deksel voor deze pan is apart verkrijgbaar.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "28 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    }
+   ],
+   "originalDescription": "De Alessi Convivio braadpan is vervaardigd uit roestvrij staal met een aluminium kern in de bodem. De braadpan heeft een diameter van 28 cm en een inhoud van 3,7 liter. Gebruik de braadpan voor het bakken en braden van diverse ingrediënten. Een deksel voor deze pan is apart verkrijgbaar.\n\nAlessi Convivio pannen\n\nDe Alessi Convivio pannen zijn ontworpen door de bekende designer David Chipperfield. De pannen zijn opgebouwd uit een 5-laags materiaal bestaande uit een buitenlaag van roestvrij staal en binnenlagen van staal en aluminium. Dit materiaal zorgt voor een uitstekende warmteverdeling door de gehele pan. Dankzij dit materiaal zijn de pannen geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De Alessi Convivio pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-dc102-28-convivio-braadpan-28-cm-3-7-liter-rvs",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299478118",
+     "articleNumber": "DC102/28",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/6/1696750417conviviodc10228alessi.png",
+     "productURL": "https://www.kookwinkel.nl/alessi-dc102-28-convivio-braadpan-28-cm-3-7-liter-rvs-45104-0001055681"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-dc102-28-convivio-braadpan-28-cm-3-7-liter-rvs-45104-0001055681",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-alessi-dc102-28-convivio-braadpan-28-cm-3-7-liter-rvs-codes"
+   ]
+  },
+  {
+   "id": "alessi-dc105-16-convivio-sauspan-16-cm-1-8-liter-rvs",
+   "name": "Alessi DC105/16 Convivio sauspan ø 16 cm 1,8 liter rvs",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Convivio is ontworpen door David Chipperfield.",
+    "Roestvrij staal met een aluminium kern in de bodem: 5-laags materiaal met uitstekende warmteverdeling door de hele pan.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Een deksel voor deze pan is apart verkrijgbaar.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "16 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    },
+    {
+     "label": "Soort pan",
+     "value": "sauspannen"
+    }
+   ],
+   "originalDescription": "De Alessi Convivio sauspan is vervaardigd uit roestvrij staal met een aluminium kern in de bodem. De steelpan heeft een diameter van 16 cm en een inhoud van 1,8 liter. Gebruik de steelpan voor het koken van diverse ingrediënten of het maken van sauzen. Een deksel voor deze pan is apart verkrijgbaar.\n\nAlessi Convivio pannen\n\nDe Alessi Convivio pannen zijn ontworpen door de bekende designer David Chipperfield. De pannen zijn opgebouwd uit een 5-laags materiaal bestaande uit een buitenlaag van roestvrij staal en binnenlagen van staal en aluminium. Dit materiaal zorgt voor een uitstekende warmteverdeling door de gehele pan. Dankzij dit materiaal zijn de pannen geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De Alessi Convivio pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-dc105-16-convivio-sauspan-16-cm-1-8-liter-rvs",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299478095",
+     "articleNumber": "DC105/16",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/6/1696764054conviviosauspandc10516alessi.png",
+     "productURL": "https://www.kookwinkel.nl/alessi-dc105-16-convivio-sauspan-16-cm-1-8-liter-rvs-45104-0001055682"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-dc105-16-convivio-sauspan-16-cm-1-8-liter-rvs-45104-0001055682",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "alessi-dc110-24-convivio-koekenpan-24-cm-rvs",
+   "name": "Alessi DC110/24 Convivio koekenpan ø 24 cm rvs",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Convivio is ontworpen door David Chipperfield.",
+    "Roestvrij staal met een aluminium kern in de bodem: 5-laags materiaal met uitstekende warmteverdeling door de hele pan.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Een deksel voor deze pan is apart verkrijgbaar.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "24 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    },
+    {
+     "label": "Soort pan",
+     "value": "koekenpannen"
+    }
+   ],
+   "originalDescription": "De Alessi Convivio koekenpan is vervaardigd uit roestvrij staal met een aluminium kern in de bodem. De koekenpan heeft een diameter van 24 cm. Gebruik de koekenpan voor het bakken van diverse ingrediënten. Een deksel voor deze pan is apart verkrijgbaar.\n\nAlessi Convivio pannen\n\nDe Alessi Convivio pannen zijn ontworpen door de bekende designer David Chipperfield. De pannen zijn opgebouwd uit een 5-laags materiaal bestaande uit een buitenlaag van roestvrij staal en binnenlagen van staal en aluminium. Dit materiaal zorgt voor een uitstekende warmteverdeling door de gehele pan. Dankzij dit materiaal zijn de pannen geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De Alessi Convivio pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-dc110-24-convivio-koekenpan-24-cm-rvs",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299478088",
+     "articleNumber": "DC110/24",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/6/1696768189conviviokoekenpandc11024alessi.png",
+     "productURL": "https://www.kookwinkel.nl/alessi-dc110-24-convivio-koekenpan-24-cm-rvs-45104-0001055683"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-dc110-24-convivio-koekenpan-24-cm-rvs-45104-0001055683",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "alessi-dc110-28-convivio-koekenpan-28-cm-rvs",
+   "name": "Alessi DC110/28 Convivio koekenpan ø 28 cm rvs",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Convivio is ontworpen door David Chipperfield.",
+    "Roestvrij staal met een aluminium kern in de bodem: 5-laags materiaal met uitstekende warmteverdeling door de hele pan.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Een deksel voor deze pan is apart verkrijgbaar.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "28 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    },
+    {
+     "label": "Soort pan",
+     "value": "koekenpannen"
+    }
+   ],
+   "originalDescription": "De Alessi Convivio koekenpan is vervaardigd uit roestvrij staal met een aluminium kern in de bodem. De koekenpan heeft een diameter van 28 cm. Gebruik de koekenpan voor het bakken van diverse ingrediënten. Een deksel voor deze pan is apart verkrijgbaar.\n\nAlessi Convivio pannen\n\nDe Alessi Convivio pannen zijn ontworpen door de bekende designer David Chipperfield. De pannen zijn opgebouwd uit een 5-laags materiaal bestaande uit een buitenlaag van roestvrij staal en binnenlagen van staal en aluminium. Dit materiaal zorgt voor een uitstekende warmteverdeling door de gehele pan. Dankzij dit materiaal zijn de pannen geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De Alessi Convivio pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-dc110-28-convivio-koekenpan-28-cm-rvs",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299478071",
+     "articleNumber": "DC110/28",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/6/1696768592conviviokoekenpandc11028alessi.png",
+     "productURL": "https://www.kookwinkel.nl/alessi-dc110-28-convivio-koekenpan-28-cm-rvs-45104-0001055684"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-dc110-28-convivio-koekenpan-28-cm-rvs-45104-0001055684",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "alessi-dc114-28-convivio-hoge-koekenpan-28-cm-rvs",
+   "name": "Alessi DC114/28 Convivio hoge koekenpan ø 28 cm rvs",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Convivio is ontworpen door David Chipperfield.",
+    "Roestvrij staal met een aluminium kern in de bodem: 5-laags materiaal met uitstekende warmteverdeling door de hele pan.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Een deksel voor deze pan is apart verkrijgbaar.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "28 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    },
+    {
+     "label": "Soort pan",
+     "value": "koekenpannen"
+    }
+   ],
+   "originalDescription": "De Alessi Convivio hoge koekenpan is vervaardigd uit roestvrij staal met een aluminium kern in de bodem. De koekenpan heeft een diameter van 28 cm. Gebruik de koekenpan voor het bakken en sauteren van diverse ingrediënten. Een deksel voor deze pan is apart verkrijgbaar.\n\nAlessi Convivio pannen\n\nDe Alessi Convivio pannen zijn ontworpen door de bekende designer David Chipperfield. De pannen zijn opgebouwd uit een 5-laags materiaal bestaande uit een buitenlaag van roestvrij staal en binnenlagen van staal en aluminium. Dit materiaal zorgt voor een uitstekende warmteverdeling door de gehele pan. Dankzij dit materiaal zijn de pannen geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De Alessi Convivio pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-dc114-28-convivio-hoge-koekenpan-28-cm-rvs",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299478064",
+     "articleNumber": "DC114/28",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/6/1696768981conviviohapjespandc11428alessi.png",
+     "productURL": "https://www.kookwinkel.nl/alessi-dc114-28-convivio-hoge-koekenpan-28-cm-rvs-45104-0001055685"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-dc114-28-convivio-hoge-koekenpan-28-cm-rvs-45104-0001055685",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "alessi-dc100s7-convivio-pannenset-rvs-4-delig",
+   "name": "Alessi DC100S7 Convivio pannenset rvs 4-delig",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Set met 7 delen: 4 pannen en 3 deksels: soeppan ø 20 cm met deksel, kookpan ø 20 cm, braadpan ø 24 cm met deksel, steelpan ø 16 cm met deksel.",
+    "Ontworpen door David Chipperfield; roestvrij staal met een aluminium kern in de bodem.",
+    "5-laags materiaal: uitstekende warmteverdeling; geschikt voor alle warmtebronnen, inclusief inductie.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Aantal delen",
+     "value": "7"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    }
+   ],
+   "originalDescription": "De Alessi Convivio pannenset is vervaardigd uit roestvrij staal met een aluminium kern in de bodem en bestaat uit 7 delen, 4 pannen en 3 deksels. Hierdoor is er voor vrijwel alle gerechten een geschikte optie beschikbaar. De set is ontworpen door David Chipperfield en geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De pannenset bestaat uit de volgende pannen:\n\nSoeppan ø 20 cm met deksel.\n\nKookpan ø 20 cm.\n\nBraadpan ø 24 cm met deksel.\n\nSteelpan ø 16 cm met deksel.\n\nAlessi Convivio pannen\n\nDe Alessi Convivio pannen zijn ontworpen door de bekende designer David Chipperfield. De pannen zijn opgebouwd uit een 5-laags materiaal bestaande uit een buitenlaag van roestvrij staal en binnenlagen van staal en aluminium. Dit materiaal zorgt voor een uitstekende warmteverdeling door de gehele pan. Dankzij dit materiaal zijn de pannen geschikt voor het gebruik op alle warmtebronnen, inclusief inductie. De Alessi Convivio pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-dc100s7-convivio-pannenset-rvs-4-delig",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299478170",
+     "articleNumber": "DC100S7",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/6/1696708740alessiconviviodc100s7vrijstaand.png",
+     "productURL": "https://www.kookwinkel.nl/alessi-dc100s7-convivio-pannenset-rvs-4-delig-45104-0001055675"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-dc100s7-convivio-pannenset-rvs-4-delig-45104-0001055675",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-alessi-dc100s7-convivio-pannenset-rvs-4-delig-1"
+   ]
+  },
+  {
+   "id": "alessi-edo-pannenset-rvs-7-delig",
+   "name": "Alessi Edo pannenset rvs 7-delig",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor dagelijkse kookwerkzaamheden.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/alessi-edo-pannenset-rvs-7-delig",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Set van 7 delen, ontworpen door Patricia Urquiola: lage kookpan ø 20 cm (2,8 liter), lage kook-/stoofpan ø 24 cm (3,25 liter), soeppan ø 20 cm (4,9 liter), sauspan ø 16 cm (1,3 liter) en deksels ø 16, 20 en 24 cm.",
+    "Volledig roestvrij staal; de stalen bodems zijn geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+    "De handgrepen zijn roestvrij staal met een PVD-coating: andere uitstraling en beter bestand tegen gebruikssporen en krassen."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Aantal delen",
+     "value": "7"
+    },
+    {
+     "label": "Reiniging",
+     "value": "handafwas"
+    }
+   ],
+   "originalDescription": "De Alessi Edo pannenset is ontworpen door Patricia Urquiola en bestaat uit 7 delen. Gebruik de set voor uw dagelijkse kookwerkzaamheden. De Alessi Edo pannenset bestaat uit de volgende onderdelen:\n\n1 x lage kookpan ø 20 cm, 2,8 liter.\n\n1 x lage kook- / stoofpan ø 24 cm, 3,25 liter.\n\n1 x soeppan ø 20 cm, 4,9 liter.\n\n1 x sauspan ø 16 cm, 1,3 liter.\n\n1 x deksel ø 16 cm.\n\n1 x deksel ø 20 cm.\n\n1 x deksel ø 24 cm.\n\nAlessi Edo pannenset\n\nDe Alessi Edo pannenset is volledig vervaardigd uit roestvrij staal. De stalen bodems in de pannen maken deze geschikt voor gebruik op alle warmtebronnen, inclusief inductie en de oven. De handgrepen van de pannen zijn eveneens gemaakt van roestvrij staal, maar voorzien van een PVD coating. Daardoor hebben deze een andere uitstraling en zijn ze nog beter bestand tegen gebruikssporen en krassen. Gebruik voor uw dagelijkse kookwerkzaamheden.\n\nDe naam van de serie Edo is een woordspeling die enerzijds refereert aan een vervoeging het Latijnse 'edere', wat eten betekent, en de oude naam van de Japanse hoofdstad Tokyo anderzijds. De eenvoud van haar ontwerp baseerde Urquiola op de Japanse ontwerptraditie. Haar Baskische afkomst komt terug in het ontwerp van de deksels, die aan een Baskische baret doen denken. Het deksel loopt iets hol, waardoor het kan worden gebruikt om een lepel op te leggen.\n\nReinig de Alessi Edo pannenset met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "alessi-edo-pannenset-rvs-7-delig",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299430475",
+     "articleNumber": "PU100S7",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/e/d/edo-pannenset.jpg",
+     "productURL": "https://www.kookwinkel.nl/alessi-edo-pannenset-rvs-7-delig"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-edo-pannenset-rvs-7-delig",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "alessi-mami-pannenset-rvs-7-delig",
+   "name": "Alessi Mami pannenset rvs 7-delig",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor dagelijkse gerechten, ook soepen en gerechten die lang en langzaam garen.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/alessi-mami-pannenset-rvs-4-delig",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Set van 7 delen, ontworpen door Stefano Giovannoni: (soep)pan ø 20,5 cm (5,6 liter), kookpan ø 20 cm (3,1 liter) met deksel, lage kookpan ø 24 cm (2,8 liter) met deksel, steelpan ø 14,5 cm (1,0 liter) met deksel.",
+    "Rvs met een aluminium kern in de bodem: geleidt warmte zeer goed en gelijkmatig.",
+    "Geschikt voor gas, elektrisch, keramisch, halogeen en inductie.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Serie",
+     "value": "Alessi Mami"
+    },
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Aantal delen",
+     "value": "7"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch, oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    }
+   ],
+   "originalDescription": "De Alessi Mami pannenset is vervaardigd uit rvs, heeft een aluminium kern in de bodem en bestaat uit 7 onderdelen. Hierdoor is er voor vrijwel alle gerechten een geschikte optie beschikbaar. De set is ontworpen door Stefano Giovannoni.\n\nMaak voor het bereiden van uw dagelijkse gerechten een keuze uit:\n\n1x (soep)pan ø 20,5 cm / 5,6 liter\n\n1x kookpan ø 20cm / 3,1 liter + deksel ø 20cm\n\n1x lage kookpan ø 24cm / 2,8 liter + deksel ø 24cm\n\n1x steelpan ø 14,5cm / 1,0 liter + deksel ø 14cm\n\nAlessi Mami pannenset\n\nDe Alessi Mami pannenset is volledig vervaardigd rvs, met een kern in de bodem van aluminium. Dit materiaal geleidt warmte zeer goed en gelijkmatig, waardoor de pan geschikt is voor het maken van soepen en andere gerechten die lang en langzaam moeten garen. De Mami pannenset is ontworpen door Stefano Giovannoni en is geschikt voor gebruik op gas, elektrisch, keramisch, halogeen en inductie. De Alessi Mami pannen zijn vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "alessi-mami-pannenset-rvs-7-delig",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299382668",
+     "articleNumber": "SG100S7",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/m/a/mami-pannenset-sg100s7.jpg",
+     "productURL": "https://www.kookwinkel.nl/alessi-mami-pannenset-rvs-4-delig"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-mami-pannenset-rvs-4-delig",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "alessi-pots-pans-koekenpan-20-cm-rvs",
+   "name": "Alessi Pots & Pans koekenpan ø 20 cm rvs",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het bakken van vlees, aardappels of gevogelte.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/alessi-pots-pans-koekenpan-o-20-cm-rvs",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Koekenpan van roestvrij staal met een aluminium kern; ontworpen door Jasper Morrison.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+    "Schoonmaken: warm water en afwasmiddel."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "20 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "7,5 cm"
+    },
+    {
+     "label": "Inhoud",
+     "value": "1 liter"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch, oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "handafwas"
+    },
+    {
+     "label": "Ontwerper",
+     "value": "Jasper Morrison"
+    },
+    {
+     "label": "Totale lengte",
+     "value": "50 cm"
+    },
+    {
+     "label": "Soort pan",
+     "value": "koekenpannen"
+    }
+   ],
+   "originalDescription": "De Alessi Pots & Pans koekenpan is vervaardigd uit roestvrij staal en heeft een diameter van 20 cm. De koekenpan is te gebruiken op alle warmtebronnen, inclusief inductie en de oven. Ontworpen door Jasper Morrison.\n\nAlessi Pots & Pans koekenpan\n\nDe Alessi Pots & Pans koekenpan is vervaardigd uit roestvrij staal. De aluminium kern zorgt ervoor dat de pan geschikt is voor gebruik op alle warmtebronnen, inclusief inductie en de oven. De Pots & Pans serie is ontworpen door Jasper Morrison. Gebruik de Alessi koekenpan voor het bakken van vlees, aardappels of gevogelte. Reinig de Alessi Pots & Pans koekenpan met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "alessi-pots-pans-koekenpan-20-cm-rvs",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299924240",
+     "articleNumber": "AJM110/20",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/8/4/1978_84147_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/alessi-pots-pans-koekenpan-o-20-cm-rvs"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-pots-pans-koekenpan-o-20-cm-rvs",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "alessi-pots-pans-pannenset-gerecycled-aluminium-6-delig",
+   "name": "Alessi Pots & Pans pannenset gerecycled aluminium 6-delig",
+   "brandID": "alessi",
+   "typeIDs": [
+    "aluminium-antiaanbak"
+   ],
+   "suitedFor": {
+    "text": "Voor dagelijkse kookwerkzaamheden.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/alessi-pots-pans-pannenset-gerecycled-aluminium-6-delig",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Zwarte set van 6 delen van gerecycled aluminium, ontworpen door Jasper Morrison: kookpan ø 20 cm, kookpan ø 24 cm, hapjespan ø 20 cm, braadpan ø 16 cm en deksels ø 20 en 24 cm.",
+    "Aan de binnenzijde een anti-aanbaklaag.",
+    "Schoonmaken: warm water en afwasmiddel."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "aluminium"
+    },
+    {
+     "label": "Aantal delen",
+     "value": "6"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    }
+   ],
+   "originalDescription": "De zwarte Alessi Pots & Pans pannenset is ontworpen door Jasper Morrison en bestaat uit 6 delen. Gebruik de set voor uw dagelijkse kookwerkzaamheden. De Alessi Pots & Pans pannenset is vervaardigd van gerecycled aluminium en bestaat uit de volgende onderdelen:\n\n1 x kookpan ø 20 cm\n\n1 x kookpan ø 24 cm\n\n1 x hapjespan ø 20 cm\n\n1 x braadpan ø 16 cm\n\n1 x deksel ø 20 cm\n\n1 x deksel ø 24 cm\n\nAlessi Pots & Pans pannenset\n\nDe Alessi Pots & Pans pannenset is volledig vervaardigd uit aluminium. De Pots & Pans pannen zijn ontworpen door Jasper Morrison. Aan de binnenzijde zijn de pannen voorzien van een anti-aanbaklaag. Gebruik voor uw dagelijkse kookwerkzaamheden. Reinig de Alessi Pots & Pans pannenset met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "alessi-pots-pans-pannenset-gerecycled-aluminium-6-delig",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299446261",
+     "articleNumber": "AJM100S6 A",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/r/e/rec_pan.jpg",
+     "productURL": "https://www.kookwinkel.nl/alessi-pots-pans-pannenset-gerecycled-aluminium-6-delig"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-pots-pans-pannenset-gerecycled-aluminium-6-delig",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "alessi-pots-pans-pannenset-rvs-7-delig",
+   "name": "Alessi Pots & Pans pannenset rvs 7-delig",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor dagelijkse kookwerkzaamheden.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/alessi-pots-pans-pannenset-rvs-7-delig",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Set van 7 delen, ontworpen door Jasper Morrison: kookpan ø 20 cm, kookpan ø 24 cm, soeppan ø 20 cm, sauspan ø 16 cm en deksels ø 16, 20 en 24 cm.",
+    "Roestvrij staal met aluminium bodems: geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+    "Schoonmaken: warm water en afwasmiddel."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Aantal delen",
+     "value": "7"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch"
+    },
+    {
+     "label": "Reiniging",
+     "value": "handafwas"
+    },
+    {
+     "label": "Ontwerper",
+     "value": "Jasper Morrison"
+    }
+   ],
+   "originalDescription": "De Alessi Pots & Pans pannenset is ontworpen door Jasper Morrison en bestaat uit 7 delen. Gebruik de set voor uw dagelijkse kookwerkzaamheden. De Alessi Pots & Pans pannenset bestaat uit de volgende onderdelen:\n\n1 x kookpan ø 20 cm.\n\n1 x kookpan ø 24 cm.\n\n1 x soeppan ø 20 cm.\n\n1 x deksel ø 16 cm.\n\n1 x deksel ø 20 cm.\n\n1 x deksel ø 24 cm.\n\n1 x sauspan ø 16 cm.\n\nAlessi Pots & Pans pannenset\n\nDe Alessi Pots & Pans pannenset is volledig vervaardigd uit roestvrij staal. De aluminium bodems in de pannen maken deze geschikt voor gebruik op alle warmtebronnen, inclusief inductie en de oven. De Pots & Pans pannen zijn ontworpen door Jasper Morrison. Gebruik voor uw dagelijkse kookwerkzaamheden. Reinig de Alessi Pots & Pans pannenset met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "alessi-pots-pans-pannenset-rvs-7-delig",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299965984",
+     "articleNumber": "AJM100S7",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/8/4/6656_84145_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/alessi-pots-pans-pannenset-rvs-7-delig"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-pots-pans-pannenset-rvs-7-delig",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "alessi-pots-pans-pannenset-rvs-9-delig",
+   "name": "Alessi Pots & Pans pannenset rvs 9-delig",
+   "brandID": "alessi",
+   "typeIDs": [
+    "roestvrijstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor dagelijkse kookwerkzaamheden.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/alessi-pots-pans-pannenset-rvs-9-delig",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Set van 9 delen, ontworpen door Jasper Morrison: kookpannen ø 16, 20 en 24 cm, soeppan ø 20 cm, melkpan, sauspan ø 16 cm en deksels ø 16, 20 en 24 cm.",
+    "Roestvrij staal met aluminium bodems: geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+    "Schoonmaken: warm water en afwasmiddel."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "roestvrij staal"
+    },
+    {
+     "label": "Aantal delen",
+     "value": "9"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch"
+    },
+    {
+     "label": "Reiniging",
+     "value": "handafwas"
+    },
+    {
+     "label": "Ontwerper",
+     "value": "Jasper Morrison"
+    }
+   ],
+   "originalDescription": "De Alessi Pots & Pans pannenset is ontworpen door Jasper Morrison en bestaat uit 9 delen. Gebruik de set voor uw dagelijkse kookwerkzaamheden. De Alessi Pots & Pans pannenset bestaat uit de volgende onderdelen:\n\n1 x kookpan ø 16 cm.\n\n1 x kookpan ø 20 cm.\n\n1 x kookpan ø 24 cm.\n\n1 x soeppan ø 20 cm.\n\n1 x deksel ø 16 cm.\n\n1 x deksel ø 20 cm.\n\n1 x deksel ø 24 cm.\n\n1 x melkpan.\n\n1 x sauspan ø 16 cm.\n\nAlessi Pots & Pans pannenset\n\nDe Alessi Pots & Pans pannenset is volledig vervaardigd uit roestvrij staal. De aluminium bodems in de pannen maken deze geschikt voor gebruik op alle warmtebronnen, inclusief inductie en de oven. De Pots & Pans pannen zijn ontworpen door Jasper Morrison. Gebruik voor uw dagelijkse kookwerkzaamheden. Reinig de Alessi Pots & Pans pannenset met warm water en afwasmiddel.",
+   "variants": [
+    {
+     "id": "alessi-pots-pans-pannenset-rvs-9-delig",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8003299325566",
+     "articleNumber": "AJM100S9",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/8/4/4450_84146_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/alessi-pots-pans-pannenset-rvs-9-delig"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/alessi-pots-pans-pannenset-rvs-9-delig",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bk-fortalit-braadpan-20-cm-plaatstaal-zwart",
+   "name": "BK Fortalit braadpan ø 20 cm plaatstaal zwart",
+   "brandID": "bk",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het braden en bakken van gevogelte, vlees en groenten; vanaf ø 24 cm ook voor braadstukken en stoofpotten.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-20-cm-plaatstaal-zwart",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Zwarte braadpan van geëmailleerd plaatstaal.",
+    "Door het email neemt de pan geen vuil, geur of vet op.",
+    "Voor het braden en bakken van gevogelte, vlees en groenten.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Serie",
+     "value": "Fortalit"
+    },
+    {
+     "label": "Materiaal",
+     "value": "staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "20 cm"
+    },
+    {
+     "label": "Inhoud",
+     "value": "1,4 liter"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch, oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    },
+    {
+     "label": "Soort pan",
+     "value": "braadpan"
+    }
+   ],
+   "originalDescription": "De zwarte BK Fortalit braadpan heeft een diameter van 20 cm. De pan heeft een inhoud van 1,4 liter en is gemaakt van geëmailleerd plaatstaal.\n\nBK Fortalit braadpan\n\nDe BK Fortalit braadpan is gemaakt van geëmailleerd plaatstaal. Door het email neemt de pan geen vuil, geur of vet op. Gebruik de pan voor het braden en bakken van uw etenswaar, zoals gevogelte, vlees en groenten. De BK Fortalit braadpan is vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "bk-fortalit-braadpan-20-cm-plaatstaal-zwart",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8710704003819",
+     "articleNumber": "B1208.520",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/0/1147_1067_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-20-cm-plaatstaal-zwart"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-20-cm-plaatstaal-zwart",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bk-fortalit-braadpan-22-cm-plaatstaal-zwart",
+   "name": "BK Fortalit braadpan ø 22 cm plaatstaal zwart",
+   "brandID": "bk",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het braden en bakken van gevogelte, vlees en groenten; vanaf ø 24 cm ook voor braadstukken en stoofpotten.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-22-cm-plaatstaal-zwart",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Zwarte braadpan van geëmailleerd plaatstaal.",
+    "Door het email neemt de pan geen vuil, geur of vet op.",
+    "Voor het braden en bakken van gevogelte, vlees en groenten.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Serie",
+     "value": "Fortalit"
+    },
+    {
+     "label": "Materiaal",
+     "value": "staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "22 cm"
+    },
+    {
+     "label": "Inhoud",
+     "value": "2 liter"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch, oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    },
+    {
+     "label": "Soort pan",
+     "value": "braadpan"
+    }
+   ],
+   "originalDescription": "De zwarte BK Fortalit braadpan heeft een diameter van 22 cm. De pan heeft een inhoud van 2 liter en is gemaakt van geëmailleerd plaatstaal.\n\nBK Fortalit braadpan\n\nDe BK Fortalit braadpan is gemaakt van geëmailleerd plaatstaal. Door het email neemt de pan geen vuil, geur of vet op. Gebruik de pan voor het braden en bakken van uw etenswaar, zoals gevogelte, vlees en groenten. De BK Fortalit braadpan is vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "bk-fortalit-braadpan-22-cm-plaatstaal-zwart",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8710704003826",
+     "articleNumber": "B1208.522",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/0/1455_1068_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-22-cm-plaatstaal-zwart"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-22-cm-plaatstaal-zwart",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bk-fortalit-braadpan-24-cm-plaatstaal-zwart",
+   "name": "BK Fortalit braadpan ø 24 cm plaatstaal zwart",
+   "brandID": "bk",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het braden en bakken van gevogelte, vlees en groenten; vanaf ø 24 cm ook voor braadstukken en stoofpotten.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-24-cm-plaatstaal-zwart",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Zwarte braadpan van geëmailleerd plaatstaal.",
+    "Door het email neemt de pan geen vuil, geur of vet op.",
+    "Voor het braden en bakken van gevogelte, vlees en groenten.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Serie",
+     "value": "Fortalit"
+    },
+    {
+     "label": "Materiaal",
+     "value": "staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "24 cm"
+    },
+    {
+     "label": "Inhoud",
+     "value": "2,3 liter"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch, oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    },
+    {
+     "label": "Soort pan",
+     "value": "braadpan"
+    }
+   ],
+   "originalDescription": "De zwarte BK Fortalit braadpan heeft een diameter van 24 cm. De pan heeft een inhoud van 2,3 liter en is gemaakt van geëmailleerd plaatstaal. Gebruik de braad- en stoofpan voor het bereiden van braadstukken en stoofpotten.\n\nBK Fortalit braadpan\n\nDe BK Fortalit braadpan is gemaakt van geëmailleerd plaatstaal. Door het email neemt de pan geen vuil, geur of vet op. Gebruik de pan voor het braden en bakken van uw etenswaar, zoals gevogelte, vlees en groenten. De BK Fortalit braadpan is vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "bk-fortalit-braadpan-24-cm-plaatstaal-zwart",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8710704003833",
+     "articleNumber": "B1208.524",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/0/9609_1069_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-24-cm-plaatstaal-zwart"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-24-cm-plaatstaal-zwart",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bk-fortalit-braadpan-26-cm-plaatstaal-zwart",
+   "name": "BK Fortalit braadpan ø 26 cm plaatstaal zwart",
+   "brandID": "bk",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het braden en bakken van gevogelte, vlees en groenten; vanaf ø 24 cm ook voor braadstukken en stoofpotten.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-26-cm-plaatstaal-zwart",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Zwarte braadpan van geëmailleerd plaatstaal.",
+    "Door het email neemt de pan geen vuil, geur of vet op.",
+    "Voor het braden en bakken van gevogelte, vlees en groenten.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Serie",
+     "value": "Fortalit"
+    },
+    {
+     "label": "Materiaal",
+     "value": "staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "26 cm"
+    },
+    {
+     "label": "Inhoud",
+     "value": "2,9 liter"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch, oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    },
+    {
+     "label": "Soort pan",
+     "value": "braadpan"
+    }
+   ],
+   "originalDescription": "De zwarte BK Fortalit braadpan heeft een diameter van 26 cm. De pan heeft een inhoud van 2,9 liter en is gemaakt van geëmailleerd plaatstaal. Gebruik de braad- en stoofpan voor het bereiden van braadstukken en stoofpotten.\n\nBK Fortalit braadpan\n\nDe BK Fortalit braadpan is gemaakt van geëmailleerd plaatstaal. Door het email neemt de pan geen vuil, geur of vet op. Gebruik de pan voor het braden en bakken van uw etenswaar, zoals gevogelte, vlees en groenten. De BK Fortalit braadpan is vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "bk-fortalit-braadpan-26-cm-plaatstaal-zwart",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8710704003840",
+     "articleNumber": "B1208.526",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/0/8464_1070_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-26-cm-plaatstaal-zwart"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-26-cm-plaatstaal-zwart",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bk-fortalit-braadpan-28-cm-plaatstaal-zwart",
+   "name": "BK Fortalit braadpan ø 28 cm plaatstaal zwart",
+   "brandID": "bk",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het braden en bakken van gevogelte, vlees en groenten; vanaf ø 24 cm ook voor braadstukken en stoofpotten.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-28-cm-plaatstaal-zwart",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Zwarte braadpan van geëmailleerd plaatstaal.",
+    "Door het email neemt de pan geen vuil, geur of vet op.",
+    "Voor het braden en bakken van gevogelte, vlees en groenten.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Serie",
+     "value": "Fortalit"
+    },
+    {
+     "label": "Materiaal",
+     "value": "staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "28 cm"
+    },
+    {
+     "label": "Inhoud",
+     "value": "3,7 liter"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch, oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    },
+    {
+     "label": "Soort pan",
+     "value": "braadpan"
+    }
+   ],
+   "originalDescription": "De zwarte BK Fortalit braadpan heeft een diameter van 28 cm. De pan heeft een inhoud van 3,7 liter en is gemaakt van geëmailleerd plaatstaal. Gebruik de braad- en stoofpan voor het bereiden van braadstukken en stoofpotten.\n\nBK Fortalit braadpan\n\nDe BK Fortalit braadpan is gemaakt van geëmailleerd plaatstaal. Door het email neemt de pan geen vuil, geur of vet op. Gebruik de pan voor het braden en bakken van uw etenswaar, zoals gevogelte, vlees en groenten. De BK Fortalit braadpan is vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "bk-fortalit-braadpan-28-cm-plaatstaal-zwart",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8710704003857",
+     "articleNumber": "B1208.528",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/3/7/4041_37764_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-28-cm-plaatstaal-zwart"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-28-cm-plaatstaal-zwart",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bk-fortalit-braadpan-36-cm-plaatstaal-zwart",
+   "name": "BK Fortalit braadpan ø 36 cm plaatstaal zwart",
+   "brandID": "bk",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het braden en bakken van gevogelte, vlees en groenten; vanaf ø 24 cm ook voor braadstukken en stoofpotten.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-36-cm-plaatstaal-zwart",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Zwarte braadpan van geëmailleerd plaatstaal.",
+    "Door het email neemt de pan geen vuil, geur of vet op.",
+    "Voor het braden en bakken van gevogelte, vlees en groenten.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Serie",
+     "value": "Fortalit"
+    },
+    {
+     "label": "Materiaal",
+     "value": "staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "36 cm"
+    },
+    {
+     "label": "Inhoud",
+     "value": "7,5 liter"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch, oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    },
+    {
+     "label": "Soort pan",
+     "value": "braadpan"
+    }
+   ],
+   "originalDescription": "De zwarte BK Fortalit braadpan heeft een diameter van 36 cm. De pan heeft een inhoud van 7,5 liter en is gemaakt van geëmailleerd plaatstaal. Gebruik de braad- en stoofpan voor het bereiden van braadstukken en stoofpotten.\n\nBK Fortalit braadpan\n\nDe BK Fortalit braadpan is gemaakt van geëmailleerd plaatstaal. Door het email neemt de pan geen vuil, geur of vet op. Gebruik de pan voor het braden en bakken van uw etenswaar, zoals gevogelte, vlees en groenten. De BK Fortalit braadpan is vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "bk-fortalit-braadpan-36-cm-plaatstaal-zwart",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8710704000795",
+     "articleNumber": "B1208.536",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/0/1197_1071_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-36-cm-plaatstaal-zwart"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bk-fortalit-braadpan-o-36-cm-plaatstaal-zwart",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bk-fortalit-braadslede-40-x-24-cm-plaatstaal-zwart",
+   "name": "BK Fortalit braadslede 40 x 24 cm plaatstaal zwart",
+   "brandID": "bk",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Als ovenschaal, bakblik en braadslede, bijvoorbeeld voor braadstukken, lasagne en gegrilde groenten.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/bk-fortalit-braadslede-40-x-24-cm-plaatstaal-zwart",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Braadslede van geëmailleerd plaatstaal: goede warmtegeleiding en slijtvast.",
+    "Smaakneutrale emaillelaag: neemt geen vuil, geur of vet op en voorkomt aanbranden.",
+    "Bruikbaar als ovenschaal, bakblik en braadslede.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+    "Vaatwasmachinebestendig."
+   ],
+   "specs": [
+    {
+     "label": "Serie",
+     "value": "Fortalit"
+    },
+    {
+     "label": "Materiaal",
+     "value": "staal"
+    },
+    {
+     "label": "Lengte",
+     "value": "40 cm"
+    },
+    {
+     "label": "Breedte",
+     "value": "24 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "6 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "elektrisch, gas, halogeen, inductie, keramisch, oven"
+    },
+    {
+     "label": "Reiniging",
+     "value": "handafwas"
+    }
+   ],
+   "originalDescription": "De Fortalit braadslede van BK is gemaakt van geëmailleerd staal. Dit zorgt voor een goede warmtegeleiding en is slijtvast. De coatinglaag voorkomt aanbranden. De schaal heeft de volgende buitenmaten: 40 x 24 x 6 cm en is geschikt voor alle warmtebronnen, inclusief inductie en de oven. Bruikbaar als ovenschaal, bakblik en braadslede. Binnenmaten: 36 x 22 x 6 cm.\n\nBK Fortalit braadslede\n\nDe BK Fortalit braadslede is gemaakt van geëmailleerd plaatstaal. Dankzij de smaakneutrale emaillelaag neemt de pan geen vuil, geur of vet op. Ook voorkomt de laag het aanbranden van ingrediënten, zoals braadstukken, lasagne en gegrilde groenten. Geschikt voor alle warmtebronnen, inclusief inductie en de oven. De BK Fortalit braadslede is vaatwasmachinebestendig.",
+   "variants": [
+    {
+     "id": "bk-fortalit-braadslede-40-x-24-cm-plaatstaal-zwart",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8718311016123",
+     "articleNumber": "B.1208.240",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/5/4/6810_54940_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/bk-fortalit-braadslede-40-x-24-cm-plaatstaal-zwart"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bk-fortalit-braadslede-40-x-24-cm-plaatstaal-zwart",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bk-fortalit-mosselpan-22-cm",
+   "name": "BK Fortalit mosselpan ø 22 cm",
+   "brandID": "bk",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het bereiden en serveren van mosselen.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/bk-fortalit-mosselpan-22-cm-79530-2351075",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Mosselpan van zwart geëmailleerd plaatstaal met een zeer harde emaillelaag: geur- en smaakneutraal en beschermd tegen voedselzuren.",
+    "Het onderste deel is om de mosselen te bereiden; het bovenste deel is schaal voor de schelpen en deksel.",
+    "Vaatwasmachinebestendig; handafwas verlengt de levensduur van de pan."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "22 cm"
+    },
+    {
+     "label": "Inhoud",
+     "value": "5 liter"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "gas, elektrisch, keramisch, halogeen, inductie"
+    },
+    {
+     "label": "Reiniging",
+     "value": "vaatwasmachinebestendig"
+    }
+   ],
+   "originalDescription": "De BK Fortalit mosselpan is gemaakt van zwart geëmailleerd plaatstaal en heeft een diameter van 22 cm. U gebruikt de pan voor het bereiden en serveren van mosselen.\n\nBK Fortalit Mosselpan 22 cm\n\nDe BK mosselpan is vervaardigd uit plaatstaal en is voorzien van een zeer harde emaillelaag. Hierdoor is de pan geur- en smaakneutraal en beschermd tegen voedselzuren.\n\nHet onderste deel van de mosselpan gebruikt u om de mosselen te bereiden, het bovenste deel gebruik uw als schaal voor de schelpen en als deksel.\n\nDe BK Fortalit mosselpan is vaatwasmachinebestendig, handafwas verlengt de levensduur van de pan.",
+   "variants": [
+    {
+     "id": "bk-fortalit-mosselpan-22-cm",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8718311314625",
+     "articleNumber": "B1208.622",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/b/1/b1208.622.jpg",
+     "productURL": "https://www.kookwinkel.nl/bk-fortalit-mosselpan-22-cm-79530-2351075"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bk-fortalit-mosselpan-22-cm-79530-2351075",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "betbrothers-besteel-satin-koekenpan-20-cm-ijzer",
+   "name": "BetBrothers BeSteel Satin koekenpan ø 20 cm ijzer",
+   "brandID": "fbkitchenware",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het aanbraden van vlees, roerbakken van groenten en andere bereidingen op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-20-cm-ijzer-96218-0001069704",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Koekenpan van natuurlijk ijzer (plaatstaal) met een natuurlijke oliebehandeling en een roestvrijstalen steel met satin afwerking.",
+    "Warmt snel op en is geschikt voor bakken op hoge temperaturen; reageert direct op temperatuurwisselingen.",
+    "Zonder synthetische anti-aanbaklaag: vrij van PTFE, PFOA en andere chemische coatings. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+    "Verkleuringen, vlekken en lichte roestvorming zijn normaal bij plaatstaal en hebben geen invloed op de werking.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+    "Schoonmaken: warm water en een zachte borstel, direct afdrogen en licht invetten met olie tegen roestvorming."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "20 cm"
+    },
+    {
+     "label": "Lengte",
+     "value": "37,2 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "4,1 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Oven, Barbecue"
+    },
+    {
+     "label": "Bodemdiameter",
+     "value": "14 cm"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De BetBrothers BeSteel Satin koekenpan heeft een diameter van 20 cm en is vervaardigd uit natuurlijk ijzer met een natuurlijke oliebehandeling. De pan heeft een dikte van 2,5 mm en is voorzien van een roestvrijstalen steel met een satin afwerking. Het plaatstaal warmt snel op en is geschikt voor bakken op hoge temperaturen.\n\nBetBrothers BeSteel Satin koekenpan ø 20 cm\n\nDe pan verdeelt de warmte gelijkmatig over het oppervlak en reageert direct op temperatuurwisselingen. Hierdoor is de pan geschikt voor het aanbraden van vlees, het roerbakken van groenten en andere bereidingen op hoge temperatuur. De pan kan worden gebruikt op alle warmtebronnen, inclusief inductie, en is ook geschikt voor gebruik in de oven of op de barbecue.\n\nDoor veelvuldig gebruik ontwikkelt het ijzer een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect. Deze laag ontstaat geleidelijk tijdens het gebruik van de pan. Verkleuringen, vlekken en lichte roestvorming zijn normale eigenschappen van plaatstaal en hebben geen invloed op de werking van de pan.\n\nDe BeSteel serie van BetBrothers bestaat uit pannen van natuurlijk ijzer zonder synthetische anti-aanbaklaag. De natuurlijke oliebehandeling beschermt de pan vóór het eerste gebruik. De pan is vrij van PTFE, PFOA en andere chemische coatings.\n\nReinig de pan met warm water en een zachte borstel en droog direct af. Vet de pan na reiniging licht in met olie om het materiaal in goede conditie te houden en roestvorming te helpen voorkomen.",
+   "variants": [
+    {
+     "id": "betbrothers-besteel-satin-koekenpan-20-cm-ijzer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8059173143429",
+     "articleNumber": "1735",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/b/e/besteel-41.jpg",
+     "productURL": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-20-cm-ijzer-96218-0001069704"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-20-cm-ijzer-96218-0001069704",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "betbrothers-besteel-satin-koekenpan-22-cm-ijzer",
+   "name": "BetBrothers BeSteel Satin koekenpan ø 22 cm ijzer",
+   "brandID": "fbkitchenware",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het aanbraden van vlees, roerbakken van groenten en andere bereidingen op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-22-cm-ijzer-96218-0001069705",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Koekenpan van natuurlijk ijzer (plaatstaal) met een natuurlijke oliebehandeling en een roestvrijstalen steel met satin afwerking.",
+    "Warmt snel op en is geschikt voor bakken op hoge temperaturen; reageert direct op temperatuurwisselingen.",
+    "Zonder synthetische anti-aanbaklaag: vrij van PTFE, PFOA en andere chemische coatings. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+    "Verkleuringen, vlekken en lichte roestvorming zijn normaal bij plaatstaal en hebben geen invloed op de werking.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+    "Schoonmaken: warm water en een zachte borstel, direct afdrogen en licht invetten met olie tegen roestvorming."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "22 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Oven, Barbecue"
+    },
+    {
+     "label": "Bodemdiameter",
+     "value": "16 cm"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De BetBrothers BeSteel Satin koekenpan heeft een diameter van 22 cm en is vervaardigd uit natuurlijk ijzer met een natuurlijke oliebehandeling. De pan heeft een dikte van 2,5 mm en is voorzien van een roestvrijstalen steel met een satin afwerking. Het plaatstaal warmt snel op en is geschikt voor bakken op hoge temperaturen.\n\nBetBrothers BeSteel Satin koekenpan ø 22 cm\n\nDe pan verdeelt de warmte gelijkmatig over het oppervlak en reageert direct op temperatuurwisselingen. Hierdoor is de pan geschikt voor het aanbraden van vlees, het roerbakken van groenten en andere bereidingen op hoge temperatuur. De pan kan worden gebruikt op alle warmtebronnen, inclusief inductie, en is ook geschikt voor gebruik in de oven of op de barbecue.\n\nDoor veelvuldig gebruik ontwikkelt het ijzer een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect. Deze laag ontstaat geleidelijk tijdens het gebruik van de pan. Verkleuringen, vlekken en lichte roestvorming zijn normale eigenschappen van plaatstaal en hebben geen invloed op de werking van de pan.\n\nDe BeSteel serie van BetBrothers bestaat uit pannen van natuurlijk ijzer zonder synthetische anti-aanbaklaag. De natuurlijke oliebehandeling beschermt de pan vóór het eerste gebruik. De pan is vrij van PTFE, PFOA en andere chemische coatings.\n\nReinig de pan met warm water en een zachte borstel en droog direct af. Vet de pan na reiniging licht in met olie om het materiaal in goede conditie te houden en roestvorming te helpen voorkomen.",
+   "variants": [
+    {
+     "id": "betbrothers-besteel-satin-koekenpan-22-cm-ijzer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8059173143436",
+     "articleNumber": "1736",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/b/e/besteel-41_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-22-cm-ijzer-96218-0001069705"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-22-cm-ijzer-96218-0001069705",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "betbrothers-besteel-satin-koekenpan-24-cm-ijzer",
+   "name": "BetBrothers BeSteel Satin koekenpan ø 24 cm ijzer",
+   "brandID": "fbkitchenware",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het aanbraden van vlees, roerbakken van groenten en andere bereidingen op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-24-cm-ijzer-96218-0001069706",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Koekenpan van natuurlijk ijzer (plaatstaal) met een natuurlijke oliebehandeling en een roestvrijstalen steel met satin afwerking.",
+    "Warmt snel op en is geschikt voor bakken op hoge temperaturen; reageert direct op temperatuurwisselingen.",
+    "Zonder synthetische anti-aanbaklaag: vrij van PTFE, PFOA en andere chemische coatings. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+    "Verkleuringen, vlekken en lichte roestvorming zijn normaal bij plaatstaal en hebben geen invloed op de werking.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+    "Schoonmaken: warm water en een zachte borstel, direct afdrogen en licht invetten met olie tegen roestvorming."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "24 cm"
+    },
+    {
+     "label": "Lengte",
+     "value": "45,1 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "4,5 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Oven, Barbecue"
+    },
+    {
+     "label": "Bodemdiameter",
+     "value": "18 cm"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De BetBrothers BeSteel Satin koekenpan heeft een diameter van 24 cm en is vervaardigd uit natuurlijk ijzer met een natuurlijke oliebehandeling. De pan heeft een dikte van 2,5 mm en is voorzien van een roestvrijstalen steel met een satin afwerking. Het plaatstaal warmt snel op en is geschikt voor bakken op hoge temperaturen.\n\nBetBrothers BeSteel Satin koekenpan ø 24 cm\n\nDe pan verdeelt de warmte gelijkmatig over het oppervlak en reageert direct op temperatuurwisselingen. Hierdoor is de pan geschikt voor het aanbraden van vlees, het roerbakken van groenten en andere bereidingen op hoge temperatuur. De pan kan worden gebruikt op alle warmtebronnen, inclusief inductie, en is ook geschikt voor gebruik in de oven of op de barbecue.\n\nDoor veelvuldig gebruik ontwikkelt het ijzer een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect. Deze laag ontstaat geleidelijk tijdens het gebruik van de pan. Verkleuringen, vlekken en lichte roestvorming zijn normale eigenschappen van plaatstaal en hebben geen invloed op de werking van de pan.\n\nDe BeSteel serie van BetBrothers bestaat uit pannen van natuurlijk ijzer zonder synthetische anti-aanbaklaag. De natuurlijke oliebehandeling beschermt de pan vóór het eerste gebruik. De pan is vrij van PTFE, PFOA en andere chemische coatings.\n\nReinig de pan met warm water en een zachte borstel en droog direct af. Vet de pan na reiniging licht in met olie om het materiaal in goede conditie te houden en roestvorming te helpen voorkomen.",
+   "variants": [
+    {
+     "id": "betbrothers-besteel-satin-koekenpan-24-cm-ijzer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8059173143443",
+     "articleNumber": "1737",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/b/e/besteel-41_2.jpg",
+     "productURL": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-24-cm-ijzer-96218-0001069706"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-24-cm-ijzer-96218-0001069706",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "betbrothers-besteel-satin-koekenpan-26-cm-ijzer",
+   "name": "BetBrothers BeSteel Satin koekenpan ø 26 cm ijzer",
+   "brandID": "fbkitchenware",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het aanbraden van vlees, roerbakken van groenten en andere bereidingen op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-26-cm-ijzer-96218-0001069707",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Koekenpan van natuurlijk ijzer (plaatstaal) met een natuurlijke oliebehandeling en een roestvrijstalen steel met satin afwerking.",
+    "Warmt snel op en is geschikt voor bakken op hoge temperaturen; reageert direct op temperatuurwisselingen.",
+    "Zonder synthetische anti-aanbaklaag: vrij van PTFE, PFOA en andere chemische coatings. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+    "Verkleuringen, vlekken en lichte roestvorming zijn normaal bij plaatstaal en hebben geen invloed op de werking.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+    "Schoonmaken: warm water en een zachte borstel, direct afdrogen en licht invetten met olie tegen roestvorming."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "26 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Oven, Barbecue"
+    },
+    {
+     "label": "Bodemdiameter",
+     "value": "20 cm"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De BetBrothers BeSteel Satin koekenpan heeft een diameter van 26 cm en is vervaardigd uit natuurlijk ijzer met een natuurlijke oliebehandeling. De pan heeft een dikte van 2,5 mm en is voorzien van een roestvrijstalen steel met een satin afwerking. Het plaatstaal warmt snel op en is geschikt voor bakken op hoge temperaturen.\n\nBetBrothers BeSteel Satin koekenpan ø 26 cm\n\nDe pan verdeelt de warmte gelijkmatig over het oppervlak en reageert direct op temperatuurwisselingen. Hierdoor is de pan geschikt voor het aanbraden van vlees, het roerbakken van groenten en andere bereidingen op hoge temperatuur. De pan kan worden gebruikt op alle warmtebronnen, inclusief inductie, en is ook geschikt voor gebruik in de oven of op de barbecue.\n\nDoor veelvuldig gebruik ontwikkelt het ijzer een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect. Deze laag ontstaat geleidelijk tijdens het gebruik van de pan. Verkleuringen, vlekken en lichte roestvorming zijn normale eigenschappen van plaatstaal en hebben geen invloed op de werking van de pan.\n\nDe BeSteel serie van BetBrothers bestaat uit pannen van natuurlijk ijzer zonder synthetische anti-aanbaklaag. De natuurlijke oliebehandeling beschermt de pan vóór het eerste gebruik. De pan is vrij van PTFE, PFOA en andere chemische coatings.\n\nReinig de pan met warm water en een zachte borstel en droog direct af. Vet de pan na reiniging licht in met olie om het materiaal in goede conditie te houden en roestvorming te helpen voorkomen.",
+   "variants": [
+    {
+     "id": "betbrothers-besteel-satin-koekenpan-26-cm-ijzer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8059173143450",
+     "articleNumber": "1738",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/b/e/besteel-41_3.jpg",
+     "productURL": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-26-cm-ijzer-96218-0001069707"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-26-cm-ijzer-96218-0001069707",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "betbrothers-besteel-satin-koekenpan-28-cm-ijzer",
+   "name": "BetBrothers BeSteel Satin koekenpan ø 28 cm ijzer",
+   "brandID": "fbkitchenware",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het aanbraden van vlees, roerbakken van groenten en andere bereidingen op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-28-cm-ijzer-96218-0001069708",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Koekenpan van natuurlijk ijzer (plaatstaal) met een natuurlijke oliebehandeling en een roestvrijstalen steel met satin afwerking.",
+    "Warmt snel op en is geschikt voor bakken op hoge temperaturen; reageert direct op temperatuurwisselingen.",
+    "Zonder synthetische anti-aanbaklaag: vrij van PTFE, PFOA en andere chemische coatings. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+    "Verkleuringen, vlekken en lichte roestvorming zijn normaal bij plaatstaal en hebben geen invloed op de werking.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+    "Schoonmaken: warm water en een zachte borstel, direct afdrogen en licht invetten met olie tegen roestvorming."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "28 cm"
+    },
+    {
+     "label": "Lengte",
+     "value": "49,2 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "4,5 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Oven, Barbecue"
+    },
+    {
+     "label": "Bodemdiameter",
+     "value": "22 cm"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De BetBrothers BeSteel Satin koekenpan heeft een diameter van 28 cm en is vervaardigd uit natuurlijk ijzer met een natuurlijke oliebehandeling. De pan heeft een dikte van 2,5 mm en is voorzien van een roestvrijstalen steel met een satin afwerking. Het plaatstaal warmt snel op en is geschikt voor bakken op hoge temperaturen.\n\nBetBrothers BeSteel Satin koekenpan ø 28 cm\n\nDe pan verdeelt de warmte gelijkmatig over het oppervlak en reageert direct op temperatuurwisselingen. Hierdoor is de pan geschikt voor het aanbraden van vlees, het roerbakken van groenten en andere bereidingen op hoge temperatuur. De pan kan worden gebruikt op alle warmtebronnen, inclusief inductie, en is ook geschikt voor gebruik in de oven of op de barbecue.\n\nDoor veelvuldig gebruik ontwikkelt het ijzer een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect. Deze laag ontstaat geleidelijk tijdens het gebruik van de pan. Verkleuringen, vlekken en lichte roestvorming zijn normale eigenschappen van plaatstaal en hebben geen invloed op de werking van de pan.\n\nDe BeSteel serie van BetBrothers bestaat uit pannen van natuurlijk ijzer zonder synthetische anti-aanbaklaag. De natuurlijke oliebehandeling beschermt de pan vóór het eerste gebruik. De pan is vrij van PTFE, PFOA en andere chemische coatings.\n\nReinig de pan met warm water en een zachte borstel en droog direct af. Vet de pan na reiniging licht in met olie om het materiaal in goede conditie te houden en roestvorming te helpen voorkomen.",
+   "variants": [
+    {
+     "id": "betbrothers-besteel-satin-koekenpan-28-cm-ijzer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8059173143467",
+     "articleNumber": "1739",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/b/e/besteel-41_4.jpg",
+     "productURL": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-28-cm-ijzer-96218-0001069708"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-koekenpan-28-cm-ijzer-96218-0001069708",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "betbrothers-besteel-satin-wok-26-cm-ijzer",
+   "name": "BetBrothers BeSteel Satin wok ø 26 cm ijzer",
+   "brandID": "fbkitchenware",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor snel roerbakken van groenten, vlees, noedels en andere gerechten op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-wok-26-cm-ijzer-96218-0001069709",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Wok van natuurlijk ijzer (plaatstaal) met een natuurlijke oliebehandeling en een roestvrijstalen steel met satin afwerking.",
+    "Warmt snel op en reageert direct op temperatuurwisselingen.",
+    "Zonder synthetische anti-aanbaklaag: vrij van PTFE, PFOA en andere chemische coatings. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+    "Verkleuringen, vlekken en lichte roestvorming zijn normaal bij plaatstaal en hebben geen invloed op de werking.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+    "Schoonmaken: warm water en een zachte borstel, direct afdrogen en licht invetten met olie tegen roestvorming."
+   ],
+   "specs": [
+    {
+     "label": "Materiaal",
+     "value": "Staal"
+    },
+    {
+     "label": "Diameter",
+     "value": "26 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "8 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Oven, Barbecue"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De BetBrothers BeSteel Satin wok heeft een diameter van 26 cm en is vervaardigd uit natuurlijk ijzer met een natuurlijke oliebehandeling. De wok heeft een dikte van 2,5 mm en is voorzien van een roestvrijstalen steel met een satin afwerking. Het plaatstaal warmt snel op en is geschikt voor roerbakken en andere bereidingen op hoge temperaturen.\n\nBetBrothers BeSteel Satin wok ø 26 cm\n\nDe wok verdeelt de warmte gelijkmatig over het oppervlak en reageert direct op temperatuurwisselingen. Hierdoor is de wok geschikt voor het snel roerbakken van groenten, vlees, noedels en andere gerechten op hoge temperatuur. De wok kan worden gebruikt op alle warmtebronnen, inclusief inductie, en is ook geschikt voor gebruik in de oven of op de barbecue.\n\nDoor veelvuldig gebruik ontwikkelt het ijzer een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect. Deze laag ontstaat geleidelijk tijdens het gebruik van de wok. Verkleuringen, vlekken en lichte roestvorming zijn normale eigenschappen van plaatstaal en hebben geen invloed op de werking van de wok.\n\nDe BeSteel serie van BetBrothers bestaat uit pannen van natuurlijk ijzer zonder synthetische anti-aanbaklaag. De natuurlijke oliebehandeling beschermt de wok vóór het eerste gebruik. De wok is vrij van PTFE, PFOA en andere chemische coatings.\n\nReinig de wok met warm water en een zachte borstel en droog direct af. Vet de wok na reiniging licht in met olie om het materiaal in goede conditie te houden en roestvorming te helpen voorkomen.",
+   "variants": [
+    {
+     "id": "betbrothers-besteel-satin-wok-26-cm-ijzer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8059173143498",
+     "articleNumber": "1742",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/f/b/fb_kitchenware_besteel_satin_wok_26_cm_ijzer.jpg",
+     "productURL": "https://www.kookwinkel.nl/betbrothers-besteel-satin-wok-26-cm-ijzer-96218-0001069709"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/betbrothers-besteel-satin-wok-26-cm-ijzer-96218-0001069709",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "betbrothers-nerosteel-koekenpan-20-cm-genitreerd-ijzer",
+   "name": "BetBrothers NeroSteel koekenpan ø 20 cm genitreerd ijzer",
+   "brandID": "fbkitchenware",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het aanbraden van vlees, roerbakken van groenten en andere bereidingen op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-20-cm-genitreerd-ijzer-99219-0001069710",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Koekenpan van genitreerd zwart ijzer met een roestvrijstalen steel met harde goudkleurige PVD-afwerking.",
+    "Door het nitreren heeft het ijzer een donker oppervlak en een hogere weerstand tegen slijtage en oxidatie.",
+    "Warmt snel op en reageert direct op temperatuurwisselingen.",
+    "Vrij van synthetische anti-aanbaklagen, PTFE, PFOA en nikkelsporen. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+    "Schoonmaken: warm water en een zachte borstel, direct afdrogen en indien nodig licht invetten met olie."
+   ],
+   "specs": [
+    {
+     "label": "Diameter",
+     "value": "20 cm"
+    },
+    {
+     "label": "Lengte",
+     "value": "37,2 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "4,1 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Oven, Barbecue"
+    },
+    {
+     "label": "Bodemdiameter",
+     "value": "14 cm"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De BetBrothers NeroSteel koekenpan heeft een diameter van 20 cm en is vervaardigd uit genitreerd zwart ijzer. De pan heeft een dikte van 2,5 mm en is voorzien van een roestvrijstalen steel met een harde goudkleurige PVD-afwerking. Het materiaal warmt snel op en is geschikt voor bakken op hoge temperaturen.\n\nBetBrothers NeroSteel koekenpan ø 20 cm genitreerd ijzer\n\nDoor het nitreringsproces heeft het ijzer een donker oppervlak en een verhoogde weerstand tegen slijtage en oxidatie. De pan verdeelt de warmte gelijkmatig over het oppervlak en reageert direct op temperatuurwisselingen. Hierdoor is de pan geschikt voor het aanbraden van vlees, het roerbakken van groenten en andere bereidingen op hoge temperatuur.\n\nDoor veelvuldig gebruik ontwikkelt het oppervlak een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect. De pan is vrij van synthetische anti-aanbaklagen en bevat geen PTFE, PFOA of nikkelsporen.\n\nDe NeroSteel serie van BetBrothers bestaat uit pannen van genitreerd ijzer met een natuurlijke anti-aanbakopbouw tijdens gebruik. De pannen zijn geschikt voor alle warmtebronnen, inclusief inductie, en kunnen ook worden gebruikt in de oven of op de barbecue.\n\nReinig de pan met warm water en een zachte borstel en droog direct af. Vet de pan indien nodig licht in met olie om het materiaal in goede conditie te houden.",
+   "variants": [
+    {
+     "id": "betbrothers-nerosteel-koekenpan-20-cm-genitreerd-ijzer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8059173143344",
+     "articleNumber": "1727",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/n/e/nerosteel-3.jpg",
+     "productURL": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-20-cm-genitreerd-ijzer-99219-0001069710"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-20-cm-genitreerd-ijzer-99219-0001069710",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "betbrothers-nerosteel-koekenpan-24-cm-genitreerd-ijzer",
+   "name": "BetBrothers NeroSteel koekenpan ø 24 cm genitreerd ijzer",
+   "brandID": "fbkitchenware",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het aanbraden van vlees, roerbakken van groenten en andere bereidingen op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-24-cm-genitreerd-ijzer-99219-0001069711",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Koekenpan van genitreerd zwart ijzer met een roestvrijstalen steel met harde goudkleurige PVD-afwerking.",
+    "Door het nitreren heeft het ijzer een donker oppervlak en een hogere weerstand tegen slijtage en oxidatie.",
+    "Warmt snel op en reageert direct op temperatuurwisselingen.",
+    "Vrij van synthetische anti-aanbaklagen, PTFE, PFOA en nikkelsporen. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+    "Schoonmaken: warm water en een zachte borstel, direct afdrogen en indien nodig licht invetten met olie."
+   ],
+   "specs": [
+    {
+     "label": "Diameter",
+     "value": "24 cm"
+    },
+    {
+     "label": "Lengte",
+     "value": "45,1 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "4,5 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Oven, Barbecue"
+    },
+    {
+     "label": "Bodemdiameter",
+     "value": "18 cm"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De BetBrothers NeroSteel koekenpan heeft een diameter van 24 cm en is vervaardigd uit genitreerd zwart ijzer. De pan heeft een dikte van 2,5 mm en is voorzien van een roestvrijstalen steel met een harde goudkleurige PVD-afwerking. Het materiaal warmt snel op en is geschikt voor bakken op hoge temperaturen.\n\nBetBrothers NeroSteel koekenpan ø 24 cm genitreerd ijzer\n\nDoor het nitreringsproces heeft het ijzer een donker oppervlak en een verhoogde weerstand tegen slijtage en oxidatie. De pan verdeelt de warmte gelijkmatig over het oppervlak en reageert direct op temperatuurwisselingen. Hierdoor is de pan geschikt voor het aanbraden van vlees, het roerbakken van groenten en andere bereidingen op hoge temperatuur.\n\nDoor veelvuldig gebruik ontwikkelt het oppervlak een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect. De pan is vrij van synthetische anti-aanbaklagen en bevat geen PTFE, PFOA of nikkelsporen.\n\nDe NeroSteel serie van BetBrothers bestaat uit pannen van genitreerd ijzer met een natuurlijke anti-aanbakopbouw tijdens gebruik. De pannen zijn geschikt voor alle warmtebronnen, inclusief inductie, en kunnen ook worden gebruikt in de oven of op de barbecue.\n\nReinig de pan met warm water en een zachte borstel en droog direct af. Vet de pan indien nodig licht in met olie om het materiaal in goede conditie te houden.",
+   "variants": [
+    {
+     "id": "betbrothers-nerosteel-koekenpan-24-cm-genitreerd-ijzer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8059173143368",
+     "articleNumber": "1729",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/n/e/nerosteel-3_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-24-cm-genitreerd-ijzer-99219-0001069711"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-24-cm-genitreerd-ijzer-99219-0001069711",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "betbrothers-nerosteel-koekenpan-26-cm-genitreerd-ijzer",
+   "name": "BetBrothers NeroSteel koekenpan ø 26 cm genitreerd ijzer",
+   "brandID": "fbkitchenware",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het aanbraden van vlees, roerbakken van groenten en andere bereidingen op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-26-cm-genitreerd-ijzer-99219-0001069712",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Koekenpan van genitreerd zwart ijzer met een roestvrijstalen steel met harde goudkleurige PVD-afwerking.",
+    "Door het nitreren heeft het ijzer een donker oppervlak en een hogere weerstand tegen slijtage en oxidatie.",
+    "Warmt snel op en reageert direct op temperatuurwisselingen.",
+    "Vrij van synthetische anti-aanbaklagen, PTFE, PFOA en nikkelsporen. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+    "Schoonmaken: warm water en een zachte borstel, direct afdrogen en indien nodig licht invetten met olie."
+   ],
+   "specs": [
+    {
+     "label": "Diameter",
+     "value": "26 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Oven, Barbecue"
+    },
+    {
+     "label": "Bodemdiameter",
+     "value": "20 cm"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De BetBrothers NeroSteel koekenpan heeft een diameter van 26 cm en is vervaardigd uit genitreerd zwart ijzer. De pan heeft een dikte van 2,5 mm en is voorzien van een roestvrijstalen steel met een harde goudkleurige PVD-afwerking. Het materiaal warmt snel op en is geschikt voor bakken op hoge temperaturen.\n\nBetBrothers NeroSteel koekenpan ø 26 cm genitreerd ijzer\n\nDoor het nitreringsproces heeft het ijzer een donker oppervlak en een verhoogde weerstand tegen slijtage en oxidatie. De pan verdeelt de warmte gelijkmatig over het oppervlak en reageert direct op temperatuurwisselingen. Hierdoor is de pan geschikt voor het aanbraden van vlees, het roerbakken van groenten en andere bereidingen op hoge temperatuur.\n\nDoor veelvuldig gebruik ontwikkelt het oppervlak een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect. De pan is vrij van synthetische anti-aanbaklagen en bevat geen PTFE, PFOA of nikkelsporen.\n\nDe NeroSteel serie van BetBrothers bestaat uit pannen van genitreerd ijzer met een natuurlijke anti-aanbakopbouw tijdens gebruik. De pannen zijn geschikt voor alle warmtebronnen, inclusief inductie, en kunnen ook worden gebruikt in de oven of op de barbecue.\n\nReinig de pan met warm water en een zachte borstel en droog direct af. Vet de pan indien nodig licht in met olie om het materiaal in goede conditie te houden.",
+   "variants": [
+    {
+     "id": "betbrothers-nerosteel-koekenpan-26-cm-genitreerd-ijzer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8059173143375",
+     "articleNumber": "1730",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/n/e/nerosteel-3_2.jpg",
+     "productURL": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-26-cm-genitreerd-ijzer-99219-0001069712"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-26-cm-genitreerd-ijzer-99219-0001069712",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "betbrothers-nerosteel-koekenpan-28-cm-genitreerd-ijzer",
+   "name": "BetBrothers NeroSteel koekenpan ø 28 cm genitreerd ijzer",
+   "brandID": "fbkitchenware",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor het aanbraden van vlees, roerbakken van groenten en andere bereidingen op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-28-cm-genitreerd-ijzer-99219-0001069713",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Koekenpan van genitreerd zwart ijzer met een roestvrijstalen steel met harde goudkleurige PVD-afwerking.",
+    "Door het nitreren heeft het ijzer een donker oppervlak en een hogere weerstand tegen slijtage en oxidatie.",
+    "Warmt snel op en reageert direct op temperatuurwisselingen.",
+    "Vrij van synthetische anti-aanbaklagen, PTFE, PFOA en nikkelsporen. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+    "Schoonmaken: warm water en een zachte borstel, direct afdrogen en indien nodig licht invetten met olie."
+   ],
+   "specs": [
+    {
+     "label": "Diameter",
+     "value": "28 cm"
+    },
+    {
+     "label": "Lengte",
+     "value": "49,2 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "4,5 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Oven, Barbecue"
+    },
+    {
+     "label": "Bodemdiameter",
+     "value": "22 cm"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De BetBrothers NeroSteel koekenpan heeft een diameter van 28 cm en is vervaardigd uit genitreerd zwart ijzer. De pan heeft een dikte van 2,5 mm en is voorzien van een roestvrijstalen steel met een harde goudkleurige PVD-afwerking. Het materiaal warmt snel op en is geschikt voor bakken op hoge temperaturen.\n\nBetBrothers NeroSteel koekenpan ø 28 cm genitreerd ijzer\n\nDoor het nitreringsproces heeft het ijzer een donker oppervlak en een verhoogde weerstand tegen slijtage en oxidatie. De pan verdeelt de warmte gelijkmatig over het oppervlak en reageert direct op temperatuurwisselingen. Hierdoor is de pan geschikt voor het aanbraden van vlees, het roerbakken van groenten en andere bereidingen op hoge temperatuur.\n\nDoor veelvuldig gebruik ontwikkelt het oppervlak een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect. De pan is vrij van synthetische anti-aanbaklagen en bevat geen PTFE, PFOA of nikkelsporen.\n\nDe NeroSteel serie van BetBrothers bestaat uit pannen van genitreerd ijzer met een natuurlijke anti-aanbakopbouw tijdens gebruik. De pannen zijn geschikt voor alle warmtebronnen, inclusief inductie, en kunnen ook worden gebruikt in de oven of op de barbecue.\n\nReinig de pan met warm water en een zachte borstel en droog direct af. Vet de pan indien nodig licht in met olie om het materiaal in goede conditie te houden.",
+   "variants": [
+    {
+     "id": "betbrothers-nerosteel-koekenpan-28-cm-genitreerd-ijzer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8059173143382",
+     "articleNumber": "1731",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/n/e/nerosteel-3_3.jpg",
+     "productURL": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-28-cm-genitreerd-ijzer-99219-0001069713"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/betbrothers-nerosteel-koekenpan-28-cm-genitreerd-ijzer-99219-0001069713",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "betbrothers-nerosteel-wok-26-cm-genitreerd-ijzer",
+   "name": "BetBrothers NeroSteel wok ø 26 cm genitreerd ijzer",
+   "brandID": "fbkitchenware",
+   "typeIDs": [
+    "plaatstaal"
+   ],
+   "suitedFor": {
+    "text": "Voor snel roerbakken van groenten, vlees, noedels en andere gerechten op hoge temperatuur.",
+    "source": {
+     "kind": "website",
+     "url": "https://www.kookwinkel.nl/betbrothers-nerosteel-wok-26-cm-genitreerd-ijzer-99219-0001069714",
+     "checkedOn": "2026-11-12"
+    }
+   },
+   "tellTheCustomer": [
+    "Wok van genitreerd zwart ijzer met een roestvrijstalen steel met harde goudkleurige PVD-afwerking.",
+    "Door het nitreren heeft het ijzer een donker oppervlak en een hogere weerstand tegen slijtage en oxidatie.",
+    "Warmt snel op en reageert direct op temperatuurwisselingen.",
+    "Vrij van synthetische anti-aanbaklagen, PTFE, PFOA en nikkelsporen. Door gebruik ontstaat een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect.",
+    "Geschikt voor alle warmtebronnen, inclusief inductie, de oven en de barbecue.",
+    "Schoonmaken: warm water en een zachte borstel, direct afdrogen en indien nodig licht invetten met olie."
+   ],
+   "specs": [
+    {
+     "label": "Diameter",
+     "value": "26 cm"
+    },
+    {
+     "label": "Hoogte",
+     "value": "8 cm"
+    },
+    {
+     "label": "Geschikt voor",
+     "value": "Grill, Elektrisch, Gas, Halogeen, Inductie, Oven, Barbecue"
+    },
+    {
+     "label": "Reiniging",
+     "value": "Handafwas"
+    }
+   ],
+   "originalDescription": "De BetBrothers NeroSteel wok heeft een diameter van 26 cm en is vervaardigd uit genitreerd zwart ijzer. De wok heeft een dikte van 2,5 mm en is voorzien van een roestvrijstalen steel met een harde goudkleurige PVD-afwerking. Het materiaal warmt snel op en is geschikt voor roerbakken en andere bereidingen op hoge temperaturen.\n\nBetBrothers NeroSteel wok ø 26 cm genitreerd ijzer\n\nDoor het nitreringsproces heeft het ijzer een donker oppervlak en een verhoogde weerstand tegen slijtage en oxidatie. De wok verdeelt de warmte gelijkmatig over het oppervlak en reageert direct op temperatuurwisselingen. Hierdoor is de wok geschikt voor het snel roerbakken van groenten, vlees, noedels en andere gerechten op hoge temperatuur.\n\nDoor veelvuldig gebruik ontwikkelt het oppervlak een natuurlijke patinalaag die bijdraagt aan een anti-aanbakeffect. De wok is vrij van synthetische anti-aanbaklagen en bevat geen PTFE, PFOA of nikkelsporen.\n\nDe NeroSteel serie van BetBrothers bestaat uit pannen van genitreerd ijzer met een natuurlijke anti-aanbakopbouw tijdens gebruik. De pannen zijn geschikt voor alle warmtebronnen, inclusief inductie, en kunnen ook worden gebruikt in de oven of op de barbecue.\n\nReinig de wok met warm water en een zachte borstel en droog direct af. Vet de wok indien nodig licht in met olie om het materiaal in goede conditie te houden.",
+   "variants": [
+    {
+     "id": "betbrothers-nerosteel-wok-26-cm-genitreerd-ijzer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "8059173143412",
+     "articleNumber": "1734",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/f/b/fb_kitchenware_nerosteel_wok_26_cm_genitreerd_ijzer.jpg",
+     "productURL": "https://www.kookwinkel.nl/betbrothers-nerosteel-wok-26-cm-genitreerd-ijzer-99219-0001069714"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/betbrothers-nerosteel-wok-26-cm-genitreerd-ijzer-99219-0001069714",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
   }
  ],
  "mismatches": [
@@ -9704,6 +12079,83 @@
    "note": "Meet de pan na of vraag het aan 1821 voordat je een maat aan een klant noemt.",
    "productIDs": [
     "1821-poffertjespan-20-cm-gietijzer-zwart"
+   ]
+  },
+  {
+   "id": "web-alessi-ar03-la-cubica-kookpan-2-4-liter-21-5-x-17-cm-gietaluminium-zwart-codes",
+   "kind": "websiteData",
+   "topic": "Alessi AR03 La Cubica kookpan 2,4 liter 21,5 x 17 cm gietaluminium zwart: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Soort pan (26771).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "alessi-ar03-la-cubica-kookpan-2-4-liter-21-5-x-17-cm-gietaluminium-zwart"
+   ]
+  },
+  {
+   "id": "web-alessi-dc100-20-convivio-kookpan-20-cm-5-7-liter-rvs-codes",
+   "kind": "websiteData",
+   "topic": "Alessi DC100/20 Convivio kookpan ø 20 cm 5,7 liter rvs: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Soort pan (26771).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "alessi-dc100-20-convivio-kookpan-20-cm-5-7-liter-rvs"
+   ]
+  },
+  {
+   "id": "web-alessi-dc101-20-convivio-kookpan-20-cm-3-1-liter-rvs-codes",
+   "kind": "websiteData",
+   "topic": "Alessi DC101/20 Convivio kookpan ø 20 cm 3,1 liter rvs: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Soort pan (26771).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "alessi-dc101-20-convivio-kookpan-20-cm-3-1-liter-rvs"
+   ]
+  },
+  {
+   "id": "web-alessi-dc101-24-convivio-kookpan-24-cm-5-4-liter-rvs-codes",
+   "kind": "websiteData",
+   "topic": "Alessi DC101/24 Convivio kookpan ø 24 cm 5,4 liter rvs: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Soort pan (26771).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "alessi-dc101-24-convivio-kookpan-24-cm-5-4-liter-rvs"
+   ]
+  },
+  {
+   "id": "web-alessi-dc102-24-convivio-braadpan-24-cm-2-7-liter-rvs-codes",
+   "kind": "websiteData",
+   "topic": "Alessi DC102/24 Convivio braadpan ø 24 cm 2,7 liter rvs: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Soort pan (26739).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "alessi-dc102-24-convivio-braadpan-24-cm-2-7-liter-rvs"
+   ]
+  },
+  {
+   "id": "web-alessi-dc102-28-convivio-braadpan-28-cm-3-7-liter-rvs-codes",
+   "kind": "websiteData",
+   "topic": "Alessi DC102/28 Convivio braadpan ø 28 cm 3,7 liter rvs: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Soort pan (26739).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "alessi-dc102-28-convivio-braadpan-28-cm-3-7-liter-rvs"
+   ]
+  },
+  {
+   "id": "web-alessi-dc100s7-convivio-pannenset-rvs-4-delig-1",
+   "kind": "websiteData",
+   "topic": "Alessi Convivio pannenset: aantal delen",
+   "websiteSays": "De naam zegt 4-delig; de specificaties en de beschrijving noemen 7 delen (4 pannen en 3 deksels).",
+   "status": "toVerify",
+   "note": "De lijst met onderdelen in de beschrijving telt 4 pannen waarvan 3 met deksel.",
+   "productIDs": [
+    "alessi-dc100s7-convivio-pannenset-rvs-4-delig"
    ]
   },
   {
