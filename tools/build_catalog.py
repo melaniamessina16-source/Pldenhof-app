@@ -24,7 +24,7 @@ COFFEE_TYPES = {'volautomaat', 'halfautomaat', 'filterkoffie'}
 DROP_SPECS = {'Merk', 'Artikelnummer', 'EAN', 'Kleur'}
 CODE = re.compile(r'^\d{5}$')
 NEW_BRANDS = {'rancilio': 'Rancilio', 'solis': 'Solis', 'graef': 'Graef', 'lapiccola': 'La Piccola',
-              '1821': '1821 Gietijzer', 'bk': 'BK', 'alessi': 'Alessi', 'fbkitchenware': 'FB Kitchenware'}
+              '1821': '1821 Gietijzer', 'bk': 'BK', 'alessi': 'Alessi', 'fbkitchenware': 'FB Kitchenware', 'oldenhof': 'Oldenhof'}
 # booklet p. 44: which brands the shop sells per machine type
 BOOKLET_BRANDS = {'volautomaat': ['jura', 'nivona', 'smeg'],
                   'halfautomaat': ['ecm', 'isomac', 'lapavoni', 'profitec', 'sage', 'smeg']}
@@ -115,6 +115,11 @@ def pans_products(checked):
                 check_page(p)
                 if p['file'] in claimed: sys.exit(f'{p["name"]}: claimed twice ({claimed[p["file"]]} and {f})')
                 claimed[p['file']] = f
+                full = ' '.join(d['text'] for d in p['description']).lower()
+                need = list(item.get('requires', [])) + (['raden wij het gebruik'] if item.get('inductionWarning') else [])
+                for ph in need:
+                    if ph.lower() not in full:
+                        sys.exit(f'{p["name"]}: the website text does not contain "{ph}" (entry {item["match"][0]})')
                 if text_key(p) not in item['keys']:
                     sys.exit(f'{p["name"]}: description text {text_key(p)} was not read for this entry ({f}, {item["match"][0]})')
             groups, cols = {}, {}
@@ -141,6 +146,10 @@ def pans_products(checked):
                          'Op de website staat een getal van 5 cijfers in plaats van een waarde bij: '
                          + '; '.join(f'{k} ({", ".join(sorted(v))})' for k, v in sorted(coded.items())) + '.',
                          'Deze regels zijn uit de app gelaten.')
+                if item.get('inductionWarning') and any('inductie' in spec_dict(p).get('Geschikt voor', '').lower() for p in vpages):
+                    flag('inductie', f'{name}: inductie',
+                         'De tekst op de website raadt gebruik op inductie af (roest aan de onderkant kan het contact met de kookplaat verstoren); de specificaties noemen inductie wel bij Geschikt voor.',
+                         'Vraag het na bij De Buyer of Oldenhof voordat je dit aan een klant belooft.')
                 cname = lambda p: cols[p['file']]
                 missing = [cname(p) or 'deze pagina' for p in vpages if not (p['ean'] or spec_dict(p).get('EAN'))]
                 if missing:

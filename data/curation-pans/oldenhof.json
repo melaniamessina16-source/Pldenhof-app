@@ -1,0 +1,230 @@
+[
+ {
+  "match": [
+   "1821 keramische crêpepan ø 30 cm"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor crêpes en pannenkoeken.",
+  "bullets": [
+   "Aluminium crêpepan met een zeer sterke keramische coating.",
+   "Keramische antikleeflaag, PTFE-, PFAS- en GenX-vrij: ook zonder boter of olie te bakken.",
+   "Glad en gemakkelijk schoon te maken.",
+   "Geschikt voor gas, elektrisch, halogeen, keramisch en inductie.",
+   "Schoonmaken: bij voorkeur met de hand afwassen, voor behoud van de pan en de keramische coating."
+  ],
+  "keys": [
+   "642198ea"
+  ]
+ },
+ {
+  "match": [
+   "1821 keramische sauteerpan ø 28 cm"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Aluminium hapjespan (sauteerpan) met een zeer sterke keramische coating.",
+   "Keramische antikleeflaag, PTFE-, PFAS- en GenX-vrij: ook zonder boter of olie te bakken.",
+   "Glad en gemakkelijk schoon te maken.",
+   "Geschikt voor gas, elektrisch, halogeen, keramisch en inductie.",
+   "Schoonmaken: bij voorkeur met de hand afwassen, voor behoud van de pan en de keramische coating."
+  ],
+  "keys": [
+   "07cc1f43"
+  ]
+ },
+ {
+  "match": [
+   "1821 keramische koekenpan ø \\d\\d cm"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor gebakken gerechten.",
+  "bullets": [
+   "Aluminium koekenpan met een zeer sterke keramische coating.",
+   "Keramische antikleeflaag, PTFE-, PFAS- en GenX-vrij: ook zonder boter of olie te bakken.",
+   "Glad en gemakkelijk schoon te maken.",
+   "Geschikt voor gas, elektrisch, halogeen, keramisch en inductie.",
+   "Schoonmaken: bij voorkeur met de hand afwassen, voor behoud van de pan en de keramische coating."
+  ],
+  "keys": [
+   "1f6e419a"
+  ]
+ },
+ {
+  "match": [
+   "1821 keramische koekenpan met deksel ø \\d\\d cm"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor gebakken gerechten.",
+  "bullets": [
+   "Aluminium koekenpan met een zeer sterke keramische coating; wordt geleverd met een deksel met siliconen rand.",
+   "Keramische antikleeflaag, PTFE-, PFAS- en GenX-vrij: ook zonder boter of olie te bakken.",
+   "Glad en gemakkelijk schoon te maken.",
+   "Geschikt voor gas, elektrisch, halogeen, keramisch en inductie.",
+   "Schoonmaken: bij voorkeur met de hand afwassen, voor behoud van de pan en de keramische coating."
+  ],
+  "keys": [
+   "95e71400"
+  ]
+ },
+ {
+  "match": [
+   "1821 keramische wokpan ø 32cm"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor roerbakgerechten.",
+  "bullets": [
+   "Aluminium wokpan met een zeer sterke keramische coating.",
+   "Keramische antikleeflaag, PTFE-, PFAS- en GenX-vrij: ook zonder boter of olie te bakken.",
+   "Glad en gemakkelijk schoon te maken.",
+   "Geschikt voor gas, elektrisch, halogeen, keramisch en inductie.",
+   "Schoonmaken: bij voorkeur met de hand afwassen, voor behoud van de pan en de keramische coating."
+  ],
+  "keys": [
+   "90d88a87"
+  ]
+ },
+ {
+  "match": [
+   "Chasseur braadpan [\\d,]+ liter ø \\d\\d cm gietijzer Quartz"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor soepen en stoofgerechten: 4 liter voor 4-6 personen, 6,1 liter voor 6-8 personen.",
+  "bullets": [
+   "Braadpan van Quartz (blauw) geëmailleerd gietijzer met een matzwarte binnenzijde.",
+   "Geëmailleerd gietijzer: duurzame emaillaag aan binnen- en buitenzijde, ondoordringbaar: neemt geen geuren, smaken en kleuren op.",
+   "Gietijzer verdeelt de warmte gelijkmatig, ook op laag vuur.",
+   "Gemaakt in Frankrijk (Champagne-Ardennes): het gietijzer wordt met de hand gegoten in zandvormen en de email met de hand aangebracht, dus elke pan is uniek. Tot 80% gerecycled materiaal.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en dankzij de hittebestendige roestvrijstalen knop ook voor de oven.",
+   "Levenslange garantie van Chasseur op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9ac0da92"
+  ],
+  "colours": [
+   "Quartz"
+  ]
+ },
+ {
+  "match": [
+   "Chasseur grillplaat 26 x 22 cm gietijzer (mat zwart|rood)"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het grillen van vlees, vis, zeevruchten en groenten.",
+  "bullets": [
+   "Grillplaat van geëmailleerd gietijzer, 26 x 22 cm (35 cm lang inclusief grepen).",
+   "Geëmailleerd gietijzer: duurzame emaillaag aan binnen- en buitenzijde, ondoordringbaar: neemt geen geuren, smaken en kleuren op.",
+   "Gietijzer verdeelt de warmte gelijkmatig, ook op laag vuur.",
+   "Gemaakt in Frankrijk (Champagne-Ardennes): het gietijzer wordt met de hand gegoten in zandvormen en de email met de hand aangebracht, dus elke pan is uniek. Tot 80% gerecycled materiaal.",
+   "Geschikt voor de oven en alle andere warmtebronnen, inclusief inductie.",
+   "Levenslange garantie van Chasseur op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "dc2a1fd9",
+   "0286ba92"
+  ],
+  "colours": [
+   "mat zwart",
+   "rood"
+  ]
+ },
+ {
+  "match": [
+   "Chasseur koekenpan met houten greep ø 28 cm gietijzer mat zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van vlees, vis, groenten of aardappels.",
+  "bullets": [
+   "Koekenpan van mat zwart geëmailleerd gietijzer met een houten greep.",
+   "Geëmailleerd gietijzer: duurzame emaillaag aan binnen- en buitenzijde, ondoordringbaar: neemt geen geuren, smaken en kleuren op.",
+   "Gietijzer verdeelt de warmte gelijkmatig, ook op laag vuur.",
+   "Gemaakt in Frankrijk (Champagne-Ardennes): het gietijzer wordt met de hand gegoten in zandvormen en de email met de hand aangebracht, dus elke pan is uniek. Tot 80% gerecycled materiaal.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Levenslange garantie van Chasseur op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Schoonmaken: warm water en afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "e369ddc1"
+  ],
+  "colours": [
+   "mat zwart"
+  ]
+ },
+ {
+  "match": [
+   "Chasseur tajine 3,5 liter ø 30 cm gietijzer rood"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor stoofgerechten met vlees, groenten of aardappels voor 4 tot 6 personen.",
+  "bullets": [
+   "Tajine van rood gietijzer, 3,5 liter.",
+   "Geëmailleerd gietijzer: duurzame emaillaag aan binnen- en buitenzijde, ondoordringbaar: neemt geen geuren, smaken en kleuren op.",
+   "Gietijzer verdeelt de warmte gelijkmatig, ook op laag vuur.",
+   "Het gietijzeren deksel helpt de warmte te verdelen, zodat het eten rondom gelijkmatig gaart.",
+   "Gemaakt in Frankrijk (Champagne-Ardennes): het gietijzer wordt met de hand gegoten in zandvormen en de email met de hand aangebracht, dus elke pan is uniek. Tot 80% gerecycled materiaal.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Levenslange garantie van Chasseur op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f3e48273"
+  ],
+  "colours": [
+   "rood"
+  ]
+ },
+ {
+  "match": [
+   "Chasseur wok ø 37 cm gietijzer rood"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor allerlei gerechten.",
+  "bullets": [
+   "Wok van rood geëmailleerd gietijzer met een matzwarte binnenzijde, geleverd met een glazen deksel.",
+   "Geëmailleerd gietijzer: duurzame emaillaag aan binnen- en buitenzijde, ondoordringbaar: neemt geen geuren, smaken en kleuren op.",
+   "Gietijzer verdeelt de warmte gelijkmatig, ook op laag vuur.",
+   "Gemaakt in Frankrijk (Champagne-Ardennes): het gietijzer wordt met de hand gegoten in zandvormen en de email met de hand aangebracht, dus elke pan is uniek. Tot 80% gerecycled materiaal.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie; zonder deksel ook voor de oven.",
+   "Levenslange garantie van Chasseur op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Schoonmaken: warm water en afwasmiddel."
+  ],
+  "keys": [
+   "908ba583"
+  ],
+  "colours": [
+   "rood"
+  ]
+ }
+]

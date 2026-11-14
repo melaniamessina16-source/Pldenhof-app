@@ -20,5 +20,5 @@ for n, (h, vv) in enumerate(g.items(), 1):
     print(f'=== GROEP {n} [{k[2]}]: {len(v)} pagina\'s')
     for i in v[:12]: print('  -', i['name'])
     if len(v) > 12: print(f'  … +{len(v)-12}')
-    print('  EERSTE ALINEA (cijfers=#):', k[0][:500])
+    print('  EERSTE ALINEA (cijfers=#):', k[0][:int(sys.argv[4]) if len(sys.argv) > 4 else 500])
     print('  REST:', k[1][:mx])

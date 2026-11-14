@@ -1,0 +1,346 @@
+[
+ {
+  "match": [
+   "De Buyer B-Element wok ø 40 cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het roerbakken van wokgerechten.",
+  "bullets": [
+   "Bombe wok van plaatstaal met een beschermende laag bijenwas (voor gebruik verwijderen).",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los."
+  ],
+  "keys": [
+   "26e3e7d9"
+  ],
+  "inductionWarning": false,
+  "requires": [
+   "hand zout"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer B-Element grillplaat met 2 grepen 38 x 26 cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het grillen van groenten, gevogelte en vlees.",
+  "bullets": [
+   "Rechthoekige grillplaat van plaatstaal (38 x 26 cm) met 2 handgrepen en een beschermende laag bijenwas (voor gebruik verwijderen).",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "555e8b15"
+  ],
+  "inductionWarning": true,
+  "requires": [
+   "hand zout"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer Carbon Plus wok ø 35,5 cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bakken van vlees, aardappelen of andere ingrediënten op hoge temperatuur.",
+  "bullets": [
+   "Wok van plaatstaal. Geschikt voor gas, keramiek, halogeen en elektrische fornuizen.",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "PFOA- en PFTE-vrij, recyclebaar en duurzaam; elke pan wordt stuk voor stuk in Frankrijk gemaakt.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "ac3c2e96"
+  ],
+  "inductionWarning": true,
+  "requires": [
+   "hand zout"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer Carbone blinipan ø 12 cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor blini's of eieren.",
+  "bullets": [
+   "Kleine koekenpan (blinipan) van plaatstaal.",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "6032cb51"
+  ],
+  "inductionWarning": true
+ },
+ {
+  "match": [
+   "De Buyer Carbone crêpepan ø \\d\\d cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor flensjes, pannenkoeken en crêpes; door de lage rand makkelijk te keren met een spatel (of door opgooien).",
+  "bullets": [
+   "Crêpepan van plaatstaal met lage rand; vanaf ø 22 cm moet de pan voor het eerste gebruik ingebrand worden.",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "c542e819",
+   "1e678fa9",
+   "1c2b39ca",
+   "88683155"
+  ],
+  "inductionWarning": true
+ },
+ {
+  "match": [
+   "De Buyer Carbone grillpan ø \\d\\d cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het grillen en bakken van gevogelte, vlees en groenten.",
+  "bullets": [
+   "Ronde grillpan van plaatstaal. (ø 26 cm: vet de producten in met olie, niet de grillplaat, zo voorkom je verbranding van de olie.)",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "63ba25bd",
+   "691169c3"
+  ],
+  "inductionWarning": true
+ },
+ {
+  "match": [
+   "De Buyer Carbone koekenpan ø (18|20|22|24|28|30|36) cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Ronde koekenpan van plaatstaal; de ø 36 cm heeft een tegengreep.",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "PFOA- en PFTE-vrij, recyclebaar en duurzaam; elke pan wordt stuk voor stuk in Frankrijk gemaakt en is geliefd in de professionele keuken.",
+   "Tijdens gebruik wordt de natuurlijke anti-aanbaklaag steeds zwarter en gaat beter werken.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "e1aacad1",
+   "bd440238",
+   "d1d72edc",
+   "b88d90e0",
+   "1944ebee",
+   "1e1c8c1b",
+   "23d864e9"
+  ],
+  "inductionWarning": true,
+  "requires": [
+   "hand zout"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer Carbone koekenpan ø (26|32) cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Ronde koekenpan van plaatstaal; de ø 32 cm heeft een tegengreep.",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "PFOA- en PFTE-vrij, recyclebaar en duurzaam; elke pan wordt stuk voor stuk in Frankrijk gemaakt en is geliefd in de professionele keuken.",
+   "Tijdens gebruik wordt de natuurlijke anti-aanbaklaag steeds zwarter en gaat beter werken.",
+   "De Buyer geeft levenslange garantie op de koekenpan; kromtrekken bij gebruik op inductie valt niet onder de garantie.",
+   "De tekst noemt deze pan geschikt voor alle warmtebronnen, inclusief inductie en de oven, maar waarschuwt dat de pan bij hoge temperaturen kan kromtrekken op inductie.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "1df74a3e",
+   "3e81d5eb"
+  ],
+  "inductionWarning": true,
+  "mismatches": [
+   {
+    "topic": "De Buyer Carbone koekenpan: inductie",
+    "websiteSays": "De beschrijving zegt dat de pan geschikt is voor alle warmtebronnen inclusief inductie, en tegelijk dat De Buyer pannen op inductie wordt afgeraden (roest onderaan) en dat kromtrekken op inductie niet onder de garantie valt.",
+    "note": "Vraag het na bij De Buyer voordat je inductie belooft."
+   }
+  ],
+  "requires": [
+   "hand zout"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer Carbone koekenpan ovaal ø 40 cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Ideaal voor hele vis; ook voor het bakken en braden van groente, vlees en gevogelte.",
+  "bullets": [
+   "Ovale koekenpan van plaatstaal. Geschikt voor gas, halogeen, keramiek, elektrische fornuizen en de oven.",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "PFOA- en PFTE-vrij, recyclebaar en duurzaam; elke pan wordt stuk voor stuk in Frankrijk gemaakt en is geliefd in de professionele keuken.",
+   "Tijdens gebruik wordt de natuurlijke anti-aanbaklaag steeds zwarter en gaat beter werken.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "9b8f5fa7"
+  ],
+  "inductionWarning": true,
+  "requires": [
+   "hand zout"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer Carbone paellapan ø \\d\\d cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het maken van paella's; vanaf ø 40 cm ook voor vlees, vis of groenten.",
+  "bullets": [
+   "Paellapan van plaatstaal met 2 handgrepen; vanaf ø 40 cm 2,5 mm dik plaatstaal en geschikt voor gas, halogeen, keramiek en elektrische fornuizen.",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "a9cf7e46",
+   "6388d345"
+  ],
+  "inductionWarning": true
+ },
+ {
+  "match": [
+   "De Buyer Mineral B Pro koekenpan ø 28 cm"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bakken van allerlei gerechten.",
+  "bullets": [
+   "Koekenpan van plaatstaal met een roestvrijstalen handvat dat koel blijft tijdens gebruik, en een beschermende laag bijenwas (voor gebruik verwijderen).",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie en de pan ook later licht vet houden.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen."
+  ],
+  "keys": [
+   "b3edc443"
+  ],
+  "inductionWarning": false,
+  "requires": [
+   "bijenwas"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer Carbone vispan ovaal ø 36 cm plaatstaal breedtegreep"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bakken van hele vissen.",
+  "bullets": [
+   "Ovale vispan van plaatstaal (diameters 36 en 26,5 cm, 4,8 cm hoog) met een handgreep. Geschikt voor gas, keramisch, halogeen en elektrische fornuizen.",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie."
+  ],
+  "keys": [
+   "784e19b4"
+  ],
+  "inductionWarning": false
+ },
+ {
+  "match": [
+   "De Buyer Carbone vispan ovaal ø 36 cm plaatstaal lengtegreep"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bakken van hele vissen.",
+  "bullets": [
+   "Ovale vispan van plaatstaal (diameters 36 en 26,5 cm, 4,8 cm hoog) met een handgreep. Geschikt voor gas, keramisch, halogeen en elektrische fornuizen.",
+   "Gemaakt van slijtvast staal met een hoog koolstofgehalte: gaat een leven lang mee en krijgt door gebruik een natuurlijk anti-aanbakeffect.",
+   "Plaatstaal warmt snel op en verdraagt hoge temperaturen.",
+   "Vóór het eerste gebruik inbranden met plantaardige olie; houd de pan ook na gebruik vet, ter voorkoming van roest.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: enkel heet water zonder afwasmiddel en goed afdrogen. Gebruik je toch afwasmiddel, wrijf de pan daarna in met een beetje olie.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "9f526159"
+  ],
+  "inductionWarning": true
+ }
+]

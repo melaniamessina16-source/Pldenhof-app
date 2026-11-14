@@ -1,0 +1,315 @@
+[
+ {
+  "match": [
+   "De Buyer B-Element blinipan ø 12 cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kleine ronde koekenpan (blinipan) van plaatstaal.",
+   "Pan van plaatstaal: warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag; houd de pan ook daarna licht vet om roesten te voorkomen.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: heet water en eventueel een klein beetje afwasmiddel (dan daarna met een beetje olie inwrijven), goed afdrogen. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "9320ea5d"
+  ],
+  "inductionWarning": true,
+  "requires": [
+   "bijenwas",
+   "schuursponsje",
+   "plantaardige olie"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer B-Element blinipan ø 27 cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor blini's: de speciale vorm laat meerdere blini's tegelijk bereiden.",
+  "bullets": [
+   "Ronde blinipan van plaatstaal met een speciale vorm waarin tegelijkertijd meerdere blini's bereid kunnen worden.",
+   "Pan van plaatstaal: warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag; houd de pan ook daarna licht vet om roesten te voorkomen.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: heet water en eventueel een klein beetje afwasmiddel (dan daarna met een beetje olie inwrijven), goed afdrogen. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los."
+  ],
+  "keys": [
+   "dc870cab"
+  ],
+  "inductionWarning": false,
+  "requires": [
+   "bijenwas",
+   "schuursponsje",
+   "plantaardige olie"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer B-Element Bombe wok ø (24|28|32|40)( cm)?( plaatstaal)?"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het roerbakken van wokgerechten.",
+  "bullets": [
+   "Bombe wok van plaatstaal; vanaf ø 32 cm met tegengreep voor makkelijker hanteren.",
+   "Pan van plaatstaal: warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag; houd de pan ook daarna licht vet om roesten te voorkomen.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: heet water en eventueel een klein beetje afwasmiddel (dan daarna met een beetje olie inwrijven), goed afdrogen. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "Inbranden: pan eerst heel goed afwassen (waslaag weg), droog op het vuur laten opwarmen, wat plantaardige olie verdelen en laten inbranden tot de pan walmt en de bodem verkleurt; vuur uit, laten afkoelen en overtollige olie wegvegen. Laat de laag los? Dan is de pan niet hoog of lang genoeg verhit: schrob de laag eraf en begin opnieuw."
+  ],
+  "keys": [
+   "4f84e78a",
+   "8b0d8966",
+   "9f2c5468",
+   "26e3e7d9"
+  ],
+  "inductionWarning": false,
+  "requires": [
+   "bijenwas",
+   "schuursponsje",
+   "plantaardige olie"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer B-Element crêpepan ø (24|26) cm plaatstaal( grijs)?"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor flensjes, pannenkoeken, crêpes en omeletten.",
+  "bullets": [
+   "Crêpepan van plaatstaal met een afwerking van natuurlijke bijenwas.",
+   "Pan van plaatstaal: warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag; houd de pan ook daarna licht vet om roesten te voorkomen.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: heet water en eventueel een klein beetje afwasmiddel (dan daarna met een beetje olie inwrijven), goed afdrogen. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "c54fc935",
+   "f4a1fc0a"
+  ],
+  "inductionWarning": true,
+  "requires": [
+   "bijenwas",
+   "schuursponsje",
+   "plantaardige olie"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer B-Element crêpepan ø 30 cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor flensjes, pannenkoeken, crêpes en omeletten.",
+  "bullets": [
+   "Crêpepan van plaatstaal met een afwerking van natuurlijke bijenwas.",
+   "Pan van plaatstaal: warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag; houd de pan ook daarna licht vet om roesten te voorkomen.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: heet water en eventueel een klein beetje afwasmiddel (dan daarna met een beetje olie inwrijven), goed afdrogen. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los."
+  ],
+  "keys": [
+   "4e5915d5"
+  ],
+  "inductionWarning": false,
+  "requires": [
+   "bijenwas",
+   "schuursponsje",
+   "plantaardige olie"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer B-Element diepe pan met 2 grepen ø \\d\\d cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bakken van dagelijkse ingrediënten.",
+  "bullets": [
+   "Diepe pan (hapjespan) van plaatstaal met twee handgrepen.",
+   "Pan van plaatstaal: warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag; houd de pan ook daarna licht vet om roesten te voorkomen.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: heet water en eventueel een klein beetje afwasmiddel (dan daarna met een beetje olie inwrijven), goed afdrogen. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "259618b8"
+  ],
+  "inductionWarning": true,
+  "requires": [
+   "bijenwas",
+   "schuursponsje",
+   "plantaardige olie"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer B-Element grillpan ø \\d\\d cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het grillen en bakken van gevogelte, vlees en groenten.",
+  "bullets": [
+   "Ronde grillpan van plaatstaal. Vet de producten in met olie, niet de grillplaat: zo voorkom je dat de olie verbrandt.",
+   "Pan van plaatstaal: warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag; houd de pan ook daarna licht vet om roesten te voorkomen.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: heet water en eventueel een klein beetje afwasmiddel (dan daarna met een beetje olie inwrijven), goed afdrogen. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "8d581d07",
+   "f4ed0147"
+  ],
+  "inductionWarning": true,
+  "requires": [
+   "bijenwas",
+   "schuursponsje",
+   "plantaardige olie"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer B-Element koekenpan ø (20|24|26|28|32|36) cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Ronde koekenpan van plaatstaal; de ø 32 cm heeft een tegengreep voor extra grip.",
+   "Pan van plaatstaal: warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag; houd de pan ook daarna licht vet om roesten te voorkomen.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: heet water en eventueel een klein beetje afwasmiddel (dan daarna met een beetje olie inwrijven), goed afdrogen. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "a2d5fef6",
+   "8209e9ba",
+   "71a87758",
+   "ce396db9"
+  ],
+  "inductionWarning": true,
+  "requires": [
+   "bijenwas",
+   "schuursponsje",
+   "plantaardige olie"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer B-Element poffertjespan ø 27 cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor authentieke Hollandse poffertjes.",
+  "bullets": [
+   "Poffertjespan van plaatstaal. Laat de pan op matig vuur goed heet worden, olie de pan royaal in, giet het beslag in de kuilen en draai de poffertjes halverwege een keer om.",
+   "Pan van plaatstaal: warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag; houd de pan ook daarna licht vet om roesten te voorkomen.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: heet water en eventueel een klein beetje afwasmiddel (dan daarna met een beetje olie inwrijven), goed afdrogen. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los."
+  ],
+  "keys": [
+   "266b71d6"
+  ],
+  "inductionWarning": false,
+  "requires": [
+   "bijenwas",
+   "schuursponsje",
+   "plantaardige olie"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer B-Element sauspan ø 24 cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bereiden en serveren van sauzen en jus.",
+  "bullets": [
+   "Sauspan van plaatstaal.",
+   "Pan van plaatstaal: warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag; houd de pan ook daarna licht vet om roesten te voorkomen.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: heet water en eventueel een klein beetje afwasmiddel (dan daarna met een beetje olie inwrijven), goed afdrogen. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "df477c71"
+  ],
+  "inductionWarning": true,
+  "requires": [
+   "bijenwas",
+   "schuursponsje",
+   "plantaardige olie"
+  ]
+ },
+ {
+  "match": [
+   "De Buyer B-Element sauteerpan ø (28|32) cm plaatstaal"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bakken van dagelijkse ingrediënten.",
+  "bullets": [
+   "Sauteerpan (hapjespan) van plaatstaal.",
+   "Pan van plaatstaal: warmt snel op en verdraagt hoge temperaturen.",
+   "Geleverd met een beschermende laag bijenwas tegen roest: voor gebruik grondig verwijderen. Daarna vóór het eerste gebruik inbranden met plantaardige olie.",
+   "Door veelvuldig gebruik ontstaat een natuurlijke anti-aanbaklaag; houd de pan ook daarna licht vet om roesten te voorkomen.",
+   "Een krasje of roest op een nieuwe pan is normaal bij plaatstaal; roest is met een schuursponsje weg te poetsen.",
+   "Schoonmaken: heet water en eventueel een klein beetje afwasmiddel (dan daarna met een beetje olie inwrijven), goed afdrogen. Aangebakken? Strooi een hand zout in de pan en zet die op het vuur: het vuil weekt los.",
+   "De website raadt gebruik op inductie af: de pan is roestgevoelig en roest aan de onderkant kan het contact met de kookplaat verstoren."
+  ],
+  "keys": [
+   "880f49b9"
+  ],
+  "inductionWarning": true,
+  "requires": [
+   "bijenwas",
+   "schuursponsje",
+   "plantaardige olie"
+  ]
+ }
+]
