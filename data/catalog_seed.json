@@ -87,6 +87,13 @@
    "symbol": "flame",
    "groupingLabel": "Per soort",
    "advice": []
+  },
+  {
+   "id": "boeken",
+   "name": "Boeken",
+   "symbol": "book",
+   "groupingLabel": "Per onderwerp",
+   "advice": []
   }
  ],
  "typeGuides": [
@@ -1008,6 +1015,94 @@
    "id": "kaasmessen",
    "categoryID": "messen",
    "name": "Kaasmessen",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "bbq-boeken",
+   "categoryID": "boeken",
+   "name": "BBQ- en grillboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "airfryer-boeken",
+   "categoryID": "boeken",
+   "name": "Airfryerboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "slowcooker-boeken",
+   "categoryID": "boeken",
+   "name": "Slowcookerboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "wok-pan-boeken",
+   "categoryID": "boeken",
+   "name": "Wok-, tajine- en eenpansboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "sous-vide-boeken",
+   "categoryID": "boeken",
+   "name": "Sous-videboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "bak-boeken",
+   "categoryID": "boeken",
+   "name": "Bakboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "cocktail-boeken",
+   "categoryID": "boeken",
+   "name": "Cocktailboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "overige-boeken",
+   "categoryID": "boeken",
+   "name": "Overige boeken",
    "subtitle": null,
    "oneLiner": null,
    "facts": [],

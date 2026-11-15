@@ -1,0 +1,221 @@
+[
+ {
+  "match": [
+   "Mix\\ \\&\\ Meer\\ \\-\\ Recepten\\ voor\\ de\\ Magimix"
+  ],
+  "brandID": "goodcook",
+  "typeIDs": [
+   "overige-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Mix & Meer: recepten voor de Magimix keukenmachine van Jessica Lek",
+   "Amuses, voorgerechten, hoofd- en bijgerechten, desserts en kazen, dranken en basisrecepten",
+   "Uitgever Good Cook, Nederlands, hardcover, ISBN 9789461430953"
+  ],
+  "keys": [
+   "3699c5e0"
+  ],
+  "brandName": "Good Cook"
+ },
+ {
+  "match": [
+   "Sous\\-vide\\ \\-\\ 85\\ recepten\\ voor\\ de\\ thuiskok"
+  ],
+  "brandID": "goodcook",
+  "typeIDs": [
+   "sous-vide-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Sous-vide - 85 recepten voor de thuiskok van Bas Robben",
+   "Legt uit wat sous-vide is: vacuüm garen in een waterbad op lage, constante temperatuur",
+   "Uitgever Good Cook, Nederlands, hardcover, 280 pagina's, ISBN 9789461432230"
+  ],
+  "keys": [
+   "4b6524cd"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Curry\\ Guy\\ Airfryer"
+  ],
+  "brandID": "goodcook",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Curry Guy Airfryer van Dan Toombs",
+   "50 eenvoudige recepten: curry's, tandoorigerechten en andere Indiase klassiekers uit de airfryer",
+   "Hardcover"
+  ],
+  "keys": [
+   "8f39020b"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26769",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "The\\ Curry\\ Guy\\ BBQ:\\ 100\\ Indiase\\ klassiekers\\ van\\ de\\ barbecue"
+  ],
+  "brandID": "goodcook",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Curry Guy BBQ van Dan Toombs: 100 Indiase klassiekers van de barbecue",
+   "Indiase gerechten voor barbecue, grill of pan boven open vuur",
+   "Uitleg over apparatuur, temperatuur en directe of indirecte hitte",
+   "Uitgever Good Cook, Nederlands, hardcover, ISBN 9789461432766"
+  ],
+  "keys": [
+   "9137ed56"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Curry\\ Guy\\ één\\ pan"
+  ],
+  "brandID": "goodcook",
+  "typeIDs": [
+   "wok-pan-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Curry Guy één pan van Dan Toombs: meer dan 150 eenpansgerechten",
+   "Soepen, stoofpotjes en currygerechten uit o.a. India, Sri Lanka, Thailand en Maleisië",
+   "Nederlands, hardcover"
+  ],
+  "keys": [
+   "b315df2a"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26802",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "The\\ Curry\\ Guy\\ Slowcooker"
+  ],
+  "brandID": "goodcook",
+  "typeIDs": [
+   "slowcooker-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Curry Guy Slowcooker van Dan Toombs",
+   "Curry's en Indiase klassiekers in de slowcooker, ook uit Zuidoost-Azië",
+   "Bevat basisrecepten: rijst, bouillons, specerijenmengsels en kruidenpasta's",
+   "Uitgever Good Cook, Nederlands, hardcover"
+  ],
+  "keys": [
+   "69745415"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26769",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Vegan\\ Summer\\ :\\ plantaardige\\ barbecue"
+  ],
+  "brandID": "goodcook",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vegan Summer van Miljuschka Witzenhausen: plantaardige barbecue",
+   "Vegan hoofd- en bijgerechten voor op en bij de barbecue",
+   "Uitgever Good Cook, Nederlands, hardcover, 88 pagina's, ISBN 9789461432551"
+  ],
+  "keys": [
+   "b6a07fa7"
+  ]
+ },
+ {
+  "match": [
+   "Wok!\\ Aziatische\\ wokgerechten\\ in\\ een\\ handomdraai"
+  ],
+  "brandID": "goodcook",
+  "typeIDs": [
+   "wok-pan-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Wok! Aziatische wokgerechten in een handomdraai",
+   "Gaat over roerbaktechnieken, hitte en volgorde van ingrediënten",
+   "Uitgever Good Cook, Nederlands, hardcover, 208 pagina's, ISBN 9789461432780"
+  ],
+  "keys": [
+   "b4f464ef"
+  ]
+ },
+ {
+  "match": [
+   "De\\ anatomie\\ van\\ het\\ Japanse\\ mes"
+  ],
+  "brandID": "goodcook",
+  "typeIDs": [
+   "overige-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "De anatomie van het Japanse mes: boek over Japanse messen",
+   "Geschiedenis van het Japanse messenmaken, portretten van vakmannen, staalsoorten en smeedtechnieken",
+   "Informatie over gebruik, onderhoud en slijpen",
+   "Uitgever Good Cook, Nederlands, hardcover"
+  ],
+  "keys": [
+   "efcc7644"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26762",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Airfryer\\ kookboek"
+  ],
+  "brandID": "goodcook",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Airfryer kookboek van Peter Friehling",
+   "Laat de mogelijkheden van de airfryer zien",
+   "Nederlands, hardcover"
+  ],
+  "keys": [
+   "f75ae3ae"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26735",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ }
+]

@@ -27,7 +27,7 @@
   const fmtTime = iso => { try { return new Date(iso).toLocaleString(LOC(), { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }); } catch { return iso; } };
   const PALETTE = ['#D99E1A', '#29879E', '#B34033', '#4D73D9', '#40995A', '#9E529E'];
   const IC = (n, cls) => window.Icons.svg(n, cls);
-  const GROUP_ICON = { pannen: 'pan', koffie: 'coffee', messen: 'knife', 'klein-elektrisch': 'plug', fornuis: 'flame', 'koffie-espresso': 'coffee', 'kassa-groepen': 'receipt',
+  const GROUP_ICON = { pannen: 'pan', koffie: 'coffee', messen: 'knife', 'klein-elektrisch': 'plug', fornuis: 'flame', 'koffie-espresso': 'coffee', 'kassa-groepen': 'receipt', boeken: 'book',
                   producten: 'box', plaatstaal: 'disc', roestvrijstaal: 'sparkle', gietijzer: 'casserole', 'aluminium-antiaanbak': 'egg',
                   volautomaat: 'robot', halfautomaat: 'hand', filterkoffie: 'kettle' };
   // icons for booklet topics and their parts: decoration only, picked from words in the title
@@ -324,7 +324,7 @@
       <h2>${L('Afdelingen', 'Departments')}</h2>
       <div class="tiles">${B.groups.map((g, i) => {
         const np = g.categoryID ? productsOfCat(g.categoryID).length : 0;
-        return `<a class="tile" href="#/g/${esc(g.id)}"><div class="tile-top">${icon(g.id, i)}<span class="tile-arrow">${IC('arrow')}</span></div><div><div class="label">${esc(LT(g.title))}</div><div class="count">${np ? `${np} ${L('producten', 'products')} · ` : ''}${g.topics.length} ${g.topics.length > 1 ? L('onderwerpen', 'topics') : L('onderwerp', 'topic')}</div></div></a>`; }).join('')}</div>
+        return `<a class="tile" href="#/g/${esc(g.id)}"><div class="tile-top">${icon(g.id, i)}<span class="tile-arrow">${IC('arrow')}</span></div><div><div class="label">${esc(LT(g.title))}</div><div class="count">${np ? `${np} ${L('producten', 'products')} · ` : ''}${g.topics.length ? `${g.topics.length} ${g.topics.length > 1 ? L('onderwerpen', 'topics') : L('onderwerp', 'topic')}` : ''}</div></div></a>`; }).join('')}</div>
       <div class="section-title"><h2>${L('Merken', 'Brands')}</h2><span class="muted small">${L('overzicht en vergelijken', 'overview and compare')}</span></div>
       <div class="chips">${C.brands.map(b => ({ b, n: C.products.filter(p => p.brandID === b.id).length })).filter(x => x.n || FOLDERS[x.b.id]).sort((x, y) => y.n - x.n)
         .map(({ b, n }) => `<a class="chip" href="#/b/${esc(b.id)}">${esc(b.name)} <span class="faint">${n}</span></a>`).join('')}</div>
@@ -347,7 +347,7 @@
         <div class="list">${types.map((t, i) => `<a class="row" href="#/t/${esc(t.id)}">${icon(t.id, i)}<div class="grow"><div class="name">${esc(t.name)}</div>
           <div class="sub">${esc(t.oneLiner?.text || t.subtitle || '')}</div><div class="sub faint">${productsOfType(t.id).length} ${L('producten', 'products')}</div></div>${chev}</a>`).join('')}</div>` : ''}
       ${c && c.advice?.length ? `<div class="card"><h3>${L('Advies bij verkoop', 'Sales advice')}</h3><ul class="bullets">${c.advice.map(a => `<li>${esc(a.text)}</li>`).join('')}</ul>${source(c.advice[0].source)}</div>` : ''}
-      <h2>${L('Theorie uit het boekje', 'Theory from the booklet')}</h2>
+      ${g.topics.length ? `<h2>${L('Theorie uit het boekje', 'Theory from the booklet')}</h2>` : ''}
       <div class="tiles">${g.topics.map((t, i) => `<a class="tile" href="#/g/${esc(id)}/${esc(t.id)}">${picIcon(t.title.nl, i)}<div><div class="label">${esc(LT(t.title))}</div>
         <div class="count">${esc(pageLabel(t))}</div></div></a>`).join('')}</div>
       ${prods.length ? `<div class="section-title"><h2>${L('Producten', 'Products')}</h2><span class="muted small">${shown.length}</span></div>

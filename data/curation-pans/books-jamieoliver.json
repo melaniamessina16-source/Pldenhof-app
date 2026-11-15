@@ -1,0 +1,28 @@
+[
+ {
+  "match": [
+   "Easy\\ Airfryer\\ \\-\\ Jamie\\ Oliver"
+  ],
+  "brandID": "jamieoliver",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Jamie's Easy Airfryer: ruim 90 snelle en makkelijke recepten van Jamie Oliver",
+   "Hoofdstukken o.a. Snelle happen, Nieuwe classics, Supersalades, Toptoetjes",
+   "Hardcover"
+  ],
+  "keys": [
+   "89209e8d"
+  ],
+  "brandName": "Jamie Oliver",
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26737",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ }
+]

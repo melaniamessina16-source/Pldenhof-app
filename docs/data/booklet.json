@@ -6553,6 +6553,20 @@
    "categoryID": "koffie"
   },
   {
+   "id": "boeken",
+   "title": {
+    "nl": "Boeken",
+    "en": "Books"
+   },
+   "subtitle": {
+    "nl": "Kookboeken per onderwerp",
+    "en": "Cookbooks by subject"
+   },
+   "categoryID": "boeken",
+   "topics": [],
+   "symbol": "book"
+  },
+  {
    "id": "kassa-groepen",
    "symbol": "list.bullet.rectangle",
    "title": {

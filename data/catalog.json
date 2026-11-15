@@ -87,6 +87,13 @@
    "symbol": "flame",
    "groupingLabel": "Per soort",
    "advice": []
+  },
+  {
+   "id": "boeken",
+   "name": "Boeken",
+   "symbol": "book",
+   "groupingLabel": "Per onderwerp",
+   "advice": []
   }
  ],
  "typeGuides": [
@@ -1024,6 +1031,94 @@
    "mismatchIDs": []
   },
   {
+   "id": "bbq-boeken",
+   "categoryID": "boeken",
+   "name": "BBQ- en grillboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "airfryer-boeken",
+   "categoryID": "boeken",
+   "name": "Airfryerboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "slowcooker-boeken",
+   "categoryID": "boeken",
+   "name": "Slowcookerboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "wok-pan-boeken",
+   "categoryID": "boeken",
+   "name": "Wok-, tajine- en eenpansboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "sous-vide-boeken",
+   "categoryID": "boeken",
+   "name": "Sous-videboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "bak-boeken",
+   "categoryID": "boeken",
+   "name": "Bakboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "cocktail-boeken",
+   "categoryID": "boeken",
+   "name": "Cocktailboeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "overige-boeken",
+   "categoryID": "boeken",
+   "name": "Overige boeken",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
    "id": "filterkoffie",
    "categoryID": "koffie",
    "name": "Filterkoffie",
@@ -1241,6 +1336,18 @@
    "name": "Smokewood"
   },
   {
+   "id": "bowlsanddishes",
+   "name": "Bowls and Dishes"
+  },
+  {
+   "id": "goodcook",
+   "name": "Good Cook"
+  },
+  {
+   "id": "jamieoliver",
+   "name": "Jamie Oliver"
+  },
+  {
    "id": "dualit",
    "name": "Dualit"
   },
@@ -1435,10 +1542,6 @@
   {
    "id": "boosblocks",
    "name": "Boos blocks"
-  },
-  {
-   "id": "bowlsanddishes",
-   "name": "Bowls and Dishes"
   },
   {
    "id": "burgvogel",
@@ -33079,6 +33182,3559 @@
     "checkedOn": "2026-11-12"
    },
    "mismatchIDs": null
+  },
+  {
+   "id": "500-tajinegerechten",
+   "name": "500 Tajinegerechten",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "wok-pan-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Kookboek met 500 tajinegerechten",
+    "Recepten voor klassieke en eigentijdse tajinegerechten, Noord-Afrikaans en mediterraan",
+    "Ook recepten met weinig calorieën; tajines met lamsvlees, kip, rundvlees, vis, zeevruchten en peulvruchten",
+    "Auteur Valentina Harris, Nederlands, hardcover, 288 pagina's"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "288"
+    },
+    {
+     "label": "Auteur",
+     "value": "Valentina Harris"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789048311255"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken, mediterraan"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Veltman"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Heerlijke recepten voor klassieke en eigentijdse tajinegerechten. Deze collectie bevat niet alleen authentieke Noord-Afrikaanse en mediterrane tajinerecepten voor pittige stoofpotten en stevige schotels, maar ook recepten voor heerlijke gerechten met weinig calorieën - u kunt kiezen uit tajines met lamsvlees, kip, rundvlees, vis, zeevruchten, peulvruchten, noten, vruchten en groenten. Inclusief tips voor de aanschaf en het onderhoud van uw tajine - en natuurlijk veel tips voor het koken in de tajine. Recepten met de traditionele smaken uit Noord-Afrika en het Middellandse Zeegebied, maar ook recepten met verrassende moderne ingrediënten. Prachtige foto's van de gerechten met mooie suggesties voor het serveren.",
+   "variants": [
+    {
+     "id": "500-tajinegerechten",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048311255",
+     "articleNumber": "9789048311255",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/6/4/1483_64815_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/500-tajinegerechten"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/500-tajinegerechten",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "foolproof-bbq",
+   "name": "Foolproof BBQ",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Kookboek 'Foolproof BBQ' van Genevieve Taylor",
+    "Bevat 60 duidelijke recepten voor de barbecue",
+    "Derde deel in de 'Foolproof'-reeks, na 'Foolproof uit één pan' en 'Foolproof vis'"
+   ],
+   "specs": [],
+   "originalDescription": "Foolproof lekkere en makkelijke gerechten op de barbecue bereiden? Het kan met het kookboek 'Foolproof BBQ' van Genevieve Taylor! Na 'Foolproof uit één pan' en 'Foolproof vis' is het nu tijd om de barbecue aan te steken. Deze geweldige derde toevoeging aan de 'Foolproof'-reeks bevat 60 duidelijke recepten die je eenvoudig leren de lekkerste gerechten op tafel te zetten. Ga voor lamssaté met harissa en dadels of serveer portobelloburgers met mierikswortelsaus. Kies voor een heerlijke lendebiefstuk met chimichurri en sluit af met een knaller van een dessert: ananas met chili-rumsaus. Met dit kookboek vol recepten met vis, vlees, groente én fruit in de hoofdrol imponeer je je gasten gegarandeerd. Kies een zomerse dag, nodig je vrienden uit, steek de barbecue aan en ga een stressvrije avond tegemoet met 'Foolproof BBQ'.",
+   "variants": [
+    {
+     "id": "foolproof-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789023016939",
+     "articleNumber": "9789023016939",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/f/o/foolproof_bbq.jpg",
+     "productURL": "https://www.kookwinkel.nl/foolproof-bbq-67229-0001062417"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/foolproof-bbq-67229-0001062417",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "het-airfryer-kookboek-100-recepten",
+   "name": "Het Airfryer kookboek - 100 recepten",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Kookboek over de airfryer, 100 recepten (volgens de titel)",
+    "Noemt o.a. Vietnamese loempiaatjes, frietjes en kipnuggets uit de airfryer",
+    "Nederlands"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    }
+   ],
+   "originalDescription": "Met een airfryer bak je voedsel sneller en met veel minder olie dan met een 'gewone' friteuse. Het eindresultaat is krokant, licht en gezond. Met een airfryer kun je zonder schuldgevoel heerlijke Vietnamese loempiaatjes, smaakvolle frietjes, krokante kipnuggets en andere traditionele frituursnacks maken. Daarnaast kun je met een airfryer nog allerlei gerechten bereiden die je doorgaans in een oven of grill maakt: van warme groentegerechten tot falafel, burgers en zelfs taart! Dankzij zijn compacte formaat, lage energieverbruik en snelle bereidingstijden verdient de airfryer absoluut een plekje in je keuken. Je vindt hier meer dan 100 recepten die je het water in de mond doen lopen, van borrelhapjes tot desserts. Heb je net een airfryer maar geen idee wat je er allemaal mee kunt? Dan is dit boek een must!",
+   "variants": [
+    {
+     "id": "het-airfryer-kookboek-100-recepten",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048318216",
+     "articleNumber": "9789048318216",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/6/963x1200_1_.jpg",
+     "productURL": "https://www.kookwinkel.nl/het-airfryer-kookboek-100-recepten-95202"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/het-airfryer-kookboek-100-recepten-95202",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-het-airfryer-kookboek-100-recepten-1",
+    "web-het-airfryer-kookboek-100-recepten-codes"
+   ]
+  },
+  {
+   "id": "het-complete-airfryer-boek",
+   "name": "Het complete airfryer boek",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Kookboek over de airfryer",
+    "Laat het gebruik van de moderne airfryer zien",
+    "Uitgever Image Books, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Image Books"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "De populariteit van de airfryer is in de afgelopen jaren alleen maar toegenomen. Dat is begrijpelijk, want de airfryer past helemaal in de trend van snel, gemakkelijk en gezond. De voordelen zijn groot en de ontwikkelingen gaan hard. De tijd dat we in de airfryer alleen snacks bakten, ligt al ver achter ons. Dit boek laat het gebruik van de moderne airfryer in al zijn facetten zien. Tegenwoordig zijn allerlei producten op een eenvoudige, maar vooral op een heel gezonde manier te bereiden. Vlees, vis of vega, van ontbijt tot diner, van zoet tot hartig. Dit complete airfryerboek staat boordevol toegankelijke recepten en handige tips. Zo haalt u het beste uit uw airfryer. Ga ermee aan de slag en verras uzelf!",
+   "variants": [
+    {
+     "id": "het-complete-airfryer-boek",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789463338561",
+     "articleNumber": "9789463338561",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/1/1144x1200.jpg",
+     "productURL": "https://www.kookwinkel.nl/het-complete-airfryer-boek-91002-0001053736"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/het-complete-airfryer-boek-91002-0001053736",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-het-complete-airfryer-boek-1",
+    "web-het-complete-airfryer-boek-codes"
+   ]
+  },
+  {
+   "id": "het-gezonde-airfryer-boek",
+   "name": "Het gezonde Airfryer Boek",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Het gezonde airfryer boek van Bored of Lunch, met 80 recepten van Nathan Anthony",
+    "Bij alle recepten staat het aantal calorieën vermeld",
+    "192 pagina's, paperback"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "192"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "paperback"
+    }
+   ],
+   "originalDescription": "Ook zo bored met altijd maar dezelfde avondgerechten? Met de recepten uit de mega-bestseller Het gezonde airfryer boek van Bored of Lunch tover je de heerlijkste, bewuste gerechten zo uit je airfryer! Haal alles uit je airfryer met de 80 recepten van Nathan Anthony, de man achter het populaire foodplatform Bored Of Lunch. De recepten in Het Gezonde Airfryer Boek zijn op maat gemaakt voor wie lekker en gezond eten wil dat binnen een mum van tijd op tafel staat. Dit kookboek bevat een compleet aanbod van gerechten die helpen bij het behouden van een gezonde balans met voedzame maaltijden die een verzadigd gevoel geven. Van voorgerechten en snacks tot diners, bijgerechten en een aantal heerlijke zoete verwennerijen. Met nieuwe favorieten als Krokante dumplings, Pizzabagels met pepperoni of Katsu curry van zoete aardappel. De gerechten zijn:\n\nEenvoudig\n\nBetaalbaar\n\nGezond\n\nSuperlekker\n\nBij alle recepten staat het aantal calorieën vermeld voor iedereen die het nuttig vindt om dit bij te houden.",
+   "variants": [
+    {
+     "id": "het-gezonde-airfryer-boek",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043931571",
+     "articleNumber": "9789043931571",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/h/e/het_gezonde_airfryer_boek.jpg",
+     "productURL": "https://www.kookwinkel.nl/het-gezonde-airfryer-boek-46404-0001056308"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/het-gezonde-airfryer-boek-46404-0001056308",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "het-slowcookerboek-wereldgerechten",
+   "name": "Het Slowcookerboek Wereldgerechten",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "slowcooker-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Het slowcookerboek wereldgerechten van Sabine Koning",
+    "Bevat 70 dinerrecepten: stoofschotels, curry's, soepen, wok- en ovenschotels",
+    "Gerechten uit o.a. India, Frankrijk, Griekenland, Thailand, Mexico en Italië",
+    "Nieuw deel in Sabines slowcookerreeks; uitgever Becht, Nederlands, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "Hoofdgerechten"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Becht"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "Hardcover"
+    }
+   ],
+   "originalDescription": "Reis om de wereld met de heerlijke recepten uit Het slowcookerboek – wereldgerechten van Sabine Koning.\n\nDe slowcooker blijft razend populair. Dat is ook niet zo gek, want hij bespaart je moeite (en energie!) en is heel veelzijdig. Voor wie geen genoeg kan krijgen van dit apparaat én toe is aan nieuwe inspiratie is er goed nieuws: in dit nieuwe deel in Sabines slowcookerreeks vind je 70 spiksplinternieuwe dinerrecepten.\n\nReis de wereld rond met stoofschotels, curry’s, soepen, wok- en ovenschotels – van Indiase butter chicken en Franse boeuf bourguignon tot Griekse stifado en Thaise pindakip. Of wat dacht je van Mexicaanse enchilada’s of een Italiaanse lasagne? Je zou het misschien niet zeggen, maar je kunt het écht allemaal uit je slowcooker toveren.\n\nDe recepten zijn gevarieerd en voor iedereen toegankelijk. Of je nu zin hebt in smaken uit verre landen of het liever dichter bij huis zoekt: met dit boek kun (én wil) je elke dag met je slowcooker aan de slag!",
+   "variants": [
+    {
+     "id": "het-slowcookerboek-wereldgerechten",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789023017646",
+     "articleNumber": "9789023017646",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789023017646_het_slowcookerboek_wereldgerechten.jpg",
+     "productURL": "https://www.kookwinkel.nl/het-slowcookerboek-wereldgerechten-10017-0001069552"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/het-slowcookerboek-wereldgerechten-10017-0001069552",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-het-slowcookerboek-wereldgerechten-1",
+    "web-het-slowcookerboek-wereldgerechten-codes"
+   ]
+  },
+  {
+   "id": "het-ultieme-airfryer-boek-makkelijke-maaltijden",
+   "name": "Het ultieme airfryer boek - makkelijke maaltijden",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Het ultieme airfryer boek - makkelijke maaltijden van Clare Andrews",
+    "Bevat 80 nieuwe recepten voor complete maaltijden uit de airfryer",
+    "Uitgever Fontaine, Nederlands, paperback"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Fontaine"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "paperback"
+    }
+   ],
+   "originalDescription": "Nóg makkelijker koken: tover in en handomdraai een complete maaltijd uit de airfryer Ontdek hoe je nog makkelijker en sneller kunt koken met de airfryer, de onmisbare keukenhulp die in elk huishouden tijd en geld bespaart. Bestsellerauteur Clare Andrews verzamelde 80 splinternieuwe recepten die niet alleen weer heerlijk en energiebesparend zijn, maar ook nog eens allemaal in één keer in de airfryer kunnen. Van sticky rundvlees en gebraden kip met alles erop en eraan tot een mediterrane groente-halloumitraybake en romig gevulde cannelloni of smeuïge chocoladebrownies. Zo serveer je moeiteloos elke dag een complete maaltijd boordevol smaak uit één airfryermandje. Het enige dat je hoeft te doen is het gerecht voorbereiden, alle ingrediënten in het mandje van de airfryer doen en de timer instellen. En klaar is je maaltijd!",
+   "variants": [
+    {
+     "id": "het-ultieme-airfryer-boek-makkelijke-maaltijden",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789464043914",
+     "articleNumber": "9789464043914",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789464043914.jpg",
+     "productURL": "https://www.kookwinkel.nl/het-ultieme-airfryer-boek-15930-0001063141"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/het-ultieme-airfryer-boek-15930-0001063141",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-het-ultieme-airfryer-boek-makkelijke-maaltijden-1",
+    "web-het-ultieme-airfryer-boek-makkelijke-maaltijden-codes"
+   ]
+  },
+  {
+   "id": "het-ultieme-airfryer-kookboek",
+   "name": "Het ultieme airfryer kookboek",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Het ultieme airfryer kookboek, meer dan 80 recepten",
+    "Van doordeweekse maaltijden en vleesgerechten tot ontbijtjes, cakes en desserts",
+    "Uitgever Fontaine, Nederlands, paperback"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "Kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Fontaine"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "Paperback"
+    }
+   ],
+   "originalDescription": "In meer dan 80 veelzijdige recepten laat Het ultieme airfryer kookboek je zien dat de airfryer veel meer kan dan alleen friet bakken. Van doordeweekse maaltijden en heerlijke vleesgerechten tot hartige ontbijtjes, cakes en desserts.\n\nMet dit kookboek leer je hoe je de magie van het airfryen in élke maaltijd kunt verwerken. Van ontbijtmuffins, granola en bruschetta tot kipsaté, tomatenbasilicumsoep en bagelpizza's.\n\nEn wat dacht je van knapperige chili-tofu, gevulde aubergines of loaded nacho's? Vegan hotdogs, zalm teriyaki, banaancupcakes met zoute karamel of chocolate chip cookies...? Te veel om op te noemen en álles uit de airfryer! Gezond, makkelijk én goedkoop.",
+   "variants": [
+    {
+     "id": "het-ultieme-airfryer-kookboek",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789464042887",
+     "articleNumber": "9789464042887",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/h/e/het_ultieme_airfryer_kookboek.jpg",
+     "productURL": "https://www.kookwinkel.nl/het-ultieme-airfryer-kookboek-00418-0001067091"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/het-ultieme-airfryer-kookboek-00418-0001067091",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-het-ultieme-airfryer-kookboek-1",
+    "web-het-ultieme-airfryer-kookboek-codes"
+   ]
+  },
+  {
+   "id": "het-vegetarische-slowcooker-kookboek",
+   "name": "Het vegetarische slowcooker kookboek",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "slowcooker-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Vegetarisch kookboek voor de slowcooker, meer dan 70 recepten",
+    "Stap-voor-stap instructies en tips",
+    "Auteur Libby Silbermann (foodstylist uit Londen)",
+    "Uitgever Veltman, Nederlands, hardcover, 128 pagina's, ISBN 9789048319732"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "128"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789048319732"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Veltman"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Meer dan 70 verrassend eenvoudige recepten voor de slowcooker.\n\nZorg voor een revolutie in de keuken en bereid heerlijke en gezonde maaltijden met deze verrassend eenvoudige recepten voor de slowcooker. Met de duidelijke instructies die je stap voor stap vertellen wat je moet doen en handige tips zet je steeds weer een perfecte maaltijd op tafel.\n\nSimpele ingrediënten worden omgetoverd tot gerechten waarvan het water je in de mond loopt. Maak zonder al te veel moeite vertrouwde en nieuwe vegetarische gerechten die bovendien vriendelijk zijn voor je portemonnee.\n\nLibby Silbermann is een foodstylist uit Londen, die met behulp van voedsel, accessoires en recepten een sfeer en gevoel weet op te roepen. Nadat ze haar diploma in ‘Food & Wine’ behaalde, ging ze aan de slag voor onder meer Jaimie Oliver, The Great British Bake Off en Daily Mail.",
+   "variants": [
+    {
+     "id": "het-vegetarische-slowcooker-kookboek",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048319732",
+     "articleNumber": "9789048319732",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/v/e/vegaslow1.jpg",
+     "productURL": "https://www.kookwinkel.nl/het-vegetarische-slowcooker-kookboek"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/het-vegetarische-slowcooker-kookboek",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "jamie-s-bbq",
+   "name": "Jamie's BBQ",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Kookboek 'Jamie's BBQ' van Jamie Oliver",
+    "Combineert recepten met basiskennis en praktische tips, o.a. over hittezones en timing",
+    "Behandelt o.a. groenten roosteren, vis roken en stomen, hamburgers en vlees roosteren",
+    "Volgens de tekst geschikt voor beginnende barbecueërs en voor wie meer wil met roken, grillen en langzaam garen"
+   ],
+   "specs": [],
+   "originalDescription": "Easy en overheerlijk grillen, met Jamie Olivers BBQ lukt dat in een tangomdraai. Jamie leert je hoe je alles uit de BBQ haalt. Hij legt uit hoe je groenten heerlijk knapperig en zoet roostert, hoe je vis subtiel rookt en stoomt, hoe je de meest weergaloze hamburgers maakt en hij geeft een heleboel prachtige manieren om stukken vlees te roosteren en met intense smaken te serveren.\n\nBBQ geeft het zelfvertrouwen, de skills en de recepten om succesvol te barbecueën.\n\nHet boek combineert recepten met basiskennis en praktische tips, zodat je meer gevoel krijgt voor hittezones, timing en het opbouwen van smaak. Daarmee is het geschikt voor zowel beginnende barbecueërs als voor wie de stap wil maken naar meer variatie met roken, grillen en langzaam garen.",
+   "variants": [
+    {
+     "id": "jamie-s-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043943826",
+     "articleNumber": "9789043943826",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789043943826.jpg",
+     "productURL": "https://www.kookwinkel.nl/jamie-s-bbq-09618-0001068118"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/jamie-s-bbq-09618-0001068118",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "keukenhelden-bbq-grill",
+   "name": "Keukenhelden - BBQ & Grill",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "'Keukenhelden - BBQ & Grill': recepten voor koken boven kolen",
+    "Van vleesgerechten tot kip, vis of vegetarisch"
+   ],
+   "specs": [],
+   "originalDescription": "Koken boven kolen met geweldige recepten voor op de BBQ, in 'Keukenhelden – BBQ & Grill'. Zin in BBQ? Of je nu een buurt-BBQ organiseert of tijdens een zonnige dag de kolen wilt opstoken: met de recepten in Keukenhelden – BBQ en grill zit je altijd goed. Van sappige vleesgerechten tot kip, vis of vegetarisch, met deze keukenheld leg je voor iedereen iets heerlijks op het rooster! Keukenhelden: de mooiste recepten voor een scherpe prijs, over een sterk topic. Verzamel ze allemaal!",
+   "variants": [
+    {
+     "id": "keukenhelden-bbq-grill",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043934978",
+     "articleNumber": "9789043934978",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/k/e/keukenhelden_-_bbq_grill.jpg",
+     "productURL": "https://www.kookwinkel.nl/keukenhelden-bbq-grill-18002-0001058121"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/keukenhelden-bbq-grill-18002-0001058121",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "keukenhelden-slowcooker",
+   "name": "Keukenhelden - Slowcooker",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "slowcooker-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "'Keukenhelden - Slowcooker': maaltijden voor de slowcooker",
+    "Curry's, soepen en stoofgerechten",
+    "Uitgever Kosmos, hardcover, 80 pagina's"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "80"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Kosmos"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Curry’s, soepen of stoofgerechten: je zet deze favorieten vanaf nu ook doordeweeks met minimale bereidingstijd zo op tafel met ‘Keukenhelden Slowcooker’. Keukenhelden - Slow Cooker maakt doordeweeks koken extra makkelijk met een verzameling heerlijke maaltijden voor de slowcooker. Klassieke curry’s, heerlijke soepen en stoofgerechten, je zet ze allemaal snel op tafel met minimale bereidingstijd. Ontdek in dit kookboek nieuwe family favourites voor door de week.",
+   "variants": [
+    {
+     "id": "keukenhelden-slowcooker",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043930024",
+     "articleNumber": "9789043930024",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/8/6/868x1200_2.jpg",
+     "productURL": "https://www.kookwinkel.nl/keukenhelden-slowcooker-84602-0001054066"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/keukenhelden-slowcooker-84602-0001054066",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "keukenhelden-tosti-s-en-meer",
+   "name": "Keukenhelden - Tosti's en meer",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "overige-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "'Keukenhelden - Tosti's & meer': kookboek over tosti's",
+    "Gaat over klassieke tosti's en wat je er verder mee kunt doen",
+    "Hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Voor fans van een lekkere snack: maak van tosti’s een avontuur met Keukenhelden – Tosti’s & meer Overal ter wereld worden er door mensen thuis en in cafés klassieke tosti’s gegeten als ontbijt, lunch, diner en zelfs dessert. Vaak met ham en kaas belegd, soms met een plak tomaat of met wat pesto erbij, maar je kunt veel meer met tosti’s doen. Dit kookboek staat vol met spannende nieuwe recepten voor tosti’s, zoals kikkererwtentosti’s op z’n Indiaas tot tosti’s met kip & zuurkool, en zelfs een paar heerlijke zoete opties, zoals tosti’s met peer & frambozen. Inclusief vegetarische, glutenvrije en lactosevrije opties Naast tosti’s staan er ook allerlei andere broodgerechten in. Bruschetta, melts, wraps, broodjes, sandwiches en een paar buitengewone opties voor bij de borrrel of het avondeten. Zo wordt een simpele tosti omgetoverd in iets verrukkelijks. Wat je smaak of voorkeur ook is, met de makkelijke recepten uit dit boek maak je gerechten voor elk moment van de dag.",
+   "variants": [
+    {
+     "id": "keukenhelden-tosti-s-en-meer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043933506",
+     "articleNumber": "9789043933506",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/k/e/keukenhelden_-_tosti_s_en_meer.jpg",
+     "productURL": "https://www.kookwinkel.nl/keukenhelden-tosti-s-en-meer-38803-0001057961"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/keukenhelden-tosti-s-en-meer-38803-0001057961",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-keukenhelden-tosti-s-en-meer-1",
+    "web-keukenhelden-tosti-s-en-meer-codes"
+   ]
+  },
+  {
+   "id": "kookbijbels-airfryerbijbel",
+   "name": "Kookbijbels - Airfryerbijbel",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Airfryerbijbel van Bas Robben, meer dan 200 recepten voor de airfryer",
+    "Van snacks tot doordeweekse maaltijden",
+    "Uitgever Carrera, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Carrera"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Hét naslagwerk om alles uit je airfryer te halen. In Airfryerbijbel van Bas Robben vind je meer dan 200 recepten die je met de airfryer kunt maken. Van knapperige snacks zoals kipnuggets met za'atar en peterseliemayo of crispy tofu met kokos-chutney en ingelegde radijs, tot doordeweekse maaltijden zoals kabeljauw met mandarijn-chiliboter of gepofte aardappel met burrata. Gebruik je airfryer in het weekend om Thaise slow roasted ribeye of Indiase groentestoof te maken, rooster aubergine met pittige tahini en suikerpinda's of bak een fudgy bananencake of shortbread met espresso en hazelnoten.",
+   "variants": [
+    {
+     "id": "kookbijbels-airfryerbijbel",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048874453",
+     "articleNumber": "9789048874453",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789048874453_front.jpg",
+     "productURL": "https://www.kookwinkel.nl/kookbijbels-airfryerbijbel-41902-0001059005"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/kookbijbels-airfryerbijbel-41902-0001059005",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-kookbijbels-airfryerbijbel-1",
+    "web-kookbijbels-airfryerbijbel-codes"
+   ]
+  },
+  {
+   "id": "kookbijbels-bbq-bijbel-deel-2",
+   "name": "Kookbijbels - BBQ Bijbel deel 2",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "BBQ Bijbel deel 2 van Julius Jaspers",
+    "Vervolg op de BBQbijbel; de tekst noemt meer dan 75.000 verkochte exemplaren van de BBQbijbel"
+   ],
+   "specs": [],
+   "originalDescription": "Voor iedereen die nog lang niet klaar is met barbecueën Barbecueën kan altijd en overal met alles. Daarom zijn er van de BBQbijbel al meer dan 75.000 exemplaren verkocht en staat het boek nog als een husi overeind. Maar in al die jaren is Julius Jaspers nooit gestopt met het ontwikkelen van recepten en zijn er zoveel leuke, goede en mooie gerechten bijgekomen dat het tijd is voor BBQbijbel Deel 2.",
+   "variants": [
+    {
+     "id": "kookbijbels-bbq-bijbel-deel-2",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048876105",
+     "articleNumber": "9789048876105",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789048876105.jpg",
+     "productURL": "https://www.kookwinkel.nl/kookbijbels-bbq-bijbel-deel-2-61518-0001066323"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/kookbijbels-bbq-bijbel-deel-2-61518-0001066323",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "kookbijbels-wokbijbel",
+   "name": "Kookbijbels - Wokbijbel",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "wok-pan-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Wokbijbel van Noni Kooiman, 200 wokrecepten",
+    "Van fried rice en pad thai tot nieuwe recepten",
+    "Hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Van klassieke fried rice tot broccoli met oestersaus. Noni Kooiman laat aan de hand van 200 recepten zien hoe makkelijk, lekker en veelzijdig wokken is. Door op hoog vuur groente, vlees of vis snel te garen behoudt alles optimaal zijn smaak. Van vele klassiekers als fried rice en pad thai tot onverwachte en verassende nieuwe recepten.",
+   "variants": [
+    {
+     "id": "kookbijbels-wokbijbel",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048868735",
+     "articleNumber": "9789048868735",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/k/o/kookbijbels_-_wokbijbel.jpg",
+     "productURL": "https://www.kookwinkel.nl/kookbijbels-wokbijbel-37402-0001055363"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/kookbijbels-wokbijbel-37402-0001055363",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-kookbijbels-wokbijbel-1",
+    "web-kookbijbels-wokbijbel-codes"
+   ]
+  },
+  {
+   "id": "masterclass-airfryer",
+   "name": "Masterclass - Airfryer",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Masterclass Airfryer van Bas Robben, meer dan 60 recepten",
+    "Traditionele frituursnacks en borrelhapjes; de airfryer ook als oven of grill",
+    "Uitgever Carrera, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Thema",
+     "value": "basis en naslagwerken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Carrera"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "In Masterclass Airfryer laat Bas Robben met meer dan 60 recepten zien hoe je naast knapperige friet nog veel meer gerechten met je airfryer kunt maken. Geniet van traditionele frituursnacks en ontdek diverse borrelhapjes. Het resultaat is krokant, licht en vetvrij. Gebruik je airfryer naast frituurpan ook als oven of grill en bak je eigen brood, taart en quiche. Van snelle tussendoortjes tot volwaardige gerechten en desserts. In Masterclass leer je van dé experts alles over één thema! Naast dit boek over airfryen, bestaan er vele andere edities die één thema of kooktechnieken uiteenzetten.",
+   "variants": [
+    {
+     "id": "masterclass-airfryer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048864652",
+     "articleNumber": "9789048864652",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/8/6/867x1200.jpg",
+     "productURL": "https://www.kookwinkel.nl/masterclass-airfryer-30303-0001052955"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/masterclass-airfryer-30303-0001052955",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-masterclass-airfryer-1",
+    "web-masterclass-airfryer-codes"
+   ]
+  },
+  {
+   "id": "masterclass-slowcooker",
+   "name": "Masterclass - Slowcooker",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "slowcooker-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Masterclass Slowcooker van Bas Robben, meer dan 60 recepten",
+    "Vlees-, vis- en groentegerechten, o.a. curry en gestoofd buikspek",
+    "Uitgever Carrera, Nederlands, hardcover, 160 pagina's"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "160"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Carrera"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "In Masterclass Slowcooker laat Bas Robben met meer dan 60 recepten zien hoe je eenvoudig de meest veelzijdige recepten met je slowcooker kunt maken. Geniet van een heerlijk geurende curry of langzaam gestoofd buikspek in een rijke saus. Diverse vlees-, vis- en groentegerechten worden zacht, mals en vol van smaak. Met slechts een paar voorbereidingen doet de slowcooker het werk voor je. Van soep tot saus en van taart tot toet. In Masterclass leer je van dé experts alles over één thema! Naast de masterclass over slowcooking, bestaan er nog veel meer boeken over andere thema's of technieken in deze serie.",
+   "variants": [
+    {
+     "id": "masterclass-slowcooker",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048864591",
+     "articleNumber": "9789048864591",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789048864591_front.jpg",
+     "productURL": "https://www.kookwinkel.nl/masterclass-slowcooker-30602-0001052956"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/masterclass-slowcooker-30602-0001052956",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "one-pan-perfect-vers-snel-eenvoudig-verrukkelijk",
+   "name": "One Pan Perfect : Vers, snel, eenvoudig, verrukkelijk",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "wok-pan-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "One Pan Perfect van Donna Hay: eenpansgerechten (bakplaat of ovenschotel)",
+    "272 pagina's, Nederlands, hardcover",
+    "Uitgever Unieboek Spectrum, ISBN 9789000380855"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "272"
+    },
+    {
+     "label": "Auteur",
+     "value": "Donna Hay"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789000380855"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "overig"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Unieboek Spectrum"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "De onbetwiste koningin van makkelijke, overheerlijke gerechten die er ook nog eens spectaculair uitzien: dat is Donna Hay. En ze overtreft zichzelf in haar allernieuwste kookboek. Donna over One Pan Perfect: 'Er is iets magisch aan een bescheiden bakplaat of die goeie ouwe ovenschotel; ik zou dit het wonder van het eenpansgerecht willen noemen. Daar, in de hectiek van het dagelijkse leven, leren ingrediënten elkaar borrelend en sudderend kennen en komt het beste in hen naar boven. En dat is waar het bij “the One” om draait: minimale poespas voor een maximale smaak. Van flexibele doordeweekse maaltijden die je binnen enkele minuten in elkaar kunt draaien, tot luie zondagse feestelijke gerechten die ook zo op tafel staan. Ik noem dit het \\\"one-pan\\\"-wonder. En ik kan niet wachten om dit met je te delen.' Smaak is leidend bij Donna en het oog wil ook wat, maar daarnaast dient in dit boek het gemak de mens. En zo vind je ditmaal, naast wederom fantastische foto’s, talloze recepten voor goedgevulde bakplaten, heerlijke eenpansmaaltijden en supersnelle en verse doordeweekse maaltijden uit één pan, ovenschotel of plaat. Als de toonaangevende en bestverkopende kookboekauteur van Australië heeft Donna Hay het hart van bijna elke thuiskok veroverd; in haar eigen land en ver daarbuiten. Donna is een internationaal fenomeen en zij staat voor toegankelijke maar creatieve recepten en prachtig beeld. Van haar kookboeken werden wereldwijd meer dan zeven miljoen exemplaren verkocht.",
+   "variants": [
+    {
+     "id": "one-pan-perfect-vers-snel-eenvoudig-verrukkelijk",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789000380855",
+     "articleNumber": "9789000380855",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/5/5/550x673.jpg",
+     "productURL": "https://www.kookwinkel.nl/one-pan-perfect-vers-snel-eenvoudig-verrukkelijk"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/one-pan-perfect-vers-snel-eenvoudig-verrukkelijk",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "puur-bbq",
+   "name": "Puur BBQ",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Puur BBQ: barbecuerecepten van Nick en Kevin",
+    "Recepten zijn een houvast, maar worden op gevoel gemaakt"
+   ],
+   "specs": [],
+   "originalDescription": "Niets is zo heerlijk als samen rond een smeulende barbecue zitten en genieten van het lekkerste eten. Nick en Kevin doen niets liever dan mensen samenbrengen met hun heerlijk toegankelijke gerechten, klaargemaakt met respect voor het product. Hun recepten geven je een houvast, maar zijn nooit een exacte wetenschap: je maakt ze op gevoel en naar je eigen smaak. Alleen wat zout, of toch meer kruiding? Met of zonder een stukje vlees? Laat je verrassen door de combinaties, en geniet met volle teugen van de ervaring!",
+   "variants": [
+    {
+     "id": "puur-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789401490528",
+     "articleNumber": "9789401490528",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789401490528.jpg",
+     "productURL": "https://www.kookwinkel.nl/puur-bbq-10602-0001053373"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/puur-bbq-10602-0001053373",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "slowcooker-recepten",
+   "name": "Slowcooker recepten",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "slowcooker-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Slowcooker recepten: inleiding met instructies en tips, daarna 60 recepten",
+    "Hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Dit boek vertelt je alles wat je moet weten om heerlijke maaltijden te maken met een eenvoudige slowcooker. Na een inleiding met heldere instructies en praktische tips volgen er 60 handige en heerlijke recepten waarmee je je slowcooker op een compleet andere manier leert gebruiken. Dit boek staat vol met nieuwe varianten op oude favorieten, van verwarmende dahls tot voedzame bouillons en simpele stoofgerechten – deze praktische handleiding voor het koken met de slowcooker bevat voor elk wat wils.",
+   "variants": [
+    {
+     "id": "slowcooker-recepten",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048321858",
+     "articleNumber": "9789048321858",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/s/l/slowcooker_recepten.jpg",
+     "productURL": "https://www.kookwinkel.nl/slowcooker-recepten-69403-0001058677"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/slowcooker-recepten-69403-0001058677",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-slowcooker-recepten-1",
+    "web-slowcooker-recepten-codes"
+   ]
+  },
+  {
+   "id": "smokey-goodness-2-het-next-level-barbecueboek",
+   "name": "Smokey Goodness 2 : het next level barbecueboek",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness 2: het next level barbecueboek van Jord Althuizen",
+    "Winnaar Gouden Garde publieksprijs - Kookboek van het jaar 2017",
+    "Recepten van o.a. Zuid-Afrikaanse braai tot Argentijnse asado"
+   ],
+   "specs": [
+    {
+     "label": "Totale diameter",
+     "value": "Kosmos"
+    }
+   ],
+   "originalDescription": "WINNAAR GOUDEN GARDE PUBLIEKSPRIJS - KOOKBOEK VAN HET JAAR 2017\n\nSmokey Goodness 2 is het nieuwe barbecueboek van wereldkampioen BBQ Jord Althuizen. Het jurylid van RTL 4's 'Grillmasters' gaat in dit prachtige, ruige barbecueboek op zoek naar de allerlekkerste BBQ-recepten en smeulende verhalen wereldwijd. De stoere, rokerige recepten zijn fingerlickin' good, van Zuid-Afrikaanse braai tot Argentijnse asado: let's get that fire started! Voor zijn eerste BBQ-boek Smokey Goodness won Jord Althuizen de prijs van 'Kookboek van het Jaar 2016'.",
+   "variants": [
+    {
+     "id": "smokey-goodness-2-het-next-level-barbecueboek",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789021564746",
+     "articleNumber": "9789021564746",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/8/2/8555_82940_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-2-het-next-level-barbecueboek"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-2-het-next-level-barbecueboek",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-smokey-goodness-2-het-next-level-barbecueboek-1"
+   ]
+  },
+  {
+   "id": "smokey-goodness-3-het-bigger-better-bbq-boek",
+   "name": "Smokey Goodness 3 : Het Bigger, Better BBQ Boek",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness 3: Het Bigger, Better BBQ Boek van Jord Althuizen",
+    "Recepten voor beef, pork, chicken, fish en desserts, plus Zuid-Afrikaanse gerechten",
+    "Uitgever Kosmos, Nederlands, hardcover, 224 pagina's, ISBN 9789021565255"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "224"
+    },
+    {
+     "label": "Auteur",
+     "value": "Jord Althuizen"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789021565255"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Kosmos"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Nou, nou gaan ons Braai!\n\nOntdek met 'Smokey Goodness 3: het Bigger, Better BBQ-boek' de spannende, nieuwe flavors voor jouw geliefde Big Five op de barbecue: beef, pork, chicken, fish en... desserts.\n\nUiteraard met volop nieuwe bbq-favorites zoals de bbq-burger met carolina caviar, de impressive bourbon-aged tomahawk of de sweet cherry coke ribs en zelfs fiery veggies. Maar natuurlijk ook een vurige portie Zuid-Afrikaanse smakies, boerewors, grilled ostrich, of piri piri 'Swahili-style'-poussins: juicy!\n\nGa snel mee op Smokey Goodness BBQ expeditie en leer alles over het zinderende Afrikaanse vuur. Dit is het echte barbecuewerk: stoer, slow en avontuurlijk. Voor alle achtertuin avonturiers.\n\nJord Althuizen's Smokey Goodness verovert razendsnel de wereld met zijn authentieke BBQ-stijl en avonturen. Met zijn boeken 'Smokey Goodness' en 'Smokey Goodness 2' - absolute bestsellers en winnaar van Kookboek van het Jaar 2016 én 2017-, via zijn cateringbedrijf Smokey Goodness en de restaurants 'Black Smoke', Ember BBQ', en 'The Rough Kitchen'.",
+   "variants": [
+    {
+     "id": "smokey-goodness-3-het-bigger-better-bbq-boek",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789021565255",
+     "articleNumber": "9789021565255",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/s/m/smokey3.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-3-het-bigger-better-bbq-boek-pre-order"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-3-het-bigger-better-bbq-boek-pre-order",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "smokey-goodness-asian-bbq",
+   "name": "Smokey Goodness Asian BBQ",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness Asian BBQ - Flames & Flavours van Jord Althuizen",
+    "Recepten uit Azië, o.a. Zuid-Koreaanse Sticky Chick Sticks en Filipijns Whole Hog"
+   ],
+   "specs": [],
+   "originalDescription": "Ontdek de explosieve smaken van de Aziatische BBQ met Smokey Goodness! Van Zuid-Koreaanse Sticky Chick Sticks tot Filipijns Whole Hog, Jord Althuizen neemt je mee op een smaakvolle reis. Smokey Goodness Asian BBQ Flames & Flavours is het nieuwe kookboek van BBQ-koning Jord Althuizen. Dit is dé culinaire reis naar de rijke en rokerige smaken van Azië. Jord brengt de intense streetfoodsmaken en gegrilde specialiteiten van Zuid-Korea, de Filipijnen, Hongkong, Singapore en Japan naar de barbecue en grill in je eigen achtertuin. In dit boek ontdek je in plaats van de vertrouwde Amerikaanse Low & Slow-technieken de gebruiksvriendelijke Hot & Fast-recepten. Denk aan Vietnamese Grilled Pork Stix (Nem Nuong), Sticky Korean Chicken Baos en Kimchi Brisket Smash Burgers. De smaken en kleuren zijn net zo uiteenlopend als de avontuurlijke reisverhalen. Smokey Goodness Asian BBQ Flames & Flavours biedt alles wat je wilt weten, of je nu een beginnende barbecuefan of een doorgewinterde grillmaster bent. Het boek staat vol praktische tips voor grillen boven open vuur en nodigt uit om nieuwe, gedurfde smaken te ontdekken. Get your grill on with new Flames & Flavours!",
+   "variants": [
+    {
+     "id": "smokey-goodness-asian-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043926485",
+     "articleNumber": "9789043926485",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/s/m/smokey_goodness_asian_bbq.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-asian-bbq-52930-0001061702"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-asian-bbq-52930-0001061702",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "smokey-goodness-bbq-snack-attack",
+   "name": "Smokey Goodness BBQ Snack Attack",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness BBQ Snack Attack",
+    "Uitgever Kosmos, hardcover, 208 pagina's"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "208"
+    },
+    {
+     "label": "Thema",
+     "value": "grill, rook en barbecue"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Kosmos"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Met Smokey Goodness BBQ Snack Attack heeft u het bewijs in handen dat het altijd een goede moment is om je barbecue te laten ontvlammen. Of je nu ontbijt skipt en dat vlammend in wil halen, op zoek bent naar een met rook volgezogen lunch of vieruurtje, een smeulende bbq-bodem wil leggen voor het stappen (of juist die trek nadat je uit de kroeg rolt wil stillen), dit boek barst uit zijn binding van smeuïge smokey snacks waar je altijd je tanden in wilt zetten.. aanvallen! Van burgers tot dips en stix: ontdek de lekkerste BBQ-gerechten van Smokey Goodness in de nieuwe hit van Jord Althuizen: 'Smokey Goodness BBQ Snack Attack'",
+   "variants": [
+    {
+     "id": "smokey-goodness-bbq-snack-attack",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043926768",
+     "articleNumber": "9789043926768",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/s/m/smokey_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-bbq-snack-attack-77803-0001052072"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-bbq-snack-attack-77803-0001052072",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "smokey-goodness-brand-new-bbq",
+   "name": "Smokey Goodness Brand New BBQ",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness Brand New BBQ van Jord Althuizen: barbecueën USA-style"
+   ],
+   "specs": [
+    {
+     "label": "Totale diameter",
+     "value": "Kosmos"
+    }
+   ],
+   "originalDescription": "Ontdek met deze nieuwe, absolute BBQ classic van Jord Althuizen, ‘Smokey Goodness Brand New BBQ’, het BBQ’en USA-style Jord Althuizen neemt je mee back to the USA, met de allernieuwste knaller Smokey Goodness Brand New BBQ. En een absolute must-have it is, want Amerika, dat is toch wel de echte bakermat van de Smokey Goodness style barbecuën. Er valt nog genoeg te ontdekken voor op het vuur, zowel old school traditional als new flavors en technieken. Want met Mexicaanse, Aziatische en Europese invloeden is de nieuwe BBQ scene minstens net zo interessant als de geliefde classics. Waar zet jij je tanden in?",
+   "variants": [
+    {
+     "id": "smokey-goodness-brand-new-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789021590349",
+     "articleNumber": null,
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/5/5/550x694.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-brand-new-bbq"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-brand-new-bbq",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-smokey-goodness-brand-new-bbq-1"
+   ]
+  },
+  {
+   "id": "smokey-goodness-burgers-bbq-bites",
+   "name": "Smokey Goodness - Burgers & BBQ Bites",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness - Burgers & BBQ Bites van Jord Althuizen",
+    "BBQ-sandwiches, BBQ taco's en snacks-on-a-stick, USA-geïnspireerd"
+   ],
+   "specs": [
+    {
+     "label": "Totale diameter",
+     "value": "Kosmos"
+    }
+   ],
+   "originalDescription": "Back to the USA we go! Because we love BBQ - maar soms heb je simpelweg geen tijd voor het echte BBQ werk. Dan wil je something hot & fast en waar kunnen ze dat nu beter dan in de USA?\n\nDit BBQ-avontuur brengt je van de deli's van New York tot aan de foodtrucks in Portland: op zoek naar a full serving of Smokey Goodness flavour voor half the time. Denk big-bigger-biggest BBQ sandwiches, de allerhotste BBQ taco's of spicy BBQ snacks-on-a-stick ... we want it all, and we want it now!\n\nJord Althuizen is oprichter, eigenaar en pitmaster van BBQ Catering bedrijf Smokey Goodness. Hij schreef meerdere succesvolle ‘Smokey Goodness’ boeken. Smokey Goodness 1 won in 2016 de Kookboek van het jaar vakjuryprijs en Smokey Goodness 2 in 2017 de Kookboek van het jaar publieksprijs.",
+   "variants": [
+    {
+     "id": "smokey-goodness-burgers-bbq-bites",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789021575957",
+     "articleNumber": "9789021575957",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/b/i/bites.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-burgers-bbq-bites"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-burgers-bbq-bites",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-smokey-goodness-burgers-bbq-bites-1"
+   ]
+  },
+  {
+   "id": "smokey-goodness-het-ultieme-bbq-boek",
+   "name": "Smokey Goodness - Het ultieme BBQ boek",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness - Het ultieme BBQ boek van Jord Althuizen",
+    "Over (voor)bereidingen, temperatuurbeheersing, tips en recepten van whole hog tot pulled pork",
+    "Volgens de tekst Kookboek van het Jaar 2016 (vakjury)",
+    "Uitgever Kosmos, Nederlands, hardcover, ISBN 9789021562292"
+   ],
+   "specs": [
+    {
+     "label": "Auteur",
+     "value": "Jord Althuizen"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789021562292"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "grill, rook en barbecue"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Kosmos"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Smokey Goodness is het BBQ-kookboek van wereldkampioen Barbecue Jord Althuizen.\n\nMet Smokey Goodness haal je het beste uit je BBQ. Met alles over (voor)bereidingen en temperatuurbeheersing, gouden tips en inspirerende recepten: van whole hog tot pulled pork en van sushi roll tot kip op een bierblikje.\n\nVoor je het weet ben je net zo verslingerd aan de grill, het vuur en de rook als Jord. Get your grill on!\n\nSmokey Goodness is werd door de vakjury uitgeroepen tot Kookboek van het Jaar 2016! Het boek won ook in de categorie beste vormgeving en fotografie (Erik Rikkelman en Remko Kraaijeveld). De jury over Smokey Goodness: 'Het BBQ thema is in dit boek van voor tot achter, op alle vlakken, doorgevoerd. Je ruikt de BBQ bijna. Het is een persoonlijk verhaal en een lekker vet boek met ruige recepten. Althuizen heeft zich werkelijk verdiept in de Amerikaanse barbecuecultuur en belicht die van alle kanten.'",
+   "variants": [
+    {
+     "id": "smokey-goodness-het-ultieme-bbq-boek",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789021562292",
+     "articleNumber": "9789021562292",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/7/5/8143_75075_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-het-ultieme-bbq-boek"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-het-ultieme-bbq-boek",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "smokey-goodness-lowlands-bbq",
+   "name": "Smokey Goodness Lowlands BBQ",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness Lowlands BBQ van Jord Althuizen",
+    "Gebaseerd op de Lage Landen als inspiratiebron",
+    "Bevat basisinfo over barbecueën"
+   ],
+   "specs": [
+    {
+     "label": "Totale diameter",
+     "value": "Kosmos"
+    }
+   ],
+   "originalDescription": "Smokey Goodness Lowlands BBQ, het nieuwste en dikste BBQ-boek van Jord Althuizen ooit, heeft onze eigen Lage Landen als inspiratiebron. Bigger, better en dit keer geheel in onze eigen backyard. Want waarom reizen als je de allerbeste kreeft, world famous lamsvlees en award-winning rundvlees gewoon in huis hebt? Met de ultieme basisinfo over barbecueën en als bonus een forse portie handige tips: de vetste BBQ-shops & de beste butchers op een rij.\n\nDit kookboek is het nieuwste deel in de Smokey Goodness-serie. Eerder verschenen Smokey Goodness, Smokey Goodness 2, Smokey Goodness 3, Smokey Goodness Winter BBQ, Smokey Goodness No Worries, Burgers & BBQ Bites, BBQ Feast on Fire en Black Smoke.",
+   "variants": [
+    {
+     "id": "smokey-goodness-lowlands-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789021577852",
+     "articleNumber": "9789021577852",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/l/o/lowlandsbbq.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-lowlands-bbq-pre-order-maart"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-lowlands-bbq-pre-order-maart",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-smokey-goodness-lowlands-bbq-1"
+   ]
+  },
+  {
+   "id": "smokey-goodness-mediterranean-bbq",
+   "name": "Smokey Goodness Mediterranean BBQ",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness Mediterranean BBQ van Jord Althuizen",
+    "Recepten uit Spanje, Portugal, Italië en Griekenland"
+   ],
+   "specs": [],
+   "originalDescription": "Je favo vakantiegerechten! Jord Althuizen neemt je in Smokey Goodness Mediterranean BBQ mee naar Spanje, Portugal, Italië en Griekenland. Smokey Goodness Mediterranean BBQ Sun, sea en smoke - dat is Smokey Goodness Mediterranean BBQ in een notendop. In dit nieuwe avontuur neemt Jord Althuizen je mee langs de zonnige kusten van Spanje, Portugal, Italië en Griekenland. Denk aan tapas die knetteren op het rooster, pulpo boven gloeiende kolen, sappige souvlaki en pizza’s met een bodem die kraakt als je ’m aansnijdt. Open vuur, geurige kruiden, goede olijfolie en houtrook vormen de basis van toegankelijke gerechten met die herkenbare rokerige Smokey Goodness-touch, gewoon van de eigen BBQ.",
+   "variants": [
+    {
+     "id": "smokey-goodness-mediterranean-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043942126",
+     "articleNumber": "9789043942126",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789043942126_smokey_goodness_mediterranean_bbq.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-mediterranean-bbq-29519-0001067724"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-mediterranean-bbq-29519-0001067724",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "smokey-goodness-the-best-of-bbq-beef",
+   "name": "Smokey Goodness - The best of BBQ Beef",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness - The best of BBQ Beef van Jord Althuizen",
+    "Barbecuerecepten voor rund en kalf, van brisket tot smashburger"
+   ],
+   "specs": [],
+   "originalDescription": "Van bombastische brisket tot juicy smashburger, Jord Althuizen verzamelt in Smokey Goodness Best of BBQ Beef zijn allerbeste barbecuerecepten voor rund en kalf. Jord Althuizen is oprichter, eigenaar en pitmaster van Authentiek BBQ Cateringbedrijf Smokey Goodness. In 2010 begon hij met zijn missie om Nederland kennis te laten maken met een betere vorm van barbecueën op echt vuur. En met succes, het resultaat is onder meer de vestiging van BBQ-restaurant Black Smoke in Rotterdam en Antwerpen en The Rough Kitchen in Amsterdam. Meerdere boeken uit zijn Smokey Goodness-bestsellerserie zijn uitgeroepen tot Kookboek van het Jaar, en er zijn inmiddels meer dan 375.000(!) exemplaren verkocht. De Smokey-serie is ook verkrijgbaar in Frankrijk, Duitsland, Hongarije, Engeland en Amerika.",
+   "variants": [
+    {
+     "id": "smokey-goodness-the-best-of-bbq-beef",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043936446",
+     "articleNumber": "9789043936446",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789043936446_front.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-the-best-of-bbq-beef-40703-0001059008"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-the-best-of-bbq-beef-40703-0001059008",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "smokey-goodness-winter-bbq-jord-althuizen",
+   "name": "Smokey Goodness Winter BBQ - Jord Althuizen",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness Winter BBQ van Jord Althuizen",
+    "Herziene uitgave in compacter formaat",
+    "Winterse recepten, o.a. home smoked salmon, wild boar en raclette",
+    "Uitgever Kosmos, Nederlands, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "Grill, rook en barbecue"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Kosmos"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "Hardcover"
+    }
+   ],
+   "originalDescription": "Dit is de herziene uitgave van 'Smokey Goodness Winter BBQ' in een compacter formaat.\n\nMet het one of a kind 'Smokey Goodness Winter BBQ' boek van Jord Althuizen kom je ook de winter meer dan warmpjes door. Met echt winterse recepten als home smoked salmon, wild boar on the grill en wintersportfavourites (yes, raclette!) blijft het vuur ook bij min tien lekker branden. Tot aan een volledig Smokey Goodness-style kerstmenu toe: van aperitief tot dessert, alles van de barbecue. En natuurlijk een goede portie ice cold adventure. Let it snow, let it glow!\n\nJord Althuizen is de man achter Smokey Goodness, het BBQ-bedrijf dat Nederland verovert. Zijn BBQ-boeken zijn absolute bestellers en Smokey Goodness en Smokey Goodness 2 ontvingen de prijs van Kookboek van het Jaar 2016 én Kookboek van het Jaar 2017.",
+   "variants": [
+    {
+     "id": "smokey-goodness-winter-bbq-jord-althuizen",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043946827",
+     "articleNumber": "9789043946827",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/s/m/smokey_goodness_winter_bbq_2026_page_01.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-winter-bbq-jord-althuizen-06518-0001072042"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-winter-bbq-jord-althuizen-06518-0001072042",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-smokey-goodness-winter-bbq-jord-althuizen-1",
+    "web-smokey-goodness-winter-bbq-jord-althuizen-codes"
+   ]
+  },
+  {
+   "id": "smokey-goodness-winter-bbq",
+   "name": "Smokey Goodness : Winter BBQ",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Smokey Goodness: Winter BBQ van Jord Althuizen",
+    "Winterse recepten, van aperitief tot dessert van de barbecue",
+    "Uitgever Kosmos, Nederlands, hardcover, 224 pagina's, ISBN 9789021568881"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "224"
+    },
+    {
+     "label": "Auteur",
+     "value": "Jord Althuizen"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789021568881"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Kosmos"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Met het one of a kind Smokey Goodness Winter BBQ boek van Jord Althuizen kom je ook de winter meer dan warmpjes door!\n\nMet echt winterse recepten als home smoked salmon, wild boar on the grill en wintersportfavourites (yes, raclette!) blijft het vuur ook bij min tien lekker branden. Tot aan een volledig Smokey Goodness-style kerstmenu toe: van aperitief tot dessert, alles van de barbecue. En natuurlijk een goede portie ice cold adventure. Let it snow, let it glow!",
+   "variants": [
+    {
+     "id": "smokey-goodness-winter-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789021568881",
+     "articleNumber": "9789021568881",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/s/m/smokeywinter.jpg",
+     "productURL": "https://www.kookwinkel.nl/smokey-goodness-winter-bbq-pre-order-oktober"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/smokey-goodness-winter-bbq-pre-order-oktober",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "sous-vide-koken-thuis",
+   "name": "Sous-Vide koken thuis",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "sous-vide-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Sous-Vide koken thuis: uitleg over de kooktechniek sous-vide",
+    "Vacuüm garen in water met constante temperatuur onder de 99 graden",
+    "Uitgever Manteau, Nederlands, paperback"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Manteau"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "paperback"
+    }
+   ],
+   "originalDescription": "Sous-vide is een eenvoudige kooktechniek waarbij voedsel vacuüm gegaard wordt in water met een constante temperatuur onder de 99 graden. Daardoor behoudt het voedsel zijn volle smaak en gaan er geen waardevolle voedingsstoffen verloren. Je serveert gegarandeerd een perfect gegaard gerecht. De techniek wordt al jaren in de horeca gebruikt, maar vindt nu ook haar weg naar de thuiskok. Sous-vide koken thuis is de ideale gids en inspiratiebron. In de inleiding gaan de auteurs dieper in op de kooktechniek, de apparatuur, de voordelen, de ingrediënten die bij uitstek geschikt zijn voor sous-vide. Daarna volgen meer dan 75 recepten die laten zien hoe makkelijk je het vacuümgaren onder de knie krijgt. En zodra je van het malse vlees, de sappige vis of de smaakvolle groenten hebt geproefd, wil je ze nooit meer anders bereiden. Buikspek met bierlak en zilveruitjes, Gevulde kipfilet, Fris slaatje van crunchy eendenborst, Perfect gegaarde zalm met een romige dillesaus, Tarbot met prei en tomatenconfit, Rozemarijnaardappeltjes, Witloof met sinaasappel, Rabarber met amandelkruim… Komt het water je al in de mond?",
+   "variants": [
+    {
+     "id": "sous-vide-koken-thuis",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789022341131",
+     "articleNumber": "9789022341131",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789022341131.jpg",
+     "productURL": "https://www.kookwinkel.nl/sous-vide-koken-thuis-37830-0001061449"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/sous-vide-koken-thuis-37830-0001061449",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-sous-vide-koken-thuis-1",
+    "web-sous-vide-koken-thuis-codes"
+   ]
+  },
+  {
+   "id": "taart-uit-de-blender",
+   "name": "Taart uit de blender",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bak-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Taart uit de blender: taarten in een halfuurtje",
+    "Zoete en hartige taarten; je maakt het deeg niet apart",
+    "Alles in één: één keer voorbereiden, één keer de oven in",
+    "Uitgever Karakter, Nederlands, hardcover, ISBN 9789045216867"
+   ],
+   "specs": [
+    {
+     "label": "ISBN",
+     "value": "9789045216867"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "bakken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Karakter"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "In een halfuurtje een taart op tafel zetten? Het kan!\n\nProbeer eens de romige chocoladetaart met gehakte hazelnoten, de rabarber-meringuetaart of die met speculaas of frambozen en witte chocolade. Ook een hartige taart is zo gefikst: wat dacht je van tomaten-feta, uien-geitenkaas, curry of zalm?\n\nDe recepten gaan over alles in één: één keer voorbereiden, één keer de oven in en dan een perfecte taart. (Je hoeft het deeg dus niet apart te maken.) Meng alle ingrediënten, giet ze in een bakvorm en zet deze in de oven. Tijdens het bakken splitst de taart zichzelf in tweeën: een knapperige deegbodem met een zachtere bovenkant en vulling. Snel en ongelooflijk lekker!",
+   "variants": [
+    {
+     "id": "taart-uit-de-blender",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789045216867",
+     "articleNumber": "9789045216867",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/t/a/taartblender.jpg",
+     "productURL": "https://www.kookwinkel.nl/taart-uit-de-blender-pre-order-september"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/taart-uit-de-blender-pre-order-september",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "tajine",
+   "name": "Tajine",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "wok-pan-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Tajine: ruim 35 recepten voor de tajine",
+    "Hardcover, Nederlands, ISBN 9789059204287"
+   ],
+   "specs": [
+    {
+     "label": "ISBN",
+     "value": "9789059204287"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken, mediterraan"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "U heeft ze vast wel eens zien staan in een winkel: tajines - gebakken aardewerken schalen met een typerend gevormd deksel. Tajines zijn niet allen populair door hun uiterlijk, er kunnen ook overheerlijke gerechten in worden bereid. In Tajine vindt u ruim 35 recepten waarmee u thuis goed uit de voeten kunt als u iets met de tajine wilt bereiden. Daarnaast is er een hoofdstuk over couscous en andere typisch Noord-Afrikaanse bijgerechten. Probeer eens Tajine met lamsvlees en olijven, Tajine met kip en vijgen, of Tajine met zeeduivel en saffraan. Of geniet van een vegetarische Tajine met vegetarisch gehakt en munt. Serveer daar een van de couscousgerechten bij of maak zelf eens chermoula en harissa, en uw maaltijd is helemaal compleet.",
+   "variants": [
+    {
+     "id": "tajine",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789059204287",
+     "articleNumber": "9789059204287",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/0/1011x1200.jpg",
+     "productURL": "https://www.kookwinkel.nl/tajine"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/tajine",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "the-best-of-bbq-birds",
+   "name": "The Best of BBQ Birds",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "The Best of BBQ Birds van Jord Althuizen",
+    "BBQ-recepten voor kip, kalkoen, eend en ander gevogelte"
+   ],
+   "specs": [],
+   "originalDescription": "De allerbeste BBQ-recepten voor kip, kalkoen, eend en meer gevogelte van BBQ-koning Jord Althuizen. Hét barbecueboek voor een zinderend lekkere zomer of een winterbarbecue. Fluffy Korean Chicken Buns, kruidige Peruaanse Pollo of heerlijke Honey BBQ drumsticks: van het kleinste kwarteltje tot aan de big-bigger-biggest Texas Turkey to impress, jouw bird is altijd juicy & delicious met deze winning Smokey Goodness-recepten. Finger lickin’ succes gegarandeerd! De verstokte slogan dat kip zo veelzijdig is, is een cliché, maar dit barbecueboek bekrachtigt dat cliché vol en vet. Want het is waar: met vuur en vogels zijn de mogelijkheden eindeloos. Neem eens een flinke hap van die vleugel en laat je door de crispy skin met dat vleugje rook en zoutje, pleasen om daarna overweldigd te worden door de sensatie van het sappige, malse, lichtzoetige vlees. Nee, daar kan geen met bier gevoerde, gemasseerde Japanse koe tegenop! ‘Bevrijd je innerlijke pyromaan en ga helemaal los met deze heerlijke recepten!’ – Telegraaf Geniet van deze eerste uit een komende serie Best of-boeken en ga aan de slag met tal van waanzinnige barbecuerecepten uit onze eerdere bestsellers en veertien kakelverse recepten ter inspiratie voor vurige vernieuwing. Voor de beginnende en gevorderde BBQ’er. Dit is hét cadeau voor Vaderdag, een verjaardag, Sinterklaas, Kerstmis of gewoon zomaar. Of je nou BBQ’t op je kamado, Big Green Egg, Bastard of Weber, dit kookboek mag niet ontbreken in de collectie.",
+   "variants": [
+    {
+     "id": "the-best-of-bbq-birds",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "2200010559712",
+     "articleNumber": "9789043931465",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/t/h/the_best_of_bbq_birds.jpg",
+     "productURL": "https://www.kookwinkel.nl/the-best-of-bbq-birds-55702-0001055971"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/the-best-of-bbq-birds-55702-0001055971",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "the-best-of-bbq-snacks",
+   "name": "The Best of BBQ Snacks",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "The Best of BBQ Snacks van Jord Althuizen",
+    "Verzameling barbecuehapjes, o.a. pittige bites en vegetarische gerechten"
+   ],
+   "specs": [],
+   "originalDescription": "Met het boek The Best of BBQ Snacks brengt Jord Althuizen de ultieme verzameling van zijn favoriete barbecuehapjes samen. Dit boek staat vol met creatieve, smaakvolle en toegankelijke snackrecepten die perfect zijn voor elke grillliefhebber: van pittige bites tot verrassende vegetarische gerechten. Ontdek hoe u met eenvoudige technieken en krachtige smaken indrukwekkende BBQ-snacks maakt, rechtstreeks van de grill. Denk aan krokante bites, sappige spiesen, kleine broodjes en fingerfood met die kenmerkende Smokey Goodness-rooksmaak. Elk recept is voorzien van duidelijke uitleg en stoere fotografie die direct doet watertanden. Of u nu een beginnende grillmaster bent of een ervaren pitmaster, Best of BBQ Snacks biedt volop inspiratie om van elk barbecuefeest een ware smaakexplosie te maken. Pure, stoere en onweerstaanbare gerechten - precies wat u van Smokey Goodness mag verwachten.",
+   "variants": [
+    {
+     "id": "the-best-of-bbq-snacks",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043926508",
+     "articleNumber": "9789043926508",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/t/h/the_best_bbq.jpg",
+     "productURL": "https://www.kookwinkel.nl/the-best-of-bbq-snacks-26329-0001065762"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/the-best-of-bbq-snacks-26329-0001065762",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "veggie-bbq-90-vegetarische-barbecuerecepten",
+   "name": "Veggie BBQ - 90 vegetarische barbecuerecepten",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Veggie BBQ: meer dan 90 vegetarische barbecuerecepten",
+    "Gevulde, gespiesde en opgerolde groenten, burgers en spiesen"
+   ],
+   "specs": [
+    {
+     "label": "Totale diameter",
+     "value": "Veltman"
+    }
+   ],
+   "originalDescription": "Vegetarisch eten en grillen – dat past perfect bij elkaar! In dit boek vind je niet alleen gevulde, aan spiesen geregen en opgerolde groenten, maar nog veel meer geweldige creaties. Meer dan 90 recepten met aromatische grillsmaken zorgen voor optimaal grillgenot – ook voor vleeseters! Boordevol heerlijke recepten: de burgers, spiesen en knapperige seitan zijn gewoon onweerstaanbaar. En met de marinades, dips, bijgerechten, broden van de barbecue en drankjes heb je alles wat je nodig hebt voor een perfect barbecuefeest. Dit boek laat zien hoe verrassend veelzijdig vegetarisch barbecueën kan zijn.",
+   "variants": [
+    {
+     "id": "veggie-bbq-90-vegetarische-barbecuerecepten",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048320028",
+     "articleNumber": null,
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/0/902x1200.jpg",
+     "productURL": "https://www.kookwinkel.nl/veggie-bbq"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/veggie-bbq",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-veggie-bbq-90-vegetarische-barbecuerecepten-1"
+   ]
+  },
+  {
+   "id": "veggie-in-de-airfryer",
+   "name": "Veggie in de Airfryer",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Veggie in de Airfryer: 75 vegetarische gerechten voor de airfryer",
+    "Van lichte maaltijden tot schotels, pasta, rijst, hartige taarten en quiches",
+    "Uitgever Forte culinair, Nederlands, 192 pagina's, paperback"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "192"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken, vegetarisch en veganistisch"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Forte culinair"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "paperback"
+    }
+   ],
+   "originalDescription": "In dit boek vind je 75 overheerlijke vegetarische gerechten die je kunt bereiden in de airfryer. Van lichte maaltijden tot schotels, pasta, rijst, hartige taarten en quiches. En natuurlijk ook een aantal goede take-away copycats! Met recepten voor een paprika-pompoensoep, gevulde portobello in tomatensaus en een tortellinischotel met ricotta en broccoli. Van enchilada’s met quinoa tot BBQ no-chicken nacho’s, flammkuchen met feta en een groentestrudel. Bij elk recept vind je ook de temperaturen en baktijden voor de gewone oven, handig voor als je een keer een dubbele portie wilt maken. Verder staan bij alle recepten de voedingswaarden vermeld. Geniet van de enorme veelzijdigheid en al het lekkers dat je kunt maken in de airfryer.",
+   "variants": [
+    {
+     "id": "veggie-in-de-airfryer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789000399994",
+     "articleNumber": "9789000399994",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789000399994.jpg",
+     "productURL": "https://www.kookwinkel.nl/veggie-in-de-airfryer-95330-0001064241"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/veggie-in-de-airfryer-95330-0001064241",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "vis-van-de-bbq",
+   "name": "Vis van de BBQ",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Vis van de BBQ: meer dan 60 visrecepten voor de barbecue"
+   ],
+   "specs": [],
+   "originalDescription": "MEER DAN 60 AANSTEKELIJKE VISRECEPTEN VOOR DE BBQ De BBQ is niet meer weg te denken uit de Nederlandse tuinen. BBQ-en is niet alleen ontzettend lekker, het is ook nog eens heel gezellig met je familie, vrienden of zelfs de hele buurt. Toch lijkt vis een beetje achter te blijven. Vinden we het te ingewikkeld of is het gewoon nog niet zo bekend dat vis van de BBQ fantastisch smaakt? En ook schaal- en schelpdieren kun je gewoon op de BBQ gooien. Snel klaar, superlekker en ook nog eens gezond. Dit handboek geeft jou alle handvatten voor een succesvol vis-BBQ-festijn. In de Parijse keukens leerde Bart al dat vis bereiden helemaal niet moeilijk hoeft te zijn. En tijdens zijn vele vis-reizen ervaarde hij dat een simpel vuurtje en goede vis een fantastisch gerecht kan opleveren. Als het gewoon op de kade kan, kan het zeker bij jou in de tuin. Moet je dan meteen zo'n dure BBQ kopen? Nee hoor, het mag, en het geeft ook fantastische resultaten, maar ook op een simpele BBQ kun je perfect vis bereiden. Met een beetje aandacht en goede ingrediënten kom je heel ver. Dus op naar je favoriete visboer of het visschap en de fik erin!",
+   "variants": [
+    {
+     "id": "vis-van-de-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048870363",
+     "articleNumber": "9789048870363",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/v/i/vis_van_de_bbq.jpg",
+     "productURL": "https://www.kookwinkel.nl/vis-van-de-bbq-39702-0001057972"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/vis-van-de-bbq-39702-0001057972",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "wok-express",
+   "name": "Wok express",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "wok-pan-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Wok express van Ching-He Huang: 100 wokrecepten",
+    "Snelle Aziatische maaltijden: vegetarisch, kip, vlees, vis en schaaldieren",
+    "Hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Zin in een snelle en gezonde Aziatische maaltijd? Haal je wokpan uit de keukenkast, want met de 100 wokrecepten van Ching-He Huang heb je genoeg inspiratie om iedere dag te wokken. Van vegetarisch tot kip en vlees en van vis tot schaaldieren: in 'Wok express' staat er voor ieder wat wils. Serveer chow mein van paddenstoelen met paksoi, maak gebakken rijst met garnalen en Chinese kool, of wat dacht je van kip teriyaki met groene pepers? Wok de noedels mee voor een extra snelle maaltijd of kook er rijst bij - de keuze is aan jou. Ontdek ook recepten voor sauzen en toppings, leer tips over hoe je je wokpan optimaal gebruikt en welke volgorde je kunt aanhouden als je ingrediënten toevoegt om de ultieme wokmaaltijd te krijgen. Met 'Wok express' zet je binnen een mum van tijd een kom lekkers op tafel, vol smakelijke en knapperige groenten en heerlijke noedels (of rijst!).",
+   "variants": [
+    {
+     "id": "wok-express",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789023017462",
+     "articleNumber": "9789023017462",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/w/o/wok_express.jpg",
+     "productURL": "https://www.kookwinkel.nl/wok-express-53229-0001061704"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/wok-express-53229-0001061704",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-wok-express-1",
+    "web-wok-express-codes"
+   ]
+  },
+  {
+   "id": "de-groene-barbecue",
+   "name": "De groene barbecue",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "De groene barbecue van Rukmini Iyer: 75 vega en vegan recepten van de BBQ",
+    "Uitgever Becht, Nederlands, hardcover, 240 pagina's, ISBN 9789023016809"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "240"
+    },
+    {
+     "label": "Auteur",
+     "value": "Rukmini Iyer"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789023016809"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "grill, rook en barbecue"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Becht"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "De groene barbecue : 75 vega en vegan recepten van de BBQ.\n\nWe kijken al reikhalzend uit naar het moment dat het barbecueseizoen weer begint: lekker buiten aanschuiven aan een tafel vol heerlijkheden van de barbecue. Hoewel we de oven even laten voor wat hij is, kunnen we alsnog genieten van de waanzinnige smaakcombinaties van Rukmini Iyer. In De groene barbecue laat de bestseller auteur haar creatieviteit los op de heerlijkste, originele gerechten voor op de barbecue.\n\nDe 75 recepten zijn opgedeeld in vegetarische en vegan gerechten, dus voor iedereen zit er wel een nieuwe favoriet bij. Van spiesjes met ananas, halloumi en munt tot aubergine-geitenkaasburgertjes en van salade met groene asperges tot perziken met amandel en rozemarijn. Snijd de ingrediënten, leg ze op het rooster en laat de barbecue het werk doen.\n\nVan Rukmini Iyer verschenen eerder: De keuken van het Midden-Oosten, De groene bakplaat, De snelle bakplaat en De wereldse bakplaat.",
+   "variants": [
+    {
+     "id": "de-groene-barbecue",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789023016809",
+     "articleNumber": "9789023016809",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/8/0/802x1200_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/de-groene-barbecue-pre-order-mei"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/de-groene-barbecue-pre-order-mei",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "een-pan-pascale-naessens",
+   "name": "Eén Pan - Pascale Naessens",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "wok-pan-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Eén Pan van Pascale Naessens",
+    "Uitgever Lannoo, Nederlands, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Auteur",
+     "value": "Pascale Naessens"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "bekende chefs en restaurants, kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Lannoo"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "De boeken van Pascale Naessens blijven scoren. Ook haar laatste boek, Super Simpel, was een schot in de roos, goed voor de titel van 'best verkocht kookboek in België in 2024'. Met Eén pan bouwt ze verder op dat succes. Haar kracht ligt in haar voortdurende evolutie en onuitputtelijke creativiteit, zonder daarbij haar kenmerkende stijl te verliezen: verrassend eenvoudig, heerlijk smaakvolle combinaties, gezond en veel aandacht voor styling en huiselijke sfeer. In dit boek pakt ze uit met 80 gloednieuwe recepten, van ontbijt tot avondmaal, met een mix van vegan, vegetarische, vis- en vleesgerechten én desserts. Een compleet kookboek voor iedereen die geniet van lekker eten, maar weinig tijd heeft om te koken.",
+   "variants": [
+    {
+     "id": "een-pan-pascale-naessens",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789020981612",
+     "articleNumber": "9789020981612",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789020981612.jpg",
+     "productURL": "https://www.kookwinkel.nl/e-n-pan-pascale-naessens-15930-0001063139"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/e-n-pan-pascale-naessens-15930-0001063139",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-een-pan-pascale-naessens-1",
+    "web-een-pan-pascale-naessens-codes"
+   ]
+  },
+  {
+   "id": "easy-airfryer",
+   "name": "Easy Airfryer",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Easy Airfryer: alle recepten worden in de airfryer bereid",
+    "Van alledaagse maaltijden en groentegerechten tot snacks en cake",
+    "Hardcover met goudfolie op het omslag"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Alle recepten in dit luxe kookboek worden bereid in de airfryer. Met dit apparaat zet je in een mum van tijd een lekkere en gezonde maaltijd op tafel. Van alledaagse maaltijden en groentegerechten tot gezondere snacks en cake, alles komt aan bod in dit boek. Prachtige uitgave met goudfolie op het omslag.",
+   "variants": [
+    {
+     "id": "easy-airfryer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789463548809",
+     "articleNumber": "9789463548809",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789463548809.jpg",
+     "productURL": "https://www.kookwinkel.nl/easy-airfryer-13902-0001053389"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/easy-airfryer-13902-0001053389",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-easy-airfryer-1",
+    "web-easy-airfryer-codes"
+   ]
+  },
+  {
+   "id": "easy-bbq-every-moment",
+   "name": "Easy BBQ, Every Moment",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Easy BBQ, Every Moment van Grill Guru: recepten voor elke BBQ",
+    "Met 101 tips & tricks"
+   ],
+   "specs": [
+    {
+     "label": "Totale diameter",
+     "value": "Kosmos"
+    }
+   ],
+   "originalDescription": "Met ‘Easy BBQ, Every moment’ ontdek je de lekkerste recepten voor elke BBQ en elk moment. Met 101 tips & tricks was BBQ’en nog nooit zo eenvoudig In Easy BBQ, Every Moment van Grill Guru ontdek je de lekkerste, makkelijkste recepten voor elke BBQ en elk moment. 101 tips & tricks maken barbecuën extra easy. Zowel een hele middag plezier met vuur als lekker-snel-klaar na een drukke dag. Van een classic Sunday roast, een snelle Friday Night burger tot een bewuste groentetopper voor meatless Monday. Zelfs feestelijke desserts maak je vanaf nu op de BBQ. Ontdek het plezier van buiten koken. Easy BBQ, Every moment!",
+   "variants": [
+    {
+     "id": "easy-bbq-every-moment",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789021596617",
+     "articleNumber": "9789021596617",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/5/5/550x769.jpg",
+     "productURL": "https://www.kookwinkel.nl/easy-bbq-every-moment"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/easy-bbq-every-moment",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-easy-bbq-every-moment-1"
+   ]
+  },
+  {
+   "id": "easy-pizza-op-de-bbq",
+   "name": "Easy Pizza op de BBQ",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Easy Pizza op de BBQ: pizza's maken op de barbecue met een pizzasteen",
+    "Van deeg tot toppings, hartig en zoet"
+   ],
+   "specs": [],
+   "originalDescription": "De lekkerste pizza’s maak je met Easy Pizza op de BBQ gewoon zelf! Want elke BBQ met deksel is met een simpele pizzasteen zo om te toveren tot een superhete, snelle pizza-oven. Van het beste deeg tot de leukste toppings, hartig en zoet, voor een snelle bite op de vrijdagvond of de allerleukste pizzaparty in de achtertuin. Voor keramische BBQ’s zoals de kamado, ketel-BBQ’s en Grill Guru Pizza ovens. Het wordt een Italiaanse zomer met Easy Pizza op de BBQ !",
+   "variants": [
+    {
+     "id": "easy-pizza-op-de-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043926799",
+     "articleNumber": "9789043926799",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/e/a/easy-pizza-op-de-bbq-grill-guru-9789043926799_1_.jpg",
+     "productURL": "https://www.kookwinkel.nl/easy-pizza-op-de-bbq-24364-0001052029"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/easy-pizza-op-de-bbq-24364-0001052029",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "jamie-oliver-een-simpel-en-lekker-uit-1-pan",
+   "name": "Jamie Oliver - EEN : Simpel en lekker uit 1 pan",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "wok-pan-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "EEN: Simpel en lekker uit 1 pan van Jamie Oliver",
+    "Ruim 120 recepten in één (koeken)pan of ovenschaal",
+    "Uitgever Kosmos, Nederlands, hardcover, 312 pagina's, ISBN 9789043924009"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "312"
+    },
+    {
+     "label": "Auteur",
+     "value": "Jamie Oliver"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789043924009"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Kosmos"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "‘EEN’ van Jamie Oliver is het ultieme kookboek voor wie van gemak houdt. Ruim 120 heerlijke, simpele gerechten die je maakt in één pan of ovenschaal.\n\nJamie Oliver, de favoriete chef van de lage landen, biedt met EEN: simpel & lekker uit 1 pan het ultieme gemakskookboek met simpele eenpansgerechten. Met meer dan 120 simpele, snelle recepten die allemaal te maken zijn in één (koeken)pan of ovenschaal. Dus elke dag lekker eten zonder uren in de keuken te staan en geen berg afwas. Elk recept maak je met maximaal acht ingrediënten en meer dan 50% van de gerechten bevat weinig tot geen vlees. Eén kookboek, heerlijk eten en blije gezichten gegarandeerd.",
+   "variants": [
+    {
+     "id": "jamie-oliver-een-simpel-en-lekker-uit-1-pan",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043924009",
+     "articleNumber": "9789043924009",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/e/e/een_-_simpel_en_lekker_uit_1_pan.jpg",
+     "productURL": "https://www.kookwinkel.nl/een-simpel-en-lekker-uit-1-pan-58202"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/een-simpel-en-lekker-uit-1-pan-58202",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "100-recepten-voor-de-slowcooker",
+   "name": "100 recepten voor de slowcooker",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "slowcooker-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "100 recepten voor de slowcooker",
+    "Uitgever Veltman, Nederlands, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Veltman"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "100 recepten voor gezonde, betaalbare maaltijden zonder veel moeite! Met een slowcooker kun je op een betaalbare manier heel eenvoudig allerlei gerechten op tafel zetten, terwijl je er niet eens voor thuis hoeft te blijven. Met slechts een paar minuten voorbereiding in de ochtend staat er bij thuiskomst uit je werk een heerlijke stoofpot, soep of ander verrukkelijk gerecht op je te wachten, zodat je meteen aan tafel kunt. In dit boek vind je meer dan 100 eenvoudige recepten voor de slowcooker, van soepen tot desserts! Wat dacht je van champignonroomsoep, Marokkaanse lamstajine, gehaktbrood met tomatensaus, vegetarische curry of chocolade-walnootbrownies? En heb je nog maar net een slowcooker en weet je nog niet goed hoe je hem moet gebruiken? Ook dan is dit boek een must!",
+   "variants": [
+    {
+     "id": "100-recepten-voor-de-slowcooker",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048322411",
+     "articleNumber": "9789048322411",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789048322411.jpg",
+     "productURL": "https://www.kookwinkel.nl/100-recepten-voor-de-slowcooker-15929-0001062890"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/100-recepten-voor-de-slowcooker-15929-0001062890",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-100-recepten-voor-de-slowcooker-1",
+    "web-100-recepten-voor-de-slowcooker-codes"
+   ]
+  },
+  {
+   "id": "500-kamadorecepten",
+   "name": "500 kamadorecepten",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "500 kamadorecepten: gerechten voor een keramische barbecue",
+    "Tips voor roken, stoven en grillen in de kamado",
+    "Uitgever Veltman, Nederlands, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "Grill, rook en barbecue"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Veltman"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "Hardcover"
+    }
+   ],
+   "originalDescription": "Deze complete gids staat vol gerechten die u kunt bereiden op een keramische barbecue. In dit boek kunt u lezen hoe u het meeste haalt uit uw barbecue en u vindt er tips voor het roken, stoven en grillen in de kamado, zodat het eindresultaat altijd een succes is.\n\nBoordevol snacks en bijgerechten, zoals Jerk-kippenvleugels, Garnalen met peper-en-zoutkorst, Cajun gegrilde portobello’s en Bloemkool in Mexicaanse Tajínstijl.\n\nProbeer de smaakvolle salades, zoals Dichtgeschroeide tonijn niçoise, Caesarsalade met gerookte kip en Salade met eend & sinaasappel.\n\nGebruik de kamado voor het bereiden van braadstukken en stoofgerechten, zoals Vietnamese geroosterde vis, Marokkaanse gevulde flespompoen of Gestoofde Koreaanse runderribben.\n\nSluit de maaltijd af met Gerookte perziken met limoncelloroom, Tarte tatin met peer of Baskische cheesecake.",
+   "variants": [
+    {
+     "id": "500-kamadorecepten",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048322305",
+     "articleNumber": "9789048322305",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789048322305_500_kamadorecepten.jpg",
+     "productURL": "https://www.kookwinkel.nl/500-kamadorecepten-04317-0001069557"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/500-kamadorecepten-04317-0001069557",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-500-kamadorecepten-1",
+    "web-500-kamadorecepten-codes"
+   ]
+  },
+  {
+   "id": "500-vegetarische-bbq-gerechten",
+   "name": "500 vegetarische BBQ gerechten",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "500 vegetarische BBQ gerechten",
+    "Uitgever Veltman, Nederlands, hardcover, 288 pagina's"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "288"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "grill, rook en barbecue, vegetarisch en veganistisch"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Veltman"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Organiseer een gedenkwaardige barbecue met de ruime keuze aan vegetarische recepten in dit boek. Vervang kant-en-klare vegaburgers en saaie salades uit de winkel door pittige maisburgers en champignon-halloumikebabs en serveer er een watermeloen-fetasalade en gegrilde artisjokken bij. Sluit deze heerlijke maaltijd af met chocoladebananen en s’mores. - Verleid de smaakpapillen met creatieve en eigentijdse recepten, zoals pittige bloemkoolsteaks, linzen-wortelhotdogs en platbrood met vijgen & ricotta. - Serveer een selectie van traditionele en moderne salades en bijgerechten, zoals gegrilde koolsteaks, gemengde-groentepakketjes, een Russische salade met ei, rodekoolsla en een couscoussalade met geroosterde groenten. - Maak uw eigen sauzen, relishes en rubs – van een pittige mosterd-barbecuesaus en een frisse komkommerrelish tot een heerlijk wortelhummus en een tijm-chilirub. Gril uw eigen platbrood met rozemarijn en maak Toscaans knoflookbrood klaar. - Er zijn gerechten bij voor elke smaak en gelegenheid, of u nu trek heeft in een smaakvolle tofoeburger of een zachte aubergine parmigiana-sandwich, een lichte venkel-tomatensalade met gegrilde citroenen of een verleidelijke gegrilde caesarsalade van de barbecue.",
+   "variants": [
+    {
+     "id": "500-vegetarische-bbq-gerechten",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048320011",
+     "articleNumber": "9789048320011",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789048320011.jpg",
+     "productURL": "https://www.kookwinkel.nl/500-vegetarische-bbq-gerechten-49202"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/500-vegetarische-bbq-gerechten-49202",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "airfryer-like-a-chef",
+   "name": "Airfryer Like a Chef",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Airfryer Like a Chef van Claudia Allemeersch: topchefs zetten hun lievelingsgerecht om naar de airfryer",
+    "Uitgever Lannoo, Nederlands, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "Bekende chefs en restaurants"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Lannoo"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "Hardcover"
+    }
+   ],
+   "originalDescription": "Voor haar nieuwste boek ging Claudia Allemeersch op zoek naar topchefs die nog nooit met een airfryer gewerkt hadden en leerde ze hen de kneepjes van het superhandige apparaat.\n\nSamen zetten ze het lievelingsgerecht van de chef om in een versie voor de airfryer. Chefs als Wout Bru (Sanglier des Ardennes, Durbuy), Steven Hinnekens (Le Nord, Roeselare), Hendrik Van Dierendonck, Maarten Bouckaert (Castor), Roger van Damme en Christophe Van den Berghe (Café de Paris, Knokke) passeren de revue en schotelen hun airfryerrecept voor met de unieke touch van Claudia.",
+   "variants": [
+    {
+     "id": "airfryer-like-a-chef",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789059962088",
+     "articleNumber": "9789059962088",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789059962088.jpg",
+     "productURL": "https://www.kookwinkel.nl/airfryer-like-a-chef-09019-0001068115"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/airfryer-like-a-chef-09019-0001068115",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-airfryer-like-a-chef-1",
+    "web-airfryer-like-a-chef-codes"
+   ]
+  },
+  {
+   "id": "bakken-in-de-airfryer-luxe-editie",
+   "name": "Bakken in de Airfryer - Luxe editie",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Bakken in de Airfryer - Luxe editie van Simone van der Koelen",
+    "Over bakken in de airfryer",
+    "Hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Bakken in de Airfryer - Luxe editie De airfryer wordt vooral gebruikt voor frietjes, snacks en het afbakken van broodjes. Maar de airfryer kan veel meer… De airfryer is een alleskunner volgens Simone van der Koelen. En dat is precies wat ze wil laten zien in haar tweede boek bij Forte: Bakken in de airfryer. In dit boek bakt Simone heerlijke zoete broodjes, taart, cupcakes, broodjes en broden. Maar ook hartige snacks, hapjes, taarten en quiches. Met recepten voor een hartig monkey bread tot empanadas en sigari boregi. Van koffiebroodjes tot baklava, schwarzwalder kirsch cupcakes en een funfetti taart. In dit boek vind je 75 zoete en hartige recepten. De bereidingstijd is korter dan in de traditionele oven. Verder vind je veel praktische info zoals het omrekenen van een ovenrecept, het aantal calorieen per recept, serveertips en extra recepten van dips. De luxe editie is afgewerkt met een mooie harde kaft. Simone van der Koelen schreef eerder Lunchen zonder boterham.",
+   "variants": [
+    {
+     "id": "bakken-in-de-airfryer-luxe-editie",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789000398683",
+     "articleNumber": "9789000398683",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/b/a/bakken_in_de_airfryer_-_luxe_editie.jpg",
+     "productURL": "https://www.kookwinkel.nl/bakken-in-de-airfryer-luxe-editie-42430-0001061270"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bakken-in-de-airfryer-luxe-editie-42430-0001061270",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-bakken-in-de-airfryer-luxe-editie-1",
+    "web-bakken-in-de-airfryer-luxe-editie-codes"
+   ]
+  },
+  {
+   "id": "bbq-en-met-nick",
+   "name": "BBQ'en met Nick",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "BBQ'en met Nick",
+    "Uitgever Carrera, hardcover, 216 pagina's"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "216"
+    },
+    {
+     "label": "Thema",
+     "value": "rook en barbecue"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Carrera"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "BBQ's zijn net mensen. Je hebt ze in verschillende soorten, maten en kleuren. De een ziet er mooi uit en de ander heeft meer inhoud en een leuke persoonlijkheid. Ik ben geen pitmaster of BBQ-expert, er zijn professionals die er veel beter in zijn dan ik. Al kunnen zij het waarschijnlijk ook beter dat jij. Dus pak mijn hand. Laten we samen ontdekken wat voor lekker vreten we allemaal kunnen maken op die BBQ die in je achtertuin of op je balkon staat.",
+   "variants": [
+    {
+     "id": "bbq-en-met-nick",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048866458",
+     "articleNumber": "9789048866458",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/1/912x1200_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/bbq-en-met-nick-01502-0001053918"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bbq-en-met-nick-01502-0001053918",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bbq-magic",
+   "name": "BBQ Magic",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "BBQ Magic van Roel Westra (Pitmaster X): 100 recepten voor barbecue, grill en smoker",
+    "Ook over bereidingstechnieken"
+   ],
+   "specs": [],
+   "originalDescription": "In dit kookboek van Roel Westra, ofwel Pitmaster X, ontdek je nieuwe en spetterende smaken met 100 recepten voor je barbecue, grill en smoker. Dit is meer dan een BBQ-boek. Pitmaster X laat je kennismaken met traditionele en gloednieuwe bereidingstechnieken voor je barbecue, grill en smoker. Maak malse vis- en vleesgerechten die stuk voor stuk van je tong én van de pagina spatten. Bereid een Hollandse mayonaise-tomahawk, rooster je eigen knapperige baconreepjes, of ga voor beetgare barbecue-bijgerechten zoals gegrilde asperges en een vegetarische kebabspies. Ontketen de oerkracht van je barbecue en laat je klaarstomen voor de sappigste smaken van de buitenkeuken.",
+   "variants": [
+    {
+     "id": "bbq-magic",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789021040875",
+     "articleNumber": "9789021040875",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/1/0/1007x1200.jpg",
+     "productURL": "https://www.kookwinkel.nl/bbq-magic-14103-0001054060"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bbq-magic-14103-0001054060",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bbq-peter-de-clercq",
+   "name": "BBQ - Peter de Clercq",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "BBQ van Peter De Clercq: alles over de barbecue, met recepten en drankjes"
+   ],
+   "specs": [],
+   "originalDescription": "Peter De Clercq leert je alles over de barbecue: van de eerste vonk tot de laatste smeulende kolen. Ontdek heerlijke recepten die variëren van klassiek en hartig tot verrassend verfijnd. Peter neemt je stap voor stap mee en leert je de kneepjes van het vak. Alle gerechten en drankjes zijn nieuwe creaties. Hét barbecueboek voor iedereen die deze zomer indruk wil maken tijdens die eerste zonnige dagen.",
+   "variants": [
+    {
+     "id": "bbq-peter-de-clercq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789020958966",
+     "articleNumber": "9789020958966",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789020958966_bbq_peter_de_clercq.jpg",
+     "productURL": "https://www.kookwinkel.nl/bbq-peter-de-clercq-28917-0001067716"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bbq-peter-de-clercq-28917-0001067716",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bbq-street-all-year-long",
+   "name": "BBQ Street All Year Long",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "BBQSTREET All Year Long: kookboek van de grillmasters van BBQSTREET (24Kitchen)",
+    "Over barbecueën het hele jaar, ook in herfst en winter"
+   ],
+   "specs": [],
+   "originalDescription": "'BBQSTREET All Year Long' is het nieuwste kookboek van de grillmasters van 24Kitchen-hit BBQSTREET. Maak een jaar lang van elke dag een BBQ-feest! BBQSTREET All Year Long van de 24Kitchten tv-hit BBQSTREET bewijst voor eens en altijd dat samen BBQ’en met vrienden en familie het hele jaar lang leuk is, ook in de herfst en de winter. Kijk de kunst af bij BBQ-grillmasters Jord Althuizen, Harm Jan Bloem. Peter De Clerq, Ralph de Kok en Roel Westra, en ga zelf aan de slag. Maak met BBQSTREET All Year Long van elke dag een BBQ-feest.",
+   "variants": [
+    {
+     "id": "bbq-street-all-year-long",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789021596662",
+     "articleNumber": "9789021596662",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789021596662.jpg",
+     "productURL": "https://www.kookwinkel.nl/bbq-street-all-year-long-48003"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bbq-street-all-year-long-48003",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bbq-the-next-level",
+   "name": "BBQ, the next level",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "BBQ, the next level: 100 recepten",
+    "Uitgever Carrera, Nederlands, hardcover, 264 pagina's"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "264"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "grill, rook en barbecue"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Carrera"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Dit boek is voor alle BBQ-ers die een stap willen maken. Begrijp me niet verkeerd: ik ben nog steeds dol op pulled pork en rijd om voor goede spareribs, maar toch wil ook ik weleens wat anders. Daarom 100 recepten om je uit je comfort zone te krijgen - en dan bedoel ik echt niet alleen qua moeilijkheidsgraad of ingrediënten. Met 'next level' bedoel ik dat er zoveel meer is dan ribs marineren of aardappels poffen. Ik til in dit boek de zalm, spitskool en lamsbout naar een hoger plan en neem je stap-voor-stap mee in de bereiding van coquilles, duif en Wagyu op de BBQ - om maar iets te noemen.",
+   "variants": [
+    {
+     "id": "bbq-the-next-level",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048864614",
+     "articleNumber": "9789048864614",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/1/911x1200.jpg",
+     "productURL": "https://www.kookwinkel.nl/bbq-the-next-level-54002-0001053228"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bbq-the-next-level-54002-0001053228",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "bbq-tijd",
+   "name": "BBQ -TIJD",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "BBQ-tijd van Susan Aretz: recepten voor kamado en reguliere barbecue",
+    "Ook recepten die binnen 30 minuten klaar zijn"
+   ],
+   "specs": [],
+   "originalDescription": "Wat Susan Aretz betreft is het hoog tijd dat een vrouw laat zien hoe lekker het is om te koken op de barbecue. In BBQ-tijd vind je een keur aan toegankelijke barbecuerecepten voor zowel de kamado als de reguliere barbecue. En of je nu binnen 30 minuten aan tafel wilt of langer de tijd hebt, je vindt in BBQ-tijd voor ieder moment een passend barbecuerecept. In BBQ-tijd laat Susan je zien dat de combinatie van vuur, rook en buiten koken heerlijke en maakbare gerechten oplevert. Inclusief tips voor het gebruik van de restwarmte van je barbecue. Het wordt een hete zomer! Steek samen met Susan je barbecue aan en kies of je vanavond de snelle kimchi fried rice of Spaanse mosselen in tomatensaus op direct vuur maakt. Langer de tijd? Gebruik dan de indirecte warmte van je barbecue en maak de slow cook hertenstoof of de varkenswangetjes in cider. Gaat je voorkeur uit naar een vegetarisch gerecht, dan is er onder andere peperonata of de verrassende miso-aubergine. Nog zin in zoet? Laat je dan verleiden door de gegrilde rum-ananas met limoenmascarpone.",
+   "variants": [
+    {
+     "id": "bbq-tijd",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789464042122",
+     "articleNumber": "9789464042122",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/8/6/868x1200_1_.jpg",
+     "productURL": "https://www.kookwinkel.nl/bbq-tijd-88102-0001052799"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bbq-tijd-88102-0001052799",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "kookbijbels-bbqbijbel-van-asperges-tot-zwezerik",
+   "name": "Kookbijbels - BBQBijbel : van Asperges tot Zwezerik",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "BBQbijbel van Julius Jaspers: meer dan 200 recepten, met stap-voor-stapfoto's"
+   ],
+   "specs": [],
+   "originalDescription": "Barbecueën is populairder dan ooit tevoren. Waar vroeger een barbecue uit spareribs en worst bestond, bereidt men nu complete maaltijden op de grill. Groente, vis, schaal- en schelpdieren en zelfs fruit zijn hierbij inmiddels net zo geliefd.\n\nIn BBQbijbel laat barbecuekoning Julius Jaspers aan de hand van duidelijke stap-voor-stapfoto's en heldere iconen zien wat er allemaal mogelijk is en geeft hij meer dan 200 van zijn meest geliefde recepten prijs.",
+   "variants": [
+    {
+     "id": "kookbijbels-bbqbijbel-van-asperges-tot-zwezerik",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048832507",
+     "articleNumber": "9789048832507",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/b/b/bbqb1.jpg",
+     "productURL": "https://www.kookwinkel.nl/bbqbijbel-van-asperges-tot-zwezerik"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/bbqbijbel-van-asperges-tot-zwezerik",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "beterbbq-groots-grillen-op-de-gas-bbq",
+   "name": "BeterBBQ : Groots grillen op de gas-bbq",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "BeterBBQ: groots grillen op de gas-bbq van Leonard Elenbaas en Jeroen Hazebroek",
+    "30 recepten"
+   ],
+   "specs": [
+    {
+     "label": "Totale diameter",
+     "value": "Fontaine"
+    }
+   ],
+   "originalDescription": "De gasbuitenkeuken wordt vaak alleen voor het grillen van stoere steaks en burgers gebruikt.\n\nJe steekt hem aan als je thuiskomt en het is een snelle, fijne manier om dagelijks van de barbecue te eten. Leonard Elenbaas en Jeroen Hazebroek nemen je mee op een grootse kookexpeditie met je eigen gas-BBQ. Leer grote stukken vlees te bereiden en maak slim gebruik van temperatuurzones door bijvoorbeeld een druipschaal of gietijzeren pan in te zetten.\n\nHazebroek en Elenbaas gebruiken in dit boek alle ingebouwde mogelijkheden van het apparaat, zoals de sear/sizzleroosters, bovenrek en spit en laten zien hoe je van je gas-BBQ een rookoven en een volwassen buitenoven voor brood en nagerechten kan maken.\n\nIn een korte, bondige uitleg wordt het dagelijks gebruik en schoonmaak van de gas-BBQ uitgelegd, gevolgd door 30 bruikbare recepten voor zowel kleine groepen als een volle tuin.",
+   "variants": [
+    {
+     "id": "beterbbq-groots-grillen-op-de-gas-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789464040838",
+     "articleNumber": "9789464040838",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/g/a/gasbbq.jpg",
+     "productURL": "https://www.kookwinkel.nl/beterbbq-groots-grillen-op-de-gas-bbq-pre-order-juni"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/beterbbq-groots-grillen-op-de-gas-bbq-pre-order-juni",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-beterbbq-groots-grillen-op-de-gas-bbq-1"
+   ]
+  },
+  {
+   "id": "beterbbq-handig-met-de-houtskool-bbq",
+   "name": "BeterBBQ - Handig met de houtskool-bbq",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "BeterBBQ: handig met de houtskool-bbq van Jeroen Hazebroek en Leonard Elenbaas",
+    "Uitgever Fontaine, Nederlands, hardcover, 112 pagina's"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "112"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "grill, rook en barbecue"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Fontaine"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Een goede barbecue hoeft niet duur te zijn. Met een betaalbare houtskoolbarbecue kan je de mooiste gerechten op tafel toveren. Het enige wat je nodig hebt zijn de juiste ingrediënten en... dit boek! Doorgewinterde barbecue-auteurs Jeroen Hazebroek en Leonard Elenbaas leren je barbecueën op de kleine ruimte en in alle seizoenen. In dit boek focussen zij zich op de hibachi en de kettlebbq. De hibachi (of shishirin), een kleine open grill die je op tafel zet, is super handig voor kleine grill-gerechtjes maar met een beetje extra techniek ook geschikt voor grotere stukken vlees. De kettle-bbq, een allrounder en dé aanjager van de barbecuerevolutie van de laatste 20 jaar, staat in vele achtertuinen en schuren te verstoffen. Stof 'm af en leer met dit simpele bolletje roken, grillen en indirect garen.",
+   "variants": [
+    {
+     "id": "beterbbq-handig-met-de-houtskool-bbq",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789464041545",
+     "articleNumber": "9789464041545",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/9/7/9789464041545.jpeg",
+     "productURL": "https://www.kookwinkel.nl/beterbbq-handig-met-de-houtskool-bbq-55302"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/beterbbq-handig-met-de-houtskool-bbq-55302",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "black-smoke-bbq-booze-attitude-jort-althuizen",
+   "name": "Black Smoke : BBQ, Booze & Attitude - Jort Althuizen",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Black Smoke: BBQ, Booze & Attitude van Jord Althuizen en Kasper Stuart",
+    "Recepten voor grill of smoker, plus cocktails"
+   ],
+   "specs": [
+    {
+     "label": "Totale diameter",
+     "value": "Kosmos"
+    }
+   ],
+   "originalDescription": "Écht indruk maken met de BBQ? Dan is special edition BBQ boek Black Smoke van Jord Althuizen en Kasper Stuart hét boek voor jou.\n\nNaast blow-your- socks-off recepten voor grill of smoker, ook award winning cocktails van Belgiums Best Bartenders, een goede dosis Tasty Travels en alle need-to-knows om thuis te vlammen.\n\nHet perfecte cadeau voor de slightly show-off BBQ'er met ambitie. Powered by Smokey Goodness.\n\nJord Althuizen (Smokey Goodness) en horecaondernemer Kasper Stuart zijn de twee mannen achter BBQ-restaurant Black Smoke, dat in Antwerpen al twee jaar lang een wachtrij kent voor een tafel. Vanaf december 2018 ook in Rotterdam!",
+   "variants": [
+    {
+     "id": "black-smoke-bbq-booze-attitude-jort-althuizen",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789021570761",
+     "articleNumber": "9789021570761",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/b/l/blacksmoke.jpg",
+     "productURL": "https://www.kookwinkel.nl/black-smoke-bbq-booze-attitude-pre-order-november"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/black-smoke-bbq-booze-attitude-pre-order-november",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-black-smoke-bbq-booze-attitude-jort-althuizen-1"
+   ]
+  },
+  {
+   "id": "het-slowcooker-kookboek",
+   "name": "Het slowcooker kookboek",
+   "brandID": "bowlsanddishes",
+   "typeIDs": [
+    "slowcooker-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Kookboek over de slowcooker",
+    "Nederlands, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Auteur",
+     "value": "Lorna Brash"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789048314362"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Veltman"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Als u graag gezonde, degelijke maaltijden klaarmaakt maar daar doordeweeks geen tijd voor heeft, is dit boek net iets voor u. In ongeveer 20 minuten tijd bereidt u aan het begin van de dag een heerlijke maaltijd voor, die u overdag gaar laat worden in de slowcooker. 's Avonds bij thuiskomst wacht er dan een stevige soep, verwarmende stoofpot, een geurige curry of een mals stuk vlees met groenten op u. Wat u ook wilt eten, in dit kookboek vindt u er beslist het recept voor.",
+   "variants": [
+    {
+     "id": "het-slowcooker-kookboek",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789048314362",
+     "articleNumber": "9789048314362",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/s/l/slowcooker.jpg",
+     "productURL": "https://www.kookwinkel.nl/het-slowcooker-kookboek"
+    },
+    {
+     "id": "het-slowcooker-kookboek",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789461433510",
+     "articleNumber": "978-94-6143-351-0",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/p/o/poppy_cooks_slowcooker_omslag_voor_rgb.jpg",
+     "productURL": "https://www.kookwinkel.nl/het-slowcooker-kookboek-34130-0001064256"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/het-slowcooker-kookboek",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-het-slowcooker-kookboek-1",
+    "web-het-slowcooker-kookboek-codes"
+   ]
+  },
+  {
+   "id": "mix-meer-recepten-voor-de-magimix",
+   "name": "Mix & Meer - Recepten voor de Magimix",
+   "brandID": "goodcook",
+   "typeIDs": [
+    "overige-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Mix & Meer: recepten voor de Magimix keukenmachine van Jessica Lek",
+    "Amuses, voorgerechten, hoofd- en bijgerechten, desserts en kazen, dranken en basisrecepten",
+    "Uitgever Good Cook, Nederlands, hardcover, ISBN 9789461430953"
+   ],
+   "specs": [
+    {
+     "label": "Auteur",
+     "value": "Jessica Lek"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789461430953"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "overig"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Good Cook"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Ontdek de veelzijdigheid van de Magimix keukenmachine en bereid hiermee lekkere en mooie gerechten. De verfijnde en toegankelijke receptuur, waarin het draait om het combineren van de juiste smaken en werken met verse ingrediënten, is zeer gevarieerd: amuses, voorgerechten, hoofd- en bijgerechten, desserts en kazen, dranken en natuurlijk basisrecepten voor het maken van de perfecte sauzen en dressings. In Mix & Meer staan klassiekers als steak tartaar en gravadlax, maar ook creatieve gerechten als radicchiosalade met gemarineerde roze oesterzwammen en champagnecocktail met rabarber. Met behulp van de foodprocessor wordt het nu nog eenvoudiger om deze magische gerechten te bereiden. Dankzij de goede uitleg van alle technieken en de vele tips leer je om meer uit je keukenmachine te halen; van mixen en raspen tot fijnhakken en snijden.",
+   "variants": [
+    {
+     "id": "mix-meer-recepten-voor-de-magimix",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789461430953",
+     "articleNumber": "978-94-6143-095-3",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/5/7/2573_57191_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/mix-meer-recepten-voor-de-magimix"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/mix-meer-recepten-voor-de-magimix",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "sous-vide-85-recepten-voor-de-thuiskok",
+   "name": "Sous-vide - 85 recepten voor de thuiskok",
+   "brandID": "goodcook",
+   "typeIDs": [
+    "sous-vide-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Sous-vide - 85 recepten voor de thuiskok van Bas Robben",
+    "Legt uit wat sous-vide is: vacuüm garen in een waterbad op lage, constante temperatuur",
+    "Uitgever Good Cook, Nederlands, hardcover, 280 pagina's, ISBN 9789461432230"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "280"
+    },
+    {
+     "label": "Auteur",
+     "value": "Bas Robben"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789461432230"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Good Cook"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Sous-vide is het vacuüm garen van ingrediënten in een waterbad op een lage en constante temperatuur en levert perfect gegaard vlees, vis, groenten en meer op. Met dit boek leer je de fijne kneepjes en ontdek je de talloze mogelijkheden van sous-vide koken. Waarom kun je een kip niet in z'n geheel sous-vide garen, maar wél sappige bouten en filets serveren? Bas Robben laat aan de hand van 85 recepten zien dat sous-vide koken een fantastische manier is om voedsel nog malser en smaakvoller te bereiden. Met duidelijke aanwijzingen over hoe lang en op welke temperatuur onderdelen van diverse vleessoorten, vis, groenten en eieren tot perfectie worden gegaard. Van miso-kippendijen met spek, lamsbout met oregano-muntsalsa en dillezalm met citroensaus tot sous-vide gegaarde bieten en wortels, gepocheerde eieren, mandarijncustard en vlierbloesem-citroenwodka. Met zowel basis- als gevorderde recepten, is dit hét ultieme handboek voor de hobbykok.",
+   "variants": [
+    {
+     "id": "sous-vide-85-recepten-voor-de-thuiskok",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789461432230",
+     "articleNumber": "978-94-6143-223-0",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/s/o/sous-vide_2d_rgb_1.jpg",
+     "productURL": "https://www.kookwinkel.nl/sous-vide-85-recepten-voor-de-thuiskok"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/sous-vide-85-recepten-voor-de-thuiskok",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "the-curry-guy-airfryer",
+   "name": "The Curry Guy Airfryer",
+   "brandID": "goodcook",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "The Curry Guy Airfryer van Dan Toombs",
+    "50 eenvoudige recepten: curry's, tandoorigerechten en andere Indiase klassiekers uit de airfryer",
+    "Hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "In The Curry Guy Airfryer bewijst Dan Toombs, beter bekend als The Curry Guy, dat je de lekkerste curry’s, tandoorigerechten en andere klassiekers uit de Indiase keuken kunt bereiden met een airfryer. Aan de hand van 50 eenvoudige recepten laat Dan zien hoe je de airfryer kunt gebruiken als een kleine tandooroven of zelfs als een bakpan. Van uienbahji en kip tikka masala tot lam madras en kip chasni. En van tandoori lamskoteletjes tot chapli kebabs: alle recepten zijn makkelijk door werkelijk iedereen te bereiden. Zet de aifryer maar aan en trakteer jezelf, je huisgenoten en vrienden op een overheerlijke en hartverwarmende Indiase feestmaaltijd.",
+   "variants": [
+    {
+     "id": "the-curry-guy-airfryer",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789461433404",
+     "articleNumber": "9789461433404",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/t/h/the_curry_guy_airfryer.jpg",
+     "productURL": "https://www.kookwinkel.nl/the-curry-guy-airfryer-68729-0001062424"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/the-curry-guy-airfryer-68729-0001062424",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-the-curry-guy-airfryer-1",
+    "web-the-curry-guy-airfryer-codes"
+   ]
+  },
+  {
+   "id": "the-curry-guy-bbq-100-indiase-klassiekers-van-de-barbecue",
+   "name": "The Curry Guy BBQ: 100 Indiase klassiekers van de barbecue",
+   "brandID": "goodcook",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "The Curry Guy BBQ van Dan Toombs: 100 Indiase klassiekers van de barbecue",
+    "Indiase gerechten voor barbecue, grill of pan boven open vuur",
+    "Uitleg over apparatuur, temperatuur en directe of indirecte hitte",
+    "Uitgever Good Cook, Nederlands, hardcover, ISBN 9789461432766"
+   ],
+   "specs": [
+    {
+     "label": "Auteur",
+     "value": "Dan Toombs"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789461432766"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "grill, rook en barbecue, aziatisch"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Good Cook"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Dan Toombs, a.k.a. The Curry Guy, steekt het vuur aan en deelt Indiase gerechten die op de barbecue, grill of in een pan boven open vuur bereid kunnen worden. Met goede uitleg over apparatuur, het verschil tussen roosteren en grillen, het beheersen van de temperatuur, gebruik maken van directe of indirecte hitte, verras je iedereen met geweldige Indiase gerechten van de barbecue. Steek de fik erin en bereid kashmiri kabargah lamskoteletjes, kip tandoori, diverse variaties aan kebab of pittig gevulde mosselen. Kleine gerechten, vis- en vleesbereidingen maar ook groente-, rijst- en broodrecepten die je op open vuur bereidt. Maak eens knapperige saffraanrijst, rokerige chana dal of naan gevuld met curry. Daarnaast biedt The Curry Guy BBQ heerlijke sauzen zoals raïta met geroosterde uien, kashmiri hot sauce, pittige tomatenchutney en diverse marinades en rubs. Bij elk recept zie je in een oogopslag of het vegetarisch, glutenvrij of snel te bereiden is. Breid je barbecuerepertoire uit en schotel je gasten verrassende Indiase gerechten voor.",
+   "variants": [
+    {
+     "id": "the-curry-guy-bbq-100-indiase-klassiekers-van-de-barbecue",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789461432766",
+     "articleNumber": null,
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/t/h/the_curry_guy_bbq_2d_rgb.jpg",
+     "productURL": "https://www.kookwinkel.nl/the-curry-guy-bbq-100-indiase-klassiekers-van-de-barbecue"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/the-curry-guy-bbq-100-indiase-klassiekers-van-de-barbecue",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "the-curry-guy-een-pan",
+   "name": "The Curry Guy één pan",
+   "brandID": "goodcook",
+   "typeIDs": [
+    "wok-pan-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "The Curry Guy één pan van Dan Toombs: meer dan 150 eenpansgerechten",
+    "Soepen, stoofpotjes en currygerechten uit o.a. India, Sri Lanka, Thailand en Maleisië",
+    "Nederlands, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Auteur",
+     "value": "Dan Toombs"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "aziatisch"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Dan Toombs, a.k.a. The Curry Guy, geeft meer dan 150 nieuwe recepten voor geurige eenpansgerechten bomvol smaak. Van (maaltijd)soepen uit India, Sri Lanka en Thailand, kruidige stoofpotjes uit Maleisië en Singapore tot en met wat minder bekende maar overheerlijke currygerechten uit Zuid-Afrika, de texmex-keuken & verder. De welbekende stijl van Dan Toombs spreekt vele kookliefhebbers aan: in een oogopslag zie je of een gerecht vegetarisch dan wel glutenvrij is, of dat een gerecht makkelijk en snel te bereiden is. Ook de Weekend Wonders, de gerechten die wat langer de tijd nodig hebben, mogen niet ontbreken. Met goede uitleg over de basis zoals de voorraadkast en keukenequipment kan iedereen direct aan de slag. Maak pittige curry uit Maleisië, bunny chow (kipcurry uit Zuid-Afrika) of een viscurry uit Goa. Verras je gasten met bun bo hue, de legendarische soep van de Vietnamese Nguyen Thi Thành (bekend geworden door wijlen Anthony Bourdin). Ga op de vegetarische toer en serveer saag uit Punjab of een Sri Lankaanse dal curry. Bovendien geeft The Curry Guy één pan ruim 30 basisrecepten voor specerijenmengsels, sambals, bouillons en meer.",
+   "variants": [
+    {
+     "id": "the-curry-guy-een-pan",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789461433084",
+     "articleNumber": "9789461433084",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/c/u/curryeenpan_2d_rgb.jpg",
+     "productURL": "https://www.kookwinkel.nl/the-curry-guy-n-pan-64602-0001053596"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/the-curry-guy-n-pan-64602-0001053596",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-the-curry-guy-een-pan-1",
+    "web-the-curry-guy-een-pan-codes"
+   ]
+  },
+  {
+   "id": "the-curry-guy-slowcooker",
+   "name": "The Curry Guy Slowcooker",
+   "brandID": "goodcook",
+   "typeIDs": [
+    "slowcooker-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "The Curry Guy Slowcooker van Dan Toombs",
+    "Curry's en Indiase klassiekers in de slowcooker, ook uit Zuidoost-Azië",
+    "Bevat basisrecepten: rijst, bouillons, specerijenmengsels en kruidenpasta's",
+    "Uitgever Good Cook, Nederlands, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "Aziatisch"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Good Cook"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "Hardcover"
+    }
+   ],
+   "originalDescription": "Dan Toombs, a.k.a. The Curry Guy, laat je in zijn nieuwste kookboek zien hoe je curry’s en Indiase klassiekers kan bereiden in de slowcooker, en selecteerde hij dé recepten uit zijn oeuvre die hiervoor uitermate geschikt zijn. Steeds meer huishoudens ontdekken het gemak van de energiezuinige slowcooker, en dus is het tijd voor The Curry Guy Slowcooker!\n\nIn The Curry Guy Slowcooker tref je niet alleen de populaire curry’s uit India aan maar ook curry’s uit Zuidoost-Azië: van Indiase klassiekers als kip tikka massala en lam vindaloo tot en met kari ajam uit Maleisië en massaman curry uit Thailand.\n\nBovendien laat Toombs zien dat ook andere Indiase gerechten in de slowcooker perfect te bereiden zijn. Denk aan chana dal, het rijstgerecht biryani en zelfs kip tandoori. Bovendien geeft Toombs diverse basisrecepten: rijst en bouillons (uit de slowcooker), specerijenmengsels en kruidenpasta’s. Met duidelijke stap-voor-stap uitleg en de do’s and don’ts bij het gebruik van de slowcooker kun je meteen aan de slag met de 50 recepten.",
+   "variants": [
+    {
+     "id": "the-curry-guy-slowcooker",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789461433589",
+     "articleNumber": "9789461433589",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/c/u/curry_guy_slow_cooker_3d.jpg",
+     "productURL": "https://www.kookwinkel.nl/the-curry-guy-slowcooker-69418-0001067147"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/the-curry-guy-slowcooker-69418-0001067147",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-the-curry-guy-slowcooker-1",
+    "web-the-curry-guy-slowcooker-codes"
+   ]
+  },
+  {
+   "id": "vegan-summer-plantaardige-barbecue",
+   "name": "Vegan Summer : plantaardige barbecue",
+   "brandID": "goodcook",
+   "typeIDs": [
+    "bbq-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Vegan Summer van Miljuschka Witzenhausen: plantaardige barbecue",
+    "Vegan hoofd- en bijgerechten voor op en bij de barbecue",
+    "Uitgever Good Cook, Nederlands, hardcover, 88 pagina's, ISBN 9789461432551"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "88"
+    },
+    {
+     "label": "Auteur",
+     "value": "Miljuschka Witzenhausen"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789461432551"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "vegetarisch en veganistisch"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Good Cook"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Move over, jij suffe wortelspies. Het is tijd voor een upgrade van de vegan barbecue.\n\nWat dacht je bijvoorbeeld van een sappige, Koreaanse tempehburger? Een kruidige kebabspies van koningsboleet? Of een smokey tofuburger geserveerd met een Japanse watermeloensalade? Stook het vuur maar op en verras je familie en vrienden, vegan én verstokte vleeseters, met fantastische plantaardige gerechten voor op en bij de barbecue.\n\nIn 'Vegan Summer' laten we de saaie shaslick en gegrilde maïskolf definitief achter ons en storten we ons op heerlijke hoofd- en bijgerechten die iedereen verrassen. Van een kimchidog en ‘net-echt-kipsateh’ tot en met gegrilde ananas met pittige dip en geroosterde tandoori-bloemkool. Van smakelijke bijgerechten als ingelegde rodekoolsla met sojasaus en een aardbeiensalade met muntvinaigrette tot mango-crumble toe. Maak je eigen sauzen als Koreaanse ketchup of ‘pindasaus in 3 minuten’ en proost met een grapefruit gin-tonic. Met 'Vegan Summer' organiseer je voortaan moeiteloos een plantaardige barbecue.",
+   "variants": [
+    {
+     "id": "vegan-summer-plantaardige-barbecue",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789461432551",
+     "articleNumber": "9789461432551",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/v/e/vegansummer.jpg",
+     "productURL": "https://www.kookwinkel.nl/vegan-summer"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/vegan-summer",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "wok-aziatische-wokgerechten-in-een-handomdraai",
+   "name": "Wok! Aziatische wokgerechten in een handomdraai",
+   "brandID": "goodcook",
+   "typeIDs": [
+    "wok-pan-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Wok! Aziatische wokgerechten in een handomdraai",
+    "Gaat over roerbaktechnieken, hitte en volgorde van ingrediënten",
+    "Uitgever Good Cook, Nederlands, hardcover, 208 pagina's, ISBN 9789461432780"
+   ],
+   "specs": [
+    {
+     "label": "Aantal pagina's",
+     "value": "208"
+    },
+    {
+     "label": "ISBN",
+     "value": "9789461432780"
+    },
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "aziatisch"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Good Cook"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Wokken is een onderschatte kunst: het gaat om de balans tussen smaken en structuren, de juiste hitte, snij- en roerbaktechnieken en de volgorde van de te wokken ingrediënten. Wie het wokken goed onder de knie heeft, zet in een mum van tijd verrukkelijke Aziatische wokgerechten op tafel. In Wok! lees je alles over diverse roerbaktechnieken die echt bepalend zijn voor het eindresultaat, krijg je meer inzicht in de balans in texturen van verschillende ingrediënten en uiteraard in smaken. Maak kennis met de ‘wokklok’, een handig instrument om ingrediënten in de juiste volgorde te gebruiken en ga aan de slag. Met recepten uit China, Thailand, Vietnam, Korea, Japan, Indonesië, Singapore en Maleisië maak je een keur aan verrukkelijke wokgerechten. Maak vegan chow mein uit China of Thaïse kippenvleugels in vissaus. Serveer een snelle phõ met kip uit Vietnam of een nasi lemak uit Maleisië. Met een toegift aan lekkere bijgerechten zoals salades van silken tofu of met groene papaya, condimenten en meer.",
+   "variants": [
+    {
+     "id": "wok-aziatische-wokgerechten-in-een-handomdraai",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789461432780",
+     "articleNumber": null,
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/w/o/wok_2d_rgb.png",
+     "productURL": "https://www.kookwinkel.nl/wok-aziatische-wokgerechten-in-een-handomdraai"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/wok-aziatische-wokgerechten-in-een-handomdraai",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": null
+  },
+  {
+   "id": "de-anatomie-van-het-japanse-mes",
+   "name": "De anatomie van het Japanse mes",
+   "brandID": "goodcook",
+   "typeIDs": [
+    "overige-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "De anatomie van het Japanse mes: boek over Japanse messen",
+    "Geschiedenis van het Japanse messenmaken, portretten van vakmannen, staalsoorten en smeedtechnieken",
+    "Informatie over gebruik, onderhoud en slijpen",
+    "Uitgever Good Cook, Nederlands, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "Kooktechnieken"
+    },
+    {
+     "label": "Uitgever",
+     "value": "Good Cook"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "Hardcover"
+    }
+   ],
+   "originalDescription": "Japanse messen worden wereldwijd geprezen, en terecht: het vakmanschap is diep geworteld in eeuwenoude tradities die dankzij het respect en de toewijding van meester-ambachtslieden tot op de dag van vandaag worden toegepast.\n\nMet aandacht voor de geschiedenis van het Japanse messenmaken, portretten van gerenommeerde vakmannen, uitgebreide informatie over staalsoorten en smeedtechnieken, neemt De anatomie van hetJapanse mes je mee langs alle facetten die deze ambacht zo bijzonder maken.\n\nDit boek geeft alle informatie over het gebruik en onderhoud van verschillende messen en hoe je deze op de juiste manier slijpt.\n\nMet prachtige locatiefotografie van de smederijen is De anatomie van het Japanse mes het ultieme eerbetoon aan 's werelds beste messenmakers.",
+   "variants": [
+    {
+     "id": "de-anatomie-van-het-japanse-mes",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789461433701",
+     "articleNumber": "9789461433701",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/d/e/de_anatomie_van_het_japanse_mes.jpg",
+     "productURL": "https://www.kookwinkel.nl/de-anatomie-van-het-japanse-mes-95617-0001071340"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/de-anatomie-van-het-japanse-mes-95617-0001071340",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-de-anatomie-van-het-japanse-mes-1",
+    "web-de-anatomie-van-het-japanse-mes-codes"
+   ]
+  },
+  {
+   "id": "airfryer-kookboek",
+   "name": "Airfryer kookboek",
+   "brandID": "goodcook",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Airfryer kookboek van Peter Friehling",
+    "Laat de mogelijkheden van de airfryer zien",
+    "Nederlands, hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Taal",
+     "value": "Nederlands"
+    },
+    {
+     "label": "Thema",
+     "value": "kooktechnieken"
+    },
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Het imago van de airfryer is de afgelopen periode 180 graden gekanteld: van ‘slank’ frituuralternatief tot een wonderoventje waarmee je in een relatief korte tijd − en dus energiebesparend − van alles kunt bereiden. Maar wat dan allemaal en hoe? Peter Friehling laat met Airfryer kookboek zien wat de ontelbare mogelijkheden zijn om de airfryer optimaal te benutten. Stof je airfryer maar af en vergeet de bitterballen en patat. Met duidelijke instructies, en ook vooral wat je maar beter kunt laten, geeft Airfryer kookboek tientallen recepten waarmee je aan de slag kan. Van bistro- en eetcafégerechten als quiche, cordon bleu en tarte tatin tot en met Aziatische, Midden-Oosterse en Latijns-Amerikaanse toppers. Maak Thaise curry met viskoekjes of coxinha, een Mexicaans kipgerecht. Verras je tafelgenoten op zoete zaligheden als Baked Alaska en Midden-Oosterse ma’amul-koekjes. Van appetizers als samosa’s of paddenstoelentoast tot en met nagerechten als rumbanaan en alles wat er tussenin zit. En uiteraard mogen snacks als loempia’s, pizza’s en kipnuggets niet ontbreken.",
+   "variants": [
+    {
+     "id": "airfryer-kookboek",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789461433060",
+     "articleNumber": "9789461433060",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/a/i/airfryer_2d_rgb.jpg",
+     "productURL": "https://www.kookwinkel.nl/airfryer-kookboek-63403-0001053591"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/airfryer-kookboek-63403-0001053591",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-airfryer-kookboek-1",
+    "web-airfryer-kookboek-codes"
+   ]
+  },
+  {
+   "id": "easy-airfryer-jamie-oliver",
+   "name": "Easy Airfryer - Jamie Oliver",
+   "brandID": "jamieoliver",
+   "typeIDs": [
+    "airfryer-boeken"
+   ],
+   "suitedFor": null,
+   "tellTheCustomer": [
+    "Jamie's Easy Airfryer: ruim 90 snelle en makkelijke recepten van Jamie Oliver",
+    "Hoofdstukken o.a. Snelle happen, Nieuwe classics, Supersalades, Toptoetjes",
+    "Hardcover"
+   ],
+   "specs": [
+    {
+     "label": "Uitvoering",
+     "value": "hardcover"
+    }
+   ],
+   "originalDescription": "Haal meer uit je airfryer met de nieuwe Jamie Oliver! Ruim 90 verrukkelijke, snelle en makkelijke recepten die elke maaltijd een feestje maken voor iedereen, elke dag. Groots en geweldig lekker eten In Jamie's Easy Airfryer maakt Jamie Oliver koken met de airfryer makkelijker en lekkerder dan ooit. Met meer dan 90 recepten voor iedere gelegenheid biedt dit kookboek een geweldige manier om heerlijk eten te bereiden, van snacks tot volledige maaltijden. Of je nu een doorgewinterde thuiskok bent of gewoon op zoek bent naar snelle, gezonde gerechten, Jamie's recepten bieden het allemaal. Het kookboek is ideaal voor iedereen die de airfryer in zijn of haar keuken wil gebruiken van beginners tot ervaren koks. Ga aan de slag met deze handzame hoofdstukken:\n\nZo werkt een airfryer\n\nSnelle happen\n\nNieuwe classics\n\nGa voor groenten\n\nSupersalades\n\nEen tikkeltje speciaal\n\nBetere borrelhappen\n\nAan de bak\n\nToptoetjes\n\nDuurzaam koken & keukentips\n\nJamie's Easy Airfryer is jouw kans om de smaak van Jamie te combineren met het gemak van de airfryer.",
+   "variants": [
+    {
+     "id": "easy-airfryer-jamie-oliver",
+     "colorName": "",
+     "colorHex": null,
+     "ean": "9789043937900",
+     "articleNumber": "9789043937900",
+     "imageName": null,
+     "imageURL": "https://www.kookwinkel.nl/media/catalog/product/e/a/easy_airfryer_-_jamie_oliver.jpg",
+     "productURL": "https://www.kookwinkel.nl/easy-airfryer-jamie-oliver-50430-0001061698"
+    }
+   ],
+   "source": {
+    "kind": "website",
+    "url": "https://www.kookwinkel.nl/easy-airfryer-jamie-oliver-50430-0001061698",
+    "checkedOn": "2026-11-12"
+   },
+   "mismatchIDs": [
+    "web-easy-airfryer-jamie-oliver-1",
+    "web-easy-airfryer-jamie-oliver-codes"
+   ]
   },
   {
    "id": "de-buyer-b-element-blinipan-12-cm-plaatstaal",
@@ -258276,6 +261932,666 @@
    "note": "Deze regels zijn uit de app gelaten.",
    "productIDs": [
     "the-bastard-phantom-koekenpan-24-cm-plaatstaal"
+   ]
+  },
+  {
+   "id": "web-het-airfryer-kookboek-100-recepten-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26668",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "het-airfryer-kookboek-100-recepten"
+   ]
+  },
+  {
+   "id": "web-het-airfryer-kookboek-100-recepten-codes",
+   "kind": "websiteData",
+   "topic": "Het Airfryer kookboek - 100 recepten: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26668).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "het-airfryer-kookboek-100-recepten"
+   ]
+  },
+  {
+   "id": "web-het-complete-airfryer-boek-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "27425",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "het-complete-airfryer-boek"
+   ]
+  },
+  {
+   "id": "web-het-complete-airfryer-boek-codes",
+   "kind": "websiteData",
+   "topic": "Het complete airfryer boek: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (27425).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "het-complete-airfryer-boek"
+   ]
+  },
+  {
+   "id": "web-het-slowcookerboek-wereldgerechten-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "27441",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "het-slowcookerboek-wereldgerechten"
+   ]
+  },
+  {
+   "id": "web-het-slowcookerboek-wereldgerechten-codes",
+   "kind": "websiteData",
+   "topic": "Het Slowcookerboek Wereldgerechten: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (27441).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "het-slowcookerboek-wereldgerechten"
+   ]
+  },
+  {
+   "id": "web-het-ultieme-airfryer-boek-makkelijke-maaltijden-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26668",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "het-ultieme-airfryer-boek-makkelijke-maaltijden"
+   ]
+  },
+  {
+   "id": "web-het-ultieme-airfryer-boek-makkelijke-maaltijden-codes",
+   "kind": "websiteData",
+   "topic": "Het ultieme airfryer boek - makkelijke maaltijden: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26668).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "het-ultieme-airfryer-boek-makkelijke-maaltijden"
+   ]
+  },
+  {
+   "id": "web-het-ultieme-airfryer-kookboek-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26668",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "het-ultieme-airfryer-kookboek"
+   ]
+  },
+  {
+   "id": "web-het-ultieme-airfryer-kookboek-codes",
+   "kind": "websiteData",
+   "topic": "Het ultieme airfryer kookboek: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26668).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "het-ultieme-airfryer-kookboek"
+   ]
+  },
+  {
+   "id": "web-keukenhelden-tosti-s-en-meer-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "27313",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "keukenhelden-tosti-s-en-meer"
+   ]
+  },
+  {
+   "id": "web-keukenhelden-tosti-s-en-meer-codes",
+   "kind": "websiteData",
+   "topic": "Keukenhelden - Tosti's en meer: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (27313).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "keukenhelden-tosti-s-en-meer"
+   ]
+  },
+  {
+   "id": "web-kookbijbels-airfryerbijbel-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26747",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "kookbijbels-airfryerbijbel"
+   ]
+  },
+  {
+   "id": "web-kookbijbels-airfryerbijbel-codes",
+   "kind": "websiteData",
+   "topic": "Kookbijbels - Airfryerbijbel: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26747).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "kookbijbels-airfryerbijbel"
+   ]
+  },
+  {
+   "id": "web-kookbijbels-wokbijbel-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26798",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "kookbijbels-wokbijbel"
+   ]
+  },
+  {
+   "id": "web-kookbijbels-wokbijbel-codes",
+   "kind": "websiteData",
+   "topic": "Kookbijbels - Wokbijbel: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26798).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "kookbijbels-wokbijbel"
+   ]
+  },
+  {
+   "id": "web-masterclass-airfryer-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26929",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "masterclass-airfryer"
+   ]
+  },
+  {
+   "id": "web-masterclass-airfryer-codes",
+   "kind": "websiteData",
+   "topic": "Masterclass - Airfryer: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26929).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "masterclass-airfryer"
+   ]
+  },
+  {
+   "id": "web-slowcooker-recepten-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26735",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "slowcooker-recepten"
+   ]
+  },
+  {
+   "id": "web-slowcooker-recepten-codes",
+   "kind": "websiteData",
+   "topic": "Slowcooker recepten: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26735).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "slowcooker-recepten"
+   ]
+  },
+  {
+   "id": "web-smokey-goodness-2-het-next-level-barbecueboek-1",
+   "kind": "websiteData",
+   "topic": "Spec \"Totale diameter\"",
+   "websiteSays": "Kosmos",
+   "status": "toVerify",
+   "note": "Waarde lijkt een uitgever; spec-label klopt niet",
+   "productIDs": [
+    "smokey-goodness-2-het-next-level-barbecueboek"
+   ]
+  },
+  {
+   "id": "web-smokey-goodness-brand-new-bbq-1",
+   "kind": "websiteData",
+   "topic": "Spec \"Totale diameter\"",
+   "websiteSays": "Kosmos",
+   "status": "toVerify",
+   "note": "Waarde lijkt een uitgever; spec-label klopt niet",
+   "productIDs": [
+    "smokey-goodness-brand-new-bbq"
+   ]
+  },
+  {
+   "id": "web-smokey-goodness-burgers-bbq-bites-1",
+   "kind": "websiteData",
+   "topic": "Spec \"Totale diameter\"",
+   "websiteSays": "Kosmos",
+   "status": "toVerify",
+   "note": "Waarde lijkt een uitgever; spec-label klopt niet",
+   "productIDs": [
+    "smokey-goodness-burgers-bbq-bites"
+   ]
+  },
+  {
+   "id": "web-smokey-goodness-lowlands-bbq-1",
+   "kind": "websiteData",
+   "topic": "Spec \"Totale diameter\"",
+   "websiteSays": "Kosmos",
+   "status": "toVerify",
+   "note": "Waarde lijkt een uitgever; spec-label klopt niet",
+   "productIDs": [
+    "smokey-goodness-lowlands-bbq"
+   ]
+  },
+  {
+   "id": "web-smokey-goodness-winter-bbq-jord-althuizen-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26808",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "smokey-goodness-winter-bbq-jord-althuizen"
+   ]
+  },
+  {
+   "id": "web-smokey-goodness-winter-bbq-jord-althuizen-codes",
+   "kind": "websiteData",
+   "topic": "Smokey Goodness Winter BBQ - Jord Althuizen: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26808).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "smokey-goodness-winter-bbq-jord-althuizen"
+   ]
+  },
+  {
+   "id": "web-sous-vide-koken-thuis-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26737",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "sous-vide-koken-thuis"
+   ]
+  },
+  {
+   "id": "web-sous-vide-koken-thuis-codes",
+   "kind": "websiteData",
+   "topic": "Sous-Vide koken thuis: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26737).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "sous-vide-koken-thuis"
+   ]
+  },
+  {
+   "id": "web-veggie-bbq-90-vegetarische-barbecuerecepten-1",
+   "kind": "websiteData",
+   "topic": "Spec \"Totale diameter\"",
+   "websiteSays": "Veltman",
+   "status": "toVerify",
+   "note": "Waarde lijkt een uitgever; spec-label klopt niet",
+   "productIDs": [
+    "veggie-bbq-90-vegetarische-barbecuerecepten"
+   ]
+  },
+  {
+   "id": "web-wok-express-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26814",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "wok-express"
+   ]
+  },
+  {
+   "id": "web-wok-express-codes",
+   "kind": "websiteData",
+   "topic": "Wok express: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26814).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "wok-express"
+   ]
+  },
+  {
+   "id": "web-een-pan-pascale-naessens-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26814",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "een-pan-pascale-naessens"
+   ]
+  },
+  {
+   "id": "web-een-pan-pascale-naessens-codes",
+   "kind": "websiteData",
+   "topic": "Eén Pan - Pascale Naessens: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26814).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "een-pan-pascale-naessens"
+   ]
+  },
+  {
+   "id": "web-easy-airfryer-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26929",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "easy-airfryer"
+   ]
+  },
+  {
+   "id": "web-easy-airfryer-codes",
+   "kind": "websiteData",
+   "topic": "Easy Airfryer: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26929).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "easy-airfryer"
+   ]
+  },
+  {
+   "id": "web-easy-bbq-every-moment-1",
+   "kind": "websiteData",
+   "topic": "Spec \"Totale diameter\"",
+   "websiteSays": "Kosmos",
+   "status": "toVerify",
+   "note": "Waarde lijkt een uitgever; spec-label klopt niet",
+   "productIDs": [
+    "easy-bbq-every-moment"
+   ]
+  },
+  {
+   "id": "web-100-recepten-voor-de-slowcooker-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26668",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "100-recepten-voor-de-slowcooker"
+   ]
+  },
+  {
+   "id": "web-100-recepten-voor-de-slowcooker-codes",
+   "kind": "websiteData",
+   "topic": "100 recepten voor de slowcooker: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26668).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "100-recepten-voor-de-slowcooker"
+   ]
+  },
+  {
+   "id": "web-500-kamadorecepten-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26758",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "500-kamadorecepten"
+   ]
+  },
+  {
+   "id": "web-500-kamadorecepten-codes",
+   "kind": "websiteData",
+   "topic": "500 kamadorecepten: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26758).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "500-kamadorecepten"
+   ]
+  },
+  {
+   "id": "web-airfryer-like-a-chef-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26845",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "airfryer-like-a-chef"
+   ]
+  },
+  {
+   "id": "web-airfryer-like-a-chef-codes",
+   "kind": "websiteData",
+   "topic": "Airfryer Like a Chef: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26845).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "airfryer-like-a-chef"
+   ]
+  },
+  {
+   "id": "web-bakken-in-de-airfryer-luxe-editie-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26668",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "bakken-in-de-airfryer-luxe-editie"
+   ]
+  },
+  {
+   "id": "web-bakken-in-de-airfryer-luxe-editie-codes",
+   "kind": "websiteData",
+   "topic": "Bakken in de Airfryer - Luxe editie: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26668).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "bakken-in-de-airfryer-luxe-editie"
+   ]
+  },
+  {
+   "id": "web-beterbbq-groots-grillen-op-de-gas-bbq-1",
+   "kind": "websiteData",
+   "topic": "Spec \"Totale diameter\"",
+   "websiteSays": "Fontaine",
+   "status": "toVerify",
+   "note": "Waarde lijkt een uitgever; spec-label klopt niet",
+   "productIDs": [
+    "beterbbq-groots-grillen-op-de-gas-bbq"
+   ]
+  },
+  {
+   "id": "web-black-smoke-bbq-booze-attitude-jort-althuizen-1",
+   "kind": "websiteData",
+   "topic": "Spec \"Totale diameter\"",
+   "websiteSays": "Kosmos",
+   "status": "toVerify",
+   "note": "Waarde lijkt een uitgever; spec-label klopt niet",
+   "productIDs": [
+    "black-smoke-bbq-booze-attitude-jort-althuizen"
+   ]
+  },
+  {
+   "id": "web-het-slowcooker-kookboek-1",
+   "kind": "websiteData",
+   "topic": "Zelfde titel, twee pagina's",
+   "websiteSays": "Bowls and Dishes: auteur Lorna Brash, uitgever Veltman; Good Cook: Poppy O'Toole (Poppy Cooks), uitgever Good Cook",
+   "status": "toVerify",
+   "note": "Twee pagina's met dezelfde naam maar verschillende tekst; één gedeelde tekst omdat de naam gelijk is. Controleren of het om hetzelfde boek gaat.",
+   "productIDs": [
+    "het-slowcooker-kookboek"
+   ]
+  },
+  {
+   "id": "web-het-slowcooker-kookboek-codes",
+   "kind": "websiteData",
+   "topic": "Het slowcooker kookboek: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26737).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "het-slowcooker-kookboek"
+   ]
+  },
+  {
+   "id": "web-the-curry-guy-airfryer-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26769",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "the-curry-guy-airfryer"
+   ]
+  },
+  {
+   "id": "web-the-curry-guy-airfryer-codes",
+   "kind": "websiteData",
+   "topic": "The Curry Guy Airfryer: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26769).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "the-curry-guy-airfryer"
+   ]
+  },
+  {
+   "id": "web-the-curry-guy-een-pan-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26802",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "the-curry-guy-een-pan"
+   ]
+  },
+  {
+   "id": "web-the-curry-guy-een-pan-codes",
+   "kind": "websiteData",
+   "topic": "The Curry Guy één pan: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26802).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "the-curry-guy-een-pan"
+   ]
+  },
+  {
+   "id": "web-the-curry-guy-slowcooker-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26769",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "the-curry-guy-slowcooker"
+   ]
+  },
+  {
+   "id": "web-the-curry-guy-slowcooker-codes",
+   "kind": "websiteData",
+   "topic": "The Curry Guy Slowcooker: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26769).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "the-curry-guy-slowcooker"
+   ]
+  },
+  {
+   "id": "web-de-anatomie-van-het-japanse-mes-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26762",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "de-anatomie-van-het-japanse-mes"
+   ]
+  },
+  {
+   "id": "web-de-anatomie-van-het-japanse-mes-codes",
+   "kind": "websiteData",
+   "topic": "De anatomie van het Japanse mes: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26762).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "de-anatomie-van-het-japanse-mes"
+   ]
+  },
+  {
+   "id": "web-airfryer-kookboek-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26735",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "airfryer-kookboek"
+   ]
+  },
+  {
+   "id": "web-airfryer-kookboek-codes",
+   "kind": "websiteData",
+   "topic": "Airfryer kookboek: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26735).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "airfryer-kookboek"
+   ]
+  },
+  {
+   "id": "web-easy-airfryer-jamie-oliver-1",
+   "kind": "websiteData",
+   "topic": "Aantal pagina's",
+   "websiteSays": "26737",
+   "status": "toVerify",
+   "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd",
+   "productIDs": [
+    "easy-airfryer-jamie-oliver"
+   ]
+  },
+  {
+   "id": "web-easy-airfryer-jamie-oliver-codes",
+   "kind": "websiteData",
+   "topic": "Easy Airfryer - Jamie Oliver: specificaties tonen een code",
+   "websiteSays": "Op de website staat een getal van 5 cijfers in plaats van een waarde bij: Aantal pagina's (26737).",
+   "status": "toVerify",
+   "note": "Deze regels zijn uit de app gelaten.",
+   "productIDs": [
+    "easy-airfryer-jamie-oliver"
    ]
   },
   {

@@ -1,0 +1,1322 @@
+[
+ {
+  "match": [
+   "500\\ Tajinegerechten"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "wok-pan-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kookboek met 500 tajinegerechten",
+   "Recepten voor klassieke en eigentijdse tajinegerechten, Noord-Afrikaans en mediterraan",
+   "Ook recepten met weinig calorieën; tajines met lamsvlees, kip, rundvlees, vis, zeevruchten en peulvruchten",
+   "Auteur Valentina Harris, Nederlands, hardcover, 288 pagina's"
+  ],
+  "keys": [
+   "43a7df16"
+  ],
+  "brandName": "Bowls and Dishes"
+ },
+ {
+  "match": [
+   "Foolproof\\ BBQ"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kookboek 'Foolproof BBQ' van Genevieve Taylor",
+   "Bevat 60 duidelijke recepten voor de barbecue",
+   "Derde deel in de 'Foolproof'-reeks, na 'Foolproof uit één pan' en 'Foolproof vis'"
+  ],
+  "keys": [
+   "7ebe07e3"
+  ]
+ },
+ {
+  "match": [
+   "Het\\ Airfryer\\ kookboek\\ \\-\\ 100\\ recepten"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kookboek over de airfryer, 100 recepten (volgens de titel)",
+   "Noemt o.a. Vietnamese loempiaatjes, frietjes en kipnuggets uit de airfryer",
+   "Nederlands"
+  ],
+  "keys": [
+   "6026c73d"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26668",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Het\\ complete\\ airfryer\\ boek"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kookboek over de airfryer",
+   "Laat het gebruik van de moderne airfryer zien",
+   "Uitgever Image Books, hardcover"
+  ],
+  "keys": [
+   "f8c21823"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "27425",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Het\\ gezonde\\ Airfryer\\ Boek"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Het gezonde airfryer boek van Bored of Lunch, met 80 recepten van Nathan Anthony",
+   "Bij alle recepten staat het aantal calorieën vermeld",
+   "192 pagina's, paperback"
+  ],
+  "keys": [
+   "6068608e"
+  ]
+ },
+ {
+  "match": [
+   "Het\\ Slowcookerboek\\ Wereldgerechten"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "slowcooker-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Het slowcookerboek wereldgerechten van Sabine Koning",
+   "Bevat 70 dinerrecepten: stoofschotels, curry's, soepen, wok- en ovenschotels",
+   "Gerechten uit o.a. India, Frankrijk, Griekenland, Thailand, Mexico en Italië",
+   "Nieuw deel in Sabines slowcookerreeks; uitgever Becht, Nederlands, hardcover"
+  ],
+  "keys": [
+   "f53cc384"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "27441",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Het\\ ultieme\\ airfryer\\ boek\\ \\-\\ makkelijke\\ maaltijden"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Het ultieme airfryer boek - makkelijke maaltijden van Clare Andrews",
+   "Bevat 80 nieuwe recepten voor complete maaltijden uit de airfryer",
+   "Uitgever Fontaine, Nederlands, paperback"
+  ],
+  "keys": [
+   "fe002e9b"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26668",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Het\\ ultieme\\ airfryer\\ kookboek"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Het ultieme airfryer kookboek, meer dan 80 recepten",
+   "Van doordeweekse maaltijden en vleesgerechten tot ontbijtjes, cakes en desserts",
+   "Uitgever Fontaine, Nederlands, paperback"
+  ],
+  "keys": [
+   "578d7c0f"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26668",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Het\\ vegetarische\\ slowcooker\\ kookboek"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "slowcooker-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vegetarisch kookboek voor de slowcooker, meer dan 70 recepten",
+   "Stap-voor-stap instructies en tips",
+   "Auteur Libby Silbermann (foodstylist uit Londen)",
+   "Uitgever Veltman, Nederlands, hardcover, 128 pagina's, ISBN 9789048319732"
+  ],
+  "keys": [
+   "a7e0f043"
+  ]
+ },
+ {
+  "match": [
+   "Jamie's\\ BBQ"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kookboek 'Jamie's BBQ' van Jamie Oliver",
+   "Combineert recepten met basiskennis en praktische tips, o.a. over hittezones en timing",
+   "Behandelt o.a. groenten roosteren, vis roken en stomen, hamburgers en vlees roosteren",
+   "Volgens de tekst geschikt voor beginnende barbecueërs en voor wie meer wil met roken, grillen en langzaam garen"
+  ],
+  "keys": [
+   "2290dfbd"
+  ]
+ },
+ {
+  "match": [
+   "Keukenhelden\\ \\-\\ BBQ\\ \\&\\ Grill"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "'Keukenhelden - BBQ & Grill': recepten voor koken boven kolen",
+   "Van vleesgerechten tot kip, vis of vegetarisch"
+  ],
+  "keys": [
+   "3faa5873"
+  ]
+ },
+ {
+  "match": [
+   "Keukenhelden\\ \\-\\ Slowcooker"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "slowcooker-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "'Keukenhelden - Slowcooker': maaltijden voor de slowcooker",
+   "Curry's, soepen en stoofgerechten",
+   "Uitgever Kosmos, hardcover, 80 pagina's"
+  ],
+  "keys": [
+   "60b880d0"
+  ]
+ },
+ {
+  "match": [
+   "Keukenhelden\\ \\-\\ Tosti's\\ en\\ meer"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "overige-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "'Keukenhelden - Tosti's & meer': kookboek over tosti's",
+   "Gaat over klassieke tosti's en wat je er verder mee kunt doen",
+   "Hardcover"
+  ],
+  "keys": [
+   "b22fcb74"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "27313",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kookbijbels\\ \\-\\ Airfryerbijbel"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Airfryerbijbel van Bas Robben, meer dan 200 recepten voor de airfryer",
+   "Van snacks tot doordeweekse maaltijden",
+   "Uitgever Carrera, hardcover"
+  ],
+  "keys": [
+   "63abfbfa"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26747",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kookbijbels\\ \\-\\ BBQ\\ Bijbel\\ deel\\ 2"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BBQ Bijbel deel 2 van Julius Jaspers",
+   "Vervolg op de BBQbijbel; de tekst noemt meer dan 75.000 verkochte exemplaren van de BBQbijbel"
+  ],
+  "keys": [
+   "0c469ded"
+  ]
+ },
+ {
+  "match": [
+   "Kookbijbels\\ \\-\\ Wokbijbel"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "wok-pan-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Wokbijbel van Noni Kooiman, 200 wokrecepten",
+   "Van fried rice en pad thai tot nieuwe recepten",
+   "Hardcover"
+  ],
+  "keys": [
+   "ba5353b2"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26798",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Masterclass\\ \\-\\ Airfryer"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Masterclass Airfryer van Bas Robben, meer dan 60 recepten",
+   "Traditionele frituursnacks en borrelhapjes; de airfryer ook als oven of grill",
+   "Uitgever Carrera, hardcover"
+  ],
+  "keys": [
+   "abd2bc74"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26929",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Masterclass\\ \\-\\ Slowcooker"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "slowcooker-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Masterclass Slowcooker van Bas Robben, meer dan 60 recepten",
+   "Vlees-, vis- en groentegerechten, o.a. curry en gestoofd buikspek",
+   "Uitgever Carrera, Nederlands, hardcover, 160 pagina's"
+  ],
+  "keys": [
+   "c483ad41"
+  ]
+ },
+ {
+  "match": [
+   "One\\ Pan\\ Perfect\\ :\\ Vers,\\ snel,\\ eenvoudig,\\ verrukkelijk"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "wok-pan-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "One Pan Perfect van Donna Hay: eenpansgerechten (bakplaat of ovenschotel)",
+   "272 pagina's, Nederlands, hardcover",
+   "Uitgever Unieboek Spectrum, ISBN 9789000380855"
+  ],
+  "keys": [
+   "2f5e9245"
+  ]
+ },
+ {
+  "match": [
+   "Puur\\ BBQ"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Puur BBQ: barbecuerecepten van Nick en Kevin",
+   "Recepten zijn een houvast, maar worden op gevoel gemaakt"
+  ],
+  "keys": [
+   "9753fd64"
+  ]
+ },
+ {
+  "match": [
+   "Slowcooker\\ recepten"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "slowcooker-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Slowcooker recepten: inleiding met instructies en tips, daarna 60 recepten",
+   "Hardcover"
+  ],
+  "keys": [
+   "f87dc373"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26735",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ 2\\ :\\ het\\ next\\ level\\ barbecueboek"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness 2: het next level barbecueboek van Jord Althuizen",
+   "Winnaar Gouden Garde publieksprijs - Kookboek van het jaar 2017",
+   "Recepten van o.a. Zuid-Afrikaanse braai tot Argentijnse asado"
+  ],
+  "keys": [
+   "4b759331"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec \"Totale diameter\"",
+    "websiteSays": "Kosmos",
+    "note": "Waarde lijkt een uitgever; spec-label klopt niet"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ 3\\ :\\ Het\\ Bigger,\\ Better\\ BBQ\\ Boek"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness 3: Het Bigger, Better BBQ Boek van Jord Althuizen",
+   "Recepten voor beef, pork, chicken, fish en desserts, plus Zuid-Afrikaanse gerechten",
+   "Uitgever Kosmos, Nederlands, hardcover, 224 pagina's, ISBN 9789021565255"
+  ],
+  "keys": [
+   "724be9c5"
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ Asian\\ BBQ"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness Asian BBQ - Flames & Flavours van Jord Althuizen",
+   "Recepten uit Azië, o.a. Zuid-Koreaanse Sticky Chick Sticks en Filipijns Whole Hog"
+  ],
+  "keys": [
+   "99bf71bd"
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ BBQ\\ Snack\\ Attack"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness BBQ Snack Attack",
+   "Uitgever Kosmos, hardcover, 208 pagina's"
+  ],
+  "keys": [
+   "91126d43"
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ Brand\\ New\\ BBQ"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness Brand New BBQ van Jord Althuizen: barbecueën USA-style"
+  ],
+  "keys": [
+   "cc19368f"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec \"Totale diameter\"",
+    "websiteSays": "Kosmos",
+    "note": "Waarde lijkt een uitgever; spec-label klopt niet"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ \\-\\ Burgers\\ \\&\\ BBQ\\ Bites"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness - Burgers & BBQ Bites van Jord Althuizen",
+   "BBQ-sandwiches, BBQ taco's en snacks-on-a-stick, USA-geïnspireerd"
+  ],
+  "keys": [
+   "64bba56b"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec \"Totale diameter\"",
+    "websiteSays": "Kosmos",
+    "note": "Waarde lijkt een uitgever; spec-label klopt niet"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ \\-\\ Het\\ ultieme\\ BBQ\\ boek"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness - Het ultieme BBQ boek van Jord Althuizen",
+   "Over (voor)bereidingen, temperatuurbeheersing, tips en recepten van whole hog tot pulled pork",
+   "Volgens de tekst Kookboek van het Jaar 2016 (vakjury)",
+   "Uitgever Kosmos, Nederlands, hardcover, ISBN 9789021562292"
+  ],
+  "keys": [
+   "c14b828a"
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ Lowlands\\ BBQ"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness Lowlands BBQ van Jord Althuizen",
+   "Gebaseerd op de Lage Landen als inspiratiebron",
+   "Bevat basisinfo over barbecueën"
+  ],
+  "keys": [
+   "342d0013"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec \"Totale diameter\"",
+    "websiteSays": "Kosmos",
+    "note": "Waarde lijkt een uitgever; spec-label klopt niet"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ Mediterranean\\ BBQ"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness Mediterranean BBQ van Jord Althuizen",
+   "Recepten uit Spanje, Portugal, Italië en Griekenland"
+  ],
+  "keys": [
+   "f6ae0ed4"
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ \\-\\ The\\ best\\ of\\ BBQ\\ Beef"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness - The best of BBQ Beef van Jord Althuizen",
+   "Barbecuerecepten voor rund en kalf, van brisket tot smashburger"
+  ],
+  "keys": [
+   "f5b7791f"
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ Winter\\ BBQ\\ \\-\\ Jord\\ Althuizen"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness Winter BBQ van Jord Althuizen",
+   "Herziene uitgave in compacter formaat",
+   "Winterse recepten, o.a. home smoked salmon, wild boar en raclette",
+   "Uitgever Kosmos, Nederlands, hardcover"
+  ],
+  "keys": [
+   "89d55761"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26808",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smokey\\ Goodness\\ :\\ Winter\\ BBQ"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokey Goodness: Winter BBQ van Jord Althuizen",
+   "Winterse recepten, van aperitief tot dessert van de barbecue",
+   "Uitgever Kosmos, Nederlands, hardcover, 224 pagina's, ISBN 9789021568881"
+  ],
+  "keys": [
+   "eab98fce"
+  ]
+ },
+ {
+  "match": [
+   "Sous\\-Vide\\ koken\\ thuis"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "sous-vide-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Sous-Vide koken thuis: uitleg over de kooktechniek sous-vide",
+   "Vacuüm garen in water met constante temperatuur onder de 99 graden",
+   "Uitgever Manteau, Nederlands, paperback"
+  ],
+  "keys": [
+   "226f0366"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26737",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Taart\\ uit\\ de\\ blender"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bak-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Taart uit de blender: taarten in een halfuurtje",
+   "Zoete en hartige taarten; je maakt het deeg niet apart",
+   "Alles in één: één keer voorbereiden, één keer de oven in",
+   "Uitgever Karakter, Nederlands, hardcover, ISBN 9789045216867"
+  ],
+  "keys": [
+   "4d505be2"
+  ]
+ },
+ {
+  "match": [
+   "Tajine"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "wok-pan-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tajine: ruim 35 recepten voor de tajine",
+   "Hardcover, Nederlands, ISBN 9789059204287"
+  ],
+  "keys": [
+   "acc01266"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Best\\ of\\ BBQ\\ Birds"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Best of BBQ Birds van Jord Althuizen",
+   "BBQ-recepten voor kip, kalkoen, eend en ander gevogelte"
+  ],
+  "keys": [
+   "b189341b"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Best\\ of\\ BBQ\\ Snacks"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Best of BBQ Snacks van Jord Althuizen",
+   "Verzameling barbecuehapjes, o.a. pittige bites en vegetarische gerechten"
+  ],
+  "keys": [
+   "a899c238"
+  ]
+ },
+ {
+  "match": [
+   "Veggie\\ BBQ\\ \\-\\ 90\\ vegetarische\\ barbecuerecepten"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Veggie BBQ: meer dan 90 vegetarische barbecuerecepten",
+   "Gevulde, gespiesde en opgerolde groenten, burgers en spiesen"
+  ],
+  "keys": [
+   "dac03646"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec \"Totale diameter\"",
+    "websiteSays": "Veltman",
+    "note": "Waarde lijkt een uitgever; spec-label klopt niet"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Veggie\\ in\\ de\\ Airfryer"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Veggie in de Airfryer: 75 vegetarische gerechten voor de airfryer",
+   "Van lichte maaltijden tot schotels, pasta, rijst, hartige taarten en quiches",
+   "Uitgever Forte culinair, Nederlands, 192 pagina's, paperback"
+  ],
+  "keys": [
+   "30dcdc95"
+  ]
+ },
+ {
+  "match": [
+   "Vis\\ van\\ de\\ BBQ"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vis van de BBQ: meer dan 60 visrecepten voor de barbecue"
+  ],
+  "keys": [
+   "2ec33bd0"
+  ]
+ },
+ {
+  "match": [
+   "Wok\\ express"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "wok-pan-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Wok express van Ching-He Huang: 100 wokrecepten",
+   "Snelle Aziatische maaltijden: vegetarisch, kip, vlees, vis en schaaldieren",
+   "Hardcover"
+  ],
+  "keys": [
+   "47b82247"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26814",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "De\\ groene\\ barbecue"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "De groene barbecue van Rukmini Iyer: 75 vega en vegan recepten van de BBQ",
+   "Uitgever Becht, Nederlands, hardcover, 240 pagina's, ISBN 9789023016809"
+  ],
+  "keys": [
+   "f0bc0976"
+  ]
+ },
+ {
+  "match": [
+   "Eén\\ Pan\\ \\-\\ Pascale\\ Naessens"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "wok-pan-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Eén Pan van Pascale Naessens",
+   "Uitgever Lannoo, Nederlands, hardcover"
+  ],
+  "keys": [
+   "b9a3c58a"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26814",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Easy\\ Airfryer"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Easy Airfryer: alle recepten worden in de airfryer bereid",
+   "Van alledaagse maaltijden en groentegerechten tot snacks en cake",
+   "Hardcover met goudfolie op het omslag"
+  ],
+  "keys": [
+   "563c3d9e"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26929",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Easy\\ BBQ,\\ Every\\ Moment"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Easy BBQ, Every Moment van Grill Guru: recepten voor elke BBQ",
+   "Met 101 tips & tricks"
+  ],
+  "keys": [
+   "7022417e"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec \"Totale diameter\"",
+    "websiteSays": "Kosmos",
+    "note": "Waarde lijkt een uitgever; spec-label klopt niet"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Easy\\ Pizza\\ op\\ de\\ BBQ"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Easy Pizza op de BBQ: pizza's maken op de barbecue met een pizzasteen",
+   "Van deeg tot toppings, hartig en zoet"
+  ],
+  "keys": [
+   "f52bf4a5"
+  ]
+ },
+ {
+  "match": [
+   "Jamie\\ Oliver\\ \\-\\ EEN\\ :\\ Simpel\\ en\\ lekker\\ uit\\ 1\\ pan"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "wok-pan-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "EEN: Simpel en lekker uit 1 pan van Jamie Oliver",
+   "Ruim 120 recepten in één (koeken)pan of ovenschaal",
+   "Uitgever Kosmos, Nederlands, hardcover, 312 pagina's, ISBN 9789043924009"
+  ],
+  "keys": [
+   "c6a603bf"
+  ]
+ },
+ {
+  "match": [
+   "100\\ recepten\\ voor\\ de\\ slowcooker"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "slowcooker-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "100 recepten voor de slowcooker",
+   "Uitgever Veltman, Nederlands, hardcover"
+  ],
+  "keys": [
+   "87b15c2c"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26668",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "500\\ kamadorecepten"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "500 kamadorecepten: gerechten voor een keramische barbecue",
+   "Tips voor roken, stoven en grillen in de kamado",
+   "Uitgever Veltman, Nederlands, hardcover"
+  ],
+  "keys": [
+   "3d560301"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26758",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "500\\ vegetarische\\ BBQ\\ gerechten"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "500 vegetarische BBQ gerechten",
+   "Uitgever Veltman, Nederlands, hardcover, 288 pagina's"
+  ],
+  "keys": [
+   "4bceadc4"
+  ]
+ },
+ {
+  "match": [
+   "Airfryer\\ Like\\ a\\ Chef"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Airfryer Like a Chef van Claudia Allemeersch: topchefs zetten hun lievelingsgerecht om naar de airfryer",
+   "Uitgever Lannoo, Nederlands, hardcover"
+  ],
+  "keys": [
+   "84640cc1"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26845",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Bakken\\ in\\ de\\ Airfryer\\ \\-\\ Luxe\\ editie"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "airfryer-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Bakken in de Airfryer - Luxe editie van Simone van der Koelen",
+   "Over bakken in de airfryer",
+   "Hardcover"
+  ],
+  "keys": [
+   "885ed8d5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal pagina's",
+    "websiteSays": "26668",
+    "note": "Onwaarschijnlijk aantal pagina's; controleren, niet in de tekst genoemd"
+   }
+  ]
+ },
+ {
+  "match": [
+   "BBQ'en\\ met\\ Nick"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BBQ'en met Nick",
+   "Uitgever Carrera, hardcover, 216 pagina's"
+  ],
+  "keys": [
+   "b40a0bc3"
+  ]
+ },
+ {
+  "match": [
+   "BBQ\\ Magic"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BBQ Magic van Roel Westra (Pitmaster X): 100 recepten voor barbecue, grill en smoker",
+   "Ook over bereidingstechnieken"
+  ],
+  "keys": [
+   "b4efa9b6"
+  ]
+ },
+ {
+  "match": [
+   "BBQ\\ \\-\\ Peter\\ de\\ Clercq"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BBQ van Peter De Clercq: alles over de barbecue, met recepten en drankjes"
+  ],
+  "keys": [
+   "8c93b8b1"
+  ]
+ },
+ {
+  "match": [
+   "BBQ\\ Street\\ All\\ Year\\ Long"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BBQSTREET All Year Long: kookboek van de grillmasters van BBQSTREET (24Kitchen)",
+   "Over barbecueën het hele jaar, ook in herfst en winter"
+  ],
+  "keys": [
+   "e75fe7b8"
+  ]
+ },
+ {
+  "match": [
+   "BBQ,\\ the\\ next\\ level"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BBQ, the next level: 100 recepten",
+   "Uitgever Carrera, Nederlands, hardcover, 264 pagina's"
+  ],
+  "keys": [
+   "5e2b6cda"
+  ]
+ },
+ {
+  "match": [
+   "BBQ\\ \\-TIJD"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BBQ-tijd van Susan Aretz: recepten voor kamado en reguliere barbecue",
+   "Ook recepten die binnen 30 minuten klaar zijn"
+  ],
+  "keys": [
+   "62acff29"
+  ]
+ },
+ {
+  "match": [
+   "Kookbijbels\\ \\-\\ BBQBijbel\\ :\\ van\\ Asperges\\ tot\\ Zwezerik"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BBQbijbel van Julius Jaspers: meer dan 200 recepten, met stap-voor-stapfoto's"
+  ],
+  "keys": [
+   "45fe9d9d"
+  ]
+ },
+ {
+  "match": [
+   "BeterBBQ\\ :\\ Groots\\ grillen\\ op\\ de\\ gas\\-bbq"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BeterBBQ: groots grillen op de gas-bbq van Leonard Elenbaas en Jeroen Hazebroek",
+   "30 recepten"
+  ],
+  "keys": [
+   "d6d7e466"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec \"Totale diameter\"",
+    "websiteSays": "Fontaine",
+    "note": "Waarde lijkt een uitgever; spec-label klopt niet"
+   }
+  ]
+ },
+ {
+  "match": [
+   "BeterBBQ\\ \\-\\ Handig\\ met\\ de\\ houtskool\\-bbq"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BeterBBQ: handig met de houtskool-bbq van Jeroen Hazebroek en Leonard Elenbaas",
+   "Uitgever Fontaine, Nederlands, hardcover, 112 pagina's"
+  ],
+  "keys": [
+   "24c52f32"
+  ]
+ },
+ {
+  "match": [
+   "Black\\ Smoke\\ :\\ BBQ,\\ Booze\\ \\&\\ Attitude\\ \\-\\ Jort\\ Althuizen"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "bbq-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Black Smoke: BBQ, Booze & Attitude van Jord Althuizen en Kasper Stuart",
+   "Recepten voor grill of smoker, plus cocktails"
+  ],
+  "keys": [
+   "f86fff99"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec \"Totale diameter\"",
+    "websiteSays": "Kosmos",
+    "note": "Waarde lijkt een uitgever; spec-label klopt niet"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Het\\ slowcooker\\ kookboek"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "slowcooker-boeken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kookboek over de slowcooker",
+   "Nederlands, hardcover"
+  ],
+  "keys": [
+   "d295eb5f",
+   "fe0d0dbd"
+  ],
+  "mismatches": [
+   {
+    "topic": "Zelfde titel, twee pagina's",
+    "websiteSays": "Bowls and Dishes: auteur Lorna Brash, uitgever Veltman; Good Cook: Poppy O'Toole (Poppy Cooks), uitgever Good Cook",
+    "note": "Twee pagina's met dezelfde naam maar verschillende tekst; één gedeelde tekst omdat de naam gelijk is. Controleren of het om hetzelfde boek gaat."
+   }
+  ]
+ }
+]
