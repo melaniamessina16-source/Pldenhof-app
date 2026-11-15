@@ -1,5 +1,43 @@
 [
  {
+  "id": "sage-the-bambino-plus",
+  "name": "Sage The Bambino Plus",
+  "brandID": "sage",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte halfautomaat voor gemalen koffie wil die binnen 3 seconden klaar is en automatisch microschuim maakt.",
+  "tellTheCustomer": [
+   "Compacte halfautomaat van rvs (Stainless Steel: mat rvs) voor gemalen koffie; 19,5 cm breed.",
+   "Portafilter van 54 mm voor 19 gram koffie.",
+   "Pre-infusie: de waterdruk loopt geleidelijk op, zodat de koffie gelijkmatig wordt geëxtraheerd.",
+   "ThermoJet-verwarming: binnen 3 seconden op extractietemperatuur; PID (digitale temperatuurregeling).",
+   "Automatisch stoompijpje: microschuim, smaak en textuur in te stellen; het verwarmingssysteem wordt na het stomen automatisch gezuiverd.",
+   "Meegeleverd: portafilter en tamper 54 mm, Razor-doseringstool, Claro-waterfilter, melkkan 480 ml, dubbelwandige filterbakjes (1 en 2 cup), reinigingstool en reinigingsschijf.",
+   "Waterreservoir 1,9 liter; 19,5 x 32 x 31 cm (b x d x h).",
+   "Schoonmaken: buitenkant met een vochtige doek."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "1,9 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "00007-sage-the-bambino-plus-espressomachine-black-truffel.html",
+    "colorName": "Black Truffle",
+    "colorHex": "#2F2A28"
+   },
+   {
+    "file": "00008-sage-the-bambino-plus-espressomachine-stainless-steel.html",
+    "colorName": "Stainless Steel",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
   "id": "sage-the-barista-express",
   "name": "Sage The Barista Express",
   "brandID": "sage",

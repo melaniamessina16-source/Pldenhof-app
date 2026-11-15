@@ -1,0 +1,59 @@
+[
+ {
+  "match": [
+   "Dreamfarm\\ Big\\ Grindenstein\\ uitklopbak\\ ø\\ 13,5\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "dreamfarm",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Uitklopbak Big Grindenstein van zwart kunststof met een dwarsbalk van met rubber bekleed staal.",
+   "Diameter 13,5 cm, op het hoogste punt 12,5 cm hoog.",
+   "Voor het legen van het piston van een halfautomatische espressomachine: piston omdraaien en tegen de dwarsbalk kloppen.",
+   "Schokabsorberend ontwerp: maakt weinig geluid en gaat lang mee.",
+   "Vaatwasmachinebestendig (bovenste rek)."
+  ],
+  "keys": [
+   "a3012311"
+  ],
+  "brandName": "Dreamfarm"
+ },
+ {
+  "match": [
+   "Dreamfarm\\ Grindenstein\\ uitklopbak\\ ø\\ 11\\ cm\\ kunststof\\ grijs",
+   "Dreamfarm\\ Grindenstein\\ uitklopbak\\ ø\\ 11\\ cm\\ kunststof\\ rood",
+   "Dreamfarm\\ Grindenstein\\ uitklopbak\\ ø\\ 11\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "dreamfarm",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Uitklopbak Grindenstein van kunststof met een dwarsbalk van met rubber bekleed staal.",
+   "Diameter 11 cm; op het hoogste punt 10 cm en op het laagste punt 6 cm hoog.",
+   "Voor het legen van het piston van een halfautomatische espressomachine: piston omdraaien en tegen de dwarsbalk kloppen.",
+   "Schokabsorberend ontwerp: maakt weinig geluid en gaat lang mee.",
+   "Vaatwasmachinebestendig (bovenste rek)."
+  ],
+  "keys": [
+   "7f3473c8",
+   "1195f38c",
+   "9d3ae329"
+  ],
+  "colours": [
+   "grijs",
+   "rood",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Dreamfarm Grindenstein grijs: kleur",
+    "websiteSays": "Naam en tekst zeggen grijs; specificatie Kleur: zwart.",
+    "note": "Controleer de kleur."
+   }
+  ]
+ }
+]

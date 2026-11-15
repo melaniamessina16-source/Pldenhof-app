@@ -1,0 +1,46 @@
+[
+ {
+  "match": [
+   "Solis\\ Coffee\\ Knock\\-Box\\ uitklopbak\\ 800\\ ml\\ kunststof\\ zwart"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Uitklopbak Coffee Knock-Box van zwart kunststof met houten dwarsligger; ruimte voor 800 ml koffie.",
+   "De houten dwarsligger beschadigt filter en filterdrager niet; anti-slipbasis.",
+   "Reinigen met warm water en afwasmiddel; de houten dwarsligger direct goed afdrogen."
+  ],
+  "keys": [
+   "c5c79ec2"
+  ],
+  "brandName": "Solis"
+ },
+ {
+  "match": [
+   "Solis\\ Perfetta\\ uitklopbak"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": "Gebruik de bak voor het legen van het piston van uw halfautomatische espressomachine.",
+  "bullets": [
+   "Uitklopbak Perfetta van kunststof met een buitenzijde van roestvrij staal.",
+   "Slijtvaste uitklopstang, te verwijderen om de bak schoon te maken.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3712da48"
+  ],
+  "mismatches": [
+   {
+    "topic": "Solis Perfetta uitklopbak: ander product in tekst",
+    "websiteSays": "De tekst zegt \"De uitklopstang van de Sage the Knock Box Mini kan worden verwijderd\".",
+    "note": "Tekst noemt een Sage-product; controleren."
+   }
+  ]
+ }
+]

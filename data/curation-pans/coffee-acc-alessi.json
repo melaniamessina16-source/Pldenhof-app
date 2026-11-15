@@ -1,0 +1,303 @@
+[
+ {
+  "match": [
+   "Alessi\\ 9090/1\\ mokapot\\ 1\\-kops\\ rvs\\ glans"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Mokapot (percolator) 9090 van glanzend roestvrij staal, ontworpen door Richard Sapper.",
+   "Voor 1 kop espresso; hoogte 15 cm.",
+   "Geschikt voor gas-, elektrisch, keramisch of halogeenfornuis en voor inductie.",
+   "Water in het reservoir, versgemalen koffie in de filterinzet, bovenstuk sluiten en op het fornuis zetten.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "84d5b29f"
+  ],
+  "brandName": "Alessi"
+ },
+ {
+  "match": [
+   "Alessi\\ 9094/3\\ cafetière\\ 240\\ ml\\ glas",
+   "Alessi\\ 9094/8\\ cafetière\\ 720\\ ml\\ glas"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cafetière (French press) 9094 van glas en glanzend roestvrij staal, ontworpen door Aldo Rossi.",
+   "Grof gemalen koffie erin, heet water erop, deksel met zuiger erop; zuiger omlaag als de koffie sterk genoeg is.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "36daa76f"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Cafetiere\\ espresso\\ 6\\ kops\\ by\\ Alessandro\\ Mendini\\ \\ ",
+   "Alessi\\ Moka\\ mokapot\\ 1\\-kops\\ aluminium\\ glans",
+   "Alessi\\ Moka\\ mokapot\\ 3\\-kops\\ aluminium\\ glans"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Mokapot (percolator) Moka van hoogglans aluminium, ontworpen door architect Alessandro Mendini.",
+   "Ontworpen als ode aan zijn grootvader Alfonso Bialetti, uitvinder en ontwerper van de Bialetti Moka Express.",
+   "Geschikt voor gas-, elektrisch, keramisch of halogeenfornuis (inductie wordt niet genoemd).",
+   "Water in het onderste deel (het waterreservoir), versgemalen koffie in de filterinzet, bovenstuk weer vastschroeven en op het fornuis zetten.",
+   "Zodra het water kookt, borrelt het door de koffie omhoog; inschenken via de schenktuit.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6310b2b3",
+   "203a5c4e",
+   "d2d18fb5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Alessi AAM33/6: productnaam",
+    "websiteSays": "De naam zegt \"Cafetiere espresso 6 kops by Alessandro Mendini\"; de tekst beschrijft de Alessi Moka mokapot (percolator). Er staat alleen een artikelnummer in de specificaties.",
+    "note": "Controleer naam en specificaties.",
+    "only": "Alessi Cafetiere espresso 6 kops by Alessandro Mendini"
+   },
+   {
+    "topic": "Alessi Moka 3-kops: diameter",
+    "websiteSays": "Specificatie Diameter: 9,6 cm; de tekst zegt \"een bodem met een diameter van 8,7 cm\".",
+    "note": "Controleer de diameter.",
+    "only": "Alessi Moka mokapot 3-kops aluminium glans"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ La\\ Cupola\\ mokapot\\ 3\\-kops\\ aluminium\\ glans",
+   "Alessi\\ La\\ Cupola\\ mokapot\\ 6\\-kops\\ aluminium\\ glans"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Mokapot (percolator) La Cupola van hoogglans aluminium, ontworpen door architect Aldo Rossi.",
+   "Geschikt voor gas-, elektrisch, keramisch of halogeenfornuis (inductie wordt niet genoemd).",
+   "Water in het onderste deel (het waterreservoir), versgemalen koffie in de filterinzet, bovenstuk weer vastschroeven en op het fornuis zetten.",
+   "Zodra het water kookt, borrelt het door de koffie omhoog; inschenken via de schenktuit.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "49d4f41c"
+  ],
+  "mismatches": [
+   {
+    "topic": "Alessi La Cupola 3-kops: diameter",
+    "websiteSays": "Specificatie Diameter: 9 cm; de tekst zegt \"een bodem met een diameter van 8,6 cm\".",
+    "note": "Controleer de diameter.",
+    "only": "Alessi La Cupola mokapot 3-kops aluminium glans"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ MDL11\\ B\\ Pulcina\\ elektrische\\ melkopschuimer\\ 27,5\\ cm\\ kunststof\\ zwart",
+   "Alessi\\ MDL11\\ W\\ Pulcina\\ elektrische\\ melkopschuimer\\ 27,5\\ cm\\ kunststof\\ wit"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische melkopschuimer (staafje) van kunststof, 27,5 cm lang, ontworpen door Michele De Lucchi.",
+   "Oplaadbaar via USB-C.",
+   "Voor het opschuimen van warme of koude melk: cappuccino, milkshake en warme chocolademelk.",
+   "Melk in een beker, opschuimer aan en heen en weer en op en neer bewegen; melk eventueel voor of na in de magnetron verwarmen.",
+   "Kloppertje reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1433d345",
+   "98f591e0"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Menhir\\ MA01/3\\ mokapot\\ 3\\-kops\\ rvs",
+   "Alessi\\ Menhir\\ MA01/6\\ mokapot\\ 6\\-kops\\ rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Mokapot (percolator) Menhir van hoogglans roestvrij staal, ontworpen door Michael Anastassiades.",
+   "Geschikt voor gas-, elektrisch, inductie-, keramisch of halogeenfornuis.",
+   "Water in het onderste deel (het waterreservoir), versgemalen koffie in de filterinzet, bovenstuk weer vastschroeven en op het fornuis zetten.",
+   "Zodra het water kookt, borrelt het door de koffie omhoog; inschenken via de schenktuit.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6bb73005"
+  ],
+  "mismatches": [
+   {
+    "topic": "Alessi Menhir: inhoud",
+    "websiteSays": "Specificatie Inhoud: 15 ml (3-kops) en 30 ml (6-kops).",
+    "note": "Lijkt te klein voor een 3- of 6-kops mokapot; controleer de inhoud."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Moka\\ David\\ Chipperfield\\ mokapot\\ 1\\ kops\\ aluminium",
+   "Alessi\\ Moka\\ David\\ Chipperfield\\ mokapot\\ 3\\ kops\\ aluminium",
+   "Alessi\\ Moka\\ David\\ Chipperfield\\ mokapot\\ 9\\ kops\\ aluminium"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elfzijdige mokapot (percolator) Moka van aluminium, ontworpen door architect David Chipperfield.",
+   "Platte deksel om een espressokopje op voor te verwarmen; de deksel klapt u met één hand open.",
+   "Geschikt voor gas-, elektrisch, keramisch of halogeenfornuis (inductie wordt niet genoemd).",
+   "Water in het onderste deel (het waterreservoir), versgemalen koffie in de filterinzet, bovenstuk weer vastschroeven en op het fornuis zetten.",
+   "Zodra het water kookt, borrelt het door de koffie omhoog; inschenken via de schenktuit.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7d679e2e",
+   "99629c2e"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Moka\\ mokapot\\ 1\\-kops\\ aluminium\\ zwart",
+   "Alessi\\ Moka\\ mokapot\\ 3\\-kops\\ aluminium\\ zwart",
+   "Alessi\\ Moka\\ mokapot\\ 6\\-kops\\ aluminium\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Mokapot (percolator) Moka van matzwart aluminium.",
+   "Geschikt voor gas- of elektrisch fornuis (andere warmtebronnen worden niet genoemd).",
+   "Water in het onderste deel (het waterreservoir), versgemalen koffie in de filterinzet, bovenstuk weer vastschroeven en op het fornuis zetten.",
+   "Zodra het water kookt, borrelt het door de koffie omhoog; inschenken via de schenktuit.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c550128a",
+   "22ace826"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Ossidiana\\ mokapot\\ 3\\-kops\\ aluminium\\ glans",
+   "Alessi\\ Ossidiana\\ mokapot\\ 6\\-kops\\ aluminium\\ glans",
+   "Alessi\\ Ossidiana\\ mokapot\\ 3\\-kops\\ aluminium\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Mokapot (percolator) Ossidiana van aluminium, ontworpen door Mario Trimarchi.",
+   "Het ontwerp is gebaseerd op de vorm van vulkanisch gesteente.",
+   "Geschikt voor gas-, elektrisch, keramisch of halogeenfornuis (inductie wordt niet genoemd).",
+   "Water in het onderste deel (het waterreservoir), versgemalen koffie in de filterinzet, bovenstuk weer vastschroeven en op het fornuis zetten.",
+   "Zodra het water kookt, borrelt het door de koffie omhoog; inschenken via de schenktuit.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8e1e93ca",
+   "d00e4f70"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ elektrische\\ melkopschuimer\\ 350\\ ml\\ rvs\\ wit",
+   "Alessi\\ Plissé\\ elektrische\\ melkopschuimer\\ 350\\ ml\\ rvs\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": "Gebruik de schuimer om melk voor verschillende koffiebereidingen op te schuimen te verwarmen.",
+  "bullets": [
+   "Elektrische melkopschuimer Plissé: roestvrijstalen beker van 350 ml op een voetstuk van kunststof.",
+   "Een magneet in de motor drijft de garde aan de deksel aan.",
+   "Knop aan de voorzijde met 4 functies: warme melk, warm melkschuim, koud melkschuim of warme chocolademelk.",
+   "Behuizing met een vochtige doek; losse onderdelen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0e6c345b",
+   "653b0b28"
+  ],
+  "colours": [
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Pulcina\\ percolator\\ 1\\ kops\\ aluminium\\ rood",
+   "Alessi\\ Pulcina\\ percolator\\ 1\\-kops\\ aluminium\\ volledig\\ zwart",
+   "Alessi\\ Pulcina\\ percolator\\ 1\\ kops\\ aluminium\\ zwart",
+   "Alessi\\ Pulcina\\ percolator\\ 6\\ kops\\ aluminium\\ zwart",
+   "Alessi\\ Pulcina\\ percolator\\ 6\\ kops\\ aluminium\\ rood",
+   "Alessi\\ Pulcina\\ percolator\\ 6\\-kops\\ aluminium\\ volledig\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Percolator Pulcina van aluminium met kunststof grepen, ontworpen door Michele De Lucchi met de koffie-experts van Illycaffè.",
+   "Door de bolle binnenvorm van het waterreservoir stopt het zetproces op het juiste moment: zo wordt overextractie en een bittere, verbrande smaak voorkomen.",
+   "Voor gas-, elektrische of keramische kookplaten.",
+   "Reservoir bij voorkeur met warm water vullen, trechter met koffie vullen, kan op de basis schroeven; vuur uit zodra hij begint te pruttelen.",
+   "Reinigen met warm water en afwasmiddel; goed afdrogen en boven- en onderkant bij voorkeur los van elkaar bewaren."
+  ],
+  "keys": [
+   "f4225809",
+   "43c20cce",
+   "bd7fd5e4",
+   "b037a858",
+   "3ca9bda2"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Slow\\ Coffee\\ set\\ karaf,\\ filterhouder\\ en\\ filter"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": "Gebruik de set voor het maken van filterkoffie.",
+  "bullets": [
+   "Slow Coffee set: karaf van hittebestendig glas, filterhouder van porselein en filter van roestvrij staal.",
+   "Voor koffie met de slow-drip methode: gemalen koffie in het filter, warm water erover; de koffie loopt langzaam in de kan.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "370881a8"
+  ]
+ }
+]

@@ -1,0 +1,41 @@
+[
+ {
+  "match": [
+   "Gefu\\ Lorenzo\\ koffiemolen\\ kunststof\\ zwart"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Handkoffiemolen Lorenzo van kunststof met keramisch maalwerk, hoogte 22,6 cm.",
+   "In 11 fijnheden in te stellen: voor espresso, filterkoffie, french press of Turkse koffie.",
+   "Afneembare greep om ruimte te besparen; opvangcontainer met maataanduiding voor maximaal 4 kopjes espresso.",
+   "Maalwerk reinigen met een zachte borstel; kunststof onderdelen met lauw water."
+  ],
+  "keys": [
+   "4d1cc79b"
+  ],
+  "brandName": "Gefu"
+ },
+ {
+  "match": [
+   "Gefu\\ permanent\\ koffiefilter\\ maat\\ 4\\ rvs\\ zwart"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Permanent koffiefilter maat 4 van roestvrij staal en zwart kunststof, in plaats van papieren wegwerpfilters.",
+   "Voor snelfilter-koffiezetapparaten of een opschenkfilter (zoals de Gefu Angelo).",
+   "Micro filterstructuur; hengsel om het filter hygiënisch te verwijderen.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "f9ffa050"
+  ]
+ }
+]

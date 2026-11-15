@@ -1,0 +1,67 @@
+[
+ {
+  "match": [
+   "Cristel\\ French\\ Press\\ Arabica\\ \\-\\ 3\\ cups",
+   "Cristel\\ French\\ Press\\ Arabica\\ \\-\\ 5\\ cups",
+   "Cristel\\ French\\ Press\\ Arabica\\ \\-\\ 8\\ cups"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cafetière (French press) Arabica van hittebestendig borosilicaatglas met roestvrij staal.",
+   "Borosilicaatglas is lichter en sterker dan regulier glas.",
+   "Spoel om met heet water, grof gemalen koffie erin, heet water (90 °C) erop, deksel met zuiger erop; zuiger omlaag als de koffie sterk genoeg is.",
+   "Volledig demontabel; geen kunststof onderdelen die met de koffie in aanraking komen.",
+   "In de afwasmachine of met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8270dfa7"
+  ],
+  "mismatches": [
+   {
+    "topic": "Cristel French Press Arabica: merk ontbreekt",
+    "websiteSays": "Op de website is geen merk ingevuld; de productnaam noemt het merk.",
+    "note": "Merk invullen op de website."
+   }
+  ],
+  "brandName": "Cristel"
+ },
+ {
+  "match": [
+   "Cristel\\ French\\ Press\\ Robusta\\ dubbelwandig\\ \\-\\ 3\\ cups",
+   "Cristel\\ French\\ Press\\ Robusta\\ dubbelwandig\\ \\-\\ 5\\ cups",
+   "Cristel\\ French\\ Press\\ Arabica\\ dubbelwandig\\ \\-\\ 8\\ cups"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Dubbelwandige cafetière (French press) Robusta van hittebestendig borosilicaatglas met roestvrij staal.",
+   "Door de dubbele wand blijft de koffie langer warm; borosilicaatglas is lichter en sterker dan regulier glas.",
+   "Spoel om met heet water, grof gemalen koffie erin, heet water (90 °C) erop, deksel met zuiger erop; zuiger omlaag als de koffie sterk genoeg is.",
+   "Volledig demontabel; geen kunststof onderdelen die met de koffie in aanraking komen.",
+   "In de afwasmachine of met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e1c3230d"
+  ],
+  "mismatches": [
+   {
+    "topic": "Cristel French Press Robusta: merk ontbreekt",
+    "websiteSays": "Op de website is geen merk ingevuld; de productnaam noemt het merk.",
+    "note": "Merk invullen op de website."
+   },
+   {
+    "topic": "Cristel French Press 8 cups: naam",
+    "websiteSays": "De naam zegt \"Arabica dubbelwandig - 8 cups\"; artikelnummer C8TPVR en de tekst beschrijven de Robusta.",
+    "note": "Naam controleren.",
+    "only": "Cristel French Press Arabica dubbelwandig - 8 cups"
+   }
+  ]
+ }
+]

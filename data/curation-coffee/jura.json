@@ -1,5 +1,40 @@
 [
  {
+  "id": "jura-a8",
+  "name": "JURA A8",
+  "brandID": "jura",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een heel smalle volautomaat (19 cm) wil die ook melkspecialiteiten en Light Brew maakt.",
+  "tellTheCustomer": [
+   "Compacte volautomaat van slechts 19 cm breed, voor koffie, espresso en koffiespecialiteiten met melk; hoogglans zwarte frontpanelen.",
+   "18 specialiteiten, waaronder espresso, koffie, americano, lungo, cortado, cappuccino, flat white en latte macchiato; verschillende ook als Light Brew (lagere temperatuur, milder, direct op drinktemperatuur).",
+   "Volwaardige zetgroep voor 5 tot 16 gram; 3D-zettechnologie verdeelt het water gelijkmatig; P.E.P. voor korte specialiteiten.",
+   "Professional Aroma Grinder 3 maalt vers voor iedere bereiding; maalgraad in 7 standen, koffiesterkte in 10 standen; hoeveelheid koffie, temperatuur en melk(schuim) instelbaar.",
+   "2,8 inch kleurendisplay met vier toetsen; combi-uitloop verstelbaar van 90 tot 120 mm; ook heet water voor thee.",
+   "J.O.E.-app met de optionele Wi-Fi Connect V2; Coffee Timer tot 16 uur van tevoren.",
+   "Automatische filterdetectie, CLARIS Smart+ filter; Quality Assistant; automatische spoel-, reinigings- en ontkalkingsprogramma's, melksysteem reinigt automatisch.",
+   "Waterreservoir 0,8 liter, bonenreservoir 140 gram; 19 x 44,5 x 37 cm (b x d x h); 1450 W.",
+   "Schoonmaken: lek- en residubak met warm water en afwasmiddel; behuizing met een vochtige doek."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "00000-jura-a8-piano-black-ea-74418-0001071163.html",
+    "colorName": "Piano Black",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "JURA A8: diepte",
+    "websiteSays": "Tekst: 19 x 44,5 x 37 cm (b x d x h). Specificaties: lengte 44 cm.",
+    "note": "Controleer bij JURA of op de doos."
+   }
+  ]
+ },
+ {
   "id": "jura-c3",
   "name": "JURA C3",
   "brandID": "jura",
@@ -34,6 +69,11 @@
     "file": "Jura C3 Espressomachine Piano Black kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：14).html",
     "colorName": "Piano Black",
     "colorHex": "#1E1E1E"
+   },
+   {
+    "file": "00001-jura-c3-piano-inox-ea-74117-0001071162.html",
+    "colorName": "Piano Inox",
+    "colorHex": "#C8CACC"
    }
   ],
   "mismatches": []
@@ -508,10 +548,17 @@
    "Vijf bereidingsprocessen.",
    "Coffee Timer (via de J.O.E.-app), cafeïneregelaar in 3 stappen, Milk Assistant en Quality Assistant.",
    "Tikken en vegen door het menu; tot vier persoonlijke profielen; Easy Mode.",
-   "Wireless Ready: via wifi met het thuisnetwerk, bediening via de JURA-app.",
-   "Waterreservoir 2,4 liter, bonenreservoir 280 gram, 47 x 32 x 36,3 cm, 1450 W."
+   "Wireless Ready: via wifi met het thuisnetwerk, bediening via de JURA-app. Obsidian Black (EC): Wi-Fi Connect wordt standaard meegeleverd.",
+   "Diamond Black en Diamond White: speciale 2-componenten bekleding die de machine diepte geeft. Obsidian Black: matzwart met subtiele antraciettinten.",
+   "Obsidian Black (EC) volgens de website ook: 5 inch touchscreen, uitloop in hoogte en breedte verstelbaar, verlicht kopjesgedeelte en waterreservoir, kopjesplateau van gegoten zink, CLARIS Smart+ filter.",
+   "Waterreservoir 2,4 liter, bonenreservoir 280 gram, 47 x 32 x 36,3 cm (Obsidian Black: 38,3 cm hoog), 1450 W."
   ],
-  "extraSpecs": [],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,4 liter"
+   }
+  ],
   "variants": [
    {
     "file": "Jura Z10 Aluminium Black (EB) kopen ？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：38).html",
@@ -522,8 +569,34 @@
     "file": "Jura Z10 Aluminium White (EB) kopen？ ｜ Kookwinkel Oldenhof (12_11_2026 14：06：38).html",
     "colorName": "Aluminium White",
     "colorHex": "#E8E8E6"
+   },
+   {
+    "file": "00002-jura-z10-diamond-black-eb-51617-0001069439.html",
+    "colorName": "Diamond Black",
+    "colorHex": "#2A2A2C"
+   },
+   {
+    "file": "00003-jura-z10-diamond-white-eb-51617-0001069438.html",
+    "colorName": "Diamond White",
+    "colorHex": "#F2F0EA"
+   },
+   {
+    "file": "00004-jura-z10-obsidian-black-ec-71119-0001071155.html",
+    "colorName": "Obsidian Black",
+    "colorHex": "#1E1E1E"
    }
   ],
-  "mismatches": []
+  "mismatches": [
+   {
+    "topic": "JURA Z10: generatie EB en EC verschillen",
+    "websiteSays": "EB-pagina's (Aluminium Black/White, Diamond Black/White): 47 x 32 x 36,3 cm (l x b x h), Wireless Ready, Aroma Selection, 'tikken en vegen'. EC-pagina (Obsidian Black): 32 x 47 x 38,3 cm (b x d x h), 5 inch touchscreen, Wi-Fi Connect standaard meegeleverd, Aroma Control, CLARIS Smart+, uitloop ook in breedte verstelbaar. De EC-tekst noemt geen vijf bereidingsprocessen en geen Easy Mode, maar vier bereidingswerelden (Hot Brew, Light Brew, Cold Brew, Sweet Foam).",
+    "note": "EB en EC zijn JURA-generatiecodes; de EC lijkt een nieuwere uitvoering. Controleer bij JURA welke verschillen echt zijn."
+   },
+   {
+    "topic": "JURA Z10: breedte in de specificaties",
+    "websiteSays": "Diamond White (EB) en Obsidian Black (EC): specificaties zeggen breedte 36,3 cm. Tekst: 32 cm breed en 36,3 cm (EB) of 38,3 cm (EC) hoog. Diamond Black: geen breedte of hoogte in de specificaties.",
+    "note": "Waarschijnlijk is de hoogte als breedte ingevuld. Controleer bij JURA of op de doos."
+   }
+  ]
  }
 ]

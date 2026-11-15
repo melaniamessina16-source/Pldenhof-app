@@ -1,0 +1,29 @@
+[
+ {
+  "id": "quick-mill-820",
+  "name": "Quick Mill 820",
+  "brandID": "quickmill",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Kleine, eenvoudige halfautomaat met koperen thermoblok voor espresso, melkschuim en heet water.",
+  "tellTheCustomer": [
+   "Compacte halfautomaat van rvs en kunststof voor gemalen koffie; 22 x 19 x 33 cm, 6 kg.",
+   "Koperen thermoblok: water en stoom snel op temperatuur; 1080 W.",
+   "Stoompijp voor melkschuim (cappuccino, caffè latte) en heet water (caffè americano); het witte deel van het stoompijpje is afneembaar.",
+   "2 filterbakjes meegeleverd: 1 of 2 kopjes tegelijk; kopjes bewaren en voorverwarmen bovenop.",
+   "Volgens de website staan Quick Mill-machines bekend om hun lange levensduur en weinig onderhoud.",
+   "Waterreservoir 1,8 liter.",
+   "Schoonmaken: behuizing met een vochtige doek; reinigingsborstel meegeleverd; binnenzijde eventueel met een geschikte snelontkalker."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "00012-quick-mill-820-espressomachine-1-8-liter-rvs-zwart.html",
+    "colorName": "rvs zwart",
+    "colorHex": "#1E1E1E"
+   }
+  ],
+  "mismatches": []
+ }
+]

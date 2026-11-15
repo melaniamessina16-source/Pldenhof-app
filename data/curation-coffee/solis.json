@@ -88,7 +88,7 @@
   ],
   "suitedFor": "Voor wie van hele bonen espresso wil met een ingebouwde molen.",
   "tellTheCustomer": [
-   "Halfautomaat van mat rvs met ingebouwde conische bonenmaler; maalt in het portafilter en stopt bij de ingestelde hoeveelheid.",
+   "Halfautomaat van mat rvs (White: met witte delen) met ingebouwde conische bonenmaler; maalt in het portafilter en stopt bij de ingestelde hoeveelheid.",
    "PID: digitale temperatuurregeling.",
    "Pre-infusie: koffie wordt eerst met heet water besprenkeld.",
    "Zelf aandrukken met de tamper; stoompijp voor melkschuim.",
@@ -113,13 +113,18 @@
     "file": "Solis Grind & Infuse Perfetta espressomachine Silver ｜ Kookwinkel Oldenhof (12_11_2026 14：29：16).html",
     "colorName": "Silver",
     "colorHex": "#C8CACC"
+   },
+   {
+    "file": "00013-solis-grind-infuse-perfetta-espressomachine-white-10932-0001063030.html",
+    "colorName": "White",
+    "colorHex": "#F2F0EA"
    }
   ],
   "mismatches": [
    {
     "topic": "Solis Grind & Infuse Perfetta: tekst van een ander merk",
     "websiteSays": "De beschrijving zegt \"kunt u met de The Barista Express ook melkschuim maken\" (een Sage-model).",
-    "note": "Kopieerfout op de website. De wit-versie moet nog opnieuw worden opgeslagen (was vertaald)."
+    "note": "Kopieerfout op de website (staat op alle drie de kleurpagina's)."
    }
   ]
  }

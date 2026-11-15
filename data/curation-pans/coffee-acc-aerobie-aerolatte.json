@@ -1,0 +1,35 @@
+[
+ {
+  "match": [
+   "Aerolatte\\ elektrische\\ melkopschuimer\\ 22\\ cm\\ kunststof\\ mat"
+  ],
+  "brandID": "aerolatte",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische melkopschuimer (staafje) van 22 cm, geleverd met twee AA-batterijen.",
+   "Werkt op AA-batterijen; in ongeveer 20 seconden schuim van warme of koude melk.",
+   "Voor melkschuim voor cappuccino, milkshake en warme chocolademelk.",
+   "Melk in een beker, opschuimer aan en heen en weer en op en neer bewegen; melk eventueel voor of na in de magnetron verwarmen.",
+   "Kloppertje reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "75fdaaa7"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aerolatte melkopschuimer 22 cm mat: merk",
+    "websiteSays": "Merk op de website: Aerobie; naam en tekst: Aerolatte.",
+    "note": "Merk controleren."
+   },
+   {
+    "topic": "Aerolatte melkopschuimer 22 cm mat: materiaal",
+    "websiteSays": "De tekst zegt \"roestvrijstalen\"; specificatie Materiaal: kunststof.",
+    "note": "Controleer het materiaal."
+   }
+  ],
+  "brandName": "Aerolatte"
+ }
+]

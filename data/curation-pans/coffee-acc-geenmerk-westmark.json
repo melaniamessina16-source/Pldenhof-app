@@ -1,0 +1,34 @@
+[
+ {
+  "match": [
+   "Westmark\\ koffiefilter\\ 2\\ kunststof\\ zwart"
+  ],
+  "brandID": "westmark",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opschenkfilter \"Two\" van zwart kunststof voor filterkoffie.",
+   "Volgens de tekst: voor 6 kopjes of 0,6 liter koffie.",
+   "Afmeting 13,2 x 11 x 8,8 cm (l x b x h).",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "841e43e3"
+  ],
+  "mismatches": [
+   {
+    "topic": "Westmark koffiefilter 2: merk ontbreekt",
+    "websiteSays": "Op de website is geen merk ingevuld; de productnaam noemt het merk.",
+    "note": "Merk invullen op de website."
+   },
+   {
+    "topic": "Westmark koffiefilter 2: filtermaat",
+    "websiteSays": "De tekst zegt \"geschikt voor papieren en permanent filters met de maat 4\" en ook \"filter nummer 2 is geschikt voor het zetten van 6 kopjes\".",
+    "note": "Controleer welke filtermaat past."
+   }
+  ],
+  "brandName": "Westmark"
+ }
+]

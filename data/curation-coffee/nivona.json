@@ -68,6 +68,45 @@
   "mismatches": []
  },
  {
+  "id": "nivona-caferomatica-695",
+  "name": "Nivona CafeRomatica 695",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie een compacte volautomaat wil en zelf melk opschuimt met de spumatore.",
+  "tellTheCustomer": [
+   "1 of 2 kopjes ristretto, espresso of koffie tegelijk, van versgemalen bonen.",
+   "Spumatore om melk op te schuimen of te verwarmen (cappuccino, latte, koffie verkeerd).",
+   "Temperatuur in 3 stappen, 5 sterktes per koffiesoort; 5 eigen \"Mijn Koffie\"-recepten.",
+   "Bediening met draaiknop en TFT-kleurendisplay; instellingen aan te passen tijdens het zetten.",
+   "Koffie-uitloop in hoogte verstelbaar tot 14 cm (ook macchiatoglazen), met verlichting.",
+   "Bonenreservoir 250 gram, watertank 2,2 liter met plaats voor een Claris-filter; wieltjes achter.",
+   "Titaniumkleurig met chromen details; 46 x 24 x 34 cm (l x b x h).",
+   "Reinigings- en onderhoudsprogramma's (de machine vraagt er zelf om); zetgroep uitneembaar en met water schoon te maken."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud waterreservoir",
+    "value": "2,2 liter"
+   }
+  ],
+  "variants": [
+   {
+    "file": "00005-nivona-caferomatica-695-volautomatische-espressomachine-88502.html",
+    "colorName": "titanium",
+    "colorHex": "#6E6F72"
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona 695: kleur",
+    "websiteSays": "Productnaam en tekst: titanium(kleurig). Specificaties: kleur roestvrij staal.",
+    "note": "Controleer bij Nivona of op de doos."
+   }
+  ]
+ },
+ {
   "id": "nivona-caferomatica-790",
   "name": "Nivona CafeRomatica 790",
   "brandID": "nivona",
@@ -794,6 +833,43 @@
     "topic": "Nivona NIVO 9'101: bonenreservoir",
     "websiteSays": "Tekst: bonenreservoir 320 g. Specificaties: 300 gram.",
     "note": "Controleer bij Nivona of op de doos."
+   }
+  ]
+ },
+ {
+  "id": "nivona-nivo-9-103",
+  "name": "Nivona NIVO 9103",
+  "brandID": "nivona",
+  "typeIDs": [
+   "volautomaat"
+  ],
+  "suitedFor": "Voor wie veel wil personaliseren, met een groot 7 inch display en warme én koude koffie.",
+  "tellTheCustomer": [
+   "Van espresso tot flat white; warme en koude koffie dankzij Chilled Brew (koude extractie zonder verhitting).",
+   "RomaticaPlus-zetgroep en een 7 inch kleurendisplay.",
+   "Aroma Pre-Select, 5 aromaprofielen, instelbare maalgraad, temperatuurkeuze en dubbele kopfunctie.",
+   "Dubbele melkuitloop.",
+   "Mat zwart en titanium; waterreservoir 2,2 liter, bonenreservoir 320 gram; 29 x 36 x 50 cm (b x h x l); 1465 W.",
+   "Schoonmaken: losse onderdelen met warm water en afwasmiddel."
+  ],
+  "extraSpecs": [
+   {
+    "label": "Inhoud bonenreservoir",
+    "value": "320 gram"
+   }
+  ],
+  "variants": [
+   {
+    "file": "00006-nivona-nivo-9-103-volautomatische-espressomachine-93229-0001065258.html",
+    "colorName": "mat zwart/titanium",
+    "colorHex": null
+   }
+  ],
+  "mismatches": [
+   {
+    "topic": "Nivona NIVO 9'103: tekst noemt de 9101",
+    "websiteSays": "De schoonmaakregel zegt \"Reinig de NIVO 9101 losse onderdelen\".",
+    "note": "Tekst lijkt van de NIVO 9101 overgenomen. Controleer bij Nivona of de rest van de tekst voor de 9103 klopt."
    }
   ]
  }

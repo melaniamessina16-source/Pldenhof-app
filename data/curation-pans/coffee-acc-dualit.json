@@ -1,0 +1,47 @@
+[
+ {
+  "match": [
+   "Dualit\\ Cocoatiser\\ \\(chocolade\\)melkopschuimer\\ koperkleurig",
+   "Dualit\\ Cocoatiser\\ \\(chocolade\\)melkopschuimer\\ zwart"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cocoatiser: (chocolade)melkopschuimer met een inhoud van 340 ml.",
+   "Voor warme chocolademelk of opgeschuimde warme melk: melk en stukjes chocolade (puur, melk of wit) toevoegen.",
+   "Werkt ook met chocoladeschaafsel, -druppels of -poeder.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f81bf4c4"
+  ],
+  "colours": [
+   "koperkleurig",
+   "zwart"
+  ],
+  "brandName": "Dualit"
+ },
+ {
+  "match": [
+   "Dualit\\ koffiemolen\\ kunststof\\ zwart"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Handkoffiemolen van zwart kunststof met conisch roestvrijstalen maalwerk en eikenhouten grip.",
+   "In 40 standen instelbaar en gemakkelijk uit elkaar te halen; gewicht 0,5 kg.",
+   "Voor kleine porties verse koffie, bijvoorbeeld voor pour-over filterkoffie; ook voor zout, peper of suiker.",
+   "Tip van de website voor pour-over: stand 10 en 7 tot 15 gram koffie.",
+   "Reinigen met een droge, zachte kwast."
+  ],
+  "keys": [
+   "3ffd3a29"
+  ]
+ }
+]

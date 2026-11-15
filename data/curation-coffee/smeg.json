@@ -120,6 +120,11 @@
     "file": "Smeg 50's style handmatige espressomachine 2,4 liter zwart ｜ Kookwinkel Oldenhof (12_11_2026 14：21：16).html",
     "colorName": "zwart",
     "colorHex": "#2B2B2D"
+   },
+   {
+    "file": "00009-smeg-50-s-style-handmatige-espressomachine-2-4-liter-wit-42202-0001054052.html",
+    "colorName": "wit",
+    "colorHex": "#F2F0EA"
    }
   ],
   "mismatches": [
@@ -433,6 +438,11 @@
     "file": "SMEG espressomachine minipro mat wit ｜ Kookwinkel Oldenhof (12_11_2026 14：21：41).html",
     "colorName": "mat wit",
     "colorHex": "#F2F0EA"
+   },
+   {
+    "file": "00010-smeg-espressomachine-minipro-mat-zwart-62504-0001058846.html",
+    "colorName": "mat zwart",
+    "colorHex": "#1E1E1E"
    }
   ],
   "mismatches": []

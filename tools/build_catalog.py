@@ -25,7 +25,7 @@ SEED, OUT = 'data/catalog_seed.json', os.environ.get('CATALOG_OUT', 'data/catalo
 COFFEE_TYPES = {'volautomaat', 'halfautomaat', 'filterkoffie'}
 DROP_SPECS = {'Merk', 'Artikelnummer', 'EAN', 'Kleur'}
 CODE = re.compile(r'^\d{5}$')
-NEW_BRANDS = {'rancilio': 'Rancilio', 'solis': 'Solis', 'graef': 'Graef', 'lapiccola': 'La Piccola',
+NEW_BRANDS = {'rancilio': 'Rancilio', 'solis': 'Solis', 'graef': 'Graef', 'lapiccola': 'La Piccola', 'quickmill': 'Quick Mill',
               '1821': '1821 Gietijzer', 'bk': 'BK', 'alessi': 'Alessi', 'fbkitchenware': 'FB Kitchenware', 'oldenhof': 'Oldenhof'}
 # booklet p. 44: which brands the shop sells per machine type
 BOOKLET_BRANDS = {'volautomaat': ['jura', 'nivona', 'smeg'],

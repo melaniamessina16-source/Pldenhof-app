@@ -1,0 +1,23 @@
+[
+ {
+  "match": [
+   "Siegwerk\\ koffiemolen\\ zwart"
+  ],
+  "brandID": "siegwerk",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Handkoffiemolen met aluminium behuizing, mat zwarte coating en een handgreep van massief hout.",
+   "Maalwerk van roestvrij staal; maling instellen met de stelring bovenop, van fijn (espresso) tot grover (pour-over, filter).",
+   "Reservoir onderaan vangt de gemalen koffie op.",
+   "Makkelijk te demonteren voor grondig reinigen.",
+   "Behuizing met een vochtige doek; maalwerk met een zachte borstel."
+  ],
+  "keys": [
+   "776fa460"
+  ],
+  "brandName": "Siegwerk"
+ }
+]

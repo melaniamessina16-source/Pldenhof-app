@@ -1,0 +1,62 @@
+[
+ {
+  "match": [
+   "Profitec\\ ProT64\\ koffiemolen"
+  ],
+  "brandID": "profitec",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische koffiemolen ProT64 met vlakke roestvrijstalen maalschijven van 64 mm en een motor van 450 W.",
+   "Maalgrofte traploos en nauwkeurig in te stellen met een wormwielstelschroef.",
+   "Hoeveelheid elektronisch geregeld: enkele of dubbele portie apart in te stellen, met één druk op de knop (4 tot 6 seconden).",
+   "Bonenreservoir van 500 gram van donker getint plexiglas, tegen zonlicht.",
+   "In hoogte verstelbare pistonhouder voor hands-free malen; grote trechter breekt klonten los.",
+   "Glanzende roestvrijstalen behuizing; 17 cm breed, 43 cm hoog en 25 cm diep.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "309fb936"
+  ]
+ },
+ {
+  "match": [
+   "Profitec\\ Tamper\\ mat\\ rvs\\ met\\ walnoothouten\\ handgreep"
+  ],
+  "brandID": "profitec",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Koffietamper met roestvrijstalen basis en greep van Amerikaans walnoot.",
+   "Voor pistons met een diameter van 58 mm; de zware basis helpt bij het aandrukken.",
+   "Licht conische bovenzijde: makkelijk te centreren en gelijkmatig aan te drukken.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "09d90997"
+  ]
+ },
+ {
+  "match": [
+   "Profitec\\ tamper\\ mat\\ silicone\\ zwart"
+  ],
+  "brandID": "profitec",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tampingmat van zwart silicone, 20 cm breed.",
+   "Opstaande rand vangt gemorste koffie op; hangt over de rand van het werkblad en blijft zo op zijn plaats.",
+   "Beschermt werkblad en piston en geeft een stabiele ondergrond bij het aandrukken.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4b8bd049"
+  ]
+ }
+]

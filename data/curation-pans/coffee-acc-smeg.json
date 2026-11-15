@@ -1,0 +1,94 @@
+[
+ {
+  "match": [
+   "Smeg\\ 50's\\ style\\ Compact\\ melkopschuimer\\ crème",
+   "Smeg\\ 50's\\ style\\ Compact\\ melkopschuimer\\ pastelblauw",
+   "Smeg\\ 50's\\ style\\ Compact\\ melkopschuimer\\ rood",
+   "Smeg\\ 50's\\ style\\ Compact\\ melkopschuimer\\ volledig\\ wit",
+   "Smeg\\ 50's\\ style\\ Compact\\ melkopschuimer\\ volledig\\ zwart",
+   "Smeg\\ 50's\\ style\\ Compact\\ melkopschuimer\\ watergroen",
+   "Smeg\\ 50's\\ style\\ Compact\\ melkopschuimer\\ wit",
+   "Smeg\\ 50's\\ style\\ Compact\\ melkopschuimer\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": "Gebruik de melkopschuimer voor het bereiden van verschillende koffiespecialiteiten waarbij opgeschuimde of verwarmde melk nodig is.",
+  "bullets": [
+   "Compacte melkopschuimer in de jaren '50 retrostijl van SMEG.",
+   "Een klopspiraal in de bodem van de melkbeker klopt de melk gelijkmatig op en verwarmt hem.",
+   "Beker voor maximaal 180 ml melk per keer; vermogen 500 W.",
+   "Knop aan de voorzijde: warme melk, koud melkschuim of warm melkschuim.",
+   "Behuizing met een vochtige doek; losse onderdelen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2c99612a",
+   "9bbb6539",
+   "ffe620e7",
+   "2407ae2c",
+   "465f50b0",
+   "cb67caea",
+   "bf18009b",
+   "2d9d0f65"
+  ],
+  "colours": [
+   "crème",
+   "pastelblauw",
+   "rood",
+   "volledig wit",
+   "volledig zwart",
+   "watergroen",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50's\\ style\\ elektrische\\ melkopschuimer\\ 600\\ ml\\ crème",
+   "Smeg\\ 50's\\ style\\ elektrische\\ melkopschuimer\\ 600\\ ml\\ pastelblauw",
+   "Smeg\\ 50's\\ style\\ elektrische\\ melkopschuimer\\ 600\\ ml\\ rood",
+   "Smeg\\ 50's\\ style\\ elektrische\\ melkopschuimer\\ 600\\ ml\\ roze",
+   "Smeg\\ 50's\\ style\\ elektrische\\ melkopschuimer\\ 600\\ ml\\ watergroen",
+   "Smeg\\ 50's\\ style\\ elektrische\\ melkopschuimer\\ 600\\ ml\\ wit",
+   "Smeg\\ 50's\\ style\\ elektrische\\ melkopschuimer\\ 600\\ ml\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": "Gebruik de melkopschuimer om melk voor verschillende koffiebereidingen op te schuimen te verwarmen.",
+  "bullets": [
+   "Elektrische melkopschuimer in jaren '50 retrostijl, met een melkbeker van roestvrij staal met satijnafwerking.",
+   "Beker van 600 ml, geschikt voor het opschuimen van 250 ml melk.",
+   "Klopt de melk op met een klopspiraal in de bodem en verwarmt door middel van inductie.",
+   "Knop aan de voorzijde: warm of koud microschuim, dik schuim of chocolademelk.",
+   "Behuizing met een vochtige doek; losse onderdelen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "25a52914",
+   "abe9f298",
+   "033ea318",
+   "a867c62b",
+   "f0b993e6",
+   "8a3546d2",
+   "453bc7a3"
+  ],
+  "colours": [
+   "crème",
+   "pastelblauw",
+   "rood",
+   "roze",
+   "watergroen",
+   "wit",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "SMEG melkopschuimer 600 ml: vermogen",
+    "websiteSays": "Specificatie Vermogen: 600 W; de tekst zegt \"een vermogen van 500 watt\".",
+    "note": "Controleer het vermogen."
+   }
+  ]
+ }
+]

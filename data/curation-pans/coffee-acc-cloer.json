@@ -1,0 +1,48 @@
+[
+ {
+  "match": [
+   "Cloer\\ elektrische\\ koffiemolen\\ roestvrij\\ staal"
+  ],
+  "brandID": "cloer",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische koffiemolen met slagmesjes, behuizing van roestvrij staal; maalt tot 50 gram koffie per keer.",
+   "Malen met een druk op de knop, zo lang tot het gewenste resultaat bereikt is; door de transparante deksel te volgen.",
+   "Werkt alleen als de deksel correct op zijn plaats zit.",
+   "Reinigen met een vochtige doek; binnenkant eventueel met een borsteltje."
+  ],
+  "keys": [
+   "0dcb92b0"
+  ],
+  "brandName": "Cloer"
+ },
+ {
+  "match": [
+   "Cloer\\ koffiemolen\\ zwart"
+  ],
+  "brandID": "cloer",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische koffiemolen van zwart kunststof met bonenreservoir van 300 gram; opvangbakje voor 110 gram gemalen koffie.",
+   "Instelbare maalgraad en instelbaar aantal kopjes.",
+   "Uitneembare container voor de gemalen koffie.",
+   "Reinigen met een vochtige doek; binnenkant eventueel met een borsteltje."
+  ],
+  "keys": [
+   "e5a44cf9"
+  ],
+  "mismatches": [
+   {
+    "topic": "Cloer koffiemolen zwart: werking",
+    "websiteSays": "De tekst zegt \"laat u de molen zolang malen totdat het gewenste resultaat bereikt is\" en \"maalt deze molen alleen als er bonen in het reservoir zitten\", naast een instelbare maalgraad en aantal kopjes.",
+    "note": "Tekst lijkt deels van een andere molen; controleer de werking."
+   }
+  ]
+ }
+]

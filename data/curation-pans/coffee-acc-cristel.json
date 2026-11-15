@@ -1,0 +1,72 @@
+[
+ {
+  "match": [
+   "Cristel\\ Adria\\ cafetière\\ 10\\-kops\\ rvs",
+   "Cristel\\ Adria\\ cafetière\\ 4\\-kops\\ rvs",
+   "Cristel\\ Adria\\ cafetière\\ 6\\-kops\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Adria van rvs, om espresso te zetten op het fornuis.",
+   "Water in het onderste deel (het waterreservoir), versgemalen koffie in de filterinzet, bovenstuk weer vastschroeven.",
+   "Geschikt voor gas-, elektrisch, keramisch of halogeenfornuis (inductie wordt niet genoemd).",
+   "Zodra het water kookt, borrelt het door de koffie omhoog; inschenken via de schenktuit.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f512dc3e"
+  ],
+  "mismatches": [
+   {
+    "topic": "Cristel Adria: soort product",
+    "websiteSays": "De naam noemt het een cafetière; de tekst beschrijft een percolator (mokapot) die espresso zet op het fornuis.",
+    "note": "Controleer de productnaam."
+   }
+  ],
+  "brandName": "Cristel"
+ },
+ {
+  "match": [
+   "Cristel\\ Capri\\ percolator\\ 10\\-kops\\ rvs",
+   "Cristel\\ Capri\\ percolator\\ 6\\-kops\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Percolator (mokapot) Capri van rvs, om espresso te zetten op het fornuis.",
+   "Water in het onderste deel (het waterreservoir), versgemalen koffie in de filterinzet, bovenstuk weer vastschroeven.",
+   "Geschikt voor gas-, elektrisch, keramisch of halogeenfornuis (inductie wordt niet genoemd).",
+   "Zodra het water kookt, borrelt het door de koffie omhoog; inschenken via de schenktuit.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1e9cdda7"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Arabica\\ cafetière\\ giftset\\ 5\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Giftset Arabica: een cafetière (5 koppen), twee glazen, een maatschep en een roerlepel.",
+   "Cafetière en glazen van borosilicaatglas; de cafetière heeft een roestvrijstalen inzet en filter.",
+   "Grof gemalen koffie met de maatschep erin, heet water erop, enkele minuten wachten en de pers omlaag duwen.",
+   "Alle delen reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a28abf2a"
+  ]
+ }
+]

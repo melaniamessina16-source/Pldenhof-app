@@ -1,0 +1,50 @@
+[
+ {
+  "match": [
+   "ECM\\ Exacto\\ Grinder\\ koffiemolen\\ rvs",
+   "ECM\\ Exacto\\ Grinder\\ koffiemolen\\ rvs\\ antraciet"
+  ],
+  "brandID": "ecm",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische koffiemolen Exacto Grinder met roestvrijstalen behuizing en vlakke maalschijven van 64 mm.",
+   "Touchscreen en traploze maalgraadinstelling; instellingen zijn op te slaan.",
+   "Drie modi: malen op gewicht (grind-by-weight, tot op de gram nauwkeurig), malen op tijd en handmatig.",
+   "Bonenreservoir van (circa) 500 gram.",
+   "In hoogte verstelbare portafilterhouder, uitneembare koffie-uitloop en verwijderbare houder voor de bovenste maalschijf: makkelijker reinigen.",
+   "Trillingsgeïsoleerde motor; geïntegreerde barista-verlichting.",
+   "Behuizing met een droge of licht vochtige doek; maalschijven en uitloop regelmatig reinigen."
+  ],
+  "keys": [
+   "66abaf82",
+   "d21bf54c"
+  ]
+ },
+ {
+  "match": [
+   "ECM\\ Medium\\ uitklopbak\\ met\\ lade\\ rvs",
+   "ECM\\ Large\\ uitklopbak\\ met\\ lade\\ rvs",
+   "ECM\\ uitklopbak\\ met\\ lade\\ smal\\ rvs"
+  ],
+  "brandID": "ecm",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": "Gebruik de uitklopbak voor het verwijderen van uw gebruikte koffiemaling en tussentijds reinigen van de piston.",
+  "bullets": [
+   "Uitklopbak met lade van gepolijst roestvrij staal.",
+   "Slank formaat: past bijvoorbeeld onder de bonenmolen.",
+   "Geluidsabsorberende stootrand; de koffie valt in de uitschuifbare lade, die via de brede greep opent en sluit.",
+   "Geschikt voor thuis en professioneel gebruik.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "a2708a96",
+   "8d4ea31c",
+   "0ffea30f"
+  ]
+ }
+]

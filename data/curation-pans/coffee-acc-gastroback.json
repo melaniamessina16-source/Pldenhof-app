@@ -1,0 +1,42 @@
+[
+ {
+  "match": [
+   "Gastroback\\ Design\\ Milk\\ \\&\\ Chocolate\\ Advanced\\ elektrische\\ melkopschuimer\\ rvs"
+  ],
+  "brandID": "gastroback",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische melkopschuimer van roestvrij staal met inductieverwarming, zodat de melk niet aanbrandt.",
+   "4 programma's: koude melk opschuimen, melk opschuimen en verwarmen, melk verwarmen en chocolademelk maken.",
+   "300 ml melkschuim of 600 ml warme melk of chocolademelk (totale inhoud 1 liter).",
+   "Verwarmt tot 67 °C, en tot 77 °C voor warme chocolademelk.",
+   "Inzet vaatwasmachinebestendig; behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "717edb09"
+  ],
+  "brandName": "Gastroback"
+ },
+ {
+  "match": [
+   "Gastroback\\ Latte\\ Magic\\ elektrische\\ melkopschuimer\\ rvs\\ zwart"
+  ],
+  "brandID": "gastroback",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische melkopschuimer Latte Magic: warm of koud opschuimen, melk verwarmen of warme chocolademelk maken.",
+   "250 ml melkschuim of 350 ml warme melk of chocolademelk (totale inhoud 500 ml).",
+   "Magnetische aandrijving; schakelt vanzelf uit als de juiste temperatuur is bereikt.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "08949e03"
+  ]
+ }
+]

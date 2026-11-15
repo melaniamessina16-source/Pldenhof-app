@@ -1,0 +1,78 @@
+[
+ {
+  "match": [
+   "Motta\\ Koffie\\ tamper\\ 58\\ mm\\ olijfhout"
+  ],
+  "brandID": "motta",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Koffietamper met roestvrijstalen basis en greep van olijfhout.",
+   "Voor pistons met een diameter van 58 mm; de zware basis helpt bij het aandrukken.",
+   "Vlakke bovenzijde: makkelijk druk uitoefenen.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "f7183ba9"
+  ],
+  "brandName": "Motta"
+ },
+ {
+  "match": [
+   "Motta\\ tamper\\ houder\\ rubber\\ zwart"
+  ],
+  "brandID": "motta",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tamperhouder van zwart rubber, diameter 58 mm.",
+   "Om uw tamper (58 mm) in te bewaren als u hem niet gebruikt.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c5ebd9ff"
+  ]
+ },
+ {
+  "match": [
+   "Motta\\ uitklopbak\\ ø\\ 17\\ cm\\ rvs\\ glans"
+  ],
+  "brandID": "motta",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": "Gebruik de bak voor het legen van het piston na gebruik.",
+  "bullets": [
+   "Ronde uitklopbak (knockbox) van hoogglans gepolijst roestvrij staal, diameter 17 cm, hoogte 11 cm.",
+   "Schokbestendige zwarte kunststof uitklopbalk om het piston op leeg te kloppen.",
+   "Schokdempende antislipbasis van schuimrubber.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8469b155"
+  ]
+ },
+ {
+  "match": [
+   "Motta\\ Verticale\\ tamping\\ station\\ voor\\ tamper,\\ borstel\\ en\\ piston\\ "
+  ],
+  "brandID": "motta",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Verticaal tamping station van roestvrij staal, 22 x 14 cm.",
+   "Om piston, tamper en reinigingsborstel van uw espressomachine te bewaren.",
+   "Tamper, borstel en piston zijn niet inbegrepen.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "288ffa74"
+  ]
+ }
+]

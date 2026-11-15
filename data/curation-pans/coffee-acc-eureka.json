@@ -1,0 +1,212 @@
+[
+ {
+  "match": [
+   "Eureka\\ Dynamometric\\ tamper\\ 58\\ mm"
+  ],
+  "brandID": "eureka",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Handmatige tamper Dynamometric, diameter 58 mm, voor het gelijkmatig aandrukken van gemalen koffie in de filterdrager.",
+   "Dynamometrisch systeem: de tampdruk is eenvoudig te herhalen, voor een gelijkmatige espresso-extractie.",
+   "De rand rust tijdens het aandrukken op de filterdrager, zodat de tamper recht staat; dat helpt channeling te beperken.",
+   "Metalen basis met een ergonomische aluminium handgreep.",
+   "Basis reinigen met een licht vochtige doek."
+  ],
+  "keys": [
+   "00edd3bc"
+  ],
+  "brandName": "Eureka"
+ },
+ {
+  "match": [
+   "Eureka\\ Mignon\\ automatische\\ tamper\\ voor\\ bonenmolen"
+  ],
+  "brandID": "eureka",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische (automatische) tamper met roestvrijstalen behuizing en een stamper van 58 mm.",
+   "Eén tamp duurt ongeveer 0,9 seconde; twee opeenvolgende tamps samen ongeveer 1,4 seconde.",
+   "Bediening via het display; hoogte van de filterdragerhouder verstelbaar van 39 tot 60,6 mm.",
+   "Breedte 12,5 cm: past naast een Eureka Mignon bonenmolen, maar is ook los te gebruiken.",
+   "Te combineren met onder meer de Mignon Specialità, Specialità Smart, Turbo, Zero, Zero 65 All Purpose, Libra en Libra 65 All Purpose.",
+   "Opgegeven levensduur: minimaal 300.000 tampbewegingen.",
+   "Buitenzijde reinigen met een licht vochtige doek."
+  ],
+  "keys": [
+   "a2d4285e"
+  ]
+ },
+ {
+  "match": [
+   "Eureka\\ Mignon\\ Perfect\\ grip\\ verstelbare\\ tamper\\ ø\\ 58\\ mm\\ zwart"
+  ],
+  "brandID": "eureka",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Verstelbare tamper van roestvrij staal met een handvat van zwart aluminium, diameter 58 mm.",
+   "Door verwijderbare ringen in hoogte verstelbaar van 94 tot 107 mm, dus voor elke hand geschikt.",
+   "Voor het tampen van gemalen koffie in het piston.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e6015e80"
+  ],
+  "mismatches": [
+   {
+    "topic": "Eureka Perfect grip tamper: materiaal handvat",
+    "websiteSays": "De tekst zegt \"handvat van zwart aluminium\"; specificatie Materiaal: hout, roestvrij staal.",
+    "note": "Controleer het materiaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Eureka\\ Mignon\\ verstelbare\\ tamper\\ ø\\ 58\\ mm\\ eikenhout"
+  ],
+  "brandID": "eureka",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Verstelbare tamper van roestvrij staal met een handvat van eikenhout, diameter 58 mm.",
+   "Door verwijderbare ringen in hoogte verstelbaar van 94 tot 107 mm, dus voor elke hand geschikt.",
+   "Voor het tampen van gemalen koffie in het piston.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d653b5d4"
+  ]
+ },
+ {
+  "match": [
+   "Eureka\\ Mignon\\ verstelbare\\ tamper\\ ø\\ 58\\ mm\\ walnoothout"
+  ],
+  "brandID": "eureka",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Verstelbare tamper van roestvrij staal met een handvat van walnoothout, diameter 58 mm.",
+   "Door verwijderbare ringen in hoogte verstelbaar van 94 tot 107 mm, dus voor elke hand geschikt.",
+   "Voor het tampen van gemalen koffie in het piston.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "03ca9274"
+  ]
+ },
+ {
+  "match": [
+   "Eureka\\ Mignon\\ verstelbare\\ tamper\\ ø\\ 58\\ mm\\ zwart\\ geanodiseerd"
+  ],
+  "brandID": "eureka",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Verstelbare tamper van roestvrij staal met een handvat van geanodiseerd aluminium, diameter 58 mm.",
+   "Door verwijderbare ringen in hoogte verstelbaar van 94 tot 107 mm, dus voor elke hand geschikt.",
+   "Voor het tampen van gemalen koffie in het piston.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "55d05c23"
+  ],
+  "mismatches": [
+   {
+    "topic": "Eureka tamper zwart geanodiseerd: materiaal handvat",
+    "websiteSays": "De tekst zegt \"handvat van geanodiseerd aluminium\"; specificatie Materiaal: hout, roestvrij staal.",
+    "note": "Controleer het materiaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Eureka\\ Mignon\\ tamper\\ light\\ rvs\\ ø\\ 58\\ mm"
+  ],
+  "brandID": "eureka",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Lichtgewicht tamper van roestvrij staal met zwart aluminium, doorsnede 58 mm.",
+   "Voor het aandrukken van gemalen koffie in het piston; weinig kracht nodig.",
+   "Reinigen met warm water en afwasmiddel en goed afdrogen."
+  ],
+  "keys": [
+   "2c1cfcca"
+  ]
+ },
+ {
+  "match": [
+   "Eureka\\ Mignon\\ uitklopbak\\ chroom",
+   "Eureka\\ Mignon\\ uitklopbak\\ geborsteld\\ staal",
+   "Eureka\\ Mignon\\ uitklopbak\\ geborsteld\\ staal\\ zwart"
+  ],
+  "brandID": "eureka",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Compacte vierkante uitklopbak voor gebruikte koffiepucks; inhoud 2,5 liter, 14,5 x 14,5 x 13 cm.",
+   "Behuizing van aluminium; sluit qua vormgeving aan bij de Eureka Mignon koffiemolens.",
+   "Uitklopstang met zacht rubber beperkt het geluid bij het uitkloppen.",
+   "Uitklopstang en binnenbak zijn uitneembaar: met warm water en afwasmiddel; behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "44b6eea1",
+   "8a452036",
+   "05d3e9df"
+  ],
+  "mismatches": [
+   {
+    "topic": "Eureka uitklopbak: materiaal",
+    "websiteSays": "De tekst zegt \"volledig vervaardigd uit aluminium\"; specificatie Materiaal: kunststof, aluminium.",
+    "note": "Controleer het materiaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Eureka\\ Oro\\ Mignon\\ Single\\ Dose\\ PRO\\ koffiemolen\\ zwart\\ chroom"
+  ],
+  "brandID": "eureka",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische koffiemolen voor enkele of dubbele doses (single dose), met metalen behuizing.",
+   "Limited edition in zwart/chroom met speciale gravure, uitgebracht bij de productie van de miljoenste Mignon koffiemolen.",
+   "Vlakke maalschijven van 65 mm, maximaal 1650 RPM; voor espresso, filterkoffie en moka.",
+   "Grote stelknop met rondeteller om tussen maalinstellingen te wisselen.",
+   "Hellingshoek van 15 graden en drukken op de deksel beperken achtergebleven koffie (retentie).",
+   "Bonenreservoir van 45 gram, afsluitbaar met een schuif; roestvrijstalen opvangbeker meegeleverd.",
+   "Buitenzijde reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "b79e162c"
+  ],
+  "mismatches": [
+   {
+    "topic": "Eureka Oro Mignon Single Dose PRO: afmetingen",
+    "websiteSays": "De tekst zegt 33,6 cm hoog, 18,6 cm diep en 12,8 cm breed; specificaties: Hoogte 32,1 cm, Lengte 26 cm, Breedte 13,3 cm.",
+    "note": "Controleer de afmetingen."
+   }
+  ]
+ }
+]

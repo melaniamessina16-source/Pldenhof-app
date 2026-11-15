@@ -1,5 +1,33 @@
 [
  {
+  "id": "ecm-classika-ii-pid",
+  "name": "ECM Classika II PID",
+  "brandID": "ecm",
+  "typeIDs": [
+   "halfautomaat"
+  ],
+  "suitedFor": "Compacte halfautomaat met enkele koperen ketel, PID en E61-zetgroep, met de hand gemaakt in Duitsland.",
+  "tellTheCustomer": [
+   "Halfautomaat van glanzend rvs, met de hand gemaakt door ECM in Duitsland; espresso van gemalen koffie.",
+   "Enkele koperen ketel met koperen leidingen (houden de warmte vast): stoom- en heetwaterfunctie niet tegelijk te gebruiken.",
+   "PID: boilertemperatuur zelf instellen en stabiel houden.",
+   "Zetgroep van massief messing (Faema E61 volgens de specificaties); vibratiepomp, gemiddeld 15 bar; pompdruk zelf instellen en aflezen op de manometer.",
+   "Stoompijp voor melkschuim (cappuccino, latte macchiato) en heetwaterfunctie; kopjesverwarmer bovenop; behuizing werkt als geluidsisolator.",
+   "Uitneembaar waterreservoir van 2,8 liter; 25 cm breed, 44,5 cm lang, 39,5 cm hoog; 18,5 kg; 1200 W; piston 58 mm.",
+   "Meegeleverd: piston, 1- en 2-kopsfilterbakje, kunststof tamper, blindfilter, handleiding, reinigingsborstel.",
+   "Schoonmaken: behuizing met een vochtige doek, losse onderdelen met warm water."
+  ],
+  "extraSpecs": [],
+  "variants": [
+   {
+    "file": "00011-ecm-classika-ii-pid-espressomachine-rvs-glans.html",
+    "colorName": "rvs glans",
+    "colorHex": "#C8CACC"
+   }
+  ],
+  "mismatches": []
+ },
+ {
   "id": "ecm-elektronika-ii-profi",
   "name": "ECM Elektronika II Profi",
   "brandID": "ecm",

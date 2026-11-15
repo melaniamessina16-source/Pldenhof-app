@@ -1,0 +1,200 @@
+[
+ {
+  "match": [
+   "Cilio\\ Classico\\ elektrische\\ mokapot\\ 6\\-kops\\ aluminium"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische mokapot (percolator) Classico voor 6 koppen espresso, met kunststof greep; vermogen 480 W.",
+   "Warmhoudfunctie: de verse koffie blijft langdurig op temperatuur.",
+   "Onderste deel tot vlak onder het veiligheidsventiel met water vullen, trechter met espressopoeder vullen en de 2 delen weer aan elkaar draaien.",
+   "Na enkele minuten borrelt het; als het borrelen stopt, is de espresso klaar.",
+   "Losse delen reinigen met warm water."
+  ],
+  "keys": [
+   "e75dcd93"
+  ],
+  "mismatches": [
+   {
+    "topic": "Cilio Classico: materiaal",
+    "websiteSays": "De tekst zegt \"gemaakt van aluminium\"; specificatie Materiaal: roestvrij staal.",
+    "note": "Controleer het materiaal."
+   }
+  ],
+  "brandName": "Cilio"
+ },
+ {
+  "match": [
+   "Cilio\\ Esperto\\ elektrische\\ melkopschuimer\\ rvs"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische melkopschuimer (staafje) Esperto van edelstaal, lengte 26,5 cm.",
+   "Werkt op twee AA-batterijen (meegeleverd); na gebruik te bewaren in de standaard.",
+   "Voor melkschuim voor cappuccino, milkshake of warme chocolademelk.",
+   "Melk in een beker, opschuimer aan en heen en weer en op en neer bewegen; melk eventueel voor of na in de magnetron verwarmen.",
+   "Kloppertje reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f342a724"
+  ]
+ },
+ {
+  "match": [
+   "Cilio\\ Latteforte\\ elektrische\\ melkopschuimer\\ wit"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische melkopschuimer (staafje) Latteforte van wit kunststof, lengte 23 cm.",
+   "Werkt op twee AA-batterijen (meegeleverd); na gebruik te bewaren in de standaard.",
+   "Voor melkschuim voor cappuccino, milkshake of warme chocolademelk.",
+   "Melk in een beker, opschuimer aan en heen en weer en op en neer bewegen; melk eventueel voor of na in de magnetron verwarmen.",
+   "Kloppertje reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "84d8a50b"
+  ]
+ },
+ {
+  "match": [
+   "Cilio\\ koffiefilter\\ maat\\ 1\\ porselein\\ wit",
+   "Cilio\\ koffiefilter\\ maat\\ 2\\ keramiek\\ wit",
+   "Cilio\\ koffiefilter\\ maat\\ 6\\ keramiek\\ wit"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": "Gebruik het opschenkfilter om koffie te maken door middel van opschenken.",
+  "bullets": [
+   "Opschenkfilter van keramiek, om op een kop of kan te zetten; de filtermaat staat in de naam.",
+   "Het keramiek is op hoge temperatuur gebakken en smaakneutraal.",
+   "Koffiefilter van de juiste afmeting erin, gemalen koffie erop.",
+   "Schenk water van 86 tot 89 °C in een langzaam naar buiten gaande spiraal over de koffie, voor een zo gelijkmatig mogelijke extractie.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "d4469c55",
+   "e0f6e04e"
+  ],
+  "mismatches": [
+   {
+    "topic": "Cilio koffiefilter maat 1: materiaal",
+    "websiteSays": "De naam zegt \"porselein\"; de tekst en de specificatie Materiaal zeggen keramiek.",
+    "note": "Controleer het materiaal.",
+    "only": "Cilio koffiefilter maat 1 porselein wit"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cilio\\ koffiefilter\\ met\\ mondstuk\\ maat\\ 4\\ keramiek\\ wit"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": "Gebruik het opschenkfilter om koffie te maken door middel van opschenken.",
+  "bullets": [
+   "Opschenkfilter van keramiek met mondstuk, koffiefiltermaat 4; 14 cm hoog, diameter 13,5 cm.",
+   "Dankzij het mondstuk direct op een (thermos)kan te gebruiken.",
+   "Het keramiek is op hoge temperatuur gebakken en smaakneutraal.",
+   "Koffiefilter van de juiste afmeting erin, gemalen koffie erop.",
+   "Schenk water van 86 tot 89 °C in een langzaam naar buiten gaande spiraal over de koffie, voor een zo gelijkmatig mogelijke extractie.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "2260fd5a"
+  ]
+ },
+ {
+  "match": [
+   "Cilio\\ Maria\\ cafetière\\ 3\\-kops"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cafetière (doordrukkan) Maria, inhoud 350 ml, voor maximaal 3 koppen koffie.",
+   "Gemaakt van hittebestendig borosilicaatglas met roestvrij staal; borosilicaatglas is lichter en sterker dan regulier glas.",
+   "Spoel om met heet water, grof gemalen koffie erin, heet water (90 °C) erop, deksel met zuiger erop; zuiger omlaag als de koffie sterk genoeg is.",
+   "Volledig demontabel; geen kunststof onderdelen die met de koffie in aanraking komen.",
+   "In de afwasmachine of met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ebb3fa79"
+  ]
+ },
+ {
+  "match": [
+   "Cilio\\ Maria\\ cafetière\\ 8\\-kops"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cafetière (doordrukkan) Maria, inhoud 1 liter, voor maximaal 8 koppen koffie.",
+   "Gemaakt van hittebestendig borosilicaatglas met roestvrij staal; borosilicaatglas is lichter en sterker dan regulier glas.",
+   "Spoel om met heet water, grof gemalen koffie erin, heet water (90 °C) erop, deksel met zuiger erop; zuiger omlaag als de koffie sterk genoeg is.",
+   "Volledig demontabel; geen kunststof onderdelen die met de koffie in aanraking komen.",
+   "In de afwasmachine of met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1a8a54ba"
+  ]
+ },
+ {
+  "match": [
+   "Cilio\\ Mariella\\ cafetière\\ 350\\ ml\\ glas"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cafetière Mariella van borosilicaatglas met roestvrijstalen filter en inzet en een kunststof handgreep; inhoud 350 ml.",
+   "Grof gemalen koffie erin, heet water erop, deksel met pers erop; pers omlaag als de koffie sterk genoeg is.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "655c9520"
+  ]
+ },
+ {
+  "match": [
+   "Cilio\\ Perfetto\\ melkopschuimer\\ inductie"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische melkopschuimer Perfetto met inductieverwarming, zodat de melk niet aanbrandt.",
+   "4 programma's: koude melk opschuimen, melk opschuimen en verwarmen, melk verwarmen en chocolademelk maken.",
+   "Maximale vulinhoud 350 ml: 250 ml melk voor melkschuim of 350 ml warme melk of chocolademelk.",
+   "Hulpstuk met fijne vertanding voor luchtig schuim; vlak hulpstuk voor warme melk of chocolademelk.",
+   "Melkkan is vaatwasmachinebestendig; behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "92e51005"
+  ]
+ }
+]

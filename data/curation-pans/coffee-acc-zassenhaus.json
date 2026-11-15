@@ -1,0 +1,119 @@
+[
+ {
+  "match": [
+   "Zassenhaus\\ Brasilia\\ koffiemolen\\ 12,5\\ x\\ 12\\ cm\\ donker\\ beukenhout",
+   "Zassenhaus\\ Brasilia\\ koffiemolen\\ 12,5\\ x\\ 12\\ cm\\ hout\\ naturel",
+   "Zassenhaus\\ Brasilia\\ koffiemolen\\ 12,5\\ x\\ 12\\ cm\\ hout\\ zwart"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Klassieke handkoffiemolen uit de serie Brasilia, 12,5 x 12 x 20 cm.",
+   "Origineel maalwerk van gesmeed staal; behuizing van gebeitst hout.",
+   "Hendel ronddraaien om de bonen te malen tot de gewenste fijnheid; de lade vangt de gemalen koffie op.",
+   "Zassenhaus geeft 25 jaar garantie op het maalwerk.",
+   "Weinig onderhoud: langdurig contact met water vermijden; leegschudden en schoonborstelen met een zachte kwast."
+  ],
+  "keys": [
+   "4be4ae83",
+   "1ecfb053",
+   "1056e50c"
+  ],
+  "brandName": "Zassenhaus"
+ },
+ {
+  "match": [
+   "Zassenhaus\\ La\\ Paz\\ koffiemolen\\ 14,5\\ x\\ 14,5\\ cm\\ donker\\ beukenhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Klassieke handkoffiemolen uit de serie La Paz van donker beukenhout, 14,5 x 14,5 x 23,5 cm.",
+   "Origineel maalwerk van gesmeed staal; behuizing van gebeitst hout.",
+   "Hendel ronddraaien om de bonen te malen tot de gewenste fijnheid; de lade vangt de gemalen koffie op.",
+   "Zassenhaus geeft 25 jaar garantie op het maalwerk.",
+   "Weinig onderhoud: langdurig contact met water vermijden; leegschudden en schoonborstelen met een zachte kwast."
+  ],
+  "keys": [
+   "4028b833"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Manaos\\ koffiemolen\\ ø\\ 9\\ cm\\ rvs\\ "
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": "Gebruik de Zassenhaus Manaos koffiemolen voor het malen van koffiebonen.",
+  "bullets": [
+   "Compacte, lichte handkoffiemolen van roestvrij staal, 25 x 9 cm.",
+   "Keramisch maalwerk, in 18 standen in te stellen; capaciteit 70 gram.",
+   "Vullen via de bovenzijde en malen door de hendel rond te draaien; transparant opvangbakje.",
+   "Eenvoudig te demonteren voor opbergen, meenemen of reinigen.",
+   "Reinigen met een droge doek."
+  ],
+  "keys": [
+   "2fa9c4c9"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Santiago\\ Espresso\\ koffiemolen\\ 14\\ x\\ 9\\ cm\\ hout\\ zwart"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Handkoffiemolen Santiago Espresso van zwart hout, 14 x 9 x 20 cm.",
+   "Origineel maalwerk van gesmeed staal uit Solingen, geoptimaliseerd voor een superfijne espressomaling.",
+   "Hendel ronddraaien om de bonen te malen tot de gewenste fijnheid; de lade vangt de gemalen koffie op.",
+   "Zassenhaus geeft 25 jaar garantie op het maalwerk.",
+   "Weinig onderhoud: langdurig contact met water vermijden; leegschudden en schoonborstelen met een zachte kwast."
+  ],
+  "keys": [
+   "21d8882a"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Santiago\\ koffiemolen\\ 14\\ x\\ 9\\ cm\\ hout",
+   "Zassenhaus\\ Santiago\\ koffiemolen\\ 14\\ x\\ 9\\ cm\\ hout\\ zwart",
+   "Zassenhaus\\ Santiago\\ koffiemolen\\ 20\\ x\\ 14\\ cm\\ beukenhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "koffiemolens"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Klassieke handkoffiemolen uit de serie Santiago, 14 x 9 x 20 cm, met houten behuizing.",
+   "Origineel maalwerk van gesmeed staal uit Solingen.",
+   "Hendel ronddraaien om de bonen te malen tot de gewenste fijnheid; de lade vangt de gemalen koffie op.",
+   "Zassenhaus geeft 25 jaar garantie op het maalwerk.",
+   "Weinig onderhoud: langdurig contact met water vermijden; leegschudden en schoonborstelen met een zachte kwast."
+  ],
+  "keys": [
+   "0cc18f34",
+   "3f692469",
+   "3e4dd182"
+  ],
+  "mismatches": [
+   {
+    "topic": "Zassenhaus Santiago beukenhout: afmeting in naam",
+    "websiteSays": "De naam zegt \"20 x 14 cm\"; de tekst zegt 14 x 9 x 20 cm (l x b x h).",
+    "note": "Naam en tekst gebruiken andere maten; controleer.",
+    "only": "Zassenhaus Santiago koffiemolen 20 x 14 cm beukenhout"
+   }
+  ]
+ }
+]

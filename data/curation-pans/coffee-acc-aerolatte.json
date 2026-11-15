@@ -1,0 +1,89 @@
+[
+ {
+  "match": [
+   "Aerolatte\\ Compact\\ melkopschuimer"
+  ],
+  "brandID": "aerolatte",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Compacte, automatische melkopschuimer van roestvrij staal.",
+   "Koude melk erin en op de knop drukken: warm melkschuim voor cappuccino of latte macchiato; ook koud schuim.",
+   "Melkschuim tot 125 ml; melk verwarmen tot 250 ml.",
+   "De spiraal is afneembaar; reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "092e7d93"
+  ],
+  "brandName": "Aerolatte"
+ },
+ {
+  "match": [
+   "Aerolatte\\ elektrische\\ melkopschuimer\\ met\\ houder\\ 22\\ cm\\ rvs\\ glans"
+  ],
+  "brandID": "aerolatte",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische melkopschuimer (staafje) van glanzend roestvrij staal, met roestvrijstalen houder en twee AA-batterijen.",
+   "Werkt op AA-batterijen; in ongeveer 20 seconden schuim van warme of koude melk.",
+   "Voor melkschuim voor cappuccino, milkshake en warme chocolademelk.",
+   "Melk in een beker, opschuimer aan en heen en weer en op en neer bewegen; melk eventueel voor of na in de magnetron verwarmen.",
+   "Kloppertje reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "808fa795"
+  ]
+ },
+ {
+  "match": [
+   "Aerolatte\\ melkopschuimer\\ 21,5\\ cm\\ kunststof\\ glanzend"
+  ],
+  "brandID": "aerolatte",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische melkopschuimer (staafje), geleverd met twee AA-batterijen.",
+   "Werkt op AA-batterijen; in ongeveer 20 seconden schuim van warme of koude melk.",
+   "Voor melkschuim voor cappuccino, milkshake en warme chocolademelk.",
+   "Melk in een beker, opschuimer aan en heen en weer en op en neer bewegen; melk eventueel voor of na in de magnetron verwarmen.",
+   "Kloppertje reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "57907668"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aerolatte melkopschuimer 21,5 cm: lengte en materiaal",
+    "websiteSays": "Naam en specificatie zeggen 21,5 cm, de tekst \"De 22 cm lange melkopschuimer\"; de tekst zegt \"roestvrijstalen\", specificatie Materiaal: kunststof.",
+    "note": "Controleer lengte en materiaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Aerolatte\\ To\\ Go\\ melkopschuimer\\ met\\ reisetui\\ zwart"
+  ],
+  "brandID": "aerolatte",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Elektrische melkopschuimer (staafje) van zwart kunststof, met reisetui en 2 AA-batterijen.",
+   "Werkt op AA-batterijen; in ongeveer 20 seconden schuim van warme of koude melk.",
+   "Voor melkschuim voor cappuccino, milkshake en warme chocolademelk.",
+   "Melk in een beker, opschuimer aan en heen en weer en op en neer bewegen; melk eventueel voor of na in de magnetron verwarmen.",
+   "Kloppertje reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f851163c"
+  ]
+ }
+]

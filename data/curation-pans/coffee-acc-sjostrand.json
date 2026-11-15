@@ -1,0 +1,32 @@
+[
+ {
+  "match": [
+   "Sjöstrand\\ melkopschuimer\\ 150\\-300\\ ml\\ Black",
+   "Sjöstrand\\ melkopschuimer\\ 150\\-300\\ ml\\ Brass",
+   "Sjöstrand\\ melkopschuimer\\ 150\\-300\\ ml\\ Steel"
+  ],
+  "brandID": "sjostrand",
+  "typeIDs": [
+   "koffie-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Melkopschuimer van roestvrij staal voor het opschuimen en verwarmen van melk voor cappuccino en lattes.",
+   "Opschuimen tot 150 ml melk; verwarmen tot 300 ml.",
+   "Ook koud opschuimen voor ijskoffie en lattes; met chocolade of cacaopoeder warme chocolademelk.",
+   "Stopt automatisch na 65 tot 140 seconden (afhankelijk van het programma); het lampje knippert daarna nog 30 seconden.",
+   "Reinigen met warm water en afwasmiddel; elektrische onderdelen niet in aanraking laten komen met water."
+  ],
+  "keys": [
+   "16f21a5d",
+   "775a7676",
+   "56d9d1e4"
+  ],
+  "brandName": "Sjöstrand",
+  "colours": [
+   "Black",
+   "Brass",
+   "Steel"
+  ]
+ }
+]

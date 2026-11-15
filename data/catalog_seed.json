@@ -1109,6 +1109,28 @@
    "sections": [],
    "brandIDs": [],
    "mismatchIDs": []
+  },
+  {
+   "id": "koffiemolens",
+   "categoryID": "koffie",
+   "name": "Koffiemolens",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "koffie-accessoires",
+   "categoryID": "koffie",
+   "name": "Koffie-accessoires",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
   }
  ],
  "brands": [
