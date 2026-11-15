@@ -1,0 +1,261 @@
+[
+ {
+  "match": [
+   "Victorinox\\ Swiss\\ Classic\\ gekarteld\\ steakmes\\ rvs\\ zwart"
+  ],
+  "brandID": "victorinox",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees, pizza en andere gerechten met een krokante korst of dunne laag.",
+  "bullets": [
+   "Victorinox Swiss Classic gekarteld steak- en pizzames: lemmet van roestvast staal, kunststof heft.",
+   "Smal, scherp lemmet dat moeiteloos door vlees en deeg snijdt; netjes bij bijvoorbeeld entrecote, kip of pizza met een dunne bodem.",
+   "De smalle punt maakt het mes geschikt voor precies snijwerk.",
+   "Swiss Classic-serie: lichte messen met een ergonomische handgreep.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "9bd05ff2"
+  ],
+  "brandName": "Victorinox"
+ },
+ {
+  "match": [
+   "Victorinox\\ Swiss\\ Classic\\ gevorkt\\ tomatenmes\\ rvs\\ zwart"
+  ],
+  "brandID": "victorinox",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van tomaat, kaas en worst met een egale en nette snede.",
+  "bullets": [
+   "Victorinox Swiss Classic gevorkt tomaten-/worstmes: gekarteld lemmet van roestvast staal, kunststof heft.",
+   "Het gekartelde lemmet snijdt moeiteloos door harde korsten en zachte binnenkanten, zoals van tomaat.",
+   "Met de gevorkte punt pakt en verplaatst u ingrediënten.",
+   "Swiss Classic-serie: lichte messen met een ergonomische handgreep.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "3f085536"
+  ]
+ },
+ {
+  "match": [
+   "Victorinox\\ Swiss\\ Classic\\ officemes\\ met\\ punt\\ 10\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "victorinox",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en snijden van groenten en fruit.",
+  "bullets": [
+   "Victorinox Swiss Classic officemes met punt: lemmet van roestvast staal, kunststof heft.",
+   "Kort, recht lemmet dat zich goed leent voor precisiewerk in de keuken.",
+   "Voor het schillen en snijden van groenten en fruit.",
+   "Swiss Classic-serie: lichte messen met een ergonomische handgreep.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "521d0960"
+  ]
+ },
+ {
+  "match": [
+   "Victorinox\\ Swiss\\ Classic\\ officemes\\ met\\ punt\\ gekarteld\\ 10\\ cm\\ rood",
+   "Victorinox\\ Swiss\\ Classic\\ officemes\\ met\\ punt\\ gekarteld\\ 10\\ cm\\ blauw",
+   "Victorinox\\ Swiss\\ Classic\\ officemes\\ met\\ punt\\ gekarteld\\ 10\\ cm"
+  ],
+  "brandID": "victorinox",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en snijden van groenten en fruit; ook geschikt voor het aansnijden van tomaten, broodjes of worst.",
+  "bullets": [
+   "Victorinox Swiss Classic officemes met punt en kartel: lemmet van hoogwaardig roestvast staal, kunststof heft (rood, blauw of zwart, per variant).",
+   "Fijne kartelrand: snijdt moeiteloos door dunne schillen of zachte producten zonder te scheuren of te pletten.",
+   "Licht, wendbaar mes voor het schillen en snijden van groenten en fruit, ook geschikt voor het aansnijden van tomaten, broodjes of worst.",
+   "Door de spitse punt geschikt voor nauwkeurig snijwerk, zoals het verwijderen van pitten of het decoratief snijden van fruit.",
+   "Swiss Classic-serie: lichte messen met een ergonomische handgreep.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "7b9623d5",
+   "c27a6a94",
+   "076f780f"
+  ],
+  "colours": [
+   "rood",
+   "blauw"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reiniging",
+    "websiteSays": "Tekst: \"vaatwasmachinebestendig\"; specificatie van de rode en blauwe variant: Reiniging: Handafwas",
+    "note": "Controleer hoe het mes gereinigd moet worden."
+   },
+   {
+    "topic": "Tekst: schilmes",
+    "websiteSays": "De onderste tekst van de zwarte variant heet \"Victorinox Swiss Classic schilmes\" en noemt het \"schilmes\"; de pagina heet officemes",
+    "note": "Controleer of dit een office- of een schilmes is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Victorinox\\ Swiss\\ Classic\\ schilmes\\ 8\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "victorinox",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen, snijden en garneren van groenten en fruit.",
+  "bullets": [
+   "Victorinox Swiss Classic schilmes: lemmet van roestvast staal, kunststof heft.",
+   "Recht lemmet voor gecontroleerde sneden bij kleine ingrediënten.",
+   "Voor het schillen, snijden en garneren van groenten en fruit.",
+   "Swiss Classic-serie: lichte messen met een ergonomische handgreep.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "9c1ea3e6"
+  ]
+ },
+ {
+  "match": [
+   "Victorinox\\ Swiss\\ Classic\\ schilmes\\ gekarteld\\ 8\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "victorinox",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor precisiewerk zoals het schoonmaken en snijden van kleine groenten of fruit.",
+  "bullets": [
+   "Victorinox Swiss Classic schilmes gekarteld: gekarteld lemmet met spitse punt, van roestvast staal; kunststof heft.",
+   "Smal lemmet voor nauwkeurig snijden bij gedetailleerde keukentaken.",
+   "Voor precisiewerk zoals het schoonmaken en snijden van kleine groenten of fruit.",
+   "Swiss Classic-serie: lichte messen met een ergonomische handgreep.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "dddd2087"
+  ]
+ },
+ {
+  "match": [
+   "Victorinox\\ Swiss\\ Classic\\ schilmes\\ met\\ punt\\ 8\\ cm\\ rvs\\ zwart",
+   "Victorinox\\ Swiss\\ Classic\\ schilmes\\ spitse\\ punt\\ 8\\ cm\\ rvs"
+  ],
+  "brandID": "victorinox",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en snijden van zachte groenten en fruit.",
+  "bullets": [
+   "Victorinox Swiss Classic schilmes met punt: lemmet van roestvast staal met een rechte punt, kunststof heft.",
+   "Glad lemmet voor schone sneden zonder het product te beschadigen.",
+   "Voor het schillen en snijden van zachte groenten en fruit.",
+   "Swiss Classic-serie: lichte messen met een ergonomische handgreep.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "4705aece"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: punt",
+    "websiteSays": "Naam: \"met punt\" / \"spitse punt\"; tekst: \"met een rechte punt\"",
+    "note": "Controleer de vorm van de punt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Victorinox\\ Swiss\\ Classic\\ schilmes\\ met\\ punt\\ gekarteld\\ 8\\ cm",
+   "Victorinox\\ Swiss\\ Classic\\ schilmes\\ met\\ punt\\ gekarteld\\ 8\\ cm"
+  ],
+  "brandID": "victorinox",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en snijden van (kleine) groenten en fruit.",
+  "bullets": [
+   "Victorinox Swiss Classic schilmes/officemes met punt, kunststof heft, lemmet van roestvast staal.",
+   "Voor het schillen en snijden van (kleine) groenten en fruit.",
+   "Swiss Classic-serie: lichte messen met een ergonomische handgreep.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "9136e11c",
+   "d246164d"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kartel of glad",
+    "websiteSays": "Naam en specificatie: gekarteld; de tekst spreekt van \"een recht, glad lemmet\" (zwarte variant) of een \"glad lemmet\" (rode variant); de eerste alinea van de zwarte variant noemt het lemmet gekarteld",
+    "note": "Controleer of het lemmet gekarteld of glad is."
+   },
+   {
+    "topic": "Dubbele naam",
+    "websiteSays": "Twee pagina's (zwart en rood) hebben dezelfde naam \"schilmes met punt gekarteld 8 cm\"",
+    "note": "Controleer of dit twee kleuren van één mes zijn."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Victorinox\\ Swiss\\ Classic\\ tomatenmes\\ 11\\ cm\\ rvs\\ groen",
+   "Victorinox\\ Swiss\\ Classic\\ tomatenmes\\ 11\\ cm\\ rvs\\ oranje",
+   "Victorinox\\ Swiss\\ Classic\\ tomatenmes\\ 11\\ cm\\ rvs\\ rood",
+   "Victorinox\\ Swiss\\ Classic\\ tomatenmes\\ 11\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "victorinox",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van tomaten en andere zachte producten.",
+  "bullets": [
+   "Victorinox Swiss Classic tomatenmes: fijn gekarteld lemmet van roestvast staal, kunststof heft.",
+   "Snijdt door zachte producten (zoals tomaten en broodjes) zonder te scheuren of te pletten.",
+   "Swiss Classic-serie: lichte messen met een ergonomische handgreep.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "882de380",
+   "f110783d",
+   "6adba132",
+   "70f18f11"
+  ],
+  "colours": [
+   "groen",
+   "oranje",
+   "rood",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Victorinox\\ Swiss\\ Classic\\ tourneermes\\ 6\\ cm\\ rvs\\ rood",
+   "Victorinox\\ Swiss\\ Classic\\ tourneermes\\ 6\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "victorinox",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en vormsnijden van groenten en fruit.",
+  "bullets": [
+   "Victorinox Swiss Classic tourneermes: gebogen lemmet van roestvast staal, kunststof heft.",
+   "Gebogen lemmet voor precisiewerk, zoals schillen, uithollen en modelleren van groenten en fruit.",
+   "Swiss Classic-serie: lichte messen met een ergonomische handgreep.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "015d4347",
+   "c2af5915"
+  ],
+  "colours": [
+   "rood",
+   "zwart"
+  ]
+ }
+]

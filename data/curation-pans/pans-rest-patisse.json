@@ -1,0 +1,41 @@
+[
+ {
+  "match": [
+   "Patisse\\ poffertjespan\\ ø\\ 25\\ cm\\ gietaluminium"
+  ],
+  "brandID": "patisse",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het thuis bakken van poffertjes.",
+  "bullets": [
+   "Poffertjespan van gietaluminium met kunststof handgreep; diameter 25 cm, ruimte voor 16 poffertjes tegelijk.",
+   "Aluminium warmt snel op en heeft een goede antikleefwerking.",
+   "Geschikt voor gas, elektrisch, keramisch, halogeen en inductie (spec).",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "26bef7dc"
+  ],
+  "brandName": "Patisse"
+ },
+ {
+  "match": [
+   "Patisse\\ poffertjespan\\ ø\\ 25\\ cm\\ aluminium\\ zwart"
+  ],
+  "brandID": "patisse",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het thuis bakken van poffertjes.",
+  "bullets": [
+   "Poffertjespan van gietaluminium met anti-aanbaklaag en kunststof handgreep; diameter 25 cm, ruimte voor 19 poffertjes tegelijk.",
+   "Aluminium warmt snel op; de anti-aanbaklaag zorgt dat de poffertjes minder kleven.",
+   "Ongeschikt voor inductie; spec: geschikt voor gas; maximumtemperatuur 230°C.",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "5f41e42f"
+  ]
+ }
+]

@@ -1,0 +1,63 @@
+[
+ {
+  "match": [
+   "Vitamix\\ A2500i\\ hogesnelheidsblender\\ 2\\ liter\\ antraciet",
+   "Vitamix\\ A2500i\\ hogesnelheidsblender\\ 2\\ liter\\ rood",
+   "Vitamix\\ A2500i\\ hogesnelheidsblender\\ 2\\ liter\\ wit",
+   "Vitamix\\ A2500i\\ hogesnelheidsblender\\ 2\\ liter\\ zwart"
+  ],
+  "brandID": "vitamix",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het pureren, hakken en blenden van diverse ingrediënten en voor smoothies, soepen, beslag, kruidenboter en marinades.",
+  "bullets": [
+   "Vitamix A2500i hogesnelheidsblender, professioneel en voor thuisgebruik; mengkom van 2 liter van BPA-vrij kunststof met maataanduiding en roestvrijstalen messen.",
+   "Draaiknop, 10 standen, pulsefunctie, 3 automatische programma's (smoothies, bevroren desserts, warme soepen) en een digitale timer.",
+   "Verwarmt dankzij de hoge snelheid zelfs soepen.",
+   "Interlock-technologie: container en deksel moeten goed vastzitten voordat de blender start; tamper meegeleverd.",
+   "10 jaar garantie, inclusief de onderdelen.",
+   "Reinigen: beker half vullen met warm water en wat afwasmiddel, 30 tot 60 seconden aanzetten en spoelen; behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "347d07f3",
+   "e0087166",
+   "cb574d4f",
+   "fd5d991b"
+  ],
+  "brandName": "Vitamix",
+  "requires": [
+   "10 jaar garantie"
+  ],
+  "colours": [
+   "antraciet",
+   "rood",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Vitamix\\ A3500i\\ hogesnelheidsblender\\ 2\\ liter\\ geborsteld\\ rvs"
+  ],
+  "brandID": "vitamix",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het pureren, hakken en blenden van diverse ingrediënten en voor smoothies, soepen, beslag, kruidenboter en marinades.",
+  "bullets": [
+   "Vitamix A3500i hogesnelheidsblender, professioneel en voor thuisgebruik; roestvrijstalen behuizing; mengkom van 2 liter van BPA-vrij kunststof met maataanduiding.",
+   "Draaiknop en touchscreen, variabele snelheidsregeling, pulsefunctie, 5 automatische programma's (o.a. reinigen, smoothies, bevroren desserts, warme soepen, diepsauzen en smeersels) en een programmeerbare digitale timer.",
+   "Verwarmt dankzij de hoge snelheid zelfs soepen.",
+   "Interlock-technologie: container en deksel moeten goed vastzitten voordat de blender start; tamper meegeleverd.",
+   "10 jaar garantie, inclusief de onderdelen.",
+   "Reinigen: beker half vullen met warm water en wat afwasmiddel, 30 tot 60 seconden aanzetten op de reinigingsfunctie en spoelen; behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "333a7c75"
+  ],
+  "requires": [
+   "A3500"
+  ]
+ }
+]

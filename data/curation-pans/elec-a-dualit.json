@@ -1,0 +1,467 @@
+[
+ {
+  "match": [
+   "Dualit\\ Classic\\ waterkoker\\ 1,7\\ liter\\ rvs"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": "Voor het koken van water voor bijvoorbeeld thee.",
+  "bullets": [
+   "Waterkoker van roestvrij staal met een inhoud van 1,7 liter en een vermogen van 3000 W.",
+   "Twee kijkvensters met een maataanduiding in koppen en in liters; droogkookbeveiliging.",
+   "Gepatenteerd Whisper Boil systeem: de waterkoker maakt zeer weinig geluid tijdens het gebruik.",
+   "Handgreep met een siliconen laagje; tuit die niet druppelt; scharnierend deksel met hittebestendige ring en vingerbescherming.",
+   "Voetjes onder de waterkoker voor een stabiele stand.",
+   "Het filter is te verwijderen en met de hand af te wassen; waterkoker reinigen met een vochtige doek; zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "8860ec0e"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "Whisper Boil"
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ Lite\\ waterkoker\\ 1\\ liter\\ rvs\\ zwart"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": "Voor het koken van water voor bijvoorbeeld thee; het compacte formaat is volgens de tekst geschikt voor kleine huishoudens.",
+  "bullets": [
+   "Waterkoker van roestvrij staal met een inhoud van 1 liter en een vermogen van 2000 W; compact formaat van 23 x 19 cm.",
+   "Transparant kijkvenster dat de inhoud in aantal kopjes aangeeft.",
+   "Handgreep met een siliconen laagje; veilige en stabiele voetjes.",
+   "Het filter is te verwijderen en met de hand af te wassen; reinigen met een vochtige doek; zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "f295861c"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "kleine huishoudens"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ Lite\\ waterkoker\\ 1,5\\ liter\\ rvs\\ Sage",
+   "Dualit\\ Lite\\ waterkoker\\ 1,5\\ liter\\ rvs\\ zwart"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Waterkoker met een inhoud van 1,5 liter; roestvrijstalen koker met aan 2 zijden een kijkvenster met maataanduiding.",
+   "Volgens de tekst een vermogen van 2300 W.",
+   "Het snoer zit aan de basis; de waterkoker is 360° draaibaar op zijn basis.",
+   "Voorzien van een wasbaar schenkfilter.",
+   "Zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "6aac8275",
+   "51b896b3"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "360°"
+  ],
+  "colours": [
+   "Sage",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Vermogen",
+    "websiteSays": "Tekst: \"vermogen van 2300 W\" (beide pagina's). Specificaties Sage-uitvoering: Vermogen 2200 W; de zwarte pagina noemt geen vermogen in de specificaties.",
+    "note": "Controleer het vermogen op het typeplaatje.",
+    "only": null
+   }
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ Pour\\ Over\\ Kettle\\ waterkoker\\ 800\\ ml\\ zwart\\ "
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": "Voor het gecontroleerd schenken van heet water voor drip-coffee/filterkoffie en voor het zetten van delicate thee en slow-coffee.",
+  "bullets": [
+   "Waterkoker van zwartgekleurd lichtgewicht roestvrij staal (ook de binnenzijde) met een inhoud van 800 ml.",
+   "Wateruitloop in de vorm van een zwanenhals voor gecontroleerd schenken; de tuit druppelt niet.",
+   "Temperatuur per graad in te stellen tussen 38 en 100 °C; het water kan 5 minuten op die temperatuur worden gehouden. Bijvoorbeeld rond 92 °C voor filterkoffie en 67 °C voor witte thee.",
+   "Heeft een Quiet Mark (keurmerk voor zeer stille waterkokers); daardoor iets langzamer in het opwarmen. De geluidjes van de ketel zijn uit te schakelen.",
+   "Buitenkant reinigen met een vochtige doek; zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "f6f9a16c"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "Quiet Mark"
+  ],
+  "colours": [
+   "zwart "
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ handmixer\\ 20\\ cm\\ kunststof\\ chroom\\ 6\\-delig"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het opkloppen van eiwitten, het kneden van deeg en het maken van beslag.",
+  "bullets": [
+   "Handmixer van kunststof met een vermogen van 400 W en 4 snelheden; afmetingen 30 x 20 x 9,5 cm.",
+   "Geleverd met 2 kloppers, een bolgarde en 2 deeghaken; de enkele bolgarde klopt eiwit en slagroom extra snel luchtig.",
+   "Het snoer kan achterin het apparaat worden opgerold, zodat de mixer makkelijk op te bergen is.",
+   "Reinigen met een vochtige doek; kloppers, bolgarde en deeghaken zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "c992c93b"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "bolgarde"
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ handmixer\\ 30\\ cm\\ kunststof\\ koperkleurig",
+   "Dualit\\ handmixer\\ 30\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het opkloppen van slagroom, mixen van beslag of kneden van deeg.",
+  "bullets": [
+   "Handmixer met een motor van 400 W en 4 snelheden, te kiezen met de schakelaar bovenop de mixer.",
+   "Compleet geleverd met 2 beslagkloppers, 2 deeghaken en 1 ballongarde.",
+   "Brede soft-grip handgreep en een uitwerpknop; het snoer is op te bergen in de mixer.",
+   "Reinigen: buitenzijde met een licht vochtige doek; de meegeleverde accessoires zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "7f3ed065",
+   "37ff7a84"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "ballongarde"
+  ],
+  "colours": [
+   "koperkleurig",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal",
+    "websiteSays": "Naam: \"kunststof\"; specificaties: Materiaal roestvrij staal.",
+    "note": "Controleer het materiaal van de behuizing."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ staafmixer\\ 38\\ cm\\ chroomkleurig\\ 8\\-delig",
+   "Dualit\\ staafmixerset\\ koperkleurig"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Staafmixer van kunststof en roestvrij staal, lengte 38 cm; multifunctioneel.",
+   "Met de verschillende opzetstukken een hakker, blender, staafmixer en handmixer in één.",
+   "Traploos instelbaar van 7.000 tot 16.000 tpm, met een turbo knop van 18.000 tpm.",
+   "Voor hakken, pureren, opkloppen of mengen, bijvoorbeeld een tapenade of pesto.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "866cc62a",
+   "b90a8b85"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "opzetstukken"
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ Lite\\ broodrooster\\ 2\\ sleuven\\ rvs\\ canvas",
+   "Dualit\\ Lite\\ broodrooster\\ 2\\ sleuven\\ rvs\\ rood",
+   "Dualit\\ Lite\\ broodrooster\\ 2\\ sleuven\\ rvs\\ Sage",
+   "Dualit\\ Lite\\ broodrooster\\ 2\\ sleuven\\ rvs\\ zwart"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodrooster van roestvrij staal; kan 2 sneden brood tegelijk toasten; vermogen 1100 W.",
+   "Sleuven met een breedte van 3,6 cm, ook geschikt voor bredere sneden brood.",
+   "Ontdooifunctie en bagelfunctie.",
+   "Peek&Pop-technologie: de voortgang van het roosteren is te controleren zonder de bereiding te onderbreken.",
+   "Kruimellade; reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "50d585e4",
+   "d6367522",
+   "e318d29e",
+   "031c1de4"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "Peek&Pop"
+  ],
+  "colours": [
+   "canvas",
+   "rood",
+   "Sage",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ Lite\\ broodrooster\\ 4\\ sleuven\\ rvs\\ zwart"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodrooster van roestvrij staal; kan 4 sneden brood tegelijk toasten; vermogen 1850 W.",
+   "Sleuven met een breedte van 3,6 cm, ook geschikt voor bredere sneden brood.",
+   "Ontdooifunctie en bagelfunctie.",
+   "Kruimellade; reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "345ca18a"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "3,6 cm"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ Lite\\ tostiklem\\ metaal\\ 2\\ stuks\\ zwart"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het maken van tosti's in een Dualit broodrooster.",
+  "bullets": [
+   "Set van 2 tostiklemmen van metaal met hittebestendige (kunststof) handgrepen.",
+   "Voor een Dualit Lite of Architect broodrooster met een slot van 36 mm.",
+   "Een belegde dubbele boterham in de klem zetten en in de broodrooster hangen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8dbf8bbe"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "36 mm"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ Vario\\ tostiklem\\ metaal\\ zwart"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het maken van tosti's in een Dualit broodrooster.",
+  "bullets": [
+   "Tostiklem van metaal met hittebestendige (kunststof) handgrepen.",
+   "Voor een Dualit Vario broodrooster met een slot van 28 mm.",
+   "Een belegde dubbele boterham in de klem zetten en in de broodrooster hangen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a8355568"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "28 mm"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ Vario\\ NewGen\\ broodrooster\\ 2\\ sleuven\\ Desert",
+   "Dualit\\ Vario\\ NewGen\\ broodrooster\\ 2\\ sleuven\\ Eucalyptus",
+   "Dualit\\ Vario\\ NewGen\\ broodrooster\\ 2\\ sleuven\\ Evergreen",
+   "Dualit\\ Vario\\ NewGen\\ broodrooster\\ 2\\ sleuven\\ Union\\ Jack",
+   "Dualit\\ Vario\\ NewGen\\ broodrooster\\ 2\\ sleuven\\ rvs\\ glans",
+   "Dualit\\ Vario\\ NewGen\\ broodrooster\\ 2\\ sleuven\\ rvs\\ koperkleur",
+   "Dualit\\ Vario\\ NewGen\\ broodrooster\\ 2\\ sleuven\\ rvs\\ mat\\ zwart",
+   "Dualit\\ Vario\\ NewGen\\ broodrooster\\ 2\\ sleuven\\ rvs\\ rood",
+   "Dualit\\ Vario\\ NewGen\\ broodrooster\\ 2\\ sleuven\\ rvs\\ Sage"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Handgemaakte broodrooster met 2 sleuven, vervaardigd uit roestvrij staal.",
+   "Ingebouwde, beschermde ProHeat verwarmingselementen die brood, broodjes of bagels gelijkmatig verwarmen; bedoeld voor intensief gebruik.",
+   "28 mm sleuven, geschikt voor dikke sneden brood, broodjes en bagels; tostiklemmen passen in de sleuven.",
+   "Een of beide sleuven te gebruiken.",
+   "Uitneembare kruimellade, 'defrost' functie en een handmatige 'ejector' om tussentijds de bruiningsgraad te bekijken.",
+   "Verstelbare voetjes: ook stabiel op een ongelijk oppervlak.",
+   "Reinigen: behuizing met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4fd63521",
+   "ef67f41f",
+   "29e07311",
+   "2d868ba6",
+   "501602a4",
+   "f33192fa",
+   "a00ae738",
+   "bb91696c"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "ejector"
+  ],
+  "colours": [
+   "Desert",
+   "Eucalyptus",
+   "Evergreen",
+   "glans",
+   "koperkleur",
+   "mat zwart",
+   "rood",
+   "Sage",
+   "Union Jack"
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ Stealth\\ NewGen\\ broodrooster\\ 2\\ sleuven\\ rvs\\ mat\\ zwart"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Handgemaakte Stealth broodrooster met 2 sleuven, vervaardigd uit roestvrij staal met een matzwarte coating; vermogen 1200 W.",
+   "Ingebouwde, beschermde ProHeat verwarmingselementen die brood, broodjes of bagels gelijkmatig verwarmen; bedoeld voor intensief gebruik.",
+   "28 mm sleuven, geschikt voor dikke sneden brood, broodjes en bagels; tostiklemmen passen in de sleuven.",
+   "Een of beide sleuven te gebruiken.",
+   "Uitneembare kruimellade, 'defrost' functie en een handmatige 'ejector' om tussentijds de bruiningsgraad te bekijken.",
+   "Aluminium zijpanelen; verstelbare voetjes voor een stabiele stand op een ongelijk oppervlak.",
+   "Reinigen: behuizing met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "dd71f858"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "Stealth"
+  ],
+  "colours": [
+   "mat zwart"
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ Stealth\\ NewGen\\ broodrooster\\ 4\\ sleuven\\ rvs\\ mat\\ zwart"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Handgemaakte Stealth broodrooster met 4 sleuven, vervaardigd uit roestvrij staal met een matzwarte coating; vermogen 2200 W.",
+   "Ingebouwde, beschermde ProHeat verwarmingselementen die brood, broodjes of bagels gelijkmatig verwarmen; bedoeld voor intensief gebruik. De elementen zijn te laten vervangen.",
+   "28 mm sleuven, geschikt voor dikke sneeën brood, broodjes en bagels; tostiklemmen passen in de sleuven.",
+   "Een of meerdere sleuven tegelijk te gebruiken.",
+   "Uitneembare kruimellade, 'defrost' functie en een handmatige 'ejector' om tussentijds de bruiningsgraad te bekijken.",
+   "Aluminium zijpanelen; verstelbare voetjes voor een stabiele stand op een ongelijk oppervlak.",
+   "Reinigen: behuizing met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e3990c6e"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "Stealth"
+  ],
+  "colours": [
+   "mat zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst noemt ander model",
+    "websiteSays": "\"Reinig de behuizing van de Dualit Vario broodrooster met warm water en afwasmiddel.\" (op de Stealth-pagina)",
+    "note": "Tekst van het Vario model; controleer of de reinigingsinstructie ook voor de Stealth geldt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Dualit\\ Vario\\ broodrooster\\ 3\\ sleuven\\ rvs\\ glans",
+   "Dualit\\ Vario\\ broodrooster\\ 6\\ sleuven\\ rvs\\ glans",
+   "Dualit\\ Vario\\ NewGen\\ broodrooster\\ 4\\ sleuven\\ rvs\\ glans"
+  ],
+  "brandID": "dualit",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Handgemaakte Vario broodrooster, vervaardigd uit roestvrij staal met aluminium zijpanelen (aantal sleuven staat in de naam).",
+   "Ingebouwde, beschermde ProHeat verwarmingselementen die brood, broodjes of bagels gelijkmatig verwarmen; bedoeld voor intensief gebruik. De elementen zijn te laten vervangen.",
+   "28 mm sleuven, geschikt voor dikke sneeën brood, broodjes en bagels; tostiklemmen passen in de sleuven.",
+   "Een of meerdere sleuven tegelijk te gebruiken.",
+   "Uitneembare kruimellade, 'defrost' functie en een handmatige 'ejector' om tussentijds de bruiningsgraad te bekijken.",
+   "Verstelbare voetjes: ook stabiel op een ongelijk oppervlak.",
+   "Reinigen: behuizing met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5ae8ec9e",
+   "1c303b29",
+   "f931c585"
+  ],
+  "brandName": "Dualit",
+  "requires": [
+   "ejector"
+  ],
+  "colours": [
+   "glans"
+  ]
+ }
+]

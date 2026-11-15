@@ -1,0 +1,49 @@
+[
+ {
+  "match": [
+   "Cilio\\ Formaggio\\ kaasmessenset\\ rvs/hout\\ 4\\-delig"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het snijden, breken en prikken van diverse kaassoorten, bij een kaasplank op tafel.",
+  "bullets": [
+   "Cilio Formaggio kaasmessenset rvs/hout, 4-delig: een mes voor zachte kaas, een voor harde kaas, een vork en een kaasbreker; 13 cm lang.",
+   "Gemaakt van roestvrij staal en hout; ergonomisch gevormde heften.",
+   "Voor kaassoorten zoals parmezaan, emmentaler en brie.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "63098665"
+  ],
+  "brandName": "Cilio",
+  "requires": [
+   "kaasbreker",
+   "ergonomisch"
+  ]
+ },
+ {
+  "match": [
+   "Cilio\\ kaasmessenset\\ 13\\ cm\\ rvs\\ 4\\-delig"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het snijden, breken en prikken van diverse kaassoorten, bij een kaasplank op tafel.",
+  "bullets": [
+   "Cilio kaasmessenset rvs, 4-delig: een mes voor zachte kaas, een voor harde kaas, een vork en een kaasbreker; 13 cm lang.",
+   "Geleverd in een houten geschenkverpakking.",
+   "Voor kaassoorten zoals parmezaan, emmentaler en brie.",
+   "Alle messen zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "6451e497"
+  ],
+  "requires": [
+   "kaasbreker",
+   "geschenkverpakking"
+  ]
+ }
+]

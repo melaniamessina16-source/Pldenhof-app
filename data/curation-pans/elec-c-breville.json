@@ -1,0 +1,43 @@
+[
+ {
+  "match": [
+   "Breville\\ DuraCeramic\\ sandwich\\-\\ en\\ tosti\\-apparaat\\ rvs\\ grijs"
+  ],
+  "brandID": "breville",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Breville DuraCeramic sandwich- en tosti-apparaat van roestvrij staal, 850 W; 30,9 x 26,3 cm, 14 cm hoog bij gesloten deksel.",
+   "Verwijderbare grillplaten met keramische anti-aanbaklaag; ruimte voor twee rijk gevulde tosti's tegelijk.",
+   "Twee temperatuurstanden en een indicatielampje voor de temperatuur; koel handvat.",
+   "Rechtop op te bergen met sluitsysteem; ruimte voor het snoer.",
+   "Grillplaten reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "8a6c071b"
+  ],
+  "brandName": "Breville"
+ },
+ {
+  "match": [
+   "Breville\\ DuraCeramic\\ wafelijzer\\ rvs"
+  ],
+  "brandID": "breville",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Breville DuraCeramic wafelijzer van roestvrij staal, 850 W; maakt twee wafels tegelijk.",
+   "Twee verwijderbare wafelplaten met keramische anti-aanbaklaag en diepe ribbels; 29 cm breed, 23 cm diep, 8 cm hoog bij gesloten deksel.",
+   "Indicatielampje voor de temperatuur; koel handvat.",
+   "Rechtop op te bergen met sluitsysteem; ruimte voor het snoer.",
+   "Platen reinigen met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "1464830e"
+  ]
+ }
+]

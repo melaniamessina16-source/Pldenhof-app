@@ -1,0 +1,1453 @@
+[
+ {
+  "match": [
+   "Magimix\\ 4200\\ XL\\ foodprocessor\\ kunststof\\ mat\\ chroom",
+   "Magimix\\ 4200\\ XL\\ foodprocessor\\ kunststof\\ rood",
+   "Magimix\\ 4200\\ XL\\ foodprocessor\\ kunststof\\ zwart"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": "Voor al uw werkzaamheden in de keuken.",
+  "bullets": [
+   "Multifunctionele keukenmachine (foodprocessor) met 3 mengkommen van 3 liter, 2,6 liter en 1,2 liter.",
+   "Vermogen 950 W; hoogwaardige, sterke en stille inductiemotor, 30 jaar garantie op de motor.",
+   "De middelste variant uit de Magimix foodprocessor familie: maaltijden voor ongeveer 6 personen.",
+   "Maar 3 knoppen: aan, uit en pulse. Deksel met extra brede schacht en duwer om tijdens het draaien voedsel toe te voegen.",
+   "Roestvrijstalen messen en schijven voor hak-, snij-, rasp-, meng-, klop- en pureerwerk.",
+   "Bijgeleverd: blendermix, receptenboek, mini-hakmes in de kleine kom, groot stalen mes, deegmes, eiwitklopper, plakjesschijven 2 en 4 mm, raspschijven 2 en 4 mm, as voor de schijven, spatel en opbergdoos.",
+   "De mengkommen zijn vaatwasmachinebestendig; reinig de overige onderdelen met een vochtige doek."
+  ],
+  "keys": [
+   "09673eed",
+   "43d06e19",
+   "1d318c38"
+  ],
+  "brandName": "Magimix",
+  "requires": [
+   "30 jaar garantie"
+  ],
+  "colours": [
+   "mat chroom",
+   "rood",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ 5200\\ XL\\ foodprocessor\\ kunststof\\ mat\\ chroom"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": "Voor al uw werkzaamheden in de keuken.",
+  "bullets": [
+   "Multifunctionele keukenmachine (foodprocessor) met verschillende maten mengkommen; vermogen 1100 W.",
+   "De grootste variant uit de Magimix foodprocessor familie: maaltijden tot 8 personen.",
+   "Hoogwaardige, sterke en stille inductiemotor; de pagina noemt 20 jaar garantie op de motor.",
+   "Maar 3 knoppen: aan, uit en pulse. Deksel met extra brede schacht en duwer.",
+   "Bijgeleverd: blendermix, receptenboek, deegmes, stalen mes, eiwitklopper, plakjesschijven 2 en 4 mm, raspschijven 2 en 4 mm, citruspers, spatel en opbergdoos.",
+   "De mengkommen zijn vaatwasmachinebestendig; reinig de overige onderdelen met een vochtige doek."
+  ],
+  "keys": [
+   "709d4b53"
+  ],
+  "requires": [
+   "20 jaar garantie"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam/serie: 5200 XL of 5200 XL Premium",
+    "websiteSays": "Naam: \"5200 XL foodprocessor\"; specificatie Serie: \"5200 XL Premium\"; tekst: \"De Magimix 5200 XL\"",
+    "note": "Controleer of dit de gewone 5200 XL of de Premium is."
+   },
+   {
+    "topic": "Garantie op de motor",
+    "websiteSays": "\"Magimix geeft 20 jaar garantie op de krachtige inductiemotor\" (andere 5200 XL-pagina's noemen 30 jaar)",
+    "note": "Controleer de garantietermijn."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ 5200\\ XL\\ foodprocessor\\ zwart\\ \\+\\ Dice\\ Kit"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": "Voor al uw werkzaamheden in de keuken.",
+  "bullets": [
+   "Magimix CS 5200 XL foodprocessor, zwart, met blokjes- en staafjeskit (Dice Kit).",
+   "Multifunctionele keukenmachine met verschillende maten mengkommen; vermogen 1100 W.",
+   "De grootste variant uit de Magimix foodprocessor familie: maaltijden tot 8 personen.",
+   "Hoogwaardige, sterke en stille inductiemotor, 30 jaar garantie op de motor.",
+   "Bijgeleverd: blendermix, receptenboek, deegmes, stalen mes, eiwitklopper, plakjesschijven 2 en 4 mm, raspschijven 2 en 4 mm, blokjes- en staafjeskit, citruspers, spatel en opbergdoos.",
+   "De mengkommen zijn vaatwasmachinebestendig; reinig de overige onderdelen met een vochtige doek."
+  ],
+  "keys": [
+   "f9f0d509"
+  ],
+  "requires": [
+   "blokjes- en staafjeskit"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ 5200\\ XL\\ Premium\\ foodprocessor\\ kunststof\\ mat\\ chroom",
+   "Magimix\\ 5200\\ XL\\ Premium\\ foodprocessor\\ kunststof\\ rood",
+   "Magimix\\ 5200\\ XL\\ Premium\\ foodprocessor\\ kunststof\\ zwart"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": "Voor al uw werkzaamheden in de keuken.",
+  "bullets": [
+   "Magimix 5200 XL Premium: de meest uitgebreide, multifunctionele keukenmachine, met verschillende maten mengkommen; vermogen 1100 W, inhoud 3,6 liter (specificatie).",
+   "De grootste variant uit de Magimix foodprocessor familie: maaltijden tot 10 personen.",
+   "Hoogwaardige, sterke en stille inductiemotor, 30 jaar garantie op de motor.",
+   "Maar 3 knoppen: aan, uit en pulse. Deksel met extra brede schacht en duwer.",
+   "Bijgeleverd: blendermix, receptenboek, deegmes, stalen mes, eiwitklopper, plakjesschijven 2 en 4 mm, raspschijven 2 en 4 mm, citruspers, spatel en opbergdoos.",
+   "Extra ten opzichte van de gewone 5200 XL: parmezaanrasp, plakjesschijf 1 mm, raspschijf 6 mm en Extra Press XL.",
+   "De mengkommen zijn vaatwasmachinebestendig; reinig de overige onderdelen met een vochtige doek."
+  ],
+  "keys": [
+   "95fb2e10",
+   "ccc58281"
+  ],
+  "requires": [
+   "Parmezaanrasp"
+  ],
+  "colours": [
+   "mat chroom",
+   "rood",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ BlendCup\\ drinkbekerset\\ 400\\ en\\ 700\\ ml\\ kunststof\\ grijs\\ 2\\-delig"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Set van twee blend- en drinkbekers (400 en 700 ml) voor gebruik met de Magimix Le Blender: smoothies blenden direct in de drinkbeker.",
+   "Beide bekers worden geleverd met een lekvrije drinkdeksel.",
+   "Kunststof, volledig BPA-vrij; de smalle onderkant past in bekerhouders, ook die van een auto.",
+   "Oog om de beker aan een tas te hangen.",
+   "Vaatwasmachinebestendig, maar handafwas komt de levensduur ten goede."
+  ],
+  "keys": [
+   "a676ecc0"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ blendermix\\ CS\\ 3200\\ XL",
+   "Magimix\\ blendermix\\ 3150/\\ 3200/\\ 3200\\ XL",
+   "Magimix\\ blendermix\\ 4200\\ XL/\\ 5200\\ \\(XL\\)"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Blendermix: kunststof ring die van de mengkom van de Magimix foodprocessor een blender maakt.",
+   "De ring klikt u aan de deksel van de foodprocessor; geschikt voor smoothies en sappen.",
+   "Past op de Magimix-modellen die in de productnaam staan (verschillende varianten per pagina).",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9b3a126b",
+   "821fa371",
+   "94f234ca"
+  ],
+  "requires": [
+   "blendermix"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ bolle\\ deksel\\ mengkom\\ 3200\\ kunststof\\ transparant"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante deksel van kunststof voor de Magimix 3200 foodprocessor (de bolle variant).",
+   "Reserveonderdeel of vervanging van de oude deksel; tegen spatten, met schacht om ingrediënten toe te voegen.",
+   "De duwer voor deze deksel is apart te bestellen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "dda808a6"
+  ],
+  "requires": [
+   "bolle variant"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ bolle\\ deksel\\ mengkom\\ 4200\\ /\\ 5200\\ kunststof\\ transparant"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante deksel van kunststof voor de Magimix 4200 en 5200 keukenmachine (de bolle variant).",
+   "Reserveonderdeel of vervanging van de oude deksel; wordt geleverd zonder duwer.",
+   "Tegen spatten, met schacht om ingrediënten toe te voegen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6ffba055"
+  ],
+  "requires": [
+   "bolle variant"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ deksel\\ Le\\ Micro\\ kunststof\\ transparant"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante kunststof deksel voor de Magimix Le Micro mini-hakker.",
+   "Reserveonderdeel of vervanging van de oude deksel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "827b9a6d"
+  ],
+  "requires": [
+   "Le Micro"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ deksel\\ mengkom\\ 3200\\ XL\\ kunststof\\ donkergrijs",
+   "Magimix\\ deksel\\ mengkom\\ 3200\\ XL\\ kunststof\\ rood",
+   "Magimix\\ deksel\\ mengkom\\ 3200\\ XL\\ kunststof\\ wit"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante kunststof deksel voor de Magimix 3200 XL keukenmachine; reserveonderdeel of vervanging van de oude deksel.",
+   "Extra brede schacht met kunststof locksysteem in de kleur van de Magimix foodprocessor (zie de kleur in de naam).",
+   "Wordt geleverd zonder duwer.",
+   "Let op: niet geschikt voor de nieuwe CS 3200 XL foodprocessor.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c2d3d471",
+   "df3c221d",
+   "8a3b1e10"
+  ],
+  "requires": [
+   "niet geschikt voor de nieuwe"
+  ],
+  "colours": [
+   "donkergrijs",
+   "rood",
+   "wit"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ deksel\\ mengkom\\ CS\\ 3200\\ XL\\ /\\ 4200\\ XL\\ /\\ 5200\\ XL\\ kunststof\\ donkergrijs",
+   "Magimix\\ deksel\\ mengkom\\ CS\\ 3200\\ XL\\ /\\ 4200\\ XL\\ /\\ 5200\\ XL\\ kunststof\\ rood",
+   "Magimix\\ deksel\\ mengkom\\ 4200\\ XL\\ /\\ 5200\\ XL\\ kunststof\\ wit"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante kunststof deksel voor de Magimix keukenmachines uit de productnaam; reserveonderdeel of vervanging van de oude deksel.",
+   "Extra brede schacht met kunststof locksysteem in de kleur van de Magimix foodprocessor (zie de kleur in de naam).",
+   "Wordt geleverd zonder duwer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4da51205",
+   "9a1f6b97",
+   "922bb03a"
+  ],
+  "requires": [
+   "locksysteem"
+  ],
+  "colours": [
+   "donkergrijs",
+   "rood",
+   "wit"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ deksel\\ mengkom\\ Le\\ Mini\\ /\\ Le\\ Mini\\ Plus\\ kunststof\\ transparant"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante kunststof deksel voor de Magimix Le Mini en Le Mini Plus keukenmachine.",
+   "Reserveonderdeel of vervanging van de oude deksel; wordt geleverd zonder duwer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8ea55920"
+  ],
+  "requires": [
+   "Le Mini"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ brede\\ juliënneschijf\\ 12\\ mm\\ 3200\\ \\(XL\\)\\ /\\ 4200\\ \\(XL\\)\\ /\\ 5200\\ \\(XL\\)\\ rvs\\ glans",
+   "Magimix\\ brede\\ julienneschijf\\ 6\\ mm\\ 3200\\ \\(XL\\)\\ /\\ 4200\\ \\(XL\\)\\ /\\ 5200\\ \\(XL\\)\\ serie"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Brede juliënneschijf van glanzend roestvrij staal voor Magimix foodprocessors van de 3200 (XL), 4200 (XL) en 5200 (XL) serie.",
+   "Snijdt brede reepjes van groenten zoals aardappel en appel.",
+   "Wilt u een rasp gebruiken met een Magimix foodprocessor van de types 2100, 3100, 4100 en 5100, dan heeft u de opzetas kort nodig.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3aff2cc3",
+   "6b0d0ee4"
+  ],
+  "requires": [
+   "brede ju"
+  ],
+  "mismatches": [
+   {
+    "topic": "Brede juliënneschijf: reepjes",
+    "websiteSays": "Eerste alinea: \"brede reepjes\"; vervolgtekst: \"snijden van harde groenten in smalle reepjes\"",
+    "note": "Tekst spreekt zichzelf tegen over breedte van de reepjes."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ juliënneschijf\\ 3200\\ \\(XL\\)\\ /\\ 4200\\ \\(XL\\)\\ /\\ 5200\\ \\(XL\\)\\ rvs\\ glans"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Juliënneschijf van glanzend roestvrij staal voor Magimix foodprocessors van de 3200 (XL), 4200 (XL) en 5200 (XL) serie.",
+   "Snijdt julienne van harde groenten, zoals ui en paprika.",
+   "Wilt u een rasp gebruiken met een Magimix foodprocessor van de types 2100, 3100, 4100 en 5100, dan heeft u de opzetas kort nodig.",
+   "Let op: de witte Magimix accessoires zijn uitlopend; de nieuwe producten komen in de kleur grijs.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e03cbcc3"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ gegolfde\\ plakjesschijf\\ 3200\\ \\(XL\\)\\ /\\ 4200\\ \\(XL\\)\\ /\\ 5200\\ \\(XL\\)\\ rvs\\ glans"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Gegolfde plakjesschijf van glanzend roestvrij staal voor Magimix foodprocessors van de 3200 (XL), 4200 (XL) en 5200 (XL) serie.",
+   "Snijdt groente en fruit, zoals aardappel en appel, snel en eenvoudig.",
+   "Wilt u een rasp gebruiken met een Magimix foodprocessor van de types 2100, 3100, 4100 en 5100, dan heeft u de opzetas kort nodig.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "638bed26"
+  ],
+  "mismatches": [
+   {
+    "topic": "Gegolfde plakjesschijf: tekst over raspschijf",
+    "websiteSays": "Vervolgtekst heet \"Magimix raspschijf\" en beschrijft het raspen van komkommer, aardappel en wortel",
+    "note": "Naam is een gegolfde plakjesschijf; de vervolgtekst gaat over een raspschijf."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ gemberrasp\\ 3200\\ \\(XL\\)\\ /\\ 4200\\ \\(XL\\)\\ /\\ 5200\\ \\(XL\\)\\ rvs\\ glans"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Gemberrasp van glanzend roestvrij staal voor Magimix foodprocessors van de 3200 (XL), 4200 (XL) en 5200 (XL) serie.",
+   "Raspt gember of mierikswortel tot een fijne pasta.",
+   "Wilt u de rasp gebruiken met een Magimix foodprocessor van de types 2100, 3100, 4100 en 5100, dan heeft u de opzetas kort nodig.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "eb9359be"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ brunoise\\ snijkit\\ XL\\ serie\\ 4\\-delig"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Brunoise snijkit voor de Magimix XL foodprocessors (3200 XL, 4200 XL, 5200 XL en Pâtissier): snijdt blokjes van 1 x 1 x 1 cm.",
+   "Snijdt een ruime sortering stevige tot harde groenten en fruit, zoals appel, aardappel, prei, meloen, kiwi en mango.",
+   "Onderdelen: grote aanduwer met snijrooster, kleine aanduwer met schoonmaakhulpstuk en plakjesschijf 10 mm; de 10 mm schijf is ook los te gebruiken voor plakken van 1 cm dik.",
+   "Harde groenten zoals winterpeen, pastinaak en knolselderij: kort voorkoken.",
+   "Alle onderdelen zijn vaatwasmachinebestendig; handafwas komt de levensduur ten goede."
+  ],
+  "keys": [
+   "4d51af90"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal delen",
+    "websiteSays": "Naam: \"4-delig\"; de tekst somt drie onderdelen op (grote aanduwer, kleine aanduwer, plakjesschijf 10 mm)",
+    "note": "Controleer wat het vierde deel is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ citruspers\\ voor\\ 3200\\ /\\ 3200\\ XL\\ kunststof\\ zwart",
+   "Magimix\\ citruspers\\ voor\\ CS\\ 3200\\ XL\\ /\\ 4200/\\ 4200\\ XL/\\ 5200/\\ 5200\\ XL"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kunststof citruspers voor op de Magimix foodprocessor (de pagina noemt de modellen in de naam).",
+   "Perst sap uit citroenen, limoenen of sinaasappels; het roterende opzetstuk perst meer sap uit de vruchten.",
+   "Twee verwisselbare opzetstukken voor grote en kleinere citrusvruchten.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a6ed4035",
+   "8da43c42"
+  ],
+  "requires": [
+   "opzetstukken"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Cook\\ Expert\\ foodprocessor\\ mat\\ chroom",
+   "Magimix\\ Cook\\ Expert\\ foodprocessor\\ rood"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cook Expert: foodprocessor met inductieverwarming (30 tot 140 °C), timer tot 2 uur; capaciteit 3,5 liter.",
+   "Geleverd met dubbelwandige stalen mengkom en drie kunststof kommen; met de stoommand kunt u ook groenten stomen.",
+   "Naast raspen en pureren ook soepen, stoofschotels, babyvoeding, puree, deeg en beslag; 12 automatische programma's en een Expert-modus om zelf te programmeren.",
+   "LCD-kleurenscherm; digitaal aangestuurde motor met 18 snelheden van 250 tot 6000 toeren per minuut.",
+   "Meertalige app (iOS en Android) met ruim 500 recepten en instructies."
+  ],
+  "keys": [
+   "573ab62e",
+   "4c5bb245"
+  ],
+  "requires": [
+   "Cook Expert"
+  ],
+  "colours": [
+   "mat chroom",
+   "rood"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Cook\\ Expert\\ XL\\ foodprocessor\\ mat\\ chroom"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cook Expert XL: foodprocessor met inductieverwarming; inhoud 4,8 liter, timer tot 2 uur.",
+   "Geleverd met dubbelwandige stalen mengkom en drie kunststof kommen; met de stoommand kunt u ook groenten stomen.",
+   "Naast raspen en pureren ook soepen, stoofschotels, babyvoeding, puree, deeg en beslag; 12 automatische programma's en een Expert-modus om zelf te programmeren.",
+   "LCD-kleurenscherm; digitaal aangestuurde motor met 18 snelheden van 250 tot 6000 toeren per minuut.",
+   "Meertalige app (iOS en Android) met ruim 500 recepten en instructies."
+  ],
+  "keys": [
+   "b1562e07"
+  ],
+  "requires": [
+   "Cook Expert XL"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Cook\\ Expert\\ XXL\\ stoomkoker\\ "
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cook Expert XXL stoomkoker: accessoire voor de Magimix Cook Expert, inhoud 5,5 liter.",
+   "Roestvrij staal met siliconen handgrepen; de stoomkoker is direct van de Cook Expert te nemen en op tafel te serveren.",
+   "Glazen deksel om de ingrediënten in de gaten te houden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ec832ecb"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Creatief\\ Koken\\ Kit\\ 3150/\\ 3200/\\ 4200/\\ 5200/\\ XL\\ serie\\ 3\\-delig"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Creatief Koken Kit (ook creative kit): drie schijven van roestvrij staal (julienne, extra brede julienne, gekarteld) met opbergdoos.",
+   "Snijdt groente en fruit, zoals aardappel en appel, in plakjes of reepjes; past op de Magimix series uit de naam.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "80fa921c"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ CS\\ 3200\\ XL\\ foodprocessor\\ kunststof\\ mat\\ chroom",
+   "Magimix\\ CS\\ 3200\\ XL\\ foodprocessor\\ kunststof\\ rood",
+   "Magimix\\ CS\\ 3200\\ XL\\ foodprocessor\\ kunststof\\ zwart"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": "Voor al uw werkzaamheden in de keuken.",
+  "bullets": [
+   "CS 3200 XL: multifunctionele keukenmachine met 3 mengkommen van 1,2 liter, 2,2 liter en 2,6 liter; vermogen 650 W; BPA-vrij kunststof.",
+   "De kleinste uit de Magimix foodprocessor familie, gemaakt in Frankrijk: maaltijden voor 4 à 5 personen.",
+   "Stille inductiemotor met 30 jaar garantie; 2 jaar garantie op de overige onderdelen.",
+   "Maar 3 knoppen: aan, uit en pulse. Thermische beveiliging; werkt alleen als mengkom en deksel vergrendeld zijn.",
+   "Bijgeleverd: blendermix, receptenboek, mini-hakmes in de kleine kom, groot stalen mes, deegmes, eiwitklopper, plakjesschijven 2 en 4 mm, raspschijven 2 en 4 mm, as voor de schijven, spatel en opbergdoos.",
+   "Losse accessoires zijn nog jarenlang verkrijgbaar."
+  ],
+  "keys": [
+   "4a6b328b",
+   "6691a3a1",
+   "7c9cb8e3"
+  ],
+  "requires": [
+   "kleinste telg"
+  ],
+  "colours": [
+   "mat chroom",
+   "rood",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ CS\\ 3200\\ XL\\ foodprocessor\\ zwart\\ \\+\\ citruspers"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": "Voor al uw werkzaamheden in de keuken.",
+  "bullets": [
+   "CS 3200 XL met citruspers, zwart: multifunctionele keukenmachine met 3 mengkommen van 1,2 liter, 2,2 liter en 2,6 liter; BPA-vrij kunststof.",
+   "De kleinste uit de Magimix foodprocessor familie, gemaakt in Frankrijk: maaltijden voor 4 à 5 personen.",
+   "Stille inductiemotor met 30 jaar garantie; 2 jaar garantie op de overige onderdelen.",
+   "Maar 3 knoppen: aan, uit en pulse. Thermische beveiliging; werkt alleen als mengkom en deksel vergrendeld zijn.",
+   "Bijgeleverd: blendermix, receptenboek, mini-hakmes in de kleine kom, groot stalen mes, deegmes, eiwitklopper, citruspers, plakjesschijven 2 en 4 mm, raspschijven 2 en 4 mm, as voor de schijven, spatel en opbergdoos.",
+   "Losse accessoires zijn nog jarenlang verkrijgbaar."
+  ],
+  "keys": [
+   "e9356251"
+  ],
+  "requires": [
+   "Citruspers."
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ duwer\\ XL\\ 3200\\ XL\\ /\\ 4200\\ XL\\ /\\ 5200\\ XL\\ kunststof\\ transparant\\ 2\\-delig"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Duwer voor de deksel van de Magimix XL keukenmachines (3200 XL, 4200 XL, 5200 XL): vervanging of reserve; 2-delig.",
+   "Brede duwer met smallere schacht en een smalle duwer die in die schacht past; de kleinere duwer is ook als maatbeker te gebruiken (300 ml).",
+   "De extra brede duwer is handig voor grote stukken fruit of groente zonder de deksel af te nemen.",
+   "Transparant kunststof; reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5a0b1e34"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ eiwitklopper\\ 3200\\ XL\\ kunststof",
+   "Magimix\\ eiwitklopper\\ 4200\\ XL\\ kunststof",
+   "Magimix\\ eiwitklopper\\ 5200\\ XL\\ kunststof",
+   "Magimix\\ eiwitklopper\\ 4200\\ kunststof\\ ",
+   "Magimix\\ eiwitklopper\\ 5200\\ kunststof"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Eiwitklopper van kunststof voor de Magimix foodprocessor (model in de naam).",
+   "Bestaat uit 4 delen: klopper, as, behuizing en een dekseltje dat de klopper stabiel houdt.",
+   "Voor het kloppen van eiwit, slagroom en mousse; aanvulling, vervanging of reserve.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "bc3e29e3",
+   "6b0a2e98",
+   "b2813f57"
+  ],
+  "requires": [
+   "eiwitklopper"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Extra\\ Press\\ CS\\ 3200\\ XL\\ /\\ 4200\\ XL\\ /\\ 5200\\ XL"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Extra Press voor de Magimix CS 3200 XL, 4200 XL en 5200 XL: kunststof en roestvrij staal.",
+   "Bevat een roestvrijstalen sapcentrifuge die vruchtvlees van het sap scheidt, plus een kunststof deksel, schaal en duwer.",
+   "Voor smoothies, sauzen en sappen van zachte en harde vruchten; nieuwe zeef met verwijderbare ring.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1e96e0d8"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Gelato\\ Expert\\ ijsmachine\\ 2\\ liter\\ grijs"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "ijsmachines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Gelato Expert: zelfvriezende ijsmachine, geen diepvries nodig (ingebouwde koelgroep); inhoud 2 liter, vermogen 180 W.",
+   "Maakt softijs, schepijs of granité; vijf aparte knoppen voor schroefblad, koelgroep en de bereidingen.",
+   "Twee ijsemmers (één vaste, één losse) met elk een schoep, zodat u direct een tweede bereiding kunt maken.",
+   "Transparante deksel; tijdens de bereiding kunt u ingrediënten zoals noten of chocolade toevoegen.",
+   "Geleverd met spatel en maatbeker. Reinig de ijsemmer na ontdooien met warm water en afwasmiddel; de behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "77d6d058"
+  ],
+  "requires": [
+   "zelfvriezende"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Juice\\ Expert\\ 3\\ sapcentrifuge\\ mat\\ chroom",
+   "Magimix\\ Juice\\ Expert\\ 3\\ zwart"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het persen van fruit en groenten tot sapjes, smoothies en het maken van plantaardige melk.",
+  "bullets": [
+   "Juice Expert 3: sapcentrifuge van 400 W met roestvrijstalen zeef en schijven; behuizing van kunststof en metaal.",
+   "Koude perstechnologie ColdPress: meer vitamines en mineralen blijven behouden en de oxidatie wordt beperkt.",
+   "Geleverd met sapfilter (voor stevige groenten en fruit, zoals wortel), citruspers (sap met of zonder vruchtvlees) en Extra Press XL (smoothies van harde en zachte groenten).",
+   "30 jaar garantie op de motor.",
+   "Behuizing reinigen met warm water en afwasmiddel; de verwijderbare onderdelen zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "061a2f46"
+  ],
+  "colours": [
+   "mat chroom",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Le\\ blender\\ mengkom\\ 1,8\\ liter\\ glas"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Glazen mengkan van 1,8 liter voor de Magimix Le Blender; ter vervanging of aanvulling op de huidige mengkom.",
+   "Met maataanduiding in cups, fl. oz, liters en pints.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "25ddd45d"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Le\\ Cuiseur\\ Vapeur\\ multifunctionele\\ stoomkoker\\ "
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "overig-klein-elektrisch"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Le Cuiseur Vapeur: roestvrijstalen multifunctionele stoomkoker met vier programma's en een timer: verse yoghurt, warmhouden, vis stomen en vlees en groenten stomen.",
+   "Twee stoomschalen waarmee u in 2 manden tegelijk stoomt, één met uitneembare bodem; multifunctionele kom voor het opwarmen van saus of rijst en het koken van rijst; in de onderste bodem zitten holtes voor eieren.",
+   "Warmhoudfunctie; geleverd met een glazen deksel en receptenboekje.",
+   "Vermogen 1900 W volgens de tekst.",
+   "Stoomschalen en deksel zijn vaatwasmachinebestendig; waterreservoir reinigen met een zachte spons en een beetje azijn."
+  ],
+  "keys": [
+   "dde866bb"
+  ],
+  "mismatches": [
+   {
+    "topic": "Vermogen",
+    "websiteSays": "Specificatie Vermogen: \"1900 W, 2100 W\"; tekst: \"vermogen 1900 W\"",
+    "note": "Controleer het vermogen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Le\\ Glacier\\ ijsmachine\\ 1,1\\ liter\\ kunststof\\ wit",
+   "Magimix\\ Le\\ Glacier\\ ijsmachine\\ 1,5\\ liter\\ kunststof\\ wit",
+   "Magimix\\ Le\\ Glacier\\ ijsmachine\\ 1,5\\ liter\\ kunststof\\ rood"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "ijsmachines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Le Glacier: ijsmachine voor room- en sorbetijs; behuizing van kunststof (kleur in de naam) en ijsemmer van roestvrij staal; vermogen 15 W.",
+   "De ijsemmer (zonder deksel en motor) minstens 12 uur rechtop in de diepvries plaatsen.",
+   "Machine in elkaar zetten, motor starten en de ijsbereiding via de vulopening gieten; na 20-30 minuten vers room- of sorbetijs.",
+   "Via de vulopening kunt u losse ingrediënten toevoegen, zoals chocolade, fruit of noten.",
+   "Enkele recepten in de gebruiksaanwijzing. Reinig deksel en ijskom na ontdooien met warm water en afwasmiddel; het motorblok met een vochtige doek."
+  ],
+  "keys": [
+   "df8f127f",
+   "01ef38e4"
+  ],
+  "requires": [
+   "Le Glacier"
+  ],
+  "colours": [
+   "wit",
+   "rood"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Le\\ Micro\\ mini\\-hakker\\ 0,8\\ liter\\ kunststof\\ mat\\ chroom",
+   "Magimix\\ Le\\ Micro\\ mini\\-hakker\\ 0,8\\ liter\\ kunststof\\ zwart",
+   "Magimix\\ Le\\ Micro\\ mini\\-hakker\\ 0,8\\ liter\\ rood"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": "Voor het fijn hakken, pureren en mengen van kleine hoeveelheden.",
+  "bullets": [
+   "Le Micro mini-hakker met mengkom van 0,8 liter; vermogen 290 W.",
+   "Geleverd met roestvrijstalen mes (hakwerk) en kunststof emulgeermes (mixen van sauzen), gebruiksaanwijzing en receptenboekje.",
+   "Tweeledige opening aan de bovenzijde om ingrediënten toe te voegen met draaiende motor, en een pulse-functie.",
+   "Mengkom vaatwasmachinebestendig; reinig de overige onderdelen met warm water en afwasmiddel of een vochtige doek."
+  ],
+  "keys": [
+   "c1a23033",
+   "87754bcc",
+   "bdd07a8a"
+  ],
+  "requires": [
+   "Le Micro"
+  ],
+  "colours": [
+   "mat chroom",
+   "zwart",
+   "rood"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ mengkom\\ 3200\\ /\\ 3200\\ XL\\ kunststof\\ rood",
+   "Magimix\\ mengkom\\ 3200\\ /\\ 3200\\ XL\\ kunststof\\ wit",
+   "Magimix\\ mengkom\\ 3200\\ /\\ 3200\\ XL\\ kunststof\\ zwart"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante kunststof mengkom met handgreep (kleur in de naam) voor de Magimix 3200 en 3200 XL foodprocessors.",
+   "Als extra kom, ter vervanging van een oude mengkom of als reserveonderdeel; zo wisselt u meerdere kommen voor meerdere bewerkingen.",
+   "Let op: niet geschikt voor de nieuwe CS 3200 XL foodprocessor.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "62c79a5d",
+   "e72bea32",
+   "57c6d479"
+  ],
+  "requires": [
+   "niet geschikt voor de nieuwe"
+  ],
+  "colours": [
+   "rood",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ mengkom\\ 4200\\ /\\ 4200\\ XL\\ kunststof\\ donkergrijs",
+   "Magimix\\ mengkom\\ 4200\\ /\\ 4200\\ XL\\ kunststof\\ rood",
+   "Magimix\\ mengkom\\ 5200\\ /\\ 5200\\ XL\\ kunststof\\ rood",
+   "Magimix\\ mengkom\\ 4200\\ /\\ 4200\\ XL\\ kunststof\\ wit",
+   "Magimix\\ mengkom\\ 5200\\ /\\ 5200\\ XL\\ kunststof\\ wit",
+   "Magimix\\ mengkom\\ 5200\\ /\\ 5200\\ XL\\ kunststof\\ zwart"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante kunststof mengkom met handgreep (kleur in de naam) voor de Magimix 4200 / 4200 XL of 5200 / 5200 XL foodprocessors (zie de naam).",
+   "Ter vervanging van een oude mengkom of als reserveonderdeel; zo wisselt u meerdere kommen voor meerdere bewerkingen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "76f5003e",
+   "34174c5e",
+   "2e1afe20",
+   "3e7560c0"
+  ],
+  "colours": [
+   "donkergrijs",
+   "rood",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ mengkom\\ CS\\ 3200\\ XL\\ kunststof\\ antraciet",
+   "Magimix\\ mengkom\\ CS\\ 3200\\ XL\\ kunststof\\ rood"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante kunststof mengkom met handgreep (kleur in de naam) voor de Magimix CS 3200 XL keukenmachine; inhoud 2,6 liter.",
+   "Reserveonderdeel of ter vervanging van de oude mengkom.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "09418a7a",
+   "6f66a154"
+  ],
+  "colours": [
+   "antraciet",
+   "rood"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ mengkom\\ Le\\ Micro\\ 800\\ ml\\ kunststof\\ donkergrijs"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante kunststof mengkom met donkergrijze handgreep voor de Magimix Le Micro mini-hakkers; inhoud 800 ml.",
+   "Als extra kom of ter vervanging van een oude mengkom.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e0d04030"
+  ],
+  "colours": [
+   "donkergrijs"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ midi\\ mengkom\\ 4200\\ XL\\ kunststof\\ transparant",
+   "Magimix\\ midi\\ mengkom\\ 5200\\ XL\\ kunststof\\ transparant"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Midi mengkom van transparant kunststof voor de Magimix 4200 XL of 5200 XL foodprocessor (zie de naam).",
+   "Plaats de kom in de grote kom; geschikt voor het raspen of snijden van fruit, groenten en kaas.",
+   "Ter aanvulling op of ter vervanging van de huidige midi mengkom.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "215017d5",
+   "aebbffaa"
+  ],
+  "mismatches": [
+   {
+    "topic": "Midi mengkom 5200 XL: specificatie",
+    "websiteSays": "Totale hoogte: 27570 (geen eenheid)",
+    "note": "Controleer de hoogte.",
+    "only": "Magimix midi mengkom 5200 XL kunststof transparant"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ mini\\ mengkom\\ 3200\\ \\(XL\\)\\ /\\ 4200\\ \\(XL\\)\\ /\\ 5200\\ \\(XL\\)\\ kunststof\\ transparant"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante mini mengkom van kunststof voor de Magimix 3200 (XL), 4200 (XL) en 5200 (XL) foodprocessors.",
+   "Plaats de kom in de grote mengkom om kleinere hoeveelheden te hakken en te snijden.",
+   "Als extra kom of ter vervanging van een oude mengkom.",
+   "Let op: past niet op de nieuwe CS 3200 XL foodprocessors.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a17a4fea"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Mini\\ Plus\\ foodprocessor\\ kunststof\\ mat\\ chroom",
+   "Magimix\\ Mini\\ Plus\\ foodprocessor\\ kunststof\\ rood"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Mini Plus: de kleinste complete keukenmachine van Magimix; kom van 1,7 liter, vermogen 400 W.",
+   "Inductiemotor van 400 Watt met 30 jaar garantie van Magimix.",
+   "Geleverd met mini kom, transparante kom, roestvrijstalen hakmes, blenderring, eiwitklopper, plakjesschijven 2 en 4 mm, spatel, citruspers en opbergdoos.",
+   "Mengkom vaatwasmachinebestendig; reinig de overige onderdelen met warm water en afwasmiddel of een vochtige doek."
+  ],
+  "keys": [
+   "d266da68",
+   "65eb7377"
+  ],
+  "requires": [
+   "Mini Plus"
+  ],
+  "colours": [
+   "mat chroom",
+   "rood"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Mini\\ plus\\ foodprocessor\\ kunststof\\ zwart"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Mini Plus: de kleinste complete keukenmachine van Magimix; kom van 1,7 liter, vermogen 400 W.",
+   "Inductiemotor van 400 Watt met 30 jaar garantie van Magimix.",
+   "Geleverd met mini kom, transparante kom, roestvrijstalen hakmes, blenderring, eiwitklopper, plakjesschijven 2 en 4 mm, spatel, citruspers en opbergdoos.",
+   "Mengkom vaatwasmachinebestendig; reinig de overige onderdelen met warm water en afwasmiddel of een vochtige doek."
+  ],
+  "keys": [
+   "8745cc09"
+  ],
+  "requires": [
+   "Mini Plus"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ minikom\\ voor\\ blender\\ 500\\ ml\\ glas\\ zwart"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Minikom van 500 ml (kunststof en glas) als accessoire voor de Magimix blender.",
+   "Roestvrijstalen mes voor het fijn snijden van kruiden zoals basilicum, munt of peterselie, en voor dipsauzen en pesto.",
+   "Reiniging op meerdere manieren: automatisch op de Magimix blender (water met enkele druppels afwasmiddel, 30 seconden op snelheid 3) of handmatig; de afzonderlijke kom is vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "b14e0e9c"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ ombouwset\\ voor\\ 3100\\ met\\ accessoires\\ 10\\-delig",
+   "Magimix\\ ombouwset\\ voor\\ 4100\\ met\\ accessoires\\ 10\\-delig",
+   "Magimix\\ ombouwset\\ voor\\ 5100\\ met\\ accessoires\\ 10\\-delig"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Ombouwset van 10 onderdelen voor de Magimix foodprocessor uit de productnaam (3100, 4100 of 5100): vervangt de bestaande onderdelen.",
+   "Magimix heeft de onderdelen van polycarbonaat vervangen door duurzamer Tritan; de onderdelen voor deze oude series zijn niet meer nieuw verkrijgbaar.",
+   "De set bestaat uit: grote mengkom, midi mengkom, mini mengkom, deksel, mini stalen mes, 2 duwers, eiwitklopper, opzetas, plakjesschijf 2 mm en raspschijf 2 mm.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4ff13cab",
+   "038a01a7",
+   "fe98f65a"
+  ],
+  "requires": [
+   "Tritan"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ opbergdoos\\ 4\\ schijven\\ kunststof\\ zwart",
+   "Magimix\\ opbergdoos\\ onderdelen\\ kunststof\\ zwart"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opbergdoos van zwart en transparant kunststof voor onderdelen van de Magimix foodprocessor.",
+   "Transparante deksel die de onderdelen beschermt tegen stof.",
+   "Verschillende uitvoeringen: voor het opbergen van 4 schijven of van alle standaard onderdelen van de Magimix foodprocessor (kijk naar de productnaam).",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3a9f1e00",
+   "a1e32518"
+  ],
+  "requires": [
+   "opbergdoos"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ opzetas\\ kort\\ schijven\\ 3200\\ /\\ 4200\\ /\\ 5200\\ kunststof"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opzetas (korte uitvoering, 10,5 cm) van wit kunststof voor de Magimix 3200, 4200 en 5200 keukenmachine met vlakke deksel.",
+   "Verlengstuk van de vaste as: nodig om de snij- en raspschijven te gebruiken. Plaats de as op de vaste as van de machine en de schijf erop.",
+   "N.B. Voor foodprocessors met een bolle deksel is de langere opzetas voor de XL uitvoeringen nodig.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "7baa44cb"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ opzetas\\ lang\\ schijven\\ 3200\\ XL\\ /\\ 4200\\ XL\\ /\\ 5200\\ XL\\ kunststof"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opzetas (lange uitvoering, 12,5 cm) van wit kunststof voor de Magimix 3200 XL, 4200 XL en 5200 XL keukenmachine.",
+   "Verlengstuk van de vaste as: nodig om de rasp- en plakjesschijven aan te drijven. Plaats de as op de vaste as van de machine en de schijf erop.",
+   "N.B. Voor foodprocessors met een vlakke deksel moet u de kortere opzetas voor de niet-XL uitvoeringen bestellen.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "4bbadd81"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ opzetas\\ le\\ mini\\ /\\ le\\ mini\\ plus\\ kunststof"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opzetas van wit kunststof voor de Magimix Le Mini en Le Mini Plus keukenmachine.",
+   "Verlengstuk van de vaste as om de draaischijven aan te drijven.",
+   "Let op: de witte Magimix accessoires zijn uitlopend; de nieuwe producten komen in de kleur grijs.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "2f9d38d8"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ parmezaanrasp\\ 3200\\ \\(XL\\)\\ /\\ 4200\\ \\(XL\\)\\ /\\ 5200\\ \\(XL\\)\\ rvs\\ glans"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Parmezaanrasp: glanzende schijf van roestvrij staal voor Magimix foodprocessors van de 3200 (XL), 4200 (XL) en 5200 (XL) serie.",
+   "Raspt parmezaanse kaas en chocolade en andere harde kazen.",
+   "Wilt u de rasp gebruiken met een Magimix foodprocessor van de types 2100, 3100, 4100 en 5100, dan heeft u de opzetas kort nodig.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "62058aa3"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ plakjesschijf\\ 2\\ mm\\ 3200\\ XL\\ /\\ 4200\\ XL\\ /\\ 5200\\ XL\\ staal\\ glans",
+   "Magimix\\ plakjesschijf\\ 4\\ mm\\ 3200\\ XL\\ /\\ 4200\\ XL\\ /\\ 5200\\ XL\\ staal\\ glans",
+   "Magimix\\ plakjesschijf\\ 6\\ mm\\ 3200\\ \\(XL\\)\\ /\\ 4200\\ \\(XL\\)\\ /\\ 5200\\ \\(XL\\)\\ serie"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Plakjesschijf (dikte in de naam) van roestvrij staal voor de Magimix foodprocessors van de 3200 XL, 4200 XL en 5200 XL serie.",
+   "Snijdt groente en fruit, zoals aardappel en appel, snel en eenvoudig in plakjes.",
+   "Wilt u de rasp gebruiken met een Magimix foodprocessor van de types 2100, 3100, 4100 en 5100, dan heeft u de opzetas kort nodig.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7e093810",
+   "2a9ae128"
+  ],
+  "requires": [
+   "plakjesschijf"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Power\\ Blender\\ 4\\ 1,8\\ liter\\ rvs\\ mat\\ chroom",
+   "Magimix\\ Power\\ Blender\\ 4\\ 1,8\\ liter\\ kunststof\\ rood",
+   "Magimix\\ Power\\ Blender\\ 4\\ 1,8\\ liter\\ rvs\\ zwart"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het malen van ijsblokken tot gestampt ijs, het mixen van fruit tot smoothies en het vermengen van ijssoorten tot desserts.",
+  "bullets": [
+   "Power Blender 4: 1300 W, glazen mengbeker van 1,8 liter; behuizing van roestvrij staal.",
+   "Vier standen plus pulseknop (tot 22.000 toeren per minuut; langzaamste stand 600), 8 snelheden en 4 programma's voor ijs, smoothies, soepen en desserts.",
+   "BlenderMix technologie: geoptimaliseerd ontwerp van messen en kom; ingrediënten worden gemengd zonder opgewarmd te worden.",
+   "Glazen kom met dikke, hittebestendige wand en maataanduiding (cups, fl. oz, liters, pints); lichtdichte deksel met dop met maatverdeling.",
+   "Automatisch reinigingsprogramma; de glazen mengkan is vaatwasmachinebestendig, de afneembare bodem en het mes reinigt u met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "cd9542fc",
+   "eaf98eca"
+  ],
+  "requires": [
+   "Power Blender"
+  ],
+  "colours": [
+   "mat chroom",
+   "rood",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Behuizing: rvs of kunststof",
+    "websiteSays": "Naam \"Power Blender 4 1,8 liter kunststof rood\"; de tekst zegt \"De behuizing ... is van roestvrij staal\"",
+    "note": "Controleer het materiaal van de rode uitvoering.",
+    "only": "Magimix Power Blender 4 1,8 liter kunststof"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Power\\ Blender\\ 3\\ 1,2\\ liter\\ rvs\\ mat\\ chroom"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het malen van ijsblokken tot gestampt ijs, het mixen van fruit tot smoothies en het vermengen van ijssoorten tot desserts.",
+  "bullets": [
+   "Power Blender 3: 1000 W, glazen mengbeker van 1,2 liter; behuizing van roestvrij staal.",
+   "Rotatiesnelheid van 600 tot 22.000 toeren per minuut, 5 snelheden en pulseknop voor ijs, smoothies, soepen en desserts.",
+   "BlenderMix technologie: geoptimaliseerd ontwerp van messen en kom; ingrediënten worden gemengd zonder opgewarmd te worden.",
+   "Glazen kom met dikke, hittebestendige wand en maataanduiding (cups, fl. oz, liters, pints); lichtdichte deksel met dop met maatverdeling.",
+   "Automatisch reinigingsprogramma; de glazen mengkan is vaatwasmachinebestendig, de afneembare bodem en het mes reinigt u met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "69b668c1"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Power\\ Blender\\ afdichtingsring\\ rubber\\ grijs"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Rubberen afdichtingsring voor de Magimix Power Blender: voor het weer goed afsluiten van de blender.",
+   "Reserveonderdeel."
+  ],
+  "keys": [
+   "b4597309"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal",
+    "websiteSays": "Specificatie Materiaal: \"kunststof\"; tekst: \"gemaakt van rubber\"",
+    "note": "Controleer het materiaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ rasp\\-\\ en\\ plakjesschijf\\ 2\\ mm\\ 3200\\ /\\ 4200\\ /\\ 5200\\ staal\\ glans",
+   "Magimix\\ rasp\\-\\ en\\ plakjesschijf\\ 4\\ mm\\ 3200\\ /\\ 4200\\ /\\ 5200\\ staal\\ glans"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Rasp- en plakjesschijf (dikte in de naam) van roestvrij staal voor de Magimix 3200, 4200 en 5200 serie.",
+   "Eén kant is voorzien van een schaaf die groente en fruit in plakjes snijdt; de andere kant raspt groente en fruit.",
+   "Wilt u de rasp gebruiken met een Magimix foodprocessor van de types 2100, 3100, 4100 en 5100, dan heeft u de opzetas kort nodig.",
+   "Let op: de witte Magimix accessoires zijn uitlopend; de nieuwe producten komen in de kleur grijs.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "39ddf020"
+  ],
+  "requires": [
+   "rasp- en plakjesschijf"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ raspschijf\\ 2\\ mm\\ 3200\\ XL\\ /\\ 4200\\ XL\\ /\\ 5200\\ XL\\ staal\\ glans"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Raspschijf van roestvrij staal voor de Magimix 3200 XL, 4200 XL en 5200 XL serie.",
+   "Raspt groente en fruit, zoals komkommer, aardappel en wortel (bijvoorbeeld voor salades).",
+   "Wilt u de rasp gebruiken met een Magimix foodprocessor van de types 2100, 3100, 4100 en 5100, dan heeft u de opzetas kort nodig.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "287ae49e"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ raspschijf\\ 4\\ mm\\ 3200\\ \\(XL\\)\\ /\\ 4200\\ \\(XL\\)\\ /\\ 5200\\ \\(XL\\)\\ rvs\\ glans",
+   "Magimix\\ raspschijf\\ 6\\ mm\\ 3200\\ \\(XL\\)\\ /\\ 4200\\ \\(XL\\)\\ /\\ 5200\\ \\(XL\\)\\ rvs\\ glans"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Grove rasp (dikte in de naam) van glanzend roestvrij staal voor Magimix foodprocessors van de 3200 (XL), 4200 (XL) en 5200 (XL) serie.",
+   "Raspt groenten en fruit in grove snippers.",
+   "Wilt u de rasp gebruiken met een Magimix foodprocessor van de types 2100, 3100, 4100 en 5100, dan heeft u de opzetas kort nodig.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "66c02dec"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Spiral\\ Expert\\ accessoire\\ voor\\ CS\\ 3200\\ XL,\\ 4200\\ XL,\\ 5200\\ XL,\\ Patissier\\ en\\ Cook\\ Expert"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Spiral Expert: accessoire voor de Magimix CS 3200 XL, 4200 XL, 5200 XL, Patissier en Cook Expert.",
+   "Maakt groentespaghetti, -tagliatelle of -fusilli (ook van fruit), bijvoorbeeld courgetti, worteltagliatelle of aardappelfusilli.",
+   "Geleverd met drie verschillende kegels in een houder; 5 delen; recepten en een handige app.",
+   "Plaats de Spiral Expert op de grote kom, kies de kegel; alle onderdelen zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "3cfdedf9"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ T190\\ snijmachine\\ ø\\ 19\\ cm\\ rvs"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "T190 snijmachine van roestvast staal en metaal, vermogen 150 W.",
+   "Gekarteld mes (ø 19 cm volgens de naam) voor vlees, groenten en brood; snijdt ook door harde korsten en delicate producten.",
+   "Verstelbare snijdikte van 0,1 tot 2,8 cm; extra brede slede voor producten tot 20 cm breed; slede is te vergrendelen voor opslag.",
+   "Antislipvoetjes en kinderbeveiliging: de machine werkt pas na het inschakelen van twee knoppen.",
+   "Reinigen met warm water en afwasmiddel; slede, opvangbak en mes zijn eenvoudig los te maken."
+  ],
+  "keys": [
+   "12814999"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ Vision\\ broodrooster\\ met\\ venster\\ rvs\\ mat",
+   "Magimix\\ Vision\\ broodrooster\\ met\\ venster\\ rvs\\ rood",
+   "Magimix\\ Vision\\ broodrooster\\ met\\ venster\\ rvs\\ zwart"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vision broodrooster van roestvrij staal met glazen venster, zodat u het roosteren kunt volgen; vermogen 1450 W.",
+   "Roostert met infrarood voor een egale bruining; 8 standen; toast volledig of enkelzijdig, ontdooit en verwarmt brood opnieuw.",
+   "1 sleuf waarin 2 broodjes tegelijk geroosterd kunnen worden; Bagelfunctie.",
+   "Bijgeleverd rekje om broodjes zoals croissants te verwarmen; uitneembare kruimellade.",
+   "Losse onderdelen reinigen met warm water en afwasmiddel; behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "d6e02a5c",
+   "a35c815a",
+   "730dd563"
+  ],
+  "requires": [
+   "Vision"
+  ],
+  "colours": [
+   "mat",
+   "rood",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Magimix\\ vlakke\\ deksel\\ 3200\\ kunststof\\ transparant"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Transparante kunststof deksel voor de Magimix 3200 keukenmachine (de vlakke variant).",
+   "Reserveonderdeel of vervanging van de oude deksel; tegen spatten, met schacht om ingrediënten toe te voegen.",
+   "De duwer voor deze deksel is apart te bestellen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c16abf10"
+  ],
+  "requires": [
+   "vlakke variant"
+  ]
+ }
+]

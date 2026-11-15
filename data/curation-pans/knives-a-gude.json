@@ -1,0 +1,2221 @@
+[
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ santoku\\ met\\ kuiltjes\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Santoku met kuiltjes uit de Güde Alpha Olive serie: handgesmeed lemmet van messenstaal van 18 cm; heft van olijfhout met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Santoku is Japans voor \"drie deugden\": geschikt voor het snijden van vlees, vis en groenten.",
+   "De kuiltjes in het lemmet voorkomen dat etenswaren aan het mes blijven plakken en zorgen voor minder wrijving en weerstand.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Olijfhouten heft: met de hand reinigen en zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "b5828ead"
+  ],
+  "brandName": "Güde",
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen"
+  ],
+  "mismatches": [
+   {
+    "topic": "Hardheid",
+    "websiteSays": "Specificaties: Hardheid 56 HRC; tekst: te harden tot 58 HRC.",
+    "note": "Controleer de hardheid van dit mes."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Delta\\ flexibel\\ fileermes\\ 21\\ cm\\ messenstaal"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het fileren van vlees of vis.",
+  "bullets": [
+   "Flexibel fileermes uit de Güde Delta serie, gemaakt van messenstaal; lemmet 20 cm, totale lengte 33,1 cm.",
+   "Voor het fileren van vlees of vis: het flexibele lemmet volgt de rondingen van het vlees en snijdt uiterst precies; u komt gemakkelijk in alle hoeken en langs het bot.",
+   "Door het scherpe messenstaal en de dubbele snede hoeft u bijna geen kracht te zetten.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2e5baf23"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 21 cm",
+    "websiteSays": "Naam: 21 cm; specificaties: Lengte lemmet 20 cm, Lengte 33,1 cm.",
+    "note": "Controleer de lengte van het lemmet."
+   },
+   {
+    "topic": "Materiaal handvat",
+    "websiteSays": "Tekst: handvat van ingelegd grenadille hout; specificaties: Pakkahout.",
+    "note": "Grenadille- of pakkahout? Controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Delta\\ koksmes\\ 16\\ cm\\ pakkahout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van groenten, vlees en vis.",
+  "bullets": [
+   "Koksmes uit de Güde Delta serie met een handgesmeed messenstalen lemmet van 16 cm; hardheid 58 HRC.",
+   "Klassiek gevormd lemmet, geschikt voor het snijden van groenten, vlees en vis.",
+   "Door de gebogen snede kan met een wiegende beweging worden gesneden: gecontroleerd en efficiënt werken, voor snijden, hakken en fijnsnijden.",
+   "De messen uit de Güde Delta serie worden traditioneel met de hand gesmeed in Solingen, Duitsland.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2bcdf7a9"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: pakkahout",
+    "websiteSays": "Naam: \"pakkahout\"; specificaties en tekst: grenadillehout.",
+    "note": "Controleer het heftmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Delta\\ tomatenmes\\ 13\\ cm\\ messenstaal"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van tomaten of worst.",
+  "bullets": [
+   "Tomatenmes uit de Güde Delta serie van messenstaal met een gekarteld lemmet van 13 cm; totale lengte 23,5 cm.",
+   "Voor het snijden van tomaten of worst: het gekartelde lemmet snijdt gemakkelijk door vruchten met een zachte binnenkant zoals tomaten of perziken.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9532ab07"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal handvat",
+    "websiteSays": "Tekst: handvat van ingelegd grenadille hout; specificaties: Pakkahout.",
+    "note": "Grenadille- of pakkahout? Controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Synchros\\ ergonomisch\\ koksmes\\ 14\\ cm"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van groenten, fruit en kleinere stukken vlees of vis.",
+  "bullets": [
+   "Ergonomisch koksmes uit de Güde Synchros serie met een lemmet van roestvrij messenstaal van 14 cm en een handvat van gerookt eikenhout; totale lengte 26 cm.",
+   "Compact, spits toelopend lemmet: geschikt voor het snijden van groenten, fruit en kleinere stukken vlees of vis.",
+   "Ontworpen voor veelzijdig gebruik: combineert eigenschappen van een koksmes en een universeel mes; geschikt voor nauwkeurig snijwerk.",
+   "Handvat en lemmet lopen vloeiend in elkaar over, zodat verschillende greepposities mogelijk zijn; de verhoogde positie van de hand zorgt voor meer controle en afstand tot de snijplank.",
+   "Uit één stuk gesmeed, met een licht convexe snede voor een stabiele snijbeweging.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "fae80baf"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ aanzetstaal\\ 26\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Aanzetstaal uit de Güde Alpha serie, 26 cm lang, met zwart kunststof heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Heeft hetzelfde heft als de messen uit de Alpha serie en past daarom bij een Güde messenset.",
+   "Voor het dagelijks onderhoud: het aanzetten zet de snede van het mes weer recht, zodat u makkelijker snijdt en het mes minder snel bot wordt.",
+   "Het mes wordt ongeveer 5 keer per kant langs het staal getrokken, onder een hoek van 20°.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet."
+  ],
+  "keys": [
+   "d9281fa9"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ broodmes\\ met\\ kartel\\ 21\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om eenvoudig brood met zachte en harde korsten, taart en cakes te snijden.",
+  "bullets": [
+   "Broodmes uit de Güde Alpha serie met een gekarteld, handgesmeed lemmet van messenstaal van 21 cm; zwart kunststof heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Snijdt eenvoudig brood met zachte en harde korsten, maar ook taart en cakes.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "2d703165"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ broodmes\\ met\\ kartel\\ 'Franz\\ Güde'\\ 32\\ cm\\ messenstaa"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodmes uit de Güde Alpha serie met een extra lang, gekarteld, handgesmeed lemmet van messenstaal van 32 cm; zwart kunststof heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Door het extra lange lemmet ook zeer geschikt voor gebruik in de bakkerij.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "26a924a4"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ 'Chai\\ Dao'\\ Chinees\\ koksmes\\ 16\\ cm\\ messenstaal\\ zwar"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Chai Dao (Chinees koksmes) uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 16 cm; zwart kunststof heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Traditionele Chinese mesvorm; het rechte lemmet snijdt zeer fijne groente julienne, er is genoeg ronding voor een wiegbeweging bij het fijnhakken van kruiden, gember of knoflook.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "74bec2fd"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ flexibel\\ fileermes\\ 18\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Flexibel fileermes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 18 cm; zwart kunststof heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Door de flexibiliteit kunt u het lemmet strak op de snijplank leggen voor uiterst dun en nauwkeurig fileren.",
+   "Extra smal lemmet dat dicht langs de graat fileren van rauwe en bereide vis makkelijk maakt.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "c156ffed"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ flexibel\\ uitbeenmes\\ 13\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Flexibel uitbeenmes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 13 cm; zwart kunststof heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Met het smalle lemmet snijdt u nauwkeurig vlees van botten af met minimaal verlies, maar kunt u ook vis fileren.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "29f77feb"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ groentemes\\ 9\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit en vlees voor in de keuken.",
+  "bullets": [
+   "Groentemes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 9 cm; zwart kunststof heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Voor het snijden van groenten, fruit en vlees voor in de keuken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen in een mild sop."
+  ],
+  "keys": [
+   "1ffc7ab7"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ koksmes\\ 16\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Koksmes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 16 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Het middellange lemmet is geschikt voor het snijden van kleinere hoeveelheden of kleine groenten, bijvoorbeeld sjalotten.",
+   "Door de hoogte van het lemmet verplaatst u de gesneden groenten ook makkelijk.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "931b539b"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ koksmes\\ 21\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Koksmes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 21 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Door de hoogte van het lemmet verplaatst u de gesneden groenten ook makkelijk.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "f085bfe2"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ koksmes\\ 26\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snel verwerken van grote hoeveelheden groente.",
+  "bullets": [
+   "Koksmes uit de Güde Alpha serie met een extra lang, handgesmeed lemmet van messenstaal van 26 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Met het extra lange lemmet verwerkt u snel grote hoeveelheden groente.",
+   "Door de hoogte van het lemmet verplaatst u de gesneden groenten ook makkelijk.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "a9148972"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ kruidenmes\\ 'haai'\\ 14\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om uitstekend verse kruiden te hakken.",
+  "bullets": [
+   "Kruidenmes \"haai\" uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 14 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "De vorm van het lemmet doet sterk denken aan de snuit van een haai; door de sterke ronding en het brede lemmet hakt u er uitstekend verse kruiden mee.",
+   "Net als bij een mezzaluna maakt u een wiegende beweging op de plank.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "2cafac44"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ messenset\\ zwart\\ 3\\-delig"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Driedelige messenset uit de Güde Alpha serie: koksmes en vleesmes van 21 cm en officemes van 10 cm.",
+   "Zwart kunststof heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "ba90e0a2"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ messenset\\ met\\ messenblok\\ 10\\-delig\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messenset met messenblok uit de Güde Alpha serie: 7 messen, 1 keukenschaar, een aanzetstaal en een houten messenblok.",
+   "Zwart kunststof heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "b10fa25f"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ messenset\\ met\\ messenblok\\ 8\\-delig"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messenset met messenblok uit de Güde Alpha serie: 5 messen, een aanzetstaal, een keukenschaar en een messenblok.",
+   "Zwart kunststof heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "ce066ba9"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ messenset\\ met\\ messenblok\\ zwart\\ 6\\-delig"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een complete set voor de meeste snijwerkzaamheden in de keuken.",
+  "bullets": [
+   "Messenset uit de Güde Alpha serie met een magnetisch messenblok en 5 handgesmede messen van messenstaal: koksmes, broodmes, vleesmes en 2 officemessen.",
+   "Een complete set voor de meeste snijwerkzaamheden in de keuken.",
+   "Zwart kunststof heft met een tweede bolster aan de achterzijde voor een goede balans; hardheid 58 HRC.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Zwarte Hostaform heftdelen: bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Vaatwasmachinebestendig; handafwas komt de levensduur en de scherpte van het mes ten goede."
+  ],
+  "keys": [
+   "b86e112b"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform",
+   "vaatwasmachinebestendig"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ aanzetstaal\\ 26\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Aanzetstaal uit de Güde Alpha Oak serie, 26 cm lang (totale lengte 38 cm), met eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Heeft hetzelfde eikenhouten heft als de messen uit de Alpha Oak serie en past daarom bij een Güde messenset.",
+   "Voor het dagelijks onderhoud: het aanzetten zet de snede van het mes weer recht, zodat u makkelijker snijdt en het mes minder snel bot wordt.",
+   "Het mes wordt ongeveer 5 keer per kant langs het staal getrokken, onder een hoek van 20°.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet."
+  ],
+  "keys": [
+   "a335133b"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ broodmes\\ 21\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om eenvoudig door de knapperige korst van brood te snijden.",
+  "bullets": [
+   "Broodmes uit de Güde Alpha Oak serie met een gekarteld, handgesmeed lemmet van messenstaal van 21 cm; totale lengte 33 cm.",
+   "Snijdt eenvoudig brood met zachte en harde korsten, maar ook taart en cakes.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel (de Alpha Oak met de hand)."
+  ],
+  "keys": [
+   "efba6538"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ broodmes\\ 'Franz\\ Güde'\\ 32\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ook zeer geschikt voor gebruik in de bakkerij.",
+  "bullets": [
+   "Broodmes uit de Güde Alpha Oak serie met een extra lang, gekarteld, handgesmeed lemmet van messenstaal van 32 cm.",
+   "Snijdt eenvoudig brood met zachte en harde korsten; door het extra lange lemmet ook zeer geschikt voor gebruik in de bakkerij.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel (de Alpha Oak met de hand)."
+  ],
+  "keys": [
+   "ef13c57c"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ 'Chai\\ Dao'\\ Chinees\\ koksmes\\ 16\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten en vlees.",
+  "bullets": [
+   "Chai Dao (Chinees koksmes) uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal van 16 cm; eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Het Chinees koksmes wordt vaak aangezien voor een slagersbijl, maar is veel dunner dan een hakbijl en bedoeld voor het snijden van groenten en vlees.",
+   "Door de rechte vorm van de snede leent het zich voor zeer fijne juliennes; met het brede lemmet kunt u gesneden groenten makkelijk opscheppen en verplaatsen.",
+   "Om het mes optimaal scherp te houden zet u het regelmatig aan op een aanzetstaal.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b2c57857"
+  ],
+  "requires": [
+   "wijngaarden"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ Chinees\\ koksmes\\ 18\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees en groenten tijdens de voorbereidingen bij het koken.",
+  "bullets": [
+   "Chinees koksmes uit de Güde Alpha Oak serie met een messenstalen lemmet van 18 cm lang en 8 cm hoog; totale lengte 31 cm.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Door de rechte vorm van de snede geschikt voor zeer fijne juliennes; met het brede lemmet kunt u gesneden groenten makkelijk opscheppen en verplaatsen.",
+   "Om het mes optimaal scherp te houden zet u het regelmatig aan op een aanzetstaal.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7672e15e"
+  ],
+  "requires": [
+   "wijngaarden"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ D'Artagnan\\ aanzetstaal\\ 44\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "D'Artagnan aanzetstaal uit de Güde Alpha Oak serie, 44 cm lang, met een eikenhouten heft dat doet denken aan een zwaard.",
+   "Heeft hetzelfde eikenhouten heft als de messen uit de Alpha Oak serie.",
+   "Voor het dagelijks onderhoud: het aanzetten zet de snede van het mes weer recht, zodat u makkelijker snijdt en het mes minder snel bot wordt.",
+   "Het mes wordt ongeveer 5 keer per kant langs het staal getrokken, onder een hoek van 20°.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet."
+  ],
+  "keys": [
+   "6e18fa7b"
+  ],
+  "mismatches": [
+   {
+    "topic": "Rest van de tekst",
+    "websiteSays": "Eerste alinea: \"Het Güde D'Artagnan aanzetstaal\"; vervolgtekst: \"Het Güde Alpha Oak aanzetstaal heeft hetzelfde eikenhouten heft als de messen uit de Alpha Oak serie\".",
+    "note": "Vervolgtekst is die van het gewone Alpha Oak aanzetstaal; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ flexibel\\ fileermes\\ 18\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het fileren van vis.",
+  "bullets": [
+   "Flexibel fileermes uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal van 18 cm; totale lengte 30 cm.",
+   "Door de flexibiliteit kunt u het lemmet strak op de snijplank leggen voor uiterst dun en nauwkeurig fileren; voor het fileren van vis.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "54364089"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ],
+  "mismatches": [
+   {
+    "topic": "Snedevorm",
+    "websiteSays": "Specificaties: Snedevorm kartel; tekst noemt geen kartel bij dit flexibele fileermes.",
+    "note": "Controleer de snedevorm."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ flexibel\\ uitbeenmes\\ 13\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om vlees uit te benen.",
+  "bullets": [
+   "Flexibel uitbeenmes uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal van 13 cm; totale lengte 26,5 cm.",
+   "Met het smalle flexibele lemmet snijdt u nauwkeurig vlees van botten af, maar kunt u ook vis fileren.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "970d5629"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ kaasmes\\ 15\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om kaas te snijden.",
+  "bullets": [
+   "Kaasmes met microkartel uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal van 15 cm; totale lengte 25 cm.",
+   "De uitsparingen in het mes zorgen ervoor dat (jonge) kaas tijdens het snijden niet aan het lemmet blijft plakken.",
+   "Met de puntjes aan het uiteinde van het lemmet legt u blokjes kaas gemakkelijk op een bord.",
+   "Heft van 80-jarig eikenhout met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e3a75155"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ koks\\-\\ en\\ kaasmes\\ 10\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, vlees en vis; ook goed te gebruiken als kaasmes voor harde kazen.",
+  "bullets": [
+   "Koks- en kaasmes uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal van 10 cm; totale lengte 22,5 cm.",
+   "Met het koksmes snijdt u groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+   "Dankzij het korte lemmet kunt u veel kracht zetten: het mes is daardoor ook goed te gebruiken als kaasmes voor harde kazen.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "bbaa4861"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ koksmes\\ 16\\ cm\\ eikenhout",
+   "Güde\\ Alpha\\ Oak\\ koksmes\\ 21\\ cm\\ eikenhout",
+   "Güde\\ Alpha\\ Oak\\ koksmes\\ 26\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Koksmes uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal; lengte lemmet staat in de productnaam.",
+   "Met het koksmes snijdt u groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e4147cc8"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst \"extra lange lemmet\"",
+    "websiteSays": "De tekst die voor de 16, 21 en 26 cm koksmessen gelijk is zegt: \"Met het extra lange lemmet verwerkt u snel grote hoeveelheden groente\".",
+    "note": "Dit past alleen bij de langste maat; bij de kleinere maten niet aan de klant doorgeven zonder controle."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ kruidenmes\\ 'haai'\\ 14\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het hakken van verse kruiden.",
+  "bullets": [
+   "Kruidenmes \"haai\" uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal van 14 cm; totale lengte 26,5 cm.",
+   "De vorm van het lemmet doet sterk denken aan de snuit van een haai; door de sterke ronding en het brede lemmet hakt u er uitstekend verse kruiden mee.",
+   "Net als bij een mezzaluna maakt u een wiegende beweging op de plank.",
+   "Heft van 80-jarig eikenhout met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a77494eb"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ officemes\\ 10\\ cm\\ eikenhout",
+   "Güde\\ Alpha\\ Oak\\ officemes\\ 13\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van kleine hoeveelheden groenten, vlees en vis.",
+  "bullets": [
+   "Officemes uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal; lengte lemmet staat in de productnaam.",
+   "Met het officemes bereidt u groenten, fruit en vlees voor in de keuken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "366f8cce"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ officemes\\ 9\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van kleine hoeveelheden groenten, vlees en vis.",
+  "bullets": [
+   "Officemes uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal van 9 cm; totale lengte 20 cm.",
+   "Met het officemes bereidt u groenten, fruit en vlees voor in de keuken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "67d9db96"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ Porterhouse\\ steakmes\\ 12,5\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van bereid vlees aan tafel.",
+  "bullets": [
+   "Porterhouse steakmes uit de Güde Alpha Oak serie met een handgesmeed messenstalen lemmet van 12,5 cm; totale lengte 24 cm.",
+   "Door de ronde vorm van het lemmet maakt het mes slechts beperkt contact met borden, waardoor de snede lang haar scherpte zou behouden.",
+   "Robuuster, daardoor beter geschikt voor grote stukken vlees, Porterhouse steaks en T-bones.",
+   "Heft van 80-jarig eikenhout met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c5c8b932"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ 'Porterhouse'\\ steakmes\\ zonder\\ kartel\\ 12\\ cm\\ messenstaal\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van bereid vlees aan tafel.",
+  "bullets": [
+   "Porterhouse steakmes zonder kartel uit de Güde Alpha Oak serie met een handgesmeed messenstalen lemmet van 12,5 cm (spec: 12 cm); totale lengte 21,5 cm.",
+   "Deze gladde editie heeft geen kartel, waardoor de structuur van het vlees niet kapot getrokken wordt bij het snijden.",
+   "Door de ronde vorm van het lemmet maakt het mes slechts beperkt contact met borden; robuuster, dus beter geschikt voor grote stukken vlees, Porterhouse steaks en T-bones.",
+   "Heft van 80-jarig eikenhout met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "87049dfa"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lemmetlengte",
+    "websiteSays": "Naam en specificaties: 12 cm; tekst: lemmet van 12,5 cm.",
+    "note": "Afronding; controleer indien nodig."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ Santokumes\\ met\\ kuiltjes\\ 18\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Santokumes met kuiltjes uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal van 18 cm; totale lengte 31 cm.",
+   "Santoku is Japans voor \"drie deugden\": geschikt voor het snijden van vlees, vis en groenten.",
+   "De kuiltjes in het lemmet zorgen voor minder wrijving en weerstand tijdens het snijden.",
+   "Heft van 80-jarig eikenhout met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "abb94421"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ steakmes\\ 12\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van bereid vlees aan tafel.",
+  "bullets": [
+   "Steakmes uit de Güde Alpha Oak serie met een handgesmeed messenstalen lemmet van 12 cm; totale lengte 22,5 cm.",
+   "Door de ronde vorm van het lemmet maakt het mes slechts beperkt contact met borden, waardoor de snede lang haar scherpte zou behouden.",
+   "Heft van 80-jarig eikenhout met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "66b71806"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ tourneermes\\ 6\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en tourneren van groenten en fruit.",
+  "bullets": [
+   "Tourneermes uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal van 6 cm; totale lengte 18 cm.",
+   "Voor het schillen en tourneren van groenten en fruit, het tonvormig snijden van wortelgroenten; dankzij de holle vorm van het lemmet schilt u zeer dun.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6a132f7a"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ vleesmes\\ 16\\ cm\\ eikenhout",
+   "Güde\\ Alpha\\ Oak\\ vleesmes\\ 21\\ cm\\ eikenhout",
+   "Güde\\ Alpha\\ Oak\\ vleesmes\\ 26\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van rauw vlees, en voor het snijden of trancheren van gaar vlees.",
+  "bullets": [
+   "Vleesmes uit de Güde Alpha Oak serie met een handgesmeed lemmet van messenstaal; lengte lemmet staat in de productnaam.",
+   "De relatief rechte vorm van het lemmet maakt dat u er netjes gaar vlees mee kunt snijden of trancheren; ook voor het snijden van rauw vlees.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5d1147e3"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ worst\\-\\ en\\ tomatenmes\\ 13\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden door producten met een taai vel, zoals worst en tomaten.",
+  "bullets": [
+   "Worst- en tomatenmes uit de Güde Alpha Oak serie met een gekarteld, handgesmeed lemmet van messenstaal van 13 cm; totale lengte 22,5 cm.",
+   "De kartels \"bijten\" eenvoudig door de taaie buitenkant van worst of het vel van tomaten: u snijdt eenvoudig plakjes van zelfs de droogste worsten en rijpste tomaat.",
+   "Eikenhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Heft van eikenhout (afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk), aan weerszijden van de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d49cf927"
+  ],
+  "requires": [
+   "wijngaarden",
+   "chroom-vanadium-molybdeen"
+  ],
+  "mismatches": [
+   {
+    "topic": "Snedevorm",
+    "websiteSays": "Specificaties: Snedevorm glad; tekst: gekarteld lemmet.",
+    "note": "Controleer de snedevorm."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ zakmes\\ 10\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor al uw snijtaken onderweg.",
+  "bullets": [
+   "Zakmes uit de Güde Alpha Oak serie van eikenhout en messenstaal; ingeklapt 10 cm lang (totale lengte 17,5 cm).",
+   "Voorzien van een mes, een flessenopener en een kurkentrekker.",
+   "Wordt geleverd in een metalen opbergblikje.",
+   "Het hout is afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4237d512"
+  ],
+  "requires": [
+   "wijngaarden"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Oak\\ zakmes\\ met\\ vork\\ 10\\ cm\\ eikenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor al uw snijtaken onderweg.",
+  "bullets": [
+   "Zakmes met vork uit de Güde Alpha Oak serie van eikenhout en messenstaal; ingeklapt 10 cm lang (totale lengte 17,5 cm).",
+   "Voorzien van een mes, een vork, een flessenopener en een kurkentrekker.",
+   "Wordt geleverd in een metalen opbergblikje.",
+   "Het hout is afkomstig van wijngaarden en minstens 80 jaar oud; zeer sterk.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1341627c"
+  ],
+  "requires": [
+   "wijngaarden"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ officemes\\ 10\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit en vlees voor in de keuken.",
+  "bullets": [
+   "Officemes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 10 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Het officemes is het universele keukenmes van Güde Alpha.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "3574732f"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ officemes\\ 13\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om groenten, fruit en vlees voor te bereiden in de keuken.",
+  "bullets": [
+   "Officemes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 13 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Het officemes is het universele keukenmes van Güde Alpha.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "bd382e03"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ aanzetstaal\\ 26\\ cm\\ messenstaal\\ bruin"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Aanzetstaal uit de Güde Alpha Olive serie, 26 cm lang, met olijfhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Heeft hetzelfde olijfhouten heft als de messen uit de Alpha Olive serie.",
+   "Voor het dagelijks onderhoud: het aanzetten zet de snede van het mes weer recht, zodat u makkelijker snijdt en het mes minder snel bot wordt.",
+   "Het mes wordt ongeveer 5 keer per kant langs het staal getrokken, onder een hoek van 20°.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet."
+  ],
+  "keys": [
+   "3e623ec4"
+  ],
+  "colours": [
+   "bruin"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ broodmes\\ 21\\ cm\\ messenstaal\\ olijfhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om eenvoudig brood met zachte en harde korsten, taart en cakes te snijden.",
+  "bullets": [
+   "Broodmes uit de Güde Alpha Olive serie met een gekarteld, handgesmeed lemmet van messenstaal van 21 cm; olijfhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Snijdt eenvoudig brood met zachte en harde korsten, maar ook taart en cakes.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "38040727"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ broodmes\\ 'Franz\\ Güde'\\ 32\\ cm\\ messenstaal\\ oli"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ook zeer geschikt voor gebruik in de bakkerij.",
+  "bullets": [
+   "Broodmes \"Franz Güde\" uit de Güde Alpha Olive serie met een extra lang, gekarteld, handgesmeed lemmet van messenstaal van 32 cm; olijfhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Snijdt eenvoudig brood met zachte en harde korsten; door het extra lange lemmet ook zeer geschikt voor gebruik in de bakkerij.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "a1c756f3"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ 'Chai\\ Dao'\\ Chinees\\ koksmes\\ 16\\ cm\\ olijfhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten en vlees.",
+  "bullets": [
+   "Chai Dao (Chinees koksmes) uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal van 16 cm; totale lengte 31,4 cm; olijfhouten heft met een tweede bolster aan de achterzijde voor een goede balans.",
+   "Het Chinees koksmes wordt vaak aangezien voor een slagersbijl, maar is veel dunner dan een hakbijl en bedoeld voor het snijden van groenten en vlees.",
+   "Door de rechte vorm van de snede leent het zich voor zeer fijne juliennes; met het brede lemmet kunt u gesneden groenten makkelijk opscheppen en verplaatsen.",
+   "Het olijfhout is afkomstig van bomen tot wel 500 jaar oud en is goed bestand tegen verwering.",
+   "Om het mes optimaal scherp te houden zet u het regelmatig aan op een aanzetstaal.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "04ecf3f0"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ],
+  "mismatches": [
+   {
+    "topic": "Hardheid",
+    "websiteSays": "Specificaties: Hardheid 56 HRC; tekst: te harden tot 58 HRC.",
+    "note": "Controleer de hardheid van dit mes."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ flexibel\\ fileermes\\ 18\\ cm\\ messenstaal\\ olijfh"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Flexibel fileermes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal van 18 cm; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Door de flexibiliteit kunt u het lemmet strak op de snijplank leggen voor uiterst dun en nauwkeurig fileren.",
+   "Extra smal lemmet dat dicht langs de graat fileren van rauwe en bereide vis makkelijk maakt.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "f240af8d"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ flexibel\\ uitbeenmes\\ 13\\ cm\\ messenstaal\\ olijf"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Flexibel uitbeenmes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal van 13 cm; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Met het smalle lemmet snijdt u nauwkeurig vlees van botten af met minimaal verlies, maar kunt u ook vis fileren.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "2afa6bf9"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ]
+ },
+ {
+  "match": [
+   "Alpha\\ Olive\\ koksmes\\ klein\\ 10\\ cm"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Klein koksmes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal van 10 cm; totale lengte 22,5 cm; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Door de hoogte van het lemmet verplaatst u de gesneden groenten ook makkelijk.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "e54138c1"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam zonder merk, lengte",
+    "websiteSays": "Productnaam \"Alpha Olive koksmes klein 10 cm\" (zonder \"Güde\"); specificaties: Lengte 12,0 cm, Lengte lemmet 10 cm, Totale lengte 22,5 cm.",
+    "note": "Controleer de lengte-opgaven."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ koksmes\\ 16\\ cm\\ messenstaal\\ bruin"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis, en van kleinere hoeveelheden of kleine groenten, bijvoorbeeld sjalotten.",
+  "bullets": [
+   "Koksmes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal van 16 cm; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Het middellange lemmet is geschikt voor het snijden van kleinere hoeveelheden of kleine groenten, bijvoorbeeld sjalotten.",
+   "Door de hoogte van het lemmet verplaatst u de gesneden groenten ook makkelijk.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "a400dea6"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ],
+  "colours": [
+   "bruin"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ koksmes\\ 21\\ cm\\ messenstaal\\ bruin"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Koksmes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Door de hoogte van het lemmet verplaatst u de gesneden groenten ook makkelijk.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "2fb56595"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ],
+  "colours": [
+   "bruin"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lemmetlengte",
+    "websiteSays": "Naam en specificaties: 21 cm; tekst: lemmet van 20 cm.",
+    "note": "Controleer de lemmetlengte (21 of 20 cm)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ koksmes\\ 26\\ cm\\ messenstaal\\ bruin"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snel verwerken van grote hoeveelheden groente.",
+  "bullets": [
+   "Koksmes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Met het extra lange lemmet verwerkt u snel grote hoeveelheden groente.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "68306ca3"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ],
+  "colours": [
+   "bruin"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lemmetlengte",
+    "websiteSays": "Naam en specificaties: 26 cm; tekst: lemmet van 20 cm.",
+    "note": "Controleer de lemmetlengte (26 of 20 cm)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ officemes\\ 10\\ cm\\ messenstaal\\ olijfhout",
+   "Güde\\ Alpha\\ Olive\\ officemes\\ 13\\ cm\\ messenstaal\\ olijfhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om groenten, fruit en vlees voor te bereiden in de keuken.",
+  "bullets": [
+   "Officemes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal; lengte lemmet staat in de productnaam; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Het officemes is het universele keukenmes van Güde Alpha.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "7743e28d"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ officemes\\ 9\\ cm\\ olijfhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit en vlees voor in de keuken.",
+  "bullets": [
+   "Officemes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal van 9 cm; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Het officemes is het universele keukenmes van Güde Alpha.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "458097d4"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ Santoku\\ mes\\ 14\\ cm\\ messenstaal\\ bruin",
+   "Güde\\ Alpha\\ Olive\\ Santoku\\ mes\\ 18\\ cm\\ messenstaal\\ bruin"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Santoku mes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal; lengte lemmet staat in de productnaam; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Santoku is Japans voor \"drie deugden\": geschikt voor het snijden van vlees, vis en groenten.",
+   "De kuiltjes in het lemmet zorgen voor minder wrijving en weerstand tijdens het snijden.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "2fca29bb"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ],
+  "colours": [
+   "bruin"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ tourneermes\\ 6\\ cm\\ messenstaal\\ olijfhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en tourneren, het tonvormig snijden, van wortelgroenten van groenten en fruit.",
+  "bullets": [
+   "Tourneermes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal van 6 cm; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Voor het schillen en tourneren, het tonvormig snijden, van wortelgroenten van groenten en fruit; dankzij het snavelvormige lemmet schilt u zeer dun.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "b940c3d4"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ uitbeenmes\\ 16\\ cm\\ messenstaal\\ olijfhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Uitbeenmes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal van 16 cm; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Met het smalle lemmet snijdt u nauwkeurig vlees van botten af met minimaal verlies, maar kunt u ook vis fileren.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "22c0b357"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ vleesmes\\ 16\\ cm\\ messenstaal\\ olijfhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om rauw of bereid vlees netjes te snijden of te trancheren.",
+  "bullets": [
+   "Vleesmes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal van 16 cm; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Relatief rechte vorm en geringe hoogte van het lemmet: u kunt rauw of bereid vlees netjes snijden of trancheren.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "5df51be3"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ vleesmes\\ 21\\ cm\\ messenstaal\\ bruin"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om rauw of bereid vlees netjes te snijden of te trancheren.",
+  "bullets": [
+   "Vleesmes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal van 21 cm; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "De relatief rechte vorm van het lemmet maakt dat u netjes gaar vlees kunt snijden of trancheren.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "3c98d0e1"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ],
+  "colours": [
+   "bruin"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ vleesmes\\ 26\\ cm\\ messenstaal\\ bruin"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om rauw of bereid vlees netjes te snijden of te trancheren; met de extra lengte ook grotere stukken vlees.",
+  "bullets": [
+   "Vleesmes uit de Güde Alpha Olive serie met een handgesmeed lemmet van messenstaal; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "De relatief rechte vorm van het lemmet maakt dat u netjes gaar vlees kunt snijden of trancheren; met de extra lengte kunt u ook grotere stukken vlees aan.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "8e6e7002"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ],
+  "colours": [
+   "bruin"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lemmetlengte",
+    "websiteSays": "Naam en specificaties: 26 cm; tekst: \"lemmet van 16 cm\" en \"extra lengte van 26 cm\".",
+    "note": "Controleer de lemmetlengte (16 of 26 cm)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ vleesvork\\ 18\\ cm\\ messenstaal\\ bruin"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het uit de pan nemen van vlees en bij het voorsnijden en serveren ervan.",
+  "bullets": [
+   "Vleesvork uit de Güde Alpha Olive serie met tanden van 18 cm, handgesmeed uit messenstaal; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "Voor het uit de pan nemen van vlees en bij het voorsnijden en serveren ervan.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "c7acf765"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ],
+  "colours": [
+   "bruin"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Olive\\ worst\\-\\ /\\ tomatenmes\\ 13\\ cm\\ messenstaal\\ olijf"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Worst- en tomatenmes uit de Güde Alpha Olive serie met een gekarteld, handgesmeed lemmet van messenstaal van 13 cm; olijfhouten heft met een tweede bolster voor een goede balans.",
+   "De kartels \"bijten\" eenvoudig door de taaie buitenkant van worst of het vel van tomaten: u snijdt eenvoudig nette plakjes van zelfs de droogste worsten en rijpste tomaat.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Met de hand reinigen en het olijfhouten heft zo nu en dan met olie inwrijven voor een langere levensduur."
+  ],
+  "keys": [
+   "e144986a"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "olijfhout"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ Santoku\\ mes\\ 14\\ cm\\ messenstaal\\ zwart",
+   "Güde\\ Alpha\\ Santoku\\ mes\\ 18\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Santoku mes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal; lengte lemmet staat in de productnaam; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Santoku is Japans voor \"drie deugden\": geschikt voor het snijden van vlees, vis en groenten.",
+   "De kuiltjes in het lemmet zorgen voor minder wrijving en weerstand tijdens het snijden.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "68d875c5"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ steakmes\\ 12\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees aan tafel.",
+  "bullets": [
+   "Steakmes uit de Güde Alpha serie met een handgesmeed messenstalen lemmet van 12 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Door de ronde vorm van het lemmet maakt het mes slechts beperkt contact met borden, waardoor de snede lang haar scherpte zou behouden.",
+   "Voor optimaal snijplezier regelmatig aanzetten op een aanzetstaal.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "83c8a7a4"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ tourneermes\\ 6\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en tourneren, het tonvormig snijden, van wortelgroenten van groenten en fruit.",
+  "bullets": [
+   "Tourneermes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 6 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Voor het schillen en tourneren, het tonvormig snijden, van wortelgroenten van groenten en fruit; dankzij het snavelvormige lemmet schilt u zeer dun.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "7ed9cced"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ uitbeenmes\\ 16\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Uitbeenmes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 16 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Met het smalle lemmet snijdt u nauwkeurig vlees van botten af met minimaal verlies, maar kunt u ook vis fileren.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "d49a82a0"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ vleesmes\\ 16\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om rauw of bereid vlees netjes te snijden of te trancheren.",
+  "bullets": [
+   "Vleesmes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 16 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Relatief rechte vorm en geringe hoogte van het lemmet: u kunt rauw of bereid vlees netjes snijden of trancheren.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "f48e787a"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ vleesmes\\ 21\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om rauw of bereid vlees netjes te snijden of te trancheren.",
+  "bullets": [
+   "Vleesmes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 21 cm; zwart kunststof heft met een tweede bolster voor een goede balans bij het snijden van rauw of bereid vlees.",
+   "Relatief rechte vorm en geringe hoogte van het lemmet: u kunt rauw of bereid vlees netjes snijden of trancheren.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "7531b11a"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ vleesmes\\ 26\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om rauw of bereid vlees netjes te snijden of te trancheren; met de extra lengte ook grotere stukken vlees.",
+  "bullets": [
+   "Vleesmes uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 26 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Relatief rechte vorm en geringe hoogte van het lemmet; met de extra lengte van 26 cm kunt u ook grotere stukken vlees aan.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "f5aee0c0"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ vleesvork\\ 18\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het uit de pan nemen van vlees en bij het voorsnijden en serveren ervan.",
+  "bullets": [
+   "Vleesvork uit de Güde Alpha serie met tanden van 18 cm, handgesmeed uit messenstaal; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Voor het uit de pan nemen van vlees en bij het voorsnijden en serveren ervan.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "b101f157"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ worst\\-\\ en\\ tomatenmes\\ 13\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Worst- en tomatenmes uit de Güde Alpha serie met een gekarteld, handgesmeed lemmet van messenstaal van 13 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "De kartels \"bijten\" eenvoudig door de taaie buitenkant van worst of het vel van tomaten: u snijdt eenvoudig nette plakjes van zelfs de droogste worsten en rijpste tomaat.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "9f0df8f6"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ Alpha\\ zalmmes\\ 32\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om een hele zij zalm te trancheren of te fileren; ook voor flinterdunne plakjes gekookte ham.",
+  "bullets": [
+   "Zalmmes (ham-/zalmmes) uit de Güde Alpha serie met een handgesmeed lemmet van messenstaal van 32 cm; zwart kunststof heft met een tweede bolster voor een goede balans.",
+   "Met het extra lange lemmet snijdt u ook de grootste zalmen in flinterdunne plakjes: u trancheert of fileert een hele zij zalm.",
+   "Ook bedoeld voor het snijden van flinterdunne plakjes gekookte ham.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC, zodat het mes zijn scherpte langdurig vasthoudt en toch goed te slijpen is.",
+   "Alpha Black: zwarte Hostaform heftdelen, bestand tegen temperatuurwisselingen, zuren uit voedsel en schoonmaakmiddelen.",
+   "Met de hand reinigen in een mild sopje (bij Alpha Black verlengt dat de levensduur en behoudt het de scherpte)."
+  ],
+  "keys": [
+   "cf9bc99d"
+  ],
+  "requires": [
+   "met de hand gemaakt",
+   "chroom-vanadium-molybdeen",
+   "Hostaform"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ D'Artagnan\\ aanzetstaal\\ 44\\ cm\\ olijfhout\\ bruin"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "D'Artagnan aanzetstaal van Güde, 44 cm lang, met een olijfhouten heft dat doet denken aan een zwaard.",
+   "Voor het dagelijks onderhoud: het aanzetten zet de snede van het mes weer recht, zodat u makkelijker snijdt en het mes minder snel bot wordt.",
+   "Het mes wordt ongeveer 5 keer per kant langs het staal getrokken, onder een hoek van 20°.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet."
+  ],
+  "keys": [
+   "c749aa8e"
+  ],
+  "colours": [
+   "bruin"
+  ],
+  "mismatches": [
+   {
+    "topic": "Rest van de tekst",
+    "websiteSays": "Eerste alinea: \"Het Güde D'Artagnan aanzetstaal\"; vervolgtekst: \"Het Güde Alpha Olive aanzetstaal heeft hetzelfde olijfhouten heft als de messen uit de Alpha Olive serie\".",
+    "note": "Vervolgtekst is die van het gewone Alpha Olive aanzetstaal; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ schilmes\\ 7\\ cm\\ carbonstaal"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen van hardere soorten groenten en fruit, zoals appels.",
+  "bullets": [
+   "Schilmes van Güde met een stalen lemmet van 7 cm (carbonstaal) en een houten heft.",
+   "Het mes is licht van gewicht en ligt prettig in de hand.",
+   "Voor het schillen van hardere soorten groenten en fruit, zoals appels.",
+   "Het ideale schilmes voor dagelijkse kookwerkzaamheden: u schilt moeiteloos de meeste soorten groenten en fruit.",
+   "Na gebruik reinigen met warm water en een milde zeep."
+  ],
+  "keys": [
+   "18d03849"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ tourneermes\\ 6\\ cm\\ carbonstaal"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen, snijden en modelleren van groenten en fruit, zoals appels.",
+  "bullets": [
+   "Tourneermes van Güde met een stalen lemmet van 6 cm (carbonstaal) en een houten heft.",
+   "Het mes is licht van gewicht en ligt prettig in de hand.",
+   "Voor het schillen, snijden en modelleren van groenten en fruit, zoals appels; dankzij het gekromde lemmet gaat dit nog eenvoudiger.",
+   "Na gebruik reinigen met warm water en een milde zeep."
+  ],
+  "keys": [
+   "64266556"
+  ]
+ },
+ {
+  "match": [
+   "Güde\\ universeel\\ mes\\ 10\\ cm\\ kunststof\\ zwart\\-geel",
+   "Güde\\ universeel\\ mes\\ 10\\ cm\\ kunststof\\ zwart\\-oranje",
+   "Güde\\ universeel\\ mes\\ 10\\ cm\\ kunststof\\ zwart\\-rood",
+   "Güde\\ universeel\\ mes\\ 20\\ cm\\ kunststof\\ zwart\\-wit"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van kleinere hoeveelheden groenten en vlees.",
+  "bullets": [
+   "Universeel mes van roestvrij staal met een kunststof heft in zwart met een tweede kleur (geel, oranje, rood of wit; zie de productnaam).",
+   "Het lemmet is voorzien van een microkartel en aan beide zijden geslepen, waardoor snijden door vlees of ingrediënten met een taai vel eenvoudiger is.",
+   "Voor het snijden van kleinere hoeveelheden groenten en vlees.",
+   "Het heft is met klinknagels aan het doorlopende lemmet bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6d0ad5d9",
+   "83ca9260",
+   "34b1c4ed",
+   "88f44e90"
+  ],
+  "colours": [
+   "zwart-geel",
+   "zwart-oranje",
+   "zwart-rood",
+   "zwart-wit"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 20 cm",
+    "websiteSays": "Naam \"Güde universeel mes 20 cm kunststof zwart-wit\"; specificaties: Lengte lemmet 10 cm, Totale lengte 20 cm (de andere kleuren heten 10 cm).",
+    "note": "Controleer of 20 cm de totale lengte is.",
+    "only": "Güde universeel mes 20 cm kunststof"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Karl\\ Güde\\ koksmes\\ 21\\ cm\\ pruimenhout"
+  ],
+  "brandID": "gude",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Karl Güde koksmes met een handgesmeed lemmet van messenstaal van 20 cm; heft van pruimenhout met een tweede bolster voor een goede balans; totale lengte 34,5 cm.",
+   "Karl Güde is de oprichter van de messenfabriek in Güde en de naamgever van deze serie; de messen hebben de vormgeving van messen die 100 jaar geleden al zo gemaakt werden.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Volledig met de hand gemaakt en afgewerkt, van smeden tot de laatste polijstgang.",
+   "Uit één stuk chroom-vanadium-molybdeen staal gesmeed, met een hoge mate van roestbestendigheid; te harden tot een hardheid van 58 HRC.",
+   "Met de hand reinigen in een mild sopje, goed afdrogen."
+  ],
+  "keys": [
+   "94fb83b3"
+  ],
+  "requires": [
+   "chroom-vanadium-molybdeen"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 21 cm",
+    "websiteSays": "Naam: 21 cm; specificaties en tekst: lemmet van 20 cm (totale lengte 34,5 cm).",
+    "note": "Controleer de lemmetlengte."
+   }
+  ]
+ }
+]

@@ -1,0 +1,4051 @@
+[
+ {
+  "match": [
+   "Cristel\\ 1826\\ Exceliss\\+\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 20\\ cm",
+   "Cristel\\ 1826\\ Exceliss\\+\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 24\\ cm",
+   "Cristel\\ 1826\\ Exceliss\\+\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 26\\ cm",
+   "Cristel\\ 1826\\ Exceliss\\+\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 28\\ cm",
+   "Cristel\\ 1826\\ Exceliss\\+\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 30\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Koekenpan uit de 1826-collectie van geborsteld roestvrij staal met een aluminium kern en een antiaanbaklaag.",
+   "De antikleeflaag is PFOA- en PFAS-vrij.",
+   "Bodem met drie lagen (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): snelle en gelijkmatige warmteverdeling.",
+   "Roestvrijstalen greep aan de pan vastgeklonken; de handgrepen zijn hittebestendig.",
+   "Te gebruiken op elke warmtebron en in de oven; ook geschikt voor inductie en glaskeramisch.",
+   "Voor het langste behoud met de hand afwassen.",
+   "Serie 1826, vervaardigd in de historische fabriek in Fesches-le-Châtel (Frankrijk)."
+  ],
+  "keys": [
+   "f0f6b027"
+  ],
+  "requires": [
+   "antiaanbaklaag",
+   "PFAS vrij",
+   "vastgeklonken",
+   "Fesches-le-Châtel",
+   "met de hand worden afgewassen"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 250°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 Exceliss+ koekenpan met anti-aanbaklaag ø 20 cm"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 250°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 Exceliss+ koekenpan met anti-aanbaklaag ø 24 cm"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 250°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 Exceliss+ koekenpan met anti-aanbaklaag ø 26 cm"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 250°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 Exceliss+ koekenpan met anti-aanbaklaag ø 28 cm"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 250°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 Exceliss+ koekenpan met anti-aanbaklaag ø 30 cm"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ 1826\\ koekenpan\\ ø\\ 20\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ koekenpan\\ ø\\ 24\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ koekenpan\\ ø\\ 26\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ koekenpan\\ ø\\ 28\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ koekenpan\\ ø\\ 30\\ cm\\ geborsteld\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Koekenpan uit de 1826-collectie van geborsteld roestvrij staal met een aluminium kern.",
+   "Bodem met drie lagen (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): snelle en gelijkmatige warmteverdeling.",
+   "Roestvrijstalen greep aan de pan vastgeklonken; de handgrepen zijn hittebestendig.",
+   "Te gebruiken op elke warmtebron en in de oven; ook geschikt voor inductie en glaskeramisch.",
+   "Vaatwasmachinebestendig.",
+   "Serie 1826, vervaardigd in de historische fabriek in Fesches-le-Châtel (Frankrijk)."
+  ],
+  "keys": [
+   "2ff55aab"
+  ],
+  "requires": [
+   "geborsteld roestvrij staal met een aluminium kern",
+   "vastgeklonken",
+   "Fesches-le-Châtel",
+   "vaatwasmachinebestendig"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ 1826\\ kookpan\\ ø\\ 16\\ cm\\ rvs",
+   "Cristel\\ 1826\\ kookpan\\ ø\\ 18\\ cm\\ rvs",
+   "Cristel\\ 1826\\ kookpan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ 1826\\ kookpan\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "Kookpan uit de 1826-collectie van roestvrij staal.",
+   "Roestvrij staal met bodem van drie lagen (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): snelle en gelijkmatige warmteverdeling.",
+   "Op alle warmtebronnen te gebruiken, inclusief inductie, en in de oven.",
+   "Vaatwasmachinebestendig.",
+   "Serie 1826, vervaardigd in de historische fabriek in Fesches-le-Châtel (Frankrijk)."
+  ],
+  "keys": [
+   "ab81092d"
+  ],
+  "requires": [
+   "kookpan is vervaardigd uit roestvrij staal",
+   "groenten, soep en saus",
+   "Fesches-le-Châtel"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 kookpan ø 16 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 kookpan ø 18 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 kookpan ø 20 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 kookpan ø 24 cm rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ 1826\\ kookpan\\ met\\ rvs\\ deksel\\ ø\\ 16\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ kookpan\\ met\\ rvs\\ deksel\\ ø\\ 18\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ kookpan\\ met\\ rvs\\ deksel\\ ø\\ 20\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ kookpan\\ met\\ rvs\\ deksel\\ ø\\ 24\\ cm\\ geborsteld\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "Kookpan met rvs deksel uit de 1826-collectie, van roestvrij staal.",
+   "Roestvrij staal met bodem van drie lagen (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): snelle en gelijkmatige warmteverdeling.",
+   "Op alle warmtebronnen te gebruiken, inclusief inductie, en in de oven.",
+   "Vaatwasmachinebestendig.",
+   "Serie 1826, vervaardigd in de historische fabriek in Fesches-le-Châtel (Frankrijk)."
+  ],
+  "keys": [
+   "a76ca9eb"
+  ],
+  "requires": [
+   "kookpan met rvs deksel",
+   "groenten, soep en saus",
+   "Fesches-le-Châtel"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ 1826\\ pannenset\\ met\\ glasdeksels\\ rvs\\ 4\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Als basis voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "4-delige pannenset uit de 1826-collectie van roestvrij staal: drie kookpannen met glasdeksels en een steelpan zonder deksel.",
+   "De set bestaat uit een kookpan met glasdeksel ø 16, 18 en 20 cm en een sauspan ø 16 cm.",
+   "Bodem met drie lagen (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): snelle en gelijkmatige warmteverdeling.",
+   "Op alle warmtebronnen te gebruiken, inclusief inductie, en in de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "7b013e8c"
+  ],
+  "requires": [
+   "Kookpan met glasdeksel ø 16 cm",
+   "Kookpan met glasdeksel ø 20 cm",
+   "Sauspan ø 16 cm",
+   "groenten, soep en saus"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ 1826\\ pannenset\\ met\\ glasdeksels\\ rvs\\ 5\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Als basis voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "5-delige pannenset uit de 1826-collectie van roestvrij staal: vier kookpannen met glasdeksels en een steelpan zonder deksel.",
+   "De set bestaat uit een kookpan met glasdeksel ø 16, 18, 20 en 24 cm en een sauspan ø 16 cm.",
+   "Bodem met drie lagen (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): snelle en gelijkmatige warmteverdeling.",
+   "Op alle warmtebronnen te gebruiken, inclusief inductie, en in de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "d8c76797"
+  ],
+  "requires": [
+   "Kookpan met glasdeksel ø 24 cm",
+   "Sauspan ø 16 cm",
+   "groenten, soep en saus"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ 1826\\ sauspan\\ ø\\ 16\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ sauspan\\ ø\\ 18\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ sauspan\\ ø\\ 20\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ sauspan\\ met\\ deksel\\ ø\\ 16\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ sauspan\\ met\\ deksel\\ ø\\ 18\\ cm\\ geborsteld\\ rvs",
+   "Cristel\\ 1826\\ sauspan\\ met\\ deksel\\ ø\\ 20\\ cm\\ geborsteld\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen.",
+  "bullets": [
+   "Conische sauspan uit de 1826-collectie van geborsteld roestvrij staal met een aluminium kern.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Bodem met drie lagen (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): snelle en gelijkmatige warmteverdeling.",
+   "Te gebruiken op elke warmtebron en in de oven; ook geschikt voor inductie.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "05529900",
+   "d79a8004"
+  ],
+  "requires": [
+   "conische sauspan",
+   "sauzen",
+   "vastgeklonken"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 sauspan ø 18 cm geborsteld rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 sauspan ø 20 cm geborsteld rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 sauspan met deksel ø 16 cm geborsteld rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 sauspan met deksel ø 18 cm geborsteld rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 sauspan met deksel ø 20 cm geborsteld rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ 1826\\ sauspannenset\\ geborsteld\\ rvs\\ 3\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen of als reguliere kookpan.",
+  "bullets": [
+   "Set van drie conische sauspannen uit de 1826-collectie, met oplopende diameters (ø 16, 18 en 20 cm).",
+   "Geborsteld roestvrij staal met een aluminium kern; roestvrijstalen greep aan de pan vastgeklonken.",
+   "Bodem met drie lagen (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): snelle en gelijkmatige warmteverdeling.",
+   "Te gebruiken op elke warmtebron en in de oven; ook geschikt voor inductie.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "d216f2f9"
+  ],
+  "requires": [
+   "sauspan Ø16 cm",
+   "sauspan Ø18 cm",
+   "sauspan Ø 20 cm",
+   "oplopende diameters"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel 1826 sauspannenset geborsteld rvs 3-delig"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Alto\\ snelkookpan\\ 4\\ liter\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Alto\\ snelkookpan\\ 6\\ liter\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Alto\\ snelkookpan\\ 9\\ liter\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Snelkookpan van roestvrij staal met twee kooksnelheden: stand 1 (slowcooking, voor tere producten) en stand 2 (snel, meer tijdswinst). Zonder druk te gebruiken als reguliere kookpan.",
+   "Maataanduiding aan de binnenkant van de pan: je ziet snel hoeveel er in zit.",
+   "Gepatenteerd veiligheidsmechanisme: het deksel sluit stevig aan en gaat met één hand open en dicht.",
+   "Rolrand aan de bovenzijde: in plaats van het hogedrukdeksel kan een glas- of metaaldeksel op de pan, dan is het een gewone pan.",
+   "Bodem uit verschillende lagen (roestvrij staal, aluminium en inductiegeschikt roestvrij staal); te gebruiken op alle warmtebronnen.",
+   "Reiniging: deksel en rubberen ring met warm water en afwasmiddel. De pan is vaatwasmachinebestendig, maar blijft het langst mooi bij afwassen met de hand."
+  ],
+  "keys": [
+   "6b2a6810",
+   "14ed2ab5",
+   "a8cff776"
+  ],
+  "requires": [
+   "stand 1 voor tere producten",
+   "stand 2",
+   "maataanduiding",
+   "één hand",
+   "rolrand",
+   "rubberen ring"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ aspergepan\\ ø\\ 16\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het gaar koken van bijvoorbeeld asperges en pasta's.",
+  "bullets": [
+   "Ronde roestvrijstalen aspergepan met inzet en glazen deksel: je kunt het kookproces volgen.",
+   "Capsulebodem met aluminium voor een optimale warmtegeleiding.",
+   "Geschikt voor elektrisch, gas, halogeen, inductie en keramisch (specificaties).",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "672b7abd"
+  ],
+  "requires": [
+   "aspergepan",
+   "inzet",
+   "capsulebodem",
+   "glazen deksel"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ 1826\\ Bicentenaire\\ koekenpan\\ ø\\ 20\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ 1826\\ Bicentenaire\\ koekenpan\\ ø\\ 24\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ 1826\\ Bicentenaire\\ koekenpan\\ ø\\ 26\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ 1826\\ Bicentenaire\\ koekenpan\\ ø\\ 28\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ 1826\\ Bicentenaire\\ koekenpan\\ ø\\ 30\\ cm\\ rvs\\ met\\ koperen\\ greep"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken en braden van vlees, vis, groenten en andere ingrediënten.",
+  "bullets": [
+   "Koekenpan van roestvrij staal met een aluminium kern en een vaste greep met koperen afwerking; de oven kan ook voor nagaren of grillen.",
+   "Bicentenaire-collectie: gemaakt ter viering van het 200-jarig bestaan van Cristel; gebaseerd op de serie 1826, met handgrepen in een matte koperkleur. Gelimiteerde collectie.",
+   "Drievoudige bodemconstructie (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): de warmte wordt snel opgenomen en gelijkmatig verdeeld.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Reinigen in de afwasmachine of met warm water en afwasmiddel.",
+   "Geproduceerd in de historische fabriek van Cristel in Fesches-le-Châtel (Frankrijk)."
+  ],
+  "keys": [
+   "ec59e80e"
+  ],
+  "requires": [
+   "Bicentenaire koekenpan",
+   "nagaren of grillen",
+   "200-jarig bestaan"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ 1826\\ Bicentenaire\\ kookpan\\ ø\\ 16\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ 1826\\ Bicentenaire\\ kookpan\\ ø\\ 18\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ 1826\\ Bicentenaire\\ kookpan\\ ø\\ 20\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ 1826\\ Bicentenaire\\ kookpan\\ ø\\ 24\\ cm\\ rvs\\ met\\ koperen\\ greep"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van uiteenlopende gerechten zoals groenten, pasta, rijst en soepen.",
+  "bullets": [
+   "Kookpan van geborsteld roestvrij staal met een aluminium kern; wordt geleverd met een glasdeksel (borosilicaatglas, hittebestendig tot 220 °C) waarmee je het kookproces kunt volgen.",
+   "Handgrepen en knop van het deksel in een matte koperkleur.",
+   "Bicentenaire-collectie: gemaakt ter viering van het 200-jarig bestaan van Cristel; gebaseerd op de serie 1826, met handgrepen in een matte koperkleur. Gelimiteerde collectie.",
+   "Drievoudige bodemconstructie (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): de warmte wordt snel opgenomen en gelijkmatig verdeeld.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Reinigen in de afwasmachine of met warm water en afwasmiddel.",
+   "Geproduceerd in de historische fabriek van Cristel in Fesches-le-Châtel (Frankrijk)."
+  ],
+  "keys": [
+   "492e2557"
+  ],
+  "requires": [
+   "Bicentenaire kookpan",
+   "glasdeksel",
+   "220 °C",
+   "200-jarig bestaan"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ 1826\\ Bicentenaire\\ sauspan\\ ø\\ 16\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ 1826\\ Bicentenaire\\ sauspan\\ ø\\ 18\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ 1826\\ Bicentenaire\\ sauspan\\ ø\\ 20\\ cm\\ rvs\\ met\\ koperen\\ greep"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen of als steelpan.",
+  "bullets": [
+   "Conische sauspan van geborsteld roestvrij staal met een aluminium kern en een vaste greep met koperafwerking.",
+   "Bicentenaire-collectie: gemaakt ter viering van het 200-jarig bestaan van Cristel; gebaseerd op de serie 1826, met handgrepen in een matte koperkleur. Gelimiteerde collectie.",
+   "Drievoudige bodemconstructie (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): de warmte wordt snel opgenomen en gelijkmatig verdeeld.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Reinigen in de afwasmachine of met warm water en afwasmiddel.",
+   "Geproduceerd in de historische fabriek van Cristel in Fesches-le-Châtel (Frankrijk)."
+  ],
+  "keys": [
+   "5f6bfc6c"
+  ],
+  "requires": [
+   "Bicentenaire sauspan",
+   "conische sauspan",
+   "200-jarig bestaan"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ braadslede\\ met\\ rooster\\ en\\ thermometer\\ 35\\ x\\ 30\\ cm\\ rvs\\ 3\\-delig",
+   "Cristel\\ braadslede\\ met\\ rooster\\ en\\ thermometer\\ 40\\ x\\ 31\\ cm\\ rvs\\ 3\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Om grote stukken gebraad in de oven te garen.",
+  "bullets": [
+   "Braadslede van roestvrij staal met een aluminium tussenlaag voor een goede warmtegeleiding.",
+   "Wordt geleverd met een kernthermometer en een roestvrijstalen rek.",
+   "Geschikt voor alle warmtebronnen en de oven.",
+   "Vaatwasmachinebestendig; de thermometer maak je schoon met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e0dfe4a4"
+  ],
+  "requires": [
+   "kernthermometer",
+   "roestvrijstalen rek",
+   "grote stukken gebraad"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ 3\\-laags\\ braadslede\\ 30\\ x\\ 22\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Braadslede uit de Castel'Pro-lijn van roestvrij staal met een aluminium tussenlaag voor een goede warmtegeleiding.",
+   "Geschikt voor alle warmtebronnen en de oven: eerst aanbraden op de kookplaat in de braadslede en daarna in de oven plaatsen.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Castel'Pro is ontwikkeld voor gebruik in de professionele keuken en thuis."
+  ],
+  "keys": [
+   "36ca03b2"
+  ],
+  "requires": [
+   "braadslede",
+   "dichtgelegde gietrand",
+   "professionele keuken"
+  ],
+  "mismatches": [
+   {
+    "topic": "Opbouw van de braadslede",
+    "websiteSays": "Naam: 3-laags. De tekst zegt dat de pannen uit vijf lagen zijn opgebouwd en dat de braadslede uit 3-laags materiaal bestaat, en somt daarna vijf lagen op (18/0 edelstaal, aluminium, versterkt aluminium, aluminium, 18/10 edelstaal). Ook breekt een zin af (\"Het\").",
+    "note": "Vraag na uit hoeveel lagen de braadslede bestaat; de bullets noemen de lagen niet."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ 5\\-ply\\ koekenpan\\ ø\\ 10\\ cm\\ rvs",
+   "Cristel\\ Castel'pro\\ 5\\-ply\\ koekenpan\\ ø\\ 12\\ cm\\ rvs",
+   "Cristel\\ Castel'pro\\ 5\\-ply\\ koekenpan\\ ø\\ 9\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken van de kleinste gerechten.",
+  "bullets": [
+   "Kleine Castel'Pro-koekenpan van roestvrij staal, opgebouwd uit meerdere lagen.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven."
+  ],
+  "keys": [
+   "3ad796a7"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "geklonken",
+   "kleinste gerechten"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ 5\\-ply\\ kookpan\\ met\\ rvs\\ deksel\\ ø\\ 10\\ cm\\ rvs",
+   "Cristel\\ Castel'pro\\ 5\\-ply\\ kookpan\\ met\\ rvs\\ deksel\\ ø\\ 12\\ cm\\ rvs",
+   "Cristel\\ Castel'pro\\ 5\\-ply\\ kookpan\\ met\\ rvs\\ deksel\\ ø\\ 9\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het maken van kleine gerechten op alle warmtebronnen of in de oven.",
+  "bullets": [
+   "Kleine Castel'Pro-kookpan van roestvrij staal; de opbouw in lagen geeft volgens de tekst een superieure warmtegeleiding. De productnaam noemt een rvs deksel.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Gebogen schenkrand: de inhoud kan zonder druppelen worden uitgeschonken.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is."
+  ],
+  "keys": [
+   "ffde7ada"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "gebogen schenkrand",
+   "superieure warmtegeleiding"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ 5\\-ply\\ sauspan\\ ø\\ 10\\ cm\\ rvs",
+   "Cristel\\ Castel'pro\\ 5\\-ply\\ sauspan\\ ø\\ 12\\ cm\\ rvs",
+   "Cristel\\ Castel'pro\\ 5\\-ply\\ sauspan\\ ø\\ 9\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen of kleine gerechten.",
+  "bullets": [
+   "Castel'Pro-sauspan van roestvrij staal, opgebouwd uit meerdere lagen.",
+   "Geronde wanden: makkelijk roeren met een garde of lepel.",
+   "Gebogen schenkrand: de inhoud kan zonder druppelen worden uitgeschonken.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven."
+  ],
+  "keys": [
+   "e4ceab1c"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "gebogen schenkrand",
+   "garde of lepel"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ Ceraliss\\+\\ crêpepan\\ ø\\ 24\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van pannenkoeken of crêpes.",
+  "bullets": [
+   "Castel'Pro-crêpepan non-stick: aluminium met inductiegeschikte bodem en een roestvrijstalen greep, vastgezet met roestvrijstalen klinknagels.",
+   "Volgens de tekst gemaakt van gesmeden aluminium met een inductiegeschikte, keramisch gecoate bodem; 3-laags constructie met geanodiseerde aluminium kern: gelijkmatige warmte, geen hotspots.",
+   "Het kookoppervlak warmt snel op en koelt snel af.",
+   "Geschikt voor alle warmtebronnen en de oven (specificaties); de greep houdt geen warmte vast.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "1ec01072"
+  ],
+  "requires": [
+   "crêpepan",
+   "klinknagels",
+   "geanodiseerde aluminium kern",
+   "met de hand afwast"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ Ceraliss\\+\\ keramische\\ crêpepan\\ ø\\ 28\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bereiden van pannenkoeken en crêpes.",
+  "bullets": [
+   "Castel'Pro Ceraliss+ crêpepan van aluminium met tweelaagse keramische anti-aanbaklaag; de tekst noemt gegoten aluminium.",
+   "Ultralu-bodem, inductiegeschikt: een goede warmtegeleiding door de gehele pan.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Roestvrijstalen handgreep die koel blijft tijdens gebruik.",
+   "Vaatwasmachinebestendig, maar handafwas verlengt de levensduur van de pan."
+  ],
+  "keys": [
+   "e12a2b24"
+  ],
+  "requires": [
+   "Ultralu",
+   "keramische anti-aanbaklaag",
+   "crêpepan"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 300°C; de specificaties noemen als maximumtemperatuur 180°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Castel'pro Ceraliss+ keramische crêpepan ø 28 cm"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ Ceraliss\\+\\ keramische\\ koekenpan\\ ø\\ 20\\ cm",
+   "Cristel\\ Castel'pro\\ Ceraliss\\+\\ keramische\\ koekenpan\\ ø\\ 24\\ cm",
+   "Cristel\\ Castel'pro\\ Ceraliss\\+\\ keramische\\ koekenpan\\ ø\\ 26\\ cm",
+   "Cristel\\ Castel'pro\\ Ceraliss\\+\\ keramische\\ koekenpan\\ ø\\ 28\\ cm",
+   "Cristel\\ Castel'pro\\ Ceraliss\\+\\ keramische\\ koekenpan\\ ø\\ 30\\ cm",
+   "Cristel\\ Castel'pro\\ Ceraliss\\+\\ koekenpan\\ ø\\ 32\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Castel'Pro Ceraliss+ koekenpan van aluminium (de tekst noemt gegoten aluminium) met tweelaagse keramische anti-aanbaklaag.",
+   "Ultralu-bodem, inductiegeschikt: een goede warmtegeleiding door de gehele pan.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Roestvrijstalen handgreep die koel blijft tijdens gebruik.",
+   "Vaatwasmachinebestendig, maar handafwas verlengt de levensduur van de pan."
+  ],
+  "keys": [
+   "2ca29014"
+  ],
+  "requires": [
+   "Ultralu",
+   "keramische anti-aanbaklaag",
+   "koekenpan"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 300°C; de specificaties noemen als maximumtemperatuur 180°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Castel'pro Ceraliss+ keramische koekenpan ø 24 cm"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 300°C; de specificaties noemen als maximumtemperatuur 180°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Castel'pro Ceraliss+ keramische koekenpan ø 28 cm"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ Ceraliss\\+\\ keramische\\ koekenpannenset\\ ø\\ 24\\ \\+\\ 28\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Set van twee Castel'Pro Ceraliss+ koekenpannen (ø 24 en 28 cm volgens de productnaam) van aluminium met tweelaagse keramische anti-aanbaklaag.",
+   "Ultralu-bodem, inductiegeschikt: een goede warmtegeleiding door de gehele pan.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Roestvrijstalen handgreep die koel blijft tijdens gebruik.",
+   "Vaatwasmachinebestendig, maar handafwas verlengt de levensduur van de pan."
+  ],
+  "keys": [
+   "827c8750"
+  ],
+  "requires": [
+   "Ultralu",
+   "keramische anti-aanbaklaag",
+   "koekenpannenset"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ Ceraliss\\+\\ sauteerpan\\ met\\ grepen\\ ø\\ 28\\ cm\\ met\\ glasdeksel"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken en garen van gerechten.",
+  "bullets": [
+   "Castel'Pro Ceraliss+ sauteerpan met twee roestvrijstalen grepen, vastgeklonken aan de pan.",
+   "Opgebouwd uit twee lagen aluminium en drie lagen antiaanbaklaag; de bodem heeft ook een laag roestvrij staal voor warmteverdeling en om de pan geschikt te maken voor inductie.",
+   "Wordt geleverd met een glasdeksel.",
+   "Op elke warmtebron te gebruiken en in de oven.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "e8f1fc6a"
+  ],
+  "requires": [
+   "Ceraliss+ sauteerpan",
+   "glasdeksel",
+   "vast geklonken"
+  ],
+  "mismatches": [
+   {
+    "topic": "Opbouw van de pan",
+    "websiteSays": "De eerste alinea noemt een opbouw uit twee lagen aluminium en drie lagen antiaanbaklaag; de tekst eronder beschrijft vijf lagen met 18/0 edelstaal aan de buitenzijde en 18/10 edelstaal aan de binnenzijde.",
+    "note": "Vraag na wat de opbouw van deze pan is; de bullets noemen de lagen niet."
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 300°C; de specificaties noemen als maximumtemperatuur 250°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Castel'pro Ceraliss+ sauteerpan met grepen ø 28 cm met glasdeksel"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ Ceraliss\\+\\ sauteerpan\\ met\\ steel\\ ø\\ 28\\ cm\\ met\\ glasdeksel"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken en garen van gerechten.",
+  "bullets": [
+   "Castel'Pro Ceraliss+ sauteerpan met roestvrijstalen greep en steel, vastgeklonken aan de pan.",
+   "Opgebouwd uit twee lagen aluminium en drie lagen antiaanbaklaag; de bodem heeft ook een laag roestvrij staal voor warmteverdeling en om de pan geschikt te maken voor inductie.",
+   "Wordt geleverd met een glasdeksel.",
+   "Op elke warmtebron te gebruiken en in de oven.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "d24caf00"
+  ],
+  "requires": [
+   "Ceraliss+ sauteerpan",
+   "glasdeksel",
+   "greep en steel"
+  ],
+  "mismatches": [
+   {
+    "topic": "Opbouw van de pan",
+    "websiteSays": "De eerste alinea noemt een opbouw uit twee lagen aluminium en drie lagen antiaanbaklaag; de tekst eronder beschrijft vijf lagen met 18/0 edelstaal aan de buitenzijde en 18/10 edelstaal aan de binnenzijde.",
+    "note": "Vraag na wat de opbouw van deze pan is; de bullets noemen de lagen niet."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel\\ Pro\\ Classic\\ soeppan\\ ø\\ 26\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ stoofpan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ stoofpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ stoofpan\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Goed geschikt voor sauteren en stoven van gerechten.",
+  "bullets": [
+   "Castel'Pro-pan van roestvrij staal, opgebouwd uit meerdere lagen; door de opbouw in lagen en de brede vorm goed voor sauteren en stoven.",
+   "Gebogen schenkrand: de inhoud kan zonder druppelen worden uitgeschonken.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op alle warmtebronnen te gebruiken en in de oven."
+  ],
+  "keys": [
+   "9f669fc7",
+   "4e064dd2"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "gebogen schenkrand",
+   "sauteren en stoven"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 12,7 liter; de specificaties noemen 12,4 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Castel Pro Classic soeppan ø 26 cm rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multiply\\ kookpan\\ met\\ rvs\\ deksel\\ ø\\ 16\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Goed geschikt voor sauteren en stoven van gerechten.",
+  "bullets": [
+   "Castel'Pro-kookpan van roestvrij staal, opgebouwd uit meerdere lagen; door de opbouw in lagen en de brede vorm goed voor sauteren en stoven. De productnaam noemt een rvs deksel.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op alle warmtebronnen te gebruiken en in de oven."
+  ],
+  "keys": [
+   "27c12e81"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "sauteren en stoven"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 1,4 liter; de specificaties noemen 1 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Castel'Pro Multiply kookpan met rvs deksel ø 16 cm rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Exceliss\\+\\ Ultralu\\ crêpepan\\ ø\\ 28\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Castel'Pro\\ Exceliss\\+\\ Ultralu\\ crêpepan\\ ø\\ 24\\ cm\\ aluminium"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van pannenkoeken of crêpes.",
+  "bullets": [
+   "Castel'Pro Exceliss+ Ultralu crêpepan non-stick: aluminium met inductiegeschikte bodem en een roestvrijstalen greep, vastgezet met roestvrijstalen klinknagels.",
+   "Volgens de tekst gemaakt van gesmeden aluminium met een inductiegeschikte, roestvrijstalen, non-stick PTFE-bodem.",
+   "3-laags constructie met geanodiseerde aluminium kern: gelijkmatige warmte, geen hotspots; het kookoppervlak warmt snel op en koelt snel af.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "19ddebbb"
+  ],
+  "requires": [
+   "crêpepan",
+   "PTFE",
+   "geanodiseerde aluminium kern"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Exceliss\\+\\ Multiply\\ koekenpan\\ ø\\ 26\\ cm",
+   "Cristel\\ Castel'Pro\\ Exceliss\\+\\ Multiply\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Exceliss\\+\\ Multiply\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Exceliss\\+\\ Multiply\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Exceliss\\+\\ Multiply\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 32\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Om al uw gerechten te bakken.",
+  "bullets": [
+   "Castel'Pro Exceliss+ Multiply koekenpan van roestvrij staal met aan de binnenkant een stevige, PFOA-vrije antiaanbaklaag.",
+   "Opgebouwd uit vijf lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde een antiaanbaklaag.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven.",
+   "Vaatwasmachinebestendig, maar heeft een langere levensduur bij handafwas."
+  ],
+  "keys": [
+   "b0b0e809",
+   "e42c4797"
+  ],
+  "requires": [
+   "PFOA-vrije",
+   "vijf verschillende lagen",
+   "geklonken",
+   "langere levensduur"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ Exceliss\\+\\ Ultralu\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 30\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Castel'pro\\ Exceliss\\+\\ Ultralu\\ koekenpan\\ ø\\ 26\\ cm",
+   "Cristel\\ Castel'pro\\ Exceliss\\+\\ Ultralu\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 20\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Castel'pro\\ Exceliss\\+\\ Ultralu\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 24\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Castel'pro\\ Exceliss\\+\\ Ultralu\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 28\\ cm\\ aluminium\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Om al uw gerechten te bakken.",
+  "bullets": [
+   "Castel'Pro Exceliss+ Ultralu koekenpan met antiaanbaklaag: opgebouwd uit twee lagen aluminium en drie antiaanbaklagen.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "601f386f"
+  ],
+  "requires": [
+   "twee lagen alumin",
+   "antiaanbaklagen",
+   "geklonken"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Exceliss\\+\\ Ultralu\\ grillpan\\ 28\\ x\\ 28\\ cm\\ aluminium\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het grillen van diverse ingrediënten als vis, vlees en groenten.",
+  "bullets": [
+   "Castel'Pro Exceliss+ Ultralu grillpan, vierkant (28 x 28 cm volgens de productnaam), met antiaanbaklaag.",
+   "Opgebouwd uit twee lagen aluminium en drie lagen antiaanbaklaag; de bodem heeft ook een laag roestvrij staal voor warmteverdeling en om de pan geschikt te maken voor inductie.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Op elke warmtebron te gebruiken en in de oven.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "e900df70"
+  ],
+  "requires": [
+   "grillpan",
+   "twee lagen alumin",
+   "vast zit geklonken"
+  ],
+  "mismatches": [
+   {
+    "topic": "Opbouw van de pan",
+    "websiteSays": "De eerste alinea noemt een opbouw uit twee lagen aluminium en drie lagen antiaanbaklaag; de tekst eronder beschrijft vijf lagen met 18/0 edelstaal aan de buitenzijde en 18/10 edelstaal aan de binnenzijde.",
+    "note": "Vraag na wat de opbouw van deze pan is; de bullets noemen de lagen niet."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Exceliss\\+\\ Ultralu\\ sauspan\\ met\\ glasdeksel\\ ø\\ 16\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Castel'Pro\\ Exceliss\\+\\ Ultralu\\ sauspan\\ met\\ glasdeksel\\ ø\\ 18\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Castel'Pro\\ Exceliss\\+\\ Ultralu\\ sauspan\\ met\\ glasdeksel\\ ø\\ 20\\ cm\\ aluminium\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen en kleine gerechten.",
+  "bullets": [
+   "Castel'Pro Exceliss+ Ultralu sauspan met antiaanbaklaag; wordt geleverd met een glasdeksel.",
+   "Opgebouwd uit twee lagen aluminium en drie lagen antiaanbaklaag; de bodem heeft ook een laag roestvrij staal voor warmteverdeling en om de pan geschikt te maken voor inductie.",
+   "Op elke warmtebron te gebruiken en in de oven.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "0a3bc2c7"
+  ],
+  "requires": [
+   "sauspan",
+   "glasdeksel",
+   "twee lagen alumin"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ hapjespan\\ met\\ anti\\-aanbaklaag\\ en\\ glasdeksel\\ met\\ twee\\ zijgrepen\\ ø\\ 28\\ cm\\ aluminium\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken en garen van al uw gerechten.",
+  "bullets": [
+   "Castel'Pro hapjespan met antiaanbaklaag, twee zijgrepen en glasdeksel.",
+   "Opgebouwd uit twee lagen aluminium en drie lagen antiaanbaklaag; de bodem heeft ook een laag roestvrij staal voor warmteverdeling en om de pan geschikt te maken voor inductie.",
+   "Op elke warmtebron te gebruiken en in de oven.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "ef8999f9"
+  ],
+  "requires": [
+   "hapjespan",
+   "glasdeksel",
+   "twee lagen alumin"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ Exceliss\\+\\ Ultralu\\ sauteerpan\\ met\\ anti\\-aanbaklaag\\ en\\ glasdeksel\\ ø\\ 28\\ cm\\ aluminium\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken en garen van al uw gerechten.",
+  "bullets": [
+   "Castel'Pro Exceliss+ Ultralu sauteerpan met antiaanbaklaag en glasdeksel.",
+   "Opgebouwd uit twee lagen aluminium en drie lagen antiaanbaklaag; de bodem heeft ook een laag roestvrij staal voor warmteverdeling en om de pan geschikt te maken voor inductie.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Op elke warmtebron te gebruiken en in de oven.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "968357bf"
+  ],
+  "requires": [
+   "sauteerpan",
+   "glasdeksel",
+   "twee lagen alumin"
+  ],
+  "mismatches": [
+   {
+    "topic": "Opbouw van de pan",
+    "websiteSays": "De eerste alinea noemt een opbouw uit twee lagen aluminium en drie lagen antiaanbaklaag; de tekst eronder beschrijft vijf lagen met 18/0 edelstaal aan de buitenzijde en 18/10 edelstaal aan de binnenzijde.",
+    "note": "Vraag na wat de opbouw van deze pan is; de bullets noemen de lagen niet."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multi\\ pannenset\\ met\\ glasdeksels\\ rvs\\ 4\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Castel'Pro Multi pannenset met vier pannen: sauspan ø 16 cm en kookpan ø 16, 18 en 20 cm.",
+   "Pannen met gegoten roestvrijstalen grepen, vastgenageld aan de pan: ze geleiden geen warmte.",
+   "Klassieke thermodiffusiebodem: 2 lagen roestvrij staal met een ingekapselde aluminium bodem, voor een exceptionele warmtegeleiding.",
+   "Door de gelijkmatige warmteverdeling hebben de pannen volgens de tekst geen water nodig om te koken: het water dat na het wassen van de groenten achterblijft is genoeg.",
+   "Wijde schenkrand: de inhoud kan zonder morsen of druppelen worden overgegoten.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "c9cc58a0"
+  ],
+  "requires": [
+   "thermodiffusie",
+   "wijde schenkrand",
+   "geen water nodig",
+   "Sauspan, 16 cm",
+   "Kookpan, 20 cm"
+  ],
+  "mismatches": [
+   {
+    "topic": "Deksels",
+    "websiteSays": "De eerste alinea en de naam noemen glasdeksels; de tekst verderop zegt dat de kookpannen komen met een roestvrijstalen deksel met ergonomische handgreep.",
+    "note": "Vraag na of de deksels van glas of van roestvrij staal zijn."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multi\\ pannenset\\ met\\ glasdeksels\\ rvs\\ 5\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Castel'Pro Multi pannenset met vijf pannen: sauspan ø 16 cm en kookpan ø 16, 18, 20 en 24 cm (volgens de lijst in de tekst).",
+   "Pannen met gegoten roestvrijstalen grepen, vastgenageld aan de pan: ze geleiden geen warmte.",
+   "Klassieke thermodiffusiebodem: 2 lagen roestvrij staal met een ingekapselde aluminium bodem, voor een exceptionele warmtegeleiding.",
+   "Door de gelijkmatige warmteverdeling hebben de pannen volgens de tekst geen water nodig om te koken: het water dat na het wassen van de groenten achterblijft is genoeg.",
+   "Wijde schenkrand: de inhoud kan zonder morsen of druppelen worden overgegoten.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "02713bb4"
+  ],
+  "requires": [
+   "thermodiffusie",
+   "wijde schenkrand",
+   "geen water nodig",
+   "Sauspan, 16 cm",
+   "Kookpan, 24 cm"
+  ],
+  "mismatches": [
+   {
+    "topic": "Deksels",
+    "websiteSays": "De eerste alinea en de naam noemen glasdeksels; de tekst verderop zegt dat de kookpannen komen met een roestvrijstalen deksel met ergonomische handgreep.",
+    "note": "Vraag na of de deksels van glas of van roestvrij staal zijn."
+   },
+   {
+    "topic": "Diameters van de set",
+    "websiteSays": "De tekst somt kookpannen van 16, 18, 20 en 24 cm op; de specificaties noemen diameters 16, 18, 20 en 22 cm.",
+    "note": "Controleer welke maten in de set zitten."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multi\\ pannenset\\ rvs\\ 4\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Castel'Pro Multi pannenset met vier pannen: sauspan ø 16 cm en kookpan ø 16, 18 en 20 cm.",
+   "De kookpannen komen met een roestvrijstalen deksel met ergonomische handgreep.",
+   "Pannen met gegoten roestvrijstalen grepen, vastgenageld aan de pan: ze geleiden geen warmte.",
+   "Klassieke thermodiffusiebodem: 2 lagen roestvrij staal met een ingekapselde aluminium bodem, voor een exceptionele warmtegeleiding.",
+   "Door de gelijkmatige warmteverdeling hebben de pannen volgens de tekst geen water nodig om te koken: het water dat na het wassen van de groenten achterblijft is genoeg.",
+   "Wijde schenkrand: de inhoud kan zonder morsen of druppelen worden overgegoten.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "4866276a"
+  ],
+  "requires": [
+   "thermodiffusie",
+   "wijde schenkrand",
+   "geen water nodig",
+   "Sauspan, 16 cm",
+   "Kookpan, 20 cm",
+   "komen met een roestvrijstalen deksel"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multi\\ pannenset\\ rvs\\ 5\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Castel'Pro Multi pannenset met vijf pannen: sauspan ø 16 cm en kookpan ø 16, 18, 20 en 24 cm (volgens de lijst in de tekst).",
+   "De kookpannen komen met een roestvrijstalen deksel met ergonomische handgreep.",
+   "Pannen met gegoten roestvrijstalen grepen, vastgenageld aan de pan: ze geleiden geen warmte.",
+   "Klassieke thermodiffusiebodem: 2 lagen roestvrij staal met een ingekapselde aluminium bodem, voor een exceptionele warmtegeleiding.",
+   "Door de gelijkmatige warmteverdeling hebben de pannen volgens de tekst geen water nodig om te koken: het water dat na het wassen van de groenten achterblijft is genoeg.",
+   "Wijde schenkrand: de inhoud kan zonder morsen of druppelen worden overgegoten.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "306664f5"
+  ],
+  "requires": [
+   "thermodiffusie",
+   "wijde schenkrand",
+   "geen water nodig",
+   "Sauspan, 16 cm",
+   "Kookpan, 24 cm",
+   "komen met een roestvrijstalen deksel"
+  ],
+  "mismatches": [
+   {
+    "topic": "Diameters van de set",
+    "websiteSays": "De tekst somt kookpannen van 16, 18, 20 en 24 cm op; de specificaties noemen diameters 16, 18, 20 en 22 cm.",
+    "note": "Controleer welke maten in de set zitten."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multiply\\ hoge\\ koekenpan\\ met\\ twee\\ grepen\\ \\+\\ glasdeksel\\ Ø\\ 24\\ cm\\ ",
+   "Cristel\\ Castel'Pro\\ Multiply\\ hoge\\ koekenpan\\ met\\ twee\\ grepen\\ \\+\\ glasdeksel\\ Ø\\ 28\\ cm\\ "
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor bakken, braden en stoven; ideaal voor bijvoorbeeld risotto, schaal- en schelpdieren, of gratineren in de oven.",
+  "bullets": [
+   "Castel'Pro Multiply hoge koekenpan met twee grepen en glasdeksel (wordt geleverd met een glasdeksel).",
+   "Lage pan van roestvrij staal, opgebouwd uit meerdere lagen voor een perfecte warmtegeleiding.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Roestvrijstalen grepen aan de pan vastgeklonken.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven. Pan en deksel zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "39fe0d6d",
+   "4a3e1470"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "wordt geleverd met een glasdeksel",
+   "risotto",
+   "vaatwasmachinebestendig"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multiply\\ koekenpan\\ met\\ 2\\ grepen\\ ø\\ 24\\ cm\\ ",
+   "Cristel\\ Castel'Pro\\ Multiply\\ koekenpan\\ met\\ 2\\ grepen\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor bakken, braden en stoven; ideaal voor bijvoorbeeld risotto, schaal- en schelpdieren, of gratineren in de oven.",
+  "bullets": [
+   "Castel'Pro Multiply koekenpan met 2 grepen: lage pan van roestvrij staal, opgebouwd uit meerdere lagen voor een perfecte warmtegeleiding.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Roestvrijstalen grepen aan de pan vastgeklonken.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven. Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "a3ce75ce"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "risotto",
+   "vaatwasmachinebestendig"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multiply\\ grillpan\\ 30\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Castel'Pro Multiply grillpan van roestvrij staal, opgebouwd uit meerdere lagen voor een perfecte warmtegeleiding.",
+   "Roestvrijstalen greep vastgeklonken aan de pan; bij goed gebruik wordt deze niet heet.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken, inclusief inductie, en in de oven."
+  ],
+  "keys": [
+   "abef6099"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "grillpan",
+   "bij goed gebruik"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Ultraply\\ hoge\\ koekenpan\\ ø\\ 16\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Ultraply\\ hoge\\ koekenpan\\ ø\\ 18\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Ultraply\\ hoge\\ koekenpan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Ultraply\\ hoge\\ koekenpan\\ ø\\ 22\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken van kleine gerechten.",
+  "bullets": [
+   "Castel'Pro Ultraply hoge koekenpan van roestvrij staal, opgebouwd uit meerdere lagen.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven."
+  ],
+  "keys": [
+   "e89d8def",
+   "856d2ed9",
+   "934455a3"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "kleine gerechten bakken",
+   "geklonken"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Ultraply\\ hoge\\ koekenpan\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Om al uw gerechten te bakken.",
+  "bullets": [
+   "Castel'Pro Ultraply hoge koekenpan van roestvrij staal, opgebouwd uit meerdere lagen.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven."
+  ],
+  "keys": [
+   "93d89112"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "al uw gerechten bakken",
+   "geklonken"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Ultraply\\ hoge\\ koekenpan\\ met\\ deksel\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Om al uw gerechten te bakken.",
+  "bullets": [
+   "Castel'Pro Ultraply hoge koekenpan met deksel van roestvrij staal, opgebouwd uit meerdere lagen; wordt geleverd met een glazen deksel.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven."
+  ],
+  "keys": [
+   "a6fd63ec"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "glazen deksel",
+   "geklonken"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multiply\\ koekenpan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ koekenpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ koekenpan\\ ø\\ 26\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ koekenpan\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ koekenpan\\ ø\\ 32\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Castel'Pro Multiply koekenpan van roestvrij staal, opgebouwd uit meerdere lagen voor een perfecte warmtegeleiding.",
+   "Lage pan met capsulebodem; roestvrijstalen greep vastgeklonken aan de pan.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven. Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "eff6fab8",
+   "24ded521"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "capsulebodem",
+   "geklonken"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multiply\\ sauspan\\ ø\\ 18\\ cm\\ \\+\\ Panoply\\ bolgarde\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen of kleine gerechten.",
+  "bullets": [
+   "Castel'Pro Multiply sauspan van roestvrij staal, opgebouwd uit meerdere lagen; wordt geleverd inclusief Cristel Panoply bolgarde.",
+   "Geronde wanden: makkelijk roeren met een garde of lepel.",
+   "Gebogen schenkrand: de inhoud kan zonder druppelen worden uitgeschonken.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven."
+  ],
+  "keys": [
+   "7c4eadc5"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "bolgarde",
+   "garde of lepel"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 1,7 liter; de specificaties noemen 1,9 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Castel'Pro Multiply sauspan ø 18 cm + Panoply bolgarde rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multiply\\ sauspan\\ ø\\ 16\\ cm\\ rvs\\ ",
+   "Cristel\\ Castel'Pro\\ Multiply\\ sauspan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Castel\\ Pro\\ Multiply\\ sauspan\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ sauspan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ sauspan\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen.",
+  "bullets": [
+   "Castel'Pro Multiply sauspan van roestvrij staal, opgebouwd uit meerdere lagen.",
+   "Geronde wanden: makkelijk roeren met een garde of lepel.",
+   "Gebogen schenkrand: de inhoud kan zonder druppelen worden uitgeschonken.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven."
+  ],
+  "keys": [
+   "0a62a9e7",
+   "0b0a3d35"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "garde of lepel",
+   "gebogen schenkrand"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 1,2 liter; de specificaties noemen 1,4 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Castel'Pro Multiply sauspan ø 16 cm rvs "
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 2,2 liter; de specificaties noemen 2,7 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Castel'Pro Multiply sauspan ø 20 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 3 liter; de specificaties noemen 3,5 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Castel Pro Multiply sauspan ø 22 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 3,9 liter; de specificaties noemen 4,6 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Castel'Pro Multiply sauspan ø 24 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 6,2 liter; de specificaties noemen 7,2 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Castel'Pro Multiply sauspan ø 28 cm rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multiply\\ wok\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ wok\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ wok\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het wokken van diverse ingrediënten.",
+  "bullets": [
+   "Castel'Pro Multiply wok van roestvrij staal; roestvrijstalen greep vastgeklonken aan de wok.",
+   "Opgebouwd uit drie lagen: buitenzijde 18/0 edelstaal, dan aluminium en aan de binnenzijde 18/10 edelstaal.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op alle warmtebronnen te gebruiken, inclusief inductie, en in de oven."
+  ],
+  "keys": [
+   "fdd9b79e"
+  ],
+  "requires": [
+   "uit 3 verschillende lagen",
+   "18/0 edelstaal",
+   "wok is vaatwasmachinebestendig"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multiply\\ wok\\ ø\\ 30\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Multiply\\ wok\\ met\\ vaste\\ greep\\ ø\\ 32\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het wokken van diverse ingrediënten.",
+  "bullets": [
+   "Castel'Pro Multiply wok van roestvrij staal; roestvrijstalen greep vastgeklonken aan de wok.",
+   "Opgebouwd uit drie lagen: buitenzijde inductiegeschikt 18/0 edelstaal, dan aluminium en aan de binnenzijde 18/10 edelstaal.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op alle warmtebronnen te gebruiken, inclusief inductie, en in de oven."
+  ],
+  "keys": [
+   "0bd96368",
+   "c3f78663"
+  ],
+  "requires": [
+   "drie verschillende lagen",
+   "18/0",
+   "Multiply wok is vaatwasmachinebestendig"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'pro\\ Ultraply\\ koekenpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Castel'pro\\ Ultraply\\ koekenpan\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Om gerechten te bakken.",
+  "bullets": [
+   "Castel'Pro Ultraply koekenpan van roestvrij staal, opgebouwd uit meerdere lagen tot aan de rand van de pan voor een perfecte warmtegeleiding.",
+   "Ultraply-pannen zijn opgebouwd uit vijf lagen: buitenzijde inductiegeschikt 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en in de oven."
+  ],
+  "keys": [
+   "2ba7b307"
+  ],
+  "requires": [
+   "Ultraply pannen zijn opgebouwd uit vijf",
+   "tot aan de rand",
+   "geklonken"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Ultraply\\ sauteerpan\\ met\\ glasdeksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Ultraply\\ sauteerpan\\ met\\ glasdeksel\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Castel'Pro Ultraply sauteerpan met glasdeksel, van roestvrij staal en opgebouwd uit meerdere lagen tot aan de rand voor een perfecte warmtegeleiding; het deksel heeft dezelfde diameter als de pan.",
+   "Ultraply-pannen zijn opgebouwd uit vijf lagen: buitenzijde inductiegeschikt 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en om een gerecht in de oven te garen."
+  ],
+  "keys": [
+   "1d95e698"
+  ],
+  "requires": [
+   "Ultraply pannen zijn opgebouwd uit vijf",
+   "met een glasdeksel",
+   "geklonken"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Ultraply\\ sauteerpan\\ met\\ rvs\\ deksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Castel'Pro\\ Ultraply\\ sauteerpan\\ met\\ rvs\\ deksel\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Castel'Pro Ultraply sauteerpan met roestvrijstalen deksel, van roestvrij staal en opgebouwd uit meerdere lagen tot aan de rand voor een perfecte warmtegeleiding; het deksel heeft dezelfde diameter als de pan.",
+   "Ultraply-pannen zijn opgebouwd uit vijf lagen: buitenzijde inductiegeschikt 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken en om een gerecht in de oven te garen."
+  ],
+  "keys": [
+   "cce6291c"
+  ],
+  "requires": [
+   "Ultraply pannen zijn opgebouwd uit vijf",
+   "roestvrijstalen deksel",
+   "geklonken"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ kookpan\\ ø\\ 24\\ cm\\ met\\ glasdeksel\\ rvs",
+   "Cristel\\ Castel'Pro\\ kookpan\\ ø\\ 28\\ cm\\ met\\ glasdeksel\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het wokken, braden en koken van diverse ingrediënten.",
+  "bullets": [
+   "Castel'Pro-kookpan met twee roestvrijstalen grepen, vastgeklonken aan de pan; wordt geleverd met een bijpassend glazen deksel.",
+   "Van roestvrij staal, opgebouwd uit meerdere lagen.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op alle warmtebronnen te gebruiken, inclusief inductie, en in de oven."
+  ],
+  "keys": [
+   "5740f3d1",
+   "09c63853"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "glazen deksel",
+   "wokken, braden en koken"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam van de pan",
+    "websiteSays": "De naam spreekt van een kookpan; de tekst noemt de pan ook \"wok/braadpan\".",
+    "note": "Controleer waar de pan voor bedoeld is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ wok\\ met\\ twee\\ grepen\\ en\\ glasdeksel\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het wokken van diverse ingrediënten.",
+  "bullets": [
+   "Castel'Pro wok met twee grepen en glasdeksel, van roestvrij staal en opgebouwd uit meerdere lagen; de roestvrijstalen grepen zitten vastgeklonken aan de wok.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Gegoten roestvrijstalen grepen en stelen, met roestvrijstalen nagels aan de pan vastgezet; ze geleiden weinig warmte.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op alle warmtebronnen te gebruiken, inclusief inductie, en in de oven."
+  ],
+  "keys": [
+   "297de5ec"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "wok is vaatwasmachinebestendig",
+   "geklonken"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ wok\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ wok\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ wok\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ wok\\ ø\\ 30\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ wok\\ met\\ glasdeksel\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ wok\\ met\\ glasdeksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ wok\\ met\\ glasdeksel\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ wok\\ met\\ glasdeksel\\ ø\\ 30\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ wok\\ met\\ Strate\\ deksel\\ ø\\ 28\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het wokken van diverse ingrediënten.",
+  "bullets": [
+   "Casteline Removable wok van roestvrij staal, met twee handgrepen aan beide zijden waaraan een (los te verkrijgen) handgreep vastgezet kan worden.",
+   "Zo is de pan makkelijk te stapelen en kan de greep eraf bij het plaatsen in de oven.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "Vaatwasmachinebestendig.",
+   "Casteline-collectie: sober en elegant design met professionele kwaliteit; Casteline heeft het Origine France Garantie-label."
+  ],
+  "keys": [
+   "182320a3"
+  ],
+  "requires": [
+   "Removable wok",
+   "los te verkrijgen",
+   "makkelijk te stapelen",
+   "Origine France Garantie"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ wok\\ Excellis\\ anti\\-aanbaklaag\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het wokken van diverse ingrediënten.",
+  "bullets": [
+   "Casteline Removable wok van roestvrij staal met een anti-aanbaklaag, met twee handgrepen aan beide zijden waaraan een (los te verkrijgen) handgreep vastgezet kan worden.",
+   "Zo is de pan makkelijk te stapelen en kan de greep eraf bij het plaatsen in de oven.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "Vaatwasmachinebestendig.",
+   "Casteline-collectie: sober en elegant design met professionele kwaliteit; Casteline heeft het Origine France Garantie-label."
+  ],
+  "keys": [
+   "68464893"
+  ],
+  "requires": [
+   "anti-aanbaklaag",
+   "los te verkrijgen",
+   "makkelijk te stapelen",
+   "Origine France Garantie"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ koekenpan\\ ø\\ 20\\ cm\\ met\\ anti\\-aanbaklaag",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ koekenpan\\ ø\\ 22\\ cm\\ met\\ anti\\-aanbaklaag",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ koekenpan\\ ø\\ 24\\ cm\\ met\\ anti\\-aanbaklaag",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ koekenpan\\ ø\\ 26\\ cm\\ met\\ anti\\-aanbaklaag",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ koekenpan\\ ø\\ 28\\ cm\\ met\\ anti\\-aanbaklaag",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ koekenpan\\ ø\\ 30\\ cm\\ met\\ anti\\-aanbaklaag",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ koekenpan\\ ø\\ 32\\ cm\\ met\\ anti\\-aanbaklaag"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van verschillende soorten etenswaren zoals aardappels of vlees.",
+  "bullets": [
+   "Casteline Removable Exceliss+ koekenpan van roestvrij staal met een antiaanbaklaag, opgebouwd uit meerdere lagen; de basis heeft vijf lagen voor een snelle en gelijkmatige warmteverdeling.",
+   "De verwijderbare handvatten en steel zijn los te verkrijgen.",
+   "De handgrepen van de Casteline-collecties zijn los te verkrijgen in allerlei kleuren en materialen.",
+   "Te gebruiken op alle warmtebronnen, inclusief inductie.",
+   "Reinigen met warm water en afwasmiddel.",
+   "Geborsteld roestvrij staal."
+  ],
+  "keys": [
+   "33969cfe"
+  ],
+  "requires": [
+   "antiaanbaklaag",
+   "vijf lagen",
+   "los te verkrijgen",
+   "warm water en afwasmiddel"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ sauteerpan\\ ø\\ 24\\ cm\\ met\\ anti\\-aanbaklaag",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ sauteerpan\\ ø\\ 28\\ cm\\ met\\ anti\\-aanbaklaag",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ sauteerpan\\ met\\ Graphite\\ deksel\\ ø\\ 24\\ cm\\ met\\ anti\\-aanbaklaag",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ sauteerpan\\ met\\ Platine\\ deksel\\ ø\\ 24\\ cm\\ met\\ anti\\-aanbaklaag",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ sauteerpan\\ met\\ Strate\\ deksel\\ ø\\ 24\\ cm\\ met\\ anti\\-aanbaklaag"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van verschillende soorten etenswaren zoals aardappels of vlees.",
+  "bullets": [
+   "Casteline Removable Exceliss+ sauteerpan van roestvrij staal met een antiaanbaklaag, opgebouwd uit meerdere lagen; de basis heeft vijf lagen voor een snelle en gelijkmatige warmteverdeling.",
+   "De verwijderbare handvatten en steel zijn los te verkrijgen.",
+   "De handgrepen van de Casteline-collecties zijn los te verkrijgen in allerlei kleuren en materialen.",
+   "Te gebruiken op alle warmtebronnen, inclusief inductie.",
+   "Reinigen met warm water en afwasmiddel.",
+   "Geborsteld roestvrij staal."
+  ],
+  "keys": [
+   "46fdefbd"
+  ],
+  "requires": [
+   "antiaanbaklaag",
+   "vijf lagen",
+   "los te verkrijgen",
+   "warm water en afwasmiddel"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ wok\\ ø\\ 20\\ cm",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ wok\\ ø\\ 24\\ cm",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ wok\\ met\\ glasdeksel\\ ø\\ 24\\ cm",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ wok\\ met\\ glasdeksel\\ ø\\ 28\\ cm",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ wok\\ met\\ Strate\\ deksel\\ ø\\ 24\\ cm",
+   "Cristel\\ Casteline\\ Removable\\ Exceliss\\+\\ wok\\ met\\ Strate\\ deksel\\ ø\\ 28\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken en wokken van verschillende soorten etenswaren zoals aardappels of vlees.",
+  "bullets": [
+   "Casteline Removable Exceliss+ wok van roestvrij staal met een antiaanbaklaag, opgebouwd uit meerdere lagen; de basis heeft vijf lagen voor een snelle en gelijkmatige warmteverdeling.",
+   "De verwijderbare handvatten en steel zijn los te verkrijgen.",
+   "De handgrepen van de Casteline-collecties zijn los te verkrijgen in allerlei kleuren en materialen.",
+   "Te gebruiken op alle warmtebronnen, inclusief inductie.",
+   "Reinigen met warm water en afwasmiddel.",
+   "Geborsteld roestvrij staal."
+  ],
+  "keys": [
+   "be80e677"
+  ],
+  "requires": [
+   "antiaanbaklaag",
+   "vijf lagen",
+   "los te verkrijgen",
+   "warm water en afwasmiddel"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ grillpan\\ 30\\ x\\ 30\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Casteline Removable grillpan van roestvrij staal, vierkant (30 x 30 cm volgens de productnaam).",
+   "Roestvrijstalen greep aan de pan vastgeklonken; bij goed gebruik wordt deze niet heet. De bijbehorende grepen zijn los verkrijgbaar.",
+   "Opgebouwd uit vijf lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Dichtgelegde gietrand, waardoor de pan vaatwasmachinebestendig is.",
+   "Op elke warmtebron te gebruiken, inclusief inductie, en in de oven."
+  ],
+  "keys": [
+   "66fb062b"
+  ],
+  "requires": [
+   "grillpan",
+   "vijf verschillende lagen",
+   "los verkrijgbaar",
+   "dichtgelegde gietrand"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ koekenpan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ koekenpan\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ koekenpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ koekenpan\\ ø\\ 26\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ koekenpan\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ koekenpan\\ ø\\ 30\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ koekenpan\\ ø\\ 32\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken van verschillende soorten etenswaren zoals aardappels of vlees.",
+  "bullets": [
+   "Casteline Removable koekenpan van roestvrij staal, opgebouwd uit meerdere lagen; de basis heeft vijf lagen voor een snelle en gelijkmatige warmteverdeling.",
+   "De verwijderbare handvatten en steel zijn los te verkrijgen; doordat ze gemakkelijk los te halen zijn, kan de pan ook in de oven.",
+   "De handgrepen van de Casteline-collecties zijn los te verkrijgen in allerlei kleuren en materialen.",
+   "Te gebruiken op alle warmtebronnen, inclusief inductie, en in de oven.",
+   "Vaatwasmachinebestendig.",
+   "Geborsteld roestvrij staal."
+  ],
+  "keys": [
+   "3ad33575"
+  ],
+  "requires": [
+   "vijf lagen",
+   "gemakkelijk los te halen",
+   "los te verkrijgen"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ ø\\ 14\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ ø\\ 16\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ ø\\ 18\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ ø\\ 26\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "Casteline Removable kookpan van roestvrij staal, opgebouwd uit meerdere lagen; de basis heeft vijf lagen voor een snelle en gelijkmatige warmteverdeling.",
+   "De verwijderbare handvatten zijn los te verkrijgen; doordat ze gemakkelijk los te halen zijn, kan de pan ook in de oven.",
+   "De handgrepen van de Casteline-collecties zijn los te verkrijgen in allerlei kleuren en materialen.",
+   "Te gebruiken op alle warmtebronnen, inclusief inductie, en in de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "8cdec0fb",
+   "2e6589a6"
+  ],
+  "requires": [
+   "vijf lagen",
+   "gemakkelijk los te halen",
+   "groenten, soep en saus"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan ø 14 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan ø 16 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan ø 18 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan ø 20 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan ø 22 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan ø 24 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan ø 26 cm rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Graphite\\ deksel\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Graphite\\ deksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Graphite\\ deksel\\ ø\\ 26\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "Casteline Removable kookpan van roestvrij staal, opgebouwd uit meerdere lagen; de basis heeft vijf lagen voor een snelle en gelijkmatige warmteverdeling.",
+   "De pan komt met een rvs deksel.",
+   "De verwijderbare handvatten zijn los te verkrijgen; doordat ze gemakkelijk los te halen zijn, kan de pan ook in de oven.",
+   "De handgrepen van de Casteline-collecties zijn los te verkrijgen in allerlei kleuren en materialen.",
+   "Te gebruiken op alle warmtebronnen, inclusief inductie, en in de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "95b115e6"
+  ],
+  "requires": [
+   "vijf lagen",
+   "met een rvs deksel",
+   "groenten, soep en saus"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 7 liter; de specificaties noemen 7,1 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Casteline Removable kookpan met Graphite deksel ø 26 cm rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 14\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 16\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 18\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 26\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 14\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 16\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 18\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 26\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "Casteline Removable kookpan van roestvrij staal, opgebouwd uit meerdere lagen; de basis heeft vijf lagen voor een snelle en gelijkmatige warmteverdeling.",
+   "De pan komt met een glasdeksel.",
+   "De verwijderbare handvatten zijn los te verkrijgen; doordat ze gemakkelijk los te halen zijn, kan de pan ook in de oven.",
+   "De handgrepen van de Casteline-collecties zijn los te verkrijgen in allerlei kleuren en materialen.",
+   "Te gebruiken op alle warmtebronnen, inclusief inductie, en in de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "f5bb2a10"
+  ],
+  "requires": [
+   "vijf lagen",
+   "komt met een glasdeksel",
+   "groenten, soep en saus"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Platine deksel ø 14 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Platine deksel ø 16 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Platine deksel ø 18 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Platine deksel ø 20 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Platine deksel ø 22 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Platine deksel ø 24 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 7 liter; de specificaties noemen 7,1 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Casteline Removable kookpan met Platine deksel ø 26 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Platine deksel ø 26 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Strate deksel ø 14 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Strate deksel ø 16 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Strate deksel ø 18 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Strate deksel ø 20 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Strate deksel ø 22 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Strate deksel ø 24 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 7 liter; de specificaties noemen 7,1 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Casteline Removable kookpan met Strate deksel ø 26 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Casteline Removable kookpan met Strate deksel ø 26 cm rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ sauteerpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ sauteerpan\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ sauteerpan\\ ø\\ 30\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken en braden van diverse ingrediënten.",
+  "bullets": [
+   "Casteline Removable sauteerpan van roestvrij staal, met twee handgrepen aan beide zijden waaraan een (los te verkrijgen) handgreep vastgezet kan worden.",
+   "Zo is de pan makkelijk te stapelen en kan de greep eraf bij het plaatsen in de oven.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "Vaatwasmachinebestendig.",
+   "Casteline-collectie: sober en elegant design met professionele kwaliteit; Casteline heeft het Origine France Garantie-label."
+  ],
+  "keys": [
+   "a71a3681"
+  ],
+  "requires": [
+   "los te verkrijgen",
+   "makkelijk te stapelen",
+   "Origine France Garantie"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ sauteerpan\\ met\\ Graphite\\ deksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ sauteerpan\\ met\\ Graphite\\ deksel\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ sauteerpan\\ met\\ Graphite\\ deksel\\ ø\\ 30\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ sauteerpan\\ met\\ Platine\\ deksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ sauteerpan\\ met\\ Strate\\ deksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Casteline\\ Removable\\ sauteerpan\\ met\\ Strate\\ deksel\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken en braden van diverse soorten en hoeveelheden vlees, groenten en meer.",
+  "bullets": [
+   "Casteline Removable sauteerpan van roestvrij staal, opgebouwd uit meerdere lagen; de basis heeft vijf lagen voor een snelle en gelijkmatige warmteverdeling.",
+   "Wordt geleverd met een rvs deksel (Graphite, Platine of Strate, zie productnaam).",
+   "De verwijderbare handvatten zijn los te verkrijgen; doordat ze gemakkelijk los te halen zijn, kan de pan ook in de oven.",
+   "De handgrepen van de Casteline-collecties zijn los te verkrijgen in allerlei kleuren en materialen.",
+   "Te gebruiken op alle warmtebronnen, inclusief inductie, en in de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "554ef8d9",
+   "75cfd2a9",
+   "c7d5bd28"
+  ],
+  "requires": [
+   "vijf lagen",
+   "rvs ",
+   "deksel, de verwijderbare handvatten",
+   "gemakkelijk los te halen"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ pannenset\\ rvs\\ 3\\-delig\\ \\+\\ 1\\ Castel",
+   "Cristel\\ Casteline\\ Removable\\ pannenset\\ rvs\\ 3\\-delig\\ \\+\\ 1\\ Castel"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Set Casteline Removable-pannen: Removable ø 16, 18 en 20 cm en een steelgreep (volgens de lijst in de tekst: van roestvrij staal of van beukenhout, per pagina).",
+   "Wanden van aluminium en roestvrij staal (Tri-ply); de bodem heeft extra lagen om de pan geschikt te maken voor inductie. De dikke bodem zorgt voor een uiterst precieze warmteverdeling.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "De pannen zijn afwasmachinebestendig; de grepen niet.",
+   "Casteline-collectie: sober en elegant design met professionele kwaliteit; Casteline heeft het Origine France Garantie-label."
+  ],
+  "keys": [
+   "b0ed72af",
+   "5d82bb28"
+  ],
+  "requires": [
+   "Tri-ply",
+   "uiterst precieze warmteverdeling",
+   "grepen zijn niet vaatwasmachinebestendig",
+   "steelgreep"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam van de set",
+    "websiteSays": "Naam: \"3-delig + 1 Castel\" (afgebroken); de specificaties noemen 4 stuks en de lijst in de tekst bevat drie pannen en een steelgreep.",
+    "note": "Controleer wat er in de set zit."
+   },
+   {
+    "topic": "Twee pagina's met dezelfde naam",
+    "websiteSays": "Er zijn twee pagina's met de naam \"Cristel Casteline Removable pannenset rvs 3-delig + 1 Castel\": in de lijst van de ene staat een steelgreep van roestvrij staal, in de andere een steelgreep van beukenhout.",
+    "note": "Controleer welke variant de klant bedoelt (steelgreep roestvrij staal of beukenhout)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ pannenset\\ rvs\\ 3\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Set Casteline Removable-pannen: Removable ø 16, 18 en 20 cm (volgens de lijst in de tekst).",
+   "Wanden van aluminium en roestvrij staal (Tri-ply); de bodem heeft extra lagen om de pan geschikt te maken voor inductie. De dikke bodem zorgt voor een uiterst precieze warmteverdeling.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "De pannen zijn afwasmachinebestendig; de grepen niet.",
+   "Casteline-collectie: sober en elegant design met professionele kwaliteit; Casteline heeft het Origine France Garantie-label."
+  ],
+  "keys": [
+   "0536bad6"
+  ],
+  "requires": [
+   "Tri-ply",
+   "uiterst precieze warmteverdeling",
+   "grepen zijn niet vaatwasmachinebestendig"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ Removable\\ pannenset\\ rvs\\ 4\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Set Casteline Removable-pannen: Removable ø 14, 16, 18 en 20 cm (volgens de lijst in de tekst).",
+   "Wanden van aluminium en roestvrij staal (Tri-ply); de bodem heeft extra lagen om de pan geschikt te maken voor inductie. De dikke bodem zorgt voor een uiterst precieze warmteverdeling.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "De pannen zijn afwasmachinebestendig; de grepen niet.",
+   "Casteline-collectie: sober en elegant design met professionele kwaliteit; Casteline heeft het Origine France Garantie-label."
+  ],
+  "keys": [
+   "814181b0"
+  ],
+  "requires": [
+   "Tri-ply",
+   "uiterst precieze warmteverdeling",
+   "grepen zijn niet vaatwasmachinebestendig"
+  ],
+  "mismatches": [
+   {
+    "topic": "Titel in de tekst",
+    "websiteSays": "De naam zegt 4-delig; de kop in de tekst luidt \"Cristel Casteline pannenset 3-delig\", terwijl er vier pannen in de lijst staan.",
+    "note": "Controleer wat er in de set zit."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Casteline\\ wokrooster\\ halve\\ cirkel\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Om eten te stomen of te laten uitlekken op een Cristel wok.",
+  "bullets": [
+   "Casteline wokrooster van roestvrij staal, in de vorm van een halve cirkel (halve maan).",
+   "Te gebruiken op de zijkant van een Cristel wok om eten te laten uitlekken of te garen.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "2b7a15f4"
+  ],
+  "requires": [
+   "wokrooster",
+   "halve maan",
+   "uitlekken"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Cookway\\ Ceraliss\\+\\ keramische\\ koekenpan\\ ø\\ 20\\ cm",
+   "Cristel\\ Cookway\\ Ceraliss\\+\\ keramische\\ koekenpan\\ ø\\ 24\\ cm",
+   "Cristel\\ Cookway\\ Ceraliss\\+\\ keramische\\ koekenpan\\ ø\\ 26\\ cm",
+   "Cristel\\ Cookway\\ Ceraliss\\+\\ keramische\\ koekenpan\\ ø\\ 28\\ cm",
+   "Cristel\\ Cookway\\ Ceraliss\\+\\ keramische\\ koekenpan\\ ø\\ 24\\ cm",
+   "Cristel\\ Cookway\\ Ceraliss\\+\\ keramische\\ koekenpan\\ ø\\ 28\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bereiden van diverse gerechten.",
+  "bullets": [
+   "Cookway Ceraliss+ koekenpan van aluminium met een tweelaagse keramische anti-aanbaklaag en een Cookway bodem.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie; ook te gebruiken in de oven, tot 180 °C.",
+   "Greep: aan twee zijden een metalen greepje waaraan een (afzonderlijk verkochte) steel of een stel handgrepen bevestigd wordt; bij sommige uitvoeringen is er in plaats daarvan een zwarte kunststof greep die koel blijft tijdens gebruik.",
+   "Vaatwasmachinebestendig, maar handafwas verlengt de levensduur van de pan."
+  ],
+  "keys": [
+   "29e27979",
+   "c8056056"
+  ],
+  "requires": [
+   "tweelaags keramische",
+   "180°C",
+   "handafwas"
+  ],
+  "mismatches": [
+   {
+    "topic": "Twee pagina's met dezelfde naam",
+    "websiteSays": "Voor ø 24 cm en ø 28 cm zijn er twee pagina's met dezelfde naam (\"Cristel Cookway Ceraliss+ keramische koekenpan\"): de ene tekst noemt een metalen greepje voor een los verkrijgbare steel, de andere een kunststof greep.",
+    "note": "Controleer welke uitvoering de klant bedoelt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Cookway\\ Ceraliss\\+\\ keramische\\ koekenpannenset\\ ø\\ 24\\ \\+\\ 28\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bereiden van diverse gerechten.",
+  "bullets": [
+   "Set van twee Cookway Ceraliss+ koekenpannen (ø 24 en 28 cm volgens de productnaam) met kunststof greep.",
+   "Aluminium pan met een tweelaagse keramische anti-aanbaklaag en een Cookway bodem, geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Zwarte kunststoffen handgreep die koel blijft tijdens gebruik.",
+   "Ook te gebruiken in de oven, tot 180 °C.",
+   "Vaatwasmachinebestendig, maar handafwas verlengt de levensduur van de pan."
+  ],
+  "keys": [
+   "9052f741"
+  ],
+  "requires": [
+   "tweelaags keramische",
+   "koekenpannenset",
+   "180°C",
+   "handafwas"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Cookway\\ crêpepan\\ ø\\ 24\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Cookway\\ crêpepan\\ ø\\ 28\\ cm\\ aluminium\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van pannenkoeken of crêpes.",
+  "bullets": [
+   "Cookway crêpepan van aluminium met anti-aanbaklaag en een inductiegeschikte, roestvrijstalen bodem.",
+   "De handgreep is van hittebestendige kunststof, hittebestendig tot 180 graden Celsius.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "c744327c"
+  ],
+  "requires": [
+   "crêpepan",
+   "180 graden"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Cookway\\ sauteuse\\ met\\ anti\\-aanbaklaag\\ en\\ glasdeksel\\ ø\\ 24\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Om al uw gerechten te bakken.",
+  "bullets": [
+   "Cookway hapjespan of sauteuse van aluminium met drie lagen antiaanbaklaag; wordt geleverd met een glasdeksel met kunststoffen knop.",
+   "Cookway bodem, geschikt voor inductie; op elke warmtebron te gebruiken.",
+   "Zwarte kunststoffen handgreep die niet heet wordt.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "87fc1401"
+  ],
+  "requires": [
+   "hapjespan of sauteuse",
+   "glasdeksel",
+   "niet heet wordt",
+   "met de hand afwast"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Cookway\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 26\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Cookway\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 32\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Cookway\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 20\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Cookway\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 28\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Cookway\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 30\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Cookway\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 24\\ cm\\ aluminium\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Om al uw gerechten te bakken.",
+  "bullets": [
+   "Cookway koekenpan van aluminium met drie lagen antiaanbaklaag.",
+   "Cookway bodem, geschikt voor inductie; op elke warmtebron te gebruiken.",
+   "Kunststoffen greep aan de pan bevestigd: een zwarte kunststoffen handgreep die niet heet wordt.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "997d4a70",
+   "cee14f51"
+  ],
+  "requires": [
+   "kunststoffen greep",
+   "niet heet wordt",
+   "met de hand afwast"
+  ],
+  "mismatches": [
+   {
+    "topic": "Diameter",
+    "websiteSays": "De tekst noemt een diameter van 28 cm; de specificaties noemen 26 cm.",
+    "note": "Controleer de diameter op de pan of de doos.",
+    "only": "Cristel Cookway koekenpan met anti-aanbaklaag ø 26 cm aluminium zwart"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Cookway\\ Removable\\ Exceliss\\+\\ Ultralu\\ grillpan\\ 28\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Om gerechten te grillen.",
+  "bullets": [
+   "Cookway Removable Exceliss+ Ultralu grillpan, vierkant (28 x 28 cm volgens de productnaam).",
+   "Basis van gegoten aluminium met een stevige anti-aanbaklaag; de bodem is voorzien van een roestvrijstalen plaat.",
+   "De pan verdraagt temperaturen tot 250 °C.",
+   "Te gebruiken op elke warmtebron en in de oven; ook geschikt voor inductie.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Cookway Removable pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "054dcd32"
+  ],
+  "requires": [
+   "stevige anti-aanbaklaag",
+   "roestvrijstalen plaat",
+   "afzonderlijk verkocht",
+   "250",
+   "met de hand afwast",
+   "grillpan"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Cookway\\ Removable\\ Exceliss\\+\\ Ultralu\\ koekenpan\\ ø\\ 32\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Om gerechten aan te bakken.",
+  "bullets": [
+   "Cookway Removable Exceliss+ Ultralu koekenpan.",
+   "Basis van gegoten aluminium met een stevige anti-aanbaklaag; de bodem is voorzien van een roestvrijstalen plaat.",
+   "De pan verdraagt temperaturen tot 250 °C.",
+   "Te gebruiken op elke warmtebron en in de oven; ook geschikt voor inductie.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Cookway Removable pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "3288130b"
+  ],
+  "requires": [
+   "stevige anti-aanbaklaag",
+   "roestvrijstalen plaat",
+   "afzonderlijk verkocht",
+   "250",
+   "met de hand afwast",
+   "koekenpan"
+  ],
+  "mismatches": [
+   {
+    "topic": "Diameter",
+    "websiteSays": "De tekst noemt een diameter van 26 cm; de specificaties noemen 32 cm.",
+    "note": "Controleer de diameter op de pan of de doos.",
+    "only": "Cristel Cookway Removable Exceliss+ Ultralu koekenpan ø 32 cm"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Cookway\\ Removable\\ Exceliss\\+\\ Ultralu\\ koekenpannenset\\ ø\\ 24\\ cm\\ \\+\\ 28\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Om gerechten aan te bakken.",
+  "bullets": [
+   "Set van twee Cookway Removable Exceliss+ Ultralu koekenpannen (ø 24 en 28 cm volgens de productnaam).",
+   "Basis van gegoten aluminium met een stevige anti-aanbaklaag; de bodem is voorzien van een roestvrijstalen plaat.",
+   "De pan verdraagt temperaturen tot 250 °C.",
+   "Te gebruiken op elke warmtebron en in de oven; ook geschikt voor inductie.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Cookway Removable pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "3288130b"
+  ],
+  "requires": [
+   "stevige anti-aanbaklaag",
+   "roestvrijstalen plaat",
+   "afzonderlijk verkocht",
+   "250",
+   "met de hand afwast",
+   "koekenpan"
+  ],
+  "mismatches": [
+   {
+    "topic": "Diameter",
+    "websiteSays": "De tekst noemt een diameter van 26 cm; de specificaties noemen 28 cm.",
+    "note": "Controleer de diameter op de pan of de doos.",
+    "only": "Cristel Cookway Removable Exceliss+ Ultralu koekenpannenset ø 24 cm + 28 cm"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Cookway\\ Removable\\ Exceliss\\+\\ Ultralu\\ kookpan\\ ø\\ 16\\ cm",
+   "Cristel\\ Cookway\\ Removable\\ Exceliss\\+\\ Ultralu\\ kookpan\\ ø\\ 18\\ cm",
+   "Cristel\\ Cookway\\ Removable\\ Exceliss\\+\\ Ultralu\\ kookpan\\ ø\\ 24\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Om gerechten aan te bakken.",
+  "bullets": [
+   "Cookway Removable Exceliss kookpan.",
+   "Basis van gegoten aluminium met een stevige anti-aanbaklaag; de bodem is voorzien van een roestvrijstalen plaat.",
+   "De pan verdraagt temperaturen tot 250 °C.",
+   "Te gebruiken op elke warmtebron en in de oven; ook geschikt voor inductie.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Cookway Removable pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "7db8b219"
+  ],
+  "requires": [
+   "stevige anti-aanbaklaag",
+   "roestvrijstalen plaat",
+   "afzonderlijk verkocht",
+   "250",
+   "met de hand afwast",
+   "kookpan"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Cookway\\ Removable\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 20\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Cookway\\ Removable\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 28\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Cookway\\ Removable\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 30\\ cm\\ alum112inium\\ zwart",
+   "Cristel\\ Cookway\\ Removable\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 24\\ cm\\ aluminium\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Om gerechten aan te bakken.",
+  "bullets": [
+   "Cookway Two koekenpan met anti-aanbaklaag (Cookway Removable).",
+   "Basis van gegoten aluminium met een stevige anti-aanbaklaag; de bodem is voorzien van een roestvrijstalen plaat.",
+   "De pan verdraagt temperaturen tot 250 °C.",
+   "Te gebruiken op elke warmtebron en in de oven; ook geschikt voor inductie.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Cookway Removable pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "b9654929",
+   "5bfa5350"
+  ],
+  "requires": [
+   "stevige anti-aanbaklaag",
+   "roestvrijstalen plaat",
+   "afzonderlijk verkocht",
+   "250",
+   "met de hand afwast",
+   "koekenpan"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Cookway\\ Removable\\ sauteerpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 24\\ cm\\ aluminium\\ zwart",
+   "Cristel\\ Cookway\\ Removable\\ sauteerpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 28\\ cm\\ aluminium\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Om gerechten aan te bakken.",
+  "bullets": [
+   "Cookway Two sauteerpan met anti-aanbaklaag (Cookway Removable); door de hoge zijwanden goed te gebruiken als sauteuse of hapjespan.",
+   "Basis van gegoten aluminium met een stevige anti-aanbaklaag; de bodem is voorzien van een roestvrijstalen plaat.",
+   "De pan verdraagt temperaturen tot 250 °C.",
+   "Te gebruiken op elke warmtebron en in de oven; ook geschikt voor inductie.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Cookway Removable pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "4035d646",
+   "995c05d5"
+  ],
+  "requires": [
+   "stevige anti-aanbaklaag",
+   "roestvrijstalen plaat",
+   "afzonderlijk verkocht",
+   "250",
+   "met de hand afwast",
+   "sauteerpan",
+   "hoge zijwanden"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Grill\\ plancha\\ met\\ 2\\ grepen\\ ø\\ 34\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor teppanyaki-bereidingen, het warmhouden van vlees, vis of groenten, of om een eitje in stijl te bakken.",
+  "bullets": [
+   "Cristel Grill plancha van roestvrij staal met twee handgrepen, waarmee de plaat gemakkelijk op te tillen is; wordt geleverd met een bolle deksel voor het sierlijk serveren.",
+   "Geschikt voor het streeploos grillen van verschillende etenswaren tegelijk op het grote bakoppervlak.",
+   "Geschikt voor alle warmtebronnen, waaronder inductie (op een ronde of flex-zone van geschikt formaat), en voor de oven.",
+   "Vaatwasmachinebestendig; bij bruine verkleuring te reinigen met (Cristel) roestvrijstaalreiniger."
+  ],
+  "keys": [
+   "7df8d6fe"
+  ],
+  "requires": [
+   "plancha",
+   "bolle deksel",
+   "streeploos",
+   "flex-zone",
+   "roestvrijstaalreiniger"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ mini\\ braadslede\\ 12\\ x\\ 10\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden of serveren van diverse soorten kleine gerechten.",
+  "bullets": [
+   "Mini braadslede van roestvrij staal met een aluminium tussenlaag voor een goede warmtegeleiding.",
+   "Geschikt voor alle warmtebronnen, inclusief de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "985b0436"
+  ],
+  "requires": [
+   "mini braadslede",
+   "aluminium tussenlaag",
+   "kleine gerechten"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ mini\\ koekenpan\\ ø\\ 10\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ mini\\ koekenpan\\ ø\\ 12\\ cm\\ rvs\\ met\\ koperen\\ greep"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken van kleine gerechten zoals een ei, groenten of een kleine portie vlees of vis.",
+  "bullets": [
+   "Mini koekenpan (Castel'Pro) met compacte vormgeving, voor kleine bereidingen en individuele porties.",
+   "Drielaagse opbouw van roestvrij staal met een aluminium kern (tri-ply): snelle en gelijkmatige verhitting over de gehele pan.",
+   "Vastgeklonken roestvrijstalen greep met koperen afwerking, geïnspireerd op de Bicentenaire Limited Edition-serie voor het 200-jarig jubileum van Cristel.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie; geschikt voor de oven en de grill (specificaties).",
+   "Kan rechtstreeks van het fornuis naar tafel.",
+   "Reinigen in de afwasmachine of met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "cca5ff1e"
+  ],
+  "requires": [
+   "drielaagse opbouw",
+   "koperen afwerking",
+   "van het fornuis naar tafel",
+   "afwasmachine",
+   "mini koekenpan"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ mini\\ kookpan\\ ø\\ 10\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ mini\\ kookpan\\ ø\\ 12\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ mini\\ kookpan\\ ø\\ 9\\ cm\\ rvs\\ met\\ koperen\\ greep"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden, opwarmen en serveren van kleine gerechten, sauzen of individuele porties.",
+  "bullets": [
+   "Mini kookpan (Castel'Pro) met bijpassend deksel, voor het bereiden en serveren van kleine porties.",
+   "Drielaagse opbouw van roestvrij staal met een aluminium kern (tri-ply): snelle en gelijkmatige verhitting over de gehele pan.",
+   "Vastgeklonken roestvrijstalen greep met koperen afwerking, geïnspireerd op de Bicentenaire Limited Edition-serie voor het 200-jarig jubileum van Cristel.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie; geschikt voor de oven en de grill (specificaties).",
+   "Kan rechtstreeks van het fornuis naar tafel.",
+   "Reinigen in de afwasmachine of met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8f2b8377"
+  ],
+  "requires": [
+   "drielaagse opbouw",
+   "koperen afwerking",
+   "van het fornuis naar tafel",
+   "afwasmachine",
+   "mini kookpan",
+   "bijpassend deksel"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ mini\\ sauspan\\ ø\\ 10\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ mini\\ sauspan\\ ø\\ 12\\ cm\\ rvs\\ met\\ koperen\\ greep",
+   "Cristel\\ mini\\ sauspan\\ ø\\ 9\\ cm\\ rvs\\ met\\ koperen\\ greep"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden, opwarmen en serveren van sauzen en individuele porties.",
+  "bullets": [
+   "Mini sauspan (Castel'Pro) met compacte vormgeving, voor kleine porties en sauzen.",
+   "Drielaagse opbouw van roestvrij staal met een aluminium kern (tri-ply): snelle en gelijkmatige verhitting over de gehele pan.",
+   "Vastgeklonken roestvrijstalen greep met koperen afwerking, geïnspireerd op de Bicentenaire Limited Edition-serie voor het 200-jarig jubileum van Cristel.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie; geschikt voor de oven en de grill (specificaties).",
+   "Kan rechtstreeks van het fornuis naar tafel.",
+   "Reinigen in de afwasmachine of met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9461f432",
+   "ecf76ba8"
+  ],
+  "requires": [
+   "drielaagse opbouw",
+   "koperen afwerking",
+   "van het fornuis naar tafel",
+   "afwasmachine",
+   "mini sauspan"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Fixed\\ Exceliss\\+\\ ovale\\ koekenpan\\ ø\\ 35\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van diverse gerechten zoals vlees, eieren, groente en meer.",
+  "bullets": [
+   "Mutine Fixed Exceliss+ ovale koekenpan van roestvrij staal met een anti-aanbaklaag.",
+   "Fixed: de pan heeft een vaste handgreep.",
+   "Geschikt voor elke warmtebron, inclusief inductie.",
+   "Afwassen met de hand."
+  ],
+  "keys": [
+   "1c37164b"
+  ],
+  "requires": [
+   "anti-aanbaklaag",
+   "vaste handgreep",
+   "met de hand"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Fixed\\ kookpan\\ met\\ glasdeksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Fixed\\ kookpan\\ met\\ glasdeksel\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Om diverse ingrediënten in te koken.",
+  "bullets": [
+   "Mutine Fixed kookpan van roestvrij staal met twee vaste handgrepen; wordt geleverd met een glazen deksel.",
+   "Geschikt voor elke warmtebron, inclusief inductie.",
+   "De tekst zegt dat de pannen met de hand afgewassen worden."
+  ],
+  "keys": [
+   "a015b98c",
+   "7ce4572d"
+  ],
+  "requires": [
+   "glazen deksel",
+   "twee vaste handgrepen",
+   "was je af met de hand"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reiniging",
+    "websiteSays": "De tekst zegt \"De Cristel Mutine Fixed pannen was je af met de hand\"; de specificaties noemen bij Reiniging: vaatwasmachinebestendig.",
+    "note": "Vraag na of de pan in de vaatwasser mag."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ ø\\ 14\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ ø\\ 16\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ ø\\ 18\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ ø\\ 26\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van groenten, pasta, soepen en meer.",
+  "bullets": [
+   "Mutine Removable kookpan van roestvrij staal, verkrijgbaar met losse grepen die eenvoudig verwijderd kunnen worden; zo kunnen de kookpannen na gebruik efficiënt worden opgeruimd.",
+   "Handgrepen zijn eenvoudig te verwijderen en om te wisselen; de handgrepen zijn los verkrijgbaar.",
+   "Geschikt voor elke warmtebron, inclusief inductie, en voor de oven tot 300 °C.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "11646cbe"
+  ],
+  "requires": [
+   "eenvoudig worden verwijderd en omgewisseld",
+   "tot temperaturen van 300°C",
+   "vaatwasserbestendig"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ met\\ glasdeksel\\ ø\\ 14\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ met\\ glasdeksel\\ ø\\ 16\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ met\\ glasdeksel\\ ø\\ 18\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ met\\ glasdeksel\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ met\\ glasdeksel\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ kookpan\\ met\\ glasdeksel\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van groenten, pasta, soepen en meer.",
+  "bullets": [
+   "Mutine Removable kookpan van roestvrij staal, verkrijgbaar met losse grepen die eenvoudig verwijderd kunnen worden; wordt geleverd met een glasdeksel.",
+   "Handgrepen zijn eenvoudig te verwijderen en om te wisselen; de handgrepen zijn los verkrijgbaar.",
+   "Geschikt voor elke warmtebron, inclusief inductie, en voor de oven tot 300 °C.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "d2de596a"
+  ],
+  "requires": [
+   "eenvoudig worden verwijderd en omgewisseld",
+   "tot temperaturen van 300°C",
+   "vaatwasserbestendig",
+   "glasdeksel"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Removable\\ koekenpan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ koekenpan\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ koekenpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ koekenpan\\ ø\\ 26\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ koekenpan\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ koekenpan\\ ø\\ 30\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken en braden van vlees, groenten en meer.",
+  "bullets": [
+   "Mutine Removable koekenpan van roestvrij staal, verkrijgbaar met losse grepen die eenvoudig verwijderd kunnen worden; zo kunnen de pannen na gebruik efficiënt worden opgeruimd.",
+   "Handgrepen zijn eenvoudig te verwijderen en om te wisselen; de handgrepen zijn los verkrijgbaar.",
+   "Geschikt voor elke warmtebron, inclusief inductie, en voor de oven tot 300 °C.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "8918bf64"
+  ],
+  "requires": [
+   "eenvoudig worden verwijderd en omgewisseld",
+   "tot temperaturen van 300°C",
+   "vaatwasserbestendig"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Removable\\ soeppan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ soeppan\\ ø\\ 22\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van soepen en sauzen.",
+  "bullets": [
+   "Mutine Removable soeppan van roestvrij staal, verkrijgbaar met losse grepen die eenvoudig verwijderd kunnen worden.",
+   "Handgrepen zijn eenvoudig te verwijderen en om te wisselen; de handgrepen zijn los verkrijgbaar.",
+   "Geschikt voor elke warmtebron, inclusief inductie, en voor de oven tot 300 °C.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "0c7a886c"
+  ],
+  "requires": [
+   "eenvoudig worden verwijderd en omgewisseld",
+   "tot temperaturen van 300°C",
+   "vaatwasserbestendig",
+   "soeppan"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Removable\\ soeppan\\ met\\ Platine\\ deksel\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ soeppan\\ met\\ Platine\\ deksel\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ soeppan\\ met\\ Strate\\ deksel\\ ø\\ 22\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van soepen en sauzen.",
+  "bullets": [
+   "Mutine Removable soeppan van roestvrij staal, verkrijgbaar met losse grepen die eenvoudig verwijderd kunnen worden; wordt geleverd met een deksel (Platine of Strate, zie productnaam).",
+   "Handgrepen zijn eenvoudig te verwijderen en om te wisselen; de handgrepen zijn los verkrijgbaar.",
+   "Geschikt voor elke warmtebron, inclusief inductie, en voor de oven tot 300 °C.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "8a47c09d",
+   "2e800b7b"
+  ],
+  "requires": [
+   "eenvoudig worden verwijderd en omgewisseld",
+   "tot temperaturen van 300°C",
+   "vaatwasserbestendig",
+   "soeppan wordt geleverd met een"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Removable\\ diepe\\ koekenpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ diepe\\ koekenpan\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het aanbakken en garen van verschillende soorten gerechten.",
+  "bullets": [
+   "Mutine Removable diepe koekenpan van roestvrij staal.",
+   "Geronde rand: makkelijk met een spatel onder het product te komen.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Mutine pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Geschikt voor elke warmtebron, inclusief inductie, en voor de oven (specificaties).",
+   "Mutine-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "68977132"
+  ],
+  "requires": [
+   "geronde rand",
+   "afzonderlijk verkocht",
+   "L-vorm",
+   "handafwas"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ diepe\\ koekenpan\\ ø\\ 24\\ cm",
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ diepe\\ koekenpan\\ ø\\ 28\\ cm",
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ ovale\\ koekenpan\\ ø\\ 35\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het aanbakken en garen van verschillende soorten gerechten.",
+  "bullets": [
+   "Mutine Removable Exceliss+ koekenpan (diepe of ovale uitvoering, zie productnaam) van roestvrij staal met anti-aanbaklaag.",
+   "Geronde rand: makkelijk met een spatel onder het product te komen.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Mutine pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Geschikt voor elke warmtebron, inclusief inductie, en voor de oven (specificaties).",
+   "Mutine-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "36048734",
+   "d308582d"
+  ],
+  "requires": [
+   "geronde rand",
+   "afzonderlijk verkocht",
+   "L-vorm",
+   "handafwas"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ koekenpan\\ ø\\ 20\\ cm",
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ koekenpan\\ ø\\ 22\\ cm",
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ koekenpan\\ ø\\ 26\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het aanbakken en garen van verschillende soorten gerechten.",
+  "bullets": [
+   "Mutine Exceliss+ koekenpan met anti-aanbaklaag aan de binnenzijde.",
+   "Geronde rand: makkelijk met een spatel onder het product te komen.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Mutine pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Geschikt voor elke warmtebron, inclusief inductie, en voor de oven (specificaties).",
+   "Mutine-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "22e0c985"
+  ],
+  "requires": [
+   "geronde rand",
+   "afzonderlijk verkocht",
+   "L-vorm",
+   "anti-aanbaklaag",
+   "handafwas"
+  ],
+  "mismatches": [
+   {
+    "topic": "Serienaam in de tekst",
+    "websiteSays": "De tekst eindigt met \"De Cristel Strate koekenpan is vaatwasmachinebestendig, maar gaat langer mee door handafwas\", terwijl de pan Mutine heet.",
+    "note": "Controleer of de tekst bij dit product hoort."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ crêpepan\\ ø\\ 26\\ cm",
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ crêpepan\\ ø\\ 30\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het aanbakken en garen van verschillende soorten gerechten.",
+  "bullets": [
+   "Mutine Removable Exceliss+ crêpepan met anti-aanbaklaag aan de binnenzijde.",
+   "Geronde rand: makkelijk met een spatel onder het product te komen.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Mutine pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Geschikt voor elke warmtebron, inclusief inductie, en voor de oven (specificaties).",
+   "Mutine-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "2be4cb39"
+  ],
+  "requires": [
+   "geronde rand",
+   "afzonderlijk verkocht",
+   "L-vorm",
+   "crêpepan",
+   "handafwas"
+  ],
+  "mismatches": [
+   {
+    "topic": "Serienaam in de tekst",
+    "websiteSays": "De tekst eindigt met \"De Cristel Strate crêpepan is vaatwasmachinebestendig, maar gaat langer mee door handafwas\", terwijl de pan Mutine heet.",
+    "note": "Controleer of de tekst bij dit product hoort."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ sauteerpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ sauteerpan\\ ø\\ 26\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ sauteerpan\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ sauteerpan\\ met\\ Platine\\ deksel\\ ø\\ 28\\ cm",
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ sauteerpan\\ met\\ Platine\\ deksel\\ ø\\ 26\\ cm",
+   "Cristel\\ Mutine\\ Removable\\ Exceliss\\+\\ sauteerpan\\ met\\ Platine\\ deksel\\ ø\\ 24\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het aanbakken en garen van verschillende soorten gerechten.",
+  "bullets": [
+   "Mutine Removable Exceliss+ sauteerpan van roestvrij staal met aan de binnenzijde een anti-aanbaklaag.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Mutine pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Geschikt voor elke warmtebron, inclusief inductie, en voor de oven (specificaties).",
+   "Mutine-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "a4bf7d17",
+   "d391adec",
+   "5f2ebae5"
+  ],
+  "requires": [
+   "anti-aanbaklaag",
+   "afzonderlijk verkocht",
+   "L-vorm",
+   "sauteerpan",
+   "handafwas"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Mutine\\ Removable\\ sauteerpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ sauteerpan\\ ø\\ 26\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ sauteerpan\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ sauteerpan\\ ø\\ 32\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ sauteerpan\\ met\\ Platine\\ deksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ sauteerpan\\ met\\ Platine\\ deksel\\ ø\\ 26\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ sauteerpan\\ met\\ Platine\\ deksel\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Mutine\\ Removable\\ sauteerpan\\ met\\ Platine\\ deksel\\ ø\\ 32\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het aanbakken en garen van verschillende soorten gerechten.",
+  "bullets": [
+   "Mutine Removable sauteerpan van roestvrij staal.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Mutine pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Geschikt voor elke warmtebron, inclusief inductie, en voor de oven (specificaties).",
+   "Mutine-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "1e7c6271",
+   "e03c909a"
+  ],
+  "requires": [
+   "afzonderlijk verkocht",
+   "L-vorm",
+   "sauteerpan",
+   "handafwas"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Fixed\\ pannenset\\ met\\ glasdeksels\\ rvs\\ 4\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Als basis voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "Strate Fixed pannenset met glasdeksels van roestvrij staal: kookpan met glasdeksel ø 16, 18 en 20 cm en een steelpan ø 16 cm zonder deksel.",
+   "Pannen met een neerklapbare handgreep; de handgrepen zitten aan de zijkant van de pan vast en door het ranke ontwerp zijn de pannen stapelbaar.",
+   "Het deksel heeft een metalen stootrand, waardoor het beter tegen breuken beschermd wordt.",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "1f3f1339"
+  ],
+  "requires": [
+   "neerklapbare handgreep",
+   "stootrand",
+   "Steelpan ø 16 cm",
+   "L-vorm"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Fixed\\ pannenset\\ met\\ glasdeksels\\ rvs\\ 5\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Als basis voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "Strate Fixed pannenset met glasdeksels van roestvrij staal: kookpan met glasdeksel ø 16, 18 en 20 cm, soeppan met glasdeksel ø 22 cm en een steelpan ø 16 cm zonder deksel.",
+   "Pannen met een neerklapbare handgreep; de handgrepen zitten aan de zijkant van de pan vast en door het ranke ontwerp zijn de pannen stapelbaar.",
+   "Het deksel heeft een metalen stootrand, waardoor het beter tegen breuken beschermd wordt.",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "5d4bc379"
+  ],
+  "requires": [
+   "neerklapbare handgreep",
+   "stootrand",
+   "Soeppan met glasdeksel ø 22 cm",
+   "L-vorm"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ pannenset\\ rvs\\ 4\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van verschillende grote en kleine gerechten.",
+  "bullets": [
+   "Strate Removable pannenset van roestvrij staal met vier pannen: ø 14 cm (1 liter), ø 16 cm (1,6 liter), ø 18 cm (2,1 liter) en ø 20 cm (2,9 liter).",
+   "Aan twee kanten van de pan zit een greepje waaraan een steel of een stel grepen bevestigd kan worden; die grepen en stelen worden afzonderlijk verkocht.",
+   "Door de dikke bodem wordt de warmte snel en gelijkmatig verdeeld.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "3cc15586"
+  ],
+  "requires": [
+   "14 cm (hoogte",
+   "20 cm (hoogte",
+   "afzonderlijk verkocht",
+   "L-vorm"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ set\\ kookpannen\\ rvs\\ 3\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van verschillende grote en kleine gerechten.",
+  "bullets": [
+   "Strate Removable pannenset van roestvrij staal met drie pannen: ø 16 cm (1,6 liter), ø 18 cm (2,1 liter) en ø 20 cm (2,9 liter).",
+   "Aan twee kanten van de pan zit een greepje waaraan een steel of een stel grepen bevestigd kan worden; die grepen en stelen worden afzonderlijk verkocht.",
+   "Door de dikke bodem wordt de warmte snel en gelijkmatig verdeeld.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "f542342f"
+  ],
+  "requires": [
+   "16 cm (hoogte",
+   "20 cm (hoogte",
+   "afzonderlijk verkocht",
+   "L-vorm"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ set\\ kookpannen\\ met\\ 1\\ losse\\ steelgreep\\ en\\ 2\\ zijgrepen\\ rvs\\ 3\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van verschillende grote en kleine gerechten.",
+  "bullets": [
+   "Strate Removable set van roestvrij staal met drie pannen (ø 16 cm, 1,6 liter; ø 18 cm, 2,1 liter; ø 20 cm, 2,9 liter), 1 steelgreep en 2 zijgrepen.",
+   "Aan twee kanten van de pan zit een greepje waaraan een steel of een stel grepen bevestigd kan worden.",
+   "Door de dikke bodem wordt de warmte snel en gelijkmatig verdeeld.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "b54dd763"
+  ],
+  "requires": [
+   "16 cm (hoogte",
+   "1 steelgreep",
+   "2 zijgrepen",
+   "L-vorm"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal delen",
+    "websiteSays": "Naam: 3-delig; specificaties: Aantal delen 6.",
+    "note": "Controleer wat er in de set zit.",
+    "only": "Cristel Strate Removable set kookpannen met 1 losse steelgreep en 2 zijgrepen rvs 3-delig"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ Exceliss\\+\\ sauteerpan\\ met\\ Platine\\ deksel\\ ø\\ 24\\ cm",
+   "Cristel\\ Strate\\ Removable\\ Exceliss\\+\\ sauteerpan\\ met\\ Strate\\ deksel\\ ø\\ 24\\ cm",
+   "Cristel\\ Strate\\ Removable\\ Exceliss\\+\\ sauteerpan\\ met\\ Strate\\ deksel\\ ø\\ 28\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken, koken en garen van verschillende soorten gerechten.",
+  "bullets": [
+   "Strate Removable Exceliss+ sauteerpan met een sterke Exceliss+ anti-aanbaklaag.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Strate pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "7c2aa95f"
+  ],
+  "requires": [
+   "Exceliss+ anti-aanbaklaag",
+   "afzonderlijk verkocht",
+   "L-vorm",
+   "handafwas"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 4,2 liter; de specificaties noemen 3,3 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable Exceliss+ sauteerpan met Platine deksel ø 24 cm"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 4,2 liter; de specificaties noemen 3,3 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable Exceliss+ sauteerpan met Strate deksel ø 24 cm"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ Exceliss\\+\\ hoge\\ koekenpan\\ ø\\ 28\\ cm"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het aanbakken en garen van verschillende soorten gerechten.",
+  "bullets": [
+   "Strate Removable Exceliss+ hoge koekenpan met anti-aanbaklaag aan de binnenzijde.",
+   "Geronde rand: makkelijk met een spatel onder het product te komen.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Strate pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "28ff950b"
+  ],
+  "requires": [
+   "anti-aanbaklaag",
+   "geronde rand",
+   "afzonderlijk verkocht",
+   "L-vorm",
+   "handafwas"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 26\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 30\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het aanbakken en garen van verschillende soorten gerechten.",
+  "bullets": [
+   "Strate Removable koekenpan met anti-aanbaklaag aan de binnenzijde.",
+   "Geronde rand: makkelijk met een spatel onder het product te komen.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Strate pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie.",
+   "Vaatwasmachinebestendig, maar gaat langer mee met handafwas."
+  ],
+  "keys": [
+   "cda63e87",
+   "df14e751"
+  ],
+  "requires": [
+   "anti-aanbaklaag",
+   "geronde rand",
+   "afzonderlijk verkocht",
+   "L-vorm",
+   "handafwas"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ koekenpan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ koekenpan\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ koekenpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ koekenpan\\ ø\\ 28\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ koekenpan\\ ø\\ 26\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ koekenpan\\ ø\\ 30\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het aanbakken en garen van verschillende soorten gerechten.",
+  "bullets": [
+   "Strate Removable koekenpan van roestvrij staal.",
+   "Geronde rand: makkelijk met een spatel onder het product te komen.",
+   "Aan twee zijden zit een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; de bijbehorende Cristel Strate pannengrepen en -stelen worden afzonderlijk verkocht.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "cda63e87",
+   "12a24531",
+   "8b40765c"
+  ],
+  "requires": [
+   "geronde rand",
+   "afzonderlijk verkocht",
+   "L-vorm"
+  ],
+  "mismatches": [
+   {
+    "topic": "Twee pagina's met dezelfde naam",
+    "websiteSays": "\"Cristel Strate Removable koekenpan ø 20 cm rvs\" staat twee keer op de website: één tekst noemt een anti-aanbaklaag aan de binnenzijde, de andere niet.",
+    "note": "Controleer of de pan een anti-aanbaklaag heeft.",
+    "only": "Cristel Strate Removable koekenpan ø 20 cm rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 14\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 16\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 18\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Platine\\ deksel\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 14\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 16\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 18\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ met\\ Strate\\ deksel\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "Strate Removable kookpan van roestvrij staal met een glasdeksel (Platine of Strate, zie productnaam); de verwijderbare handvatten zijn los te verkrijgen.",
+   "Bodem met drie lagen (inductie roestvrij staal, aluminium, 18/10 roestvrij staal): snelle en gelijkmatige warmteverdeling.",
+   "Het borosilicaatglas van het deksel is bestand tegen temperaturen tot 220 °C; de pan kan ook in de oven.",
+   "Handgrepen van de Strate-collecties zijn los te verkrijgen in allerlei kleuren en materialen.",
+   "Te gebruiken op alle warmtebronnen, inclusief inductie.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "28c2bd92"
+  ],
+  "requires": [
+   "komt met een glasdeksel",
+   "220°C",
+   "allerlei kleuren",
+   "drie lagen"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Platine deksel ø 14 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 1,5 liter; de specificaties noemen 1,6 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable kookpan met Platine deksel ø 16 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Platine deksel ø 16 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 2 liter; de specificaties noemen 2,1 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable kookpan met Platine deksel ø 18 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Platine deksel ø 18 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 3 liter; de specificaties noemen 2,9 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable kookpan met Platine deksel ø 20 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Platine deksel ø 20 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 4 liter; de specificaties noemen 3,9 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable kookpan met Platine deksel ø 22 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Platine deksel ø 22 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 5 liter; de specificaties noemen 5,1 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable kookpan met Platine deksel ø 24 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Platine deksel ø 24 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Strate deksel ø 14 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 1,5 liter; de specificaties noemen 1,6 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable kookpan met Strate deksel ø 16 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Strate deksel ø 16 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 2 liter; de specificaties noemen 2,1 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable kookpan met Strate deksel ø 18 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Strate deksel ø 18 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 3 liter; de specificaties noemen 2,9 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable kookpan met Strate deksel ø 20 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Strate deksel ø 20 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 4 liter; de specificaties noemen 3,9 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable kookpan met Strate deksel ø 22 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Strate deksel ø 22 cm rvs"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 5 liter; de specificaties noemen 5,1 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable kookpan met Strate deksel ø 24 cm rvs"
+   },
+   {
+    "topic": "Maximale oventemperatuur",
+    "websiteSays": "De tekst noemt 220°C; de specificaties noemen als maximumtemperatuur 300°C.",
+    "note": "Controleer de maximale temperatuur voordat je dit aan een klant belooft.",
+    "only": "Cristel Strate Removable kookpan met Strate deksel ø 24 cm rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ ø\\ 14\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ ø\\ 24\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ ø\\ 16\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ ø\\ 18\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ ø\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van verschillende soorten gerechten.",
+  "bullets": [
+   "Strate Removable kookpan van roestvrij staal.",
+   "Metalen greepje aan twee zijden waaraan een steel of een stel handgrepen bevestigd kan worden; die grepen en stelen worden afzonderlijk verkocht.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "a878db54",
+   "788b8798"
+  ],
+  "requires": [
+   "kookpan",
+   "afzonderlijk verkocht",
+   "L-vorm"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ melkpan\\ ø\\ 14\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van melk: doordat de pan smal is, brandt de melk minder snel aan.",
+  "bullets": [
+   "Strate Removable melkpan van roestvrij staal.",
+   "Metalen greepje aan twee zijden waaraan een steel of een stel handgrepen bevestigd kan worden; die grepen en stelen worden afzonderlijk verkocht.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "7632166f"
+  ],
+  "requires": [
+   "melkpan",
+   "smal",
+   "afzonderlijk verkocht",
+   "L-vorm"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ sauteerpan\\ met\\ Platine\\ deksel\\ ø\\ 24\\ cm",
+   "Cristel\\ Strate\\ Removable\\ sauteerpan\\ met\\ Strate\\ deksel\\ ø\\ 24\\ cm",
+   "Cristel\\ Strate\\ Removable\\ sauteerpan\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken, koken en garen van verschillende soorten gerechten.",
+  "bullets": [
+   "Strate Removable sauteerpan van roestvrij staal.",
+   "Metalen greepje aan twee zijden waaraan een steel of een stel handgrepen bevestigd kan worden; die grepen en stelen worden afzonderlijk verkocht.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "3d5c2390"
+  ],
+  "requires": [
+   "sauteerpan",
+   "afzonderlijk verkocht",
+   "L-vorm"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 2 liter; de specificaties noemen 3,3 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable sauteerpan met Platine deksel ø 24 cm"
+   },
+   {
+    "topic": "Inhoud",
+    "websiteSays": "De tekst noemt een inhoud van 2 liter; de specificaties noemen 3,3 liter.",
+    "note": "Controleer de inhoud op de pan of de doos.",
+    "only": "Cristel Strate Removable sauteerpan met Strate deksel ø 24 cm"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ soeppan\\ met\\ Platine\\ deksel\\ ø\\ 20\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ soeppan\\ met\\ Platine\\ deksel\\ ø\\ 22\\ cm\\ rvs",
+   "Cristel\\ Strate\\ Removable\\ soeppan\\ met\\ Strate\\ glasdeksel\\ ø\\ 20\\ cm\\ rvs\\ ",
+   "Cristel\\ Strate\\ Removable\\ soeppan\\ met\\ Strate\\ glasdeksel\\ ø\\ 22\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het garen van soep of andere grote bereidingen.",
+  "bullets": [
+   "Strate Removable soeppan met deksel (Platine of Strate glasdeksel, zie productnaam), van roestvrij staal.",
+   "Het deksel heeft een metalen stootrand, waardoor het beter tegen breuken beschermd wordt.",
+   "De pan heeft twee hendels waaraan de verwijderbare handvatten bevestigd kunnen worden.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem."
+  ],
+  "keys": [
+   "44ea1800",
+   "6850a868",
+   "7c5af6c3"
+  ],
+  "requires": [
+   "stootrand",
+   "twee hendels",
+   "L-vorm"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ soeppan\\ ø\\ 20\\ cm\\ 5,3\\ L\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van verschillende soorten gerechten, zoals soep en stamppotten.",
+  "bullets": [
+   "Strate Removable soeppan van roestvrij staal.",
+   "Metalen greepje aan twee zijden waaraan een steel of een stel handgrepen bevestigd kan worden; die grepen en stelen worden afzonderlijk verkocht.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "59c38a37"
+  ],
+  "requires": [
+   "soeppan",
+   "stamppotten",
+   "afzonderlijk verkocht",
+   "L-vorm"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ soeppan\\ ø\\ 22\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van soep of andere gerechten die veel ruimte nodig hebben.",
+  "bullets": [
+   "Strate Removable soeppan van roestvrij staal.",
+   "Metalen greepje aan twee zijden waaraan een steel of een stel handgrepen bevestigd kan worden; die grepen en stelen worden afzonderlijk verkocht.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "d263b1d2"
+  ],
+  "requires": [
+   "soeppan",
+   "veel ruimte",
+   "afzonderlijk verkocht",
+   "L-vorm"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ soeppan\\ met\\ glasdeksel\\ ø\\ 22\\ cm\\ 7,2\\ liter\\ rvs",
+   "Cristel\\ Strate\\ soeppan\\ met\\ glasdeksel\\ ø\\ 24\\ cm\\ 9,4\\ L\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het garen van soep en andere grote bereidingen.",
+  "bullets": [
+   "Strate soeppan met glasdeksel van roestvrij staal; het platte glasdeksel heeft een neerklapbare handgreep.",
+   "Het deksel heeft een metalen stootrand, waardoor het beter tegen breuken beschermd wordt.",
+   "De handgrepen zitten aan de zijkant van de pan vast en door het ranke ontwerp zijn de pannen stapelbaar.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "6cd937d0",
+   "ec5dfd60"
+  ],
+  "requires": [
+   "neerklapbare handgreep",
+   "stootrand",
+   "ranke ontwerp",
+   "L-vorm"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ steelpan\\ ø\\ 18\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van verschillende soorten gerechten.",
+  "bullets": [
+   "Strate steelpan van roestvrij staal, met aan één kant een metalen steel waaraan je de pan kunt optillen.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven (specificaties).",
+   "Vaatwasmachinebestendig.",
+   "Strate-serie: extra dikke bodem met een aluminium plaat die de warmte gelijkmatig verdeelt; de dikke aluminiumlaag omkapselt in een L-vorm de hele bodem, daarbuiten zit een roestvrijstalen bodem voor goede verwarming op inductie."
+  ],
+  "keys": [
+   "d8d0b87c"
+  ],
+  "requires": [
+   "steelpan",
+   "metalen steel",
+   "L-vorm"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ x\\ Paleis\\ Soestdijk\\ 1826\\ sauspan\\ ø\\ 16\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen.",
+  "bullets": [
+   "Cristel x Paleis Soestdijk 1826 sauspan: conische sauspan van geborsteld roestvrij staal met een aluminium kern.",
+   "Speciaal ontwikkeld voor de tentoonstelling 'De Smaak van Soestdijk' in de winter van 2025-2026 in Paleis Soestdijk.",
+   "Roestvrijstalen greep aan de pan vastgeklonken.",
+   "Te gebruiken op elke warmtebron en in de oven; ook geschikt voor inductie.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "d8f5b682"
+  ],
+  "requires": [
+   "De Smaak van Soestdijk",
+   "2025-2026",
+   "conische sauspan",
+   "vastgeklonken"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ x\\ Paleis\\ Soestdijk\\ Castel'Pro\\ sauspan\\ ø\\ 12\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen of kleine gerechten.",
+  "bullets": [
+   "Cristel x Paleis Soestdijk Castel'Pro sauspan van roestvrij staal, opgebouwd uit meerdere lagen.",
+   "Speciaal ontwikkeld voor de tentoonstelling 'De Smaak van Soestdijk' in de winter van 2025-2026 in Paleis Soestdijk.",
+   "Geronde wanden: makkelijk roeren met een garde of lepel.",
+   "Gebogen schenkrand: de inhoud kan zonder druppelen worden uitgeschonken.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Op elke warmtebron te gebruiken en in de oven."
+  ],
+  "keys": [
+   "aab2cde6"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "De Smaak van Soestdijk",
+   "2025-2026",
+   "garde of lepel"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Oldenhof\\ Jubileum\\ 1821\\ pannenset\\ rvs\\ 4\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Als basis voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "Cristel Oldenhof Jubileum 1821 pannenset (4-delig) van roestvrij staal: kookpan ø 16 cm, stoofpan ø 20 cm en stoofpan ø 24 cm, alle drie met rvs deksel, en een sauspan ø 16 cm zonder deksel.",
+   "Gebogen schenkrand: de inhoud kan zonder druppelen worden uitgeschonken.",
+   "Castel'Pro-pannen zijn opgebouwd uit vijf verschillende lagen: buitenzijde 18/0 edelstaal, dan aluminium, versterkt aluminium en aluminium, en aan de binnenzijde 18/10 edelstaal.",
+   "Op alle warmtebronnen te gebruiken en in de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "cfa38c97"
+  ],
+  "requires": [
+   "vijf verschillende lagen",
+   "18/0 edelstaal",
+   "Kookpan met rvs deksel ø 16 cm",
+   "Stoofpan met rvs deksel ø 24 cm",
+   "Sauspan ø 16 cm",
+   "gebogen schenkrand"
+  ]
+ }
+]

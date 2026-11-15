@@ -1,0 +1,129 @@
+[
+ {
+  "match": [
+   "Serax\\ Surface\\ by\\ Sergio\\ Herman\\ pan\\ ø\\ 14\\ cm\\ zwart\\ terracotta",
+   "Serax\\ Surface\\ by\\ Sergio\\ Herman\\ pan\\ ø\\ 16\\ cm\\ terracotta\\ zwart"
+  ],
+  "brandID": "serax",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Voor het bereiden én serveren van een grote variëteit aan gerechten.",
+  "bullets": [
+   "Serax Surface by Sergio Herman pan van terracotta (aardewerk), zwart.",
+   "Volgens de tekst geschikt voor gas, keramische kookplaten, de oven en de magnetron; specificaties: ook elektrisch en halogeen, maximaal 300°C.",
+   "Week de pan voor gebruik een paar minuten in water.",
+   "Op de kookplaat: laat de pan eerst op de laagste stand langzaam op temperatuur komen en voorkom leeg opwarmen.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "10cce74d"
+  ],
+  "brandName": "Serax",
+  "requires": [
+   "terracotta",
+   "laagste stand",
+   "vaatwasmachinebestendig"
+  ]
+ },
+ {
+  "match": [
+   "Serax\\ Passe\\-Partout\\ botermes\\ 14\\ x\\ 1,7\\ cm\\ hout\\ zwart"
+  ],
+  "brandID": "serax",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Serax Passe-Partout botermes, 14 x 1,7 cm, smeermes van zwart gekleurd hout.",
+   "Ontworpen door Vincent van Duysen.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "65ecfc11"
+  ],
+  "brandName": "Serax",
+  "requires": [
+   "Vincent van Duysen"
+  ]
+ },
+ {
+  "match": [
+   "Serax\\ Surface\\ by\\ Sergio\\ Herman\\ botermes\\ rvs"
+  ],
+  "brandID": "serax",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Aan tafel voor het serveren van brood en boter (boter en kruidenkazen bij brood en toast).",
+  "bullets": [
+   "Serax Surface by Sergio Herman botermes van roestvrij staal, 16 cm lang.",
+   "Stone washed: verweerd mat uiterlijk.",
+   "Voor het serveren van boter en kruidenkazen bij brood en toast.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "b4c82bfa"
+  ],
+  "requires": [
+   "stone",
+   "kruidenkazen"
+  ]
+ },
+ {
+  "match": [
+   "Serax\\ Surface\\ by\\ Sergio\\ Herman\\ dessertmes\\ 21\\ cm\\ holheft\\ rvs"
+  ],
+  "brandID": "serax",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om in te dekken voor het voor- en nagerecht of bij de lunch en het ontbijt.",
+  "bullets": [
+   "Serax Surface by Sergio Herman dessertmes, 21 cm, holheft met gekarteld lemmet.",
+   "Holheft: heft van regulier roestvrij staal, lemmet van speciaal roestvast staal met een hoger koolstofgehalte, met cement aan elkaar gezet.",
+   "Behoudt volgens de tekst lang zijn scherpte bij gebruik op porseleinen borden.",
+   "Stone washed: verweerd, robuust uiterlijk.",
+   "Vaatwasmachinebestendig; na het afwassen afdrogen."
+  ],
+  "keys": [
+   "52eae7ae"
+  ],
+  "requires": [
+   "holheft",
+   "porseleinen"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst noemt een tafelmes",
+    "websiteSays": "De eerste alinea begint met \"Het Serax Surface by Sergio Herman tafelmes is uitgevoerd als holheft mes\" terwijl de pagina over het dessertmes gaat.",
+    "note": "Gekopieerde tekst van het tafelmes; de rest van de tekst noemt wel het dessertmes (21 cm)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Serax\\ Surface\\ by\\ Sergio\\ Herman\\ tafelmes\\ 24,5\\ cm\\ rvs"
+  ],
+  "brandID": "serax",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om in te dekken voor het hoofdgerecht.",
+  "bullets": [
+   "Serax Surface by Sergio Herman tafelmes, 24,5 cm, holheft met gekarteld lemmet.",
+   "Holheft: heft van regulier roestvrij staal, lemmet van speciaal roestvast staal met een hoger koolstofgehalte, met cement aan elkaar gezet.",
+   "Behoudt volgens de tekst lang zijn scherpte bij gebruik op porseleinen borden.",
+   "Stone washed: verweerd, robuust uiterlijk.",
+   "Vaatwasmachinebestendig; na het afwassen afdrogen."
+  ],
+  "keys": [
+   "ce9ee8e7"
+  ],
+  "requires": [
+   "holheft",
+   "porseleinen"
+  ]
+ }
+]

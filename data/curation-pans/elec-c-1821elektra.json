@@ -1,0 +1,299 @@
+[
+ {
+  "match": [
+   "1821\\ Airfryer\\ 6,15\\ liter\\ 1750W"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "airfryers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "1821 airfryer van kunststof met matte afwerking; inhoud 6,15 liter, vermogen 1750 Watt (volgens de tekst).",
+   "Heteluchttechniek: gerechten bereiden met weinig tot geen olie of vet.",
+   "Uitneembare lade met frituurmand, touch bedieningspaneel en 8 voorgeprogrammeerde programma's.",
+   "Temperatuur instelbaar van 60 tot 200 graden Celsius, timer van 1 tot 60 minuten.",
+   "Voor onder andere friet, snacks, groenten, vlees en vis.",
+   "Oververhittingsbeveiliging en antislipvoeten.",
+   "Losse onderdelen reinigen met warm water en afwasmiddel, de buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "67558c83"
+  ],
+  "brandName": "1821 Elektra",
+  "requires": [
+   "oververhittingsbeveiliging"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud en vermogen",
+    "websiteSays": "Naam en tekst zeggen 6,15 liter en 1750 Watt; de specificaties zeggen Inhoud 6,1 liter en Vermogen 1450 W, 1700 W.",
+    "note": "Controleer inhoud en vermogen op de doos."
+   }
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Blender\\ wit"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het pureren, blenden en mixen van diverse ingrediënten.",
+  "bullets": [
+   "1821 blender van kunststof, wit; motor van 500 W, inhoud 1,5 liter.",
+   "Twee verschillende standen.",
+   "De transparante kom is vaatwasserbestendig; de blender zelf reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "3944c390"
+  ],
+  "requires": [
+   "transparante kom"
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Elektrische\\ digitale\\ waterkoker\\ 1,7\\ liter\\ rvs"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "1821 digitale waterkoker van roestvrij staal, maximale inhoud 1,7 liter.",
+   "Temperatuur instelbaar van 40° tot 100° Celsius in stappen van 10°.",
+   "Keep Warm functie om het water op de gewenste temperatuur te houden.",
+   "LCD display toont de gewenste temperatuur; schakelt automatisch uit als de warmhoudfunctie niet is geselecteerd.",
+   "Buitenzijde reinigen met een vochtige doek; ontkalk desgewenst de binnenzijde periodiek."
+  ],
+  "keys": [
+   "9f6f7b4d"
+  ],
+  "requires": [
+   "Keep Warm"
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Elektrische\\ handcitruspers\\ 0,7\\ liter\\ wit"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het juicen van citrusvruchten.",
+  "bullets": [
+   "1821 elektrische handcitruspers, wit kunststof, inhoud 700 ml, vermogen 40 W.",
+   "Ergonomisch handvat.",
+   "De uitneembare bak kan in de vaatwasser; de rest met een vochtige doek."
+  ],
+  "keys": [
+   "b6806504"
+  ],
+  "requires": [
+   "handcitruspers"
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Elektrische\\ waterkoker\\ 0,8\\ liter\\ zwart"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "1821 waterkoker van roestvrij staal met mat zwarte soft touch afwerking; vermogen 1200 Watt.",
+   "Dubbelwandig voor een isolerend effect; het deksel opent volledig voor een extra ruime vulopening.",
+   "Buitenzijde reinigen met een vochtige doek; ontkalk desgewenst de binnenzijde periodiek."
+  ],
+  "keys": [
+   "c50e318a"
+  ],
+  "requires": [
+   "soft touch"
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Elektrische\\ waterkoker\\ 1,5\\ liter\\ rvs\\ zwart"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "1821 waterkoker van roestvrij staal met zwarte accenten; inhoud 1,5 liter, vermogen 2200 W.",
+   "Buitenzijde reinigen met een vochtige doek; ontkalk desgewenst de binnenzijde periodiek."
+  ],
+  "keys": [
+   "6fe94b5e"
+  ],
+  "requires": [
+   "zwarte accenten"
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Elektrische\\ waterkoker\\ 1,7\\ liter\\ glas"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "1821 waterkoker van roestvrij staal en borosilicaat glas; inhoud 1,7 liter, vermogen 1500 Watt.",
+   "LED-ring aan de onderzijde van de basis toont of de waterkoker in gebruik is.",
+   "Schakelt na gebruik automatisch uit.",
+   "Buitenzijde reinigen met een vochtige doek; ontkalk desgewenst de binnenzijde periodiek."
+  ],
+  "keys": [
+   "a669d25a"
+  ],
+  "requires": [
+   "borosilicaat"
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Handmixer\\ wit"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het kloppen van room of eiwit, het kneden van deeg of het mengen van ingrediënten.",
+  "bullets": [
+   "1821 handmixer van wit kunststof, vermogen 400 W, 5 standen/snelheidsniveaus.",
+   "Turbomodus: activeer door de knop ingedrukt te houden.",
+   "Wordt geleverd met twee menghaken en twee gardes van roestvrij staal.",
+   "Voor slagroom, cakebeslag of sauzen.",
+   "Reinig de behuizing met een vochtige doek; de accessoires zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "88457975"
+  ],
+  "requires": [
+   "turbomodus"
+  ],
+  "mismatches": [
+   {
+    "topic": "Snelheden",
+    "websiteSays": "De specificaties tonen bij Snelheden alleen het getal 27025; de tekst zegt 5 snelheidsniveaus/standen.",
+    "note": "Waarschijnlijk een opmaakfout (datum) in de specificaties."
+   }
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Staafmixer\\ rvs"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het mengen en pureren van diverse ingrediënten.",
+  "bullets": [
+   "1821 staafmixer van roestvrij staal en kunststof, vermogen 1000 watt, 2 snelheden.",
+   "De mixstaaf koppelt u eenvoudig los voor reinigen en opbergen.",
+   "Buitenzijde reinigen met een vochtige doek; de mixstaaf met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9ab9d3b7"
+  ],
+  "requires": [
+   "mixstaaf"
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Staafmixer\\ wit"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het hakken of pureren van ingrediënten, bijvoorbeeld voor soepen, sauzen, babyvoeding of smoothies.",
+  "bullets": [
+   "1821 staafmixer van wit kunststof, vermogen 250 W, twee snelheidsniveaus.",
+   "Geleverd met een roestvrijstalen mes; de mengstaaf is afneembaar.",
+   "Compact: 22 x 7 cm.",
+   "Behuizing reinigen met een vochtige doek, het afneembare deel met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6044913b"
+  ],
+  "requires": [
+   "roestvrijstalen mes"
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Tosti\\ ijzer\\ rvs"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": "Voor het bereiden van tosti's en gevulde sandwiches.",
+  "bullets": [
+   "1821 tosti-ijzer van roestvrij staal en kunststof, vermogen 750 Watt.",
+   "Sluiting in het deksel en 2 controlelampjes (aan/uit en verwarmen).",
+   "De platen zijn uitneembaar voor reiniging, met warm water en afwasmiddel; buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "35cdf07f"
+  ],
+  "requires": [
+   "controlelampjes"
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Vacumeermachine\\ rvs"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "1821 vacumeermachine van roestvrij staal, vermogen 80 W, met een slot van 30 cm.",
+   "Magnetische bodem: het apparaat kan bijvoorbeeld tegen de koelkast worden geplaatst.",
+   "Aan de buitenkant reinigen met een droge doek."
+  ],
+  "keys": [
+   "aef4d494"
+  ],
+  "requires": [
+   "magnetische bodem"
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Wafelijzer\\ wit"
+  ],
+  "brandID": "1821elektra",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": "Voor het bereiden van wafels.",
+  "bullets": [
+   "1821 wafelijzer van wit kunststof, vermogen 700 W.",
+   "Automatische temperatuurregeling en anti-aanbaklaag, zodat de wafels makkelijk uit het ijzer komen.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "4a47d58d"
+  ],
+  "requires": [
+   "automatische temperatuurregeling"
+  ]
+ }
+]

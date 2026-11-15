@@ -1003,6 +1003,22 @@
     const y = scrollY; route(); scrollTo(0, y);
   });
 
+  // background download of all product photos so they work offline too (4 at a time, polite on slow or data-saving connections)
+  async function prefetchPhotos() {
+    try {
+      const cn = navigator.connection; if (cn && (cn.saveData || /(^|-)2g$/.test(cn.effectiveType || ''))) return;
+      if (navigator.storage?.persist) navigator.storage.persist().catch(() => {});
+      await navigator.serviceWorker.ready;
+      await new Promise(r => (window.requestIdleCallback || setTimeout)(r, { timeout: 4000 }));
+      const cache = await caches.open('oldenhof-img');
+      const have = new Set((await cache.keys()).map(r => new URL(r.url).pathname));
+      const todo = [...new Set(C.products.flatMap(p => p.variants.map(v => v.image)).filter(Boolean))]
+        .filter(u => !have.has(new URL(u, location.href).pathname));
+      let i = 0;
+      await Promise.all([0, 1, 2, 3].map(async () => { while (i < todo.length) { const u = todo[i++]; try { await fetch(u); } catch { /* offline: try again next start */ } } }));
+    } catch { /* optional */ }
+  }
+
   // ---------- start ----------
   window.addEventListener('hashchange', () => { closeMenu(); route(); });
   load().then(route).catch(() => { app.innerHTML = `<div class="empty">${L('De gegevens konden niet worden geladen. Open de app één keer met internet.', 'The data could not be loaded. Open the app once with internet.')}</div>`; });
@@ -1012,6 +1028,7 @@
     navigator.serviceWorker.addEventListener('controllerchange', () => { if (hadController && !reloaded) { reloaded = true; location.reload(); } });
     navigator.serviceWorker.register('sw.js').then(reg => {
       document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') reg.update().catch(() => {}); });
+      prefetchPhotos();
     });
   }
 })();

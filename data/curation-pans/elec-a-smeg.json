@@ -1,0 +1,1139 @@
+[
+ {
+  "match": [
+   "SMEG\\ 50's\\ style\\ airfryer\\ Emerald\\ Green",
+   "SMEG\\ 50's\\ style\\ airfryer\\ mat\\ wit",
+   "SMEG\\ 50's\\ style\\ airfryer\\ mat\\ zwart",
+   "SMEG\\ 50's\\ style\\ airfryer\\ Storm\\ Blue"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "airfryers"
+  ],
+  "suitedFor": "Voor het bakken en roosteren van onder andere friet, groenten, vlees en vis met circulerende hete lucht.",
+  "bullets": [
+   "Airfryer met een inhoud van 7 liter en een vermogen van 1450 W; werkt met circulerende hete lucht.",
+   "Temperatuurbereik van 40 tot 200 °C; voorverwarmen is niet nodig.",
+   "7 automatische programma's (kippenvleugels en -poten, vlees, vis, garnalen, friet, groenten, hele kip) en een handmatige stand voor zelf gekozen tijd en temperatuur.",
+   "Functies Crispy en Juicy+Crispy; bij Juicy+Crispy wordt hete lucht gecombineerd met vocht uit het waterreservoir van 60 ml.",
+   "Kijkvenster en interne verlichting: de bereiding is te volgen zonder de mand te openen. Bediening via LED-display met aanraakbediening; timer, uitgestelde start en geluidssignaal.",
+   "Uitneembare mand en rooster hebben een PFAS-vrije keramische antiaanbaklaag en zijn vaatwasmachinebestendig. Behuizing afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "96f5e799",
+   "d7350d24",
+   "4cca257e",
+   "6c3d3609"
+  ],
+  "requires": [
+   "Juicy+Crispy"
+  ],
+  "colours": [
+   "Emerald Green",
+   "mat wit",
+   "mat zwart",
+   "Storm Blue"
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50’s\\ style\\ BLF03\\ blender\\ 1,5\\ liter\\ kunststof\\ crème",
+   "Smeg\\ 50’s\\ style\\ BLF03\\ blender\\ 1,5\\ liter\\ kunststof\\ roze",
+   "Smeg\\ 50’s\\ style\\ BLF03\\ blender\\ 1,5\\ liter\\ kunststof\\ pastelblauw",
+   "Smeg\\ 50’s\\ style\\ BLF03\\ blender\\ 1,5\\ liter\\ kunststof\\ rood",
+   "Smeg\\ 50’s\\ style\\ BLF03\\ blender\\ 1,5\\ liter\\ kunststof\\ watergroen",
+   "Smeg\\ 50’s\\ style\\ BLF03\\ blender\\ 1,5\\ liter\\ kunststof\\ wit",
+   "Smeg\\ 50’s\\ style\\ BLF03\\ blender\\ 1,5\\ liter\\ kunststof\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het mixen en mengen van sappen en smoothies en het crushen van ijs.",
+  "bullets": [
+   "Blender in retro 50's design met een mengkan van 1,5 liter; kan en deksel zijn van Tritan Renew-kunststof (BPA-vrij, stevig en duurzaam).",
+   "Motor met een maximaal vermogen van 800 W en een Smooth Start-functie: de blender komt rustig op toeren.",
+   "4 snelheden en 4 voorgeprogrammeerde programma's: smoothie, green smoothie, ice crush en pulse. Ook een automatische reinigingsfunctie.",
+   "Dubbel mes van roestvrij staal; de messengroep is niet los te halen.",
+   "Beveiliging tegen overbelasting en een beveiligingsslot wanneer de kan niet op de machine zit.",
+   "Transparante dop met een kleine maatbeker.",
+   "Behuizing reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "1d931ac3",
+   "80157d43",
+   "4744dc02",
+   "6010a518",
+   "3b3a2653",
+   "0ede523f"
+  ],
+  "requires": [
+   "BLF03"
+  ],
+  "colours": [
+   "crème",
+   "roze",
+   "pastelblauw",
+   "rood",
+   "watergroen",
+   "wit",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reiniging: mengkan",
+    "websiteSays": "Specificaties: Reiniging handafwas. Tekst: \"De mengkan is vaatwasmachinebestendig.\"",
+    "note": "Vraag na of de mengkan in de vaatwasser mag voordat je dit aan een klant zegt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ chroom",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ crème",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ Emerald\\ Green",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ mat\\ zwart",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ pastelblauw",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ rood",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ roze",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ watergroen",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ wit",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het toasten van brood en bagels of het maken van tosti's.",
+  "bullets": [
+   "Broodrooster met 2 sleuven van staal en kunststof; vermogen 950 W.",
+   "Afmetingen 31 x 19,5 x 20 cm (l x b x h).",
+   "Ontworpen in retro 50's style in samenwerking met Matteo Bazzicalupo en Raffaella Mangiarotti van ontwerpstudio deepdesign.",
+   "6 verschillende bruiningsgraden, traploos instelbaar.",
+   "Opwarmfunctie, ontdooifunctie en bagelfunctie.",
+   "Uitneembare kruimellade; antislippootjes zorgen dat de broodrooster stevig blijft staan.",
+   "Reinigen: broodrooster met een vochtige doek, kruimellade met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d303b701",
+   "f10fdcbb",
+   "cbd39ef9",
+   "fa639583",
+   "71225689",
+   "bd5f6e02",
+   "09a5bf4b",
+   "440aa305",
+   "2fbeca6b",
+   "82d97fef",
+   "742444fd",
+   "d3a76860"
+  ],
+  "requires": [
+   "bruiningsgraden"
+  ],
+  "colours": [
+   "chroom",
+   "crème",
+   "Emerald Green",
+   "mat champagne",
+   "mat wit",
+   "mat zwart",
+   "Moonlight",
+   "pastelblauw",
+   "rood",
+   "roze",
+   "Storm Blue",
+   "watergroen",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "SMEG\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ mat\\ champagne",
+   "SMEG\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ mat\\ wit",
+   "SMEG\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ Moonlight",
+   "SMEG\\ 50's\\ style\\ broodrooster\\ 2\\ sleuven\\ staal\\ Storm\\ Blue"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het toasten van brood en bagels of het maken van tosti's.",
+  "bullets": [
+   "Broodrooster met 2 sleuven van staal en kunststof; vermogen 950 W.",
+   "Afmetingen 31 x 19,5 x 20 cm (l x b x h).",
+   "Ontworpen in retro 50's style in samenwerking met Matteo Bazzicalupo en Raffaella Mangiarotti van ontwerpstudio deepdesign.",
+   "6 verschillende bruiningsgraden, traploos instelbaar.",
+   "Opwarmfunctie, ontdooifunctie en bagelfunctie.",
+   "Uitneembare kruimellade; antislippootjes zorgen dat de broodrooster stevig blijft staan.",
+   "Reinigen: broodrooster met een vochtige doek, kruimellade met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d303b701",
+   "f10fdcbb",
+   "cbd39ef9",
+   "fa639583",
+   "71225689",
+   "bd5f6e02",
+   "09a5bf4b",
+   "440aa305",
+   "2fbeca6b",
+   "82d97fef",
+   "742444fd",
+   "d3a76860"
+  ],
+  "requires": [
+   "bruiningsgraden"
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 4\\ sleuven\\ staal\\ chroom",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 4\\ sleuven\\ staal\\ crème",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 4\\ sleuven\\ staal\\ pastelblauw",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 4\\ sleuven\\ staal\\ rood",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 4\\ sleuven\\ staal\\ roze",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 4\\ sleuven\\ staal\\ wit",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 4\\ sleuven\\ staal\\ zwart",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ 4\\ sleuven\\ staal\\ watergroen"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het toasten van brood en bagels of het maken van tosti's.",
+  "bullets": [
+   "Broodrooster 4x4 met 4 brede sleuven, van gepoedercoat staal en kunststof; vermogen 2100 W.",
+   "Ontworpen in retro 50's style in samenwerking met Matteo Bazzicalupo en Raffaella Mangiarotti van ontwerpstudio deepdesign.",
+   "6 verschillende bruiningsgraden, traploos instelbaar.",
+   "Opwarmfunctie, ontdooifunctie en bagelfunctie.",
+   "Twee onafhankelijke bedieningsknoppen en twee uitneembare kruimellades.",
+   "Antislippootjes zorgen dat de broodrooster stevig blijft staan.",
+   "Reinigen: broodrooster met een vochtige doek, kruimellades met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5536a1fb",
+   "9ccc63ae",
+   "d34f9321",
+   "4d130dea",
+   "88506dd7"
+  ],
+  "requires": [
+   "4x4"
+  ],
+  "colours": [
+   "chroom",
+   "crème",
+   "pastelblauw",
+   "rood",
+   "roze",
+   "wit",
+   "zwart",
+   "watergroen"
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50's\\ style\\ broodrooster\\ lang\\ 2\\ sleuven\\ staal\\ crème",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ lang\\ 2\\ sleuven\\ staal\\ pastelblauw",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ lang\\ 2\\ sleuven\\ staal\\ roze",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ lang\\ 2\\ sleuven\\ staal\\ wit",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ lang\\ 2\\ sleuven\\ staal\\ zwart",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ lang\\ 2\\ sleuven\\ staal\\ rood",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ lang\\ 2\\ sleuven\\ staal\\ watergroen",
+   "Smeg\\ 50's\\ style\\ broodrooster\\ lang\\ 2\\ sleuven\\ staal\\ chroom"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het toasten van brood en bagels of het maken van tosti's.",
+  "bullets": [
+   "Lange broodrooster met 2 sleuven voor 4 boterhammen tegelijk, van staal en kunststof; vermogen 1500 W.",
+   "Afmetingen 39,4 x 20,8 x 21,5 cm (l x b x h).",
+   "Ontworpen in retro 50's style in samenwerking met Matteo Bazzicalupo en Raffaella Mangiarotti van ontwerpstudio deepdesign.",
+   "6 verschillende bruiningsgraden, traploos instelbaar.",
+   "Opwarmfunctie, ontdooifunctie en bagelfunctie.",
+   "Uitneembare kruimellade; antislippootjes zorgen dat de broodrooster stevig blijft staan.",
+   "Reinigen: broodrooster met een vochtige doek, kruimellade met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4a4f7ee3",
+   "973d9d8f",
+   "bceebd44",
+   "2fcf7884",
+   "98987b43"
+  ],
+  "requires": [
+   "boterhammen tegelijkertijd"
+  ],
+  "colours": [
+   "crème",
+   "pastelblauw",
+   "roze",
+   "wit",
+   "zwart",
+   "rood",
+   "watergroen",
+   "chroom"
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50’s\\ style\\ CJF11\\ elektrische\\ citruspers\\ 28\\ cm\\ crème",
+   "Smeg\\ 50’s\\ style\\ CJF11\\ elektrische\\ citruspers\\ 28\\ cm\\ pastelblauw",
+   "Smeg\\ 50’s\\ style\\ CJF11\\ elektrische\\ citruspers\\ 28\\ cm\\ rood",
+   "Smeg\\ 50’s\\ style\\ CJF11\\ elektrische\\ citruspers\\ 28\\ cm\\ roze",
+   "Smeg\\ 50’s\\ style\\ CJF11\\ elektrische\\ citruspers\\ 28\\ cm\\ watergroen",
+   "Smeg\\ 50’s\\ style\\ CJF11\\ elektrische\\ citruspers\\ 28\\ cm\\ wit",
+   "Smeg\\ 50’s\\ style\\ CJF11\\ elektrische\\ citruspers\\ 28\\ cm\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het persen van sap uit alle citrusvruchten.",
+  "bullets": [
+   "Elektrische citruspers met een behuizing van aluminium; de tekst noemt kunststof en roestvrijstalen onderdelen.",
+   "Hoogte 28 cm.",
+   "Deksel en sapschaal zijn van Tritan Renew-kunststof (BPA-vrij, stevig en duurzaam).",
+   "Een gehalveerde citrusvrucht op de perskegel duwen om de citruspers in werking te brengen; de motor wordt automatisch uitgeschakeld.",
+   "Het sap wordt opgevangen via een inklapbare schenktuit met druppelstop.",
+   "Opbergruimte voor het netsnoer onder in de behuizing en antislipvoetjes aan de onderzijde.",
+   "Reinigen: behuizing met een vochtige doek, losse componenten met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e9ff4094",
+   "4d8b9a50",
+   "3fc327f3",
+   "3faab77a",
+   "b4e303ce",
+   "237c5a12",
+   "40483c3f"
+  ],
+  "requires": [
+   "Tritan"
+  ],
+  "colours": [
+   "crème",
+   "pastelblauw",
+   "rood",
+   "roze",
+   "watergroen",
+   "wit",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmeting: diameter",
+    "websiteSays": "Tekst: \"diameter van 16,6 cm\"; specificaties: Breedte 16,5 cm.",
+    "note": "Meet na of laat de diameter weg bij klanten."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50’s\\ style\\ elektrische\\ citruspers\\ 28\\ cm\\ mat\\ wit"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het persen van sap uit alle citrusvruchten.",
+  "bullets": [
+   "Elektrische citruspers met een behuizing van aluminium; de tekst noemt kunststof en roestvrijstalen onderdelen.",
+   "Hoogte 28 cm.",
+   "Een gehalveerde citrusvrucht op de perskegel duwen om de citruspers in werking te brengen; de motor wordt automatisch uitgeschakeld.",
+   "Het sap wordt opgevangen via een inklapbare schenktuit met druppelstop.",
+   "Opbergruimte voor het netsnoer onder in de behuizing en antislipvoetjes aan de onderzijde.",
+   "Reinigen: behuizing met een vochtige doek, losse componenten met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2b107b54"
+  ],
+  "colours": [
+   "mat wit"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur: mat wit",
+    "websiteSays": "Naam en tekst: mat wit (\"witte\" behuizing); specificaties: Kleur zwart.",
+    "note": "Controleer de kleur op de doos."
+   },
+   {
+    "topic": "Afmeting: diameter",
+    "websiteSays": "Tekst: \"diameter van 16,6 cm\"; specificaties: Diameter 16,5 cm.",
+    "note": "Meet na of laat de diameter weg bij klanten."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50's\\ style\\ foodprocessor\\ voor\\ staafmixer\\ kunststof"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Ter uitbreiding van uw SMEG staafmixer om te raspen, snijden, mixen en malen.",
+  "bullets": [
+   "Foodprocessor-set voor de SMEG staafmixer; gebruikt de motor van de staafmixer (staafmixer niet inbegrepen).",
+   "Volgens de tekst uitsluitend geschikt voor de HBF01-serie staafmixers.",
+   "In de set: Tritan mengkom van 1,5 liter met ergonomisch handvat (maataanduiding in Amerikaanse cups en deciliter), Tritan deksel met duwer, dubbelzijdige (grof/fijn) roestvrij stalen rasp, traploos verstelbaar snijblad (0-6 mm), emulsieschijf en een roestvrij staal S-mes.",
+   "Mengkom met antislipvoetjes; vaatwasmachinebestendig.",
+   "Losse onderdelen reinigen met warm water en een milde zeep."
+  ],
+  "keys": [
+   "69ecc026"
+  ],
+  "mismatches": [
+   {
+    "topic": "Geschikt voor welke staafmixer",
+    "websiteSays": "De set is \"uitsluitend geschikt voor de HBF01-serie staafmixers (niet inbegrepen)\".",
+    "note": "De SMEG staafmixers op de website hebben andere typenamen (HBF03 en HBF11 in de artikelnummers). Vraag na of de set daarop past."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50's\\ style\\ handmixer\\ staal\\ crème",
+   "Smeg\\ 50's\\ style\\ handmixer\\ staal\\ pastelblauw",
+   "Smeg\\ 50's\\ style\\ handmixer\\ staal\\ rood",
+   "Smeg\\ 50's\\ style\\ handmixer\\ staal\\ roze",
+   "Smeg\\ 50's\\ style\\ handmixer\\ staal\\ zwart",
+   "Smeg\\ 50's\\ style\\ handmixer\\ staal\\ watergroen",
+   "Smeg\\ 50's\\ style\\ handmixer\\ staal\\ wit"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het kloppen, roeren, mengen, kneden en mixen van onder andere slagroom, eiwit, taartdeeg en beslag.",
+  "bullets": [
+   "Handmixer met een vermogen van 250 W en 9 standen; de mixer start telkens op stand 1 om spetteren te voorkomen.",
+   "Geleverd met 2 draadgardes, 2 deeghaken en 2 optimus kloppers.",
+   "Volgens de tekst gemaakt van kunststof.",
+   "Reinigen: behuizing met een vochtige doek; de accessoires zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "741ca7a3",
+   "7e38c7c1",
+   "c5b4b112",
+   "423ae338",
+   "60f09f4b",
+   "bdd8ede9"
+  ],
+  "requires": [
+   "optimus kloppers"
+  ],
+  "colours": [
+   "crème",
+   "pastelblauw",
+   "rood",
+   "roze",
+   "zwart",
+   "watergroen",
+   "wit"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal",
+    "websiteSays": "Naam: \"staal\"; tekst: \"gemaakt van ... kunststof\"; specificaties: kunststof, roestvrij staal.",
+    "note": "Vraag na welk materiaal de behuizing heeft."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50’s\\ style\\ HBF03\\ staafmixer\\ kunststof\\ crème\\ 4\\-delig",
+   "Smeg\\ 50’s\\ style\\ HBF03\\ staafmixer\\ kunststof\\ pastelblauw\\ 4\\-delig",
+   "Smeg\\ 50’s\\ style\\ HBF03\\ staafmixer\\ kunststof\\ rood\\ 4\\-delig",
+   "Smeg\\ 50’s\\ style\\ HBF03\\ staafmixer\\ kunststof\\ wit\\ 4\\-delig",
+   "Smeg\\ 50’s\\ style\\ HBF03\\ staafmixer\\ kunststof\\ zwart\\ 4\\-delig"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het mixen, pureren, vermalen en vermengen van ingrediënten.",
+  "bullets": [
+   "Staafmixer van roestvrij staal en kunststof, lengte 41,5 cm, vermogen 700 W.",
+   "Vier snelheden met de knoppen op het motorblok, plus een turbo-functie.",
+   "Geleverd met: mengbeker van gerecycled Tritan Renew-kunststof (1,4 liter), roestvrijstalen garde en hakmolen (500 ml).",
+   "Ontworpen in retro 50's design; het motorblok is ergonomisch gevormd en antislip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "728e6996",
+   "7b772b27",
+   "7ec78036",
+   "453c7c0b"
+  ],
+  "requires": [
+   "hakmolen"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 4-delig",
+    "websiteSays": "Naam en specificaties: 4-delig (Aantal delen: 4). De tekst somt drie onderdelen op: mengbeker, garde en hakmolen.",
+    "note": "Controleer wat er in de doos zit."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50’s\\ style\\ staafmixer\\ 41,5\\ cm\\ kunststof\\ crème",
+   "Smeg\\ 50’s\\ style\\ staafmixer\\ 41,5\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het mixen, pureren, vermalen en vermengen van ingrediënten.",
+  "bullets": [
+   "Staafmixer van roestvrij staal en kunststof, lengte 41,5 cm, vermogen 700 W.",
+   "Vier snelheden met de knoppen op het motorblok, plus een turbo-functie.",
+   "Ontworpen in retro 50's design; het motorblok is ergonomisch gevormd en antislip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "815ffa82",
+   "01c13c69",
+   "466fd92a",
+   "3bfe6ebc"
+  ],
+  "requires": [
+   "41,5"
+  ],
+  "colours": [
+   "crème",
+   "pastelblauw",
+   "rood",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "SMEG\\ 50’s\\ style\\ staafmixer\\ 41,5\\ cm\\ kunststof\\ pastelblauw",
+   "SMEG\\ 50’s\\ style\\ staafmixer\\ 41,5\\ cm\\ kunststof\\ rood"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het mixen, pureren, vermalen en vermengen van ingrediënten.",
+  "bullets": [
+   "Staafmixer van roestvrij staal en kunststof, lengte 41,5 cm, vermogen 700 W.",
+   "Vier snelheden met de knoppen op het motorblok, plus een turbo-functie.",
+   "Ontworpen in retro 50's design; het motorblok is ergonomisch gevormd en antislip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "815ffa82",
+   "01c13c69",
+   "466fd92a",
+   "3bfe6ebc"
+  ],
+  "requires": [
+   "41,5"
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50’s\\ style\\ High\\ Performance\\ blender\\ mat\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het mixen en mengen van sappen en smoothies en het crushen van ijs.",
+  "bullets": [
+   "Blender met een mengkan van 1,5 liter; kan en deksel zijn van Tritan Renew-kunststof (BPA-vrij, stevig en duurzaam). Vermogen 1400 W.",
+   "5 programma's: Smoothie, Green Smoothie, Frozen Dessert, Ice-Crush en Auto-clean; daarnaast 9 snelheden en een 'Single Serve'- of 'Family Serve'-programma voor een kleine of grote portie.",
+   "Smooth Start-functie: de blender begint rustig en voert de toeren langzaam op. Beveiliging tegen overbelasting en een beveiligingsslot wanneer de kan niet op de machine zit.",
+   "Dubbel mes van roestvrij staal; de messengroep is niet los te halen. Transparante dop met een kleine maatbeker.",
+   "Behuizing reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "7ba2cfca"
+  ],
+  "colours": [
+   "mat zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reiniging: mengkan",
+    "websiteSays": "Specificaties: Reiniging handafwas. Tekst: \"De mengkan is vaatwasmachinebestendig.\"",
+    "note": "Vraag na of de mengkan in de vaatwasser mag voordat je dit aan een klant zegt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "SMEG\\ 50’s\\ style\\ High\\ Performance\\ blender\\ met\\ vacuümpomp\\ mat"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het mixen en mengen van sappen en smoothies en het crushen van ijs.",
+  "bullets": [
+   "Blender met een mengkan van 1,5 liter; kan en deksel zijn van Tritan Renew-kunststof (BPA-vrij, stevig en duurzaam). Vermogen 1400 W.",
+   "Model BLC02 met een vacuümpomp die op de blenderkan wordt geplaatst: de pomp zuigt de lucht uit de kan. Volgens de tekst gladder pureren, minder oxidatie, een heldere kleur en meer smaak.",
+   "Geleverd met vacuümpomp, tamper, reinigingsborstel en spatel.",
+   "5 programma's: Smoothie, Green Smoothie, Frozen Dessert, Ice-Crush en Auto-clean; daarnaast 9 snelheden en een 'Single Serve'- of 'Family Serve'-programma voor een kleine of grote portie.",
+   "Smooth Start-functie: de blender begint rustig en voert de toeren langzaam op. Beveiliging tegen overbelasting en een beveiligingsslot wanneer de kan niet op de machine zit.",
+   "Dubbel mes van roestvrij staal; de messengroep is niet los te halen. Transparante dop met een kleine maatbeker.",
+   "Behuizing reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "c981b0bc",
+   "e4da8391"
+  ],
+  "requires": [
+   "vacuümpomp"
+  ],
+  "mismatches": [
+   {
+    "topic": "Twee pagina's met dezelfde naam",
+    "websiteSays": "Twee pagina's heten allebei \"SMEG 50’s style High Performance blender met vacuümpomp mat\"; de tekst noemt \"mat zwart\" op de ene en \"mat wit\" op de andere (Kleur: zwart / wit).",
+    "note": "In de app zijn dit één product; controleer de kleur op de doos."
+   },
+   {
+    "topic": "Reiniging: mengkan",
+    "websiteSays": "Specificaties: Reiniging handafwas (zwarte pagina) of vaatwasmachinebestendig (witte pagina). Tekst: \"De mengkan is vaatwasmachinebestendig.\"",
+    "note": "Vraag na of de mengkan in de vaatwasser mag voordat je dit aan een klant zegt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50's\\ style\\ mini\\ waterkoker\\ 800\\ ml\\ staal\\ crème",
+   "Smeg\\ 50's\\ style\\ mini\\ waterkoker\\ 800\\ ml\\ staal\\ rood",
+   "Smeg\\ 50's\\ style\\ mini\\ waterkoker\\ 800\\ ml\\ staal\\ pastelblauw",
+   "Smeg\\ 50's\\ style\\ mini\\ waterkoker\\ 800\\ ml\\ staal\\ roze",
+   "Smeg\\ 50's\\ style\\ mini\\ waterkoker\\ 800\\ ml\\ staal\\ watergroen",
+   "Smeg\\ 50's\\ style\\ mini\\ waterkoker\\ 800\\ ml\\ staal\\ wit",
+   "Smeg\\ 50's\\ style\\ mini\\ waterkoker\\ 800\\ ml\\ staal\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": "Voor het koken van water voor bijvoorbeeld thee.",
+  "bullets": [
+   "Mini waterkoker met een inhoud van 800 ml en een vermogen van 1400 W.",
+   "Volgens de tekst van roestvrij staal en kunststof, met poedercoating.",
+   "Het element zit in de vlakke bodem: ook kleine hoeveelheden water koken kan, vanaf circa 0,5 liter.",
+   "Push-pull openend deksel en antislipvoetjes; bij 100°C schakelt de waterkoker zichzelf uit.",
+   "Het filter is te verwijderen en met de hand af te wassen; de waterkoker reinigen met een vochtige doek. Zo nodig ontkalken met een geschikte snelontkalker.",
+   "Ontworpen in retro 50's style in samenwerking met Matteo Bazzicalupo en Raffaella Mangiarotti van ontwerpstudio deepdesign."
+  ],
+  "keys": [
+   "500268b6",
+   "7e7bf8bd",
+   "dc11ed7a",
+   "e94cd73d",
+   "cdee0549",
+   "383b8348"
+  ],
+  "requires": [
+   "800 ml"
+  ],
+  "colours": [
+   "crème",
+   "rood",
+   "pastelblauw",
+   "roze",
+   "watergroen",
+   "wit",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal",
+    "websiteSays": "Specificaties: Materiaal kunststof. Tekst: \"gemaakt van roestvrij staal\" en \"vervaardigd uit roestvrij staal en kunststof\".",
+    "note": "Controleer het materiaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "SMEG\\ 50's\\ style\\ Multi\\-use\\ contactgrill\\ glanzend\\ créme",
+   "SMEG\\ 50's\\ style\\ Multi\\-use\\ contactgrill\\ glanzend\\ rood",
+   "SMEG\\ 50's\\ style\\ Multi\\-use\\ contactgrill\\ glanzend\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": "Te gebruiken als contactgrill, ovengrill en opengeklapte tafelgrill.",
+  "bullets": [
+   "Multi-use contactgrill met een vermogen van 1680-2000 W; afmetingen 47 x 36 x 21 cm.",
+   "Temperatuur van de afzonderlijke platen instelbaar van 60 tot 230 °C; temperatuur en bereidingstijd zijn af te lezen op het lcd-display.",
+   "Contactstand: platen liggen direct tegen bijvoorbeeld een tosti, hamburger of stuk vlees. Ovenstand: bovenplaat op vijf hoogtes te plaatsen. Opengeklapt: de twee platen vormen samen een groter bakoppervlak.",
+   "Instelbare programma's voor panini, hamburgers en wafels; de aanbraadfunctie verhit de platen 30 seconden tot boven 250 °C.",
+   "Meegeleverd: 1 geribbelde grillplaat, 1 vlakke bakplaat, 2 wafelplaten, 1 dubbelzijdige reinigingsspatel en 1 maatbeker voor wafelbeslag.",
+   "Aluminium platen met een PFAS-vrije keramische antiaanbaklaag. Uitneembare platen reinigen met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "149ce6bf",
+   "5de3cac2",
+   "0419cf90"
+  ],
+  "requires": [
+   "contactgrill"
+  ],
+  "colours": [
+   "glanzend créme",
+   "glanzend rood",
+   "glanzend zwart"
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50's\\ style\\ Personal\\ blender\\ 600\\ ml\\ crème",
+   "Smeg\\ 50's\\ style\\ Personal\\ blender\\ 600\\ ml\\ roze",
+   "Smeg\\ 50's\\ style\\ Personal\\ blender\\ 600\\ ml\\ pastelblauw",
+   "Smeg\\ 50's\\ style\\ Personal\\ blender\\ 600\\ ml\\ rood",
+   "Smeg\\ 50's\\ style\\ Personal\\ blender\\ 600\\ ml\\ watergroen",
+   "Smeg\\ 50's\\ style\\ Personal\\ blender\\ 600\\ ml\\ wit",
+   "Smeg\\ 50's\\ style\\ Personal\\ blender\\ 600\\ ml\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het mixen en mengen van onder andere sappen en smoothies.",
+  "bullets": [
+   "Personal blender in retro 50's design met een mengkan van 600 ml van BPA-vrij kunststof; de kan dient ook als fles om sappen en smoothies mee te nemen.",
+   "Vermogen maximaal 300 W; 2 snelheden.",
+   "Smooth Start-functie: de blender komt rustig op toeren. Beveiliging tegen overbelasting en een beveiligingsslot wanneer de kan niet op de machine zit.",
+   "Dubbel mes van roestvrij staal, los te halen.",
+   "Onderdelen van de blender met de hand reinigen."
+  ],
+  "keys": [
+   "6a3a63df",
+   "d02b49a5",
+   "0022d1c1",
+   "04c46e26",
+   "82981c51",
+   "287d1ed0"
+  ],
+  "requires": [
+   "600"
+  ],
+  "colours": [
+   "crème",
+   "roze",
+   "pastelblauw",
+   "rood",
+   "watergroen",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "SMEG\\ 50's\\ style\\ SMF05\\ standmixer\\ crème",
+   "SMEG\\ 50's\\ style\\ SMF05\\ standmixer\\ pastelblauw",
+   "SMEG\\ 50's\\ style\\ SMF05\\ standmixer\\ roze",
+   "SMEG\\ 50's\\ style\\ SMF05\\ standmixer\\ watergroen",
+   "SMEG\\ 50's\\ style\\ SMF05\\ standmixer\\ wit",
+   "SMEG\\ 50's\\ style\\ SMF05\\ standmixer\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het mengen, kloppen en kneden van deeg en beslag.",
+  "bullets": [
+   "Standmixer van gegoten aluminium met glanzende afwerking en een roestvrijstalen mengkom van 4,8 liter.",
+   "10 snelheidsstanden en Smooth Start-functie (geleidelijk starten, minder spatten); planetaire mengbeweging.",
+   "Direct drive motor met een vermogen van 1000 watt; het Steady Mix System vermindert trillingen.",
+   "De kop is kantelbaar; een veiligheidssysteem stopt de werking als de kop omhoog staat.",
+   "Geleverd met roestvrijstalen draadgarde, aluminium platte klopper, aluminium deeghaak, klopper met flexibele siliconen rand en een schenkschild.",
+   "Reinigen: losse onderdelen met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "b26ec780",
+   "3edaa0d0",
+   "45e74ab4",
+   "b0eeec6f",
+   "fa379b39",
+   "bc41189c"
+  ],
+  "requires": [
+   "Steady Mix"
+  ],
+  "colours": [
+   "crème",
+   "pastelblauw",
+   "roze",
+   "watergroen",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ accessoireset\\ voor\\ staafmixer\\ kunststof\\ crème\\ 4\\-delig",
+   "Smeg\\ accessoireset\\ voor\\ staafmixer\\ kunststof\\ pastelblauw\\ 4\\-delig",
+   "Smeg\\ accessoireset\\ voor\\ staafmixer\\ kunststof\\ rood\\ 4\\-delig",
+   "Smeg\\ accessoireset\\ voor\\ staafmixer\\ kunststof\\ zwart\\ 4\\-delig"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het mixen, pureren, vermalen en vermengen van ingrediënten.",
+  "bullets": [
+   "Accessoireset voor de SMEG staafmixer, alleen te gebruiken in combinatie met de SMEG staafmixer.",
+   "De set bestaat uit vier accessoires: mengbeker van gerecycled Tritan Renew-kunststof (1,4 liter), roestvrijstalen garde, pureestamper en hakmolen (500 ml).",
+   "Accessoires van roestvrij staal en BPA-vrij kunststof; voor het mixen, pureren, vermalen en vermengen van ingrediënten.",
+   "Retro 50's design.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d63281a2",
+   "7cea4ee4",
+   "196e0c59",
+   "20e7a4cd"
+  ],
+  "requires": [
+   "pureestamper"
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ container\\ voor\\ ijsmachine\\ SMIC01"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "ijsmachines"
+  ],
+  "suitedFor": "Extra container om ijs te maken in uw SMEG keukenmachine.",
+  "bullets": [
+   "Extra container voor de SMEG ijsmachine (SMIC01), van roestvrij staal; zonder accessoires.",
+   "Inhoud 1,1 liter; ijs maken duurt 20 tot 30 minuten.",
+   "Te gebruiken in combinatie met de SMEG standmixer, voor verschillende soorten ijs.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "57057779"
+  ],
+  "requires": [
+   "SMIC01"
+  ]
+ },
+ {
+  "match": [
+   "SMEG\\ ijsmachine\\ accessoire\\ voor\\ standmixer\\ "
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "ijsmachines"
+  ],
+  "suitedFor": "Voor het maken van room-, sorbet- en yoghurtijs met de keukenmachine van SMEG.",
+  "bullets": [
+   "IJsmachine-accessoire (SMIC01) in wit voor de SMEG keukenmachine/standmixer; maakt room-, sorbet- en yoghurtijs.",
+   "Maximale inhoud 1,1 liter; ijs in 20 tot maximaal 30 minuten.",
+   "Dubbelwandige koelcontainer; afmetingen container 15 x 15 cm; binnenzijde roestvrij staal, buitenzijde kunststof.",
+   "Volgens de tekst geschikt voor keukenmachines met RVS kom: SMF02- en SMF03-versies.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7173aeaa"
+  ],
+  "requires": [
+   "SMF02"
+  ],
+  "mismatches": [
+   {
+    "topic": "Geschikt voor welke machine",
+    "websiteSays": "\"Geschikt voor keukenmachines met RVS kom: SMF02- en SMF03-versies\".",
+    "note": "De SMEG standmixer op de website heet SMF05. Vraag na of het accessoire daarop past."
+   }
+  ]
+ },
+ {
+  "match": [
+   "SMEG\\ pastaroller\\ \\&\\ snijset\\ voor\\ keukenmachine"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het uitrollen en snijden van verse pasta met de SMEG standmixer.",
+  "bullets": [
+   "Roller- en snijset voor pasta, te gebruiken in combinatie met de SMEG standmixer; 3 delen.",
+   "In de set: pastaroller, tagliolinisnijder en fettuccinisnijder, van roestvrij staal.",
+   "Pasta na het snijden een uur laten drogen voor het beste resultaat.",
+   "Reinigen: eerst de rollers aan de lucht laten drogen, daarna met het meegeleverde schoonmaakborsteltje deeg- en meelresten wegborstelen."
+  ],
+  "keys": [
+   "689cbb99"
+  ],
+  "requires": [
+   "tagliolini"
+  ]
+ },
+ {
+  "match": [
+   "SMEG\\ snij\\-\\ en\\ raspset\\ voor\\ standmixer"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het schaven en raspen van veel soorten groenten en bijvoorbeeld chocolade.",
+  "bullets": [
+   "Snij- en raspset van metaal en wit kunststof, te gebruiken in combinatie met de SMEG standmixer.",
+   "Wordt geleverd met behuizing, duwer en rasptrommels: een middelgrove, een grove en een fijne en grove schaaftrommel.",
+   "De rasp wordt met een blokkering vastgezet zodat deze niet met de machine meedraait.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "31a59936"
+  ],
+  "requires": [
+   "rasptrommel"
+  ]
+ },
+ {
+  "match": [
+   "SMEG\\ tostiklem\\ rvs\\ 2\\ stuks"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het maken van tosti's in een SMEG broodrooster.",
+  "bullets": [
+   "Tostiklem van roestvrij staal met hittebestendige kunststof handgrepen; verpakking van 2 stuks.",
+   "Geschikt voor het kleine model SMEG broodrooster (31 x 19,5 x 20 cm).",
+   "Een belegde dubbele boterham in de klem zetten en in de broodrooster hangen om een tosti te maken.",
+   "Voor het beste resultaat de tosti ook aan de buitenkant besmeren met een dun laagje boter of margarine.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c5f4ec49"
+  ],
+  "requires": [
+   "tostiklem"
+  ]
+ },
+ {
+  "match": [
+   "SMEG\\ VPC01\\ vacuümpomp\\ voor\\ blender"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vacuümpomp (VPC01) als accessoire voor SMEG blenders; verwijdert lucht uit de blenderkan.",
+   "Bedoeld voor gebruik met vacuümgeschikte blenderkannen; wordt handmatig bediend en sluit aan op de daarvoor geschikte blenderdeksels.",
+   "Door lucht uit de kan te verwijderen wordt oxidatie van ingrediënten verminderd (behoud van kleur, smaak en voedingsstoffen, bijvoorbeeld bij smoothies en sauzen).",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "a9891681"
+  ],
+  "requires": [
+   "VPC01"
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ warmhoudrek\\ voor\\ lange\\ broodrooster\\ rvs"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het warmhouden of opwarmen van broodjes boven uw SMEG broodrooster.",
+  "bullets": [
+   "Warmhoudrek van roestvrij staal en kunststof.",
+   "Geschikt voor de SMEG broodrooster met het typenummer beginnend met TSF02.",
+   "Op de broodrooster zetten, de broodjes erop leggen en rustig laten verwarmen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "019f3947"
+  ],
+  "requires": [
+   "warmhoudrek"
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ chroom",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ crème\\ ",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ Emerald\\ Green",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ mat\\ champagne",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ mat\\ zwart\\ ",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ pastelblauw",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ rood",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ roze",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ watergroen",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ wit",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": "Voor het koken van water voor bijvoorbeeld thee.",
+  "bullets": [
+   "Waterkoker met een inhoud van 1,7 liter en een vermogen van 2400 W.",
+   "Volgens de tekst van roestvrij staal en kunststof.",
+   "Het element zit in de vlakke bodem: ook kleine hoeveelheden water koken kan, vanaf circa 0,5 liter.",
+   "Push-pull openend deksel en antislipvoetjes.",
+   "Ontworpen in retro 50's style in samenwerking met Matteo Bazzicalupo en Raffaella Mangiarotti van ontwerpstudio deepdesign.",
+   "Bij 100°C schakelt de waterkoker zichzelf uit.",
+   "Het filter is te verwijderen en met de hand af te wassen; de waterkoker reinigen met een vochtige doek. Zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "e5f718e9",
+   "a76ee0ba",
+   "64ffdf04",
+   "986507b1",
+   "ea0e3739",
+   "d7f94f9a",
+   "7ee2e52b",
+   "8f36d4d2",
+   "1fb031e4",
+   "75536f2f",
+   "d649402e",
+   "a501ef1b",
+   "23c4dfd7",
+   "a255a165"
+  ],
+  "requires": [
+   "1,7 liter"
+  ],
+  "colours": [
+   "chroom",
+   "crème ",
+   "Emerald Green",
+   "mat champagne",
+   "mat wit",
+   "mat zwart ",
+   "Moonlight",
+   "pastelblauw",
+   "rood",
+   "roze",
+   "Storm Blue",
+   "watergroen",
+   "wit",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur: mat wit",
+    "websiteSays": "Tekst: \"De goudkleurige SMEG 50's style waterkoker ... heeft een mat witte coating.\"",
+    "note": "Controleer de kleur van de mat witte uitvoering."
+   }
+  ]
+ },
+ {
+  "match": [
+   "SMEG\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ mat\\ wit",
+   "SMEG\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ Moonlight",
+   "SMEG\\ 50's\\ style\\ waterkoker\\ 1,7\\ liter\\ Storm\\ Blue"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": "Voor het koken van water voor bijvoorbeeld thee.",
+  "bullets": [
+   "Waterkoker met een inhoud van 1,7 liter en een vermogen van 2400 W.",
+   "Volgens de tekst van roestvrij staal en kunststof.",
+   "Het element zit in de vlakke bodem: ook kleine hoeveelheden water koken kan, vanaf circa 0,5 liter.",
+   "Push-pull openend deksel en antislipvoetjes.",
+   "Ontworpen in retro 50's style in samenwerking met Matteo Bazzicalupo en Raffaella Mangiarotti van ontwerpstudio deepdesign.",
+   "Bij 100°C schakelt de waterkoker zichzelf uit.",
+   "Het filter is te verwijderen en met de hand af te wassen; de waterkoker reinigen met een vochtige doek. Zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "e5f718e9",
+   "a76ee0ba",
+   "64ffdf04",
+   "986507b1",
+   "ea0e3739",
+   "d7f94f9a",
+   "7ee2e52b",
+   "8f36d4d2",
+   "1fb031e4",
+   "75536f2f",
+   "d649402e",
+   "a501ef1b",
+   "23c4dfd7",
+   "a255a165"
+  ],
+  "requires": [
+   "1,7 liter"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur: mat wit",
+    "websiteSays": "Tekst: \"De goudkleurige SMEG 50's style waterkoker ... heeft een mat witte coating.\"",
+    "note": "Controleer de kleur van de mat witte uitvoering."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smeg\\ 50's\\ style\\ waterkoker\\ met\\ temperatuurcontrole\\ 1,7\\ liter\\ rvs\\ chroom",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ met\\ temperatuurcontrole\\ 1,7\\ liter\\ rvs\\ crème",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ met\\ temperatuurcontrole\\ 1,7\\ liter\\ rvs\\ pastelblauw",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ met\\ temperatuurcontrole\\ 1,7\\ liter\\ rvs\\ rood",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ met\\ temperatuurcontrole\\ 1,7\\ liter\\ rvs\\ roze",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ met\\ temperatuurcontrole\\ 1,7\\ liter\\ rvs\\ watergroen",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ met\\ temperatuurcontrole\\ 1,7\\ liter\\ rvs\\ wit",
+   "Smeg\\ 50's\\ style\\ waterkoker\\ met\\ temperatuurcontrole\\ 1,7\\ liter\\ rvs\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": "Voor het koken van water voor bijvoorbeeld thee.",
+  "bullets": [
+   "Waterkoker met een inhoud van 1,7 liter en een vermogen van 2400 W.",
+   "Volgens de tekst van roestvrij staal en kunststof.",
+   "Het element zit in de vlakke bodem: ook kleine hoeveelheden water koken kan, vanaf circa 0,5 liter.",
+   "Push-pull openend deksel en antislipvoetjes.",
+   "Ontworpen in retro 50's style in samenwerking met Matteo Bazzicalupo en Raffaella Mangiarotti van ontwerpstudio deepdesign.",
+   "Watertemperatuur zelf in te stellen in 7 stappen van 50°C tot 100°C; bij de ingestelde temperatuur schakelt de waterkoker zichzelf uit.",
+   "Met de warmhoudfunctie blijft het water nog 20 minuten op de ingestelde temperatuur.",
+   "Het filter is te verwijderen en met de hand af te wassen; de waterkoker reinigen met een vochtige doek. Zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "a8d5ad64",
+   "2a21c9a0",
+   "bcfaa872",
+   "4808d6d4",
+   "310576ee",
+   "596ccbc6",
+   "f5fa827c",
+   "d6a09000"
+  ],
+  "requires": [
+   "warmhoudfunctie"
+  ],
+  "colours": [
+   "chroom",
+   "crème",
+   "pastelblauw",
+   "rood",
+   "roze",
+   "watergroen",
+   "wit",
+   "zwart"
+  ]
+ }
+]

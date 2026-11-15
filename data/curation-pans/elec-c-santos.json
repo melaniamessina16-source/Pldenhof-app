@@ -1,0 +1,30 @@
+[
+ {
+  "match": [
+   "Santos\\ Super\\ de\\ Luxe\\ elektrische\\ citruspers\\ rvs\\ glans",
+   "Santos\\ Super\\ elektrische\\ citruspers\\ 39\\ cm\\ rvs\\ antraciet",
+   "Santos\\ Super\\ Nero\\ elektrische\\ citruspers\\ rvs\\ zwart"
+  ],
+  "brandID": "santos",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het persen van citrusvruchten zoals citroenen en sinaasappelen.",
+  "bullets": [
+   "Santos Super elektrische citruspers van roestvrij staal, 230 W, hoge draaisnelheid; 30 x 20 x 39 cm (l x b x h).",
+   "Perst verschillende soorten citrusvruchten, zoals citroenen en sinaasappelen.",
+   "De machine start wanneer u de deksel sluit; als u de deksel optilt, stopt de kegel.",
+   "Het pulp blijft achter in de uitneembare centrifugebak.",
+   "Reinigen met een vochtige doek, warm water en afwasmiddel."
+  ],
+  "keys": [
+   "53090528",
+   "27ec16f7",
+   "717231af"
+  ],
+  "brandName": "Santos",
+  "requires": [
+   "uitneembare centrifugebak"
+  ]
+ }
+]

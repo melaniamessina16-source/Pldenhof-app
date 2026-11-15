@@ -1,0 +1,117 @@
+[
+ {
+  "match": [
+   "Oldenhof\\ Carrara\\ magnetisch\\ messenblok\\ marmer\\ en\\ walnoothout"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Carrara magnetisch messenblok van walnotenhout (en marmer volgens de naam en specificaties), voor het veilig en overzichtelijk bewaren van keukenmessen.",
+   "Sterke magnetische strip: de messen blijven op hun plaats zonder dat u ze in gleuven hoeft te schuiven; geen gleuven waar vuil en vocht kunnen achterblijven.",
+   "Reinigen met een zachte, licht vochtige doek."
+  ],
+  "keys": [
+   "5653cb4e"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ magnetisch\\ schuin\\ messenblok\\ walnotenhout",
+   "Oldenhof\\ magnetisch\\ verticaal\\ messenblok\\ walnotenhout"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het bewaren en presenteren van verschillende soorten (keuken)messen.",
+  "bullets": [
+   "Magnetisch messenblok van massief walnoothout (schuin of verticaal, zie productnaam); de messen blijven op hun plek dankzij een krachtige magneet.",
+   "Biedt een veilige plek voor uw messen en houdt ze in het zicht; messen blijven langer scherp.",
+   "Reinigen van de buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "3fde034d"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ messenblok\\ voor\\ 8\\ steakmessen\\ beukenhout"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het opbergen van steakmessen.",
+  "bullets": [
+   "Messenblok voor 8 steakmessen (volgens de naam) van naturel gelakt beukenhout; vierkant van vorm.",
+   "Reinigen met een vochtige doek; handafwas."
+  ],
+  "keys": [
+   "68036fe5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Specificaties kloppen niet",
+    "websiteSays": "Specificaties: Thema kinderen; Totale diameter: Sanoma",
+    "note": "Deze specificatieregels horen niet bij een messenblok voor steakmessen; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Milano\\ magnetisch\\ messenblok\\ 16\\ cm\\ beukenhout\\ blank"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Milano magnetisch messenblok van beukenhout, bestaand uit vier verticale elementen: drie hebben magneten waar de messen tegenaan kleven, het vierde element is decoratief.",
+   "Doordat de messen vlak tegen het hout liggen, bergt u ze op hygiënische wijze op.",
+   "Afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "5b747a9d"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Milano\\ magnetisch\\ messenblok\\ kruisvorm\\ hout\\ naturel"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kruisvormig Milano magnetisch messenblok van transparant gelakt beukenhout, bestaand uit twee verticale elementen waarin magneten zijn verwerkt.",
+   "Capaciteit 10 messen (volgens de specificaties); aan de onderzijde rubberen anti-slipvoetjes.",
+   "Doordat de messen vlak tegen het hout liggen, bergt u ze op hygiënische wijze op. Afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "c48738e8"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Venezia\\ magnetisch\\ messenblok\\ voor\\ 10\\ messen\\ beukenhout\\ naturel"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Venezia magnetisch messenblok van transparant gelakt beukenhout met diagonale leggers voor messen, voorzien van magneten, verbonden door een zwarte ruggengraat.",
+   "Voor 10 messen (volgens de naam).",
+   "Afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "4aef7fb6"
+  ]
+ }
+]

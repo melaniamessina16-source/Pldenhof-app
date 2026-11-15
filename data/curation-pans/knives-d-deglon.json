@@ -1,0 +1,402 @@
+[
+ {
+  "match": [
+   "Deglon\\ Brasserie\\ steakmes\\ 11,5\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het aan tafel snijden van bereid vlees.",
+  "bullets": [
+   "Brasserie steakmes met een lemmet van roestvrij staal en een zwart kunststof heft.",
+   "Gekarteld lemmet.",
+   "Het heft is met klinknagels aan de doorlopende angel van het mes bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "de3f2ead"
+  ],
+  "brandName": "Deglon"
+ },
+ {
+  "match": [
+   "Deglon\\ steakmes\\ 13\\ cm\\ messenstaal\\ bruin"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het aan tafel snijden van bereid vlees.",
+  "bullets": [
+   "Steakmes met een lemmet van gesmeed messenstaal en een donkerbruin houten heft.",
+   "Gekarteld lemmet.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2d698423"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ hakmes\\ 24\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ideaal voor het snijden en hakken van kruiden, groenten en vlees; ook geschikt om kleine botjes en visgraten door te hakken.",
+  "bullets": [
+   "Hakmes met een lemmet van messenstaal en een zwarte kunststof handgreep.",
+   "Vlak lemmet dat rond afloopt; het blad is dik, waarmee u eenvoudig door groenten en vlees hakt.",
+   "De handgreep is geribbeld voor extra grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "91a71941"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ inkerfmes\\ voor\\ brood\\ geel"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor het insnijden van brooddeeg vóór het bakken.",
+  "bullets": [
+   "Inkerfmes voor brood: een scherp mesje van roestvrij staal in een gele kunststof houder.",
+   "Maakt dunne insnijdingen in deeg, zodat het brood tijdens het bakken gecontroleerd kan openscheuren.",
+   "De compacte vorm maakt gecontroleerd en nauwkeurig werken mogelijk.",
+   "Vaatwasmachinebestendig, maar handwas is aanbevolen voor een langere levensduur."
+  ],
+  "keys": [
+   "45c7da4b"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur",
+    "websiteSays": "Naam en tekst: geel; specificaties: Kleur Geel, Groen",
+    "note": "Controleer de kleur(en) van dit product."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ magnetisch\\ messenblok\\ 26\\ cm\\ bamboe"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magnetisch messenblok van bamboe met een geïntegreerde magneet: de messen kleven tegen het blok.",
+   "Houdt uw messen overzichtelijk onder handbereik.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "d012a8ba"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ messenblok\\ met\\ steakmessen\\ rond\\ zwart\\ 7\\-delig"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Geschikt voor gebruik aan tafel, voor het snijden van bijvoorbeeld biefstuk en lamskoteletten.",
+  "bullets": [
+   "Rond messenblok van zwart kunststof, gevuld met steakmessen (7-delig); de messen hebben een kleine kartel.",
+   "De messen worden na gebruik opgeborgen in het blok; het blok biedt plek aan de 6 messen.",
+   "Messen reinigen met warm water en afwasmiddel; het messenblok met een vochtige doek."
+  ],
+  "keys": [
+   "059bc86a"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ messenmagneet\\ 38\\ cm\\ kunststof\\ zwart",
+   "Deglon\\ messenmagneet\\ 60\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Om uw messen veilig en hygiënisch op te hangen en ze tegelijk bij de hand te hebben.",
+  "bullets": [
+   "Messenmagneet (strip) van zwart polypropeen met daarin magneten; de lengte staat in de productnaam.",
+   "Te monteren met schroeven, zodat de magneet stevig aan de wand hangt.",
+   "Door de messen aan een magneet te hangen, kan er geen vuil ophopen in de groeven van een messenblok.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "20e12101",
+   "c43dce7f"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ messenset\\ sabatier\\ 3\\-delig\\ in\\ geschenkverpakking"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor verschillende snijtaken in de keuken, zoals het snijden van groenten, vlees en kruiden.",
+  "bullets": [
+   "Sabatier messenset van 3 messen in een geschenkverpakking: koksmes 20 cm, mini santoku en officemes 10 cm.",
+   "Roestvrij staal (High Carbon Stainless Steel); de lemmeten hebben volgens de website een hardheid van 55 HRC.",
+   "Zwarte kunststof handgreep met klinknagels; massieve krop voor stabiliteit tijdens gebruik.",
+   "Vaatwasmachinebestendig, maar handwas is aanbevolen."
+  ],
+  "keys": [
+   "ceab0b57"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ messentas\\ voor\\ 8\\ messen"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Kan zowel worden gebruikt voor transport als voor opslag op het werkblad.",
+  "bullets": [
+   "Messentas voor 8 messen (volgens de naam), gemaakt van textiel met een verstevigde constructie.",
+   "Twee opbergvakken: voor messen tot 28 cm en voor kleinere messen tot 15 cm; gevoerde vakken met snijbestendige stof.",
+   "Door de verstevigde constructie rechtop te plaatsen als messenhouder; sluitflappen met drukknopen beschermen de messen tijdens transport.",
+   "Voorzien van een ophanghaak. Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "4eced0c3"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ opvouwbare\\ messentas\\ voor\\ 10\\ messen\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Geschikt voor het veilig vervoeren van messen.",
+  "bullets": [
+   "Opvouwbare messentas voor 10 messen (volgens de naam) van zwart polyester, met een compacte vorm.",
+   "10 vakken, een zijvak met ritssluiting en een binnenvak met klittenband voor kleine accessoires.",
+   "Draaggreep en verstelbare, afneembare schouderriem; sluiting met clips en beschermflappen met klittenband.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "7220ccde"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ opvouwbare\\ messentas\\ voor\\ 8\\ messen\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Geschikt voor het veilig vervoeren van messen; te gebruiken in de keuken, opleiding of onderweg.",
+  "bullets": [
+   "Opvouwbare messentas voor 8 messen (volgens de naam) van zwart textiel met vakken voor messen en keukengereedschap.",
+   "Soepele uitvoering: de tas kan worden opgerold en compact worden opgeborgen.",
+   "Het textiel beschermt de messen tijdens transport. Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "ab7c1307"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ oestermes\\ 16\\ cm\\ rvs\\ blauw"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het openen van oesters.",
+  "bullets": [
+   "Oestermes van roestvrij staal met een blauwe kunststof handgreep.",
+   "Het lemmet heeft een spits uiteinde en twee scherpe zijden.",
+   "Voor het openen van oesters: plaats het mes tussen de twee schelpen en wrik rustig heen en weer; schraap langs de vlakke kant van de oester om de spier los te snijden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c7524d37"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ oestermes\\ 16\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het moeiteloos openen van verse oesters.",
+  "bullets": [
+   "Zwart oestermes van roestvrij staal met een scherp lemmet in een korte punt met een scherpe zijde.",
+   "Comfortabel, rond handvat: het mes is veilig en snel te gebruiken.",
+   "Voor het openen van oesters: plaats het mes tussen de twee schelpen en wrik rustig heen en weer; schraap langs de vlakke kant van de oester om de spier los te snijden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b573ffe3"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ oestermes\\ 7\\ cm\\ hout"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ideaal voor het openen van oesters.",
+  "bullets": [
+   "Oestermes (lancet) van roestvrij staal met een houten handvat; smal en stevig lemmet waarmee je oesters nauwkeurig en veilig kunt openen zonder de schelp te breken.",
+   "Ergonomisch houten handvat met klinknagels.",
+   "Klassieke vorm die volgens de website veel wordt gebruikt door professionals."
+  ],
+  "keys": [
+   "b1a3cc86"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ oestermes\\ 'Dune'\\ 14,5\\ cm\\ rvs\\ blauw"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oestermes \"Dune\" van roestvrij staal; het lemmet is horizontaal bevestigd aan het heft.",
+   "De bolle blauwe kunststof handgreep ligt prettig in de hand en geeft voldoende grip om kracht uit te oefenen bij het open wrikken van oesters.",
+   "Voor het openen van oesters: plaats het mes tussen de twee schelpen en wrik rustig heen en weer; schraap langs de vlakke kant van de oester om de spier los te snijden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "934ef610"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ oestermes\\ 'Ocean'\\ 15\\ cm\\ rvs\\ blauw"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oestermes \"Ocean\" van roestvrij staal; het uiteinde heeft tanden waarmee u gemakkelijk en veilig oesters open wrikt.",
+   "Blauw kunststof heft dat prettig in de hand ligt.",
+   "Voor het openen van oesters: plaats het mes tussen de twee schelpen en wrik rustig heen en weer; schraap langs de vlakke kant van de oester om de spier los te snijden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "94d4d8c1"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ snijplank\\ 20\\ x\\ 15\\ cm\\ bamboe"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Voor het snijden van vlees en groenten of om kaas en tapas te presenteren.",
+  "bullets": [
+   "Snijplank van bamboe; aan de onderzijde uitsparingen die dienen als handgrepen.",
+   "Bamboe heeft een compacte vezelstructuur en is daardoor hard en goed bestand tegen vocht; duurzaam, milieuvriendelijk en bacteriewerend.",
+   "Reinigen met warm water en afwasmiddel en direct grondig afdrogen; af en toe inwrijven met plantaardige olie, bij voorkeur druivenpitolie."
+  ],
+  "keys": [
+   "159d92b1"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ tomatenmes\\ 22,5\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het moeiteloos snijden van verschillende soorten tomaten of andere zachte groenten.",
+  "bullets": [
+   "Zwart tomatenmes van roestvrij staal met een gekerfde rand met kleine tanden.",
+   "Comfortabel handvat: het mes is veilig en snel te gebruiken.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "03f93d73"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ universeel\\ messenblok\\ ø\\ 11,5\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Universeel messenblok van zwart kunststof met een diameter van 11,5 cm en een hoogte van 22,5 cm.",
+   "Biedt plaats aan meerdere messen, zoals koksmessen, officemessen, schilmessen en steakmessen; ze kunnen op elke manier en plek in het blok worden gestoken.",
+   "De inzet is gemaakt van compacte kunststof vezels en is uitneembaar.",
+   "Buitenzijde reinigen met een vochtige doek; de inzet met warm water en afwasmiddel, daarna goed laten drogen."
+  ],
+  "keys": [
+   "6490c3b2"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ v\\-vorm\\ decoratiemes\\ 19\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het decoratief doorsnijden van ronde groenten en fruit.",
+  "bullets": [
+   "V-vormig decoratiemesje van kunststof en roestvrij staal.",
+   "Druk het mesje recht in een rond stuk groente of fruit en herhaal dit over de hele diameter voor een decoratief effect.",
+   "De greep heeft een ophangoog. Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f56d27ca"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ wiegemes\\ 16\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het fijnhakken van verse kruiden (en knoflook) op de snijplank.",
+  "bullets": [
+   "Wiegemes (mezzaluna) van roestvrij staal met een zwart kunststof heft.",
+   "De T-vorm geeft een stevige, comfortabele grip.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "1353026d"
+  ]
+ }
+]

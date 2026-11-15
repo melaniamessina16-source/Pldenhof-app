@@ -1,0 +1,531 @@
+[
+ {
+  "match": [
+   "Alessi\\ broodrooster\\ 1\\ sleuf\\ rvs\\ glans"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi broodrooster voor 1 sneetje brood per keer.",
+   "Wit kunststof met roestvrijstalen behuizing en een verchroomde bovenkant; ontwerp van Stefano Giovannoni.",
+   "Roostert en ontdooit brood.",
+   "Bijgeleverde warmhouder, bijvoorbeeld om croissants te verwarmen.",
+   "Reinigen met een vochtige doek en wat afwasmiddel."
+  ],
+  "keys": [
+   "dedfbb12"
+  ],
+  "brandName": "Alessi",
+  "requires": [
+   "warmhouder"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ MG32TC\\ B\\ Michael\\ Graves\\ waterkoker\\ rvs\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Michael Graves waterkoker met vogeltje, inhoud 1,5 liter.",
+   "Zwart roestvrij staal met zwart kunststof en oranje accenten; viert het 40-jarig bestaan van het ontwerp uit 1985.",
+   "Digitale temperatuurinstelling in stappen van 5° Celsius; indicatieverlichting in de basis.",
+   "Slaat automatisch af, de handgreep blijft koel en het vogeltje blijft stil.",
+   "Reinigen met een vochtige doek; ontkalken kan met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "cbefddb0"
+  ],
+  "requires": [
+   "5° Celsius"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Michael\\ Graves\\ waterkoker\\ 1,5\\ liter\\ gepolijst\\ rvs\\ blauw",
+   "Alessi\\ Michael\\ Graves\\ waterkoker\\ 1,5\\ liter\\ gepolijst\\ rvs\\ wit",
+   "Alessi\\ Michael\\ Graves\\ waterkoker\\ 1,5\\ liter\\ gepolijst\\ rvs\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Michael Graves waterkoker met vogeltje, inhoud 1,5 liter.",
+   "Gepolijst roestvrij staal met kunststof.",
+   "Slaat automatisch af, de handgreep blijft koel en het vogeltje blijft stil.",
+   "Reinigen met een vochtige doek; ontkalken kan met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "62028356",
+   "b77e9482",
+   "49580795"
+  ],
+  "requires": [
+   "vogeltje"
+  ],
+  "colours": [
+   "blauw",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ briochewarmer\\ voor\\ broodrooster\\ wit",
+   "Alessi\\ Plissé\\ briochewarmer\\ voor\\ broodrooster\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Plissé briochewarmer: een rek om geroosterd brood warm te houden; ook geschikt voor het opwarmen van croissants, bagels, pizza's en andere gebakken producten.",
+   "Rek voor de Alessi Plissé broodrooster om geroosterd brood warm te houden; ook geschikt voor croissants, bagels en pizza's.",
+   "Roestvrij staal met kunststof handvaten; ontworpen door Michele de Lucchi.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "eaaf7568",
+   "84446bcd"
+  ],
+  "requires": [
+   "briochewarmer"
+  ],
+  "colours": [
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ broodrooster\\ XL\\ kunststof\\ groen",
+   "Alessi\\ Plissé\\ broodrooster\\ XL\\ kunststof\\ wit",
+   "Alessi\\ Plissé\\ broodrooster\\ XL\\ kunststof\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Plissé XL broodrooster voor 4 sneden brood per keer, vermogen 1700 Watt.",
+   "Kunststof buitenzijde, binnenzijde van roestvrij staal; ontworpen door Michele de Lucchi.",
+   "In te stellen op 6 standen, met stop-knop, opnieuw-verhitten-, ontdooi- en bagelstand.",
+   "Kruimellade; het snoer kan onder de basis worden opgeborgen.",
+   "Reinig de buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "68aba8bf"
+  ],
+  "requires": [
+   "4 sneden"
+  ],
+  "colours": [
+   "groen",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ broodrooster\\ kunststof\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Plissé broodrooster voor 2 sneden brood per keer, vermogen 850 Watt.",
+   "Zwart kunststof buitenzijde, binnenzijde van roestvrij staal; ontworpen door Michele de Lucchi.",
+   "In te stellen op 6 standen, met stop-knop, opnieuw-verhitten-, ontdooi- en bagelstand.",
+   "Kruimellade; het snoer kan onder de basis worden opgeborgen.",
+   "De tostiklem op de foto wordt niet meegeleverd; deze is apart te koop.",
+   "Reinig de buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "75ac43ad"
+  ],
+  "requires": [
+   "2 sneden"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ drinkfles\\ voor\\ Personal\\ Blender\\ 550\\ ml\\ wit",
+   "Alessi\\ Plissé\\ drinkfles\\ voor\\ Personal\\ Blender\\ 550\\ ml\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Plissé drinkfles van 550 ml voor de Alessi Personal Blender (accessoire).",
+   "Transparant kunststof; te gebruiken om ingrediënten te blenden en om verse smoothies of andere dranken mee te nemen.",
+   "Reinigen: spoel de beker met wat water en afwasmiddel en zet de blender aan."
+  ],
+  "keys": [
+   "101adb90",
+   "25f802eb"
+  ],
+  "requires": [
+   "drinkfles"
+  ],
+  "colours": [
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ elektrische\\ citruspers\\ kunststof\\ groen",
+   "Alessi\\ Plissé\\ elektrische\\ citruspers\\ kunststof\\ rood",
+   "Alessi\\ Plissé\\ elektrische\\ citruspers\\ kunststof\\ wit",
+   "Alessi\\ Plissé\\ elektrische\\ citruspers\\ kunststof\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het persen van diverse soorten citrusvruchten.",
+  "bullets": [
+   "Alessi Plissé elektrische citruspers met een vermogen van 80 Watt.",
+   "Kunststof; ontworpen door Michele de Lucchi.",
+   "De perskegel draait links- en rechtsom voor een optimale sapextractie.",
+   "Drupvrije schenktuit.",
+   "Start en stopt automatisch wanneer u begint of stopt met druk op de perskegel.",
+   "Het snoer kan onder de basis worden opgeborgen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7acfba1f",
+   "40907f92"
+  ],
+  "requires": [
+   "drupvrije schenktuit"
+  ],
+  "colours": [
+   "groen",
+   "rood",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ Personal\\ Blender\\ 550\\ ml\\ kunststof\\ wit",
+   "Alessi\\ Plissé\\ Personal\\ Blender\\ 550\\ ml\\ kunststof\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het blenden van diverse ingrediënten.",
+  "bullets": [
+   "Alessi Plissé personal blender met een vermogen van 380 Watt.",
+   "Wordt geleverd met 2 kunststof bekers: klein 120 ml en groot 550 ml.",
+   "Kunststof; ontworpen door Michele de Lucchi.",
+   "Reinigen: spoel de blenderkan met wat water en afwasmiddel en zet de blender aan; de buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "6777f6ac"
+  ],
+  "requires": [
+   "380 Watt"
+  ],
+  "colours": [
+   "wit",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Hoogte",
+    "websiteSays": "De tekst zegt 35,4 cm hoog; de specificaties zeggen Hoogte 35,3 cm.",
+    "note": "Controleer op de doos."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ tostiklem\\ rvs\\ kunststof\\ groen\\ 2\\ stuks",
+   "Alessi\\ Plissé\\ tostiklem\\ rvs\\ kunststof\\ zwart\\ 2\\ stuks",
+   "Alessi\\ Plissé\\ tostiklem\\ rvs\\ kunststof\\ grijs\\ 2\\ stuks",
+   "Alessi\\ Plissé\\ tostiklem\\ rvs\\ kunststof\\ rood\\ 2\\ stuks",
+   "Alessi\\ Plissé\\ tostiklem\\ rvs\\ kunststof\\ wit\\ 2\\ stuks"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Plissé tostiklem, geleverd in een set van 2 stuks (accessoire).",
+   "Te gebruiken met de Alessi Plissé broodrooster voor het maken van tosti's.",
+   "Roestvrij staal met een kunststof handgreep.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "cc434c50",
+   "2a94ba34",
+   "728d0fe8",
+   "dc9d8654"
+  ],
+  "requires": [
+   "tostiklem"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ waterkoker\\ met\\ temperatuurcontrole\\ 1,7\\ liter\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Plissé waterkoker met temperatuurcontrole, inhoud 1,7 liter.",
+   "Zwarte thermoplastische hars; geplooide buitenzijde, ontworpen door Michele De Lucchi.",
+   "Temperatuur instelbaar via het display in stappen van 5° Celsius.",
+   "Reinig de buitenzijde met een vochtige doek; ontkalk desgewenst de binnenzijde periodiek met een geschikt ontkalkmiddel."
+  ],
+  "keys": [
+   "9d68ae39"
+  ],
+  "requires": [
+   "5° Celsius"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen",
+    "websiteSays": "De tekst zegt 29 cm hoog, 21 cm lang en 16 cm breed; de specificaties zeggen Hoogte 32 cm, Lengte 22 cm, Breedte 18 cm.",
+    "note": "Controleer de afmetingen op de doos."
+   },
+   {
+    "topic": "Vermogen",
+    "websiteSays": "De specificaties noemen twee waarden: Vermogen 1850 W, 2200 W.",
+    "note": "Controleer het vermogen op het typeplaatje."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ blender\\ 1,8\\ liter\\ kunststof\\ wit",
+   "Alessi\\ Plissé\\ blender\\ 1,8\\ liter\\ kunststof\\ zwart\\ "
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het blenden van diverse ingrediënten.",
+  "bullets": [
+   "Alessi Plissé blender met een vierkante kunststof mengbeker van 1,8 liter en een vermogen van 700 Watt.",
+   "5 snelheden en een pulsefunctie; smooth start-functie (begint eerst rustig te draaien).",
+   "Blenderkan met maataanduiding in liters en in cups.",
+   "Kunststof; ontworpen door Michele de Lucchi; het snoer kan onder de basis worden opgeborgen.",
+   "Reinigen: spoel de blenderkan met wat water en afwasmiddel en zet de blender aan; de buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "906e7fd5"
+  ],
+  "requires": [
+   "smooth start"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ staafmixer\\ kunststof\\ wit\\ 4\\-delig",
+   "Alessi\\ Plissé\\ staafmixer\\ kunststof\\ zwart\\ 4\\-delig"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het mixen en hakken van diverse ingrediënten.",
+  "bullets": [
+   "Alessi Plissé staafmixer, 4-delig, met een vermogen van 500 Watt.",
+   "Wordt geleverd met een doorzichtige kunststof mengbeker van 800 ml, een hakmolen van 400 ml en ballongarde.",
+   "2 snelheden: normaal en turbo.",
+   "Kunststof; ontworpen door Michele de Lucchi.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b97a975f"
+  ],
+  "requires": [
+   "ballongarde"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Plissé\\ waterkoker\\ 1\\ liter\\ kunststof\\ zwart"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Plissé waterkoker, inhoud 1 liter.",
+   "Zwarte thermoplastische hars; geplooide buitenzijde, ontworpen door Michele De Lucchi.",
+   "Reinig de buitenzijde met een vochtige doek; ontkalk desgewenst de binnenzijde periodiek met een geschikt ontkalkmiddel."
+  ],
+  "keys": [
+   "760ea13f"
+  ],
+  "requires": [
+   "thermoplastische hars"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ elektrische\\ citruspers\\ Stefano\\ Giovannoni\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi elektrische citruspers, ontworpen door Stefano Giovannoni, vermogen 85 W.",
+   "Roestvrij staal; perst alle soorten citrusvruchten, zoals citroen, grapefruit en sinaasappels.",
+   "Voorzien van een stofkap, vruchtvleesfilter (vangt pitjes en vruchtvlees op) en druppelstop.",
+   "Reinigen met een vochtige doek, warm water en afwasmiddel."
+  ],
+  "keys": [
+   "26e10340"
+  ],
+  "requires": [
+   "druppelstop"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Toru\\ NE01\\ B\\ waterkoker\\ 1,7\\ liter\\ rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Toru waterkoker, inhoud 1,7 liter.",
+   "Thermoplastische hars; ontworpen door Nendo.",
+   "Reinig de buitenzijde met een vochtige doek; ontkalk desgewenst de binnenzijde periodiek met een geschikt ontkalkmiddel."
+  ],
+  "keys": [
+   "811dbb90"
+  ],
+  "requires": [
+   "Nendo"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Toru\\ NE02\\ B\\ elektrische\\ citruspers\\ rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Toru elektrische citruspers van roestvrij staal en kunststof, met een 72-85 watt motor.",
+   "Ontworpen door de Japanse designstudio Nendo.",
+   "Reinig de buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "53c67501"
+  ],
+  "requires": [
+   "72-85 watt"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst noemt waterkoker",
+    "websiteSays": "Op de citruspers-pagina staat \"De Toru waterkoker is ontworpen door de Japanse designstudio Nendo.\"",
+    "note": "Waarschijnlijk een tekstfout op de website (citruspers bedoeld)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Toru\\ NE03\\ B\\ broodrooster\\ rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Toru NE03 B broodrooster van roestvrij staal.",
+   "6 bruiningstanden, automatische afslag en een extra lift-stand om het brood er makkelijk uit te halen.",
+   "Kan verschillende broodjes opwarmen en toasten.",
+   "Ronde vormen en handgrepen ontworpen door Oki Sato (Nendo).",
+   "Schoonmaken met een zachte doek en reinigingsmiddel voor metalen; kruimellade is eenvoudig te legen."
+  ],
+  "keys": [
+   "c2ef6ec1"
+  ],
+  "requires": [
+   "bruiningstanden"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Toru\\ NE03BW\\ B\\ briochewarmer\\ voor\\ broodrooster\\ rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Toru NE03BW briochewarmer: opzetstuk voor de Alessi Toru broodrooster (accessoire).",
+   "Roestvrij staal; om broodjes op te warmen boven de broodrooster, niet te roosteren.",
+   "Ontwerp van Oki Sato (Nendo).",
+   "Reinigen met een zachte doek en reinigingsmiddel voor metalen."
+  ],
+  "keys": [
+   "331f8c19"
+  ],
+  "requires": [
+   "briochewarmer"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Toru\\ NE03RA\\ B\\ tostiklem\\ voor\\ broodrooster\\ rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Toru NE03RA B tostiklem: opzetstuk voor de Alessi Toru broodrooster (accessoire).",
+   "Roestvrij staal; om broodjes eenvoudig in de broodrooster te plaatsen en eruit te halen.",
+   "Ontwerp van Oki Sato (Nendo).",
+   "Reinigen met een zachte doek en reinigingsmiddel voor metaal."
+  ],
+  "keys": [
+   "90bc3eca"
+  ],
+  "requires": [
+   "tostiklem"
+  ]
+ }
+]

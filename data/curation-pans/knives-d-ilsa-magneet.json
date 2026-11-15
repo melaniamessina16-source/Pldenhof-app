@@ -1,0 +1,28 @@
+[
+ {
+  "match": [
+   "Oldenhof\\ messenmagneet\\ 45\\ cm\\ aluminium\\ grijs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Om messen veilig aan de wand, in een lade of in een kastdeur op te hangen.",
+  "bullets": [
+   "Magneetstrip van grijs aluminium, 45 cm lang en 4,5 cm breed; de magneten houden uw messen op de strip.",
+   "Eenvoudig te bevestigen aan de wand, maar ook in een lade of aan de binnenzijde van een kastdeur: zo bergt u messen veilig en uit het zicht op.",
+   "Volgens de website ook geschikt om vorken of lepels aan op te hangen.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "7f944b38"
+  ],
+  "mismatches": [
+   {
+    "topic": "Merk",
+    "websiteSays": "Staat op de website bij het merk Ilsa, terwijl naam en tekst Oldenhof zeggen",
+    "note": "Controleer het merk van deze pagina."
+   }
+  ]
+ }
+]

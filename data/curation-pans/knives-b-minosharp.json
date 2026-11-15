@@ -1,0 +1,79 @@
+[
+ {
+  "match": [
+   "Minosharp\\ tweezijdige\\ wetsteenset\\ fijnheid\\ 220\\ en\\ 1000"
+  ],
+  "brandID": "minosharp",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tweezijdige wetsteen met een grove zijde (korrel 220) en een fijne zijde (korrel 1000).",
+   "Grof: voor het wegslijpen van kleine butsjes en het slijpen van zeer botte messen. Fijn: voor matig botte messen en voor polijsten.",
+   "Wordt geleverd met een houder en twee slijphulpen voor de juiste hoek bij het slijpen van Global of andere messen met een Japanse slijphoek.",
+   "Wetsteen voor gebruik 10 tot 15 minuten onderdompelen in water; tijdens het slijpen altijd een dun laagje water op de steen houden.",
+   "Voor eenzijdig én tweezijdig geslepen messen; slijpt en polijst messen op Japanse wijze."
+  ],
+  "keys": [
+   "fd407019"
+  ],
+  "brandName": "Minosharp",
+  "requires": [
+   "wetsteen"
+  ]
+ },
+ {
+  "match": [
+   "Shinkansen\\ Minosharp\\ messenslijper\\ 2\\ sleuven\\ keramiek\\ grijs",
+   "Shinkansen\\ Minosharp\\ messenslijper\\ 2\\ sleuven\\ keramiek\\ rood"
+  ],
+  "brandID": "minosharp",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Shinkansen Minosharp tweetraps messenslijper met twee keramische (water)slijpstenen: een grove en een fijne korrel.",
+   "Voor het slijpen van gladde (keuken)messen.",
+   "Plaatsing en hoek van de slijpwielen zijn afgestemd op de symmetrisch geslepen messen van Global.",
+   "Gebruik: water in het compartiment gieten, mes 7 à 8 keer heen en weer over de grove steen bewegen, dan van grof naar fijn werken en het mes afspoelen.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "83b7c265",
+   "c9438205"
+  ],
+  "colours": [
+   "grijs",
+   "rood"
+  ]
+ },
+ {
+  "match": [
+   "Minosharp\\ messenslijper\\ 3\\ sleuven\\ keramiek\\ grijs",
+   "Minosharp\\ messenslijper\\ 3\\ sleuven\\ keramiek\\ rood"
+  ],
+  "brandID": "minosharp",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Minosharp drietraps messenslijper met keramische slijpwielen: van grof via middel naar fijn slijpen.",
+   "Handmatig, met ergonomisch gevormde handgreep; voor links- en rechtshandigen.",
+   "Speciaal aanbevolen voor gladde (keuken)messen, in het bijzonder van Global.",
+   "Plaatsing en hoek van de slijpwielen zijn afgestemd op de symmetrisch geslepen messen van Global.",
+   "Gebruik: water in het compartiment gieten, mes 7 à 8 keer heen en weer over de grove steen bewegen, dan van grof naar fijn werken en het mes afspoelen.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "d046d15e",
+   "c588b67b"
+  ],
+  "colours": [
+   "grijs",
+   "rood"
+  ]
+ }
+]

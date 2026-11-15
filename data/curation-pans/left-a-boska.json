@@ -1,0 +1,440 @@
+[
+ {
+  "match": [
+   "Boska\\ Nero\\ fonduepan\\ 1,3\\ liter\\ aardewerk\\ zwart"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Om kaasfondue te maken voor een groot gezelschap.",
+  "bullets": [
+   "Boska Nero fonduepan van zwart keramiek (aardewerk), inhoud 1,3 liter, diameter 20 cm.",
+   "Inhoud gelijk aan 850 gram kaasfondue.",
+   "Vuurvast: kan gebruikt worden om de kaasfondue op te warmen op het gasfornuis.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "7afd0a23"
+  ],
+  "brandName": "Boska",
+  "requires": [
+   "vuurvast",
+   "vaatwasmachinebestendig"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Amigo\\ kaasmessenset\\ 3\\-delig"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om zachte, halfharde én harde kaas mee te snijden.",
+  "bullets": [
+   "Boska Amigo kaasmessenset van roestvrij staal en beukenhout; set van drie kaasmessen.",
+   "Snijdt zachte, halfharde en harde kaas: van smeuïge brie tot stevige Parmezaanse kaas.",
+   "Elk mes gebruikt u zoals een normaal kaasmesje.",
+   "Handafwas: reinigen met warm water en milde zeep, daarna goed afdrogen."
+  ],
+  "keys": [
+   "32ef5d90"
+  ],
+  "brandName": "Boska",
+  "requires": [
+   "beukenhout",
+   "milde zeep"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Amigo\\ Small\\ kaasmessenset\\ 3\\-delig"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om zachte, halfharde en harde kazen mee te snijden en te serveren.",
+  "bullets": [
+   "Boska Amigo Small kaasmessenset van roestvrij staal en beukenhout; compacte set van drie kaasmessen.",
+   "Voor het snijden en serveren van verschillende soorten kaas, van romige brie tot stevige oude kaas.",
+   "Elk mes is ontworpen voor specifieke kaassoorten.",
+   "Handafwas: reinigen met warm water en milde zeep, daarna goed afdrogen."
+  ],
+  "keys": [
+   "6c62b244"
+  ],
+  "requires": [
+   "beukenhout",
+   "milde zeep"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Amigo\\ Small\\ kaasmessenset\\ 5\\-delig"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om zachte, halfharde en harde kazen mee te snijden en te serveren.",
+  "bullets": [
+   "Boska Amigo Small kaasmessenset van roestvrij staal en beukenhout; compacte set van vijf kaasmessen.",
+   "Messen voor smeerbare kruidenkaas, zachte kazen zoals brie, halfharde kazen zoals belegen Gouda en harde kazen zoals Parmezaan.",
+   "Handafwas: reinigen met warm water en milde zeep, daarna goed afdrogen."
+  ],
+  "keys": [
+   "8a7a3f57"
+  ],
+  "requires": [
+   "beukenhout",
+   "milde zeep"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Copenhagen\\ kaasmes\\ voor\\ halfzachte\\ kaas\\ rvs"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om halfzachte kaas mee te snijden.",
+  "bullets": [
+   "Boska Copenhagen kaasmes van lichtgewicht roestvrij staal, voor halfzachte kaas.",
+   "Lengte 14,3 cm.",
+   "Voorzien van een anti-plaklaag; vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "91ee9798"
+  ],
+  "requires": [
+   "anti-plaklaag",
+   "halfzachte"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Copenhagen\\ kaasmes\\ voor\\ harde\\ kaas\\ rvs"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om harde kazen mee te snijden.",
+  "bullets": [
+   "Boska Copenhagen kaasmes van lichtgewicht roestvrij staal, voor harde kaas.",
+   "Lengte 14,3 cm; aan twee kanten geslepen, waardoor het extra scherp is en u zonder moeite door harde kazen snijdt.",
+   "Voorzien van een anti-plaklaag; vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "1e14dba2"
+  ],
+  "requires": [
+   "anti-plaklaag",
+   "twee kanten geslepen"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Copenhagen\\ kaasmes\\ voor\\ zachte\\ kaas\\ rvs"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om zachte kazen mee te snijden.",
+  "bullets": [
+   "Boska Copenhagen kaasmes van lichtgewicht roestvrij staal, voor zachte kaas.",
+   "Lengte 14,3 cm.",
+   "Voorzien van een anti-plaklaag; vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "b07f7de7"
+  ],
+  "requires": [
+   "anti-plaklaag",
+   "zachte kazen"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Copenhagen\\ kaasmessenset\\ rvs\\ 4\\-delig"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om met alle soorten kaas aan de slag te kunnen en kaas te presenteren.",
+  "bullets": [
+   "Boska Copenhagen kaasmessenset, 4-delig: presenteermes, smeermes, kaasmes en Parmesan mes.",
+   "De messen zijn van roestvrij staal; het handvat is hol, waardoor de mesjes licht zijn.",
+   "Geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "c4aadd4f"
+  ],
+  "requires": [
+   "presenteermes",
+   "Parmesan mes"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Monaco\\+\\ kaasmes\\ voor\\ harde\\ kaas\\ rvs"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om harde kazen mee te snijden.",
+  "bullets": [
+   "Boska Monaco+ kaasmes, volledig van roestvrij staal, voor harde kazen.",
+   "Ideaal voor harde kazen zoals manchego en pecorino.",
+   "Vaatwasserbestendig."
+  ],
+  "keys": [
+   "522c6bc2"
+  ],
+  "requires": [
+   "manchego"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Monaco\\+\\ kaasmes\\ voor\\ semi\\ zachte\\ kaas\\ rvs"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om semi zachte kazen mee te snijden.",
+  "bullets": [
+   "Boska Monaco+ kaasmes, volledig van roestvrij staal, voor semi zachte kazen.",
+   "Ideaal voor semi zachte kazen zoals gorgonzola en jonge kaas.",
+   "Vaatwasserbestendig."
+  ],
+  "keys": [
+   "fce01b67"
+  ],
+  "requires": [
+   "gorgonzola"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Monaco\\+\\ kaasmes\\ voor\\ zachte\\ kaas\\ rvs"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om zachte en half harde kazen mee te snijden.",
+  "bullets": [
+   "Boska Monaco+ kaasmes, volledig van roestvrij staal, voor zachte en half harde kazen.",
+   "Ideaal voor zachte en half harde kazen zoals brie en mozzarella.",
+   "Vaatwasserbestendig."
+  ],
+  "keys": [
+   "9c66c959"
+  ],
+  "requires": [
+   "mozzarella"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Monaco\\+\\ kaasmessenset\\ rvs\\ 3\\-delig"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om diverse soorten kaas mee aan te snijden voor bij de borrelplank.",
+  "bullets": [
+   "Boska Monaco+ kaasmessenset, 3-delig: drie verschillende messen van roestvrij staal.",
+   "Komt in een geschenkdoos.",
+   "Vaatwasserbestendig."
+  ],
+  "keys": [
+   "b541c69f"
+  ],
+  "requires": [
+   "geschenkdoos"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Monaco\\+\\ kaasmessenset\\ zwart\\ 4\\-delig"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om verschillende typen kaas mee te snijden.",
+  "bullets": [
+   "Boska Monaco+ Zwart kaasmessenset van roestvrij staal met een leren bewaarhoes.",
+   "Scherpe messen voor verschillende typen kaas; door de zwarte coating en het wafelpatroon non-stick.",
+   "Smeermes voor zachte kaas; prik stukken halfharde kaas aan de punten van het mes met de gaten in het lemmet; breek harde kaas met het Parmesan mes.",
+   "Handafwas: reinigen met warm water en milde zeep."
+  ],
+  "keys": [
+   "5b2f8e38"
+  ],
+  "requires": [
+   "leren bewaarhoes",
+   "wafelpatroon"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal delen in de set",
+    "websiteSays": "De naam zegt \"4-delig\"; de tekst zegt \"drie unieke, stijlvolle messen en een leren bewaarhoes\".",
+    "note": "Controleer of de set drie messen of vier messen bevat (de hoes telt mogelijk als vierde deel)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Monaco\\+\\ Mini\\ kaasmes\\ voor\\ halfzachte\\ kaas\\ rvs",
+   "Boska\\ Monaco\\+\\ Mini\\ kaasmes\\ voor\\ zachte\\ kaas\\ rvs"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om halfzachte kaas aan te snijden.",
+  "bullets": [
+   "Boska Monaco+ mini kaasmes, volledig van roestvrij staal.",
+   "Volgens de tekst voor halfzachte kaas, zoals gorgonzola en jonge Goudse kaas.",
+   "Vaatwasserbestendig."
+  ],
+  "keys": [
+   "bf84a7dc"
+  ],
+  "requires": [
+   "halfzachte kaas"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: zachte of halfzachte kaas",
+    "websiteSays": "De naam zegt \"voor zachte kaas\", maar de tekst zegt \"Gebruik het kaasmes om halfzachte kaas aan te snijden\" (dezelfde tekst als bij het mes voor halfzachte kaas).",
+    "note": "Controleer of het mes voor zachte kaas een andere vorm heeft dan het mes voor halfzachte kaas.",
+    "only": "Boska Monaco+ Mini kaasmes voor zachte kaas rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Monaco\\+\\ mini\\ kaasmessenset\\ rvs\\ 4\\-delig"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om elk type kaas mee te snijden.",
+  "bullets": [
+   "Boska Monaco+ mini kaasmessenset van roestvrij staal, 4-delig: vier compacte, scherpe messen.",
+   "Door het wafelpatroon non-stick.",
+   "Smeermes voor verse kaas; het mes met de gaten in het lemmet voor zachte tot half harde kaas; de gevorkte punt om half harde kaas aan te prikken; het Parmesan-mes om harde kaas te breken.",
+   "Handafwas: reinigen met warm water en milde zeep."
+  ],
+  "keys": [
+   "1cfccc3f"
+  ],
+  "requires": [
+   "gevorkte punt",
+   "milde zeep"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Oslo\\+\\ Hollands\\ kaasmes\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om half harde en harde kazen mee te snijden.",
+  "bullets": [
+   "Boska Oslo+ Hollands kaasmes, 28 cm, van roestvrij staal met houten handvat aan beide kanten van het lemmet.",
+   "Met de twee handvatten maakt u een wiegbeweging om de kaas te snijden.",
+   "Ideaal voor harde kazen zoals cheddar en oude Goudse kaas.",
+   "Handafwas met warm water en mild afwasmiddel."
+  ],
+  "keys": [
+   "a054fee6"
+  ],
+  "requires": [
+   "wiegbeweging"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Oslo\\ kaas\\ \\&\\ pizzames\\ 44\\ cm\\ hout/rvs"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om kaas en pizza mee te snijden.",
+  "bullets": [
+   "Boska Oslo kaas- en pizzames, 44 cm lang, van roestvrij staal; tweehandig te gebruiken, het lemmet is licht gebogen.",
+   "Twee houten handvatten; volgens de tekst extra stevig eikenhout.",
+   "Het lemmet is non-stick door BSF.",
+   "Niet in de vaatwasser; reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "bb0cecc1"
+  ],
+  "requires": [
+   "pizzames",
+   "BSF"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Oslo\\+\\ kaasmessenset\\ rvs\\ 3\\-delig"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om voor elk soort kaas een mes in huis te hebben.",
+  "bullets": [
+   "Boska Oslo+ kaasmessenset, 3-delig: drie verschillende messen, elk gemaakt voor een ander type kaas.",
+   "Lemmetten van roestvrij staal, handvaten van Europees eikenhout.",
+   "Ideaal om cadeau te doen of uw eigen messencollectie uit te breiden.",
+   "Handafwas met warm water en mild afwasmiddel."
+  ],
+  "keys": [
+   "fddacc56"
+  ],
+  "requires": [
+   "eikenhout"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Oslo\\+\\ Small\\ kaasmessenset\\ rvs\\ 5\\-delig"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het smeren, snijden en breken van halfharde tot harde kazen.",
+  "bullets": [
+   "Boska Oslo+ Small kaasmessenset van roestvrij staal en eikenhout, 5-delig.",
+   "Het blad van de mesjes heeft een anti-kleefcoating en een ruitpatroon, zodat ook halfharde kaas niet blijft kleven.",
+   "Geschikt voor halfharde tot harde kazen.",
+   "Handafwas met warm water en zeep; de steel zo nu en dan insmeren met neutrale olie."
+  ],
+  "keys": [
+   "4233df0b"
+  ],
+  "requires": [
+   "ruitpatroon",
+   "neutrale olie"
+  ]
+ }
+]

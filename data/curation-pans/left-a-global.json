@@ -1,0 +1,100 @@
+[
+ {
+  "match": [
+   "Global\\ GF24\\ rechte\\ vleesvork\\ messenstaal"
+  ],
+  "brandID": "global",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Om vlees te trancheren en uit te serveren zonder het met de vingers aan te raken; ook om vlees om te keren in de pan.",
+  "bullets": [
+   "Global GF24 rechte vleesvork, volledig van messenstaal (Cromova 18, 56 - 58 HRC); GF (Forged)-serie.",
+   "Het heft is verzwaard en heeft kuiltjes voor een goede grip.",
+   "Bij het trancheren en uitserveren hoeft u het vlees niet met de vingers aan te raken.",
+   "Ook nuttig bij het bereiden van vlees, bijvoorbeeld om het om te keren in de pan.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "abd593a7"
+  ],
+  "brandName": "Global",
+  "requires": [
+   "vleesvork",
+   "Cromova"
+  ]
+ },
+ {
+  "match": [
+   "Global\\ GS25\\ spatel\\ 27,5\\ cm\\ messenstaal"
+  ],
+  "brandID": "global",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het omkeren van uw etenswaren.",
+  "bullets": [
+   "Global GS25 spatel, volledig van messenstaal (Cromova 18, 56 - 58 HRC).",
+   "Uit één stuk gesmeed, wat zorgt voor een goede hygiëne.",
+   "De knik in het blad beschermt uw handen tegen de hitte van de pan of bakplaat.",
+   "Het heft heeft kuiltjes voor een goede grip.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "02459595"
+  ],
+  "requires": [
+   "Cromova",
+   "uit één stuk gesmeed"
+  ]
+ },
+ {
+  "match": [
+   "Global\\ GS26\\ spatel\\ met\\ gleuven\\ 27\\ cm\\ messenstaal",
+   "Global\\ GS27\\ spatel\\ met\\ gleuven\\ 27,5\\ cm\\ messenstaal"
+  ],
+  "brandID": "global",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het omkeren van uw etenswaren.",
+  "bullets": [
+   "Global GS-serie spatel met gleuven, volledig van messenstaal (Cromova 18, 56 - 58 HRC).",
+   "De gleuven laten overtollig vet en vocht terug de pan in lopen.",
+   "De knik in het blad beschermt uw handen tegen de hitte van de pan of bakplaat.",
+   "Uit één stuk gesmeed, wat zorgt voor een goede hygiëne.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a6f302bb",
+   "67433b81"
+  ],
+  "requires": [
+   "gleuven",
+   "uit één stuk gesmeed"
+  ]
+ },
+ {
+  "match": [
+   "Global\\ keukenschaar\\ 21\\ cm\\ messenstaal"
+  ],
+  "brandID": "global",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Om moeiteloos door blisters, karton en touw te knippen.",
+  "bullets": [
+   "Global keukenschaar, 21 cm, volledig van messenstaal.",
+   "Microkartel aan één zijde voor meer grip op wat u knipt.",
+   "Het draaipunt zit extra laag, zodat knippen minder kracht kost.",
+   "Handafwas met warm water en afwasmiddel; daarna goed afdrogen."
+  ],
+  "keys": [
+   "65934954"
+  ],
+  "requires": [
+   "microkartel",
+   "extra laag"
+  ]
+ }
+]

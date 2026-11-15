@@ -1,0 +1,378 @@
+[
+ {
+  "match": [
+   "Le\\ Creuset\\ faitout\\ braadpan\\ met\\ plaatstalen\\ deksel\\ 2,4\\ liter\\ ø\\ 24\\ cm\\ gietijzer\\ rood",
+   "Le\\ Creuset\\ faitout\\ braadpan\\ met\\ plaatstalen\\ deksel\\ 4,9\\ liter\\ ø\\ 28\\ cm\\ gietijzer\\ rood",
+   "Le\\ Creuset\\ faitout\\ braadpan\\ met\\ plaatstalen\\ deksel\\ 7,8\\ liter\\ ø\\ 32\\ cm\\ gietijzer\\ rood",
+   "Le\\ Creuset\\ faitout\\ braadpan\\ met\\ plaatstalen\\ deksel\\ 4,9\\ liter\\ ø\\ 28\\ cm\\ gietijzer\\ zwart",
+   "Le\\ Creuset\\ faitout\\ braadpan\\ met\\ plaatstalen\\ deksel\\ 7,8\\ liter\\ ø\\ 32\\ cm\\ gietijzer\\ zwart"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Als lichtgewicht alternatief voor de traditionele stoofpan.",
+  "bullets": [
+   "Ronde faitout braadpan van geëmailleerd gietijzer met een lichtgewicht plaatstalen deksel: een lichtgewicht alternatief voor de traditionele stoofpan.",
+   "Inductiegeschikt. De pan kan in de oven, maar het plaatstalen deksel niet.",
+   "Het gietijzer zorgt voor een gelijkmatige warmteverdeling door de hele pan, ook op laag vuur.",
+   "Duurzame laag email aan de binnen- en buitenzijde: ondoordringbaar en glad, kleur-, geur- en smaakneutraal; beschermt het gietijzer tegen voedselzuren.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3fd7643b",
+   "81edaee7"
+  ],
+  "requires": [
+   "plaatstalen deksel",
+   "faitout"
+  ],
+  "colours": [
+   "rood",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud faitout 2,4 liter ø 24 cm",
+    "websiteSays": "Naam: 2,4 liter ø 24 cm. Specificaties: Inhoud 3 liter.",
+    "note": "Controleer de inhoud op de verpakking.",
+    "only": "Le Creuset faitout braadpan met plaatstalen deksel 2,4 liter ø 24 cm gietijzer"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ faitout\\ braadpan\\ met\\ plaatstalen\\ deksel\\ 2,4\\ liter\\ ø\\ 24\\ cm\\ gietijzer\\ zwart"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Faitout braadpan van geëmailleerd gietijzer met plaatstalen deksel.",
+   "Volgens de specificaties geschikt voor elektrisch, gas, halogeen, inductie, keramisch, oven en diepvries; reiniging: handafwas.",
+   "Deze pagina heeft op de website geen beschrijvingstekst; alleen de naam en de specificaties zijn gebruikt."
+  ],
+  "keys": [
+   "c65f37b2"
+  ],
+  "mismatches": [
+   {
+    "topic": "Beschrijvingstekst ontbreekt",
+    "websiteSays": "De pagina van de zwarte faitout 2,4 liter ø 24 cm heeft geen beschrijvingstekst; de rode uitvoering wel.",
+    "note": "Alleen naam en specificaties gebruikt; de rode pagina bevat meer uitleg."
+   },
+   {
+    "topic": "Inhoud faitout 2,4 liter ø 24 cm",
+    "websiteSays": "Naam: 2,4 liter ø 24 cm. Specificaties: Inhoud 3 liter.",
+    "note": "Controleer de inhoud op de verpakking."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ fonduepan\\ ø\\ 16\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ fonduepan\\ ø\\ 18\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ fonduepan\\ ø\\ 18\\ cm\\ gietijzer\\ matzwart",
+   "Le\\ Creuset\\ fonduepan\\ ø\\ 20\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ fonduepan\\ ø\\ 20\\ cm\\ gietijzer\\ mat\\ zwart",
+   "Le\\ Creuset\\ fonduepan\\ ø\\ 22\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ fonduepan\\ ø\\ 22\\ cm\\ gietijzer\\ mat\\ zwart"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bereiden en serveren van kaasfondue en sauzen.",
+  "bullets": [
+   "Fonduepan (caquelon) van geëmailleerd gietijzer, voor het bereiden en serveren van kaasfondue en sauzen; ook voor verschillende soorten fondues.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Het gietijzer zorgt voor een gelijkmatige warmteverdeling door de hele pan, ook op laag vuur.",
+   "Duurzame laag email aan de binnen- en buitenzijde: ondoordringbaar en glad, kleur-, geur- en smaakneutraal; beschermt tegen voedselzuren.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ed59333f",
+   "342ea87b",
+   "90a83c71",
+   "7312c4f1",
+   "a07bc80f",
+   "ead3d2ed"
+  ],
+  "requires": [
+   "kaasfonduepan"
+  ],
+  "colours": [
+   "kersrood",
+   "matzwart",
+   "mat zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst noemt een steelpan",
+    "websiteSays": "\"Door het gebruik van gietijzer is de steelpan geschikt voor alle warmtebronnen, inclusief inductie en de oven.\"",
+    "note": "De tekst gaat over een fonduepan; het woord \"steelpan\" lijkt een tekstfout."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ grillpan\\ met\\ inklapbare\\ handgreep\\ rechthoek\\ 36\\ x\\ 20,5\\ cm\\ gietijzer\\ zwart"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het grillen van vlees, vis en groenten.",
+  "bullets": [
+   "Rechthoekige grillpan van zwart geëmailleerd gietijzer met inklapbare handgreep van roestvrij staal en zwart kunststof.",
+   "Voor het grillen van vlees, vis en groenten; het vet loopt tussen de ribbels weg en er is minimaal vet nodig.",
+   "Met schenktuit om overtollig vet of vocht uit te schenken.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven tot 280°C.",
+   "Gladde onderkant: voorkomt krassen op een glazen kookplaat.",
+   "Tip van de website: verwarm de pan voldoende lang op matig vuur en bestrijk het eten met plantaardige olie.",
+   "Het emaille is slijtvast; reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "be96cca1"
+  ],
+  "requires": [
+   "grillpan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ hapjespan\\ met\\ 2\\ grepen\\ ø\\ 28\\ cm\\ gietijzer\\ vulcanique",
+   "Le\\ Creuset\\ hapjespan\\ met\\ 2\\ grepen\\ ø\\ 28\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ hapjespan\\ met\\ 2\\ grepen\\ ø\\ 28\\ cm\\ gietijzer\\ mat\\ zwart"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor soep en stoofgerechten als boeuf bourguignon.",
+  "bullets": [
+   "Ronde hapjespan van geëmailleerd gietijzer met twee handgrepen.",
+   "Geschikt voor soep en stoofgerechten als boeuf bourguignon.",
+   "Het gietijzer zorgt voor een gelijkmatige warmteverdeling door de hele pan, ook op laag vuur.",
+   "Duurzame laag email aan de binnen- en buitenzijde: ondoordringbaar en glad, kleur-, geur- en smaakneutraal; beschermt tegen voedselzuren.",
+   "Volgens de specificaties geschikt voor elektrisch, gas, halogeen, inductie, keramisch, oven en diepvries.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "bda56c46",
+   "7789fbd0",
+   "db047136"
+  ],
+  "requires": [
+   "hapjespan"
+  ],
+  "colours": [
+   "vulcanique",
+   "kersrood",
+   "mat zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Deksel in tekst",
+    "websiteSays": "\"De gietijzeren deksel draagt bij aan de warmteverdeling\" — de productnaam en specificaties noemen geen deksel.",
+    "note": "Controleer of er een deksel bij de hapjespan zit."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ hoge\\ grillplaat\\ rond\\ ø\\ 25\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ hoge\\ grillplaat\\ rond\\ ø\\ 25\\ cm\\ gietijzer\\ mat\\ zwart",
+   "Le\\ Creuset\\ hoge\\ grillplaat\\ rond\\ ø\\ 25\\ cm\\ gietijzer\\ vulcanique"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het grillen van vlees en vis, maar ook van groente zoals courgette en aubergine.",
+  "bullets": [
+   "Hoge grillplaat van geëmailleerd gietijzer, met brede grepen aan weerszijden en een schenktuit aan één zijde.",
+   "Voor het grillen van vlees en vis, maar ook voor groente zoals courgette en aubergine.",
+   "Weerstaat de hoge temperaturen die nodig zijn voor een goed grillresultaat; het emaille is slijtvast.",
+   "Het eten gaart met minimaal gebruik van vet; het vet loopt tussen de ribbels weg.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie. Gladde onderkant: voorkomt krassen op een glazen kookplaat.",
+   "Tip van de website: verwarm de pan voldoende lang op matig vuur en bestrijk het eten met plantaardige olie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "563a252c",
+   "1af504b7",
+   "b5355877"
+  ],
+  "requires": [
+   "grillplaat"
+  ],
+  "colours": [
+   "kersrood",
+   "mat zwart",
+   "vulcanique"
+  ],
+  "mismatches": [
+   {
+    "topic": "Vorm grillplaat",
+    "websiteSays": "Naam: \"hoge grillplaat rond ø 25 cm\". Tekst: \"De Le Creuset rechthoekige grillplaat ... doorsnede van 25 cm\". Specificaties: lengte 28,3 cm, breedte 33,3 cm.",
+    "note": "Controleer of de plaat rond of rechthoekig is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Holly\\ Collectie\\ wok\\-braadpan\\ 4,1\\ liter\\ ø\\ 26\\ cm\\ gietijzer\\ cotton"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor soepen, stoofgerechten en roerbakgerechten.",
+  "bullets": [
+   "Holly Collectie wok-braadpan (marmite) van geëmailleerd gietijzer, met hulstbladeren op het deksel.",
+   "Door de ronde vorm te gebruiken voor soepen en stoofgerechten, en als wok voor roerbakgerechten; ook voor het braden van vlees.",
+   "Het gietijzer zorgt voor een gelijkmatige warmteverdeling door de hele pan, zelfs op laag vuur; in de oven te gebruiken voor het slowcooken.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie.",
+   "De bakelieten dekselknop verdraagt in de oven maximaal 200°C.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "40da96b4"
+  ],
+  "requires": [
+   "marmite"
+  ],
+  "colours": [
+   "cotton"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximumtemperatuur",
+    "websiteSays": "Specificaties: Maximumtemperatuur 260°C. Tekst: de bakelieten dekselknop verdraagt in de oven maximaal 200°C.",
+    "note": "Controleer welke temperatuur geldt als het deksel erop zit."
+   },
+   {
+    "topic": "Naam in tekst",
+    "websiteSays": "\"Reinig de Le Creuset Signature stoof- en braadpan met warm water en afwasmiddel.\"",
+    "note": "De tekst noemt een Signature stoof- en braadpan; mogelijk een kopieerfout."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Holly\\ Collection\\ sauspan\\ ø\\ 21\\ cm\\ gietijzer\\ Artichaut",
+   "Le\\ Creuset\\ Holly\\ Collection\\ sauspan\\ ø\\ 21\\ cm\\ gietijzer\\ Cotton",
+   "Le\\ Creuset\\ Holly\\ Collection\\ sauspan\\ ø\\ 21\\ cm\\ gietijzer\\ kersrood"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Om sauzen en soepen te koken en groente in te sauteren.",
+  "bullets": [
+   "Holly Collection sauspan van geëmailleerd gietijzer; limited edition met kerstkleur en hulstpatroon op het deksel.",
+   "Ideaal om sauzen en soepen te koken, maar ook groente in te sauteren.",
+   "Hittebestendig tot 260°C en volgens de tekst vaatwasmachinebestendig; geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Het gietijzer houdt de warmte goed vast, zodat gerechten langer warm blijven aan tafel; het nauwsluitende deksel houdt het vocht vast.",
+   "Lichte geëmailleerde binnenkant: eenvoudig schoon te maken.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer."
+  ],
+  "keys": [
+   "064d3621"
+  ],
+  "requires": [
+   "Holly Collection"
+  ],
+  "colours": [
+   "Artichaut",
+   "Cotton",
+   "kersrood"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam in tekst",
+    "websiteSays": "\"Reinig de Le Creuset Signature steelpan met warm water en afwasmiddel.\" Tekst zegt ook dat de pan vaatwasmachinebestendig is.",
+    "note": "De tekst noemt een Signature steelpan, en vaatwasser en handreiniging staan er naast elkaar; controleer of de pan in de vaatwasser mag."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 26\\ cm\\ gietijzer\\ Azure",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 26\\ cm\\ gietijzer\\ Meringue",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 26\\ cm\\ gietijzer\\ Flint",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 28\\ cm\\ gietijzer\\ Flint",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 26\\ cm\\ gietijzer\\ Sea\\ Salt",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 28\\ cm\\ gietijzer\\ Sea\\ Salt",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 28\\ cm\\ gietijzer\\ Rhône\\ ",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 28\\ cm\\ gietijzer\\ Azure\\ ",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 28\\ cm\\ gietijzer\\ Bleu\\ Riviera",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 28\\ cm\\ gietijzer\\ Nuit",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 24\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 28\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 24\\ cm\\ gietijzer\\ vulcanique",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 28\\ cm\\ gietijzer\\ vulcanique",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 24\\ cm\\ gietijzer\\ zwart",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 26\\ cm\\ gietijzer\\ mat\\ zwart",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 28\\ cm\\ gietijzer\\ mat\\ zwart",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 28\\ cm\\ gietijzer\\ bamboo",
+   "Le\\ Creuset\\ koekenpan\\ rond\\ met\\ open\\ greep\\ ø\\ 28\\ cm\\ gietijzer\\ meringue"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van vlees, omeletten en pannenkoeken.",
+  "bullets": [
+   "Ronde koekenpan van geëmailleerd gietijzer met open greep, voor het bakken van vlees, omeletten en pannenkoeken.",
+   "Het gietijzer weerstaat hoge temperaturen: zeer geschikt voor het bakken van vlees en aardappels.",
+   "Zwart email aan de binnenzijde: uitzonderlijk slijtvast en duurzaam. Het gekleurde email aan de buitenzijde is extra glad afgewerkt om krassen op kookplaten te voorkomen.",
+   "Houten steel: comfortabele grip en blijft bij juist gebruik koel.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Tip van de website: verwarm de pan op matig vuur, voeg dan vetstof toe en plaats daarna de ingrediënten; het gietijzer houdt genoeg warmte vast, dus de hittebron is vaak te temperen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "122954e6",
+   "6cb2f438",
+   "595c4815",
+   "e269e7bd",
+   "ca018e86",
+   "a708fab2",
+   "b2591a5f",
+   "8879af6d",
+   "e7b26994",
+   "aacd4952",
+   "4fb9985b",
+   "261ba009",
+   "f66d97e5",
+   "de42896c"
+  ],
+  "requires": [
+   "koekenpan"
+  ],
+  "colours": [
+   "Azure",
+   "Meringue",
+   "Flint",
+   "Sea Salt",
+   "Rhône ",
+   "Azure ",
+   "Bleu Riviera",
+   "Nuit",
+   "kersrood",
+   "vulcanique",
+   "mat zwart",
+   "zwart",
+   "bamboo",
+   "meringue"
+  ]
+ }
+]

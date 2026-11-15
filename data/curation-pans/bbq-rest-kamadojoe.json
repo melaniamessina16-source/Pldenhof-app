@@ -1,0 +1,1611 @@
+[
+ {
+  "match": [
+   "Kamado\\ Joe\\ accessoirerek\\ voor\\ Big\\ Joe\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor pizza's of brood bakken en voor het plaatsen van een gietijzeren wok in de Kamado.",
+  "bullets": [
+   "Kamado Joe accessoirerek van roestvrij staal, voor gebruik in combinatie met het flexibele rek in uw Kamado Big Joe.",
+   "Met het rek kunt u pizza's of brood bakken; het maakt het ook mogelijk om een gietijzeren wok op de Kamado te plaatsen.",
+   "Reinigen met warm water en afwasmiddel (handafwas)."
+  ],
+  "keys": [
+   "4c54f3ac"
+  ],
+  "brandName": "Kamado Joe"
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ accessoirerek\\ voor\\ Classic\\ Joe\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor pizza's of brood bakken en voor het plaatsen van een gietijzeren wok in de Kamado.",
+  "bullets": [
+   "Kamado Joe accessoirerek van roestvrij staal, voor gebruik in combinatie met het flexibele rek in uw Kamado Joe Classic.",
+   "Met het rek kunt u pizza's of brood bakken; het maakt het ook mogelijk om een gietijzeren wok op de Kamado te plaatsen.",
+   "Reinigen met warm water en afwasmiddel (handafwas)."
+  ],
+  "keys": [
+   "fd790eb4"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Apple\\ Chunks\\ 4,5\\ kg"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "De rook van dit hout is volgens de pagina perfect voor rund, ham, wild gevogelte en lam.",
+  "bullets": [
+   "Kamado Joe rookhout: appelhouten stukken in een verpakking van 4,5 kg.",
+   "Het hout wordt aan de lucht gedroogd en behoudt zijn suikers voor een subtiele zoete en fruitige smaak.",
+   "Volgens de pagina de smaakmaker voor alle bereidingen op de barbecue."
+  ],
+  "keys": [
+   "11f4f632"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Hickory\\ Chunks\\ 4,5\\ kg"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "De rook van dit hout is volgens de pagina perfect voor bijvoorbeeld spareribs.",
+  "bullets": [
+   "Kamado Joe Hickory Chunks, verpakking van 4,5 kg.",
+   "Het hout wordt aan de lucht gedroogd en behoudt zijn suikers voor een natuurlijke, zoete smaak.",
+   "Volgens de pagina de smaakmaker voor alle bereidingen op de barbecue."
+  ],
+  "keys": [
+   "a18c2532"
+  ],
+  "mismatches": [
+   {
+    "topic": "Houtsoort",
+    "websiteSays": "Naam: Hickory Chunks; tekst: \"gemaakt van eikenhouten stukken\"",
+    "note": "Naam zegt hickory, de tekst zegt eikenhout. Controleren welk hout in de verpakking zit."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Maple\\ Chunks\\ 4,5\\ kg"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "De rook van dit hout is volgens de pagina perfect voor kip en andere soorten gevogelte.",
+  "bullets": [
+   "Kamado Joe rookhout: esdoornhouten stukken (Maple Chunks) in een verpakking van 4,5 kg.",
+   "Het hout wordt aan de lucht gedroogd en behoudt zijn suikers voor een natuurlijke, zoete smaak.",
+   "Volgens de pagina de smaakmaker voor alle bereidingen op de barbecue."
+  ],
+  "keys": [
+   "c34e878d"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Oak\\ Chunks\\ 4,5\\ kg"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "De rook van dit hout is volgens de pagina perfect voor allerlei soorten vlees en vis.",
+  "bullets": [
+   "Kamado Joe rookhout: eikenhouten stukken (Oak Chunks) in een verpakking van 4,5 kg.",
+   "Geeft een halfrokerige smaak: sterker dan appel en kers, maar lichter dan hickory en mesquite.",
+   "Volgens de pagina de smaakmaker voor alle bereidingen op de barbecue."
+  ],
+  "keys": [
+   "26aa1f98"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Pecan\\ Chunks\\ 4,5\\ kg"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "De rook van dit hout is volgens de pagina perfect voor kip, vis en spareribs.",
+  "bullets": [
+   "Kamado Joe rookhout: pecannoothouten stukken (Pecan Chunks) in een verpakking van 4,5 kg.",
+   "Het hout wordt aan de lucht gedroogd en behoudt zijn suikers voor een natuurlijke, zoete smaak.",
+   "Volgens de pagina de smaakmaker voor alle bereidingen op de barbecue."
+  ],
+  "keys": [
+   "97829805"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Big\\ Joe\\ ll\\ barbecue\\ keramiek\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Big Joe: rode keramische kamado met een grilloppervlak van 61 cm diameter.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 107 en 400 °C; ingebouwde thermometer in de koepel.",
+   "Wordt geleverd met gietijzeren onderstel op wieltjes, zijtafels, precisie-ventilatieschuif, uitschuifbare aslade, asschuif, grilltang en het Divide & Conquer grillsysteem.",
+   "Gewicht volgens de specificaties 113 kg.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "24a643a5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: \"Big Joe ll\"",
+    "websiteSays": "Naam schrijft \"Big Joe ll\" (twee kleine letters L); de tekst spreekt alleen van \"Big Joe\"",
+    "note": "Controleren of dit de Big Joe II is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Big\\ Joe\\ I\\ barbecue\\ keramiek\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Big Joe I: rode keramische kamado, grilloppervlak van maar liefst 61 cm diameter volgens de tekst.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 107 en 400 °C; ingebouwde thermometer in de koepel.",
+   "Met de margriettoren bovenop regelt u de luchttoevoer; vilten gaas houdt de warmte binnen.",
+   "Wordt geleverd met gietijzeren onderstel op wieltjes, zijtafels, precisie-ventilatieschuif, uitschuifbare aslade, asschuif, grilltang en het Divide & Conquer grillsysteem.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "86c72961"
+  ],
+  "mismatches": [
+   {
+    "topic": "Diameter",
+    "websiteSays": "Specificaties: Diameter 60 cm; tekst: grilloppervlak met een diameter van 61 cm",
+    "note": "Controleren welke maat klopt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Big\\ Joe\\ III\\ barbecue\\ keramiek\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Big Joe III: rode keramische kamado, grilloppervlak van maar liefst 61 cm diameter.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 82 en 399 °C; ingebouwde thermometer in de koepel.",
+   "Wordt geleverd met Premium Cart (onderstel van gegalvaniseerd staal op wieltjes), aluminium zijtafels, Kontrol Tower Top Vent, Charcoal Basket, Hyperbolic Insert en het Divide & Conquer grillsysteem.",
+   "Gewicht volgens de specificaties 221 kg.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "07e84409"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Big\\ Joe\\ III\\ Stand\\-Alone\\ barbecue\\ keramiek\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Big Joe III Stand-Alone: rode keramische kamado, grilloppervlak van maar liefst 61 cm diameter.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 82 en 399 °C; ingebouwde thermometer in de koepel.",
+   "Wordt geleverd met Kontrol Tower Top Vent, uitschuifbare aslade, Charcoal Basket, Hyperbolic Insert en het Divide & Conquer grillsysteem; de tekst noemt geen onderstel of zijtafels.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "47dec627"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Big\\ Joe\\ II\\ Stand\\-Alone\\ barbecue\\ keramiek\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Big Joe II Stand-Alone: rode keramische kamado, grilloppervlak van maar liefst 61 cm diameter.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 107 en 400 °C; ingebouwde thermometer in de koepel.",
+   "Wordt geleverd met precisie-ventilatieschuif, uitschuifbare aslade, asschuif, grilltang en het Divide & Conquer grillsysteem; de tekst noemt geen onderstel.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "b8c2d9d5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst en naam",
+    "websiteSays": "Naam: \"Big Joe II Stand-Alone\"; tekst: \"Big Joe Stand-Alone\"",
+    "note": "Tekst noemt geen II; controleren of dit de Big Joe II is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Classic\\ barbecue\\ keramiek\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Classic: rode keramische kamado, grilloppervlak van maar liefst 45 cm diameter.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 107 en 400 °C; ingebouwde thermometer in de koepel.",
+   "Wordt geleverd met gietijzeren onderstel op wieltjes, stalen zijtafels, precisie-ventilatieschuif, uitschuifbare aslade, asschuif, grilltang en het Divide & Conquer grillsysteem.",
+   "Gewicht volgens de specificaties 85,27 kg."
+  ],
+  "keys": [
+   "04120b67"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Classic\\ I\\ \\+\\ handschoenen\\ en\\ barbecuehoes\\ bundel"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Bundel: Kamado Joe Classic I (keramische barbecue, grilloppervlak 45 cm), een bijpassende barbecuehoes en een paar Kamado Joe leren barbecuehandschoenen.",
+   "Te gebruiken om te grillen, bakken, slowcooken, roken en stoven.",
+   "Geleverd met gietijzeren onderstel op wieltjes, inklapbare zijtafels, ingebouwde thermometer, ventilatieschuif, uitschuifbare aslade en het Divide & Conquer grillsysteem.",
+   "De hoes is op maat gemaakt voor de Classic Joe; pas plaatsen als de kamado volledig is afgekoeld.",
+   "Hoogte volgens de specificaties 1,23 meter.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "e3835b6c"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Classic\\ II\\ barbecue\\ keramiek\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Classic II: rode keramische kamado, grilloppervlak van maar liefst 45 cm diameter.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 107 en 400 °C; ingebouwde thermometer in de koepel.",
+   "Wordt geleverd met gietijzeren onderstel op wieltjes, zijtafels, precisie-ventilatieschuif, uitschuifbare aslade, asschuif, grilltang en het Divide & Conquer grillsysteem.",
+   "Gewicht volgens de specificaties 85,27 kg.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "2687beae"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Classic\\ II\\ Stand\\-Alone\\ barbecue\\ keramiek\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Classic II Stand-Alone: rode keramische kamado, grilloppervlak van maar liefst 45 cm diameter.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 107 en 400 °C; ingebouwde thermometer in de koepel.",
+   "Wordt geleverd met precisie-ventilatieschuif, uitschuifbare aslade, asschuif, grilltang en het Divide & Conquer grillsysteem; de tekst noemt geen onderstel.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "8803194f"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Classic\\ III\\ barbecue\\ keramiek\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Classic III: rode keramische kamado, grilloppervlak van maar liefst 45 cm diameter.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 82 en 399 °C; ingebouwde thermometer in de koepel.",
+   "Wordt geleverd met Premium Cart (onderstel van gegalvaniseerd staal op wieltjes), aluminium zijtafels, Kontrol Tower Top Vent, Charcoal Basket, SlōRoller, Hyperbolic Insert en het Divide & Conquer grillsysteem.",
+   "Gewicht volgens de specificaties 128 kg.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "9a502272"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Classic\\ III\\ Stand\\-Alone\\ barbecue\\ keramiek\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Classic III Stand-Alone: rode keramische kamado, grilloppervlak van maar liefst 45 cm diameter.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 82 en 399 °C; ingebouwde thermometer in de koepel.",
+   "Wordt geleverd met Kontrol Tower Top Vent, uitschuifbare aslade, Charcoal Basket, Hyperbolic Insert en het Divide & Conquer grillsysteem; de tekst noemt geen onderstel of zijtafels.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "4ed282fd"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Joe\\ Junior\\ barbecue\\ keramiek\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Joe Junior: rode keramische kamado, grilloppervlak van 34 cm diameter.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 107 en 400 °C; ingebouwde thermometer in de koepel.",
+   "Wordt geleverd met gietijzeren onderstel, precisie-ventilatieschuif, asschuif en grilltang.",
+   "Gewicht slechts 31 kg: volgens de pagina eenvoudig te verplaatsen en mee te nemen.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "a91ec062"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Junior\\ Celebration\\ Pack\\ 4\\-delig"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Junior Celebration Pack: set met de rode keramische Joe Junior (grilloppervlak 34 cm), speciale cart, hoes en gietijzeren grillrooster.",
+   "Te gebruiken om te grillen, bakken, koken, slow cooken, roken of stoven.",
+   "Temperatuur instelbaar tussen 107 en 400 °C; ingebouwde thermometer in de koepel.",
+   "De Joe Junior komt met precisie-ventilatieschuif, ingebouwde thermometer, asschuif en grilltang.",
+   "De cart verhoogt de Joe Junior en maakt hem makkelijk te verplaatsen.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "df11c615"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal delen",
+    "websiteSays": "Naam: \"4-delig\"; tekst noemt cart, hoes en gietijzeren grillrooster naast de barbecue",
+    "note": "Controleren welke vier delen bedoeld zijn."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Konnected\\ Big\\ Joe\\ barbecue\\ rood",
+   "Kamado\\ Joe\\ Konnected\\ Joe\\ barbecue\\ ø\\ 46\\ cm\\ rood"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Konnected Joe: rode keramische wifi-houtskoolgrill en -roker; traditionele kamado gecombineerd met digitale technologie.",
+   "Automatic Firestarter steekt de houtskool aan; de kooktemperatuur stelt u in met het Kontrol Board of de app.",
+   "De Kontrol Fan houdt de temperatuur automatisch tussen 105 en 370 °C.",
+   "Wordt geleverd met Divide & Conquer (2 lagen), accessoirerek, 2 keramische warmteschilden, 2 roestvrijstalen bakroosters, aspook, grillgrijper en 1 vleesthermometer.",
+   "Het grilloppervlak verschilt per uitvoering: zie de diameter in de productnaam of specificaties.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk."
+  ],
+  "keys": [
+   "ca6c937e"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam en maat",
+    "websiteSays": "Twee pagina's met dezelfde tekst: \"Konnected Big Joe\" (61 cm) en \"Konnected Joe ø 46 cm\" (46 cm); de tekst spreekt in beide gevallen van \"Konnected Joe\"",
+    "note": "Controleren of de Konnected Big Joe en de Konnected Joe 46 cm twee aparte modellen zijn."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Joe\\ Junior\\ Cart"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Joe Junior Cart: onderstel voor de Joe Junior barbecue, van zwart gepoedercoat staal.",
+   "De Joe Junior komt er 89 cm boven de grond uit.",
+   "Twee opklapbare zijtafels vergroten het werkoppervlak en bieden ophangplaats voor gereedschap; wieltjes onderaan om te verplaatsen.",
+   "Biedt opbergruimte voor barbecuebenodigdheden.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "5bc7ad74"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Charcoal\\ Basket\\ voor\\ Big\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Charcoal Basket van roestvrij staal voor de Kamado Joe Big Joe.",
+   "In de houtskoolmand stookt u eenvoudig en zuinig uw houtskool.",
+   "Dankzij het rooster in het midden verdeelt u de houtskool in een directe of indirecte vuurbron.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "95a189dd"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Charcoal\\ Basket\\ voor\\ Classic\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Charcoal Basket van roestvrij staal voor de Kamado Joe Classic Joe.",
+   "In de houtskoolmand stookt u eenvoudig en zuinig uw houtskool.",
+   "Dankzij het rooster in het midden verdeelt u de houtskool in een directe of indirecte vuurbron.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b5af4ef0"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Charcoal\\ Basket\\ voor\\ Joe\\ Junior"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Charcoal Basket van roestvrij staal voor de Kamado Joe Junior.",
+   "In de houtskoolmand stookt u eenvoudig en zuinig uw houtskool.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "acb15587"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Chicken\\ Stand"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het 'zittend' garen van hele kippen.",
+  "bullets": [
+   "Kamado Joe Chicken Stand van wit geglazuurd aardewerk; 15 cm doorsnede aan de basis en 15 cm hoog.",
+   "De kip gaart gelijkmatig en krijgt rondom een goudbruin en krokant vel.",
+   "De holle stand kunt u vullen met bijvoorbeeld bier, wijn of citroensap met knoflook en verse kruiden.",
+   "Te gebruiken op de barbecue of in de oven.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4de1f3ef"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Dojoe\\ voor\\ Big\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe DoJoe voor de Big Joe: ring van gegoten aluminium met zwarte coating.",
+   "Wordt geleverd met een keramische pizzasteen.",
+   "Past tussen de onderkant en het deksel van de Big Joe en maakt van de kamado een pizza-oven.",
+   "Ring reinigen met warm water en afwasmiddel; pizzasteen met een zachte borstel schoonmaken.",
+   "Op de pagina staat bezorging van barbecues en grote apparatuur: gratis binnen Nederland (behalve de waddeneilanden) tot de voordeur."
+  ],
+  "keys": [
+   "63c0529d"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Dual\\ Function\\ Top\\ Vent"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het langzaam laten garen van etenswaren op een Kamado Joe.",
+  "bullets": [
+   "Kamado Joe Dual Function Top Vent van gegoten aluminium.",
+   "Met de openingen in de damper regelt u de luchtdoorstroming: meer of minder lucht laat de etenswaren op een andere snelheid garen.",
+   "Geschikt voor alle Kamado Joe Classic en Big Joe modellen."
+  ],
+  "keys": [
+   "9a6a2a9f"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Fire\\ Starters\\ 24\\ stuks"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Fire Starters: aanmaakblokjes van paraffine wax, 24 stuks per verpakking.",
+   "Geurloos en rookloos; vatten snel vlam en branden zelfs als ze nat zijn.",
+   "Eén blokje is genoeg om de barbecue aan te steken."
+  ],
+  "keys": [
+   "e571534a"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ flexibel\\ rek\\ voor\\ Big\\ Joe\\ rvs\\ "
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen op verschillende niveaus, zodat vlees, groenten en bijgerechten tegelijk bereid worden.",
+  "bullets": [
+   "Kamado Joe flexibel rek van roestvrij staal voor de Kamado Big Joe.",
+   "Op verschillende niveaus in te stellen: dubbel zo veel grillruimte.",
+   "In combinatie met het accessoirerek kunt u ook pizza's of brood bakken en een gietijzeren wok op de Kamado plaatsen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ad5f73ae"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ flexibel\\ rek\\ voor\\ Classic\\ Joe\\ rvs\\ "
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen op verschillende niveaus, zodat vlees, groenten en bijgerechten tegelijk bereid worden.",
+  "bullets": [
+   "Kamado Joe flexibel rek van roestvrij staal voor de Kamado Joe Classic.",
+   "Op verschillende niveaus in te stellen: dubbel zo veel grillruimte.",
+   "In combinatie met het accessoirerek kunt u ook pizza's of brood bakken en een gietijzeren wok op de Kamado plaatsen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "bd4d3bf4"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Gasket\\ Kit\\ Mesh\\ \\-\\ Classic\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Gasket Kit (mesh) van glasvezelgaas, zelfklevend, voor de Kamado Joe Classic Joe.",
+   "Zorgt voor een luchtdichte afsluiting van de kamado.",
+   "Gaat 10 keer zo lang mee als gewone industriële pakkingen."
+  ],
+  "keys": [
+   "ae5c9583"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Gasket\\ Kit\\ voor\\ Big\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Gasket Kit van glasvezelgaas, zelfklevend, voor de Kamado Joe Big Joe.",
+   "Zorgt voor een luchtdichte afsluiting van de kamado.",
+   "Gaat 10 keer zo lang mee als gewone industriële pakkingen."
+  ],
+  "keys": [
+   "f2b3e7d7"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Gasket\\ Kit\\ vilt\\ voor\\ Classic\\ of\\ Big\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Gasket Kit vilt: zelfklevend vilt om het vilt te vervangen op de Kamado Joe Classic Joe of Big Joe."
+  ],
+  "keys": [
+   "31fe5ef8"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Grill\\ Grate\\ Lifter"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het gemakkelijk en veilig verwijderen van het grillrooster.",
+  "bullets": [
+   "Kamado Joe Grill Grate Lifter van roestvrij staal.",
+   "Voor een zwaar grillrooster adviseert de pagina twee tangen te gebruiken.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "35faec33"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ grillrooster\\ voor\\ Joe\\ Junior\\ gietijzer"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het dichtschroeien van vlees, vis of groente.",
+  "bullets": [
+   "Kamado Joe grillrooster van gietijzer voor de Kamado Joe Junior.",
+   "Ook te gebruiken in het onderste rek van het Divide & Conquer grillsysteem, vlak boven de kolen.",
+   "Geschikt voor gemarineerd vlees of steak, zodat de vetten weg kunnen druipen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a8f470c2"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ grillverhoger\\ voor\\ Big\\ Joe\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe grillverhoger van roestvrij staal, geschikt voor de Big Joe.",
+   "Vergroot het grilloppervlak, zodat u meer vlees, vis of groenten tegelijk kunt grillen.",
+   "De drie poten blijven op het standaard Kamado Joe rooster staan.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8f6315c0"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ grillverhoger\\ voor\\ Classic\\ Joe\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe grillverhoger van roestvrij staal, geschikt voor de Classic Joe.",
+   "Vergroot het grilloppervlak, zodat u meer vlees, vis of groenten tegelijk kunt grillen.",
+   "De drie poten blijven op het standaard Kamado Joe rooster staan.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "112a5970"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ grillrooster\\ voor\\ Big\\ Joe\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen en bakken van vis en groenten.",
+  "bullets": [
+   "Kamado Joe halve maan grillrooster van roestvrij staal voor de Kamado Big Joe, te gebruiken naast het standaard rooster.",
+   "Dubbeldikke, spiegelgladde plaat: ideaal om vis en groenten gelijkmatig te garen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "41ed4f00"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ grillrooster\\ voor\\ Classic\\ Joe\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen en bakken van vis en groenten.",
+  "bullets": [
+   "Kamado Joe halve maan grillrooster van roestvrij staal voor de Kamado Joe Classic, te gebruiken naast het standaard rooster.",
+   "Dubbeldikke, spiegelgladde plaat: ideaal om vis en groenten gelijkmatig te garen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8505592c"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ Heat\\ Deflector\\ voor\\ Big\\ Joe\\ 2\\ stuks"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe halve maan Heat Deflector van keramiek, set van 2 stuks, voor de Kamado Big Joe.",
+   "Met de halfronde warmteverdelers bereidt u verschillende gerechten op verschillende temperaturen: direct en indirect.",
+   "Te gebruiken in combinatie met het flexibele rek.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1ecbd1cf"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ Heat\\ Deflector\\ voor\\ Classic\\ Joe\\ 2\\ stuks"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe halve maan Heat Deflector van keramiek, set van 2 stuks, voor de Kamado Joe Classic.",
+   "Met de halfronde warmteverdelers bereidt u verschillende gerechten op verschillende temperaturen: direct en indirect.",
+   "Te gebruiken in combinatie met het flexibele rek.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "bcb18975"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ rooster\\ voor\\ Big\\ Joe\\ gietijzer"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen en bakken van vlees.",
+  "bullets": [
+   "Kamado Joe halve maan rooster van gietijzer voor de Kamado Big Joe, te gebruiken naast het standaard rooster.",
+   "Houdt de hitte goed vast; de grillstrepen schroeien het vlees dicht, waarbij alle smaken behouden blijven.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1716284d"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ rooster\\ voor\\ Classic\\ Joe\\ gietijzer"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen en bakken van vlees.",
+  "bullets": [
+   "Kamado Joe halve maan rooster van gietijzer voor de Kamado Joe Classic, te gebruiken naast het standaard rooster.",
+   "Houdt de hitte goed vast; de grillstrepen schroeien het vlees dicht, waarbij alle smaken behouden blijven.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4c3703f0"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ rooster\\ voor\\ Big\\ Joe\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen en bakken van vlees, vis of groenten.",
+  "bullets": [
+   "Kamado Joe halve maan rooster van roestvrij staal voor de Kamado Big Joe, te gebruiken naast het standaard rooster.",
+   "Traditioneel rooster met dunne spijlen, zodat de hitte van de houtskool er beter doorheen straalt.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8060d081"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ rooster\\ voor\\ Classic\\ Joe\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen en bakken van vlees, vis of groenten.",
+  "bullets": [
+   "Kamado Joe halve maan rooster van roestvrij staal voor de Kamado Joe Classic, te gebruiken naast het standaard rooster.",
+   "Traditioneel rooster met dunne spijlen, zodat de hitte van de houtskool er beter doorheen straalt.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7ff41e72"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ speksteen\\ voor\\ Big\\ Joe\\ "
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen en bakken van vlees, vis, flensjes of eieren.",
+  "bullets": [
+   "Kamado Joe halve maan speksteen, te gebruiken in combinatie met de Big Joe.",
+   "De steen houdt veel warmte vast en kan daardoor als bakplaat worden gebruikt.",
+   "Niet poreus: neemt geen sappen op en is ongevoelig voor bacteriën.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7cb7029f"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ speksteen\\ voor\\ Classic\\ Joe\\ "
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen en bakken van vlees, vis, flensjes of eieren.",
+  "bullets": [
+   "Kamado Joe halve maan speksteen, te gebruiken in combinatie met de Classic Joe.",
+   "De steen houdt veel warmte vast en kan daardoor als bakplaat worden gebruikt.",
+   "Niet poreus: neemt geen sappen op en is ongevoelig voor bacteriën.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "afb44523"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Heat\\ Deflector\\ voor\\ Joe\\ Jr\\."
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor slowcooken of op een andere manier indirect koken in de Joe Jr.",
+  "bullets": [
+   "Kamado Joe Heat Deflector van keramiek voor de Joe Junior.",
+   "De ronde warmteverdeler verdeelt de directe hitte, waardoor het gerecht indirect gaart.",
+   "Gebruik in combinatie met het daarvoor bestemde rek.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "66da25f8"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ hoes\\ voor\\ Big\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe hoes voor de Big Joe: beschermt de kamado tegen neerslag en kleine beschadigingen.",
+   "Waterbestendig; gemaakt van polyester dat door en door gekleurd is, dus kleurecht.",
+   "De hoes is op maat gemaakt om over de Big Joe te passen."
+  ],
+  "keys": [
+   "137ef8fa"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ hoes\\ voor\\ Classic\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe hoes voor de Classic Joe: beschermt de kamado tegen neerslag en kleine beschadigingen.",
+   "Waterbestendig; gemaakt van polyester dat door en door gekleurd is, dus kleurecht.",
+   "De hoes is op maat gemaakt om over de Classic Joe te passen."
+  ],
+  "keys": [
+   "78188238"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ hoes\\ voor\\ Classic\\ Joe\\ Stand\\-Alone"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe hoes voor de Classic Joe Stand-Alone: beschermt de kamado tegen neerslag en kleine beschadigingen.",
+   "Waterbestendig; gemaakt van polyester dat door en door gekleurd is, dus kleurecht.",
+   "De hoes is op maat gemaakt om de bovenkant van de Classic Joe Stand-Alone te beschermen wanneer deze in een tafel staat."
+  ],
+  "keys": [
+   "6b40282a"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ hoes\\ voor\\ Joe\\ Junior"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe hoes voor de Kamado Joe Junior: beschermt de kamado tegen neerslag en kleine beschadigingen.",
+   "Waterbestendig; gemaakt van polyester dat door en door gekleurd is, dus kleurecht.",
+   "De hoes is op maat gemaakt om over de Kamado Joe Junior te passen."
+  ],
+  "keys": [
+   "04037304"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ SlōRoller\\ Hyperbolic\\ insert\\ voor\\ Big\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe SlōRoller (Hyperbolic Insert) voor de Big Joe: verandert uw Kamado Joe in een rookoven.",
+   "De gepatenteerde SlōRoller verspreidt rook en hitte in circulerende golven, voor gelijkmatige en langzame garing.",
+   "Vervangt het standaard Divide & Conquer-rek; u gebruikt hem met het meegeleverde kookrek.",
+   "Standaard bij de Big Joe III; los verkrijgbaar als uitbreiding op de Big Joe I of II.",
+   "Losse onderdelen reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f314aefd"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ SloRoller\\ Hyperbolic\\ insert\\ voor\\ Classic\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe SlōRoller (Hyperbolic Insert) voor de Classic Joe: verandert uw Kamado Joe in een rookoven.",
+   "De gepatenteerde SlōRoller verspreidt rook en hitte in circulerende golven, voor gelijkmatige en langzame garing.",
+   "Vervangt het standaard Divide & Conquer-rek; u gebruikt hem met het meegeleverde kookrek.",
+   "Standaard bij de Classic Joe III; los verkrijgbaar als uitbreiding op de Classic Joe I of II.",
+   "Losse onderdelen reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "98fe794b"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Joetisserie\\ Basket\\ Kit\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het grillen van kip, groenten of andere ingrediënten.",
+  "bullets": [
+   "Kamado Joe Joetisserie Basket Kit van roestvrij staal: een platte mand, een bekermand en een snelverbindingstang.",
+   "Te gebruiken in combinatie met de JOEtisserie voor de Classic Joe en de Big Joe.",
+   "De platte mand is voor grote bereidingen zoals een hele kip of vis; de bekermand voor kleine ingrediënten zoals friet of groenten.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "c73882b9"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ JOEtisserie\\ Big\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe JOEtisserie voor de Kamado Joe Big Joe: gegoten aluminium met zwarte coating.",
+   "Elektromotor aan de zijkant draait een spit; het vlees wordt rondgedraaid en gaart zo gelijkmatig.",
+   "Het spit kan tot 22,5 kg vlees dragen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a1066fde"
+  ],
+  "mismatches": [
+   {
+    "topic": "Voeding",
+    "websiteSays": "Specificaties: Voeding 120 V",
+    "note": "Controleren of deze uitvoering op Nederlands net (230 V) kan; niet door ons bevestigd."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ JOEtisserie\\ Classic\\ "
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe JOEtisserie voor de Kamado Joe Classic: gegoten aluminium met zwarte coating.",
+   "Elektromotor aan de zijkant draait een spit; het vlees wordt rondgedraaid en gaart zo gelijkmatig.",
+   "Het spit kan tot 22,5 kg vlees dragen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1d76926b"
+  ],
+  "mismatches": [
+   {
+    "topic": "Voeding",
+    "websiteSays": "Specificaties: Voeding 120 V",
+    "note": "Controleren of deze uitvoering op Nederlands net (230 V) kan; niet door ons bevestigd."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Karbon\\ Steel\\ bakplaat\\ voor\\ Big\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het bakken van vlees, vis, groenten of brood in de Big Joe.",
+  "bullets": [
+   "Kamado Joe Karbon Steel bakplaat van carbonstaal, 61 cm diameter, voor de Big Joe (alle Big Joe modellen).",
+   "Twee handgrepen van roestvrij staal en een sapgeul voor snel schoonmaken.",
+   "Licht in gewicht en toch een vaste temperatuur.",
+   "Reinigen met warm water en afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "7733cb13"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Konnected\\ Joe\\ Meat\\ Probe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het meten van de kerntemperatuur van een stuk vlees of vis op de barbecue.",
+  "bullets": [
+   "Kamado Joe Konnected Joe Meat Probe van roestvrij staal, voor de Kamado Joe Konnected Joe barbecue.",
+   "Bij de Konnected Joe zit één Meat Probe standaard; er is plaats voor maximaal drie probes.",
+   "De thermometer wordt aan de buitenzijde aan de barbecue gekoppeld; de pen steekt u in het vlees of de vis.",
+   "Pen reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1ac4c2e5"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Kontrol\\ Tower\\ ventilatie\\ koepel\\ aluminium\\ zwart"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Kontrol Tower ventilatiekoepel van aluminium met zwarte coating, boven op het deksel van de Kamado Joe barbecues.",
+   "Hiermee stelt u de luchtstroom in de kamado eenvoudig in en regelt zo de temperatuur.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "e111763a"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal",
+    "websiteSays": "Specificaties: Materiaal roestvrij staal; tekst: \"gemaakt van aluminium\"",
+    "note": "Controleren welk materiaal klopt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Krafted\\ grillborstel\\ 45,75\\ cm\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Krafted grillborstel van roestvrij staal, 45,75 cm lang volgens de tekst.",
+   "Spiraalvormige roestvrijstalen reinigingskoppen zonder losse haren, plus een geïntegreerde schraper voor aangekoekte resten.",
+   "Ergonomisch handvat, vervangbare borstelkop en een ophangoog.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "2044bbc7"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lengte",
+    "websiteSays": "Specificaties: Lengte 45 cm; tekst en naam: 45,75 cm",
+    "note": "Controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Krafted\\ grillgereedschap\\ set\\ 4\\-delig"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe Krafted grillgereedschap set, 4-delig: roestvrijstalen spatel, tang en grillborstel in een waterbestendige canvas draagtas met aparte vakken.",
+   "Gemaakt van zwaar uitgevoerd roestvrij staal met ergonomische handgrepen met rode accenten.",
+   "Alle onderdelen hebben ophangogen voor compacte opslag bij de barbecue.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "311c0008"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal delen",
+    "websiteSays": "Naam: 4-delig; tekst noemt spatel, tang en grillborstel (en de draagtas)",
+    "note": "Controleren wat het vierde deel is."
+   },
+   {
+    "topic": "Lengte",
+    "websiteSays": "Specificaties: Lengte 45 cm; tekst: 45,75 cm",
+    "note": "Controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Krafted\\ spatel\\ 45,75\\ cm\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het draaien van grotere stukken vlees, vis of groenten op de barbecue.",
+  "bullets": [
+   "Kamado Joe Krafted spatel van roestvrij staal, totale lengte 45,75 cm volgens de tekst; spatelblad van 10 x 11,4 cm.",
+   "Geïntegreerde snijrand om ingrediënten op het rooster los te maken of te verdelen.",
+   "Ergonomisch handvat met rode accenten en een ophangoog.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "3efa61f8"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lengte",
+    "websiteSays": "Specificaties: Lengte 45,8 cm; tekst en naam: 45,75 cm",
+    "note": "Afronding; controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Krafted\\ Steel\\ Basting\\ pot\\ 1\\ liter"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het smelten van boter en het verwarmen van sauzen direct op de barbecue.",
+  "bullets": [
+   "Kamado Joe Krafted Steel Basting Pot van roestvrij staal, inhoud 1 liter, hittebestendig tot 120 °C.",
+   "Wordt geleverd met een siliconen deksel met geïntegreerde kwast, een luchtdicht afsluitdeksel en siliconen handgreepbeschermers.",
+   "Met de kwastdeksel brengt u saus of boter aan tijdens het grillen.",
+   "Het luchtdichte deksel is om overgebleven saus in de koelkast te bewaren.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "a2e446b3"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lengte",
+    "websiteSays": "Specificaties: Lengte 45 cm (bij een pot van 1 liter)",
+    "note": "Waarschijnlijk de lengte van de reeks; controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Krafted\\ tang\\ 45,75\\ cm\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het draaien en verplaatsen van vlees, vis en groenten op de barbecue.",
+  "bullets": [
+   "Kamado Joe Krafted tang van roestvrij staal, 45,75 cm lang volgens de tekst.",
+   "Vergrendelbare sluiting, veermechanisme en geribbelde grijpranden voor extra grip.",
+   "Verhoogde ruststand: de tang raakt het werkoppervlak niet direct.",
+   "Ergonomisch handvat met rode accenten en een ophangoog.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "80c5be4f"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lengte",
+    "websiteSays": "Specificaties: Lengte 45 cm; tekst: 45,75 cm",
+    "note": "Controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Leather\\ Gloves\\ 2\\ stuks"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor bescherming van de handen tegen de hitte tijdens het barbecueën.",
+  "bullets": [
+   "Kamado Joe Leather Gloves: set van 2 stuks, van leer.",
+   "Te gebruiken voor het vastpakken van grillroosters, hete pannen of andere warme objecten.",
+   "Zachte binnenkant."
+  ],
+  "keys": [
+   "ff5714be"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ LED\\-handgreep\\ voor\\ Classic\\ Joe\\ en\\ Big\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kamado Joe LED-handgreep voor de Classic Joe en Big Joe; vervangt de standaard handgreep.",
+   "Geïntegreerde LED-verlichting schijnt op het grillrooster, ook bij weinig licht.",
+   "Twee lichtstanden, koelwit licht van 6000 K; behuizing van hitte- en weerbestendig nylon.",
+   "Werkt op vier AA-batterijen (niet inbegrepen), brandduur tot 9 uur."
+  ],
+  "keys": [
+   "e3ca249a"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ leren\\ barbecue\\ schort\\ zwart"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om kleding te beschermen tijdens het barbecueën.",
+  "bullets": [
+   "Kamado Joe leren barbecue schort in zwart met rode accenten, van runder- en buffelleer.",
+   "Verstelbare banden; lus aan de voorzijde om gereedschap of thermometers binnen handbereik te houden.",
+   "Reinigen met een vochtige doek en goed laten drogen."
+  ],
+  "keys": [
+   "44a8f773"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Pizza\\ Peel\\ pizzaschep"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het verplaatsen van pizza.",
+  "bullets": [
+   "Kamado Joe pizzaschep, volledig van hout.",
+   "Taps toelopend blad: de schep schuift moeiteloos onder pizza's of andere bereidingen.",
+   "Reinigen met warm water en afwasmiddel; direct afdrogen."
+  ],
+  "keys": [
+   "c4e9f748"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Pizza\\ Stone\\ voor\\ Big\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het bakken van pizza's, brood en koekjes in uw Kamado Joe.",
+  "bullets": [
+   "Kamado Joe pizzasteen van keramiek, geschikt voor de Kamado Joe Big Joe.",
+   "Verdeelt de hitte gelijkmatig en neemt vocht op; geeft een steenoven-effect.",
+   "Laat de steen enige tijd opwarmen voor een krokante pizzabodem.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d25fcbbc"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Pizza\\ Stone\\ voor\\ Classic\\ Joe"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het bakken van pizza's, brood en koekjes in uw Kamado Joe.",
+  "bullets": [
+   "Kamado Joe pizzasteen van keramiek, geschikt voor de Kamado Joe Classic Joe.",
+   "Verdeelt de hitte gelijkmatig en neemt vocht op; geeft een steenoven-effect.",
+   "Laat de steen enige tijd opwarmen voor een krokante pizzabodem.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "da2121ea"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Rib\\ Rack\\ rvs"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het maken van spareribs.",
+  "bullets": [
+   "Kamado Joe Rib Rack van roestvrij staal.",
+   "Ruim opgezet, zodat de lucht kan circuleren en de ribs rondom gaar worden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "91ac2da8"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ speksteen\\ voor\\ Joe\\ Junior"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het bakken van vlees, vis, flensjes of eieren.",
+  "bullets": [
+   "Kamado Joe speksteen, te gebruiken in combinatie met de Joe Junior.",
+   "De steen houdt veel warmte vast en kan daardoor als bakplaat worden gebruikt.",
+   "Niet poreus: neemt geen sappen op en is ongevoelig voor bacteriën.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c7d1eb54"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ dubbelzijdige\\ grillplaat\\ voor\\ Big\\ Joe\\ gietijzer"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen en bakken van vlees, vis, flensjes of eieren.",
+  "bullets": [
+   "Kamado Joe halve maan dubbelzijdige grillplaat van gietijzer, te gebruiken naast het standaard rooster in de Kamado Joe Big Joe.",
+   "Eén geribbelde en één gladde zijde.",
+   "De gladde kant gebruikt u als grillplaat; de geribbelde zijde voor gemarineerd vlees of steak, zodat de vetten weg kunnen druipen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "31410006"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ halve\\ maan\\ dubbelzijdige\\ grillplaat\\ voor\\ Classic\\ Joe\\ gietijzer"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen en bakken van vlees, vis, flensjes of eieren.",
+  "bullets": [
+   "Kamado Joe halve maan dubbelzijdige grillplaat van gietijzer, te gebruiken naast het standaard rooster in de Kamado Joe Classic.",
+   "Eén geribbelde en één gladde zijde.",
+   "De gladde kant gebruikt u als grillplaat; de geribbelde zijde voor gemarineerd vlees of steak, zodat de vetten weg kunnen druipen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "bb2329e3"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Karbon\\ Steel\\ halve\\ maan\\ pan"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires",
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het grillen of sauteren van gerechten op de barbecue.",
+  "bullets": [
+   "Kamado Joe Karbon Steel halve maan pan set: twee halve maan pannen van carbonstaal.",
+   "Eén geperforeerde pan (roosteren en grillen) en één gewone pan (sauteren en schroeien).",
+   "Lichtgewicht pan die goed geleidt.",
+   "Geschikt voor kleine ingrediënten zoals garnalen of groenten.",
+   "Reinigen met warm water en afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "bf1cf952"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Karbon\\ Steel\\ paellapan"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires",
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bereiden van paella of een ander gerecht op de barbecue.",
+  "bullets": [
+   "Kamado Joe Karbon Steel paellapan van carbonstaal; past op elk Kamado Joe model.",
+   "Geleidt hitte goed; de indeukingen in de bodem laten de paella gelijkmatig koken.",
+   "Reinigen met warm water en afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "a2de3cbf"
+  ]
+ },
+ {
+  "match": [
+   "Kamado\\ Joe\\ Karbon\\ Steel\\ wok"
+  ],
+  "brandID": "kamadojoe",
+  "typeIDs": [
+   "bbq-accessoires",
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bereiden van bijvoorbeeld roerbakgroenten of stukjes vlees op de barbecue.",
+  "bullets": [
+   "Kamado Joe Karbon Steel wok van carbonstaal; geschikt voor elke Kamado Joe.",
+   "Veelzijdig en geleidt hitte goed.",
+   "Reinigen met warm water en afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "7b490eeb"
+  ]
+ }
+]

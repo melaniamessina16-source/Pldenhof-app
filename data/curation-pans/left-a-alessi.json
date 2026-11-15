@@ -1,0 +1,259 @@
+[
+ {
+  "match": [
+   "Alessi\\ Amici\\ dessertmes\\ 18,5\\ cm\\ rvs\\ glans\\ "
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het verdelen van een taartje of klein dessert.",
+  "bullets": [
+   "Alessi Amici dessertmes, 18,5 cm, van gepolijst 18/10 roestvrij staal.",
+   "Ontwerp van Big Game: strakke lijnen met organische vormen.",
+   "Voor het verdelen van een taartje of klein dessert.",
+   "De tekst zegt vaatwasmachinebestendig (reinigen met warm water en afwasmiddel); de specificatie zegt handafwas."
+  ],
+  "keys": [
+   "1a669751"
+  ],
+  "brandName": "Alessi",
+  "requires": [
+   "Big Game"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reinigen: handafwas of vaatwasser",
+    "websiteSays": "Specificatie Reiniging: \"handafwas\". De tekst zegt: \"Het Amici bestek is vaatwasmachinebestendig\".",
+    "note": "Controleer bij Alessi voordat u dit aan een klant belooft."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Caccia\\ dessertmes\\ 20,2\\ cm\\ rvs\\ glans\\ "
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om een dessert of gebakje mee te snijden.",
+  "bullets": [
+   "Alessi Caccia dessertmes, 20 cm, van gepolijst 18/10 roestvrij staal.",
+   "Ontwerp van Luigi Caccia Dominoni.",
+   "Holheft-mes: een hol heft en een lemmet van messenstaal.",
+   "Om een dessert of gebakje mee te snijden.",
+   "Vaatwasmachinebestendig; reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "df5693fd"
+  ],
+  "requires": [
+   "holheft"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Caccia\\ monoblock\\ dessertmes\\ 20,2\\ cm\\ rvs\\ glans\\ "
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om een dessert of gebakje mee te snijden.",
+  "bullets": [
+   "Alessi Caccia monoblock dessertmes, 20 cm, van gepolijst 18/10 roestvrij staal uit één stuk.",
+   "Ontwerp van Luigi Caccia Dominoni.",
+   "Om een dessert of gebakje mee te snijden.",
+   "Vaatwasmachinebestendig; reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "fc50f1e7"
+  ],
+  "requires": [
+   "uit één stuk"
+  ],
+  "mismatches": [
+   {
+    "topic": "Monoblock of holheft",
+    "websiteSays": "Het mes is een \"monoblock dessertmes ... uit één stuk\", maar de tekst van de serie zegt ook: \"De messen uit deze Alessi serie zijn holheft-messen. Dit betekent dat de messen een hol heft hebben en een messenstalen lemmet.\"",
+    "note": "Controleer of dit monoblock-mes uit één stuk is (zoals de naam zegt)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Dressed\\ botermes\\ 16\\ cm"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Dressed botermes, 16 cm, van hoogglanzend 18/10 roestvrij staal.",
+   "Ontwerp van Marcel Wanders; subtiel gedecoreerd met een sierlijk patroon onder aan het heft.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "141d4c72"
+  ],
+  "requires": [
+   "Marcel Wanders"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Dressed\\ dessertmes\\ 18\\ cm\\ rvs\\ glans\\ "
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van gebak of desserts.",
+  "bullets": [
+   "Alessi Dressed dessertmes, 18 cm, van roestvrij staal; aan één kant voorzien van een gestileerd patroon.",
+   "Ontwerp van Marcel Wanders.",
+   "Voor het snijden van gebak of desserts.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "9fafb787"
+  ],
+  "requires": [
+   "Marcel Wanders"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Dry\\ dessertmes\\ 19\\ cm\\ rvs\\ glans\\ "
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Dry dessertmes, 19 cm, van hoogwaardig roestvrij staal.",
+   "Ontwerp van Achille Castiglioni.",
+   "Bedoeld als aanvulling op uw huidige Alessi Dry bestek.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "20f35fdc"
+  ],
+  "requires": [
+   "Castiglioni"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Itsumo\\ dessertmes\\ 18\\ cm\\ rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het verdelen van een klein dessert of taartje.",
+  "bullets": [
+   "Alessi Itsumo dessertmes, 18 cm, van gepolijst 18/10 roestvrij staal.",
+   "Ontwerp van Naoto Fukasawa: strakke lijnen met organische vormen.",
+   "Voor het verdelen van een klein dessert of taartje.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "4b18a74b"
+  ],
+  "requires": [
+   "Fukasawa"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Mami\\ monoblock\\ dessertmes\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om nagerechten te snijden.",
+  "bullets": [
+   "Alessi Mami monoblock dessertmes, 20 cm, van gepolijst 18/10 roestvrij staal, uit één stuk.",
+   "Ontwerp van Stefano Giovannoni.",
+   "Om nagerechten te snijden.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "dc6f55d6"
+  ],
+  "requires": [
+   "Giovannoni"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Nuovo\\ Milano\\ monoblock\\ dessertmes\\ 19\\ cm\\ rvs\\ glans"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Alessi Nuovo Milano monoblock dessertmes, 19 cm, van gepolijst 18/10 roestvrij staal uit één stuk.",
+   "Ontwerp van Ettore Sottsass.",
+   "Bedoeld als aanvulling op uw huidige Alessi Nuovo Milano bestek.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f78dbfd8"
+  ],
+  "requires": [
+   "Sottsass"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Ovale\\ dessertmes\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om delen van het dessert te snijden.",
+  "bullets": [
+   "Alessi Ovale dessertmes, 20 cm, van gepolijst 18/10 roestvrij staal.",
+   "Ontwerp van Ronan en Erwan Bouroullec.",
+   "Zelfstandig te gebruiken of als aanvulling op een Alessi Ovale bestekset.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "4a8608ba"
+  ],
+  "requires": [
+   "Bouroullec"
+  ]
+ },
+ {
+  "match": [
+   "Alessi\\ Santiago\\ dessertmes\\ 18\\ cm\\ rvs\\ glans\\ "
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van desserts of taart.",
+  "bullets": [
+   "Alessi Santiago dessertmes, 18 cm, van hoogglanzend 18/10 roestvrij staal.",
+   "Ontwerp van David Chipperfield.",
+   "Voor het snijden van desserts of taart.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "38a98273"
+  ],
+  "requires": [
+   "Chipperfield"
+  ]
+ }
+]

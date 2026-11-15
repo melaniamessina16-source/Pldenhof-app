@@ -1,0 +1,35 @@
+[
+ {
+  "match": [
+   "Peugeot\\ Atlas\\ tajine\\ ø\\ 30\\ cm\\ aluminium\\ bosgroen",
+   "Peugeot\\ Atlas\\ tajine\\ ø\\ 30\\ cm\\ aluminium\\ mat\\ zwart",
+   "Peugeot\\ Atlas\\ tajine\\ ø\\ 30\\ cm\\ aluminium\\ rood",
+   "Peugeot\\ Atlas\\ tajine\\ ø\\ 30\\ cm\\ aluminium\\ saffraangeel"
+  ],
+  "brandID": "peugeot",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bereiden van diverse stoofmaaltijden.",
+  "bullets": [
+   "Atlas tajine van 100% gerecycled aluminium (gemaakt in Frankrijk) met PFAS-vrije keramische anti-aanbaklaag; de hoed is van keramiek.",
+   "Diameter 30 cm, inhoud 4,7 liter (spec).",
+   "Geschikt voor alle warmtebronnen, inclusief inductie; goede warmtegeleiding.",
+   "Conische vorm houdt de stoom vast: sappige gerechten.",
+   "Reinigen met warm water en afwasmiddel, direct goed afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "67586421",
+   "a20bb6e1",
+   "49c69aa2",
+   "5b72e6e4"
+  ],
+  "brandName": "Peugeot",
+  "colours": [
+   "bosgroen",
+   "mat zwart",
+   "rood",
+   "saffraangeel"
+  ]
+ }
+]

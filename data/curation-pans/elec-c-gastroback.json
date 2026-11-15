@@ -1,0 +1,49 @@
+[
+ {
+  "match": [
+   "Gastroback\\ broodbakmachine\\ 35\\ x\\ 28\\ cm\\ metaal\\ zwart"
+  ],
+  "brandID": "gastroback",
+  "typeIDs": [
+   "broodbakmachines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Gastroback broodbakmachine van metaal met uitneembaar bakblik met anti-aanbaklaag, 500 W.",
+   "18 programma's op het LCD-scherm: diverse soorten brooddeeg, maar ook pastadeeg, pizzadeeg, ijs en yoghurt.",
+   "Voor broden tot 1000 gram, zoals wit, volkoren en zoet brood.",
+   "Warmhoudstand tot 60 minuten; timer tot maximaal 15 uur om later te laten beginnen.",
+   "Transparante deksel om de voortgang te volgen. Bakblik reinigen met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "c41c1970"
+  ],
+  "brandName": "Gastroback",
+  "mismatches": [
+   {
+    "topic": "Kleur",
+    "websiteSays": "De paginanaam zegt \"metaal zwart\"; de specificaties zeggen Kleur grijs.",
+    "note": "Controleer de kleur."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Gastroback\\ ijscontainer\\ voor\\ broodbakmachine\\ 42823"
+  ],
+  "brandID": "gastroback",
+  "typeIDs": [
+   "broodbakmachines"
+  ],
+  "suitedFor": "Voor het maken van sorbet- of roomijs in de Gastroback broodbakmachine 42823.",
+  "bullets": [
+   "Gastroback ijscontainer van 700 ml, accessoire voor de Gastroback broodbakmachine 42823 (artikelnummer 96910).",
+   "Verandert de broodbakmachine in een ijsmachine voor sorbet- of roomijs.",
+   "Gebruik: de container van tevoren invriezen, met het opzetstuk in de broodbakmachine plaatsen, vullen met room of een fruitmengsel en de machine op de ijsstand zetten.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8ae7d477"
+  ]
+ }
+]

@@ -1,0 +1,292 @@
+[
+ {
+  "match": [
+   "Nogent\\ Daily\\ gekarteld\\ steakmes\\ 11\\ cm\\ terracotta",
+   "Nogent\\ Daily\\ gekarteld\\ tafelmes\\ 11\\ cm\\ granaatappel\\ rood",
+   "Nogent\\ Daily\\ gekarteld\\ tafelmes\\ 11\\ cm\\ lavendel",
+   "Nogent\\ Daily\\ gekarteld\\ tafelmes\\ 11\\ cm\\ muntgroen",
+   "Nogent\\ Daily\\ gekarteld\\ tafelmes\\ 11\\ cm\\ taupe"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Ontworpen voor het snijden van vlees, groenten en andere gerechten aan tafel.",
+  "bullets": [
+   "Daily gekarteld tafelmes met een handvat van polypropyleen (kleur: zie productnaam).",
+   "Karteling voor extra grip en gelijkmatige sneden zonder ingrediënten samen te drukken; afgeronde punt voor extra veiligheid aan tafel.",
+   "Compact formaat en licht handvat; staalsoort X55CrMo14 (volgens de specificaties).",
+   "Daily-serie: praktisch vormgegeven keukenmessen en keukenhulpen met handgrepen van polypropyleen of biobased materialen. Wordt geproduceerd in Frankrijk.",
+   "Vaatwasmachinebestendig of reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4424de46",
+   "b2666a57",
+   "253a809a",
+   "1c0240bd",
+   "d7260fc7"
+  ],
+  "brandName": "Nogent",
+  "colours": [
+   "terracotta",
+   "granaatappel rood",
+   "lavendel",
+   "muntgroen",
+   "taupe"
+  ],
+  "mismatches": [
+   {
+    "topic": "Productnaam: steakmes of tafelmes",
+    "websiteSays": "Naam: \"gekarteld steakmes 11 cm terracotta\"; tekst en de andere kleuren: \"gekarteld tafelmes\"",
+    "note": "Controleer of de terracotta variant steakmes of tafelmes heet.",
+    "only": "Nogent Daily gekarteld steakmes 11 cm"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Daily\\ steakmes\\ 11\\ cm\\ zwart"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Ontworpen voor het snijden van steaks, gegrild vlees en andere vleesgerechten.",
+  "bullets": [
+   "Daily steakmes met dubbele karteling en een zwart handvat van polypropyleen.",
+   "De dubbele karteling geeft extra grip en gelijkmatige sneden zonder het vlees te scheuren of samen te drukken; het lemmet behoudt langdurig zijn snijprestaties.",
+   "Compact formaat en licht handvat. Wordt geproduceerd in Frankrijk.",
+   "Vaatwasmachinebestendig of reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7d8a8ff1"
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Iconic\\ broodmes\\ 11\\ cm\\ kersenhout"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ontworpen voor het snijden van baguettes, broodjes en andere kleine broodsoorten met een harde korst.",
+  "bullets": [
+   "Iconic compact broodmes met een gekarteld lemmet en een handvat van kersenhout.",
+   "De karteling houdt grip op harde korsten zonder het brood samen te drukken; de wendbare vorm is geschikt voor nauwkeurig snijden en het bereiden van sandwiches of belegde broodjes.",
+   "Iconic-serie: combineert traditionele vormgeving met natuurlijke materialen zoals hout en roestvrij staal. Wordt geproduceerd in Frankrijk.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "805972b6"
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Iconic\\ broodmes\\ 19\\ cm\\ beukenhout"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ontworpen voor het snijden van brood met een harde korst, zoals desembrood, baguettes en grote broden.",
+  "bullets": [
+   "Iconic broodmes met een gekarteld lemmet en een handvat van beukenhout.",
+   "De langere lemmetvorm maakt vloeiende, doorlopende snijbewegingen mogelijk en biedt controle bij grotere broden en dikke korsten.",
+   "Iconic-serie: combineert traditionele vormgeving met natuurlijke materialen zoals hout en roestvrij staal. Wordt geproduceerd in Frankrijk.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "3d11cfe1"
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Iconic\\ gekarteld\\ steakmes\\ 11\\ cm\\ kersenhout"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Ontworpen voor het snijden van steaks, gegrild vlees en andere vleesgerechten aan tafel.",
+  "bullets": [
+   "Iconic gekarteld steakmes met een handvat van kersenhout.",
+   "Dubbele karteling: extra grip en gelijkmatige sneden zonder het vlees te scheuren of samen te drukken; behoudt langdurig zijn snijprestaties.",
+   "Compact formaat en houten handvat. Wordt geproduceerd in Frankrijk.",
+   "Iconic-serie: combineert traditionele vormgeving met natuurlijke materialen zoals hout en roestvrij staal.",
+   "Reinigen met warm water en afwasmiddel; vaatwasmachinebestendig volgens de specificaties."
+  ],
+  "keys": [
+   "26da925b"
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Iconic\\ gekarteld\\ steakmes\\ 11\\ cm\\ rood"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Ontworpen voor het snijden van steaks, gegrild vlees en andere vleesgerechten aan tafel.",
+  "bullets": [
+   "Iconic gekarteld steakmes met een handvat van rood gekleurde haagbeuk.",
+   "Dubbele karteling: extra grip en gelijkmatige sneden zonder het vlees te scheuren of samen te drukken; behoudt langdurig zijn snijprestaties.",
+   "Compact formaat en houten handvat. Wordt geproduceerd in Frankrijk.",
+   "Iconic-serie: combineert traditionele vormgeving met natuurlijke materialen zoals hout en roestvrij staal.",
+   "Reinigen met warm water en afwasmiddel; vaatwasmachinebestendig volgens de specificaties."
+  ],
+  "keys": [
+   "65befc7b"
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Iconic\\ mini\\ Santokumes\\ 11\\ cm\\ kersenhout"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ontworpen voor het snijden, hakken en fijnsnijden van groenten, kruiden, fruit en kleinere stukken vlees of vis.",
+  "bullets": [
+   "Iconic mini santokumes met een glad lemmet en een handvat van kersenhout.",
+   "Het bredere lemmet biedt meer geleiding dan een traditioneel officemes en kan ook gebruikt worden om ingrediënten op te scheppen tijdens het koken.",
+   "Iconic-serie: combineert traditionele vormgeving met natuurlijke materialen zoals hout en roestvrij staal. Wordt geproduceerd in Frankrijk.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "278f10bb"
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Iconic\\ officemes\\ 9\\ cm\\ hout\\ zwart"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ontworpen voor het schillen, snijden en nauwkeurig verwerken van fruit en groenten.",
+  "bullets": [
+   "Iconic officemes met een zwart houten handvat.",
+   "Glad lemmet voor gecontroleerde, gelijkmatige sneden bij kleinere ingrediënten; geschikt voor schillen, tourné snijden en fijn snijwerk.",
+   "Iconic-serie: combineert traditionele vormgeving met natuurlijke materialen zoals hout en roestvrij staal. Wordt geproduceerd in Frankrijk.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "1b9bbfc3"
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Iconic\\ officemes\\ 9\\ cm\\ kersenhout"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ontworpen voor het schillen, snijden en nauwkeurig verwerken van fruit en groenten.",
+  "bullets": [
+   "Iconic officemes met een handvat van kersenhout.",
+   "Glad lemmet voor gecontroleerde, gelijkmatige sneden bij kleinere ingrediënten; geschikt voor schillen, tourné snijden en fijn snijwerk.",
+   "Iconic-serie: combineert traditionele vormgeving met natuurlijke materialen zoals hout en roestvrij staal. Wordt geproduceerd in Frankrijk.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "57a90b14"
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Iconic\\ schilmes\\ recht\\ 8\\ cm\\ kersenhout"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ontworpen voor precisiewerk zoals schillen, tourné snijden en het nauwkeurig verwerken van fruit en groenten.",
+  "bullets": [
+   "Iconic schilmes met een recht, glad lemmet en een handvat van kersenhout.",
+   "Compact formaat en korte lemmetlengte: veel controle tijdens fijne snijtaken.",
+   "Iconic-serie: combineert traditionele vormgeving met natuurlijke materialen zoals hout en roestvrij staal. Wordt geproduceerd in Frankrijk.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "6fe4b29f"
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Iconic\\ tomatenmes\\ 11\\ cm\\ kersenhout"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ontworpen voor het snijden van tomaten, citrusfruit en andere zachte ingrediënten met een kwetsbare schil.",
+  "bullets": [
+   "Iconic tomatenmes met microkartel en een handvat van kersenhout.",
+   "De microkartel geeft directe grip op de schil, zodat het mes zonder samen te drukken snijdt.",
+   "Iconic-serie: combineert traditionele vormgeving met natuurlijke materialen zoals hout en roestvrij staal. Wordt geproduceerd in Frankrijk.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "9f036b89"
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Silhouette\\ steak\\-tafelmes\\ 11\\ cm\\ grijs",
+   "Nogent\\ Silhouette\\ steak\\-tafelmes\\ 11\\ cm\\ rood",
+   "Nogent\\ Silhouette\\ steak\\-tafelmes\\ 11\\ cm\\ zwart"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Ontworpen voor het snijden van vlees, groenten en andere gerechten aan tafel.",
+  "bullets": [
+   "Silhouette steak-tafelmes met microkartel en een handvat van composiethout op biologische basis (kleur: zie productnaam).",
+   "De fijne karteling zorgt voor gecontroleerde, gelijkmatige sneden zonder het voedsel te scheuren of samen te drukken.",
+   "Slank ontwerp en licht handvat. Silhouette-serie: moderne vormgeving met materialen op biologische basis en roestvrij staal. Wordt geproduceerd in Frankrijk.",
+   "Vaatwasmachinebestendig of reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e04eff5d",
+   "811bccd6",
+   "dab1f833"
+  ],
+  "colours": [
+   "grijs",
+   "rood",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur zwarte variant",
+    "websiteSays": "De pagina van de zwarte variant noemt in de tekst een \"grijs-blauw handvat\"",
+    "note": "Controleer de kleur van de zwarte variant."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Silhouette\\ steakmessenset\\ 11\\ cm\\ zwart\\ 4st"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van vlees en andere gerechten aan tafel.",
+  "bullets": [
+   "Silhouette steakmessenset: vier tafelmessen met zwarte handgrepen van composietmateriaal.",
+   "Messen van roestvrij X-CrMo messenstaal met een fijn gekartelde snede (microkartel): gecontroleerd snijden zonder het product te scheuren of te pletten.",
+   "Slank ontwerp; geschikt voor dagelijks gebruik en uitgebreid gedekte tafels. Wordt geproduceerd in Frankrijk.",
+   "Vaatwasmachinebestendig of reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a42d4534"
+  ]
+ }
+]

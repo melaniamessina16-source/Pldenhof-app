@@ -1,0 +1,844 @@
+[
+ {
+  "match": [
+   "Sage\\ The\\ 3X\\ Bluicer\\ Pro\\ sapcentrifuge\\ en\\ blender"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het versappen van fruit en groente en het verwerken tot soepen of smoothies.",
+  "bullets": [
+   "Twee-in-één apparaat: sapcentrifuge en blender, met een behuizing van geborsteld roestvrij staal. Vermogen 1350 W.",
+   "10 snelheidsstanden en 5 programma's onder één druk op de knop.",
+   "Het sap kan rechtstreeks de blenderkan in worden geleid; met een verloopstuk kan het sap ook direct in een glas.",
+   "Invoerbuis met een diameter van 88 mm, zodat grote stukken fruit en groente kunnen worden versapt.",
+   "Reinigen: sapcentrifuge en blenderkan met warm water en afwasmiddel, de basis met een vochtige doek."
+  ],
+  "keys": [
+   "bcc16c02"
+  ],
+  "requires": [
+   "Bluicer"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Adjusta\\ Grill\\ contactgrill"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": "Voor het grillen van tosti's tot delicate zeevruchten.",
+  "bullets": [
+   "Contactgrill van roestvrij staal met grillplaten van gegoten aluminium met een antikleeflaag; vermogen 1500 W.",
+   "7 standen. Wordt geleverd met een reinigingsspatel.",
+   "De bovenplaat is verstelbaar: voor elke bereiding de geschikte afstand tussen de platen.",
+   "Verwijderbaar lekbakje vangt het vet op; het is vaatwasmachinebestendig. Behuizing afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "c5307684"
+  ],
+  "requires": [
+   "Adjusta Grill"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ the\\ Adjusta\\ Grill\\ \\&\\ Press\\ contactgrill\\ "
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": "Voor het grillen van tosti's tot delicate zeevruchten.",
+  "bullets": [
+   "Contactgrill van roestvrij staal met grillplaten van gegoten aluminium met een antikleeflaag; vermogen 2200 W.",
+   "Diverse standen; bovenplaat met ribbels en gladde onderplaat.",
+   "De bovenplaat is verstelbaar: voor elke bereiding de geschikte afstand tussen de platen.",
+   "Verwijderbaar lekbakje vangt het vet op; het is vaatwasmachinebestendig. Behuizing afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "d1808ab2"
+  ],
+  "requires": [
+   "Grill & Press"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Bakery\\ Boss\\ standmixer",
+   "Sage\\ The\\ Bakery\\ Boss\\ standmixer\\ Black\\ Truffle"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het kneden van deeg, het mengen van beslag of het kloppen van luchtige ingrediënten.",
+  "bullets": [
+   "Standmixer van gegoten metaal; vermogen 1200 W.",
+   "Geleverd met twee komen: een glazen kom van 4,7 liter (borosilicaatglas) en een roestvrijstalen kom van 3,8 liter.",
+   "12 snelheden; de werkingsduur is in te stellen; pauzeknop om snel te stoppen.",
+   "Geleverd met spatelgarde, platte menghaak, deeghaak, draadgarde, spatbescherming, vultrechter en spatel.",
+   "Reinigen: kommen en onderdelen met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "ba3ba4d8",
+   "272f37c4"
+  ],
+  "requires": [
+   "Bakery Boss"
+  ],
+  "colours": [
+   "Black Truffle"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ BBQ\\ \\&\\ Press\\ Grill\\ contactgrill"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": "Als barbecue of als contactgrill te gebruiken (panini's, burgers en steaks).",
+  "bullets": [
+   "Contactgrill van roestvrij staal met verwijderbare grillplaten met een anti-aanbaklaag; verwarmingselementen met een maximaal vermogen van 1800 watt.",
+   "Als contactgrill of, volledig opengeklapt (zwevende topplaat), als barbecue te gebruiken. De bovenplaat is verstelbaar.",
+   "One-touch-functies voor panini's, burgers en steaks; temperatuur instelbaar met een draaiknop.",
+   "Uit te breiden met Quick Release-wafelplaten.",
+   "Verwijderbaar lekbakje werkt in de BBQ- of contactmodus. Grillplaten vaatwasmachinebestendig, behuizing afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "cb3e1207"
+  ],
+  "requires": [
+   "Quick Release"
+  ],
+  "mismatches": [
+   {
+    "topic": "Vermogen",
+    "websiteSays": "Tekst: \"vermogen van 1510-1800W\" en \"maximaal vermogen van 1800 watt\"; specificaties: Vermogen 1500 W, 1800 W.",
+    "note": "Controleer het vermogen op het typeplaatje."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Big\\ Squeeze\\ slowjuicer"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Om fruit en groente op een efficiënte manier tot sap te verwerken.",
+  "bullets": [
+   "Slowjuicer van kunststof met een motor van 240 watt; door de lage rotatiesnelheid geluidsarm.",
+   "Dubbele toevoeropening in het deksel: de grote opening heeft een doseringsmechanisme voor brede producten zoals appels, de smalle is voor langere producten (met meegeleverde duwer).",
+   "Sap en pulp gaan via twee afzonderlijke uitlooptuiten; de sapuitloop heeft een stopje om de sapstroom te stoppen.",
+   "Schakelaar met vooruit, stop en achteruit; achteruit maakt vastgelopen producten los.",
+   "Geleverd met een pulpvat van 1,5 liter en een sapopvangkan van 1,2 liter; reinigingsborstel voor het filter.",
+   "Reinigen: losse onderdelen met warm water en afwasmiddel, motorhuis met een vochtige doek."
+  ],
+  "keys": [
+   "3672b65d"
+  ],
+  "requires": [
+   "Big Squeeze"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Citrus\\ Press\\ Pro\\ elektrische\\ citruspers"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Om citrusvruchten te versappen.",
+  "bullets": [
+   "Elektrische citruspers met een behuizing van gegoten metaal en een gegoten, roestvrijstalen perskegel (Quadra-Fin vormgeving met 4 vinnen). Vermogen 110 W.",
+   "Een gehalveerde vrucht met het vruchtvlees omlaag op de perskegel leggen en het fruitdeksel met de arm eroverheen drukken; de arm heeft een siliconen greep.",
+   "Pulpzeef en sapvat zijn van roestvrij staal; de tuit van het sapvat is omhoog te klappen, zodat het sap in het sapvat blijft.",
+   "Reinigen: behuizing met een vochtige doek; perskegel, sapkan, pulpfilter en fruitdeksel met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7f9b582d"
+  ],
+  "requires": [
+   "Citrus Press Pro"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Combi\\ Wave™\\ 3\\-in\\-1\\ airfryer,\\ heteluchtoven\\ en\\ magnetron"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "airfryers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "3-in-1 keukenmachine: airfryer, heteluchtoven en invertermagnetron.",
+   "Capaciteit 32 liter; afmetingen 51,9 x 31,6 x 51,3 cm (BxHxD).",
+   "Element IQ-systeem; 19 ingebouwde slimme voorinstellingen; functies voor luchtfrituren, braden en bakken, opwarmen en ontdooien.",
+   "Functie Snelle combimodus (heteluchtoven, grill en magnetron samen) en functie Bevroren voedsel.",
+   "Volgens de tekst een 80% stillere, zacht sluitende deur en 50% minder geluid tijdens gebruik; kinderslot en dempknop.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "4fe957ad"
+  ],
+  "requires": [
+   "Combi Wave"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Compact\\ Kettle\\ Pure\\ waterkoker\\ 1\\ liter"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kleine waterkoker van 1 liter, gemaakt van roestvrij staal, BPA-vrij kunststof en DURAN-glas; vermogen tot 2400 watt.",
+   "Ruime handgreep met soft-grip coating.",
+   "Het deksel heeft een vertraagd openingssysteem, zodat er geen heet water uit spettert.",
+   "Reinigen met een vochtige doek; zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "ab2ffc85"
+  ],
+  "requires": [
+   "Compact Kettle Pure"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ the\\ Fast\\ Slow\\ GO\\ Multicooker"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": "Om producten onder hoge druk te garen, of als slowcooker.",
+  "bullets": [
+   "Snelkookpan en slowcooker in één, van roestvrij staal met een roestvrijstalen binnenpan; inhoud maximaal 6 liter; vermogen 1100 W.",
+   "14 sneltoetsen: snelkoken, slowcooking, sauteren, stomen en stoven, plus yoghurt maken en sous vide.",
+   "Programma's: Soup, Stock, Meat, Stew, Steam, Sauté, Legumes, Rice/Grains, Risotto, Yoghurt, Reduce en Sous Vide.",
+   "Automatische stoomaflaat; na afloop gaat de multicooker over op de warmhoudstand.",
+   "Behuizing reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "f244a79c"
+  ],
+  "requires": [
+   "Fast Slow GO"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reiniging binnenpan",
+    "websiteSays": "Tekst: \"De binnenpan van de Sage the Fast Slow PRO is vaatwasmachinebestendig.\" (op de GO-pagina); specificaties: Reiniging handafwas.",
+    "note": "De tekst noemt het Pro-model. Vraag na of de binnenpan van de GO in de vaatwasser mag."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Fast\\ Slow\\ Pro\\ Multicooker"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": "Om producten onder hoge druk te garen, of als slowcooker.",
+  "bullets": [
+   "Snelkookpan en slowcooker in één, van roestvrij staal met een aluminium binnenpan met anti-aanbaklaag; minimale inhoud 1 liter, maximale inhoud 6 liter.",
+   "Meegeleverd: stoommand en rooster van roestvrij staal.",
+   "Programma's: Pressure cook (instelbare druk en tijd), Slow cook, Steam, Sear, Saute en Reduce.",
+   "Automatische stoomaflaat; na afloop gaat de multicooker over op de warmhoudstand.",
+   "Reinigen: binnenpan met warm water en afwasmiddel; het deksel is af te nemen en vaatwasmachinebestendig; behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "f569e821"
+  ],
+  "requires": [
+   "Fast Slow Pro"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Fresh\\ \\&\\ Furious\\ blender"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het pureren van fruit en fijnmalen van ijsblokjes.",
+  "bullets": [
+   "Blender met een behuizing van roestvrij staal en een tritan-kunststof mengbeker van 1,5 liter met maataanduiding; vermogen 1300 W.",
+   "4 snelheden, 3 programma's (smoothies, ijs crushen en groene smoothie) en een pulsefunctie.",
+   "Het deksel bevat een maatbeker.",
+   "Reinigen: behuizing met een vochtige doek, losse onderdelen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c59861bf"
+  ],
+  "requires": [
+   "Fresh & Furious"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ No\\-Mess\\ Waffle\\ wafelijzer"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": "Voor het maken van klassieke wafels.",
+  "bullets": [
+   "Wafelijzer van roestvrij staal met ronde bakplaten van gegoten aluminium; vier wafels per keer; vermogen 900 W.",
+   "Draaiknop om de warmte in te stellen (kleur en knapperigheid); indicatorlichtje gaat branden als het wafelijzer op temperatuur is.",
+   "Een geul rondom de bakplaat vangt overstromend beslag op.",
+   "Reinigen: bakplaten met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "095216c3"
+  ],
+  "requires": [
+   "No-Mess"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Nutri\\ Juicer\\ Cold\\ Plus\\ sapcentrifuge\\ "
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Om groenten en fruit te versappen.",
+  "bullets": [
+   "Sapcentrifuge van roestvrij staal met aparte kunststof opvangbakken voor pulp en sap.",
+   "Extra brede toevoerbuis (diameter 88 mm); roestvrijstalen raspschijf en microfilter.",
+   "Cold Spin Technology: de temperatuur van het sap neemt niet meer dan 1°C toe; het sap oxideert minder snel en is volgens de tekst tot wel 3 dagen in de koelkast te bewaren.",
+   "Twee snelheden: snel voor hard fruit en groenten, langzaam voor zacht fruit en bladgroente. Afsluitbare sapkan van 2 liter.",
+   "Deksel, raspschijf, filtermand en sapkan zijn vaatwasmachinebestendig; overige onderdelen met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "d09f287b"
+  ],
+  "requires": [
+   "Cold Plus"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Nutri\\ Juicer\\ Cold\\ sapcentrifuge"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Om groenten en fruit te versappen.",
+  "bullets": [
+   "Sapcentrifuge met een kunststof behuizing en aparte opvangbakken voor pulp en sap; vermogen 1250 W.",
+   "Extra brede toevoerbuis (diameter 84 mm); roestvrijstalen raspschijf, met titanium versterkt, en microfilter.",
+   "Cold Spin Technology: de temperatuur van het sap neemt niet meer dan 1,8 °C toe, waardoor het sap minder snel oxideert.",
+   "Twee snelheden: snel voor hard fruit en groenten, langzaam voor zacht fruit en bladgroente. Afsluitbare sapkan van 2 liter.",
+   "Deksel, raspschijf, filtermand en sapkan zijn vaatwasmachinebestendig; overige onderdelen met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "9a87233c"
+  ],
+  "requires": [
+   "Nutri Juicer Cold"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Nutri\\ Juicer\\ Cold\\ XL\\ sapcentrifuge"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Om groenten en fruit te versappen.",
+  "bullets": [
+   "Sapcentrifuge met een roestvrijstalen behuizing en aparte opvangbakken voor pulp en sap; vermogen 1200 W.",
+   "Extra brede toevoerbuis (diameter 88 mm); roestvrijstalen raspschijf, met titanium versterkt, en microfilter.",
+   "Cold Spin Technology: de temperatuur van het sap neemt niet meer dan 1,5°C toe, waardoor het sap minder snel oxideert.",
+   "Variabele snelheid: zachtere ingrediënten op lagere snelheid dan harde; de laagste stand produceert tot 40% minder mechanisch geluid. Afsluitbare sapkan van 2 liter.",
+   "Onderdelen reinigen met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "859e26f4"
+  ],
+  "requires": [
+   "Cold XL"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Paradice\\ 16\\ keukenmachine\\ Stainless\\ Steel"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": "Voor het snijden, raspen, hakken en mengen van allerlei etenswaren.",
+  "bullets": [
+   "Keukenmachine met een roestvrijstalen behuizing; vermogen 900 W; mengkom van 3,7 liter (BPA-vrij) met opbergbox voor alle accessoires.",
+   "Extra brede vultrechter met duwer (14 cm) om tijdens het draaien eten toe te voegen.",
+   "Accessoires: 8 mm blokjesschijf, 16 mm blokjesschijf, aardappelschrapper, verstelbare plakjesschijf, dubbelzijdige raspschijf, frietschijf, deegmes, Quad blade, Minimes, spatel en reinigingsborstel.",
+   "Reinigen: accessoires met warm water en afwasmiddel; kom en deksel zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "6746d8c6"
+  ],
+  "requires": [
+   "Paradice 16"
+  ],
+  "colours": [
+   "Stainless Steel"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Paradice\\ 9\\ keukenmachine\\ Black\\ Truffle",
+   "Sage\\ The\\ Paradice\\ 9\\ keukenmachine\\ Sea\\ Salt",
+   "Sage\\ The\\ Paradice\\ 9\\ keukenmachine\\ Stainless\\ Steel"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": "Voor het snijden, raspen, hakken en mengen van allerlei etenswaren.",
+  "bullets": [
+   "Keukenmachine met een roestvrijstalen behuizing; vermogen 650 W; mengkom van 2 liter die tevens als opbergbox voor alle accessoires dient.",
+   "Extra brede vultrechter met duwer om tijdens het draaien eten toe te voegen.",
+   "Komt met een mengkom, het Paradice opzetstuk om gelijkmatige blokjes te maken, een rasp, een snijschijf, een mes en een deegmes.",
+   "Volgens de tekst van het raspen van kaas tot het kneden van koekdeeg.",
+   "Reinigen: accessoires met warm water en afwasmiddel; kom en deksel zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "74c04bda",
+   "684f04df",
+   "a7bb4275"
+  ],
+  "requires": [
+   "Paradice 9"
+  ],
+  "colours": [
+   "Black Truffle",
+   "Sea Salt",
+   "Stainless Steel"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ the\\ Perfect\\ Press\\ contactgrill"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": "Voor het krokant en goudbruin bakken van croissantjes, pitabroodjes en tosti's.",
+  "bullets": [
+   "Compacte contactgrill van roestvrij staal met 2 platte platen met een anti-aanbaklaag; ruimte voor 2 broodjes; vermogen 1500 W.",
+   "Crush Control-scharnier: tijdens het bakken precies genoeg druk om de buitenkant te toasten zonder de binnenkant plat te drukken.",
+   "In hoogte verstelbaar, ook voor croissantjes en pitabroodjes. Hittebestendige handgreep.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "99963667"
+  ],
+  "requires": [
+   "Perfect Press"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Q\\ blender"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het pureren van fruit en fijnmalen van ijsblokjes.",
+  "bullets": [
+   "Blender van kunststof met een kunststof mengbeker van 2 liter met maataanduiding.",
+   "5 snelheden en 4 one-touch-programma's: smoothies, groene smoothies, auto pulse voor ijsblokjes en soepen verwarmen.",
+   "Clip & Secure-deksel: ontworpen voor mixen op hoge snelheid, laat stoom ontsnappen en voorkomt spatten.",
+   "Reinigen: behuizing met een vochtige doek, losse onderdelen met warm water en afwasmiddel, of met het one-touch-programma voor reinigen."
+  ],
+  "keys": [
+   "0e5e0617"
+  ],
+  "requires": [
+   "The Q blender"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Risotto\\ Plus\\ Multicooker"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Multicooker van roestvrij staal met een aluminium binnenpan met anti-aanbaklaag en een gehard glazen deksel; inhoud 3,7 liter; vermogen 750 W.",
+   "Programma's: Risotto, Sauté|Sear, Rice|Steam, Slow Cook Low, Slow Cook High en Keep Warm.",
+   "De programma's zijn volautomatisch; na afloop schakelt de warmhoudfunctie in.",
+   "Reinigen: binnenpan met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "0c24ce95"
+  ],
+  "requires": [
+   "Risotto Plus"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Smart\\ Grill\\ Pro\\ contactgrill"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Contactgrill van roestvrij staal met verwijderbare platen met een anti-aanbaklaag; verwarmingselementen met een maximaal vermogen van 2400 watt.",
+   "Geïntegreerd verwarmingselement en elektronische temperatuurregelaar; 5 voorgeprogrammeerde instellingen voor rundvlees, lam, varkensvlees, gevogelte en vis.",
+   "Thermometer: via het lcd-scherm de gewenste gaarheid en de rusttemperatuur kiezen.",
+   "Volledig open te klappen voor een grill- en bakoppervlak van 660 cm²; bovenplaat verstelbaar; hittebestendige handgreep.",
+   "Verwijderbare lekbak; grillplaten vaatwasmachinebestendig, behuizing afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "24283142"
+  ],
+  "requires": [
+   "Smart Grill Pro"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Smart\\ Kettle\\ waterkoker"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Waterkoker van geborsteld roestvrij staal; inhoud 1,7 liter; vermogen 3000 W.",
+   "5 temperatuurinstellingen voor groene, witte en zwarte thee, oolong en cafetièrekoffie; houdt het water tot wel 20 minuten op temperatuur.",
+   "Tijd en temperatuur instellen; schakelt zichzelf uit en heeft een bescherming tegen droogkoken.",
+   "Het deksel heeft een vertraagd openingssysteem. Reinigen met een vochtige doek; zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "5f6f3d75"
+  ],
+  "requires": [
+   "Smart Kettle"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Smart\\ Oven\\ airfryer"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "airfryers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Airfryer en heteluchtoven van geborsteld roestvrij staal; vermogen 2400 W; afmetingen 47 cm breed, 37 cm diep en 28 cm hoog.",
+   "10 bereidingsprogramma's: Toast, Crumpet, Bake, Roast, Grill, Pizza, Air Fry, Reheat, Warm en Slow Cook.",
+   "Geleverd met een Airfry-mandje, een emaillen braadslede, een pizzaplaat en een grillrooster.",
+   "PID-control voor een gelijkmatige temperatuur; ovenlampje en groot LCD-display.",
+   "Reinigen: roosters en rekken met warm water en afwasmiddel, de oven binnen en buiten met een vochtige doek."
+  ],
+  "keys": [
+   "89cb7111"
+  ],
+  "requires": [
+   "Smart Oven"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Smart\\ Scoop\\ zelfvriezende\\ ijsmachine"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "ijsmachines"
+  ],
+  "suitedFor": "Om zelf verschillende ijssoorten te maken.",
+  "bullets": [
+   "Zelfvriezende ijsmachine met een effectieve inhoud van 1 liter; vermogen 200 W.",
+   "Voorkoelfunctie en koudhoudfunctie; draaiknop voor 12 ijstexturen, van zacht tot hard; transparant deksel.",
+   "Geleverd met uitneembare ijsemmer, uitneembare roerspatel, reinigingsborstel en gebruiksaanwijzing; alle onderdelen BPA-vrij.",
+   "Reinigen: buitenzijde met een vochtige doek, losse onderdelen met warm water en een milde zeep."
+  ],
+  "keys": [
+   "8c717066"
+  ],
+  "requires": [
+   "Smart Scoop"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Smart\\ Toast\\ broodrooster\\ 2\\ sleuven"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het verwarmen, ontdooien of toasten van brood.",
+  "bullets": [
+   "Broodrooster voor tot twee sneeën brood, van roestvrij staal met matte finish; vermogen 1000 W.",
+   "5 verschillende standen; blauwe ledverlichting toont de voortgang.",
+   "Verwijderbare kruimellade.",
+   "Reinigen: buitenzijde met een vochtige doek, losse onderdelen met warm water en een milde zeep."
+  ],
+  "keys": [
+   "29b8a38b"
+  ],
+  "requires": [
+   "Smart Toast"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Smart\\ Toast\\ broodrooster\\ 4\\ sleuven"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het verwarmen, ontdooien of toasten van brood.",
+  "bullets": [
+   "Broodrooster voor tot vier sneeën brood, van roestvrij staal met matte finish; vermogen 1900 W.",
+   "5 verschillende standen; blauwe ledverlichting toont de voortgang.",
+   "Verwijderbare kruimellade.",
+   "Reinigen: buitenzijde met een vochtige doek, losse onderdelen met warm water en een milde zeep."
+  ],
+  "keys": [
+   "5beff466"
+  ],
+  "requires": [
+   "Smart Toast"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Smart\\ Waffle\\ Pro\\ wafelijzer"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": "Voor het maken van Belgium, Classic, Chocolate of Buttermilk wafels.",
+  "bullets": [
+   "Wafelijzer van roestvrij staal met vierkante bakplaten van gegoten aluminium; twee wafels per keer; vermogen 1000 W.",
+   "Twee draaiknoppen om de warmte in te stellen; 12 standen; indicatorlichtje gaat branden als het wafelijzer op temperatuur is.",
+   "Een geul rondom de bakplaat vangt overstromend beslag op.",
+   "Reinigen: bakplaten met warm water en afwasmiddel, behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "dc11f39e"
+  ],
+  "requires": [
+   "Smart Waffle Pro"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst noemt ander model",
+    "websiteSays": "\"Reinig de bakplaten van het No-Mess wafelijzer met warm water en afwasmiddel.\"",
+    "note": "Tekst van het No-Mess Waffle model. Vraag na of dit ook voor de Smart Waffle Pro geldt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Soft\\ Top\\ Luxe\\ Kettle\\ waterkoker\\ Black\\ Stainless\\ Steel",
+   "Sage\\ The\\ Soft\\ Top\\ Luxe\\ Kettle\\ waterkoker\\ Black\\ Truffle",
+   "Sage\\ The\\ Soft\\ Top\\ Luxe\\ Kettle\\ waterkoker\\ Damson\\ Blue",
+   "Sage\\ The\\ Soft\\ Top\\ Luxe\\ Kettle\\ waterkoker\\ rvs",
+   "Sage\\ The\\ Soft\\ Top\\ Luxe\\ Kettle\\ waterkoker\\ Sea\\ Salt"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Waterkoker van roestvrij staal en BPA-vrij kunststof; inhoud 1,7 liter; vermogen tot 2400 watt.",
+   "Het deksel heeft een vertraagd openingssysteem, zodat er geen heet water uit spettert.",
+   "Zichtvenster aan weerszijden om het waterniveau af te lezen; verlichte aan-schakelaar; roestvrijstalen handgreep.",
+   "Reinigen met een vochtige doek; zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "16538d2e",
+   "fa9bdca3",
+   "e3b5aaf2",
+   "62094500"
+  ],
+  "requires": [
+   "Soft Top Luxe"
+  ],
+  "colours": [
+   "Black Stainless Steel",
+   "Black Truffle",
+   "Damson Blue",
+   "rvs",
+   "Sea Salt"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur: Damson Blue",
+    "websiteSays": "Naam: Damson Blue; tekst: \"met een zwarte, roestvrijstalen buitenzijde\"; specificaties: Kleur zwart.",
+    "note": "Controleer de kleur van de Damson Blue uitvoering.",
+    "only": null
+   }
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Super\\ Q\\ blender\\ Stainless\\ Steel"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het pureren van fruit en fijnmalen van ijsblokjes.",
+  "bullets": [
+   "Hogesnelheidsblender met een behuizing van roestvrij staal; vermogen 1520 W.",
+   "Tritan-kunststof mengbeker van 2 liter en een tritan mengbeker van 700 ml; mengkom met maataanduiding.",
+   "12 snelheden, 5 programma's en een pulsefunctie.",
+   "Door de krachtige motor snijdt de blender volgens de tekst met tot 300 km/u; ideaal voor het superfijn maken van producten.",
+   "Reinigen: behuizing met een vochtige doek, losse onderdelen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0b34d678"
+  ],
+  "requires": [
+   "Super Q"
+  ],
+  "colours": [
+   "Stainless Steel"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Tea\\ Maker\\ Compact\\ waterkoker"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Waterkoker en theemaker van roestvrij staal en glas; inhoud 1 liter; vermogen 1600 W.",
+   "Kan ook als theepot worden gebruikt: losse thee in het filter; het filter zakt in het hete water en gaat daarna weer omhoog.",
+   "5 temperatuurinstellingen en 3 instellingen voor de thee-intensiteit; met de 1-touch-functie blijft de thee 20 minuten warm.",
+   "Reinigen met een vochtige doek; zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "1c6dc089"
+  ],
+  "requires": [
+   "Tea Maker Compact"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Tea\\ Maker\\ waterkoker\\ 1,5\\ liter"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Waterkoker en theemaker van roestvrij staal en glas; inhoud 1,5 liter; vermogen 2000 W.",
+   "Kan ook als theepot worden gebruikt: losse thee in het filter; het filter zakt in het hete water en gaat daarna weer omhoog.",
+   "5 voorgeprogrammeerde instellingen; temperatuursensor met realtime weergave op het LCD-scherm.",
+   "Schakelt zichzelf uit en heeft een bescherming tegen droogkoken.",
+   "Reinigen met een vochtige doek; zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "c554b3f7"
+  ],
+  "requires": [
+   "Tea Maker"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Toast\\ Select\\ Luxe\\ broodrooster\\ 2\\ sleuven\\ Black\\ Stainless\\ Steel",
+   "Sage\\ The\\ Toast\\ Select\\ Luxe\\ broodrooster\\ 2\\ sleuven\\ Black\\ Truffle",
+   "Sage\\ The\\ Toast\\ Select\\ Luxe\\ broodrooster\\ 2\\ sleuven\\ Damson\\ Blue",
+   "Sage\\ The\\ Toast\\ Select\\ Luxe\\ broodrooster\\ 2\\ sleuven\\ Sea\\ Salt"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het toasten, ontdooien of verwarmen van verschillende soorten brood.",
+  "bullets": [
+   "Broodrooster met plaats voor twee sneeën brood, met een roestvrijstalen bekleding aan de buitenkant; vermogen 1000 W.",
+   "6 broodsoorten instelbaar: wit, bruin, fruit-, rogge-, meergranenbrood en crumpets.",
+   "Lift & look-functie om de voortgang te volgen; knop 'a bit more' om na afloop nog iets langer te roosteren.",
+   "Timer op de zijkant visualiseert het toastproces; uitneembare kruimellade.",
+   "Reinigen: buitenzijde met een vochtige doek, losse onderdelen met warm water en een milde zeep."
+  ],
+  "keys": [
+   "05254127",
+   "ac3847c9",
+   "46bdf920",
+   "58eeca3f"
+  ],
+  "requires": [
+   "a bit more"
+  ],
+  "colours": [
+   "Black Stainless Steel",
+   "Black Truffle",
+   "Damson Blue",
+   "Sea Salt"
+  ]
+ },
+ {
+  "match": [
+   "Sage\\ The\\ Vac\\ Q\\ vacuümpomp\\ voor\\ blender"
+  ],
+  "brandID": "sage",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vacuümpomp voor gebruik met de blenders uit de Sage Q-serie; vacumeert de blenderkan vóór het blenden.",
+   "Werkt op 4 AA-batterijen.",
+   "Doordat luchtbelletjes uit het product worden verwijderd verkleurt het product minder snel en wordt het resultaat gladder en romiger.",
+   "Niet geschikt voor smoothies op melkbasis: die hebben juist baat bij lucht in de blenderkan.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "b4a493f8"
+  ],
+  "requires": [
+   "Vac Q"
+  ]
+ }
+]

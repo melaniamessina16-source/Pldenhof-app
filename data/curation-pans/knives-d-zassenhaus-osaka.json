@@ -1,0 +1,21 @@
+[
+ {
+  "match": [
+   "Zassenhaus\\ Osaka\\ koksmes\\ 20\\ cm\\ olijfhout",
+   "Zassenhaus\\ Osaka\\ nakiri\\ 18\\ cm\\ olijfhout",
+   "Zassenhaus\\ Osaka\\ santoku\\ 13\\ cm\\ olijfhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een Zassenhaus Osaka-mes met een olijfhouten heft (volgens de productnaam).",
+  "bullets": [
+   "Zassenhaus Osaka met olijfhouten heft (mes en maat: zie productnaam).",
+   "De website geeft voor deze messen geen beschrijving en geen specificaties; verdere kenmerken ontbreken daarom."
+  ],
+  "keys": [
+   "c65f37b2"
+  ]
+ }
+]

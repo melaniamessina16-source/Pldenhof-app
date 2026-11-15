@@ -1,0 +1,47 @@
+[
+ {
+  "match": [
+   "Chef's\\ Choice\\ 120\\ drietraps\\ elektrische\\ messenslijper\\ rvs\\ mat"
+  ],
+  "brandID": "chefschoice",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Chef's Choice 120 elektrische messenslijper van roestvast staal (mat).",
+   "Drietraps elektrische messenslijper: 2 sleuven met diamanten slijpwielen en 1 sleuf met een speciaal polijstwiel.",
+   "Stap 1 creëert de juiste slijphoek, stap 2 verfijnt de snede en stap 3 polijst het lemmet; polijsten brengt de originele scherpte terug.",
+   "Geschikt voor westerse messen; gekartelde messen slijpt u met stap 3.",
+   "Veerkrachtige mesgeleiders zorgen dat u altijd in de goede hoek slijpt; u trekt het mes langzaam door de sleuven.",
+   "Te gebruiken in de huiselijke en in de professionele keuken.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "14f514a7"
+  ],
+  "brandName": "Chef's choice"
+ },
+ {
+  "match": [
+   "Chef's\\ Choice\\ 120\\ drietraps\\ elektrische\\ messenslijper\\ wit"
+  ],
+  "brandID": "chefschoice",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Chef's Choice 120 elektrische messenslijper van kunststof, wit.",
+   "Drietraps elektrische messenslijper: 2 sleuven met diamanten slijpwielen en 1 sleuf met een speciaal polijstwiel.",
+   "Stap 1 creëert de juiste slijphoek, stap 2 verfijnt de snede en stap 3 polijst het lemmet; polijsten brengt de originele scherpte terug.",
+   "Geschikt voor westerse messen; gekartelde messen slijpt u met stap 3.",
+   "Veerkrachtige mesgeleiders zorgen dat u altijd in de goede hoek slijpt; u trekt het mes langzaam door de sleuven.",
+   "Te gebruiken in de huiselijke en in de professionele keuken.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "5d46c7a2"
+  ]
+ }
+]

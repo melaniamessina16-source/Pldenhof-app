@@ -1,0 +1,82 @@
+[
+ {
+  "match": [
+   "Birkmann\\ Cake\\ Lifter\\ taartmes\\ 24\\ cm\\ kunststof\\ grijs"
+  ],
+  "brandID": "birkmann",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het veilig verwijderen van taarten en cakes uit bakvormen met een gevoelige antiaanbaklaag.",
+  "bullets": [
+   "Birkmann Cake Lifter taartmes, 24 cm lang, van polypropeen.",
+   "Speciaal ontworpen voor het veilig verwijderen van taarten en cakes uit bakvormen met een gevoelige antiaanbaklaag.",
+   "Het voedselveilige kunststof beschadigt de taartvormen niet."
+  ],
+  "keys": [
+   "7395b46e"
+  ],
+  "brandName": "Birkmann",
+  "requires": [
+   "antiaanbaklaag",
+   "polypropeen"
+  ],
+  "colours": [
+   "grijs"
+  ]
+ },
+ {
+  "match": [
+   "Birkmann\\ mini\\ geknikt\\ paletmes\\ 8\\ cm\\ rvs"
+  ],
+  "brandID": "birkmann",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het afwerken van een afstrijklaag over uw baksel, of als keerspatel in een pan zonder anti-aanbaklaag.",
+  "bullets": [
+   "Birkmann mini geknikt paletmes, 8 cm, van roestvrij staal met een kunststof handgreep.",
+   "Door de knik in het lemmet komen er geen vingerafdrukken in glazuur of crème.",
+   "Voor het afwerken van een afstrijklaag over uw baksel, of als keerspatel in een pan zonder anti-aanbaklaag.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "ae44cae1"
+  ],
+  "requires": [
+   "afstrijklaag",
+   "knik in het lemmet"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lengte lemmet ontbreekt in de tekst",
+    "websiteSays": "De tekst zegt: \"Het lemmet heeft een lengte van cm.\" (geen getal).",
+    "note": "Het getal ontbreekt op de website; de lengte staat alleen in de naam (8 cm)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Birkmann\\ taartschep\\ /\\ taartmes\\ 30\\ cm\\ kunststof\\ grijs"
+  ],
+  "brandID": "birkmann",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Om je taart aan te snijden en te serveren.",
+  "bullets": [
+   "Birkmann taartschep / taartmes, 30 cm lang, van polypropeen.",
+   "Als mes en als schep te gebruiken om taart te serveren.",
+   "Snij de taart aan met de kartelrand van de schep en serveer hem met dezelfde tool."
+  ],
+  "keys": [
+   "e718363b"
+  ],
+  "requires": [
+   "kartelrand"
+  ],
+  "colours": [
+   "grijs"
+  ]
+ }
+]

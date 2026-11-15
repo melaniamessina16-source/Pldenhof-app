@@ -1,0 +1,738 @@
+[
+ {
+  "match": [
+   "Oldenhof\\ Konro\\ Grill\\ Diatomite\\ Japanse\\ barbecue\\ B\\-10\\ 54\\ x\\ 23\\ x\\ 20\\ cm\\ ",
+   "Oldenhof\\ Konro\\ Grill\\ Diatomite\\ Japanse\\ barbecue\\ B\\-11\\ 77\\ x\\ 23\\ x\\ 20\\ cm\\ "
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Voor het grillen van lange vleesspiesen zoals yakitori, maar ook van andere soorten vlees, vis of groenten.",
+  "bullets": [
+   "Oldenhof Konro Grill: originele Japanse barbecue (Diatomite), ontworpen voor lange vleesspiesen zoals yakitori.",
+   "De zijden zijn van Diatomite (diatomeeënaarde), dat een groot warmte-isolerend vermogen heeft.",
+   "Zowel buiten als binnen te gebruiken; zorg binnen voor goede ventilatie.",
+   "Schuifjes aan de zijkanten om de warmte te regelen; handgrepen om de grill te verplaatsen.",
+   "Maat en aantal grillroosters verschillen per model (B-10, B-11): zie productnaam en specificaties.",
+   "Reinigen met een droge borstel en nooit met water: het materiaal verliest dan zijn warmte-isolerende werking."
+  ],
+  "keys": [
+   "c31db7b3"
+  ],
+  "brandName": "Oldenhof"
+ },
+ {
+  "match": [
+   "Oldenhof\\ Konro\\ Grill\\ Diatomite\\ Japanse\\ barbecue\\ B\\-9\\ 31\\ x\\ 23\\ x\\ 20\\ cm\\ "
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oldenhof Konro Grill Diatomite Japanse barbecue B-9: 31 cm lang, 23 cm breed en 20 cm hoog, met 1 grillrooster.",
+   "Materiaal volgens de specificaties: steen. Reiniging volgens de specificaties: handafwas."
+  ],
+  "keys": [
+   "a979f060"
+  ],
+  "brandName": "Oldenhof"
+ },
+ {
+  "match": [
+   "Rösle\\ barbecue\\-grillspatel\\ 25\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het omkeren van vlees, vis of pannenkoeken en voor het schoonmaken van de grill.",
+  "bullets": [
+   "Rösle barbecue-grillspatel van roestvrij staal; blad 11 cm lang en 10 cm breed.",
+   "Ook te gebruiken voor het keren en serveren van vis of vlees.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "d3de6444"
+  ],
+  "brandName": "Rösle",
+  "mismatches": [
+   {
+    "topic": "Lengte",
+    "websiteSays": "Naam en specificaties: 25 cm; tekst: totale lengte 25,5 cm",
+    "note": "Afronding; controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ barbecue\\ reinigingsborstel\\ 30\\ cm",
+   "Rösle\\ barbecue\\ reinigingsborstel\\ 43\\ cm"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Geschikt voor elk type grillrooster.",
+  "bullets": [
+   "Rösle barbecue reinigingsborstel: roestvrijstalen handgreep en verwisselbare messing borstels.",
+   "Voor roosters van roestvrij staal, gietijzer of chroom.",
+   "Na gebruik op te hangen aan het oog.",
+   "Lengte verschilt per uitvoering (30 of 43 cm): zie productnaam.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "db3b0e92"
+  ],
+  "brandName": "Rösle"
+ },
+ {
+  "match": [
+   "Rösle\\ Premium\\ barbecuehandschoen\\ 2\\ stuks"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om de handen en onderarmen te beschermen tegen hitte en vonken tijdens het barbecueën.",
+  "bullets": [
+   "Rösle Premium barbecuehandschoen, set van 2 stuks, van vlamwerend materiaal met siliconen opdruk voor extra grip.",
+   "Langer uitgevoerd, zodat de onderarmen ook beschermd zijn.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "67085e14"
+  ],
+  "brandName": "Rösle"
+ },
+ {
+  "match": [
+   "Rösle\\ barbecue\\ visrek\\ 30\\ cm\\ rvs\\ glans\\ 3\\-delig"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het grillen van complete vissen op de barbecue, op de buik of ruggelings.",
+  "bullets": [
+   "Rösle barbecue visrek van roestvrij staal, 30 cm lang, 7 cm breed en 7,5 cm hoog.",
+   "De beugels zijn verstelbaar; de huid van de vis blijft onbeschadigd.",
+   "Genoemd voor hele vissen, zoals forel.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "f60d843e"
+  ],
+  "brandName": "Rösle",
+  "mismatches": [
+   {
+    "topic": "Aantal delen",
+    "websiteSays": "Naam: 3-delig; tekst noemt geen onderdelen",
+    "note": "Controleren wat de drie delen zijn."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ BBQ\\ hamburgerpers\\ ø\\ 11\\ cm\\ aluminium"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om stevige hamburgers te maken die tijdens het grillen niet uit elkaar vallen.",
+  "bullets": [
+   "Rösle BBQ hamburgerpers van aluminium; de hamburgervorm heeft een diameter van 11 cm.",
+   "Brengt een kenmerkende groef aan in de hamburger; opstaande randen geven groeven voor een optimaal gaarproces.",
+   "Voor hamburgers van diverse soorten vlees of zelfs groenten.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a3ed04fa"
+  ],
+  "brandName": "Rösle"
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ BBQ\\ Outdoor\\ bakspaan\\ rvs"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het omdraaien en keren van alles, van steaks tot zeevruchten tot pannenkoeken, op de grill of barbecue.",
+  "bullets": [
+   "Le Creuset BBQ Outdoor bakspaan van roestvrij staal, totale lengte 45 cm.",
+   "Dunne voorkant glijdt onder delicate visfilets; brede sleuven laten vet van hamburgers weglopen.",
+   "Ribben aan de zijkanten helpen bij het schoonmaken van grillroosters; ingebouwde flesopener.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "6e1453a5"
+  ],
+  "brandName": "Le Creuset"
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ BBQ\\ Outdoor\\ grillkorf\\ vierkant\\ 30\\ cm\\ gietijzer"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "bbq-accessoires",
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het grillen en roerbakken van diverse kleinere ingrediënten.",
+  "bullets": [
+   "Le Creuset BBQ Outdoor grillkorf van matzwart geëmailleerd gietijzer.",
+   "Geschikt voor de barbecue of open vuur tot 450 °C.",
+   "Gietijzer verwarmt gelijkmatig en houdt de warmte lang vast; emaille maakt inbranden overbodig.",
+   "Extra grote grepen, handig met barbecuehandschoenen.",
+   "Reinigen met warm water en afwasmiddel (handafwas)."
+  ],
+  "keys": [
+   "fc0b8803"
+  ],
+  "brandName": "Le Creuset",
+  "mismatches": [
+   {
+    "topic": "Afmeting",
+    "websiteSays": "Naam en tekst: 30 cm vierkant; specificaties: lengte 38,8 cm, breedte 30,6 cm",
+    "note": "Waarschijnlijk met grepen gemeten; controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ BBQ\\ Outdoor\\ pizzapan\\ ø\\ 35\\ cm\\ gietijzer"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "bbq-accessoires",
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van pizza's op de barbecue met een knapperige bodem.",
+  "bullets": [
+   "Le Creuset BBQ Outdoor pizzapan van matzwart geëmailleerd gietijzer, diameter 35 cm.",
+   "Geschikt voor de barbecue of open vuur tot 450 °C.",
+   "Gietijzer verwarmt gelijkmatig en houdt de warmte lang vast; emaille maakt inbranden overbodig.",
+   "Reinigen met warm water en afwasmiddel (handafwas)."
+  ],
+  "keys": [
+   "e1d9cbe0"
+  ],
+  "brandName": "Le Creuset"
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ BBQ\\ Outdoor\\ tang\\ rvs"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het omdraaien en keren van alles, van steaks tot hamburgers, op de grill of barbecue.",
+  "bullets": [
+   "Le Creuset BBQ Outdoor tang van roestvrij staal, totale lengte 45 cm."
+  ],
+  "keys": [
+   "04d950ed"
+  ],
+  "brandName": "Le Creuset"
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ BBQ\\ Outdoor\\ barbecuevork\\ rvs"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het omdraaien en keren van alles, van steaks tot hamburgers, op de grill of barbecue.",
+  "bullets": [
+   "Le Creuset BBQ Outdoor barbecuevork van roestvrij staal, totale lengte 45 cm."
+  ],
+  "keys": [
+   "61c7f32b"
+  ],
+  "brandName": "Le Creuset"
+ },
+ {
+  "match": [
+   "Ooni\\ Karu\\ 12\\ houtskool\\ pizza\\-oven\\ rvs"
+  ],
+  "brandID": "ooni",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Voor het bakken van pizza's tot 33 cm.",
+  "bullets": [
+   "Ooni Karu 12 pizza-oven van roestvrij staal, aan de binnenzijde keramisch geïsoleerd.",
+   "Gestookt met hout of houtskool; authentieke pizza's in 60 seconden.",
+   "Klaar voor gebruik in 10 minuten en bereikt 500 °C.",
+   "Gewicht slechts 12 kg: eenvoudig te verplaatsen en mee te nemen; afmetingen 77 x 40 x 80 cm.",
+   "Inclusief extra dikke Ooni pizzasteen.",
+   "Geschikt te maken voor gas met de los te kopen gasbrander Karu."
+  ],
+  "keys": [
+   "28039ac8"
+  ],
+  "brandName": "Ooni"
+ },
+ {
+  "match": [
+   "Ooni\\ Karu\\ 2\\ houtskool\\ pizza\\-oven"
+  ],
+  "brandID": "ooni",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Ooni Karu 2 pizza-oven van roestvrij staal met poedercoating in grijs antraciet; keramisch geïsoleerde behuizing.",
+   "Clearview-deur van boroscilaatglas voorkomt roet en asvorming op het glas, voor goed zicht op het bakproces.",
+   "Brandstof volgens de specificaties: hout, houtskool, optioneel gas."
+  ],
+  "keys": [
+   "995c7ce0"
+  ],
+  "brandName": "Ooni"
+ },
+ {
+  "match": [
+   "Ooni\\ Karu\\ 2\\ Pro\\ houtskool\\ pizza\\-oven"
+  ],
+  "brandID": "ooni",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Voor pizza's tot een maximale diameter van 40 cm; ook voor brood bakken en het roosteren van groente, vlees en vis.",
+  "bullets": [
+   "Ooni Karu 2 Pro pizzaoven van roestvrij staal met keramisch geïsoleerde behuizing en antraciet grijze poedercoating.",
+   "Extra ruim: 83 cm hoog, 50 cm breed en 83 cm diep.",
+   "Ruime deur van boroscilaatglas met ViewFlame-technologie om het bereidingsproces te volgen zonder de oven te openen.",
+   "Stoken met hout of houtskool, of met de uitbreiding ook op gas; klaar voor gebruik in 15 minuten, tot 500 °C, pizza in 60 seconden.",
+   "Digitale temperatuur hub toont de oventemperatuur op de display of via Bluetooth op de telefoon."
+  ],
+  "keys": [
+   "515f4c14"
+  ],
+  "brandName": "Ooni"
+ },
+ {
+  "match": [
+   "Ooni\\ pizzasteen\\ voor\\ Karu\\ 16"
+  ],
+  "brandID": "ooni",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het bakken van pizza's, brood en koekjes in uw Ooni pizzaoven.",
+  "bullets": [
+   "Ooni pizzasteen voor de Karu 16: 62 cm lang en 42 cm breed, zodat de hele oppervlakte van de oven benut wordt.",
+   "Gemaakt van cordieriet keramiek dat op zeer hoge temperatuur is afgebakken; steenoven-effect.",
+   "Laat de steen enige tijd opwarmen voor een krokante pizzabodem.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a2440bce"
+  ],
+  "brandName": "Ooni"
+ },
+ {
+  "match": [
+   "Ooni\\ pizzasteen\\ voor\\ Koda\\ 16"
+  ],
+  "brandID": "ooni",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het bakken van pizza's, brood en koekjes in uw Ooni pizzaoven.",
+  "bullets": [
+   "Ooni pizzasteen voor de Koda 16.",
+   "Volgens de specificaties 52 cm lang en 42 cm breed, handafwas."
+  ],
+  "keys": [
+   "273a57dd"
+  ],
+  "brandName": "Ooni"
+ },
+ {
+  "match": [
+   "Emile\\ Henry\\ BBQ\\ Cheese\\ baker\\ ø\\ 15,5\\ cm\\ zwart"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het serveren van traditionele kaasgerechten, bijvoorbeeld gegrilde Camembert, geitenkaas of brie uit de barbecue.",
+  "bullets": [
+   "Emile Henry BBQ cheese baker: zwarte schaal van geglazuurd aardewerk, 18 x 10 cm met binnenmaat 15,5 cm, twee greepjes.",
+   "Met deksel om het gerecht warm te houden of af te dekken.",
+   "Non-poreus; geschikt voor oven, vriezer en magnetron.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "212ab7f3"
+  ],
+  "brandName": "Emile Henry"
+ },
+ {
+  "match": [
+   "Emile\\ Henry\\ BBQ\\ Fish\\ grill\\ ovaal\\ 42,5\\ x\\ 25\\ cm\\ zwart"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het grillen van visgerechten op de barbecue of in de oven.",
+  "bullets": [
+   "Emile Henry BBQ Fish grill: zwarte ovale schaal van geglazuurd aardewerk; 42,5 cm lang, 25 cm breed, 6 cm hoog; inhoud 2,4 liter.",
+   "Geschikt voor barbecue, oven, vriezer en magnetron; bestand tegen -20 °C tot +270 °C.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "8d292833"
+  ],
+  "brandName": "Emile Henry"
+ },
+ {
+  "match": [
+   "Emile\\ Henry\\ pizzasteen\\ ø\\ 37\\ cm\\ keramiek\\ Fusain"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Emile Henry pizzasteen Fusain van zwart geglazuurd aardewerk; binnendiameter 36,5 cm, met grepen 37 cm.",
+   "Voor het bakken van pizza of brood met een krokante korst en zachte binnenkant; te gebruiken in de oven of barbecue.",
+   "Bestendig tot 290 °C; met de oven mee verwarmen om plotselinge temperatuurschommelingen te voorkomen.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "bb9d40c0"
+  ],
+  "brandName": "Emile Henry"
+ },
+ {
+  "match": [
+   "Emile\\ Henry\\ pizzasteen\\ ø\\ 37\\ cm\\ keramiek\\ Grand\\ Cru"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Emile Henry pizzasteen Grand Cru van rood geglazuurd aardewerk.",
+   "Specificaties: lengte 37 cm (inclusief grepen; binnendiameter 36,5 cm), hoogte 3,3 cm, vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "b63d3170"
+  ],
+  "brandName": "Emile Henry"
+ },
+ {
+  "match": [
+   "Gefu\\ BBQ\\ hamburgerpers\\ kunststof\\ grijs"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om stevige hamburgers te maken die tijdens het grillen minder snel uit elkaar vallen.",
+  "bullets": [
+   "Gefu BBQ hamburgerpers van aluminium met levensmiddelveilige coating en kunststof handvat; diameter 11,8 cm.",
+   "Geschikt voor klassieke burgers van 120 gr of king-size burgers van 180 gr vlees.",
+   "Brengt een kenmerkende groef aan in de hamburger.",
+   "Vaatwasmachinebestendig, maar blijft het mooist bij handafwas."
+  ],
+  "keys": [
+   "2cbb50e4"
+  ],
+  "brandName": "Gefu"
+ },
+ {
+  "match": [
+   "Gefu\\ BBQ\\ Smashburgerpers"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor smash burgers, bacon, steaks en gegrilde aardappelen.",
+  "bullets": [
+   "Gefu BBQ Smashburgerpers van roestvrij staal met handgreep van walnotenhout; diameter 16 cm.",
+   "Plaat van 5 mm dik roestvrij staal voor een gelijkmatige drukverdeling; vlak, glad oppervlak met natuurlijk anti-aanbakeffect.",
+   "Drukt het vlees gelijkmatig aan op de bakplaat of grill voor een karakteristieke korst.",
+   "Handafwas (specificaties)."
+  ],
+  "keys": [
+   "5dbe98ec"
+  ],
+  "brandName": "Gefu"
+ },
+ {
+  "match": [
+   "Gefu\\ Special\\ langwerpige\\ barbecuemand\\ 50\\ cm\\ rvs"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het grillen en garen van groenten, vis, vlees of een mix op de barbecue, zonder spiesen of prikkers.",
+  "bullets": [
+   "Gefu Special langwerpige barbecuemand van roestvrij staal met kunststof handvat, 50 cm lang.",
+   "Met sluiting die eenvoudig te openen is maar volledig afsluit als de mand op de barbecue ligt.",
+   "Hittebestendig, makkelijk te reinigen en corrosiebestendig.",
+   "In de afwasmachine of met de hand te reinigen."
+  ],
+  "keys": [
+   "3518d068"
+  ],
+  "brandName": "Gefu"
+ },
+ {
+  "match": [
+   "Oldenhof\\ barbecueborstel\\ met\\ messing\\ haren\\ 43\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oldenhof barbecuereinigingsborstel van roestvrij staal met messing borstelharen en soft-touch handvat; 43 cm lang.",
+   "Schraper aan het uiteinde voor hardnekkig vuil.",
+   "De messing haren zijn geschikt voor verchroomde barbecueroosters.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8a2f772c"
+  ],
+  "brandName": "Oldenhof"
+ },
+ {
+  "match": [
+   "Oldenhof\\ barbecuetang\\ 45\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het keren van etenswaren op de barbecue.",
+  "bullets": [
+   "Oldenhof barbecuetang van roestvrij staal met zwarte kunststof greep, 45 cm lang.",
+   "Door de lengte veilig te gebruiken tijdens het barbecueën.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e60602d9"
+  ],
+  "brandName": "Oldenhof"
+ },
+ {
+  "match": [
+   "Oldenhof\\ soft\\ touch\\ barbecuepincet\\ 43\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oldenhof soft touch barbecuepincet (tang) van roestvrij staal, 43 cm lang, met zwarte soft touch handgreep.",
+   "De bekken zijn vertand voor een goede grip, ook op zware stukken vlees.",
+   "De lengte beschermt handen en armen tegen vlammen en hitte.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ba5e9dc2"
+  ],
+  "brandName": "Oldenhof"
+ },
+ {
+  "match": [
+   "Küchenprofi\\ Phoenix\\ barbecueset\\ rvs\\ 8\\-delig"
+  ],
+  "brandID": "kuchenprofi",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Küchenprofi Phoenix barbecueset, 8-delig, van roestvrij staal in een zwarte aluminium koffer.",
+   "Bestaat uit een spatel, een tang, een barbecuevork, een grillborstel en 4 spiezen.",
+   "De koffer maakt het vervoer van de onderdelen gemakkelijk.",
+   "Set vaatwasmachinebestendig; koffer reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "11d98018"
+  ],
+  "brandName": "Küchenprofi"
+ },
+ {
+  "match": [
+   "Konro\\ houtskool\\ Japanse\\ stijl\\ lychee\\ hout\\ 5\\ kg"
+  ],
+  "brandID": "tdk",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het grillen van allerlei gerechten in een kleine barbecue of grill.",
+  "bullets": [
+   "Konro houtskool, Japanse stijl, van lychee hout; verpakking van 5 kg.",
+   "Binchotan houtskool ontsteekt sneller dan gewoon houtskool, brandt extreem lang en gelijkmatig en geeft veel minder rook en as dan bijvoorbeeld briketten.",
+   "Creëert infraroodstraling bij het branden, wat het eten een speciale umami smaak geeft."
+  ],
+  "keys": [
+   "a3687a4a"
+  ],
+  "brandName": "TDK"
+ },
+ {
+  "match": [
+   "Tiseco\\ barbecuehandschoen\\ 36\\ x\\ 19\\ cm\\ leer\\ 2\\-delig"
+  ],
+  "brandID": "tiseco",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om de handen te beschermen tijdens een barbecue of het bakken in een hete oven.",
+  "bullets": [
+   "Tiseco barbecuehandschoen van 100% koeienleer; set van 2 stuks, 36 cm lang en 19 cm breed.",
+   "Beschermt tegen warmte tot 100 °C.",
+   "Ontwerp biedt bewegingsvrijheid voor het werken met BBQ tools."
+  ],
+  "keys": [
+   "5503f3a0"
+  ],
+  "brandName": "Tiseco"
+ },
+ {
+  "match": [
+   "Camerons\\ rookoven\\ 38\\ x\\ 28\\ cm\\ rvs\\ met\\ 4\\ bakjes\\ rookhout"
+  ],
+  "brandID": "camerons",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het roken van vlees, vis of gevogelte.",
+  "bullets": [
+   "Camerons rookoven (rookpan) van roestvrij staal met lekplaat en rooster; 38 x 28 cm.",
+   "Rookmot op de bodem strooien, lekplaat en rooster plaatsen, etenswaar op het rooster en afsluiten met het deksel.",
+   "Geschikt voor gas, elektrisch en keramische kookplaten; niet voor inductie.",
+   "Bij de rookoven zitten twee verpakkingen Camerons rookmot: Eik en Hickory.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "5d006eed"
+  ],
+  "brandName": "Camerons",
+  "mismatches": [
+   {
+    "topic": "Rookhout",
+    "websiteSays": "Naam: \"met 4 bakjes rookhout\"; tekst: \"twee verpakkingen Camerons rookmot\" (Eik, Hickory)",
+    "note": "Controleren wat er precies bij zit."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Monaco\\+\\ The\\ Burgers\\ \\&\\ Veggie\\ BBQ\\ Tools\\ 2\\-delig"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om hamburgers te hanteren (draaien) op de grill.",
+  "bullets": [
+   "Boska Monaco+ The Burgers & Veggie BBQ Tools: 2-delige set van roestvrij staal, een spatel en een keukenpincet.",
+   "Diamantpatroon voor optimale controle bij elke bereiding.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "3fbd3be3"
+  ],
+  "brandName": "Boska"
+ },
+ {
+  "match": [
+   "Gefu\\ BBQ\\ vleesgewicht\\ gietijzer/pakkahout\\ 1\\ kg"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Gefu BBQ vleesgewicht van gietijzer met handgreep van pakkahout; 1 kg, 20 cm lang, 10 cm breed en 6,2 cm hoog.",
+   "Zorgt voor een gelijkmatige en snelle garing van steaks en burgers; sleuven in het gewicht helpen de garing te versnellen.",
+   "Houten handgreep met uitsparing voor de vingers.",
+   "Met de hand afwassen."
+  ],
+  "keys": [
+   "4158811b"
+  ],
+  "brandName": "Gefu"
+ },
+ {
+  "match": [
+   "Rösle\\ barbecuetang\\ 40\\ cm\\ rvs\\ glans"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het omkeren van groente en vlees op de barbecue.",
+  "bullets": [
+   "Rösle barbecuetang van roestvrij staal, 40 cm lang.",
+   "Met ophangoog; sluitsysteem om de tang met één hand te openen en sluiten (omhoog houden om te openen, omlaag om te sluiten).",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "f881d79c"
+  ],
+  "brandName": "Rösle"
+ },
+ {
+  "match": [
+   "Smokewood\\ Whiskey\\ rookhout\\ Mini\\ Blocks\\ 1\\ kg"
+  ],
+  "brandID": "smokewood",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Ideaal voor gasbarbecues en rookdoosjes.",
+  "bullets": [
+   "Smokewood Whiskey rookhout Mini Blocks: hout van gebruikte whiskyvaten van Amerikaans eikenhout; verpakking van 1 kg met houtblokjes van ongeveer 3 cm.",
+   "Het hout heeft 60 jaar lang smaak afgestaan aan Schotse Single Malt whisky's; het aroma van de whisky komt bij het roken op vlees, vis of groenten."
+  ],
+  "keys": [
+   "e442cd06"
+  ],
+  "brandName": "Smokewood"
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Hoes\\ Modular\\ Expansion\\ Frame\\ XL\\ /\\ Large\\ /\\ Medium\\ tafel"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om de Big Green Egg extra af te dekken tegen regen en temperatuurwisselingen.",
+  "bullets": [
+   "Big Green Egg hoes voor Modular Egg Frame + Expansion Frame: zwarte kunststof hoes.",
+   "Geschikt voor de Big Green Egg Medium, Large en Extra Large in combinatie met de Modular tafel en Expansion Table.",
+   "Beschermt tegen regen en wisselingen in de temperatuur wanneer de barbecue niet in gebruik is."
+  ],
+  "keys": [
+   "87df3cb0"
+  ],
+  "brandName": "Big Green Egg"
+ }
+]

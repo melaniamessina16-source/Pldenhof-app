@@ -1,0 +1,102 @@
+[
+ {
+  "match": [
+   "Rösle\\ geknikt\\ paletmes\\ 38\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het decoreren en liften van taart en cake.",
+  "bullets": [
+   "Rösle geknikt paletmes van roestvrij staal, totale lengte 38 cm, met ophangoog.",
+   "Om fondant en icing aan te brengen op cakes, taarten en cupcakes.",
+   "Voor het decoreren en liften van taart en cake; ook voor een gladde laag slagroom, icing of botercrème.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "fd6d4bcd"
+  ],
+  "brandName": "Rösle",
+  "requires": [
+   "icing",
+   "ophang"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ geknikt\\ sandwich\\ paletmes\\ 32\\ cm\\ rvs\\ glans"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het keren en serveren van etenswaren, zoals vis of lasagne.",
+  "bullets": [
+   "Rösle geknikt sandwich paletmes van roestvrij staal, 32 cm lang, blad 6,5 cm breed (specificaties).",
+   "Voor het keren en serveren van etenswaren, zoals vis of lasagne.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "9e0e1c68"
+  ],
+  "requires": [
+   "keren en serveren"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: paletmes of spatel",
+    "websiteSays": "De naam zegt \"sandwich paletmes\"; de tekst noemt het een \"spatel\" en \"keerspatel\" voor het keren en serveren van vis of lasagne.",
+    "note": "Het is een keerspatel volgens de tekst."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ kaasmes\\ 18\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om kazen mee te snijden, zoals Edammer en Goudse kaas.",
+  "bullets": [
+   "Rösle kaasmes, geheel van roestvrij staal; lengte 18 cm, totale lengte 28 cm (specificaties).",
+   "Door de uitsparingen en het gekartelde lemmet snijdt u eenvoudig door zachte kaas.",
+   "Met de puntjes aan het uiteinde van het lemmet legt u blokjes kaas gemakkelijk op een bord.",
+   "Aan beide kanten geslepen; na gebruik op te hangen.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "60807013"
+  ],
+  "requires": [
+   "gekartelde lemmet",
+   "beide kanten geslepen"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ parmezaanmes\\ 6\\ cm\\ rvs\\ glans"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om door harde Parmezaanse kaas stukken te steken en te breken.",
+  "bullets": [
+   "Rösle parmezaanmes van roestvrij staal; totale lengte 16 cm, lemmet 6 cm (specificaties).",
+   "Het harde lemmet heeft een scherp uiteinde waarmee u door harde Parmezaanse kaas stukken steekt.",
+   "Breekt gemakkelijk door parmezaan en andere harde kazen.",
+   "De dikke handgreep ligt prettig in de hand en geeft voldoende kracht.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "23e2fc8a"
+  ],
+  "requires": [
+   "scherp uiteinde",
+   "dikke handgreep"
+  ]
+ }
+]

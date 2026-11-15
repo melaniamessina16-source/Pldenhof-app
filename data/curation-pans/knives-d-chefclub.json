@@ -1,0 +1,48 @@
+[
+ {
+  "match": [
+   "Chefclub\\ kindermes\\ met\\ vingerbeschermer\\ blauw/rood",
+   "Chefclub\\ kindermes\\ met\\ vingerbeschermer\\ groen",
+   "Chefclub\\ kindermes\\ met\\ vingerbeschermer\\ pastel"
+  ],
+  "brandID": "chefclub",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Speciaal ontworpen voor kinderen die veilig willen leren snijden.",
+  "bullets": [
+   "Kindermes met vingerbeschermer: roestvrijstalen lemmet, stevige kunststof handgreep (kleur: zie productnaam) en een zachte antislipgrip voor maximale controle.",
+   "De afgeronde snijkant helpt snijongelukken te voorkomen; het handvat is geschikt voor links- en rechtshandige kinderen.",
+   "De bijgeleverde vingerbeschermer houdt kindervingers uit de gevarenzone; de mesbeschermer zorgt dat alles veilig opgeborgen kan worden.",
+   "Handafwas."
+  ],
+  "keys": [
+   "746212f1",
+   "8328099b",
+   "1e1e197b"
+  ],
+  "brandName": "Chefclub",
+  "colours": [
+   "blauw/rood",
+   "groen",
+   "pastel"
+  ]
+ },
+ {
+  "match": [
+   "Chefclub\\ kindersnijplank\\ 39,5\\ x\\ 24,5\\ cm\\ kunststof\\ 3\\-delig"
+  ],
+  "brandID": "chefclub",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Om kinderen te leren omgaan in de keuken.",
+  "bullets": [
+   "Chefclub kindersnijplank van kunststof, 3-delig: een snijplank, een serveerplank en een snijhulpje.",
+   "Chefclub: kindvriendelijke keukenhulpmiddelen, zodat kinderen samen met volwassenen kunnen koken."
+  ],
+  "keys": [
+   "4e807b26"
+  ]
+ }
+]

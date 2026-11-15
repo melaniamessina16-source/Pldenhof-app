@@ -178,7 +178,8 @@ def pans_products(checked):
             groups, cols = {}, {}
             for p in hits:
                 n, c = split_colour(p['name'], item.get('colours'))
-                groups.setdefault(n, []).append(p); cols[p['file']] = c
+                groups.setdefault(n.lower(), []).append((n, p)); cols[p['file']] = c.strip()
+            groups = {v[0][0]: [x[1] for x in v] for v in groups.values()}   # case-insensitive, first spelling wins
             for name, vpages in groups.items():
                 pid = slug(name); mids = []
                 if item.get('brandName'): NEW_BRANDS.setdefault(item['brandID'], item['brandName'])
@@ -294,7 +295,8 @@ def main():
     products = pans + coffee + pans2
     ids = [p['id'] for p in products]
     if len(ids) != len(set(ids)):
-        sys.exit('Duplicate product ids')
+        import collections as _c
+        sys.exit('Duplicate product ids: ' + ', '.join(sorted(i for i, n in _c.Counter(ids).items() if n > 1)))
 
     names = {b['id'] for b in cat['brands']}
     cat['brands'] += [{'id': k, 'name': v} for k, v in NEW_BRANDS.items() if k not in names]

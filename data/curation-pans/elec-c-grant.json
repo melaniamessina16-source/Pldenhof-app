@@ -1,0 +1,50 @@
+[
+ {
+  "match": [
+   "Creative\\ Cuisine\\ Uno\\ sous\\-vide\\ controller\\ rood"
+  ],
+  "brandID": "grant",
+  "typeIDs": [
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": "Voor wie een rijstkoker of slowcooker als sous-vide waterbad wil gebruiken.",
+  "bullets": [
+   "Creative Cuisine Uno sous-vide controller (Grant) voor het aansturen van rijstkokers en slowcookers tot maximaal 1000 W.",
+   "PID-sturing regelt de watertemperatuur van 20 °C tot 90 °C met een precisie van 0,2 °C; meerkleuren display.",
+   "Timer tot maximaal 99 uur en 59 minuten; temperatuursensor met 1 meter kabel.",
+   "Werkt met slowcookers en rijstkokers met een mechanische aan- en uitknop.",
+   "Stekker van de slowcooker of rijstkoker in de Uno, sensor in het water."
+  ],
+  "keys": [
+   "a6382346"
+  ],
+  "brandName": "Grant"
+ },
+ {
+  "match": [
+   "Creative\\ Cuisine\\ by\\ Grant\\ Uno\\ sous\\-vide\\ controller\\ zwart"
+  ],
+  "brandID": "grant",
+  "typeIDs": [
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": "Voor wie een rijstkoker of slowcooker als sous-vide waterbad wil gebruiken.",
+  "bullets": [
+   "Creative Cuisine Uno sous-vide controller (Grant) voor het aansturen van rijstkokers en slowcookers tot maximaal 1000 W.",
+   "PID-sturing regelt de watertemperatuur van 20 °C tot 90 °C met een precisie van 0,2 °C; meerkleuren display.",
+   "Temperatuursensor met 1 meter kabel.",
+   "Werkt met slowcookers en rijstkokers met een mechanische aan- en uitknop.",
+   "Stekker van de slowcooker of rijstkoker in de Uno, sensor in het water."
+  ],
+  "keys": [
+   "38336e4a"
+  ],
+  "mismatches": [
+   {
+    "topic": "Timer",
+    "websiteSays": "De tekst van de rode Uno noemt een timer (max. 99 u 59 min); de tekst van de zwarte Uno noemt geen timer.",
+    "note": "Controleer of de zwarte versie ook een timer heeft."
+   }
+  ]
+ }
+]

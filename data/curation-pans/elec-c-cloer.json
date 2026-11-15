@@ -1,0 +1,140 @@
+[
+ {
+  "match": [
+   "Cloer\\ 1459\\ elektrisch\\ XXL\\ Brussels\\ wafelijzer\\ grijs"
+  ],
+  "brandID": "cloer",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cloer 1459 elektrisch XXL Brussels wafelijzer van mat roestvrij staal, 1000 W; bakt 2 Brusselse wafels per keer.",
+   "Twee bakoppervlakken van elk 12,3 x 12,3 cm met anti-aanbaklaag; traploos instelbare bruiningsgraad met draaiknop.",
+   "Lichtje geeft aan of het ijzer op temperatuur is en of de wafel klaar is.",
+   "Stekker- en snoeropslag en een verzonken scharnier: goed op te bergen en makkelijk te reinigen.",
+   "Reinigen met een vochtige doek en een beetje afwasmiddel."
+  ],
+  "keys": [
+   "75a12182"
+  ],
+  "brandName": "Cloer",
+  "requires": [
+   "verzonken scharnier"
+  ],
+  "colours": [
+   "grijs"
+  ]
+ },
+ {
+  "match": [
+   "Cloer\\ 189\\ hart\\ wafelijzer\\ ø\\ 16\\ cm\\ grijs",
+   "Cloer\\ hart\\ wafelijzer\\ ø\\ 16\\ cm\\ anti\\-aanbaklaag\\ metaal\\ zwart\\-wit"
+  ],
+  "brandID": "cloer",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cloer hartvormig wafelijzer: bakt 5 hartvormige wafeltjes per keer; bakplaat met een diameter van 16 cm.",
+   "Roestvrijstalen wafelijzer met anti-aanbaklaag en regelbare thermostaat.",
+   "Lichtje geeft aan of het ijzer op temperatuur is en of de wafel klaar is.",
+   "Stekker- en snoeropslag en een verzonken scharnier: goed op te bergen en makkelijk te reinigen.",
+   "Reinigen met een vochtige doek en een beetje afwasmiddel."
+  ],
+  "keys": [
+   "10a4395f",
+   "d6dd4456"
+  ],
+  "requires": [
+   "hartvormige wafeltjes"
+  ],
+  "colours": [
+   "grijs",
+   "zwart-wit"
+  ],
+  "mismatches": [
+   {
+    "topic": "Vermogen",
+    "websiteSays": "De tekst van de grijze versie (Cloer 189) zegt 930 W; de tekst van de zwart-witte versie zegt 950 W; de specificaties van beide zeggen Vermogen 930 W.",
+    "note": "Controleer het vermogen van de zwart-witte versie."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cloer\\ kniepertjes\\-\\ of\\ oubliewafelijzer\\ wit"
+  ],
+  "brandID": "cloer",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": "Voor het bakken van kniepertjes en dunne wafels, die u desgewenst tot oublihoorns of cannoli kunt rollen.",
+  "bullets": [
+   "Cloer wafelijzer voor kniepertjes of oubliewafels, diameter 15 cm, 800 W.",
+   "Anti-aanbaklaag en regelbare thermostaat.",
+   "Lichtje geeft aan of het ijzer op temperatuur is en of de wafel klaar is.",
+   "Stekker- en snoeropslag en een verzonken scharnier.",
+   "Reinigen met een vochtige doek en een beetje afwasmiddel."
+  ],
+  "keys": [
+   "3921ef09"
+  ],
+  "requires": [
+   "oublihoorns"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur",
+    "websiteSays": "De tekst zegt \"Het zwart-witte Cloer wafelijzer\"; de naam en de specificaties zeggen wit.",
+    "note": "Controleer de kleur."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cloer\\ Touch\\ waterkoker\\ 1,7\\ L\\ rvs"
+  ],
+  "brandID": "cloer",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cloer Touch waterkoker van roestvrij staal en kunststof, 1,7 liter, 2200 W.",
+   "Temperatuur instelbaar tussen 60 en 100 °C.",
+   "Kunststof greep, waterniveau-indicator en uitneembaar kalkfilter.",
+   "Start-, droogkook- en oververhittingsbeveiliging; slaat automatisch af zodra het water gekookt is; 360° draaibaar.",
+   "Reinigen met een vochtige doek; ontkalken kan met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "dc368db6"
+  ],
+  "requires": [
+   "60 en 100"
+  ]
+ },
+ {
+  "match": [
+   "Cloer\\ waterkoker\\ 1,7\\ liter\\ rvs"
+  ],
+  "brandID": "cloer",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cloer waterkoker van roestvrij staal en kunststof (geborsteld), 1,7 liter.",
+   "Silicone afdekking op de schenktuit, waterniveau-indicator en uitneembaar kalkfilter.",
+   "Start-, droogkook- en oververhittingsbeveiliging; slaat automatisch af zodra het water gekookt is; 360° draaibaar.",
+   "Reinigen met een vochtige doek; ontkalken kan met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "6e506c88"
+  ],
+  "requires": [
+   "silicone schenktuit"
+  ]
+ }
+]

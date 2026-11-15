@@ -1,0 +1,1262 @@
+[
+ {
+  "match": [
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ braadpan\\ ø\\ 20\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ braadpan\\ ø\\ 24\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ braadpan\\ ø\\ 26\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ braadpan\\ ø\\ 28\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ braadpan\\ ø\\ 32\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van diverse gerechten.",
+  "bullets": [
+   "Keramische braadpan uit de Gastrolux Evo Expert-serie.",
+   "Gegoten aluminium, onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Binnenzijde met een unieke Evo keramische antikleeflaag, PFOA- en PFAS-vrij; volgens de website vele malen sterker dan gebruikelijke anti-aanbaklagen en beter bestand tegen hoge temperaturen, krassen en slijtage.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas)."
+  ],
+  "keys": [
+   "80f6e627"
+  ],
+  "requires": [
+   "evo keramische",
+   "honingraatstructuur",
+   "vele malen sterker"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ crêpepan\\ ø\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van een heerlijke omelet of een stapel pannenkoeken.",
+  "bullets": [
+   "Keramische crêpepan uit de Gastrolux Evo Expert-serie.",
+   "Gegoten aluminium, onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Binnenzijde met een unieke Evo keramische antikleeflaag, PFOA- en PFAS-vrij; volgens de website vele malen sterker dan gebruikelijke anti-aanbaklagen en beter bestand tegen hoge temperaturen, krassen en slijtage.",
+   "Volgens de specificaties geschikt voor gas, elektrisch, keramisch, halogeen, inductie en de oven.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas)."
+  ],
+  "keys": [
+   "c20df2db"
+  ],
+  "requires": [
+   "evo keramische",
+   "honingraatstructuur",
+   "vele malen sterker"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ grillpan\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van vlees, vis of groenten.",
+  "bullets": [
+   "Keramische grillpan uit de Gastrolux Evo Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "De bodem heeft verhoogde grillstrepen en een unieke keramische laag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Volgens de tekst geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "9f2c1cec"
+  ],
+  "requires": [
+   "grillstrepen",
+   "260"
+  ],
+  "mismatches": [
+   {
+    "topic": "Oven: tekst of specificaties",
+    "websiteSays": "Tekst: 'ovenbestendig (tot 260°C)'; specificatie Geschikt voor: gas, elektrisch, keramisch, halogeen, inductie (geen oven)",
+    "note": "Controleer of de pan in de oven mag."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ koekenpan\\ ø\\ 20\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ koekenpan\\ ø\\ 24\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ koekenpan\\ ø\\ 26\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ koekenpan\\ ø\\ 28\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ koekenpan\\ ø\\ 32\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van een heerlijke omelet of een stapel pannenkoeken.",
+  "bullets": [
+   "Keramische koekenpan uit de Gastrolux Evo Expert-serie.",
+   "Gegoten aluminium, onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Binnenzijde met een unieke Evo keramische antikleeflaag, PFOA- en PFAS-vrij; volgens de website vele malen sterker dan gebruikelijke anti-aanbaklagen en beter bestand tegen hoge temperaturen, krassen en slijtage.",
+   "Volgens de specificaties geschikt voor gas, elektrisch, keramisch, halogeen, inductie en de oven.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas)."
+  ],
+  "keys": [
+   "9ffeadcf"
+  ],
+  "requires": [
+   "evo keramische",
+   "honingraatstructuur",
+   "vele malen sterker"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ kookpan\\ ø\\ 20\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ kookpan\\ ø\\ 24\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ kookpan\\ ø\\ 26\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ kookpan\\ ø\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het koken van pasta, rijst, aardappelen en meer.",
+  "bullets": [
+   "Keramische kookpan uit de Gastrolux Evo Expert-serie.",
+   "Gegoten aluminium, onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Binnenzijde met een unieke Evo keramische antikleeflaag, PFOA- en PFAS-vrij; volgens de website vele malen sterker dan gebruikelijke anti-aanbaklagen en beter bestand tegen hoge temperaturen, krassen en slijtage.",
+   "Volgens de specificaties geschikt voor gas, elektrisch, keramisch, halogeen, inductie en de oven.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas)."
+  ],
+  "keys": [
+   "3ca0edad"
+  ],
+  "requires": [
+   "evo keramische",
+   "honingraatstructuur",
+   "vele malen sterker"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ sauspan\\ ø\\ 16\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ sauspan\\ ø\\ 20\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van een heerlijke saus of soep.",
+  "bullets": [
+   "Keramische sauspan uit de Gastrolux Evo Expert-serie.",
+   "Gegoten aluminium, onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Binnenzijde met een unieke Evo keramische antikleeflaag, PFOA- en PFAS-vrij; volgens de website vele malen sterker dan gebruikelijke anti-aanbaklagen en beter bestand tegen hoge temperaturen, krassen en slijtage.",
+   "Volgens de specificaties geschikt voor gas, elektrisch, keramisch, halogeen, inductie en de oven.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas)."
+  ],
+  "keys": [
+   "00842dfc"
+  ],
+  "requires": [
+   "evo keramische",
+   "honingraatstructuur",
+   "vele malen sterker"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ sauteerpan\\ ø\\ 20\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ sauteerpan\\ ø\\ 24\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ sauteerpan\\ ø\\ 26\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ sauteerpan\\ ø\\ 28\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ sauteerpan\\ ø\\ 32\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van een goed stuk vlees of een wokgerecht.",
+  "bullets": [
+   "Keramische sauteerpan uit de Gastrolux Evo Expert-serie.",
+   "Gegoten aluminium, onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Binnenzijde met een unieke Evo keramische antikleeflaag, PFOA- en PFAS-vrij; volgens de website vele malen sterker dan gebruikelijke anti-aanbaklagen en beter bestand tegen hoge temperaturen, krassen en slijtage.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas)."
+  ],
+  "keys": [
+   "8d524975"
+  ],
+  "requires": [
+   "evo keramische",
+   "honingraatstructuur",
+   "vele malen sterker"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ vispan\\ 46\\ x\\ 26\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van diverse vis.",
+  "bullets": [
+   "Keramische vispan uit de Gastrolux Evo Expert-serie.",
+   "Gegoten aluminium, onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Binnenzijde met een unieke Evo keramische antikleeflaag, PFOA- en PFAS-vrij; volgens de website vele malen sterker dan gebruikelijke anti-aanbaklagen en beter bestand tegen hoge temperaturen, krassen en slijtage.",
+   "Volgens de specificaties geschikt voor gas, elektrisch, keramisch, halogeen, inductie en de oven.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas)."
+  ],
+  "keys": [
+   "5785563a"
+  ],
+  "requires": [
+   "evo keramische",
+   "honingraatstructuur",
+   "vele malen sterker"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ wok\\ ø\\ 30\\ cm\\ aluminium",
+   "Gastrolux\\ Evo\\ Expert\\ keramische\\ wok\\ ø\\ 36\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van een heerlijk wokgerecht.",
+  "bullets": [
+   "Keramische wokpan uit de Gastrolux Evo Expert-serie.",
+   "Gegoten aluminium, onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Binnenzijde met een unieke Evo keramische antikleeflaag, PFOA- en PFAS-vrij; volgens de website vele malen sterker dan gebruikelijke anti-aanbaklagen en beter bestand tegen hoge temperaturen, krassen en slijtage.",
+   "Volgens de specificaties geschikt voor gas, elektrisch, keramisch, halogeen, inductie en de oven.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas)."
+  ],
+  "keys": [
+   "77c87672"
+  ],
+  "requires": [
+   "evo keramische",
+   "honingraatstructuur",
+   "vele malen sterker"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ koekenpan\\ voor\\ inductie\\ ø\\ 20\\ cm\\ aluminium\\ ",
+   "Gastrolux\\ Expert\\ koekenpan\\ voor\\ inductie\\ ø\\ 24\\ cm\\ aluminium\\ ",
+   "Gastrolux\\ Expert\\ koekenpan\\ voor\\ inductie\\ ø\\ 26\\ cm\\ aluminium\\ ",
+   "Gastrolux\\ Expert\\ koekenpan\\ voor\\ inductie\\ ø\\ 32\\ cm\\ aluminium\\ "
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van een heerlijke omelet of een stapel pannenkoeken.",
+  "bullets": [
+   "Koekenpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "47b0db0c"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ koekenpan\\ voor\\ inductie\\ ø\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van een heerlijke omelet of een stapel pannenkoeken.",
+  "bullets": [
+   "Koekenpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "58ed0ee1"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ koekenpan\\ ø\\ 20\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van een heerlijke omelet of een stapel pannenkoeken.",
+  "bullets": [
+   "Koekenpan uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen behalve inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "d9ccc665"
+  ],
+  "requires": [
+   "biotan",
+   "behalve inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ koekenpan\\ ø\\ 32\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van een heerlijke omelet of een stapel pannenkoeken.",
+  "bullets": [
+   "Koekenpan uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor gas, halogeen, keramisch en elektrisch en ovenbestendig (tot 260°C); inductie wordt niet genoemd.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "c3076d1b"
+  ],
+  "requires": [
+   "biotan",
+   "ovenbestendig",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ braadpan\\ voor\\ inductie\\ 32,5\\ x\\ 20,5\\ cm\\ h\\ 18\\ cm\\ incl\\.\\ glasdeksel\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van al uw favoriete gerechten.",
+  "bullets": [
+   "Braadpan met glasdeksel (voor inductie) uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvatten zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "15e62c38"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ],
+  "mismatches": [
+   {
+    "topic": "Specificatie Totale hoogte",
+    "websiteSays": "Totale hoogte: 26768 (5-cijferige code)",
+    "note": "Onbruikbare waarde; hoogte zonder deksel volgens de tekst: 11,5 cm, productnaam: h 18 cm."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ braadpan\\ voor\\ inductie\\ 40,5\\ x\\ 24,5\\ cm\\ h\\ 14\\ cm\\ incl\\.\\ glasdeksel\\ aluminium",
+   "Gastrolux\\ Expert\\ braadpan\\ voor\\ inductie\\ 40,5\\ x\\ 24,5\\ cm\\ h\\ 20\\ cm\\ incl\\.\\ glasdeksel\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het braden van grote stukken vlees op gezonde wijze.",
+  "bullets": [
+   "Braadpan (ook vispan genoemd) met glasdeksel, voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvatten zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "e05ecc32"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ crêpepan\\ ø\\ \\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van heerlijke crêpes, blini's of een stapel pannenkoeken.",
+  "bullets": [
+   "Crêpepan uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "De rand loopt schuin af, wat het omdraaien van de crêpe nog gemakkelijker maakt.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen behalve inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "5dad0c61"
+  ],
+  "requires": [
+   "biotan",
+   "behalve inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ],
+  "mismatches": [
+   {
+    "topic": "Specificatie Diameter",
+    "websiteSays": "Specificatie Diameter: 32 cm; productnaam en tekst: ø 28 cm (bodemdiameter 22 cm)",
+    "note": "Controleer de maat van de pan (naam/tekst 28 cm, spec 32 cm)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ crêpepan\\ voor\\ inductie\\ ø\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van heerlijke crêpes, blini's of een stapel pannenkoeken.",
+  "bullets": [
+   "Crêpepan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "De rand loopt schuin af, wat het omdraaien van de crêpe nog gemakkelijker maakt.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "611c1d2f"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ],
+  "mismatches": [
+   {
+    "topic": "Specificatie Diameter",
+    "websiteSays": "Specificatie Diameter: 32 cm; productnaam en tekst: ø 28 cm (bodemdiameter 22 cm)",
+    "note": "Controleer de maat van de pan (naam/tekst 28 cm, spec 32 cm)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ grillpan\\ voor\\ inductie\\ 28\\ x\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van vlees, vis of groenten.",
+  "bullets": [
+   "Grillpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "De bodem heeft verhoogde grillstrepen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "78e9571c"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ grillpan\\ 28\\ x\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van vlees, vis of groenten.",
+  "bullets": [
+   "Grillpan uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "De bodem heeft verhoogde grillstrepen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen behalve inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "3b6f2d66"
+  ],
+  "requires": [
+   "biotan",
+   "behalve inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ hoge\\ kookpan\\ voor\\ inductie\\ ø\\ 28\\ cm\\ 8,5\\ liter\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van uw favoriete soep of pastagerechten.",
+  "bullets": [
+   "Hoge kookpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "845ba18c"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ hoge\\ kookpan\\ voor\\ inductie\\ ø\\ 20\\ cm\\ 2,5\\ liter\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van uw favoriete soep of pastagerechten.",
+  "bullets": [
+   "Hoge kookpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "913421ad"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ hoge\\ kookpan\\ voor\\ inductie\\ ø\\ 24\\ cm\\ 4\\ liter\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor de bereiding van onder andere verse soep, risotto of een pastagerecht.",
+  "bullets": [
+   "Hoge kookpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "7027d983"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ hoge\\ kookpan\\ voor\\ inductie\\ ø\\ 26\\ cm\\ 6\\ liter\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van verse soep of pastagerechten.",
+  "bullets": [
+   "Hoge kookpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "c71e9562"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ lage\\ kookpan\\ voor\\ inductie\\ ø\\ 20\\ cm\\ 2\\ liter\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van uw favoriete soep of pastagerechten.",
+  "bullets": [
+   "Lage kookpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "cb4caf5f"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ lage\\ kookpan\\ voor\\ inductie\\ ø\\ 24\\ cm\\ 3,5\\ liter\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van uw favoriete soep of pastagerechten.",
+  "bullets": [
+   "Lage kookpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "c9447e7a"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ lage\\ kookpan\\ voor\\ inductie\\ ø\\ 26\\ cm\\ 4\\ liter\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van uw favoriete soep of pastagerechten.",
+  "bullets": [
+   "Lage kookpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "828f846a"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ lage\\ kookpan\\ voor\\ inductie\\ ø\\ 28\\ cm\\ 4,5\\ liter\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van uw favoriete soep of pastagerechten.",
+  "bullets": [
+   "Lage kookpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "5a16aa6c"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ lage\\ kookpan\\ voor\\ inductie\\ ø\\ 32\\ cm\\ 6,5\\ liter\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van al uw favoriete soepen en pastagerechten.",
+  "bullets": [
+   "Lage kookpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "28932f83"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ sauspan\\ met\\ 2\\ tuiten\\ ø\\ 20\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gemakkelijke bereiding van sausjes, soepjes of ragouts.",
+  "bullets": [
+   "Sauspan met 2 tuiten uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "De pan is aan weerszijde voorzien van een schenktuitje, waarmee u uw bereiding veilig en gemakkelijk doseert.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen behalve inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "06303186"
+  ],
+  "requires": [
+   "biotan",
+   "behalve inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ sauspan\\ met\\ 2\\ tuiten\\ voor\\ inductie\\ ø\\ 16\\ cm\\ h\\ 9,5\\ cm\\ aluminium",
+   "Gastrolux\\ Expert\\ sauspan\\ met\\ 2\\ tuiten\\ voor\\ inductie\\ ø\\ 20\\ cm\\ h\\ 11,5\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gemakkelijke bereiding van sausjes, soepjes of ragouts.",
+  "bullets": [
+   "Sauspan met 2 tuiten, voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "De pan is aan weerszijde voorzien van een schenktuitje, waarmee u uw bereiding veilig en gemakkelijk doseert.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "3e929584"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekstfout",
+    "websiteSays": "Tekst eindigt met 'Reinig de grill na ieder gebruik'",
+    "note": "Tekst lijkt van de grillpan overgenomen; schoonmaken zoals bij de overige Expert-pannen vermeld."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ sauspan\\ ø\\ 16\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gemakkelijke bereiding van sausjes, soepjes of ragouts.",
+  "bullets": [
+   "Sauspan uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "De pan is aan weerszijde voorzien van een schenktuitje, waarmee u uw bereiding veilig en gemakkelijk doseert.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen behalve inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "642c2ab4"
+  ],
+  "requires": [
+   "biotan",
+   "behalve inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ],
+  "mismatches": [
+   {
+    "topic": "Schenktuiten",
+    "websiteSays": "Productnaam: sauspan ø 16 cm (zonder tuiten); tekst: 'aan weerszijde voorzien van een praktisch schenktuitje'",
+    "note": "Controleer of de pan schenktuiten heeft."
+   },
+   {
+    "topic": "Specificatie Capaciteit",
+    "websiteSays": "Capaciteit: 3 m³",
+    "note": "Onjuiste waarde; niet overgenomen."
+   },
+   {
+    "topic": "Tekstfout",
+    "websiteSays": "Tekst eindigt met 'Reinig de grill na ieder gebruik'",
+    "note": "Tekst lijkt van de grillpan overgenomen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ sauteerpan\\ ø\\ 20\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van al uw favoriete vlees- en stoofgerechten.",
+  "bullets": [
+   "Sauteerpan uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor gas, halogeen, keramisch en elektrisch en ovenbestendig (tot 260°C); inductie wordt niet genoemd.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "dec5907d"
+  ],
+  "requires": [
+   "biotan",
+   "ovenbestendig",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ sauteerpan\\ ø\\ 26\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van al uw favoriete vlees- en stoofgerechten.",
+  "bullets": [
+   "Sauteerpan uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen behalve inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "fc8c6f4f"
+  ],
+  "requires": [
+   "biotan",
+   "behalve inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ sauteerpan\\ voor\\ inductie\\ ø\\ 32\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van al uw favoriete stoof- en vleesgerechten.",
+  "bullets": [
+   "Sauteerpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "554b5aad"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ sauteerpan\\ voor\\ inductie\\ ø\\ 20\\ cm\\ aluminium",
+   "Gastrolux\\ Expert\\ sauteerpan\\ voor\\ inductie\\ ø\\ 28\\ cm\\ aluminium",
+   "Gastrolux\\ Expert\\ sauteerpan\\ voor\\ inductie\\ \\ ø\\ 24\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van al uw favoriete vlees- en stoofgerechten.",
+  "bullets": [
+   "Sauteerpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "c324b440"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ sauteerpan\\ ø\\ 24\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van al uw favoriete vlees- en stoofgerechten.",
+  "bullets": [
+   "Sauteerpan uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor gas, halogeen, keramisch en elektrisch en ovenbestendig (tot 260°C); inductie wordt niet genoemd.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "5235778d"
+  ],
+  "requires": [
+   "biotan",
+   "ovenbestendig",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ sauteerpan\\ ø\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van al uw favoriete vlees- en stoofgerechten.",
+  "bullets": [
+   "Sauteerpan uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor gas, halogeen, keramisch en elektrisch en ovenbestendig (tot 260°C); inductie wordt niet genoemd.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "49a17b8a"
+  ],
+  "requires": [
+   "biotan",
+   "ovenbestendig",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ sauteerpan\\ ø\\ 32\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van al uw favoriete stoof- en vleesgerechten.",
+  "bullets": [
+   "Sauteerpan uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor gas, halogeen, keramisch en elektrisch en ovenbestendig (tot 260°C); inductie wordt niet genoemd.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "b87c5b34"
+  ],
+  "requires": [
+   "biotan",
+   "ovenbestendig",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ sauteerpan\\ voor\\ inductie\\ ø\\ 26\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van al uw favoriete vlees- en stoofgerechten.",
+  "bullets": [
+   "Sauteerpan voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "0b0dc407"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ wok\\ voor\\ inductie\\ met\\ half\\ rvs\\ rek\\ ø\\ 36\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van Oosterse wok- of eenpansgerechten.",
+  "bullets": [
+   "Wok voor inductie met half rvs rek uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "De wok wordt compleet geleverd met een roestvrij stalen rek (half rek) om tijdens het wokken ingrediënten apart te houden of te laten uitlekken.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "454c5f90"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ wok\\ met\\ half\\ rvs\\ rekje\\ ø\\ 36\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van Oosterse wok- of eenpansgerechten.",
+  "bullets": [
+   "Wok met half rvs rekje uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "De wok wordt compleet geleverd met een roestvrij stalen rek (half rek) om tijdens het wokken ingrediënten apart te houden of te laten uitlekken.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen behalve inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "5e40b29f"
+  ],
+  "requires": [
+   "biotan",
+   "behalve inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ wok\\ ø\\ 30\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van Oosterse wok- of eenpansgerechten.",
+  "bullets": [
+   "Wok uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen behalve inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "380bb15a"
+  ],
+  "requires": [
+   "biotan",
+   "behalve inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inductie: ja of nee",
+    "websiteSays": "Eerste alinea: 'geschikt voor alle warmtebronnen (behalve inductie)'; aan het eind van de tekst herhaald als 'inclusief inductie'",
+    "note": "Controleer of de wok op inductie kan; spec Geschikt voor noemt geen inductie."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ Expert\\ wok\\ voor\\ inductie\\ ø\\ 30\\ cm\\ aluminium"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van Oosterse wok- of eenpansgerechten.",
+  "bullets": [
+   "Wok voor inductie uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst, met de kenmerkende honingraatstructuur aan de bodem.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en handvat zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en ovenbestendig (tot 260°C).",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "93e11321"
+  ],
+  "requires": [
+   "biotan",
+   "inclusief inductie",
+   "260",
+   "honingraatstructuur",
+   "minder olie of vet"
+  ]
+ },
+ {
+  "match": [
+   "Gastrolux\\ lage\\ kookpan\\ zonder\\ deksel\\ ø\\ 24\\ cm",
+   "Gastrolux\\ lage\\ kookpan\\ zonder\\ deksel\\ ø\\ 26\\ cm",
+   "Gastrolux\\ lage\\ kookpan\\ zonder\\ deksel\\ ø\\ 28\\ cm",
+   "Gastrolux\\ lage\\ kookpan\\ zonder\\ deksel\\ ø\\ 32\\ cm"
+  ],
+  "brandID": "gastrolux",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor een gezonde bereiding van al uw favoriete soepen en pastagerechten.",
+  "bullets": [
+   "Lage kookpan zonder deksel uit de Gastrolux Expert-serie van vormvast aluminium: vloeibaar gegoten en onder zeer hoge druk geperst.",
+   "Binnenzijde met een unieke Biotan anti-aanbaklaag; pan en de twee tegengrepen zijn uit hetzelfde stuk materiaal gegoten, zonder schroeven of losse onderdelen.",
+   "Dankzij de Biotan-laag gebruikt u tijdens de bereiding aanzienlijk minder olie of vet.",
+   "Geschikt voor gas, halogeen, keramisch en elektrisch en ovenbestendig (tot 260°C); inductie wordt niet genoemd.",
+   "Reinigen na ieder gebruik met heet water, een zachte borstel en een milde zeep (handafwas). Gastrolux pannen zijn PFAO- en PFOS-vrij."
+  ],
+  "keys": [
+   "0dca7c67"
+  ],
+  "requires": [
+   "biotan",
+   "ovenbestendig",
+   "260",
+   "minder olie of vet"
+  ]
+ }
+]

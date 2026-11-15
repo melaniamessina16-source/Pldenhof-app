@@ -1,0 +1,30 @@
+[
+ {
+  "match": [
+   "Dreamfarm\\ Nocutu\\ mandoline\\ 28,5\\ cm\\ kunststof"
+  ],
+  "brandID": "dreamfarm",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": "Voor het flinterdun snijden van onder meer kool en rauwkost.",
+  "bullets": [
+   "Nocutu mandoline van kunststof met een roestvrijstalen vlak mes; 28,5 x 9 cm.",
+   "Dikte instelbaar op 1, 2 en 3 millimeter.",
+   "Vingerbeschermer van flexibel ABS voor grip en bescherming, die over een geleiderail soepel over de mandoline glijdt; na gebruik klikt hij vast aan de bovenzijde.",
+   "Inklapbare voet met antislipmateriaal voor een stabiele snijpositie, of gebruik op een kom of schaal; het mes is te vergrendelen met het ingebouwde slot.",
+   "Vaatwasmachinebestendig, of reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0b12e13c"
+  ],
+  "brandName": "Dreamfarm",
+  "mismatches": [
+   {
+    "topic": "Spelfout",
+    "websiteSays": "\"Het met van de Nocutu mandoline is verstelbaar in snijdiktes van 1, 2 en 3 millimeter\"",
+    "note": "Waarschijnlijk \"mes\"; tekst gebruikt hier ook \"vaatwaasmachinebestendig\"."
+   }
+  ]
+ }
+]

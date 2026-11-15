@@ -1,0 +1,33 @@
+[
+ {
+  "match": [
+   "SMEG\\ 50's\\ style\\ messenblok\\ incl\\.\\ 6\\ messen\\ crème",
+   "SMEG\\ 50's\\ style\\ messenblok\\ incl\\.\\ 6\\ messen\\ pastelblauw",
+   "SMEG\\ 50's\\ style\\ messenblok\\ incl\\.\\ 6\\ messen\\ wit",
+   "SMEG\\ 50's\\ style\\ messenblok\\ incl\\.\\ 6\\ messen\\ zwart"
+  ],
+  "brandID": "smeg",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "SMEG 50's Style messenblok inclusief 6 messen (kleur: zie productnaam): blok van gepoedercoat carbonstaal en acaciahout.",
+   "De 6 messen zijn van hoogwaardig Duits roestvrij staal: koksmes 19 cm, santoku 18 cm, broodmes 19 cm, vleesmes 15 cm, tomaten-/worstmes 13 cm en schilmes 8 cm.",
+   "Het messenblok heeft een antislipbasis voor stabiliteit en veiligheid; het ergonomische design zorgt voor een comfortabele en veilige grip.",
+   "Messen reinigen met warm water en afwasmiddel; het messenblok afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "6b2b721f",
+   "5e4793e5",
+   "cc94f069",
+   "33a8c3c6"
+  ],
+  "colours": [
+   "crème",
+   "pastelblauw",
+   "wit",
+   "zwart"
+  ]
+ }
+]

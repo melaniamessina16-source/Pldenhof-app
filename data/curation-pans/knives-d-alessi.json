@@ -1,0 +1,27 @@
+[
+ {
+  "match": [
+   "Alessi\\ GAG02\\ Sbriciola\\ broodsnijplank\\ 42\\ x\\ 27\\ cm\\ hout"
+  ],
+  "brandID": "alessi",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Sbriciola broodsnijplank van bamboe met een opvangbak voor de kruimels.",
+   "De uitneembare kunststof bak onder de plank vangt alle kruimels van het brood op; na gebruik gemakkelijk weg te gooien.",
+   "Reinigen met warm water en een beetje afwasmiddel, goed afdrogen; handafwas."
+  ],
+  "keys": [
+   "5bdf5c06"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal: bamboe of hout",
+    "websiteSays": "Tekst: \"gemaakt van bamboe\"; specificaties: Materiaal hout, kunststof",
+    "note": "Controleer het materiaal van de plank."
+   }
+  ]
+ }
+]

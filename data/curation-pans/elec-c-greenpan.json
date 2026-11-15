@@ -1,0 +1,178 @@
+[
+ {
+  "match": [
+   "Greenpan\\ Elite\\ contactgrill\\ Black",
+   "Greenpan\\ Elite\\ contactgrill\\ Blue\\ Haze",
+   "Greenpan\\ Elite\\ contactgrill\\ Cream",
+   "Greenpan\\ Elite\\ contactgrill\\ Stainless\\ Steel"
+  ],
+  "brandID": "greenpan",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "GreenPan Elite contactgrill, vermogen 2200 Watt.",
+   "Grillplaten met Thermolon Volt PFAS-vrije keramische anti-aanbaklaag.",
+   "Standen: gesloten grill, paninigrill, gemengde grill, teppanyaki, vlakke grill en vlakke teppanyaki; het dubbele kookoppervlak opent plat, zodat u aan beide kanten kunt grillen.",
+   "Dubbele zoneverwarming: aparte tijd- en temperatuurinstellingen voor iedere plaat.",
+   "Bediening via het LCD-display.",
+   "Vergrendelbare bovenplaat en ruimte om het snoer op te rollen: makkelijk op te bergen.",
+   "De uitneembare platen zijn vaatwasserbestendig."
+  ],
+  "keys": [
+   "174c9571",
+   "9e95006f",
+   "1a2349f7",
+   "153869a8"
+  ],
+  "brandName": "GreenPan",
+  "requires": [
+   "dubbele zoneverwarming"
+  ],
+  "colours": [
+   "Black",
+   "Blue Haze",
+   "Cream",
+   "Stainless Steel"
+  ]
+ },
+ {
+  "match": [
+   "Greenpan\\ Slowcooker\\ 6\\ liter\\ Black",
+   "Greenpan\\ Slowcooker\\ 6\\ liter\\ Blue\\ Haze",
+   "Greenpan\\ Slowcooker\\ 6\\ liter\\ Cream",
+   "Greenpan\\ Slowcooker\\ 6\\ liter\\ Stainless\\ Steel"
+  ],
+  "brandID": "greenpan",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "GreenPan Slowcooker (Omni Cooker) met een inhoud van 6 liter en 1350 Watt vermogen.",
+   "Thermolon Volt PFAS-vrije keramische anti-aanbaklaag; dikke uitneembare aluminium binnenpan van 6 liter.",
+   "Ingebouwde bruiner: vlees of groenten direct in de slowcooker aanbraden.",
+   "Programma's: bruinen/sauteren, langzaam koken, stomen, sudderen/buffet, hoog, laag, warm en opwarmen.",
+   "Digitaal bedieningspaneel met LED-display.",
+   "Wordt geleverd met een roestvrijstalen stoompan.",
+   "Uitneembare binnenpan en glazen deksel zijn vaatwasserbestendig."
+  ],
+  "keys": [
+   "bdb25389",
+   "8068695f",
+   "09cd7cb1",
+   "bd2a46db"
+  ],
+  "requires": [
+   "stoompan"
+  ],
+  "colours": [
+   "Black",
+   "Blue Haze",
+   "Cream",
+   "Stainless Steel"
+  ]
+ },
+ {
+  "match": [
+   "Greenpan\\ wafelijzer\\ Black",
+   "Greenpan\\ wafelijzer\\ Blue\\ Haze",
+   "Greenpan\\ wafelijzer\\ Cream",
+   "Greenpan\\ wafelijzer\\ Stainless\\ Steel"
+  ],
+  "brandID": "greenpan",
+  "typeIDs": [
+   "tosti-wafel-grill"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "GreenPan wafelijzer, vermogen 1600 Watt (volgens de tekst).",
+   "Wafelplaten met PFAS-vrije keramische antikleeflaag; wordt geleverd met platen voor zowel Luikse als Brusselse wafels.",
+   "Platen zijn uitneembaar en verwisselbaar.",
+   "Extra brede goot rondom de platen vangt overlopend beslag op.",
+   "Digitaal bedieningspaneel met LED-display om de gewenste kleur en knapperigheid in te stellen.",
+   "De uitneembare wafelplaten zijn vaatwasserbestendig."
+  ],
+  "keys": [
+   "4149d226",
+   "9ee64a5f",
+   "c44c25b4",
+   "5c3afd4c"
+  ],
+  "requires": [
+   "Brusselse wafels"
+  ],
+  "colours": [
+   "Black",
+   "Blue Haze",
+   "Cream",
+   "Stainless Steel"
+  ]
+ },
+ {
+  "match": [
+   "Greenpan\\ XL\\ Airfryer\\ 7,2\\ liter",
+   "Greenpan\\ XL\\ Airfryer\\ 7,2\\ liter\\ Pine\\ Green",
+   "Greenpan\\ XL\\ Airfryer\\ 7,2\\ liter\\ Smokey\\ Blue"
+  ],
+  "brandID": "greenpan",
+  "typeIDs": [
+   "airfryers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "GreenPan XL airfryer met een inhoud van 7,2 liter; serveert 4 tot 6 personen.",
+   "Van kunststof, aan de binnenkant een PFAS-vrije non-stick coating.",
+   "11 bereidingsprogramma's: friet, kip, kippenpoot, groenten, spek, vis, steak, garnalen, dessert, bakken en bevroren voedsel.",
+   "4 kookstanden: air-fry, grill, roast en bake.",
+   "Groot LCD-display.",
+   "Reinig de roosters en rekken met warm water en afwasmiddel; de oven aan de binnen- en buitenkant met een vochtige doek."
+  ],
+  "keys": [
+   "26261211",
+   "840e2404",
+   "b80de9dc"
+  ],
+  "requires": [
+   "11 verschillende bereidingsprogramma"
+  ],
+  "colours": [
+   "Pine Green",
+   "Smokey Blue"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal toepassingen",
+    "websiteSays": "De tekst zegt \"11 verschillende bereidingsprogramma's\" en noemt er 11, maar verderop \"Gebruik de Greenpan XL airfryer voor 10 verschillende toepassingen en meer\".",
+    "note": "Controleer het aantal programma's."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Greenpan\\ Bistro\\ AirFryer\\ DUAL\\ XL\\ 2\\ Basket\\ \\+\\ Bakset\\ 8\\-delig"
+  ],
+  "brandID": "greenpan",
+  "typeIDs": [
+   "airfryers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "GreenPan Bistro Airfryer Dual XL met een capaciteit van 8 liter; serveert tot 6 personen.",
+   "Twee aparte manden van elk 4 liter, apart te bedienen: twee gerechten tegelijk bereiden.",
+   "Van kunststof, aan de binnenkant een PFAS-vrije non-stick coating.",
+   "9 bereidingsprogramma's: friet, kip, kippenpoot, groenten, spek, vis, steak, garnalen en bakken.",
+   "4 kookstanden: air-fry, grill, roast en bake.",
+   "Wordt geleverd met een bakset: 8 muffinvormen en een tang.",
+   "Groot LCD-display.",
+   "Reinig de roosters en rekken met warm water en afwasmiddel; de oven aan de binnen- en buitenkant met een vochtige doek."
+  ],
+  "keys": [
+   "837a21c9"
+  ],
+  "requires": [
+   "twee aparte manden"
+  ]
+ }
+]

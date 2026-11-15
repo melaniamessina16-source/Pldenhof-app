@@ -1,0 +1,57 @@
+[
+ {
+  "match": [
+   "Westmark\\ Domesticus\\ groentemes\\ 7,5\\ cm\\ rvs"
+  ],
+  "brandID": "westmark",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden, schillen en hakken van groenten en fruit; ook ontpitten.",
+  "bullets": [
+   "Domesticus groentemes met een recht lemmet van roestvrij staal en een ergonomisch kunststof handvat.",
+   "Het lemmet blijft langdurig scherp en is eenvoudig te onderhouden.",
+   "Compact formaat en goede balans: optimale controle bij precisiewerk; het handvat geeft een stevige grip, ook bij natte handen."
+  ],
+  "keys": [
+   "07a0a79a"
+  ],
+  "brandName": "Westmark"
+ },
+ {
+  "match": [
+   "Westmark\\ wiegemes\\ dubbel\\ 18\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "westmark",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het fijnsnijden van kruiden of kaas.",
+  "bullets": [
+   "Dubbel wiegemes (mezzaluna) met een halvemaanvormig lemmet van messenstaal in twee delen en zwarte kunststof grepen.",
+   "Snijdt volgens de website dubbel zo snel als een enkele variant.",
+   "De ronde knop van de handgrepen ligt gemakkelijk in de hand. Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "39733bfa"
+  ]
+ },
+ {
+  "match": [
+   "Westmark\\ wiegemes\\ enkel\\ 18\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "westmark",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het fijnsnijden van kruiden of kaas.",
+  "bullets": [
+   "Enkel wiegemes (mezzaluna) met een halvemaanvormig lemmet van messenstaal en zwarte kunststof grepen.",
+   "Het lemmet wiegt makkelijk over de snijplank: snel en gemakkelijk verse kruiden fijnhakken.",
+   "De ronde knop van de handgrepen ligt gemakkelijk in de hand. Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "c7f22b00"
+  ]
+ }
+]

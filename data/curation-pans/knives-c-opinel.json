@@ -1,0 +1,976 @@
+[
+ {
+  "match": [
+   "Opinel\\ Carbone\\ No\\.\\ 02\\ zakmes\\ 3,5\\ cm\\ koolstofstaal\\ hout",
+   "Opinel\\ Carbone\\ No\\.\\ 03\\ zakmes\\ 4\\ cm\\ koolstofstaal\\ hout",
+   "Opinel\\ Carbone\\ No\\.\\ 04\\ zakmes\\ 5\\ cm\\ koolstofstaal\\ hout",
+   "Opinel\\ Carbone\\ No\\.\\ 05\\ zakmes\\ 6\\ cm\\ koolstofstaal\\ hout"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opinel Carbone klapmes (zakmes) met lemmet van koolstofstaal en houten heft.",
+   "Koolstofstaal is harder dan gewoon roestvrij staal; het lemmet kleurt donker bij gebruik.",
+   "Eenvoudig dicht te klappen: veilig mee te nemen onderweg.",
+   "Spitse punt en een veiligheidsring waarmee u het lemmet ingeklapt en uitgeklapt vergrendelt.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel; af en toe aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "ca37d099"
+  ],
+  "brandName": "Opinel"
+ },
+ {
+  "match": [
+   "Opinel\\ Carbone\\ No\\.\\ 06\\ zakmes\\ 16,5\\ cm\\ koolstofstaal\\ hout",
+   "Opinel\\ Carbone\\ No\\.\\ 08\\ zakmes\\ 19,3\\ cm\\ koolstofstaal\\ hout",
+   "Opinel\\ Carbone\\ No\\.\\ 09\\ zakmes\\ 21\\ cm\\ koolstofstaal\\ hout",
+   "Opinel\\ Carbone\\ No\\.10\\ zakmes\\ 23\\ cm\\ koolstofstaal\\ hout"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opinel Carbone zakmes met lemmet van koolstofstaal en houten heft.",
+   "Koolstofstaal is harder dan gewoon roestvrij staal.",
+   "Inklapbaar; spitse punt en een veiligheidsring waarmee u het lemmet ingeklapt en uitgeklapt vergrendelt.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel en grondig afdrogen."
+  ],
+  "keys": [
+   "19f75bd2"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: lengte",
+    "websiteSays": "Naam \"Opinel Carbone No. 08 zakmes 19,3 cm\"; specificatie Lengte: 19,5 cm",
+    "note": "Controleer de lengte.",
+    "only": "Opinel Carbone No. 08 zakmes 19,3 cm koolstofstaal hout"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Carbone\\ zakmes\\ No\\.\\ 07\\ 8\\ cm\\ koolstofstaal"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opinel Carbone No. 07 klapmes van koolstofstaal.",
+   "Koolstofstaal is harder dan gewoon roestvrij staal.",
+   "Spitse punt en een veiligheidsring waarmee u het lemmet ingeklapt en uitgeklapt vergrendelt.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel; af en toe aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "161acc45"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ No\\.\\ 10\\ zakmes\\ 10\\ cm\\ rvs"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Ideaal voor gebruik op reis, onderweg, tijdens het wandelen of kamperen.",
+  "bullets": [
+   "Opinel zakmes No. 10 van roestvrij staal met beukenhouten heft.",
+   "Ideaal voor gebruik op reis, onderweg, tijdens het wandelen of kamperen.",
+   "Spitse punt en een veiligheidsring waarmee u het lemmet ingeklapt en uitgeklapt vergrendelt.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel; af en toe aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "0364384f"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ zakmes\\ No\\.\\ 06\\ 7,2\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Ideaal voor gebruik op reis, onderweg, tijdens het wandelen of kamperen.",
+  "bullets": [
+   "Opinel zakmes No. 06 van roestvrij staal met beukenhouten heft.",
+   "Ideaal voor gebruik op reis, onderweg, tijdens het wandelen of kamperen.",
+   "Spitse punt en een veiligheidsring waarmee u het lemmet ingeklapt en uitgeklapt vergrendelt.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel; af en toe aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "67f73bbd"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ zakmes\\ No\\.\\ 07\\ 7,8\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Ideaal voor gebruik op reis, onderweg, tijdens het wandelen of kamperen.",
+  "bullets": [
+   "Opinel zakmes No. 07 van roestvrij staal met beukenhouten heft.",
+   "Ideaal voor gebruik op reis, onderweg, tijdens het wandelen of kamperen.",
+   "Spitse punt en een veiligheidsring waarmee u het lemmet ingeklapt en uitgeklapt vergrendelt.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel; af en toe aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "29766e86"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ zakmes\\ No\\.\\ 07\\ met\\ koord\\ 7,8\\ cm\\ rvs\\ blauw"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor uw snijwerk onderweg.",
+  "bullets": [
+   "Blauw Opinel zakmes No. 07 van roestvrij staal; houten heft met een koord aan het uiteinde om het mes op te hangen.",
+   "Voor uw snijwerk onderweg.",
+   "Spitse punt en een veiligheidsring waarmee u het lemmet ingeklapt en uitgeklapt vergrendelt.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel; af en toe aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "63cc2e6d"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ zakmes\\ No\\.\\ 09\\ 9\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor uw snijwerk onderweg.",
+  "bullets": [
+   "Opinel zakmes No. 09 van roestvrij staal met beukenhouten heft.",
+   "Voor uw snijwerk onderweg.",
+   "Spitse punt en een veiligheidsring waarmee u het lemmet ingeklapt en uitgeklapt vergrendelt.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel; af en toe aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "c9142a57"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ No\\.\\ 08\\ zakmes\\ met\\ leren\\ band\\ 8,5\\ cm\\ rvs"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opinel zakmes No. 08 met leren band: roestvrij staal en beukenhouten heft.",
+   "Eenvoudig dicht te klappen: veilig mee te nemen onderweg; met het touwtje kunt u het mes na gebruik ophangen.",
+   "Spitse punt en een veiligheidsring waarmee u het lemmet ingeklapt en uitgeklapt vergrendelt.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel; af en toe aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "90dede83"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ zakmes\\ No\\.\\ 02\\ 3,5\\ cm\\ rvs\\ naturel",
+   "Opinel\\ zakmes\\ No\\.\\ 03\\ 4\\ cm\\ rvs\\ naturel",
+   "Opinel\\ zakmes\\ No\\.\\ 04\\ 5\\ cm\\ rvs\\ naturel",
+   "Opinel\\ zakmes\\ No\\.\\ 10\\ 10\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opinel zakmes van roestvrij staal met beukenhouten heft.",
+   "Eenvoudig dicht te klappen: veilig mee te nemen onderweg.",
+   "Spitse punt en een veiligheidsring waarmee u het lemmet ingeklapt en uitgeklapt vergrendelt.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel; af en toe aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "5596fa73"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ zakmes\\ No\\.\\ 08\\ 8,5\\ cm\\ rvs",
+   "Opinel\\ zakmes\\ No\\.\\ 08\\ 8,5\\ cm\\ rvs\\ blauw",
+   "Opinel\\ zakmes\\ No\\.\\ 08\\ 8,5\\ cm\\ rvs\\ grijs",
+   "Opinel\\ zakmes\\ No\\.\\ 08\\ 8,5\\ cm\\ rvs\\ rood"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor uw snijwerk onderweg.",
+  "bullets": [
+   "Opinel zakmes No. 08 van roestvrij staal met beukenhouten heft.",
+   "Spitse punt en een veiligheidsring waarmee u het lemmet ingeklapt en uitgeklapt vergrendelt.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel; af en toe aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "3cb37384",
+   "03047dec"
+  ],
+  "colours": [
+   "blauw",
+   "grijs",
+   "rood"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ zakmes\\ No\\.\\ 04\\ sleutelhanger\\ 5\\ cm\\ rvs\\ blauw",
+   "Opinel\\ zakmes\\ No\\.\\ 04\\ sleutelhanger\\ 5\\ cm\\ rvs\\ groen",
+   "Opinel\\ zakmes\\ No\\.\\ 04\\ sleutelhanger\\ 5\\ cm\\ rvs\\ rood",
+   "Opinel\\ zakmes\\ No\\.\\ 04\\ sleutelhanger\\ 5\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om bijvoorbeeld pakketjes of brieven te openen.",
+  "bullets": [
+   "Opinel zakmes No. 4 als sleutelhanger, van roestvrij staal en beukenhout.",
+   "Het lemmet is van roestvrij staal om corrosie te voorkomen; het heft is waterdicht gemaakt, daardoor is het onderhoud minimaal.",
+   "Met de sleutelring makkelijk aan uw sleutelbos te bevestigen en mee te nemen.",
+   "Om bijvoorbeeld pakketjes of brieven te openen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e6ff4b49",
+   "67e5b785",
+   "57c1cc20",
+   "2ce3e072"
+  ],
+  "colours": [
+   "blauw",
+   "groen",
+   "rood",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ zakmes\\ /\\ kurkentrekker\\ 10\\ cm\\ beukenhout\\ bruin"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor snijwerk onderweg en het openen van wijnflessen.",
+  "bullets": [
+   "Opinel zakmes met kurkentrekker, van roestvrij staal en beukenhout.",
+   "Bevat een mes en een kurkentrekker met roestvrijstalen spiraal met 5 gegroefde schroefgangen.",
+   "Het lemmet kunt u ingeklapt en uitgeklapt vergrendelen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "24095fba"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ No\\.\\ 09\\ inklapbaar\\ oestermes\\ hout"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het openen van oesters.",
+  "bullets": [
+   "Opinel No. 09 inklapbaar oestermes van roestvrij staal en hout.",
+   "Het lemmet vergrendelt u zowel ingeklapt als uitgeklapt met de veiligheidsring tussen lemmet en heft.",
+   "Plaats het mes tussen de oesterschelpen en wrik deze langzaam los.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f04707a1"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ N°07\\ Chestnut\\ \\&\\ Garlic\\ kastanjemes"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het insnijden en schillen van kastanjes, het pellen van knoflook en het verwijderen van zaden en klokhuizen uit fruit.",
+  "bullets": [
+   "Opinel N°07 Chestnut & Garlic kastanjemes: handvat van kastanjehout, kort roestvrijstalen lemmet van Sandvik 12C27 staal.",
+   "Inklapbaar en te vergrendelen met het Virobloc-veiligheidssysteem, open of gesloten.",
+   "Compact formaat en geslepen punt: zeer geschikt voor precieze snijwerkzaamheden.",
+   "Ontworpen en gefabriceerd in Frankrijk.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2842c8cf"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ kinderzakmes\\ No\\.\\ 07\\ 7,8\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Bij uitstek geschikt voor de jonge kampeerder en scout.",
+  "bullets": [
+   "Opinel kinderzakmes No. 07 (\"Mijn eerste Opinel\") van roestvrij staal met hout.",
+   "Afgeronde punt voorkomt steekongelukken; compact formaat voor kleine handen.",
+   "Met de veiligheidsring wordt het mes ingeklapt en uitgeklapt vergrendeld.",
+   "Om mee te snijden, schillen en smeren.",
+   "Reinigen met warm water en afwasmiddel; af en toe aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "17488b04"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ My\\ First\\ kinderzakmes\\ met\\ etui"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opinel My First kinderzakmes met roestvrijstalen lemmet en houten handvat.",
+   "Komt in een etui van gerecycled plastic en afvalleer.",
+   "Het mes heeft een ronde punt, daardoor ook ideaal voor smeren.",
+   "Handige sluitring zodat het mes goed open of dicht blijft.",
+   "Reinigen met de hand."
+  ],
+  "keys": [
+   "884506d7"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Cheese\\ kaasmes\\ met\\ vork\\ 25\\ cm\\ rvs\\ hout"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opinel Cheese set: kaasmes met vork (2 delen), van roestvrij staal; het kaasmes heeft een beukenhouten heft.",
+   "De vork gebruikt u om blokjes kaas te verplaatsen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4a105383"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Garden\\ champignonmes\\ no\\.\\ 08\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het plukken en schoonmaken van champignons.",
+  "bullets": [
+   "Opinel Garden inklapbaar champignonmes no. 08 met borsteltje: roestvrij staal, beukenhouten heft.",
+   "Aan de achterzijde van het heft zit een borsteltje voor het schoonmaken van champignons.",
+   "De kromming van het lemmet is ontworpen voor het afsnijden van de stelen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a229c555"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ No\\.\\ 125\\ Pro\\ steakmes\\ 11\\ cm\\ zwart\\ 4\\ stuks"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van gevogelte, vlees en groente aan tafel; ook voor bereidingen.",
+  "bullets": [
+   "Opinel No. 125 Pro steakmes (tafelmes), set van Bon Appétit+ steakmessen; lemmet van messenstaal met micro-karteling, heft van zwart kunststof.",
+   "Snijdt makkelijk door vlees; u steekt het eenvoudig in etenswaren.",
+   "Ergonomische heften.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "5c0b155e"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ steakmes\\ N°125\\ 22\\ cm\\ rvs\\ lichtgroen",
+   "Opinel\\ steakmes\\ N°125\\ 22\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van ingrediënten, zoals gevogelte, vlees en groente aan tafel; ook voor bereidingen.",
+  "bullets": [
+   "Opinel steakmes (tafelmes) N°125 van roestvrij staal en hout.",
+   "Lemmet met een lang, scherp snijvlak en een puntig uiteinde: snijdt makkelijk door vlees en u steekt het eenvoudig in etenswaren, bijvoorbeeld biefstuk.",
+   "Reinigen met warm water en afwasmiddel; direct afdrogen."
+  ],
+  "keys": [
+   "e4ffecee",
+   "47f34e2e"
+  ],
+  "colours": [
+   "lichtgroen",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Essentials\\ messenset\\ rvs\\ rood\\ 4\\-delig"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden en schillen van uw dagelijkse etenswaren.",
+  "bullets": [
+   "Opinel Essentials messenset, 4-delig, van roestvrij staal: officemes, tomatenmes, tourneermes en dunschiller.",
+   "Nr 112 officemes (rood), Nr 113 tomatenmes (donkergroen), Nr 114 tourneermes (lichtbruin), Nr 115 dunschiller (zwart).",
+   "Officemes voor groenten, tomatenmes voor zacht etenswaar zoals tomaten, tourneermes voor fruit, dunschiller voor bijvoorbeeld aardappelen en wortelen.",
+   "Reinigen met warm water en afwasmiddel; direct afdrogen."
+  ],
+  "keys": [
+   "5a683431"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Intempora\\ Trio\\ messenset\\ 3\\-delig"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden en schillen van uw dagelijkse etenswaren.",
+  "bullets": [
+   "Opinel Intempora Trio messenset, 3-delig: koksmes (Nr 218), vleesmes (Nr 220) en schilmes (Nr 225).",
+   "Lemmeten van 12C27 Sandvik staal, full tang (het lemmet loopt door onder het heft); donkerblauw kunststof handvat.",
+   "Hardheid volgens specificaties: 58 HRC.",
+   "Reinigen met warm water en afwasmiddel; direct afdrogen."
+  ],
+  "keys": [
+   "d5fc707d"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Le\\ Petit\\ Chef\\ messenset\\ rvs\\ rood\\ 3\\-delig",
+   "Opinel\\ Le\\ Petit\\ Chef\\ messenset\\ rvs\\ blauw\\ 3\\-delig"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Opinel Le Petit Chef messenset voor kinderen, 3-delig: een mes, een dunschiller en een vingerbeschermer.",
+   "Mes en dunschiller van roestvrij staal met houten heft, met een ring voor de wijsvinger zodat het mes niet wegglijdt; afgeronde punt.",
+   "De meegeleverde vingerbeschermer leert kinderen de juiste snijhouding aan.",
+   "Reinigen van de onderdelen met warm water en afwasmiddel; regelmatig aanzetten op een aanzetstaal."
+  ],
+  "keys": [
+   "cd3dd95f",
+   "d72f3db0"
+  ],
+  "colours": [
+   "rood",
+   "blauw"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Les\\ Forgés\\ 1890\\ broodmes\\ 21\\ cm\\ rvs"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden door de taaie korst van brood.",
+  "bullets": [
+   "Opinel Les Forgés 1890 broodmes met kartels.",
+   "Voor het snijden door de taaie korst van brood.",
+   "Gesmeed uit Acier X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "eb191b60"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Les\\ Forgés\\ 1890\\ fileermes\\ 18\\ cm\\ rvs"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het fileren van vlees en vis.",
+  "bullets": [
+   "Opinel Les Forgés 1890 fileermes.",
+   "Voor het fileren van vlees en vis.",
+   "Gesmeed uit Acier X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "92a49851"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Les\\ Forgés\\ 1890\\ koksmes\\ 17\\ cm\\ rvs",
+   "Opinel\\ Les\\ Forgés\\ 1890\\ koksmes\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van diverse ingrediënten.",
+  "bullets": [
+   "Opinel Les Forgés 1890 koksmes.",
+   "Voor het snijden van diverse ingrediënten.",
+   "Gesmeed uit Acier X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "89ac5697"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Les\\ Forgés\\ 1890\\ Santoku\\ 17\\ cm\\ rvs"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van diverse soorten ingrediënten.",
+  "bullets": [
+   "Opinel Les Forgés 1890 Santoku.",
+   "De kuiltjes in het lemmet zorgen dat ingrediënten niet aan het lemmet blijven plakken.",
+   "Voor het snijden van diverse soorten ingrediënten.",
+   "Gesmeed uit Acier X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b4448de9"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Les\\ Forgés\\ 1890\\ schilmes\\ 8\\ cm\\ rvs"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en snijden van groenten en fruit.",
+  "bullets": [
+   "Opinel Les Forgés 1890 schilmes.",
+   "Voor het schillen en snijden van groenten en fruit.",
+   "Gesmeed uit Acier X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a1b83e4a"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Les\\ Forgés\\ 1890\\ vleesmes\\ 16\\ cm\\ rvs"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van zowel rauw als bereid vlees.",
+  "bullets": [
+   "Opinel Les Forgés 1890 vleesmes.",
+   "Voor het snijden van zowel rauw als bereid vlees.",
+   "Gesmeed uit Acier X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "94de6b4e"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Parallèle\\ messenset\\ rvs\\ naturel\\ 3\\-delig"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van diverse ingrediënten.",
+  "bullets": [
+   "Opinel Parallèle messenset rvs naturel, 3-delig: koksmes 20 cm, vleesmes 16 cm, officemes 8 cm.",
+   "Gesmeed uit X50CrMoV15 staal, roestvrij staal met een hoge weerstand tegen corrosie; naturel beukenhouten heft.",
+   "Het lemmet loopt in het gehele heft door; het hout komt uit een ecologisch beheerd bos, is niet gevernist en waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "967e59a8"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Parallèle\\ No\\.\\ 116\\ broodmes\\ 21\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van vers brood of gebak.",
+  "bullets": [
+   "Opinel Parallèle No. 116 broodmes met beukenhouten heft.",
+   "De geslepen zijde zit aan de linkerkant van het lemmet: ideaal voor linkshandigen, maar ook bruikbaar voor rechtshandigen.",
+   "Voor het snijden van vers brood of gebak.",
+   "Gesmeed uit X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7ce2b64e"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst: uitbeenmes",
+    "websiteSays": "De onderste tekst spreekt van \"het Opinel Parallèle uitbeenmes\"",
+    "note": "Tekst is van een ander Parallèle-mes overgenomen; controleer."
+   },
+   {
+    "topic": "Lengte",
+    "websiteSays": "Naam \"21 cm\"; specificatie Lengte lemmet: 20 cm",
+    "note": "Controleer de lemmetlengte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Parallèle\\ No\\.\\ 118\\ koksmes\\ 20\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van diverse ingrediënten.",
+  "bullets": [
+   "Opinel Parallèle No. 118 koksmes met beukenhouten heft.",
+   "Voor het snijden van diverse ingrediënten.",
+   "Gesmeed uit X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1c35965b"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Parallèle\\ No\\.\\ 119\\ Santoku\\ 17\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van diverse soorten ingrediënten.",
+  "bullets": [
+   "Opinel Parallèle No. 119 Santoku met beukenhouten heft.",
+   "Voor het snijden van diverse soorten ingrediënten.",
+   "Gesmeed uit X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a3e0c53b"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Parallèle\\ No\\.\\ 120\\ vleesmes\\ 16\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van zowel rauw als bereid vlees.",
+  "bullets": [
+   "Opinel Parallèle No. 120 vleesmes met beukenhouten heft.",
+   "Voor het snijden van zowel rauw als bereid vlees.",
+   "Gesmeed uit X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c4834d72"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst: uitbeenmes",
+    "websiteSays": "De onderste tekst spreekt van \"het Opinel Parallèle uitbeenmes\"",
+    "note": "Tekst is van een ander Parallèle-mes overgenomen; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Parallèle\\ No\\.\\ 121\\ fileermes\\ 18\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het fileren van zachte vleessoorten en platte vissen.",
+  "bullets": [
+   "Opinel Parallèle No. 121 fileermes met beukenhouten heft.",
+   "Voor het fileren van zachte vleessoorten en platte vissen.",
+   "Gesmeed uit X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "233c1c7a"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Parallèle\\ No\\.\\ 122\\ uitbeenmes\\ 13\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om vlees van botten te halen, te onthuiden, te ontvliezen en pezen te verwijderen.",
+  "bullets": [
+   "Opinel Parallèle No. 122 uitbeenmes met beukenhouten heft.",
+   "Om vlees van botten te halen, te onthuiden, te ontvliezen en pezen te verwijderen.",
+   "Gesmeed uit X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "af392a21"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ Parallèle\\ No\\.\\ 126\\ officemes\\ 8\\ cm\\ rvs\\ naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het kleinere snijwerk in de keuken.",
+  "bullets": [
+   "Opinel Parallèle No. 126 officemes met beukenhouten heft.",
+   "Voor het kleinere snijwerk in de keuken.",
+   "Gesmeed uit X50CrMoV15 staal: roestvrij staal met een hoge weerstand tegen corrosie.",
+   "Het lemmet loopt in het gehele heft door (sterkte en evenwicht); heft van beukenhout uit ecologisch beheerd bos, niet gevernist, waterbestendig gemaakt.",
+   "Ergonomisch profiel, een eerbetoon aan het traditionele zakmes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b0baf063"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ officemes\\ Nr\\.\\ 112\\ 10\\ cm\\ rvs\\ Naturel"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het kleinere snijwerk in de keuken: het schillen en voorbereiden van groenten en fruit.",
+  "bullets": [
+   "Opinel officemes no. 112 met roestvrijstalen lemmet en heft van naturelkleurig hout.",
+   "Voor het kleinere snijwerk in de keuken: het schillen en voorbereiden van groenten en fruit.",
+   "Het lemmet gaat door het gebruik verkleuren.",
+   "Regelmatig aanzetten op een aanzetstaal; reinigen met warm water en afwasmiddel en direct afdrogen."
+  ],
+  "keys": [
+   "65a5904a"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ tomatenmes\\ No\\.113\\ 10\\ cm\\ rvs\\ groen"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van bijvoorbeeld tomaten, worst en geroosterd vlees.",
+  "bullets": [
+   "Opinel tomatenmes No. 113 van roestvrij staal met houten heft; spits, licht gebogen uiteinde.",
+   "Het snijvlak heeft kartels: ideaal voor het snijden van bijvoorbeeld tomaten, broodjes en hardgekookte eieren.",
+   "Reinigen met warm water en afwasmiddel; direct afdrogen."
+  ],
+  "keys": [
+   "af7962b5"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ tourneermes\\ No\\.114\\ 7\\ cm\\ rvs\\ groen"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het tonvormig snijden en schillen (tourneren) van groenten en fruit.",
+  "bullets": [
+   "Opinel tourneermes No. 114 van roestvrij staal met houten heft.",
+   "Licht gebogen, spits uiteinde en een schraper aan de bovenzijde: u schraapt, schilt en snijdt uw groenten.",
+   "Voor het tonvormig snijden en schillen (tourneren) van groenten en fruit.",
+   "Reinigen met warm water en afwasmiddel; direct afdrogen."
+  ],
+  "keys": [
+   "efdd5337"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ tourneermes\\ No\\.114\\ 7\\ cm\\ rvs\\ hout"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het tonvormig snijden en schillen (tourneren) van groenten en fruit.",
+  "bullets": [
+   "Opinel tourneermes No. 114 van roestvrij staal met houten heft.",
+   "Licht gebogen, spits uiteinde en een schraper aan de bovenzijde: u schraapt, schilt en snijdt uw groenten.",
+   "Voor het tonvormig snijden en schillen (tourneren) van groenten en fruit.",
+   "Reinigen met warm water en afwasmiddel; direct afdrogen."
+  ],
+  "keys": [
+   "692516f9"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ natuurlijke\\ slijpsteen\\ 14\\ x\\ 5\\ x\\ 1,4\\ cm"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Om kleine messen, scharen of andere metalen snijvlakken te vlakken en scherp te houden.",
+  "bullets": [
+   "Opinel natuurlijke slijpsteen: rechthoekige wetsteen van Pyrenese natuursteen, 14 x 5 x 1,4 cm.",
+   "Grove structuur; korrel 1000, voldoende om de meeste messen snel weer scherp te maken.",
+   "Gebruik met water om het slijpproces te ondersteunen en het materiaal koel te houden.",
+   "Na gebruik reinigen met warm water en een zachte borstel; laat de steen volledig drogen voordat u hem opbergt."
+  ],
+  "keys": [
+   "4a351ac0"
+  ],
+  "mismatches": [
+   {
+    "topic": "Steensoort",
+    "websiteSays": "Eerste alinea: \"Pyrenese natuursteen\"; onderste tekst: \"Pyrenese leisteen\"",
+    "note": "Controleer de steensoort."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ natuurlijke\\ wetsteen\\ 10\\ cm"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Om Opinel zakmessen te slijpen.",
+  "bullets": [
+   "Opinel wetsteen van natuurlijke steen, 10 cm lang.",
+   "Maak de steen nat en haal het mesje in een scherpe hoek over de steen.",
+   "Na het slijpen kan slijpsel achterblijven op het mes."
+  ],
+  "keys": [
+   "bccb2926"
+  ]
+ },
+ {
+  "match": [
+   "Opinel\\ zakaanzetstaal\\ 8\\ cm\\ hardverchroomd\\ rvs"
+  ],
+  "brandID": "opinel",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het aanzetten van schil- en zakmessen met een kleiner lemmet.",
+  "bullets": [
+   "Opinel zakaanzetstaal van martensitisch staal, 8 cm lang; makkelijk mee te nemen.",
+   "Voor het aanzetten van schil- en zakmessen met een kleiner lemmet.",
+   "Aanzetten haalt braampjes en oneffenheden weg en geeft minder weerstand bij het snijden.",
+   "Haal het mes 6-8 keer langs het aanzetstaal, met de juiste hoek en niet te veel druk.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f6f7aed9"
+  ]
+ }
+]

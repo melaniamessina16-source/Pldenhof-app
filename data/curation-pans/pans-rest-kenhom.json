@@ -1,0 +1,56 @@
+[
+ {
+  "match": [
+   "Ken\\ Hom\\ Classic\\ wok\\ ø\\ 32\\ cm\\ carbonstaal"
+  ],
+  "brandID": "kenhom",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bereiden van roerbakgerechten, wokgerechten en snelle sauteergerechten op hoge temperaturen.",
+  "bullets": [
+   "Classic wok van koolstofstaal (carbonstaal) met houten steel, diameter 32 cm; traditioneel Chinees ontwerp.",
+   "Dun (1,4 mm) maar sterk koolstofstaal: warmt snel op en verdeelt de hitte gelijkmatig; ontwikkelt na regelmatig gebruik een natuurlijke antiaanbaklaag.",
+   "Voor gebruik inbranden (bescherming tegen roest).",
+   "Geschikt voor gas en elektrisch; NIET geschikt voor inductie.",
+   "Met de hand afwassen (spec)."
+  ],
+  "keys": [
+   "b9dd67ab"
+  ],
+  "brandName": "Ken Hom",
+  "mismatches": [
+   {
+    "topic": "Tekst",
+    "websiteSays": "Tekst spreekt van \"de wokset\" terwijl de pagina een losse wok is",
+    "note": "Tekst waarschijnlijk van de set overgenomen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Ken\\ Hom\\ Classic\\ wokset\\ ø\\ 31\\ cm\\ 10\\-delig"
+  ],
+  "brandID": "kenhom",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bereiden van roerbakgerechten, wokgerechten en snelle sauteergerechten op hoge temperaturen.",
+  "bullets": [
+   "Classic wokset met wokpan van koolstofstaal (carbonstaal) met houten steel, diameter 31 cm.",
+   "Set bevat: 1 wok, 1 tempurarek, 2 kookstokjes, 8 eetstokjes, 1 spatel, 1 instructie- en receptenboek, 1 deksel.",
+   "Koolstofstaal warmt snel op en verdeelt de hitte gelijkmatig; ontwikkelt na regelmatig gebruik een natuurlijke antiaanbaklaag; voor gebruik inbranden.",
+   "Geschikt voor gas en elektrisch; NIET geschikt voor inductie."
+  ],
+  "keys": [
+   "8d66f591"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal delen",
+    "websiteSays": "Naam en spec: 10-delig; tekst somt 15 stuks op (1+1+2+8+1+1+1)",
+    "note": "Check het aantal delen."
+   }
+  ]
+ }
+]

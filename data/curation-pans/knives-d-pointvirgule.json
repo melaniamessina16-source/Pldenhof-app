@@ -1,0 +1,98 @@
+[
+ {
+  "match": [
+   "Point\\-Virgule\\ hakblok\\ 45\\ x\\ 35\\ cm\\ FSC\\ bamboe"
+  ],
+  "brandID": "pointvirgule",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Als ondergrond bij het verdelen van vlees met een hakbijl; ook te gebruiken als gewone snijplank.",
+  "bullets": [
+   "Hakblok van bamboe met FSC-keurmerk.",
+   "Bamboe beschadigt uw messen niet, absorbeert nauwelijks vocht en heeft een bacterieremmende werking.",
+   "Regelmatig inoliën met een geschikte onderhoudsolie voor snijplanken voorkomt barsten in het hout.",
+   "Reinigen met warm water en afwasmiddel en direct grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "d2e0e2e1"
+  ],
+  "brandName": "Point Virgule"
+ },
+ {
+  "match": [
+   "Point\\-Virgule\\ Medium\\ snijplank\\ 34\\ x\\ 15,8\\ cm\\ FSC\\ bamboe"
+  ],
+  "brandID": "pointvirgule",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Voor het snijden van verschillende etenswaren.",
+  "bullets": [
+   "Snijplank van bamboe met FSC-keurmerk.",
+   "Bamboe beschadigt uw messen niet, absorbeert nauwelijks vocht en heeft een bacterieremmende werking.",
+   "Regelmatig inoliën met een geschikte onderhoudsolie voor snijplanken voorkomt barsten in het hout.",
+   "Reinigen met warm water en afwasmiddel en direct grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "64b05da3"
+  ]
+ },
+ {
+  "match": [
+   "Point\\-Virgule\\ snijplank\\ met\\ sapgeul\\ 40\\ x\\ 30\\ cm\\ FSC\\ bamboe"
+  ],
+  "brandID": "pointvirgule",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Snijplank van bamboe met FSC-keurmerk met een sapgeul die vocht uit vlees of fruit opvangt, zodat uw aanrecht schoon blijft.",
+   "De andere zijde is volledig vlak en ook te gebruiken als snijoppervlak.",
+   "Bamboe beschadigt uw messen niet, absorbeert nauwelijks vocht en heeft een bacterieremmende werking.",
+   "Regelmatig inoliën met een geschikte onderhoudsolie voor snijplanken voorkomt barsten in het hout.",
+   "Reinigen met warm water en afwasmiddel en direct grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "2d1d55fd"
+  ]
+ },
+ {
+  "match": [
+   "Point\\ Virgule\\ messenlegger\\ 43\\ x\\ 9,5\\ x\\ 4\\ cm\\ FSC\\ bamboe"
+  ],
+  "brandID": "pointvirgule",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Om uw messen veilig op te bergen in een lade.",
+  "bullets": [
+   "Messenlegger van bamboe met FSC-keurmerk: door de vormgeving samen met uw messen veilig in een lade op te bergen.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "a721b457"
+  ]
+ },
+ {
+  "match": [
+   "Point\\-Virgule\\ pizzames\\ met\\ serveerplank\\ uit\\ acaciahout"
+  ],
+  "brandID": "pointvirgule",
+  "typeIDs": [
+   "keukenmessen",
+   "snijplanken"
+  ],
+  "suitedFor": "Voor het snijden of serveren van pizza.",
+  "bullets": [
+   "Pizzaset (2-delig): pizzames met een acaciahouten handvat en een bijbehorende ronde acaciahouten snijplank/serveerplank.",
+   "De groeven in de serveerplank helpen om pizzapunten in gelijke stukken te snijden.",
+   "Door het zwarte pizzames en de leren lus heeft de set een stoer uiterlijk; de serveerplank is op te hangen aan de lus.",
+   "Serveerplank af en toe insmeren met olijfolie; reinigen met warm water en milde zeep."
+  ],
+  "keys": [
+   "f3a9972c"
+  ]
+ }
+]

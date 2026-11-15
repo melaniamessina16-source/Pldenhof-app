@@ -1,0 +1,28 @@
+[
+ {
+  "match": [
+   "Tokyo\\ design\\ Yukihira\\ pan\\ ø\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "tdk",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Om authentieke Japanse gerechten te maken.",
+  "bullets": [
+   "Yukihira pan (Tokyo Design Kitchen) van roestvrij staal, ronde pan met stevig handvat; diameter 20 cm, hoogte 6 cm.",
+   "Geschikt voor inductie en gas (spec ook keramisch).",
+   "Met de hand afwassen adviseert de website."
+  ],
+  "keys": [
+   "a6ae44fb"
+  ],
+  "brandName": "TDK",
+  "mismatches": [
+   {
+    "topic": "Merk",
+    "websiteSays": "Merkveld: TDK; naam/tekst: Tokyo Design (Kitchen)",
+    "note": "Check de merknaam."
+   }
+  ]
+ }
+]

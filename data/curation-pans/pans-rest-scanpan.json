@@ -1,0 +1,159 @@
+[
+ {
+  "match": [
+   "Scanpan\\ 70\\ Years\\ Classic\\ braadslede\\ 39\\ x\\ 27\\ cm\\ aluminium"
+  ],
+  "brandID": "scanpan",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bereiden van vlees, groenten, ovenschotels en andere ovenbereidingen.",
+  "bullets": [
+   "70 Years Classic braadslede van handgegoten aluminium met Stratanium® anti-aanbaklaag (bestand tegen metalen keukengerei); 39 x 27 cm, inhoud 5 liter.",
+   "Gegoten aluminium verdeelt de warmte snel en gelijkmatig; het aluminium bestaat voor minimaal 90% uit gerecycled materiaal.",
+   "Geschikt voor gas, elektrisch, keramisch en halogeen en voor de oven tot 250 °C; NIET geschikt voor inductie.",
+   "Gemaakt in Denemarken. Reinigen met warm water en afwasmiddel, eerst laten afkoelen (spec: vaatwasmachinebestendig)."
+  ],
+  "keys": [
+   "de086fee"
+  ],
+  "brandName": "Scanpan"
+ },
+ {
+  "match": [
+   "Scanpan\\ Classic\\ braadslede\\ 34\\ x\\ 22\\ cm\\ aluminium\\ anti\\-aanbaklaag",
+   "Scanpan\\ Classic\\ braadslede\\ 39\\ x\\ 27\\ cm\\ aluminium\\ anti\\-aanbaklaag",
+   "Scanpan\\ Classic\\ braadslede\\ 44\\ x\\ 32\\ cm\\ aluminium\\ anti\\-aanbaklaag"
+  ],
+  "brandID": "scanpan",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het braden van vlees, vis en gevogelte; ook voor het bakken van stukken vlees, ovenschotels of suddergerechten.",
+  "bullets": [
+   "Classic braadslede van een legering van titanium en aluminium (Squeeze Cast), met een titanium anti-aanbaklaag die zich verankert met het aluminium.",
+   "Hoge dichtheid van het aluminium: zeer goede warmteverdeling door de hele braadslede.",
+   "Eerst aanbakken op het fornuis en daarna verder braden in de oven.",
+   "Geschikt voor gas, elektrisch, keramisch, halogeen en de oven (inductie wordt niet genoemd).",
+   "10 jaar garantie op de Classic braadslede; reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "17f3d2e3"
+  ]
+ },
+ {
+  "match": [
+   "Scanpan\\ Impact\\ braadslede\\ met\\ rooster\\ 42\\ x\\ 26\\ cm\\ rvs"
+  ],
+  "brandID": "scanpan",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Ook geschikt voor het bereiden van ovenschotels als lasagne en Shepherd's pie.",
+  "bullets": [
+   "Impact braadslede met los braadrooster, van roestvrij staal, met dikke ingekapselde bodem.",
+   "Geschikt voor de oven en voor alle directe warmtebronnen, inclusief inductie.",
+   "Op het fornuis grote braadstukken aanbraden en deglaceren voor jus; met het rooster blijft vlees uit het braadvocht en wordt gevogelte rondom krokant.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "66e0e0b6"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen",
+    "websiteSays": "Naam: 42 x 26 cm; tekst en spec: 35 x 26 cm (inclusief handgrepen 42,5 cm lang); spec Totale hoogte: 27036",
+    "note": "Naam geeft maat inclusief handgrepen; \"Totale hoogte 27036\" in de spec is geen maat."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Scanpan\\ Nura\\ koekenpan\\ ø\\ 20\\ cm"
+  ],
+  "brandID": "scanpan",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van onder andere eieren, vlees, vis en groenten.",
+  "bullets": [
+   "Nura koekenpan, ø 20 cm.",
+   "5-laags constructie van roestvrij staal en aluminium (aluminium kern voor gelijkmatige warmteverdeling); geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Stratanium® Leap anti-aanbaklaag, zonder PFAS geproduceerd (geen PTFE, geen keramische coating); bakken met weinig of zonder toegevoegd vet.",
+   "Geborstelde roestvrijstalen steel met gebogen onderzijde voor stevige grip.",
+   "Ovenbestendig tot 250 °C; geproduceerd in Denemarken met gerecycled roestvrij staal.",
+   "Reinigen met warm water en afwasmiddel en goed afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "25524276"
+  ]
+ },
+ {
+  "match": [
+   "Scanpan\\ Nura\\ koekenpan\\ ø\\ 24\\ cm",
+   "Scanpan\\ Nura\\ koekenpan\\ ø\\ 26\\ cm",
+   "Scanpan\\ Nura\\ koekenpan\\ ø\\ 28\\ cm"
+  ],
+  "brandID": "scanpan",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van onder andere vlees, vis, aardappelen en groenten.",
+  "bullets": [
+   "Nura koekenpan.",
+   "5-laags constructie van roestvrij staal en aluminium (aluminium kern voor gelijkmatige warmteverdeling); geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Stratanium® Leap anti-aanbaklaag, zonder PFAS geproduceerd (geen PTFE, geen keramische coating); bakken met weinig of zonder toegevoegd vet.",
+   "Geborstelde roestvrijstalen steel met gebogen onderzijde voor stevige grip.",
+   "Ovenbestendig tot 250 °C; geproduceerd in Denemarken met gerecycled roestvrij staal.",
+   "Reinigen met warm water en afwasmiddel en goed afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "4089e3f9"
+  ]
+ },
+ {
+  "match": [
+   "Scanpan\\ Nura\\ koekenpan\\ ø\\ 32\\ cm"
+  ],
+  "brandID": "scanpan",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Het ruime bakoppervlak biedt plaats aan grotere hoeveelheden vlees, vis, aardappelen en groenten.",
+  "bullets": [
+   "Nura koekenpan, ø 32 cm.",
+   "5-laags constructie van roestvrij staal en aluminium (aluminium kern voor gelijkmatige warmteverdeling); geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Stratanium® Leap anti-aanbaklaag, zonder PFAS geproduceerd (geen PTFE, geen keramische coating); bakken met weinig of zonder toegevoegd vet.",
+   "Geborstelde roestvrijstalen steel met gebogen onderzijde voor stevige grip.",
+   "Ovenbestendig tot 250 °C; geproduceerd in Denemarken met gerecycled roestvrij staal.",
+   "Reinigen met warm water en afwasmiddel en goed afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "9e7fb4d1"
+  ]
+ },
+ {
+  "match": [
+   "Scanpan\\ Nura\\ sauteerpan\\ met\\ deksel\\ ø\\ 26\\ cm"
+  ],
+  "brandID": "scanpan",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Geschikt voor het bakken, braden en stoven van gerechten.",
+  "bullets": [
+   "Nura sauteerpan met glazen deksel, ø 26 cm, inhoud 3,7 liter; hoge rand voor grotere hoeveelheden en gerechten met sauzen of vloeistoffen.",
+   "5-laags constructie van roestvrij staal en aluminium kern; geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Stratanium® Leap anti-aanbaklaag, zonder PFAS geproduceerd (geen PTFE, geen keramische coating).",
+   "Ovenbestendig tot 250 °C; geproduceerd in Denemarken met gerecycled roestvrij staal.",
+   "Reinigen (pan en glazen deksel) met warm water en afwasmiddel en goed afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "a6c889ca"
+  ]
+ }
+]

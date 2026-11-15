@@ -1,0 +1,27 @@
+[
+ {
+  "match": [
+   "Le\\ Creuset\\ pompoen\\ mini\\ braadpan\\ ø\\ 11\\ cm\\ aardewerk\\ wit"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Om kleine (bij)gerechtjes of desserts te presenteren.",
+  "bullets": [
+   "Witkleurig pompoen minipannetje van geglazuurd aardewerk; diameter 11 cm, inhoud 340 ml.",
+   "Voor het presenteren van kleine (bij)gerechtjes of desserts; ook voor een individueel gerecht of bijgerecht.",
+   "Sterk, slijtvast en krasbestendig glazuur; het materiaal absorbeert geen smaak of geur.",
+   "Geschikt voor diepvries, oven en magnetron; voor koude en warme gerechten.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "5aa19374"
+  ],
+  "brandName": "Le Creuset",
+  "requires": [
+   "340 ml",
+   "krasbestendig"
+  ]
+ }
+]

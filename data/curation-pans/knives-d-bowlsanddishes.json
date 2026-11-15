@@ -1,0 +1,39 @@
+[
+ {
+  "match": [
+   "Bowls\\ and\\ Dishes\\ Forged\\ steakmessenset\\ olijfhout\\ 4\\-delig"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van verschillende vleessoorten of als tafelmes.",
+  "bullets": [
+   "Forged steakmessenset van 4 messen (volgens de naam) met rvs lemmetten en handvatten van olijfhout.",
+   "Het lemmet is uit één stuk gesmeed, heeft een karakteristieke structuur en blijft scherp tijdens gebruik.",
+   "Geschikt voor dagelijks gebruik en speciale gelegenheden; handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e6afa1d3"
+  ],
+  "brandName": "Bowls and Dishes"
+ },
+ {
+  "match": [
+   "Bowls\\ and\\ Dishes\\ steakmessenset\\ acaciahout\\ 4\\-delig"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Ontworpen voor het snijden van vlees aan tafel: een feestelijk diner, een barbecue of een borrelplank.",
+  "bullets": [
+   "Steakmessenset van 4 messen (volgens de naam) met scherpe rvs lemmetten en handvatten van acaciahout.",
+   "Het lemmet snijdt vlees gecontroleerd zonder te scheuren; de handvatten bieden een comfortabele grip.",
+   "Geschikt voor dagelijks gebruik en speciale diners; handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c5972c85"
+  ]
+ }
+]

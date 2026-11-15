@@ -1,0 +1,86 @@
+[
+ {
+  "match": [
+   "SKÅGFÄ\\ KLYV\\ Classic\\ kidssafe\\ kindermes\\ Aqua",
+   "SKÅGFÄ\\ KLYV\\ Classic\\ kidssafe\\ kindermes\\ Cornflower",
+   "SKÅGFÄ\\ KLYV\\ Classic\\ kidssafe\\ kindermes\\ Lavendel",
+   "SKÅGFÄ\\ KLYV\\ Classic\\ kidssafe\\ kindermes\\ Lime",
+   "SKÅGFÄ\\ KLYV\\ Classic\\ kidssafe\\ kindermes\\ Orchid",
+   "SKÅGFÄ\\ KLYV\\ Classic\\ kidssafe\\ kindermes\\ Terra"
+  ],
+  "brandID": "skagfa",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor jonge koks die veilig willen leren snijden; groenten en fruit.",
+  "bullets": [
+   "Klyv Classic kidssafe kindermes met een scherp, maar kindvriendelijk roestvrijstalen lemmet en een gekleurde handgreep (kleur: zie productnaam).",
+   "Ergonomisch gevormde handgreep afgestemd op kleinere handen: meer controle tijdens het snijden.",
+   "Geschikt voor zowel links- als rechtshandige kinderen.",
+   "Skågfä Klyv kinderkookgereedschappen: laat kinderen spelenderwijs meehelpen in de keuken.",
+   "Vaatwasmachinebestendig, maar voor een langere levensduur wordt handafwas aangeraden."
+  ],
+  "keys": [
+   "446d7ecf",
+   "0641645a",
+   "53349a1e",
+   "ff71a8c3",
+   "1970c886",
+   "00daabfe"
+  ],
+  "brandName": "SKÅGFÄ",
+  "colours": [
+   "Aqua",
+   "Cornflower",
+   "Lavendel",
+   "Lime",
+   "Orchid",
+   "Terra"
+  ]
+ },
+ {
+  "match": [
+   "SKÅGFÄ\\ KLYV\\ kidssafe\\ kindermes\\ Aqua",
+   "SKÅGFÄ\\ KLYV\\ kidssafe\\ kindermes\\ Cornflower",
+   "SKÅGFÄ\\ KLYV\\ kidssafe\\ kindermes\\ Lavendel",
+   "SKÅGFÄ\\ KLYV\\ kidssafe\\ kindermes\\ Lime",
+   "SKÅGFÄ\\ KLYV\\ kidssafe\\ kindermes\\ Orchid",
+   "SKÅGFÄ\\ KLYV\\ kidssafe\\ kindermes\\ Terra"
+  ],
+  "brandID": "skagfa",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor jonge kinderen die veilig willen leren snijden; zachte ingrediënten zoals fruit en groenten.",
+  "bullets": [
+   "Klyv kidssafe kindermes met een niet-scherp, wigvormig lemmet: kinderen snijden eenvoudig zachte ingrediënten zonder groot risico op verwondingen.",
+   "De ergonomische handgreep is afgestemd op kleine handen en kan met één of twee handen gebruikt worden (kleur: zie productnaam).",
+   "Volgens de website ideaal als eerste kennismaking met koken.",
+   "Skågfä Klyv kinderkookgereedschappen: laat kinderen spelenderwijs meehelpen in de keuken.",
+   "Vaatwasmachinebestendig, maar voor een langere levensduur wordt handafwas aangeraden."
+  ],
+  "keys": [
+   "10e51232",
+   "ef3fa908",
+   "d1f31fa3",
+   "bc5d4130",
+   "8bc94ee2",
+   "8cf1c6fa"
+  ],
+  "colours": [
+   "Aqua",
+   "Cornflower",
+   "Lavendel",
+   "Lime",
+   "Orchid",
+   "Terra"
+  ],
+  "mismatches": [
+   {
+    "topic": "Terra: specificaties passen bij het Classic-model",
+    "websiteSays": "Pagina \"KLYV kidssafe kindermes Terra\": tekst over een niet-scherp, wigvormig lemmet, maar specificaties Breedte 2,7 cm / Lengte 18,2 cm (zoals het Classic-model); de andere kleuren: 9,3 x 10 cm",
+    "note": "Controleer of de Terra-pagina bij het wigvormige of het Classic-kindermes hoort."
+   }
+  ]
+ }
+]

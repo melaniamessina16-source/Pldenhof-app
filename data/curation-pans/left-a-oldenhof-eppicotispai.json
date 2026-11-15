@@ -1,0 +1,50 @@
+[
+ {
+  "match": [
+   "Oldenhof\\ kaasmes\\ 6\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het snijden en serveren van zachte kaas.",
+  "bullets": [
+   "Oldenhof kaasmes voor zachte kaas, van roestvrij staal met een houten heft; totale lengte 12 cm (specificaties).",
+   "Door het compacte formaat geschikt voor het serveren van kaas bij de borrel of vanaf een kaasplank.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c819d5db"
+  ],
+  "brandName": "Oldenhof",
+  "requires": [
+   "zachte kaas",
+   "kaasplank"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ parmezaanmes\\ 6\\ cm\\ rvs",
+   "Oldenhof\\ parmezaanmes\\ 8,5\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om door Parmezaanse en andere harde oude kaas te breken.",
+  "bullets": [
+   "Oldenhof parmezaanmes met een roestvrijstalen lemmet en een houten heft.",
+   "Het spitse uiteinde breekt eenvoudig door Parmezaanse en andere harde oude kaas.",
+   "Het heft heeft een bolling, waardoor het mes prettig in de hand ligt en u voldoende druk kunt uitoefenen.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e1485e59",
+   "4f4421d4"
+  ],
+  "requires": [
+   "spits uiteinde",
+   "bolling"
+  ]
+ }
+]

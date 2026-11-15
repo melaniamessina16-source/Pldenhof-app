@@ -1,0 +1,40 @@
+[
+ {
+  "match": [
+   "Küchenprofi\\ Comfort\\ mandoline\\ rvs"
+  ],
+  "brandID": "kuchenprofi",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": "Voor het snel en precies snijden van grote hoeveelheden groente of fruit.",
+  "bullets": [
+   "Comfort mandoline van roestvrij staal en zwart kunststof; 37 x 16 x 15 cm.",
+   "Dikte van de plakjes instelbaar met een draaiknop; julienne in 4,5 of 9 mm.",
+   "Met de kleine selectieknop wisselt u het vlakke mes voor het gegolfde mes: gekartelde plakjes of wafeltjes.",
+   "Uit te vouwen antislip-basis en een bolvormige vingerbeschermer voor het veilig snijden van de laatste eindjes.",
+   "Reinigen met warm water en afwasmiddel; messen goed droog maken. Handafwas."
+  ],
+  "keys": [
+   "ef945161"
+  ],
+  "brandName": "Küchenprofi"
+ },
+ {
+  "match": [
+   "Küchenprofi\\ dubbel\\ wiegemes\\ 17\\ cm\\ messenstaal"
+  ],
+  "brandID": "kuchenprofi",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het fijn snijden van verse en gedroogde kruiden.",
+  "bullets": [
+   "Dubbel wiegemes (mezzaluna) van messenstaal, 17 cm lang; het gebogen dubbele lemmet veroorzaakt de wiegende beweging.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "c7565c93"
+  ]
+ }
+]

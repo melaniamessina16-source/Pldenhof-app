@@ -1,0 +1,48 @@
+[
+ {
+  "match": [
+   "1821\\ Olijfhout\\ botermes\\ rvs"
+  ],
+  "brandID": "1821",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het smeren van boter en andere smeersels.",
+  "bullets": [
+   "1821 Olijfhout botermes van massief olijfhout en roestvrij staal.",
+   "Het hout is van nature oliehoudend, daardoor onderhoudsvriendelijk; het uiterlijk van het heft kan per artikel verschillen.",
+   "Voor het smeren van boter en andere smeersels.",
+   "Handafwas met lauwwarm water en mild schoonmaakmiddel; het heft regelmatig inwrijven met olijfolie om de glans te behouden."
+  ],
+  "keys": [
+   "d2341a4e"
+  ],
+  "requires": [
+   "oliehoudend",
+   "olijfolie"
+  ]
+ },
+ {
+  "match": [
+   "1821\\ Olijfhout\\ kaasmes\\ rvs"
+  ],
+  "brandID": "1821",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het snijden van kazen of andere borrelhapjes.",
+  "bullets": [
+   "1821 Olijfhout kaasmes van massief olijfhout en roestvrij staal.",
+   "Het hout is van nature oliehoudend, daardoor onderhoudsvriendelijk; het uiterlijk van het heft kan per artikel verschillen.",
+   "Voor het snijden van kazen of andere borrelhapjes.",
+   "Handafwas met lauwwarm water en mild schoonmaakmiddel; het heft regelmatig inwrijven met olijfolie om de glans te behouden."
+  ],
+  "keys": [
+   "f6895aee"
+  ],
+  "requires": [
+   "oliehoudend",
+   "olijfolie"
+  ]
+ }
+]

@@ -1,0 +1,147 @@
+[
+ {
+  "match": [
+   "Küchenprofi\\ Capri\\ steelpan\\ met\\ antikleeflaag\\ 1\\ liter\\ rvs",
+   "Küchenprofi\\ Capri\\ steelpan\\ met\\ antikleeflaag\\ 700\\ ml\\ rvs"
+  ],
+  "brandID": "kuchenprofi",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen of voor het koken van kleine hoeveelheden.",
+  "bullets": [
+   "Capri steelpan van roestvrij staal met anti-aanbaklaag.",
+   "Maataanduiding in ml aan de binnenzijde; schenktuit en schenkrand om sauzen gemakkelijk uit te schenken.",
+   "Te gebruiken voor het bereiden en opdienen van saus.",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "17994860",
+   "cb41f474"
+  ],
+  "brandName": "Küchenprofi"
+ },
+ {
+  "match": [
+   "Küchenprofi\\ Provence\\ plancha\\ 38\\ x\\ 23\\ cm\\ gietijzer"
+  ],
+  "brandID": "kuchenprofi",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van bijvoorbeeld hamburgers, het grillen van groenten en vis en zelfs het bakken van pannenkoeken of pitabroodjes.",
+  "bullets": [
+   "Provence plancha van geëmailleerd gietijzer, 38 x 23 cm.",
+   "Behoudt de warmte uitermate goed.",
+   "Geschikt voor alle warmtebronnen; hittebestendig tot maximaal 250 °C en eventueel in de oven te gebruiken.",
+   "Rustig op temperatuur laten komen voor een gelijkmatige warmtespreiding; reinigen met warm water en afwasmiddel en goed afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "a6ea5e40"
+  ]
+ },
+ {
+  "match": [
+   "Küchenprofi\\ San\\ Remo\\ kookpan\\ met\\ stoominzet\\ ø\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "kuchenprofi",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Om bijvoorbeeld groenten, dumplings of bapao te stomen.",
+  "bullets": [
+   "San Remo stoomset van roestvrij staal: kookpan, stoominzet en deksel; diameter 20 cm, inhoud 3 liter.",
+   "Capsulebodem voor een goede warmtespreiding; geschikt voor alle warmtebronnen.",
+   "Stomen zorgt voor beter behoud van smaak- en voedingsstoffen; kleur en structuur van groenten blijven fris en knapperig.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "0823e9ec"
+  ]
+ },
+ {
+  "match": [
+   "Küchenprofi\\ Cook\\ melkpan\\ ø\\ 14\\ cm\\ rvs\\ mat"
+  ],
+  "brandID": "kuchenprofi",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het verwarmen en koken van melk of plantaardige melk.",
+  "bullets": [
+   "Cook melkpan van roestvrij staal met gebogen handgreep en een drievoudige anti-aanbaklaag aan de binnenzijde; diameter 14 cm, inhoud 1,5 liter.",
+   "Capsulebodem met meerlaagse opbouw voor optimale warmtegeleiding.",
+   "Geschikt voor alle hittebronnen, inclusief inductie.",
+   "Vaatwasmachinebestendig, maar blijft het langst goed bij schoonmaken met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ef8d41d0"
+  ]
+ },
+ {
+  "match": [
+   "Küchenprofi\\ Cook\\ vispan\\ 38\\ x\\ 27\\ cm\\ rvs\\ met\\ anti\\-aanbaklaag"
+  ],
+  "brandID": "kuchenprofi",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van vis op alle hittebronnen, inclusief inductie, of in de oven.",
+  "bullets": [
+   "Ovale Cook vispan van roestvrij staal met hoogwaardige antiaanbaklaag; 39 cm lang en 27 cm breed.",
+   "Extra sterke meerlaagse bodem voor uniforme warmteverdeling.",
+   "Geschikt voor elektrisch, gas, halogeen, inductie en keramisch (spec).",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "ab925325"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmeting",
+    "websiteSays": "Naam: 38 x 27 cm; tekst en spec: 39 cm lang, 27 cm breed",
+    "note": "Check de lengte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Küchenprofi\\ San\\ Remo\\ kookpan\\ met\\ pasta\\-inzet\\ ø\\ 22\\ cm\\ rvs"
+  ],
+  "brandID": "kuchenprofi",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Om bijvoorbeeld pasta te koken.",
+  "bullets": [
+   "San Remo kookpan met pasta-inzet van roestvrij staal, met glasdeksel; twee delen: kookpan en een inzet die precies in de pan past.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "5ae3b6a5"
+  ]
+ },
+ {
+  "match": [
+   "Küchenprofi\\ steelpan\\ ø\\ 18\\ cm\\ rvs"
+  ],
+  "brandID": "kuchenprofi",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen of voor het koken van kleine hoeveelheden.",
+  "bullets": [
+   "Steelpan van roestvrij staal, diameter 18 cm, inhoud 1,5 liter.",
+   "Maataanduiding in ml aan de binnenzijde; schenktuit en schenkrand.",
+   "Geschikt voor elektrisch, gas, halogeen, inductie en keramisch (spec).",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "7d5002cb"
+  ]
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "match": [
+   "KitchenAid\\ Artisan\\ standmixer\\ 4,8\\ liter\\ Beetroot\\ paars\\ \\-\\ 5KSM195PSEBE"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "KitchenAid Artisan Elegance standmixer (KSM195) van gegoten zink met matte afwerking, Beetroot-paars; 300 W.",
+   "Twee roestvrijstalen mengkommen: 4,8 liter en 3 liter.",
+   "Planetair mixsysteem; aansluitpunt aan de voorzijde voor accessoires (bijvoorbeeld gehaktmolen, foodprocessor, slowjuicer, pastamachines).",
+   "Geleverd met deeghaak, draadgarde, platte menghaak, platte menghaak met siliconen rand (flexiklopper) en schenkschild.",
+   "5 jaar garantie (volgens de tekst); roestvrijstalen kommen zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "03c3773d"
+  ],
+  "brandName": "KitchenAid",
+  "requires": [
+   "flexiklopper"
+  ],
+  "mismatches": [
+   {
+    "topic": "Modelnaam en inhoud",
+    "websiteSays": "Bij het reinigen staat \"KitchenAid Artisan Elegance KSM175 keukenmachine\" (de tekst noemt elders KSM195); de specificaties zeggen Inhoud 3 liter terwijl de naam 4,8 liter noemt (de set heeft kommen van 4,8 en 3 liter).",
+    "note": "Controleer het modelnummer."
+   },
+   {
+    "topic": "Merk ontbreekt",
+    "websiteSays": "Deze pagina heeft geen merk in de lijst; de naam begint met KitchenAid.",
+    "note": "Merk is door ons als KitchenAid gezet."
+   }
+  ]
+ }
+]

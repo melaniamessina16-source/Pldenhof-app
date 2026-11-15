@@ -1,0 +1,225 @@
+[
+ {
+  "match": [
+   "Rösle\\ Move\\ X\\ messenblok"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het bewaren en beschermen van uw messen.",
+  "bullets": [
+   "Move X messenblok van hout in combinatie met roestvrij staal; biedt plaats aan messen en een schaar.",
+   "Het blok kan op twee manieren neergezet worden: met de roestvrijstalen kant of met de houten kant naar beneden.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "b4de0cef"
+  ],
+  "brandName": "Rösle"
+ },
+ {
+  "match": [
+   "Rösle\\ Taart\\-\\ en\\ serveermes\\ 30\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van taart of cake; door het brede oppervlak ook te gebruiken om een plak taart of cake te serveren.",
+  "bullets": [
+   "Taart- en serveermes van roestvrij staal.",
+   "Na gebruik op te hangen aan het oog.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "8043b2ca"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Tradition\\ broodmes\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van brood.",
+  "bullets": [
+   "Tradition broodmes van messenstaal; gekartelde afwerking waarmee u gemakkelijk door brood snijdt.",
+   "Handgreep van polypropyleen kunststof.",
+   "Reinigen met warm water en afwasmiddel; handafwas.",
+   "Om het mes in conditie te houden kunt u het aanzetten op een aanzetstaal."
+  ],
+  "keys": [
+   "86de78c2"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Tradition\\ groentemes\\ 9\\ cm\\ messenstaal"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om fruit en groente te snijden, schillen en portioneren.",
+  "bullets": [
+   "Tradition groentemes van messenstaal.",
+   "Handgreep van polypropyleen kunststof.",
+   "Reinigen met warm water en afwasmiddel; handafwas.",
+   "Om het mes in conditie te houden kunt u het aanzetten op een aanzetstaal."
+  ],
+  "keys": [
+   "d95bdad7"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Tradition\\ koksmes\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om allerlei etenswaren te snijden, van vlees tot fruit en groente.",
+  "bullets": [
+   "Tradition koksmes van messenstaal.",
+   "Reinigen met warm water en afwasmiddel; handafwas.",
+   "Om het mes in conditie te houden kunt u het aanzetten op een aanzetstaal."
+  ],
+  "keys": [
+   "7815c3e1"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Tradition\\ Santoku\\ met\\ kuiltjes\\ 17,5\\ cm"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om vlees, fruit en groente te snijden en te portioneren.",
+  "bullets": [
+   "Tradition Santokumes van messenstaal met kuiltjes in het lemmet: etenswaren blijven niet vastplakken en het snijden wordt gemakkelijker.",
+   "Handgreep van polypropyleen kunststof.",
+   "Reinigen met warm water en afwasmiddel; handafwas.",
+   "Om het mes in conditie te houden kunt u het aanzetten op een aanzetstaal."
+  ],
+  "keys": [
+   "56aaa399"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Tradition\\ schilmes\\ 9\\ cm\\ messenstaal"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om bijvoorbeeld fruit en groente te snijden, schillen en portioneren.",
+  "bullets": [
+   "Tradition schilmes van messenstaal.",
+   "Handgreep van polypropyleen kunststof.",
+   "Reinigen met warm water en afwasmiddel; handafwas.",
+   "Om het mes in conditie te houden kunt u het aanzetten op een aanzetstaal."
+  ],
+  "keys": [
+   "8638d496"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Tradition\\ tourneermes\\ 8\\ cm\\ messenstaal"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om bijvoorbeeld fruit en groente te schillen en te snijden.",
+  "bullets": [
+   "Tradition tourneermes van messenstaal.",
+   "Handgreep van polypropyleen kunststof.",
+   "Reinigen met warm water en afwasmiddel; handafwas.",
+   "Om het mes in conditie te houden kunt u het aanzetten op een aanzetstaal."
+  ],
+  "keys": [
+   "36fcbbdb"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Tradition\\ vleesmes\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om gemakkelijk door allerlei soorten vlees en gevogelte te snijden.",
+  "bullets": [
+   "Tradition vleesmes van messenstaal.",
+   "Handgreep van polypropyleen kunststof.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "8128db44"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Tradition\\ worst\\-\\ /\\ tomatenmes\\ 13\\ cm\\ messenstaal"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om worst, tomaat of andere groenten te snijden.",
+  "bullets": [
+   "Tradition worst- en tomatenmes van messenstaal; gekartelde afwerking.",
+   "Handgreep van polypropyleen kunststof.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "752c982f"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ oestermes\\ 6\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het openen van oesters.",
+  "bullets": [
+   "Roestvrijstalen oestermes met een beschermend manchet, zodat u oesters nog veiliger kunt openen; aan beide zijden geslepen.",
+   "Het mes heeft een oog om het op te hangen.",
+   "Website: plaats het mes tussen de twee schelpen en wrik rustig heen en weer; schraap langs de vlakke kant van de oester om de spier los te snijden.",
+   "Bij het openen is het aan te raden de hand waarmee u de oester vasthoudt te beschermen met een daarvoor bestemde handschoen. Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "60145072"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ officemes\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om bijvoorbeeld fruit en groente te snijden, schillen en portioneren.",
+  "bullets": [
+   "Officemes van roestvrij staal met een ophangoog in de handgreep.",
+   "Vaatwasmachinebestendig.",
+   "Om het mes in conditie te houden kunt u het aanzetten op een aanzetstaal."
+  ],
+  "keys": [
+   "9ce016b1"
+  ]
+ }
+]

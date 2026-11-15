@@ -1,0 +1,207 @@
+[
+ {
+  "match": [
+   "Berkel\\ Volano\\ B2\\ vliegwielsnijmachine\\ ø\\ 26,5\\ cm\\ met\\ voet\\ rood",
+   "Berkel\\ Volano\\ B2\\ Full\\ vliegwielsnijmachine\\ rood",
+   "Berkel\\ Volano\\ B2\\ Full\\ vliegwielsnijmachine\\ zwart",
+   "Berkel\\ Volano\\ B2\\ vliegwielsnijmachine\\ ø\\ 26,5\\ cm\\ met\\ voet\\ zwart"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en brood.",
+  "bullets": [
+   "Berkel Volano B2 vliegwielsnijmachine met bijpassende zware voet: een vrijstaande, handmatige snijmachine.",
+   "Handmatige vliegwielsnijmachine: u draait aan het wiel, het mes en de slede met het snijgoed bewegen mee.",
+   "Mesdiameter 26,5 cm; voor producten met een diameter van 16 cm of maximaal 19 x 15 cm.",
+   "Snijdikte in 8 stappen verstelbaar van 0 tot 2 mm.",
+   "Voorzien van een slijper om het mes op de machine te slijpen.",
+   "Vleestafel en opvangplaat zijn afneembaar en te reinigen met warm water en afwasmiddel; de machine zelf met een spons en een sopje."
+  ],
+  "keys": [
+   "f73b739f",
+   "d944c9b6",
+   "31a3c56a"
+  ],
+  "brandName": "Berkel",
+  "requires": [
+   "zware voet"
+  ],
+  "colours": [
+   "rood",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Volano\\ B2\\ Flower\\ vliegwielsnijmachine\\ rood",
+   "Berkel\\ Volano\\ B2\\ Flower\\ vliegwielsnijmachine\\ zwart"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en brood.",
+  "bullets": [
+   "Berkel Volano B2 Flower vliegwielsnijmachine.",
+   "Handmatige vliegwielsnijmachine: u draait aan het wiel, het mes en de slede met het snijgoed bewegen mee.",
+   "Volgens de tekst: mesdiameter 26,5 cm; voor producten met een diameter van 16 cm of maximaal 19 x 15 cm; snijdikte in 8 stappen van 0 tot 2 mm.",
+   "Voorzien van een slijper om het mes op de machine te slijpen.",
+   "Vleestafel en opvangplaat zijn afneembaar en te reinigen met warm water en afwasmiddel; de machine zelf met een spons en een sopje."
+  ],
+  "keys": [
+   "1840a70e",
+   "3d4a18ad"
+  ],
+  "requires": [
+   "Volano B2 Flower"
+  ],
+  "colours": [
+   "rood",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maten en snijdikte",
+    "websiteSays": "De tekst zegt mesdiameter 26,5 cm, 71,5 cm lang, 62 cm breed en snijdikte 0 tot 2 mm in 8 stappen; de specificaties zeggen Diameter 30 cm, Lengte 70 cm, Breedte 67 cm, Hoogte 1,4 meter, Gewicht 52 kg en Snijdikte 0 - 20 mm.",
+    "note": "Controleer de maten en de snijdikte op de doos of in de handleiding."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Volano\\ B114\\ Flower\\ vliegwielsnijmachine\\ rood",
+   "Berkel\\ Volano\\ B114\\ Flower\\ vliegwielsnijmachine\\ zwart"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en brood.",
+  "bullets": [
+   "Berkel Volano B114 Flower vliegwielsnijmachine.",
+   "Handmatige vliegwielsnijmachine: u draait aan het wiel, het mes en de slede met het snijgoed bewegen mee.",
+   "Mesdiameter 31,9 cm; voor producten met een diameter van 21,5 cm of maximaal 28 x 21,5 cm.",
+   "Voorzien van een slijper om het mes op de machine te slijpen.",
+   "Vleestafel en opvangplaat zijn afneembaar en te reinigen met warm water en afwasmiddel; de machine zelf met een spons en een sopje.",
+   "Wordt geleverd vanuit Italië: de levertijd kan oplopen tot enkele weken."
+  ],
+  "keys": [
+   "04824005",
+   "31ba8585"
+  ],
+  "requires": [
+   "31,9 cm"
+  ],
+  "colours": [
+   "rood",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Volano\\ B3\\ vliegwielsnijmachine\\ ø\\ 30\\ cm\\ rood",
+   "Berkel\\ Volano\\ B3\\ vliegwielsnijmachine\\ ø\\ 30\\ cm\\ zwart"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en brood.",
+  "bullets": [
+   "Berkel Volano B3 vliegwielsnijmachine met een mesdiameter van 30 cm.",
+   "Handmatige vliegwielsnijmachine: u draait aan het wiel, het mes en de slede met het snijgoed bewegen mee.",
+   "Voor producten met een diameter van 21 cm of maximaal 27 x 21 cm.",
+   "Voorzien van een slijper om het mes op de machine te slijpen.",
+   "Vleestafel en opvangplaat zijn afneembaar en te reinigen met warm water en afwasmiddel; de machine zelf met een spons en een sopje."
+  ],
+  "keys": [
+   "f0505fc4"
+  ],
+  "requires": [
+   "Volano B3"
+  ],
+  "colours": [
+   "rood",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur in de tekst",
+    "websiteSays": "De tekst op beide pagina's (rood en zwart) begint met \"De zwarte Berkel Volano B3 vliegwielsnijmachine heeft een mesdiameter van 30 cm\".",
+    "note": "Controleer de kleur; de tekst is voor beide kleuren gelijk."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Volano\\ P15\\ vliegwielsnijmachine\\ ø\\ 28,5\\ cm\\ zwart",
+   "Berkel\\ Volano\\ P15\\ vliegwielsnijmachine\\ ø\\ 28,5\\ cm\\ rood"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en brood.",
+  "bullets": [
+   "Berkel Volano P15 vliegwielsnijmachine met een mesdiameter van 28,5 cm.",
+   "Handmatige vliegwielsnijmachine: u draait aan het wiel, het mes en de slede met het snijgoed bewegen mee.",
+   "Voor producten met een diameter van 18 cm of maximaal 21 x 18 cm.",
+   "Voorzien van een slijper om het mes op de machine te slijpen.",
+   "Vleestafel en opvangplaat zijn afneembaar en te reinigen met warm water en afwasmiddel; de machine zelf met een spons en een sopje."
+  ],
+  "keys": [
+   "219a0e12",
+   "c7af033e"
+  ],
+  "requires": [
+   "Volano P15"
+  ],
+  "colours": [
+   "rood",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Voet meegeleverd?",
+    "websiteSays": "De tekst van de rode pagina zegt dat de machine \"wordt geleverd met de bijpassende zware voet en is zo een vrijstaande snijmachine\"; bij de zwarte pagina staat dit niet.",
+    "note": "Vraag na of de voet bij beide kleuren zit."
+   },
+   {
+    "topic": "Kleur in de specificaties",
+    "websiteSays": "De rode pagina heeft bij de specificaties Kleur: zwart.",
+    "note": "Controleer de kleur."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Volano\\ Tribute\\ vliegwielsnijmachine\\ ø\\ 30\\ cm\\ rood",
+   "Berkel\\ Volano\\ Tribute\\ vliegwielsnijmachine\\ ø\\ 30\\ cm\\ zwart"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en brood.",
+  "bullets": [
+   "Berkel Volano Tribute vliegwielsnijmachine met een mesdiameter van 30 cm.",
+   "Handmatige vliegwielsnijmachine: u draait aan het wiel, het mes en de slede met het snijgoed bewegen mee.",
+   "Voor producten met een diameter van 21 cm of maximaal 27 x 21 cm.",
+   "Voorzien van een slijper om het mes op de machine te slijpen.",
+   "Vleestafel en opvangplaat zijn afneembaar en te reinigen met warm water en afwasmiddel; de machine zelf met een spons en een sopje."
+  ],
+  "keys": [
+   "318b4a65",
+   "ca1a3b21"
+  ],
+  "requires": [
+   "Volano Tribute"
+  ],
+  "colours": [
+   "rood",
+   "zwart"
+  ]
+ }
+]

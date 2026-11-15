@@ -1,0 +1,26 @@
+[
+ {
+  "match": [
+   "Point\\-Virgule\\ kaasmessenset\\ FSC\\ bamboe\\ 4\\-delig"
+  ],
+  "brandID": "pointvirgule",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Om alle soorten kaas te snijden, te presenteren en te serveren: van zachte brie tot harde Parmezaanse kaas.",
+  "bullets": [
+   "Point-Virgule kaasmessenset, 4-delig: vier messen met roestvrijstalen snijvlak en een handvat van bamboe met FSC-keurmerk.",
+   "Voor het snijden, breken en prikken van kaas, zoals parmezaan, emmentaler en brie.",
+   "Het mes met de 2 punten is om stukjes of plakjes kaas te prikken; het mes met het breedste lemmet om harde kazen te breken; de andere twee zijn voor harde en zachte kazen.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8110a1dd"
+  ],
+  "brandName": "Point Virgule",
+  "requires": [
+   "FSC",
+   "breedste lemmet"
+  ]
+ }
+]

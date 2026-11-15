@@ -1,0 +1,738 @@
+[
+ {
+  "match": [
+   "OFYR\\ Anniversary\\ Collection\\ 100\\ barbecue\\ Chrome\\ Green",
+   "OFYR\\ Anniversary\\ Collection\\ 100\\ barbecue\\ geborsteld\\ rvs",
+   "OFYR\\ Anniversary\\ Collection\\ 100\\ barbecue\\ glanzend\\ rvs",
+   "OFYR\\ Anniversary\\ Collection\\ 100\\ barbecue\\ Oxide\\ Red"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Anniversary Collection 100: ronde vuurkorf en barbecue van 100 cm diameter en 100 cm hoog, met een ringvormige bakplaat met 50 cm binnendiameter.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Nieuw in de Anniversary Collection: 5-delige modulaire sokkel (makkelijk te monteren en te verplaatsen) en een gesponnen kegel met rooster voor een betere luchtstroom, zonder zichtbare lasnaden; efficiëntere houtverbranding met minder rookvorming.",
+   "Sokkel: vierkant, gegalvaniseerd staal, 50 cm breed en 75 cm hoog; vuurkegel 25 cm hoog; werkhoogte 100 cm.",
+   "Afwerking naar keuze: roestvrijstalen sokkel (geborsteld of gepolijst) of poedercoating in Oxide Red of Chrome Green.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Eerste gebruik: een flink vuur 30 minuten laten branden om de bakplaat te laten settelen, daarna de plaat inoliën met plantaardige olie.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "66ae4c96",
+   "650501c0",
+   "ace2918a",
+   "cea63fa1"
+  ],
+  "brandName": "OFYR",
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat",
+   "weerbestendig en kan in alle weersomstandigheden"
+  ],
+  "colours": [
+   "Chrome Green",
+   "Oxide Red",
+   "geborsteld rvs",
+   "glanzend rvs"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst noemt \"OFYR Classic\"",
+    "websiteSays": "Bij Chrome Green en Oxide Red staat: \"Gebruik de OFYR Classic als barbecue, plancha en vuurkorf\"",
+    "note": "Tekst lijkt van de Classic overgenomen; controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Classic\\ 100\\-100\\ barbecue",
+   "OFYR\\ Classic\\ 85\\-100\\ barbecue"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Classic barbecue: ronde vuurkorf en barbecue met een volledig stalen onderstel; wordt in delen geleverd.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "De diameter (en daarmee het gewicht) verschilt per uitvoering: zie de maat in de productnaam en de specificaties.",
+   "Totale hoogte (werkhoogte) 100 cm; vierkante stalen sokkel van 75 cm hoog met een stalen vuurkegel van 25 cm.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Eerste gebruik: een flink vuur 30 minuten laten branden om de bakplaat te laten settelen, daarna de plaat inoliën met plantaardige olie.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "67b333e7"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat",
+   "weerbestendig en kan in alle weersomstandigheden"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Classic\\ Black\\ 100\\-100\\ barbecue"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Classic Black 100-100: ronde vuurkorf en barbecue, 100 cm diameter en 100 cm hoog; zwart.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Vierkante stalen sokkel van 50 cm breed en 75 cm hoog; vuurkegel 25 cm hoog; werkhoogte 100 cm; binnendiameter ringvormige bakplaat 50 cm.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Eerste gebruik: een flink vuur 30 minuten laten branden om de bakplaat te laten settelen, daarna de plaat inoliën met plantaardige olie.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "d92a5e2e"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat",
+   "weerbestendig en kan in alle weersomstandigheden"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Classic\\ Black\\ 100\\ PRO\\ barbecue"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Classic Black 100 PRO: ronde vuurkorf en barbecue, 98 cm diameter en 101 cm hoog volgens de tekst, volledig staal, met handgreep van teakhout en wielen.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Alle voordelen van de OFYR Classic Storage, met het gemak van een handgreep en wielen: de kookeenheid is eenvoudig te verplaatsen.",
+   "Vierkante stalen sokkel van 65 cm breed en 67 cm hoog; vuurkegel 23,5 cm hoog; werkhoogte 101 cm; gewicht 124 kg; wordt in delen geleverd.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Eerste gebruik: een flink vuur 30 minuten laten branden om de bakplaat te laten settelen, daarna de plaat inoliën met plantaardige olie.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "7f147651"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat",
+   "weerbestendig en kan in alle weersomstandigheden"
+  ],
+  "mismatches": [
+   {
+    "topic": "Diameter en binnendiameter",
+    "websiteSays": "Naam en specificaties: diameter 100 cm / 1 meter; tekst: diameter van 98 cm en een binnendiameter van de bakplaat van 100 cm",
+    "note": "De binnendiameter van de bakplaat (100 cm) is groter dan de diameter van de barbecue (98 cm); controleren welke maten kloppen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Classic\\ Corten\\ 100\\ PRO\\ barbecue"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Classic Corten 100 PRO: ronde vuurkorf en barbecue, 98 cm diameter en 101 cm hoog volgens de tekst, volledig staal, met handgreep van teakhout en wielen.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Alle voordelen van de OFYR Classic Storage, met het gemak van een handgreep en wielen: de kookeenheid is eenvoudig te verplaatsen.",
+   "Vierkante stalen sokkel van 65 cm breed en 67 cm hoog; vuurkegel 23,5 cm hoog; werkhoogte 101 cm; gewicht 124 kg; wordt in delen geleverd.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Eerste gebruik: een flink vuur 30 minuten laten branden om de bakplaat te laten settelen, daarna de plaat inoliën met plantaardige olie.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "889b8e0d"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat",
+   "weerbestendig en kan in alle weersomstandigheden"
+  ],
+  "mismatches": [
+   {
+    "topic": "Diameter en binnendiameter",
+    "websiteSays": "Naam en specificaties: diameter 100 cm / 1 meter; tekst: diameter van 98 cm en een binnendiameter van de bakplaat van 100 cm",
+    "note": "De binnendiameter van de bakplaat (100 cm) is groter dan de diameter van de barbecue (98 cm); controleren welke maten kloppen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Classic\\ Storage\\ 100\\-100\\ barbecue"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Classic Storage 100-100: ronde vuurkorf en barbecue, 100 cm diameter en 100 cm hoog, met opbergruimte voor haardhout in de sokkel.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Vierkante stalen sokkel van 50 cm breed en 75 cm hoog; vuurkegel 25 cm hoog; werkhoogte 100 cm; binnendiameter ringvormige bakplaat 50 cm.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Eerste gebruik: een flink vuur 30 minuten laten branden om de bakplaat te laten settelen, daarna de plaat inoliën met plantaardige olie.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "077e12ac"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat",
+   "weerbestendig en kan in alle weersomstandigheden"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Classic\\ Storage\\ 85\\-100\\ barbecue"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Classic Storage 85-100: ronde vuurkorf en barbecue, 85 cm diameter en 100 cm hoog, met opbergruimte voor haardhout in de sokkel.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Vierkante stalen sokkel van 50 cm breed en 75 cm hoog; vuurkegel 25 cm hoog; werkhoogte 100 cm; binnendiameter ringvormige bakplaat 42 cm.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Eerste gebruik: een flink vuur 30 minuten laten branden om de bakplaat te laten settelen, daarna de plaat inoliën met plantaardige olie.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "7cc0d3cb"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat",
+   "weerbestendig en kan in alle weersomstandigheden"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Classic\\ Storage\\ Black\\ 100\\-100\\ barbecue"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Classic Storage Black 100-100: ronde vuurkorf en barbecue, zwart, 100 cm diameter en 100 cm hoog, met opbergruimte voor haardhout in de sokkel.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Vierkante stalen sokkel van 50 cm breed en 75 cm hoog; vuurkegel 25 cm hoog; werkhoogte 100 cm; binnendiameter ringvormige bakplaat 50 cm.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Eerste gebruik: een flink vuur 30 minuten laten branden om de bakplaat te laten settelen, daarna de plaat inoliën met plantaardige olie.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "f95e3caa"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat",
+   "weerbestendig en kan in alle weersomstandigheden"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Classic\\ Storage\\ Black\\ 85\\-100\\ barbecue"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Classic Storage Black 85-100: ronde vuurkorf en barbecue, zwart, 85 cm diameter en 100 cm hoog, met opbergruimte voor haardhout in de sokkel.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Vierkante stalen sokkel van 50 cm breed en 75 cm hoog; vuurkegel 25 cm hoog; werkhoogte 100 cm; binnendiameter ringvormige bakplaat 42 cm.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Eerste gebruik: een flink vuur 30 minuten laten branden om de bakplaat te laten settelen, daarna de plaat inoliën met plantaardige olie.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "b72e70d5"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat",
+   "weerbestendig en kan in alle weersomstandigheden"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Classic\\ Storage\\ Black\\ PRO\\ 100\\-100\\ barbecue"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Classic Storage Black PRO, zwart gecoat 100-100: ronde vuurkorf en barbecue, 100 cm diameter en 100 cm hoog.",
+   "Onderstel van 50 cm lang en 50 cm breed met handgreep en wielen om het geheel gemakkelijk te verplaatsen; in het onderstel is ruimte voor haardhout.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "Gewicht volgens de specificaties 117 kg.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "908dc7f2"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "weerbestendig en kan in alle weersomstandigheden"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Classic\\ Storage\\ PRO\\ 100\\-100\\ barbecue"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Classic Storage PRO 100-100: ronde vuurkorf en barbecue, 100 cm diameter en 100 cm hoog.",
+   "Onderstel van 50 cm lang en 50 cm breed met handgreep en wielen om het geheel gemakkelijk te verplaatsen; in het onderstel is ruimte voor haardhout.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "Gewicht volgens de specificaties 117 kg.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "a48740f6"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "weerbestendig en kan in alle weersomstandigheden"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ grillrooster\\ 100\\ rond\\ ø\\ 50\\ cm\\ staal\\ zwart"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om direct boven het vuur vlees en groenten te grillen, of om een pan op te zetten.",
+  "bullets": [
+   "OFYR grillrooster 100 rond van zwart koolstofstaal, 50 cm diameter; geschikt voor de OFYR 100-100 barbecues met een diameter van 100 cm.",
+   "Wordt geleverd met een standaard waarmee het rooster 12 cm hoger boven het vuur komt: meer afstand tot het vuur, en nieuwe blokken hout leggen kan zonder het rooster te verwijderen.",
+   "Zonder standaard kan het rooster direct in de opening van de barbecue worden gelegd, zodat het grilloppervlak even hoog is als de bakplaat.",
+   "Reinigen met warm water en grondig afdrogen; daarna licht invetten met plantaardige olie (aanbevolen)."
+  ],
+  "keys": [
+   "47f5b1cc"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Island\\ 100\\-100\\ vuurkorf\\ \\-\\ barbecue\\ met\\ meubel\\ en\\ plank\\ van\\ donkergrijs\\ keramiek",
+   "OFYR\\ Island\\ 85\\-100\\ vuurkorf\\ \\-\\ barbecue\\ met\\ meubel\\ en\\ plank\\ van\\ donkergrijs\\ keramiek"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Island: ronde vuurkorf en barbecue op een onderstel (meubel) met een donkergrijze keramieken plank.",
+   "De diameter (en daarmee het gewicht) verschilt per uitvoering: zie de maat in de productnaam en de specificaties.",
+   "Dankzij het keramiek kan de barbecue, inclusief de plank, het hele jaar buiten blijven staan.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Ruimte voor haardhout onderin het meubel.",
+   "Volledig stalen OFYR, wordt in delen geleverd.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "f53c47cf"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Island\\ 85\\-100\\ vuurkorf\\ \\-\\ barbecue\\ met\\ meubel\\ en\\ plank\\ van\\ teakhout"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Island 85-100: ronde vuurkorf en barbecue van 85 cm diameter op een onderstel van 135 cm lang met een teakhouten plank.",
+   "Zonder de plank kan de OFYR het hele jaar buiten blijven staan.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Teakhouten werkblad reinigen met warm water en afwasmiddel, direct afdrogen en regelmatig behandelen met snijplankenolie.",
+   "Ruimte voor haardhout onderin het meubel.",
+   "Volledig stalen OFYR, wordt in delen geleverd.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "154ee9d5"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Island\\ Black\\ 100\\-100\\ vuurkorf\\ \\-\\ barbecue\\ met\\ meubel\\ en\\ plank\\ van\\ donkergrijs\\ keramiek",
+   "OFYR\\ Island\\ Black\\ 85\\-100\\ vuurkorf\\ \\-\\ barbecue\\ met\\ meubel\\ en\\ plank\\ van\\ donkergrijs\\ keramiek"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Island Black: ronde vuurkorf en barbecue op een onderstel (meubel) met een donkergrijze keramieken plaat.",
+   "De diameter (en daarmee het gewicht) verschilt per uitvoering: zie de maat in de productnaam en de specificaties.",
+   "Dankzij het keramiek kan de barbecue, inclusief de plaat, het hele jaar buiten blijven staan.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Ruimte voor haardhout onderin het meubel.",
+   "Volledig stalen OFYR, wordt in delen geleverd.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "8a918191"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Island\\ Black\\ 100\\-100\\ vuurkorf\\ \\-\\ barbecue\\ met\\ meubel\\ en\\ plank\\ van\\ teakhout"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Island Black 100-100: ronde vuurkorf en barbecue van 100 cm diameter op een gecoat stalen onderstel van 135 cm lang met een teakhouten plank.",
+   "Met uitzondering van de plank kan de barbecue het hele jaar buiten blijven staan.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Gewicht 167 kg.",
+   "Ruimte voor haardhout onderin het meubel.",
+   "Volledig stalen OFYR, wordt in delen geleverd.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "6bb3865f"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Island\\ Black\\ 85\\-100\\ vuurkorf\\ \\-\\ barbecue\\ met\\ meubel\\ en\\ plank\\ van\\ teakhout"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Island Black 85-100: ronde vuurkorf en barbecue van 85 cm diameter op een onderstel van 135 cm lang met een teakhouten plank.",
+   "Zonder de plank kan de OFYR het hele jaar buiten blijven staan.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Gewicht 147 kg.",
+   "Ruimte voor haardhout onderin het meubel.",
+   "Volledig stalen OFYR, wordt in delen geleverd.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "eebd86fe"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Island\\ Black\\ PRO\\ 100\\-100\\ vuurkorf\\ \\-\\ barbecue\\ met\\ meubel\\ en\\ plank\\ van\\ donkergrijs\\ keramiek"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Island Black PRO 100-100: ronde vuurkorf en barbecue van 100 cm diameter op een zwartgecoat stalen onderstel van 135 cm lang met een teakhouten plank (volgens de tekst).",
+   "Zonder de plank kan de barbecue het hele jaar buiten blijven staan.",
+   "Island PRO heeft 4 wielen en een handgreep, waarmee hij eenvoudig te verplaatsen is op een stenen ondergrond.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Gewicht 220 kg.",
+   "Ruimte voor haardhout onderin het meubel.",
+   "Volledig stalen OFYR, wordt in delen geleverd.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "526f5aa3"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat"
+  ],
+  "mismatches": [
+   {
+    "topic": "Plank",
+    "websiteSays": "Naam: \"plank van donkergrijs keramiek\"; tekst: \"teakhouten plank\"; specificaties: materiaal hout, staal",
+    "note": "Controleren of de plank van keramiek of van teakhout is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Island\\ Black\\ PRO\\ 100\\-100\\ vuurkorf\\ \\-\\ barbecue\\ met\\ meubel\\ en\\ plank\\ van\\ keramiek"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Island Black PRO 100-100: ronde vuurkorf en barbecue van 100 cm diameter op een zwart gecoat stalen onderstel van 135 cm lang met een donkergrijze keramieken plank.",
+   "Dankzij het keramiek kan de barbecue, inclusief de plank, het hele jaar buiten blijven staan.",
+   "Island PRO heeft 4 wielen en een handgreep, waarmee hij eenvoudig te verplaatsen is op een stenen ondergrond.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Ruimte voor haardhout onderin het meubel.",
+   "Volledig stalen OFYR, wordt in delen geleverd.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "ebd1ca4d"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat"
+  ],
+  "mismatches": [
+   {
+    "topic": "Gewicht",
+    "websiteSays": "Specificaties: 220 kg; tekst: \"weegt in totaal 192 kg\"",
+    "note": "Controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Island\\ PRO\\ 100\\-100\\ vuurkorf\\ \\-\\ barbecue\\ met\\ meubel\\ en\\ plank\\ van\\ donkergrijs\\ keramiek"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Als barbecue, plancha en vuurkorf: op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid.",
+  "bullets": [
+   "OFYR Island PRO 100-100: ronde vuurkorf en barbecue van 100 cm diameter op een onderstel van 170 cm lang met een donkergrijze keramieken plank.",
+   "Dankzij het keramiek kan de barbecue, inclusief de plank, het hele jaar buiten blijven staan.",
+   "Island PRO heeft 4 wielen en een handgreep, waarmee hij eenvoudig te verplaatsen is op een stenen ondergrond.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal; hij wordt volgens de pagina heet genoeg voor eieren en pannenkoeken en is ongevoelig voor krassen.",
+   "Ruimte voor haardhout onderin het meubel.",
+   "Volledig stalen OFYR, wordt in delen geleverd.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "14fe86a6"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "12 mm dikke staalplaat"
+  ],
+  "mismatches": [
+   {
+    "topic": "Gewicht",
+    "websiteSays": "Specificaties: 167 kg; tekst: \"weegt in totaal 192 kg\"",
+    "note": "Controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Kamado\\ Table\\ Black\\ 135\\ PRO\\ voor\\ The\\ Bastard\\ Large\\ beton"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om een maaltijd op voor te bereiden en houtskool of andere tools in te bewaren.",
+  "bullets": [
+   "OFYR Kamado Table Black 135 PRO: betonnen werkblad op een verrijdbaar voetstuk van zwart gecoat staal; 90 cm hoog, 135 cm lang, 65 cm breed.",
+   "Rond gat voor een Kamado Joe Classic of The Bastard Large.",
+   "Wordt geleverd zonder kamado; alleen geschikt in combinatie met de Kamado Joe Classic of The Bastard Large.",
+   "Betonnen werkblad is weersbestendig maar niet geschikt om op te snijden; met Tool Tray en opbergruimte in het onderstel (bijvoorbeeld voor houtskool).",
+   "Werkblad reinigen met warm water en afwasmiddel, direct goed afdrogen; kamado in de tafel afdekken of de tafel naar binnen rijden nadat de kamado is afgekoeld.",
+   "Is de bredere variant van de 65 PRO tafel."
+  ],
+  "keys": [
+   "1e491a35"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Kamado\\ Table\\ Black\\ 65\\ PRO\\ voor\\ The\\ Bastard\\ Large\\ beton"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om een maaltijd op voor te bereiden en een zak houtskool en een paar tools in op te slaan.",
+  "bullets": [
+   "OFYR Kamado Table Black 65 PRO: betonnen werkblad op een verrijdbaar voetstuk van staal met zwarte weerbestendige poedercoating; 89 cm hoog, 65 cm breed.",
+   "Rond gat voor een The Bastard Large of Kamado Joe Classic.",
+   "Wordt geleverd zonder kamado; alleen geschikt in combinatie met de Kamado Joe Classic of The Bastard Large.",
+   "Betonnen werkblad is weersbestendig maar niet geschikt om op te snijden; met Tool Tray en opbergruimte in het onderstel.",
+   "Werkblad reinigen met warm water en afwasmiddel, direct goed afdrogen; kamado in de tafel afdekken of de tafel naar binnen rijden nadat de kamado is afgekoeld."
+  ],
+  "keys": [
+   "a39b2b66"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmeting",
+    "websiteSays": "Specificaties: Lengte 95 cm; tekst noemt alleen hoogte 89 cm en breedte 65 cm",
+    "note": "Lengte alleen in de specificaties."
+   }
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ XL\\ barbecue"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Op de ringvormige bakplaat kunnen groenten, vis en vlees worden bereid voor het serveren van gerechten tot wel 150 personen.",
+  "bullets": [
+   "OFYR XL: ronde vuurkorf en barbecue, 150 cm diameter en 100 cm hoog, met een vierkante stalen sokkel.",
+   "Vuurkorf, barbecue, kookplaat en plancha in één: u stookt met blokken haardhout een vuur in de centrale kegel, dat de stalen ringvormige bakplaat heet genoeg maakt om op te grillen, bakken en zelfs koken.",
+   "De ringvormige bakplaat is van 12 mm dik staal.",
+   "Weerbestendig: kan in alle weersomstandigheden buiten blijven staan en gebruikt worden.",
+   "Het staal beschermt zichzelf met de kenmerkende oranje oxidatielaag die Cortenstaal vormt."
+  ],
+  "keys": [
+   "47fbaf51"
+  ],
+  "requires": [
+   "kookplaat en plancha in één",
+   "weerbestendig en kan in alle weersomstandigheden",
+   "Cortenstaal"
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Butcher\\ Block\\ Storage\\ 90\\ hakblok\\ 45\\ x\\ 90\\ cm\\ met\\ donkergrijs\\ keramieken\\ werkblad"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor extra werkruimte in de buurt van de barbecue; om gerechten op voor te bereiden of te trancheren.",
+  "bullets": [
+   "OFYR Butcher Block Storage 90: donkergrijs keramieken werkblad van 45 x 90 cm op een voetstuk van Cortenstaal; 88 cm hoog.",
+   "Stalen houder voor flessen en gereedschap aan één zijde; in de sokkel is ruimte voor 0,2 m³ haardhout.",
+   "Sokkel van weerbestendig Cortenstaal, dat een typische oranje oxide huid vormt tegen verder roesten."
+  ],
+  "keys": [
+   "93191249"
+  ],
+  "mismatches": [
+   {
+    "topic": "Werkblad",
+    "websiteSays": "Tekst: \"keramieken werkblad\"; ook: \"Het massief houten blok is geschikt om uw gerechten op voor te bereiden of te trancheren\"",
+    "note": "Tekst noemt zowel keramiek als massief hout; controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "OFYR\\ Butcher\\ Block\\ Storage\\ Black\\ 90\\ hakblok\\ 45\\ x\\ 90\\ cm\\ met\\ donkergrijs\\ keramieken\\ werkblad"
+  ],
+  "brandID": "ofyr",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor extra werkruimte in de buurt van de barbecue; om gerechten op voor te bereiden of te trancheren.",
+  "bullets": [
+   "OFYR Butcher Block Storage Black 90: donkergrijs keramieken werkblad van 45 x 90 cm op een voetstuk van zwart gecoat staal; 88 cm hoog.",
+   "Stalen houder voor flessen en gereedschap aan één zijde; in de sokkel is ruimte voor 0,2 m³ haardhout.",
+   "Sokkel van weerbestendig, zwart gecoat staal."
+  ],
+  "keys": [
+   "de43cb87"
+  ],
+  "mismatches": [
+   {
+    "topic": "Werkblad",
+    "websiteSays": "Tekst: \"keramieken werkblad\"; ook: \"Het massief houten blok is geschikt om uw gerechten op voor te bereiden of te trancheren\"",
+    "note": "Tekst noemt zowel keramiek als massief hout; controleren."
+   }
+  ]
+ }
+]

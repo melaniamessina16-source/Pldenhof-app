@@ -1,0 +1,25 @@
+[
+ {
+  "match": [
+   "Clippe\\ Ello\\ mes\\ klem\\ 12,9\\ cm\\ rvs"
+  ],
+  "brandID": "clippe",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het verdelen van een klein gerecht.",
+  "bullets": [
+   "Clippe Ello mes met klem, 12,9 cm, van roestvrij staal; licht van gewicht.",
+   "Een klein mesje met een krachtige knijper waarmee u het aan een kom of schaaltje vastmaakt, zodat u het altijd bij de hand heeft.",
+   "Om op speelse wijze een gerecht te serveren; voor het verdelen van een klein gerecht.",
+   "Reinigen met warm water en milde zeep."
+  ],
+  "keys": [
+   "34eff320"
+  ],
+  "brandName": "Clippe",
+  "requires": [
+   "knijper"
+  ]
+ }
+]

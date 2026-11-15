@@ -1,0 +1,45 @@
+[
+ {
+  "match": [
+   "i\\ Genietti\\ multifunctioneel\\ vismes\\ rvs"
+  ],
+  "brandID": "igenietti",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om een verse hele vis te reinigen en voor te bereiden.",
+  "bullets": [
+   "Roestvrijstalen multifunctioneel vismes met vier functies: schubben verwijderen, snijden, graten verwijderen en plakjes maken.",
+   "Het handvat dient tevens als pincet.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "969fe39a"
+  ],
+  "brandName": "I Genietti"
+ },
+ {
+  "match": [
+   "i\\ Genietti\\ watermeloen\\ mes\\ rvs"
+  ],
+  "brandID": "igenietti",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het uitsnijden en serveren van plakken watermeloen.",
+  "bullets": [
+   "Watermeloenmes van roestvrij staal, 22 cm lang, 3,5 cm breed, glanzende afwerking.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "d36ebf1b"
+  ],
+  "mismatches": [
+   {
+    "topic": "Benaming",
+    "websiteSays": "De beschrijving noemt het product een \"schraper\", terwijl de naam \"watermeloen mes\" is.",
+    "note": "Controleer de benaming op de website."
+   }
+  ]
+ }
+]

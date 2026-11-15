@@ -1,0 +1,57 @@
+[
+ {
+  "match": [
+   "Inoxibar\\ geknikt\\ glaceermes\\ 20\\ cm\\ rvs\\ zwart",
+   "Inoxibar\\ geknikt\\ glaceermes\\ 30\\ cm\\ rvs\\ zwart",
+   "Inoxibar\\ geknikt\\ glaceermes\\ 25\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "inoxibar",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het afwerken van een afstrijklaag over uw baksel, of als keerspatel in een pan zonder anti-aanbaklaag.",
+  "bullets": [
+   "Inoxibar geknikt glaceermes van roestvrij staal met een zwart kunststoffen handvat.",
+   "Door de knik in het lemmet komen uw vingers niet in glazuur of crème; het lemmet heeft een afgeronde voorkant.",
+   "Voor het afwerken van een afstrijklaag over uw baksel, of als keerspatel in een pan zonder anti-aanbaklaag.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "1ca772ab",
+   "dcd057f2"
+  ],
+  "requires": [
+   "geknikte glaceermes",
+   "afstrijklaag"
+  ]
+ },
+ {
+  "match": [
+   "Inoxibar\\ plancha\\ spatel\\ 25\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "inoxibar",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor gebruik op de teppen yaki, plancha en grill.",
+  "bullets": [
+   "Inoxibar plancha spatel met een roestvrijstalen blad van 10 cm breed en een zwart kunststof heft.",
+   "Voor gebruik op de teppen yaki, plancha en grill.",
+   "Om vlees en groenten om te keren op bakplaat of grill, chocoladekrullen te maken of chocolade te tempereren.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "00ace85c"
+  ],
+  "requires": [
+   "chocoladekrullen"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: lengte",
+    "websiteSays": "De naam zegt \"25 cm\"; de tekst en de specificaties zeggen dat de spatel inclusief heft 12,5 cm lang is.",
+    "note": "Controleer de lengte op de verpakking."
+   }
+  ]
+ }
+]

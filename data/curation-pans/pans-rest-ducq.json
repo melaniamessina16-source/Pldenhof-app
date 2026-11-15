@@ -1,0 +1,119 @@
+[
+ {
+  "match": [
+   "DUCQ\\ Downdraft\\ braadpan\\ ø\\ 26\\ cm\\ rvs"
+  ],
+  "brandID": "ducq",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor de bereiding van een hele kip, stoofvlees of een ander gerecht.",
+  "bullets": [
+   "Downdraft braadpan van 3-laags tri-ply roestvrij staal met binnenkern van aluminium en twee roestvrijstalen grepen; ø 26 cm, inhoud 4 liter.",
+   "Aluminium kern geleidt uitstekend: snel op temperatuur en minder energieverbruik.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie (spec ook oven).",
+   "Met de hand afwassen aanbevolen."
+  ],
+  "keys": [
+   "10f04608"
+  ],
+  "brandName": "DUCQ"
+ },
+ {
+  "match": [
+   "DUCQ\\ Downdraft\\ kookpan\\ ø\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "ducq",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor de bereiding van een soep, saus of een ander gerecht.",
+  "bullets": [
+   "Downdraft kookpan, ø 20 cm, inhoud 3 liter.",
+   "Roestvrij staal met aluminium kern, twee grepen en een glazen deksel met siliconen ring.",
+   "Geschikt voor alle warmtebronnen, speciaal voor kookplaten met een afzuiging in de plaat (downdraft).",
+   "Speciaal ontworpen deksel blijft goed op zijn plaats; condens kan via de uitsparing aan de zijkant worden afgezogen en afgieten gaat gemakkelijker.",
+   "Met de hand afwassen aanbevolen."
+  ],
+  "keys": [
+   "8fcbe685"
+  ]
+ },
+ {
+  "match": [
+   "DUCQ\\ Downdraft\\ steelpan\\ ø\\ 16\\ cm\\ rvs"
+  ],
+  "brandID": "ducq",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor de bereiding van een soep, saus of een ander gerecht.",
+  "bullets": [
+   "Downdraft steelpan, ø 16 cm, inhoud 1,5 liter.",
+   "Roestvrij staal met aluminium kern, twee grepen en een glazen deksel met siliconen ring.",
+   "Geschikt voor alle warmtebronnen, speciaal voor kookplaten met een afzuiging in de plaat (downdraft).",
+   "Speciaal ontworpen deksel blijft goed op zijn plaats; condens kan via de uitsparing aan de zijkant worden afgezogen en afgieten gaat gemakkelijker.",
+   "Met de hand afwassen aanbevolen."
+  ],
+  "keys": [
+   "3a241d4d"
+  ]
+ },
+ {
+  "match": [
+   "DUCQ\\ kookpan\\ voor\\ inductie\\ ø\\ 20\\ cm\\ koper"
+  ],
+  "brandID": "ducq",
+  "typeIDs": [
+   "koper"
+  ],
+  "suitedFor": "Voor de bereiding van een pasta, soep of een ander gerecht.",
+  "bullets": [
+   "Kookpan voor inductie van 3-laags koper met twee roestvrijstalen grepen; ø 20 cm, inhoud 2 liter.",
+   "Koper geleidt uitstekend: snel op temperatuur en minder energieverbruik.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Met de hand afwassen aanbevolen."
+  ],
+  "keys": [
+   "8bb3daf4"
+  ]
+ },
+ {
+  "match": [
+   "DUCQ\\ pannenset\\ voor\\ inductie\\ koper\\ 4\\-delig"
+  ],
+  "brandID": "ducq",
+  "typeIDs": [
+   "koper"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pannenset voor inductie van 3-laags koper met speciale inductiebodem: geschikt voor alle warmtebronnen, inclusief inductie (in tegenstelling tot andere koperen pannen).",
+   "Set bestaat uit: hoge kookpan ø 20 cm, lage kookpan ø 20 cm, lage kookpan ø 18 cm en steelpan ø 16 cm.",
+   "Koper geleidt uitstekend: snel op temperatuur en minder energieverbruik.",
+   "Met de hand afwassen aanbevolen."
+  ],
+  "keys": [
+   "a845a2e7"
+  ]
+ },
+ {
+  "match": [
+   "DUCQ\\ pannenset\\ voor\\ inductie\\ koper\\ 5\\-delig"
+  ],
+  "brandID": "ducq",
+  "typeIDs": [
+   "koper"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pannenset voor inductie van 3-laags koper met speciale inductiebodem: geschikt voor alle warmtebronnen, inclusief inductie (in tegenstelling tot andere koperen pannen).",
+   "Set bestaat uit: hoge kookpan ø 24 cm, hoge kookpan ø 20 cm, lage kookpan ø 20 cm, braadpan ø 28 cm en steelpan ø 16 cm.",
+   "Koper geleidt uitstekend: snel op temperatuur en minder energieverbruik.",
+   "Met de hand afwassen aanbevolen."
+  ],
+  "keys": [
+   "e4798318"
+  ]
+ }
+]

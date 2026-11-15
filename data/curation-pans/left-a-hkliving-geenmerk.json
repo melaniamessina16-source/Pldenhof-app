@@ -1,0 +1,28 @@
+[
+ {
+  "match": [
+   "HK\\ Living\\ AKE1139\\ Kaasmessenset\\ Havana",
+   "HK\\ Living\\ AKE1140\\ Kaasmessenset\\ Coast"
+  ],
+  "brandID": "hkliving",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het snijden van harde tot zachte kaas.",
+  "bullets": [
+   "HK Living kaasmessenset, 3-delig (drie verschillende soorten kaasmessen) van roestvrij staal met een heft van hars.",
+   "Voor het snijden van harde tot zachte kaas; ook een mooie toevoeging aan uw tafel en een luxe kaasplank.",
+   "De messen komen in een geschenkset.",
+   "Handafwas met warm water en mild afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "b3bcb735",
+   "8b3498af"
+  ],
+  "brandName": "HK Living",
+  "requires": [
+   "geschenkset",
+   "hars"
+  ]
+ }
+]

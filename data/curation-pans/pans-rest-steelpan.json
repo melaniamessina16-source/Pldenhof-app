@@ -1,0 +1,62 @@
+[
+ {
+  "match": [
+   "Steel\\ Pan\\ broodvorm\\ 20\\ cm\\ rvs",
+   "Steel\\ Pan\\ broodvorm\\ 24\\ cm\\ rvs",
+   "Steel\\ Pan\\ broodvorm\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "steelpan",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken van zoete broden of breekbroden in de oven.",
+  "bullets": [
+   "Broodvorm van roestvrij staal.",
+   "Ronde bodem waardoor het brood een mooie, bolle vorm krijgt.",
+   "Voor allerlei soorten broden of cakes in de oven.",
+   "Kan in de vaatwasser, maar voor het beste behoud met de hand afwassen."
+  ],
+  "keys": [
+   "aeff1e4b"
+  ],
+  "brandName": "Steel Pan"
+ },
+ {
+  "match": [
+   "Steel\\ Pan\\ pizzavorm\\ ø\\ 32\\ cm\\ rvs"
+  ],
+  "brandID": "steelpan",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken van pizza's in de oven.",
+  "bullets": [
+   "Pizzavorm van roestvrij staal, diameter 32 cm, met antiaanbakeigenschappen waardoor de pizza makkelijk loslaat.",
+   "Kan in de vaatwasser, maar voor het beste behoud met de hand afwassen."
+  ],
+  "keys": [
+   "b74ac0fa"
+  ]
+ },
+ {
+  "match": [
+   "Steel\\ Pan\\ taartvorm\\ ø\\ 24\\ cm\\ rvs",
+   "Steel\\ Pan\\ taartvorm\\ ø\\ 28\\ cm\\ rvs",
+   "Steel\\ Pan\\ Taartvorm\\ ø\\ 30\\ cm\\ rvs"
+  ],
+  "brandID": "steelpan",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van taarten of cakes in de oven.",
+  "bullets": [
+   "Taartvorm van roestvrij staal met een antiaanbaklaag waardoor de taart makkelijk loslaat.",
+   "Met de handgrepen goed te verplaatsen.",
+   "Kan in de vaatwasser, maar voor het beste behoud met de hand afwassen (spec: handafwas)."
+  ],
+  "keys": [
+   "07a05360"
+  ]
+ }
+]

@@ -1,0 +1,581 @@
+[
+ {
+  "match": [
+   "Zassenhaus\\ botermes\\ 11,5\\ cm\\ beukenhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Botermes \"Buckels\": een brood-/ontbijtmes met een handvat van beukenhout en een lemmet van roestvrij staal.",
+   "Het brede lemmet is bedoeld voor snijden en smeren: brood beboteren, een broodje opensnijden of jam en pindakaas uitsmeren.",
+   "Het beukenhouten handvat is ergonomisch gevormd, met een bult (de \"buckel\").",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "109940e1"
+  ],
+  "brandName": "Zassenhaus",
+  "requires": [
+   "Buckels"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ broodsnijplank\\ 42\\ x\\ 27,5\\ cm\\ acaciahout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodsnijplank van acaciahout met diepe groeven.",
+   "Bij het snijden van brood vallen de kruimels in de groeven: het aanrecht blijft schoon en de kruimels zijn te gebruiken voor paneermeel.",
+   "Regelmatig inoliën met een onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt splijten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "b9acfcc0"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ broodsnijplank\\ 42\\ x\\ 27,5\\ cm\\ hout\\ naturel"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodsnijplank van rubberhout met diepe groeven.",
+   "Bij het snijden van brood vallen de kruimels in de groeven: het aanrecht blijft schoon en de kruimels zijn te gebruiken voor paneermeel.",
+   "Regelmatig inoliën met een onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt splijten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "8b0e62db"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ broodsnijplank\\ 42\\ x\\ 28\\ cm\\ hout\\ acaciahout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tweedelige broodsnijplank van acaciahout: een houten opvangbak met een rasterinzet.",
+   "Bij het snijden van brood vallen de kruimels door het raster in de opvangbak: het aanrecht blijft schoon en de kruimels zijn te gebruiken als paneermeel.",
+   "Regelmatig inoliën met een onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt splijten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "ee17b3cf"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ broodsnijplank\\ 42\\ x\\ 28\\ cm\\ hout\\ naturel"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tweedelige broodsnijplank van rubberhout: een houten opvangbak met een rasterinzet.",
+   "Bij het snijden van brood vallen de kruimels door het raster in de opvangbak: het aanrecht blijft schoon en de kruimels zijn te gebruiken als paneermeel.",
+   "Regelmatig inoliën met een onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt splijten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "aaa0fda7"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Kyoto\\ koksmes\\ 20\\ cm\\ wengéhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": "Allrounder, geschikt voor hakken, snijden en wiegen van groenten, vlees en kruiden.",
+  "bullets": [
+   "Koksmes uit de Kyoto-serie: lemmet gesmeed uit Japans staal (staalsoort 440C volgens de specificaties).",
+   "Gehamerde lemmetafwerking: vermindert het vastplakken van gesneden ingrediënten.",
+   "Slijphoek van circa 15°.",
+   "Heft van wengéhout.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "d79519b0"
+  ],
+  "mismatches": [
+   {
+    "topic": "Hardheid: specificatie en beschrijving verschillen",
+    "note": "Controleer welke hardheid klopt.",
+    "websiteSays": "Specificaties: 58 HRC; beschrijving: \"ca. 60 HRC\""
+   }
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Kyoto\\ Nakiri\\ 18\\ cm\\ wengéhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": "Bijzonder geschikt voor het hakken en snijden van groenten en kruiden (rechte snede en platte lemmetvorm).",
+  "bullets": [
+   "Nakiri uit de Kyoto-serie: lemmet gesmeed uit Japans staal (staalsoort 440C volgens de specificaties).",
+   "Gehamerde lemmetafwerking: vermindert het vastplakken van gesneden ingrediënten.",
+   "Slijphoek van 15°.",
+   "Heft van wengéhout.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "30a276eb"
+  ],
+  "mismatches": [
+   {
+    "topic": "Hardheid: specificatie en beschrijving verschillen",
+    "note": "Controleer welke hardheid klopt.",
+    "websiteSays": "Specificaties: 58 HRC; beschrijving: \"ca. 60 HRC\""
+   }
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Kyoto\\ Santoku\\ 13\\ cm\\ wengéhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": "Voor het fijnsnijden van groenten, vlees en vis; door het kleinere formaat geschikt voor precisiewerk.",
+  "bullets": [
+   "Compact santoku uit de Kyoto-serie: lemmet gesmeed uit Japans staal (staalsoort 440C volgens de specificaties).",
+   "Gehamerde lemmetafwerking: vermindert het vastplakken van gesneden ingrediënten.",
+   "Slijphoek van circa 15°.",
+   "Heft van wengéhout.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "ec0d6497"
+  ],
+  "mismatches": [
+   {
+    "topic": "Hardheid: specificatie en beschrijving verschillen",
+    "note": "Controleer welke hardheid klopt.",
+    "websiteSays": "Specificaties: 58 HRC; beschrijving: \"ca. 60 HRC\""
+   }
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Kyoto\\ Santoku\\ 18\\ cm\\ wengéhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": "Voor het bereiden van uiteenlopende ingrediënten, van groenten en vlees tot vis.",
+  "bullets": [
+   "Santoku uit de Kyoto-serie: lemmet gesmeed uit Japans staal (staalsoort 440C volgens de specificaties).",
+   "Gehamerde lemmetafwerking: vermindert het vastplakken van gesneden ingrediënten.",
+   "Slijphoek van circa 15°.",
+   "Heft van wengéhout.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "6622f2f2"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Osaka\\ broodmes\\ 20\\ cm\\ olijfhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": "Voor brood met een harde korst en een zachte binnenzijde; ook voor grotere ingrediënten met een stevige buitenzijde, zoals pompoen en meloen.",
+  "bullets": [
+   "Broodmes met gekarteld lemmet uit de Osaka-serie: lemmet van meerlaags Japans messenstaal, handvat van olijvenhout met een natuurlijke nerftekening.",
+   "Door de karteling kan de korst worden aangesneden zonder het brood sterk samen te drukken.",
+   "Wordt geleverd in een houten geschenkdoos; de messen worden met de hand vervaardigd.",
+   "Reinigen met warm water en afwasmiddel en na het reinigen direct afdrogen."
+  ],
+  "keys": [
+   "d4660f1f"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Osaka\\ hammes\\ 20\\ cm\\ olijfhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": "Voor het snijden van dunne plakken ham, vlees en vis.",
+  "bullets": [
+   "Hammes met lang, smal lemmet uit de Osaka-serie: lemmet van meerlaags Japans messenstaal, handvat van olijvenhout met een natuurlijke nerftekening.",
+   "Door het smalle lemmet kan het mes in lange bewegingen door de ingrediënten worden gehaald: dunne plakken rauwe of gekookte ham, gebraden vlees en vis.",
+   "Wordt geleverd in een houten geschenkdoos; de messen worden met de hand vervaardigd.",
+   "Reinigen met warm water en afwasmiddel en na het reinigen direct afdrogen."
+  ],
+  "keys": [
+   "99b792cc"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Osaka\\ santoku\\ 18\\ cm\\ olijfhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, vlees en vis.",
+  "bullets": [
+   "Santoku met breed lemmet en gehamerde afwerking uit de Osaka-serie: lemmet van meerlaags Japans messenstaal, handvat van olijvenhout met een natuurlijke nerftekening.",
+   "De gehamerde afwerking helpt het kleven van ingrediënten aan het staal te verminderen.",
+   "De messen worden met de hand vervaardigd.",
+   "Reinigen met warm water en afwasmiddel en na het reinigen direct afdrogen."
+  ],
+  "keys": [
+   "d6c17b3d"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ snijplank\\ 23\\ x\\ 15\\ cm\\ hout\\ 3\\ stuks\\ acaciahout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Zeer geschikt als ontbijtplank en bij het serveren van een broodmaaltijd.",
+  "bullets": [
+   "Set van acaciahouten snijplanken in een compact formaat (aantal en maat: zie de productnaam).",
+   "Het acaciahout is duurzaam verbouwd.",
+   "Gemaakt van langshout: de nerf is goed zichtbaar.",
+   "Regelmatig inoliën met een onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt splijten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "06e29b83"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ snijplank\\ 26\\ x\\ 17\\ cm\\ hout\\ 2\\ stuks",
+   "Zassenhaus\\ snijplank\\ 28\\ x\\ 20\\ cm\\ hout\\ 2\\ stuks"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Zeer geschikt als ontbijtplank en bij het serveren van een broodmaaltijd.",
+  "bullets": [
+   "Set van acaciahouten snijplanken in een compact formaat (aantal en maat: zie de productnaam).",
+   "Het acaciahout is duurzaam verbouwd.",
+   "Gemaakt van langshout: de nerf is goed zichtbaar.",
+   "Regelmatig inoliën met een onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt splijten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "815fc876"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ snijplank\\ 33\\ x\\ 21\\ cm\\ hout\\ naturel",
+   "Zassenhaus\\ snijplank\\ 45\\ x\\ 30\\ cm\\ hout\\ naturel",
+   "Zassenhaus\\ snijplank\\ 51\\ x\\ 35\\ cm\\ hout\\ naturel"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Voor het snijden van brood, groenten, vlees of vis.",
+  "bullets": [
+   "Snijplank van rubberhout, verlijmd uit afwisselend kops- en langshout.",
+   "Ook te gebruiken voor het serveren van kaas of tapas.",
+   "Regelmatig inoliën met een onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt splijten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "f017719d"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ snijplank\\ 42\\ x\\ 28\\ cm\\ hout\\ blank"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Voor het snijden van brood, groenten, vlees of vis.",
+  "bullets": [
+   "Snijplank van blank langshout met een sapgeul die vocht uit de ingrediënten opvangt.",
+   "Op langshoutwijze verlijmd: de natuurlijke nerf wordt benadrukt.",
+   "Ook te gebruiken voor het serveren van kaas of tapas.",
+   "Regelmatig inoliën met een onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt splijten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "3964aaab"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ snijplank\\ met\\ sapgeul\\ 36\\ x\\ 23\\ cm\\ acaciahout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Voor het snijden van groenten, vlees of vis.",
+  "bullets": [
+   "Snijplank van donker acaciahout met een sapgeul die vocht uit de ingrediënten opvangt.",
+   "Op langshoutwijze verlijmd: de natuurlijke nerf wordt benadrukt.",
+   "Ook te gebruiken voor het serveren van kaas of tapas.",
+   "Regelmatig inoliën met een onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt splijten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "033b9275"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ snijplank\\ rond\\ 30\\ cm\\ acaciahout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Ronde ontbijt- en snijplank van acaciahout met een sapgeul.",
+   "Op langshoutwijze verlijmd: de natuurlijke nerf wordt benadrukt.",
+   "Ook te gebruiken voor het serveren van kaas of tapas.",
+   "Regelmatig inoliën met een onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt splijten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "c371f036"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ snijplank\\ aanslagrand\\ 39\\ x\\ 39\\ x\\ 2\\ cm\\ rubberhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Zeer geschikt als ondergrond voor het kneden van deeg.",
+  "bullets": [
+   "Rubberhouten snijplank met aanslagranden, zodat de plank stevig tegen de rand van tafel of aanrecht blijft liggen.",
+   "Kopshouten plank: u snijdt op de rechtopstaande vezels, zodat de scherpte van uw messen langer behouden blijft; er vormen minder diepe krassen en de plank is beter waterafstotend.",
+   "Regelmatig inoliën met onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt barsten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "dd6f651f"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ snijplank\\ aanslagrand\\ 60\\ x\\ 40\\ x\\ 3\\ cm\\ rubberhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Zeer geschikt als ondergrond voor het kneden van deeg.",
+  "bullets": [
+   "Rubberhouten snijplank met aanslagranden, zodat de plank stevig tegen de rand van tafel of aanrecht blijft liggen.",
+   "Aan één zijde voorzien van een sapgeul.",
+   "Kopshouten plank: u snijdt op de rechtopstaande vezels, zodat de scherpte van uw messen langer behouden blijft; er vormen minder diepe krassen en de plank is beter waterafstotend.",
+   "Regelmatig inoliën met onderhoudsolie voor snijplanken houdt de plank in goede conditie en voorkomt barsten.",
+   "Reinigen met warm water en afwasmiddel en direct en grondig afdrogen; handafwas."
+  ],
+  "keys": [
+   "c6768057"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Loft\\ magnetisch\\ messenblok\\ eikenhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Loft magnetisch messenblok van eikenhout: veilig opbergen van messen op een magnetisch oppervlak.",
+   "De messen worden stevig vastgehouden en blijven overzichtelijk zichtbaar.",
+   "Het magnetische oppervlak beschermt de snede en voorkomt contact tussen de lemmeten.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1bc243da"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Loft\\ magnetisch\\ messenblok\\ essenhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Loft magnetisch messenblok van essenhout: veilig opbergen van messen op een magnetisch oppervlak.",
+   "De messen worden stevig vastgehouden en blijven overzichtelijk zichtbaar.",
+   "Het magnetische oppervlak beschermt de snede en voorkomt contact tussen de lemmeten.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "82a3d114"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Spin\\ roterend\\ messenblok\\ eikenhout",
+   "Zassenhaus\\ Spin\\ roterend\\ messenblok\\ essenhout\\ zwart"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Roterend messenblok met een magnetisch blok: door aan het blok te draaien vindt u altijd het juiste mes.",
+   "Door de messen afzonderlijk van elkaar te bewaren blijven ze langer scherp.",
+   "Reinigen met een vochtige doek. Messen niet inbegrepen."
+  ],
+  "keys": [
+   "56508afc"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Tante\\ Käthe\\ schilmes\\ 7,5\\ cm\\ beukenhout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en snijden van groenten en fruit.",
+  "bullets": [
+   "\"Tante Käthe\" schilmes van roestvrij staal met een heft van beukenhout.",
+   "Het lemmet is recht geslepen.",
+   "Gemaakt in Solingen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c27b9994"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Tante\\ Käthe\\ schilmes\\ 8\\ cm\\ hout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en snijden van groenten en fruit.",
+  "bullets": [
+   "\"Tante Käthe\" schilmes van roestvrij staal met een heft van beukenhout.",
+   "Het lemmet is recht geslepen.",
+   "Gemaakt in Solingen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7d91fe30"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ Tante\\ Käthe\\ tourneermes\\ 5,5\\ cm\\ hout"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en nauwkeurig snijden van groenten en fruit.",
+  "bullets": [
+   "\"Tante Käthe\" tourneermes van roestvrij staal met een heft van beukenhout.",
+   "Het lemmet is gebogen geslepen; geschikt voor het tourné snijden van groenten en het schillen van aardappels of fruit.",
+   "Gemaakt in Solingen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a6322255"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ universeel\\ messenblok\\ 23\\ x\\ 12\\ cm\\ bamboe"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Universeel messenblok uit de EcoLine-collectie, gemaakt van bamboe; de inzet is op basis van plantaardige vezels en melamine.",
+   "De speciale vulling vormt zich gemakkelijk naar alle soorten messen.",
+   "Afmeting 12 x 12 x 23 cm; ruimte voor maximaal 10 messen (met een lemmet van max. 23 cm). Messen niet inbegrepen.",
+   "Reinigen met een vochtige doek; de inzet is te verwijderen en gemakkelijk te reinigen. Laat goed drogen voordat de messen terug worden geplaatst."
+  ],
+  "keys": [
+   "3d7eeb29"
+  ]
+ },
+ {
+  "match": [
+   "Zassenhaus\\ universeel\\ messenblok\\ ø\\ 11\\ cm\\ kunststof\\ cool\\ grey",
+   "Zassenhaus\\ universeel\\ messenblok\\ ø\\ 11\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Universeel messenblok van kunststof met een diameter van 11 cm en een hoogte van 22 cm.",
+   "Biedt plaats aan meerdere messen, zoals koksmessen, officemessen, schilmessen en steakmessen.",
+   "De inzet is gemaakt van compacte kunststof vezels.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "914104f5",
+   "300cae26"
+  ],
+  "colours": [
+   "cool grey",
+   "zwart"
+  ]
+ }
+]

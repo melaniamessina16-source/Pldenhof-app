@@ -1,0 +1,214 @@
+[
+ {
+  "match": [
+   "Bowls\\ and\\ Dishes\\ botermes\\ kunststof\\ zwart\\ 4\\ stuks"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Set van 4 botermessen met kunststof handvatten en roestvrijstalen lemmetten; zwart.",
+   "Glad rvs lemmet voor het smeren van boter, zachte kaas of andere spreads.",
+   "Licht van gewicht; de kunststof handvatten zijn vormvast.",
+   "Niet geschikt voor de vaatwasmachine; reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f738122b"
+  ],
+  "brandName": "Bowls and Dishes",
+  "requires": [
+   "niet geschikt voor de vaatwasmachine"
+  ]
+ },
+ {
+  "match": [
+   "Bowls\\ and\\ Dishes\\ botermes\\ olijfhout\\ 4\\ stuks"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het smeren van boter, zachte kazen en spreads.",
+  "bullets": [
+   "Set van 4 botermessen met handvatten van olijfhout en gladde rvs lemmetten.",
+   "Voor het smeren van boter, zachte kazen en spreads.",
+   "Compact formaat, licht in de hand; elk handvat heeft een unieke nerftekening.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d5b4d067"
+  ],
+  "requires": [
+   "olijfhout",
+   "nerftekening"
+  ]
+ },
+ {
+  "match": [
+   "Bowls\\ and\\ Dishes\\ kaasmessenset\\ medium/hard\\ olijfhout\\ 2\\-delig"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor middelharde tot harde kazen.",
+  "bullets": [
+   "Tweedelige kaasmessenset met olijfhouten handvatten en rvs lemmetten.",
+   "Voor middelharde tot harde kazen: voor het aansnijden en portioneren van stevigere kazen.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "84594bf2"
+  ],
+  "requires": [
+   "olijfhout",
+   "stevigere kazen"
+  ]
+ },
+ {
+  "match": [
+   "Bowls\\ and\\ Dishes\\ kaasmessenset\\ medium/hard\\ titanium\\ 2\\-delig"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het snijden en serveren van medium tot harde kazen.",
+  "bullets": [
+   "Tweedelige kaasmessenset met titaniumcoating op de rvs lemmetten; donkere afwerking.",
+   "Voor medium tot harde kazen: voor het aansnijden en portioneren van stevigere kazen.",
+   "De titaniumcoating verbetert de slijtvastheid.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "60ee2da1"
+  ],
+  "requires": [
+   "titaniumcoating",
+   "stevigere kazen"
+  ]
+ },
+ {
+  "match": [
+   "Bowls\\ and\\ Dishes\\ kaasmessenset\\ olijfhout\\ 3\\-delig"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het serveren van uiteenlopende kaassoorten.",
+  "bullets": [
+   "Driedelige kaasmessenset met rvs lemmetten en handvatten van olijfhout.",
+   "Elk mes is ontworpen voor een specifiek type kaas, van zacht tot hard.",
+   "Houten onderdelen niet in de vaatwasmachine; reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "aaef5885"
+  ],
+  "requires": [
+   "olijfhout",
+   "specifiek type kaas"
+  ]
+ },
+ {
+  "match": [
+   "Bowls\\ and\\ Dishes\\ kaasmessenset\\ titanium\\ 3\\-delig"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor verschillende soorten kaas, van zachte kazen zoals brie tot een hardere parmezaanse kaas of brokkelkaas.",
+  "bullets": [
+   "Driedelige kaasmessenset met rvs lemmetten met titaniumcoating.",
+   "Elk van de drie messen heeft een vorm die is afgestemd op een specifiek type kaas.",
+   "De coating geeft de lemmetten een donkere kleur en verhoogt de krasbestendigheid.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a6c77f7a"
+  ],
+  "requires": [
+   "titanium",
+   "specifiek type kaas"
+  ]
+ },
+ {
+  "match": [
+   "Bowls\\ and\\ Dishes\\ kaasmessenset\\ titanium\\ donkergrijs\\ 3\\-delig"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor uiteenlopende kaassoorten.",
+  "bullets": [
+   "Driedelige kaasmessenset met rvs lemmetten met donkergrijze titaniumcoating.",
+   "De drie messen hebben vormen afgestemd op zachte, medium en harde kazen.",
+   "De coating beschermt het lemmet en zorgt voor een krasbestendig oppervlak.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "59b23bb6"
+  ],
+  "requires": [
+   "donkergrijze",
+   "krasbestendig"
+  ]
+ },
+ {
+  "match": [
+   "Bowls\\ and\\ Dishes\\ kaasmessenset\\ zacht/medium\\ olijfhout\\ 2\\-deli"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor zachte en medium harde kazen.",
+  "bullets": [
+   "Tweedelige kaasmessenset met olijfhouten handvatten en rvs lemmet.",
+   "Voor zachte en medium harde kazen.",
+   "Het opengewerkte mes voorkomt dat zachte kazen blijven kleven; het tweede mes is geschikt voor halfharde varianten.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "60d7d6b1"
+  ],
+  "requires": [
+   "olijfhout",
+   "opengewerkte"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: afgekapt",
+    "websiteSays": "Productnaam eindigt op \"olijfhout 2-deli\"",
+    "note": "De naam op de website is afgekapt (2-delig)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Bowls\\ and\\ Dishes\\ kaasmessenset\\ zacht/medium\\ titanium\\ 2\\-delig"
+  ],
+  "brandID": "bowlsanddishes",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor zachte en medium harde kazen.",
+  "bullets": [
+   "Tweedelige titanium kaasmessenset met rvs lemmetten met titaniumcoating.",
+   "Voor zachte en medium harde kazen.",
+   "Het opengewerkte mes snijdt zachte kazen netjes zonder dat ze blijven kleven; het tweede mes is voor iets stevigere kaassoorten.",
+   "Handafwas; niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "8a6cb36c"
+  ],
+  "requires": [
+   "opengewerkte",
+   "Niet geschikt voor de vaatwasser"
+  ]
+ }
+]

@@ -1,0 +1,28 @@
+[
+ {
+  "match": [
+   "Küchenprofi\\ Provence\\ grillplaat\\ 38\\ x\\ 23\\ cm\\ gietijzer\\ zwart"
+  ],
+  "brandID": "cilio",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken of grillen van groenten, vlees of andere etenswaren.",
+  "bullets": [
+   "Grillplaat van geëmailleerd gietijzer, 38 x 23 cm; aan de twee einden een handgreep die uit één stuk met de plaat bestaat.",
+   "In de fabriek geëmailleerd, klaar voor gebruik; optimale warmtespreiding bij rustig voorverwarmen.",
+   "Reinigen met warm water en afwasmiddel en na het afwassen direct goed afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "d003cd56"
+  ],
+  "brandName": "Cilio",
+  "mismatches": [
+   {
+    "topic": "Merk",
+    "websiteSays": "Merkveld: Cilio; productnaam en tekst: Küchenprofi Provence grillplaat",
+    "note": "Check welk merk het is."
+   }
+  ]
+ }
+]

@@ -1,0 +1,367 @@
+[
+ {
+  "match": [
+   "Berkel\\ Home\\ Line\\ Plus\\ 200\\ snijmachine\\ ø\\ 20\\ cm\\ mat\\ rood",
+   "Berkel\\ Home\\ Line\\ Plus\\ 200\\ snijmachine\\ ø\\ 20\\ cm\\ mat\\ zwart",
+   "Berkel\\ Home\\ Line\\ Plus\\ 200\\ snijmachine\\ ø\\ 20\\ cm\\ rood",
+   "Berkel\\ Home\\ Line\\ Plus\\ 200\\ snijmachine\\ ø\\ 20\\ cm\\ zwart"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en ook groenten of fruit in gelijkmatige dunne plakken.",
+  "bullets": [
+   "Berkel Home Line Plus 200 snijmachine met een mesdiameter van 20 cm.",
+   "Gehard stalen mes, aangedreven door een 150 Watt sterke motor.",
+   "Behuizing van gietaluminium, gepoedercoat; de grijze delen zijn geanodiseerd.",
+   "Voor vleeswaren met een diameter van 14 cm of maximaal 20 x 14 cm groot.",
+   "Dikte instelbaar tot 20 mm.",
+   "Het mes staat onder een hoek van 25°, zodat vleeswaar, kaas en andere producten makkelijk naar het mes toe glijden; de afdekplaat voorkomt dat het voedsel onnodig tegen het draaiende mes ligt.",
+   "Een Berkel Blade Remover wordt meegeleverd: daarmee verwijdert u het mes om de machine goed te reinigen.",
+   "Reinigen met een vochtige doek, eventueel met een spons en desinfectiemiddel."
+  ],
+  "keys": [
+   "42fc0a93",
+   "641228ed",
+   "a8481e44",
+   "9429b24e"
+  ],
+  "brandName": "Berkel",
+  "requires": [
+   "Berkel Blade Remover"
+  ],
+  "colours": [
+   "mat rood",
+   "mat zwart",
+   "rood",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen: breedte",
+    "websiteSays": "De tekst zegt \"47 cm lang, 31,8 cm breed en 28,4 cm hoog\"; de specificaties zeggen Breedte 31,7 cm.",
+    "note": "Controleer de breedte op de doos of in de handleiding."
+   },
+   {
+    "topic": "Naam in de tekst: Home Line of Home Line Plus",
+    "websiteSays": "Bij de zwarte varianten (mat zwart en zwart) staat in de tekst \"Berkel Home Line 200 snijmachine\" / \"Home Line snijmachine\"; de productnaam is \"Home Line Plus 200\".",
+    "note": "Controleer of het model Home Line Plus 200 is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Home\\ Line\\ Plus\\ 200\\ snijmachine\\ rood\\ \\+\\ vacuümmachine",
+   "Berkel\\ Home\\ Line\\ Plus\\ 200\\ snijmachine\\ zwart\\ \\+\\ vacuümmachine"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines",
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en ook groenten of fruit in gelijkmatige dunne plakken.",
+  "bullets": [
+   "Berkel Home Line Plus 200 snijmachine (mesdiameter 20 cm) met een Berkel vacuümmachine erbij.",
+   "Gehard stalen mes, aangedreven door een 150 Watt sterke motor.",
+   "Behuizing van gietaluminium, gepoedercoat; de grijze delen zijn geanodiseerd.",
+   "Voor vleeswaren met een diameter van 14 cm of maximaal 20 x 14 cm groot.",
+   "Dikte instelbaar tot 20 mm.",
+   "Het mes staat onder een hoek van 25°, zodat vleeswaar, kaas en andere producten makkelijk naar het mes toe glijden; de afdekplaat voorkomt dat het voedsel onnodig tegen het draaiende mes ligt.",
+   "Een Berkel Blade Remover wordt meegeleverd: daarmee verwijdert u het mes om de machine goed te reinigen.",
+   "Reinigen met een vochtige doek, eventueel met een spons en desinfectiemiddel.",
+   "De bijgeleverde vacuümmachine is compact en van roestvrij staal, met een brede sealbalk van 30 cm, twee snelheden en drie standen voor droge en vochtige ingrediënten.",
+   "Vacuümmachine: dubbele zuigpomp, LED-indicator en kijkvenster; ook voor sealen, marineren en vacumeren van voorraadpotten (slang meegeleverd)."
+  ],
+  "keys": [
+   "14a1fd0c"
+  ],
+  "requires": [
+   "sealbalk van 30 cm"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen: breedte",
+    "websiteSays": "De tekst zegt \"47 cm lang, 31,8 cm breed en 28,4 cm hoog\"; de specificaties zeggen Breedte 31,7 cm.",
+    "note": "Controleer de breedte op de doos of in de handleiding."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Home\\ Line\\ Plus\\ 250\\ snijmachine\\ ø\\ 25\\ cm\\ mat\\ rood",
+   "Berkel\\ Home\\ Line\\ Plus\\ 250\\ snijmachine\\ ø\\ 25\\ cm\\ mat\\ zwart",
+   "Berkel\\ Home\\ Line\\ Plus\\ 250\\ snijmachine\\ ø\\ 25\\ cm\\ rood",
+   "Berkel\\ Home\\ Line\\ Plus\\ 250\\ snijmachine\\ ø\\ 25\\ cm\\ zwart"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en ook groenten of fruit in gelijkmatige dunne plakken.",
+  "bullets": [
+   "Berkel Home Line Plus 250 snijmachine.",
+   "Gehard stalen mes met een diameter van 25 cm, aangedreven door een 150 Watt sterke motor.",
+   "Behuizing van gietaluminium, gepoedercoat; de grijze delen zijn geanodiseerd.",
+   "Voor vleeswaren met een diameter van 18,3 cm of maximaal 20 x 18,3 cm groot.",
+   "Dikte instelbaar tot 20 mm.",
+   "Het mes staat onder een hoek van 25°, zodat vleeswaar, kaas en andere producten makkelijk naar het mes toe glijden; de afdekplaat voorkomt dat het voedsel onnodig tegen het draaiende mes ligt.",
+   "Een Berkel Blade Remover wordt meegeleverd: daarmee verwijdert u het mes om de machine goed te reinigen.",
+   "Reinigen met een vochtige doek, eventueel met een spons en desinfectiemiddel."
+  ],
+  "keys": [
+   "fbbbaa26",
+   "26109686"
+  ],
+  "requires": [
+   "Berkel Blade Remover"
+  ],
+  "colours": [
+   "mat rood",
+   "mat zwart",
+   "rood",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Home\\ Line\\ Plus\\ 250\\ snijmachine\\ rood\\ \\+\\ vacuümmachine",
+   "Berkel\\ Home\\ Line\\ Plus\\ 250\\ snijmachine\\ zwart\\ \\+\\ vacuümmachine"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines",
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en ook groenten of fruit in gelijkmatige dunne plakken.",
+  "bullets": [
+   "Berkel Home Line Plus 250 snijmachine met een Berkel vacuümmachine erbij.",
+   "Gehard stalen mes met een diameter van 25 cm, aangedreven door een 150 Watt sterke motor.",
+   "Behuizing van gietaluminium, gepoedercoat; de grijze delen zijn geanodiseerd.",
+   "Voor vleeswaren met een diameter van 18,3 cm of maximaal 20 x 18,3 cm groot.",
+   "Dikte instelbaar tot 20 mm.",
+   "Het mes staat onder een hoek van 25°, zodat vleeswaar, kaas en andere producten makkelijk naar het mes toe glijden; de afdekplaat voorkomt dat het voedsel onnodig tegen het draaiende mes ligt.",
+   "Een Berkel Blade Remover wordt meegeleverd: daarmee verwijdert u het mes om de machine goed te reinigen.",
+   "Reinigen met een vochtige doek, eventueel met een spons en desinfectiemiddel.",
+   "De bijgeleverde vacuümmachine is compact en van roestvrij staal, met een brede sealbalk van 30 cm, twee snelheden en drie standen voor droge en vochtige ingrediënten.",
+   "Vacuümmachine: dubbele zuigpomp, LED-indicator en kijkvenster; ook voor sealen, marineren en vacumeren van voorraadpotten (slang meegeleverd)."
+  ],
+  "keys": [
+   "3ac59741"
+  ],
+  "requires": [
+   "sealbalk van 30 cm"
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Icon\\ Line\\ snijmachine\\ ø\\ 17\\ cm\\ Black",
+   "Berkel\\ Icon\\ Line\\ snijmachine\\ ø\\ 17\\ cm\\ Red"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Berkel Icon Line Slicer 170: snijmachine met een mesdiameter van 17 cm, van aluminium en roestvrij staal.",
+   "Voor vleeswaren, kaas en groenten.",
+   "170 mm chroomstalen mes met professioneel profiel; 0,19 kW motor.",
+   "Snijdikte van 0 tot 18 mm; de draaiknop voor de dikte heeft een ingebouwde stopknop.",
+   "Aanpasbare en verwijderbare pershouder; schuine tafel gebruikt zwaartekracht bij het snijden.",
+   "Aluminium structuur met rubberen voetjes voor stabiliteit.",
+   "Eenvoudig te reinigen: kantelbare plaat en snel te verwijderen aluminium mesbeschermer."
+  ],
+  "keys": [
+   "d2e765b4",
+   "b9382c75"
+  ],
+  "requires": [
+   "0,19 kW"
+  ],
+  "colours": [
+   "Black",
+   "Red"
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Icon\\ staafmixer\\ All\\ In\\ One\\ Kit\\ Red"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Berkel Icon staafmixer met een vermogen van 270 watt; de behuizing is van ABS-kunststof in de rode Berkel-kleur.",
+   "All in One set: staafmixer, houder voor de staafmixer met ruimte voor 4 mesjes, 4 mesjes, foodprocessor accessoire en mengbeker.",
+   "Voor het malen, kloppen en mengen van soepen, sauzen, tapenades en het hakken van kaas.",
+   "Bediening met twee knoppen voor verschillende snelheden.",
+   "Reinigen: houd de roestvrijstalen mixstaaf onder warm water.",
+   "Hakmolen voor het malen van bijvoorbeeld noten, broodkruim, specerijen of koffie."
+  ],
+  "keys": [
+   "fc936a1f"
+  ],
+  "requires": [
+   "All in One"
+  ],
+  "colours": [
+   "Red"
+  ],
+  "mismatches": [
+   {
+    "topic": "Toerental",
+    "websiteSays": "De tekst zegt \"van 12000 tot wel 15000 toeren per minuut\"; de specificaties zeggen Toerental 10.000 tpm, 15.000 tpm.",
+    "note": "Controleer het toerental op de doos of in de handleiding."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Icon\\ staafmixer\\ Starter\\ Kit\\ Red"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Berkel Icon staafmixer met een vermogen van 270 watt; de behuizing is van ABS-kunststof in de rode Berkel-kleur.",
+   "Starter set: staafmixer met basis, hakbakje, 4 verschillende opzetmesjes en een mengbeker.",
+   "Voor het malen, kloppen en mengen van soepen, sauzen, tapenades en het hakken van kaas.",
+   "Bediening met twee knoppen voor verschillende snelheden.",
+   "Reinigen: houd de roestvrijstalen mixstaaf onder warm water.",
+   "Hakmolen voor het malen van bijvoorbeeld noten, broodkruim, specerijen of koffie."
+  ],
+  "keys": [
+   "e3a75ab2"
+  ],
+  "requires": [
+   "hakbakje"
+  ],
+  "colours": [
+   "Red"
+  ],
+  "mismatches": [
+   {
+    "topic": "Toerental",
+    "websiteSays": "De tekst zegt \"van 12000 tot wel 15000 toeren per minuut\"; de specificaties zeggen Toerental 10.000 tpm, 15.000 tpm.",
+    "note": "Controleer het toerental op de doos of in de handleiding."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Red\\ Line\\ 250\\ snijmachine\\ ø\\ 25\\ cm\\ rood",
+   "Berkel\\ Red\\ Line\\ 250\\ snijmachine\\ ø\\ 25\\ cm\\ mat\\ rood",
+   "Berkel\\ Red\\ Line\\ 250\\ snijmachine\\ ø\\ 25\\ cm\\ mat\\ zwart",
+   "Berkel\\ Red\\ Line\\ 250\\ snijmachine\\ ø\\ 25\\ cm\\ Grey\\ Teflon",
+   "Berkel\\ Red\\ Line\\ 250\\ snijmachine\\ ø\\ 25\\ cm\\ wit",
+   "Berkel\\ Red\\ Line\\ 250\\ snijmachine\\ ø\\ 25\\ cm\\ zwart"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en ook groenten of fruit in gelijkmatige dunne plakken.",
+  "bullets": [
+   "Berkel Red Line 250 snijmachine met een gehard stalen mes van 25 cm, aangedreven door een 150 Watt sterke motor.",
+   "Behuizing van gietaluminium, gepoedercoat; de grijze delen zijn geanodiseerd.",
+   "Voor vleeswaren met een diameter van 18 cm of maximaal 18,7 x 17 cm groot; snijdikte 0 - 14 mm.",
+   "Het mes staat onder een hoek van 25°, zodat het snijgoed makkelijk naar het mes toe glijdt; de afdekplaat voorkomt dat het voedsel onnodig tegen het draaiende mes ligt.",
+   "Geïntegreerde slijpopzet: u slijpt het mes zelf opnieuw; een messenslijper wordt meegeleverd.",
+   "Zware aluminium voet voor een stevige stand.",
+   "Reinigen met een vochtige doek, eventueel met een spons en desinfectiemiddel."
+  ],
+  "keys": [
+   "d1f9fc03",
+   "d6be8c8e",
+   "eada56df",
+   "a7bf141b"
+  ],
+  "requires": [
+   "messenslijper"
+  ],
+  "colours": [
+   "mat rood",
+   "mat zwart",
+   "Grey Teflon",
+   "rood",
+   "wit",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen",
+    "websiteSays": "De tekst zegt \"43 cm lang, 49 cm breed en 39,5 cm hoog\"; de specificaties zeggen Lengte 52 cm, Breedte 49 cm, Hoogte 40,5 cm.",
+    "note": "Controleer de afmetingen op de doos of in de handleiding."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ Red\\ Line\\ 300\\ snijmachine\\ ø\\ 30\\ cm\\ rood",
+   "Berkel\\ Red\\ Line\\ 300\\ snijmachine\\ ø\\ 30\\ cm\\ Grey\\ Teflon",
+   "Berkel\\ Red\\ Line\\ 300\\ snijmachine\\ ø\\ 30\\ cm\\ wit",
+   "Berkel\\ Red\\ Line\\ 300\\ snijmachine\\ ø\\ 30\\ cm\\ zwart"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van fijne vleeswaren, kaas en ook groenten of fruit in gelijkmatige dunne plakken.",
+  "bullets": [
+   "Berkel Red Line 300 snijmachine met een gehard stalen mes van 30 cm, aangedreven door een 230 Watt sterke motor.",
+   "Behuizing van gietaluminium, gepoedercoat; de grijze delen zijn geanodiseerd.",
+   "Voor vleeswaren met een diameter van 23 cm of maximaal 24,5 x 22,5 cm groot; snijdikte 0 - 14 mm.",
+   "Het mes staat onder een hoek van 25°, zodat het snijgoed makkelijk naar het mes toe glijdt; de afdekplaat voorkomt dat het voedsel onnodig tegen het draaiende mes ligt.",
+   "Geïntegreerde slijpopzet: u slijpt het mes zelf opnieuw; een messenslijper wordt meegeleverd.",
+   "Zware aluminium voet voor een stevige stand.",
+   "Reinigen met een vochtige doek, eventueel met een spons en desinfectiemiddel."
+  ],
+  "keys": [
+   "ce7bfdfb",
+   "e65c9514",
+   "00e02663",
+   "cd3d1e7b"
+  ],
+  "requires": [
+   "230 Watt"
+  ],
+  "colours": [
+   "rood",
+   "Grey Teflon",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Berkel\\ vacumeermachine\\ rood"
+  ],
+  "brandID": "berkel",
+  "typeIDs": [
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Berkel vacuümmachine van roestvrij staal en rood kunststof, voor vacuümzakken met een breedte van 30 cm.",
+   "Voor vacumeren in een zak, bijvoorbeeld voor sous-vide garen of om ingrediënten langer vers te bewaren.",
+   "2 snelheden (stevige en zachte producten) en 3 standen (droog tot zeer vochtig).",
+   "Brede sealbalk van 30 cm, dubbele zuigpomp, kijkvenster en LED-indicator voor de voortgang.",
+   "Ook voor sealen, vacumeren van voorraadpotten (slang meegeleverd) en marineren.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "43b6d299"
+  ],
+  "requires": [
+   "sealbalk van 30 cm"
+  ],
+  "colours": [
+   "rood"
+  ]
+ }
+]

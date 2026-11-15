@@ -1,0 +1,748 @@
+[
+ {
+  "match": [
+   "Le\\ Creuset\\ lage\\ braadpan\\ hartvormig\\ ø\\ 20\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ lage\\ braadpan\\ hartvormig\\ ø\\ 20\\ cm\\ gietijzer\\ Shell\\ Pink",
+   "Le\\ Creuset\\ lage\\ braadpan\\ hartvormig\\ ø\\ 20\\ cm\\ gietijzer\\ White"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Het lage, elegante formaat maakt de pan zeer geschikt om gerechten in op te dienen.",
+  "bullets": [
+   "Lage braadpan in de vorm van een hart, van geëmailleerd gietijzer.",
+   "Laag, elegant formaat: zeer geschikt om gerechten in op te dienen. Het deksel heeft een hartvormige rvs knop.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Te gebruiken als braadpan, hapjespan of ovenschaal, met of zonder deksel (tekst van de website over de multifunctionele braadpan).",
+   "Gelijkmatige warmteverdeling door de hele pan, zelfs op een kleine hittebron; het email neemt geen smaak of geur van bijvoorbeeld vlees of jus op.",
+   "De knop van het deksel is hittebestendig tot 260°C.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9d7c0008",
+   "347f0a89",
+   "efd092b5"
+  ],
+  "requires": [
+   "hart",
+   "levenslange garantie"
+  ],
+  "colours": [
+   "kersrood",
+   "Shell Pink",
+   "White"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maten lage hartvormige braadpan",
+    "websiteSays": "Specificaties kersrood en Shell Pink: Lengte 25,4 cm, Breedte 19 cm, Hoogte 13,6 cm, Inhoud 1,9 liter. Specificaties White: Breedte 25,4 cm, Hoogte 9,4 cm, Inhoud 1 liter. Productnaam bij alle drie: ø 20 cm.",
+    "note": "De maten van de witte uitvoering wijken af; controleer welke maten kloppen."
+   },
+   {
+    "topic": "Tekst over een andere pan",
+    "websiteSays": "De uitleg beschrijft \"de Le Creuset multifunctionele pan of campagnard\" en noemt een gietijzeren braadpan met korte handgrepen.",
+    "note": "Deze tekst hoort bij de Campagnard braadpan; controleer of hij ook voor de hartvormige pan geldt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ Chef's\\ pan\\ met\\ schenktuiten\\ ø\\ 24\\ cm"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor koken, sudderen, bakken, sauteren of stomen.",
+  "bullets": [
+   "Les Forgées TNS Chef's pan van geanodiseerd aluminium met schenktuiten voor eenvoudig afgieten.",
+   "Het meegeleverde roestvrijstalen deksel bedekt de schenktuiten om vocht binnen te houden; zonder deksel verdampt het vocht.",
+   "Multifunctionele pan voor koken, sudderen, bakken, sauteren of stomen.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9ba09e82"
+  ],
+  "requires": [
+   "schenktuiten"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ pannenset\\ 2\\-delig"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor koken, sudderen, bakken, sauteren of stomen.",
+  "bullets": [
+   "Les Forgées pannenset van 2 pannen: een koekenpan en een sauteerpan (aluminium); de pannen zijn versterkt voor een langere levensduur.",
+   "Multifunctionele pannenset voor koken, sudderen, bakken, sauteren of stomen.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "86f18263"
+  ],
+  "requires": [
+   "pannenset"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ Provençaalse\\ sauteerpan\\ met\\ rechte\\ wand\\ ø\\ 24\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ Provençaalse\\ sauteerpan\\ met\\ rechte\\ wand\\ ø\\ 28\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ Provençaalse\\ sauteerpan\\ met\\ rechte\\ wand\\ ø\\ 30\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ Provençaalse\\ sauteerpan\\ ø\\ 24\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ TNS\\ Provençaalse\\ sauteerpan\\ ø\\ 26\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ Provençaalse\\ sauteerpan\\ ø\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS Provençaalse sauteerpan van geanodiseerd aluminium, met twee handgrepen.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c4547167",
+   "cf5f19c4",
+   "806ff9dd"
+  ],
+  "requires": [
+   "Provençaalse sauteerpan"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud in tekst wijkt af",
+    "websiteSays": "Specificaties: 2,3 liter; de beschrijving zegt: \"inhoud van 2,8 liter\".",
+    "note": "Controleer de inhoud.",
+    "only": "Le Creuset Les Forgées Provençaalse sauteerpan ø 24 cm aluminium"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ Provençaalse\\ sauteerpan\\ ø\\ 30\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS Provençaalse sauteerpan met glazen deksel, van geanodiseerd aluminium, met twee handgrepen.",
+   "Het glasdeksel maakt de pan ideaal om mee te stoven: het kookproces is te volgen.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "46b0c948"
+  ],
+  "requires": [
+   "glasdeksel"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ sauteerpan\\ met\\ rechte\\ wand\\ en\\ tegengreep\\ ø\\ 26\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ sauteerpan\\ met\\ rechte\\ wand\\ en\\ tegengreep\\ ø\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS sauteerpan met rechte zijwanden, van geanodiseerd aluminium.",
+   "Tegenover de steel zit een tegengreep: de gevulde pan is gemakkelijk te tillen.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0af8ab43"
+  ],
+  "requires": [
+   "tegengreep"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ sauteerpan\\ met\\ rechte\\ wand\\ ø\\ 24\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS sauteerpan met rechte zijwanden, van geanodiseerd aluminium.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "50101e13"
+  ],
+  "requires": [
+   "rechte zijwanden"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ diepe\\ koekenpan\\ met\\ tegengreep\\ ø\\ 26\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ diepe\\ koekenpan\\ met\\ tegengreep\\ ø\\ 28\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ diepe\\ koekenpan\\ met\\ tegengreep\\ ø\\ 30\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS diepe koekenpan (of sauteerpan) van geanodiseerd aluminium.",
+   "Tegenover de steel zit een tegengreep: de pan is gemakkelijk te hanteren als er eten in zit.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "62285900",
+   "6d348981",
+   "0a9c9a19"
+  ],
+  "requires": [
+   "tegengreep"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ diepe\\ koekenpan\\ ø\\ 24\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS diepe koekenpan (of sauteerpan) van geanodiseerd aluminium.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "355bb6a9"
+  ],
+  "requires": [
+   "diepe koekenpan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ TNS\\ crêpepan\\ ø\\ 24\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ crêpepan\\ ø\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor crêpes, flensjes en pannenkoeken.",
+  "bullets": [
+   "Les Forgées TNS crêpepan van geanodiseerd aluminium.",
+   "Door de lage rand kom je gemakkelijk met een keerspatel onder de pannenkoek.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "79e0b7a0",
+   "38d73e86"
+  ],
+  "requires": [
+   "crêpepan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ grillpan\\ vierkant\\ 28\\ x\\ 28\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het grillen van vlees, vis en groenten.",
+  "bullets": [
+   "Les Forgées TNS grillpan van gietaluminium, met een handgreep van roestvrij staal.",
+   "Voor het grillen van vlees, vis en groenten.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "543355fa"
+  ],
+  "requires": [
+   "grillpan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ koekenpan\\ ø\\ 20\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ koekenpan\\ ø\\ 22\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ koekenpan\\ ø\\ 24\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ koekenpan\\ ø\\ 26\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ TNS\\ koekenpan\\ ø\\ 28\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ koekenpan\\ ø\\ 30\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken en braden van etenswaren.",
+  "bullets": [
+   "Les Forgées TNS koekenpan van geanodiseerd aluminium, voor het bakken en braden.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e0593745"
+  ],
+  "requires": [
+   "koekenpan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ kookpan\\ 2,8\\ liter\\ ø\\ 18\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS kookpan van geanodiseerd aluminium, met glasdeksel.",
+   "Volgens de website geschikt voor relatief kleine bereidingen.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "80284497"
+  ],
+  "requires": [
+   "kookpan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ TNS\\ kookpan\\ 3,8\\ liter\\ ø\\ 20\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS kookpan van geanodiseerd aluminium, met glasdeksel.",
+   "Volgens de website geschikt voor diverse bereidingen.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "aceda2ae"
+  ],
+  "requires": [
+   "kookpan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ kookpan\\ 6\\ liter\\ ø\\ 24\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS kookpan van geanodiseerd aluminium, met glasdeksel.",
+   "Volgens de website geschikt voor grote bereidingen.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "07d2ca74"
+  ],
+  "requires": [
+   "kookpan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ paellapan\\ ø\\ 32\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken of braden van verschillende soorten gerechten.",
+  "bullets": [
+   "Les Forgées TNS paellapan van gegoten aluminium, met twee oren (grepen).",
+   "Voor het bakken of braden van verschillende soorten gerechten.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Door de metalen grepen is de pan ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "123c44f6"
+  ],
+  "requires": [
+   "paellapan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ TNS\\ planchagrill\\ /\\ braadslede\\ 35\\ x\\ 27\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het grillen van vlees, vis en groenten.",
+  "bullets": [
+   "Les Forgées TNS planchagrill / braadslede van gietaluminium, met handgrepen van roestvrij staal.",
+   "Voor het grillen van vlees, vis en groenten.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "68310b6c"
+  ],
+  "requires": [
+   "braadslede"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ steelpan\\ 1,6\\ liter\\ ø\\ 16\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS steelpan van geanodiseerd aluminium, met een roestvrijstalen steel.",
+   "Aan beide zijden voorzien van een schenktuit.",
+   "Volgens de website geschikt voor relatief kleine bereidingen.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "850f03ef"
+  ],
+  "requires": [
+   "schenktuit"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ steelpan\\ 2,1\\ liter\\ ø\\ 18\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS steelpan van geanodiseerd aluminium, met een roestvrijstalen steel.",
+   "Volgens de website geschikt voor diverse bereidingen.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d48f33e1"
+  ],
+  "requires": [
+   "steelpan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ steelpan\\ met\\ glasdeksel\\ 1,9\\ liter\\ ø\\ 16\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ steelpan\\ met\\ glasdeksel\\ 2,8\\ liter\\ ø\\ 18\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ steelpan\\ met\\ glasdeksel\\ 3,8\\ liter\\ ø\\ 20\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS steelpan van geanodiseerd aluminium, met glasdeksel.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "12c42895",
+   "642e46a9"
+  ],
+  "requires": [
+   "glasdeksel"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ steelpannenset\\ aluminium\\ 3\\-delig"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Les Forgées TNS steelpannenset van geanodiseerd aluminium: 3 steelpannen (16, 18 en 20 cm), elk met glasdeksel.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0a5c7741"
+  ],
+  "requires": [
+   "steelpannenset"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ vispan\\ ø\\ 39\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van vis.",
+  "bullets": [
+   "Les Forgées TNS vispan van gietaluminium, met handgrepen van roestvrij staal.",
+   "Voor het bakken van vis of andere langwerpige producten.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Metalen handgreep: de pan is ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5cf23c2b"
+  ],
+  "requires": [
+   "vispan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ wok\\ met\\ oren\\ ø\\ 32\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het roerbakken en wokken van etenswaren.",
+  "bullets": [
+   "Les Forgées TNS wok met oren van gegoten aluminium: twee oren (grepen).",
+   "Voor het roerbakken en wokken.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "Door de metalen grepen is de pan ook geschikt voor de oven.",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "80306c13"
+  ],
+  "requires": [
+   "wok met oren"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Les\\ Forgées\\ wokpan\\ met\\ steel\\ en\\ tegengreep\\ ø\\ 26\\ cm\\ aluminium",
+   "Le\\ Creuset\\ Les\\ Forgées\\ wokpan\\ met\\ steel\\ en\\ tegengreep\\ ø\\ 30\\ cm\\ aluminium"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het roerbakken en wokken van etenswaren.",
+  "bullets": [
+   "Les Forgées TNS wok met steel en tegengreep van gegoten aluminium.",
+   "Voor het roerbakken en wokken.",
+   "Hoogwaardige PFOA-vrije anti-aanbaklaag, volgens de website de beste anti-aanbaklaag die Le Creuset ooit maakte.",
+   "Roestvrijstalen plaat in de bodem: geschikt voor alle warmtebronnen, waaronder inductie.",
+   "De pan is geschikt voor alle warmtebronnen en kan ook in de oven worden gebruikt (tekst van de website).",
+   "De pannen uit de serie zijn geschikt voor alle kookplaten en conventionele ovens: veilig tot 260°C, of tot 220°C bij gebruik met een hittebestendig glazen deksel van Le Creuset.",
+   "Levenslange garantie op fabrieks- en constructiefouten (Les Forgées serie). Oververhitting van de pan kan de anti-aanbaklaag beschadigen; die schade valt niet onder de garantie.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b5f78f26"
+  ],
+  "requires": [
+   "wok met steel"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Magnetik\\ braadslede\\ 26\\ cm\\ rvs"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het garen van gerechten op het fornuis en in de oven.",
+  "bullets": [
+   "Magnetik braadslede van roestvrij staal met een aluminium tussenlaag, met twee grote grepen.",
+   "Inductiegeschikt; voor het garen van gerechten op het fornuis en in de oven.",
+   "De aluminium tussenlaag zorgt voor een optimale warmtegeleiding, tot in de zijwanden.",
+   "Vaatwasmachinebestendig.",
+   "Le Creuset biedt een levenslange garantie op alle Magnetik pannen."
+  ],
+  "keys": [
+   "fa5e635f"
+  ],
+  "requires": [
+   "Magnetik"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Magnetik\\ Chef's\\ Pan\\ met\\ anti\\-aanbaklaag\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het sauteren van groenten, het dichtschroeien van vlees of vis en het sudderen van stoofschotels.",
+  "bullets": [
+   "Magnetik Chef's Pan met anti-aanbaklaag, met een steel.",
+   "Sandwichconstructie: hoogwaardig rvs en aluminium zijn verbonden tot een drielaags materiaal dat de warmte gelijkmatig over de hele pan verspreidt, tot aan de rand.",
+   "Maataanduiding aan de binnenzijde: vloeistoffen zijn eenvoudig af te meten.",
+   "Voor het sauteren van groenten, het dichtschroeien van vlees of vis en het sudderen van stoofschotels; met het deksel op de pan houdt het gerecht vocht vast.",
+   "Vaatwasmachinebestendig (specificaties); de tekst raadt reinigen met warm water en afwasmiddel aan."
+  ],
+  "keys": [
+   "72f4f058"
+  ],
+  "requires": [
+   "Magnetik"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal Magnetik Chef's Pan",
+    "websiteSays": "Specificaties: Materiaal aluminium. Tekst: \"is van roestvrij staal en heeft een sandwichconstructie met aluminium\". Productnaam: rvs.",
+    "note": "Controleer het materiaal."
+   },
+   {
+    "topic": "Reiniging",
+    "websiteSays": "Specificaties: vaatwasmachinebestendig. Tekst: \"Reinig de Le Creuset Magnetik sauteerpan bij voorkeur met warm water en afwasmiddel.\"",
+    "note": "De tekst noemt een sauteerpan en geeft de voorkeur aan handreiniging."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Magnetik\\ koekenpan\\ met\\ anti\\-aanbaklaag\\ ø\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bereiden van bijvoorbeeld gevogelte, vis of vlees.",
+  "bullets": [
+   "Magnetik koekenpan met een sterke anti-aanbaklaag aan de binnenkant.",
+   "Roestvrij staal met een aluminium tussenlaag (sandwichconstructie): geleidt de warmte gelijkmatig tot aan de rand van de pan.",
+   "De steel is aan de pan geklonken, zodat deze stevig vast blijft zitten.",
+   "Voor het bereiden van bijvoorbeeld gevogelte, vis of vlees.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a126b8b8"
+  ],
+  "requires": [
+   "Magnetik"
+  ]
+ }
+]

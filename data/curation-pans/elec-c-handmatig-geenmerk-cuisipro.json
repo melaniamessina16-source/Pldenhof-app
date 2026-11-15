@@ -1,0 +1,25 @@
+[
+ {
+  "match": [
+   "Cuisipro\\ Donvier\\ handmatige\\ ijsmachine\\ aluminum\\ wit"
+  ],
+  "brandID": "cuisipro",
+  "typeIDs": [
+   "ijsmachines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cuisipro Donvier handmatige ijsmachine: vereist geen elektriciteit, zout of ijs; diepvrieskom en roerpeddel doen het werk.",
+   "Chillfast-cilinder een nacht in de vriezer zetten, ingrediënten toevoegen en af en toe aan de hendel draaien: ijs binnen 20 minuten.",
+   "Voor 1 liter ijs, sorbet, bevroren yoghurt en bevroren drankjes.",
+   "Schoonmaken met warm water en een sopje; de cilinder nooit in de vaatwasser."
+  ],
+  "keys": [
+   "ac8448e1"
+  ],
+  "brandName": "Cuisipro",
+  "requires": [
+   "Chillfast"
+  ]
+ }
+]

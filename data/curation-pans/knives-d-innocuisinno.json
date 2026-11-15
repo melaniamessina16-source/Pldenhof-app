@@ -1,0 +1,52 @@
+[
+ {
+  "match": [
+   "Inno\\ Cuisinno\\ snijplank\\ 26\\ x\\ 32\\ cm\\ kunststof\\ bruin",
+   "Inno\\ Cuisinno\\ snijplank\\ 26\\ x\\ 32\\ cm\\ kunststof\\ rood",
+   "Inno\\ Cuisinno\\ snijplank\\ 53\\ x\\ 32\\ cm\\ kunststof\\ blauw",
+   "Inno\\ Cuisinno\\ snijplank\\ 53\\ x\\ 32\\ cm\\ kunststof\\ bruin",
+   "Inno\\ Cuisinno\\ snijplank\\ 53\\ x\\ 32\\ cm\\ kunststof\\ geel",
+   "Inno\\ Cuisinno\\ snijplank\\ 53\\ x\\ 32\\ cm\\ kunststof\\ groen",
+   "Inno\\ Cuisinno\\ snijplank\\ 53\\ x\\ 32\\ cm\\ kunststof\\ rood",
+   "Inno\\ Cuisinno\\ snijplank\\ 53\\ x\\ 32\\ cm\\ kunststof\\ wit"
+  ],
+  "brandID": "innocuisinno",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Voor professioneel gebruik; de kleur van de plank geeft aan voor welk product de plank gebruikt moet worden (kleur: zie productnaam).",
+  "bullets": [
+   "Snijplank van hoogmoleculair polyethyleen (kunststof): slijtvast en bestand tegen hoge temperaturen (maximumtemperatuur 80°C volgens de specificaties).",
+   "Geschikt voor professioneel gebruik en geleverd in de standaard HACCP-kleuren om kruisbesmetting te voorkomen.",
+   "Kleurcode: rood rauw vlees, geel gevogelte, blauw vis, bruin gegaard vlees, groen groenten en fruit, wit brood, zuivel en overige.",
+   "Een sapgeul vangt tijdens het snijden sap op, zodat het snijoppervlak schoon blijft.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "ba2e5e10",
+   "c0f9efc3",
+   "6fca961a",
+   "02690ff8",
+   "80d65b7c",
+   "021a16aa",
+   "c4cf17eb",
+   "092b466f"
+  ],
+  "brandName": "Inno Cuisinno",
+  "colours": [
+   "bruin",
+   "rood",
+   "blauw",
+   "geel",
+   "groen",
+   "wit"
+  ],
+  "mismatches": [
+   {
+    "topic": "Bruine plank: gegaard of gebraden vlees",
+    "websiteSays": "Bruin 26 x 32: \"gegaard vlees en worst\"; bruin 53 x 32: \"gebraden vlees\"; kleurcode in de tekst: \"Bruin - gegaard vlees\"",
+    "note": "Controleer waarvoor de bruine plank bedoeld is."
+   }
+  ]
+ }
+]

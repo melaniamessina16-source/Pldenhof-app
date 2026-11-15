@@ -1,0 +1,65 @@
+[
+ {
+  "match": [
+   "Boska\\ Monaco\\+\\ steakmessenset\\ rvs\\ 2\\ stuks",
+   "Boska\\ Monaco\\+\\ steakmessenset\\ rvs\\ 4\\ stuks"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om vlees, groenten en vis mee te snijden tijdens het dineren.",
+  "bullets": [
+   "Monaco+ steakmessenset: steakmessen die volledig van roestvrij staal zijn gemaakt.",
+   "Reinigen met warm water en mild afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "7cbe71fd"
+  ],
+  "brandName": "Boska",
+  "mismatches": [
+   {
+    "topic": "Aantal messen in de set",
+    "websiteSays": "De tekst zegt \"De set bestaat uit vier steakmessen\"; de naam noemt ook een set van 2 stuks",
+    "note": "Controleer bij de 2-stuks set het aantal messen.",
+    "only": "Boska Monaco+ steakmessenset rvs 2 stuks"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Oslo\\+\\ steakmessenset\\ rvs\\ 2\\ stuks"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om vlees, vis en groenten mee te snijden; ideaal om vlees te snijden tijdens het dineren.",
+  "bullets": [
+   "Set van twee steakmessen.",
+   "Oslo+ steakmessen van roestvrij staal met een handvat van Europees eikenhout.",
+   "Ook geschikt om vis en groenten mee te snijden; handafwas met water en mild afwasmiddel."
+  ],
+  "keys": [
+   "c8ecd7d7"
+  ]
+ },
+ {
+  "match": [
+   "Boska\\ Oslo\\+\\ steakmessenset\\ rvs\\ 4\\ stuks"
+  ],
+  "brandID": "boska",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om vlees, vis en groenten mee te snijden; ideaal om vlees te snijden tijdens het dineren.",
+  "bullets": [
+   "Set van vier steakmessen.",
+   "Oslo+ steakmessen van roestvrij staal met een handvat van Europees eikenhout.",
+   "Ook geschikt om vis en groenten mee te snijden; handafwas met water en mild afwasmiddel."
+  ],
+  "keys": [
+   "6626bce2"
+  ]
+ }
+]

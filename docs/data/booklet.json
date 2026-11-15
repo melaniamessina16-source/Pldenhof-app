@@ -1063,7 +1063,8 @@
       }
      ]
     }
-   ]
+   ],
+   "categoryID": "messen"
   },
   {
    "id": "pannen",
@@ -5165,7 +5166,8 @@
       }
      ]
     }
-   ]
+   ],
+   "categoryID": "klein-elektrisch"
   },
   {
    "id": "fornuis",
@@ -6256,7 +6258,8 @@
       }
      ]
     }
-   ]
+   ],
+   "categoryID": "bbq"
   },
   {
    "id": "koffie-espresso",
@@ -7205,7 +7208,8 @@
       }
      ]
     }
-   ]
+   ],
+   "categoryID": null
   }
  ]
 }

@@ -1,0 +1,27 @@
+[
+ {
+  "match": [
+   "Cuisipro\\ geknikt\\ paletmes\\ 22\\ cm\\ rood"
+  ],
+  "brandID": "cuisipro",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het glaceren en decoreren van taarten, cupcakes of andere baksels.",
+  "bullets": [
+   "Cuisipro geknikt paletmes, 22 cm, van roestvrij staal met een rood kunststof handvat.",
+   "Voor het glaceren en decoreren van taarten, cupcakes of andere baksels; door de knik makkelijk te hanteren.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "2640e315"
+  ],
+  "brandName": "Cuisipro",
+  "requires": [
+   "geknikte vorm"
+  ],
+  "colours": [
+   "rood"
+  ]
+ }
+]

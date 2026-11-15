@@ -1,0 +1,26 @@
+[
+ {
+  "match": [
+   "Zassenhaus\\ Pure\\ broodsnijmachine\\ créme"
+  ],
+  "brandID": "zassenhaus",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zassenhaus Pure: handmatige broodsnijmachine in de kleur crème; wordt met een handzwengel bediend en heeft geen elektriciteit nodig.",
+   "Rond mes van staal uit Solingen; snijdikte instelbaar met de draaiknop van 1 tot 20 millimeter.",
+   "Stevige behuizing en een snijgeleider voor het instellen van de gewenste dikte.",
+   "De snijsnelheid bepaalt u zelf door de handmatige bediening.",
+   "Reinig het mes en de bereikbare onderdelen met een licht vochtige doek; droog zorgvuldig af en dompel niet onder in water."
+  ],
+  "keys": [
+   "f854cb3b"
+  ],
+  "brandName": "Zassenhaus",
+  "requires": [
+   "handzwengel"
+  ]
+ }
+]

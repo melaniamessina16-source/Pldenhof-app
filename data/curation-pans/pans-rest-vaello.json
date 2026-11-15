@@ -1,0 +1,23 @@
+[
+ {
+  "match": [
+   "Vaello\\ Esmaltada\\ paellapan\\ ø\\ 24\\ cm\\ plaatstaal\\ zwart",
+   "Vaello\\ Esmaltada\\ paellapan\\ ø\\ 30\\ cm\\ plaatstaal\\ zwart",
+   "Vaello\\ Esmaltada\\ paellapan\\ ø\\ 38\\ cm\\ plaatstaal\\ zwart"
+  ],
+  "brandID": "vaello",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het maken en serveren van paella, of voor het roerbakken van vlees of groenten.",
+  "bullets": [
+   "Esmaltada paellapan van geëmailleerd plaatstaal met handgrepen.",
+   "Door het email geur- en smaakneutraal; ook voor pannenkoeken, kip en groenten.",
+   "Geschikt voor alle warmtebronnen, behalve inductie.",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "dbad7da0"
+  ]
+ }
+]

@@ -1,0 +1,216 @@
+[
+ {
+  "match": [
+   "Gefu\\ Colt\\ messenslijper\\ kunststof\\ zwart"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het herslijpen of onderhouden van messen.",
+  "bullets": [
+   "Colt messenslijper van kunststof met drie slijpgedeeltes: grof diamanten, middelgrof stalen en fijn keramisch.",
+   "Het slijpgedeelte bestaat uit 3 sleuven waar u de messen rechtstandig doorheen trekt.",
+   "Bestemd voor Westerse stijl keukenmessen; geen instelbare slijphoek. Met anti-slip voet.",
+   "Reinigen met een doek; de slijper niet nat maken."
+  ],
+  "keys": [
+   "6e2ad854"
+  ],
+  "brandName": "Gefu",
+  "mismatches": [
+   {
+    "topic": "Tekst noemt een ander merk",
+    "websiteSays": "Reinigingstekst: \"Reinig de Wüsthof messenslijper met een doek en maak de slijper niet nat.\"",
+    "note": "Tekst hoort waarschijnlijk bij een Wüsthof-slijper; controleer de reinigingsinstructie."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Gefu\\ Laola\\ mandoline\\ kunststof\\ zwart"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": "Voor het gemakkelijk en precies snijden van grote hoeveelheden groente of fruit.",
+  "bullets": [
+   "Laola mandoline van roestvrij staal en zwart kunststof.",
+   "Wordt geleverd met inzetjes voor julienne en een snijder voor geribbelde plakjes.",
+   "Uit te vouwen anti-slip basis en een bolvormige greep voor het veilig snijden van de laatste eindjes.",
+   "Reinigen met warm water en afwasmiddel; de messen goed droog maken."
+  ],
+  "keys": [
+   "c5ea9f08"
+  ]
+ },
+ {
+  "match": [
+   "Gefu\\ Lavos\\ vouwbare\\ snijplank\\ met\\ handvat\\ 46\\ x\\ 25\\ cm\\ zwart\\ "
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vouwbare snijplank van kunststof met handvat: u brengt gesneden groenten en fruit gemakkelijk in een bak of pan, en gooit restjes zonder morsen weg.",
+   "Mesvriendelijke ondergrond; antislipribbels aan de onderkant.",
+   "Vaatwasmachinebestendig; voor een langere levensduur wordt handafwas aangeraden."
+  ],
+  "keys": [
+   "1b2afa72"
+  ]
+ },
+ {
+  "match": [
+   "Gefu\\ Smartline\\ messenblok"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Om uw messen eenvoudig te organiseren en bij de hand te houden.",
+  "bullets": [
+   "Smartline messenblok van kunststof en roestvrij staal met ruimte voor 28 messen (volgens de beschrijving).",
+   "Gleuven in verschillende afmetingen, zodat veel verschillende messen passen; een speciale brede gleuf voor een schaar of aanzetstaal.",
+   "Kan eenvoudig uit elkaar worden gehaald en met een natte doek worden gereinigd."
+  ],
+  "keys": [
+   "6d766c3d"
+  ]
+ },
+ {
+  "match": [
+   "Gefu\\ Spirelli\\ 2\\.0\\ spiraalsnijder\\ met\\ 2\\ messen\\ kunststof\\ zwar"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": "Voor het snijden van stevige groenten en fruit zoals wortel, komkommer en courgette.",
+  "bullets": [
+   "Spirelli 2.0 spiraalsnijder van zwart kunststof met 2 messen van roestvrij staal: julienne in 2 maten.",
+   "Voorzien van een vastklikkende resthouder, zodat u tot het laatste stukje groente kunt snijden.",
+   "Volgens de website stroken van 2 x 3 mm en 3,5 x 5 mm.",
+   "Werkt als een puntenslijper: stop de ingrediënten in de snijder en druk ze aan met de bijgeleverde duwer.",
+   "Vaatwasmachinebestendig, maar handafwas verlengt de levensduur."
+  ],
+  "keys": [
+   "f8c35c1f"
+  ]
+ },
+ {
+  "match": [
+   "Gefu\\ Spirelli\\ spiraalsnijder\\ met\\ 2\\ messen\\ kunststof\\ zwart"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": "Voor het snijden van stevige groenten en fruit zoals wortel, komkommer en courgette.",
+  "bullets": [
+   "Spirelli spiraalsnijder van zwart kunststof met 2 messen van Japans staal: julienne in 2 maten.",
+   "Volgens de website stroken van 2 x 3 mm en 3,5 x 5 mm.",
+   "Werkt als een puntenslijper: stop de ingrediënten in de snijder en druk ze aan met de bijgeleverde duwer.",
+   "Vaatwasmachinebestendig, maar handafwas verlengt de levensduur."
+  ],
+  "keys": [
+   "a0476805"
+  ]
+ },
+ {
+  "match": [
+   "Gefu\\ Spirelli\\ XL\\ spiraalsnijder\\ met\\ 2\\ messen\\ kunststof\\ zwart"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": "Voor het snijden van stevige groenten en fruit zoals wortel, komkommer en courgette.",
+  "bullets": [
+   "Spirelli XL spiraalsnijder van zwart kunststof met 2 messen van Japans staal: smalle en brede linten.",
+   "Volgens de website stroken van 2 x 4,5 mm en 3 x 8 mm.",
+   "Werkt als een puntenslijper: stop de ingrediënten in de snijder en druk ze aan met de bijgeleverde duwer.",
+   "Vaatwasmachinebestendig, maar handafwas verlengt de levensduur."
+  ],
+  "keys": [
+   "620fb6b7"
+  ]
+ },
+ {
+  "match": [
+   "Gefu\\ Viavo\\ mezzaluna\\ wiegemes\\ rvs"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ideaal om diverse kruiden, knoflook en ui fijn te hakken.",
+  "bullets": [
+   "Viavo mezzaluna wiegemes van stevig roestvrij staal met een handige handgreep.",
+   "Het dubbele mes maakt het snijden en hakken sneller.",
+   "Reinigen in de vaatwasser."
+  ],
+  "keys": [
+   "df11fd77"
+  ]
+ },
+ {
+  "match": [
+   "Gefu\\ Violi\\ mandoline\\ 32\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": "Om snel, veilig en gemakkelijk plakken van groente en fruit te snijden.",
+  "bullets": [
+   "Violi mandoline van roestvrij staal en zwart kunststof; het V-vormig geplaatste mes is van messenstaal en vermindert de weerstand.",
+   "Verstelbaar mes met 5 verschillende snijdiktes (1-5 mm).",
+   "Alle onderdelen zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "4b834ba0"
+  ]
+ },
+ {
+  "match": [
+   "Gefu\\ Violino\\ mandoline\\ 43\\ cm\\ rvs\\ zwart\\ 6\\-delig"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": "Om snel en gemakkelijk plakjes, reepjes en blokjes van groenten en fruit in gelijkmatige dikte te snijden.",
+  "bullets": [
+   "Violino mandoline van roestvrij staal en zwart kunststof (6-delig volgens de naam); de V-vormig geplaatste messen zijn van messenstaal.",
+   "Snijdikte traploos instelbaar van 0 - 5 mm met een draaiknop met maataanduiding aan de onderzijde.",
+   "Reepjes, juliennes en blokjes met de extra mesinzetten (snijbreedte 2 mm en 3 mm voor blokjes, 4 mm en 5 mm voor reepjes en juliennes); opbergbox voor de inzetten en een voedselhouder meegeleverd.",
+   "Alle onderdelen zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "3f81f8a5"
+  ]
+ },
+ {
+  "match": [
+   "GEFU\\ Volari\\ mandoline\\ rvs"
+  ],
+  "brandID": "gefu",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, truffels, kaas of chocolade in gelijkmatige, dunne plakjes.",
+  "bullets": [
+   "Volari gourmet snijder: een compacte mandoline van roestvrij staal met een vlijmscherp roestvrijstalen mes.",
+   "Traploos instelbare snijdikte, van flinterdun tot iets grover.",
+   "Antislipvoet voor stabiliteit en een vingerbeschermer voor extra veiligheid.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "59924429"
+  ]
+ }
+]

@@ -1,0 +1,46 @@
+[
+ {
+  "match": [
+   "Il\\ Cucinino\\ Fleximat\\ flexibele\\ snijplank\\ 38\\ x\\ 29\\ cm\\ blauw",
+   "Il\\ Cucinino\\ Fleximat\\ flexibele\\ snijplank\\ 38\\ x\\ 29\\ cm\\ geel",
+   "Il\\ Cucinino\\ Fleximat\\ flexibele\\ snijplank\\ 38\\ x\\ 29\\ cm\\ groen",
+   "Il\\ Cucinino\\ Fleximat\\ flexibele\\ snijplank\\ 38\\ x\\ 29\\ cm\\ rood",
+   "Il\\ Cucinino\\ Fleximat\\ flexibele\\ snijplank\\ 38\\ x\\ 29\\ cm\\ wit"
+  ],
+  "brandID": "ilcucinino",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "De kleur geeft aan waarvoor de plank gebruikt moet worden: kleur voorkomt kruisbesmetting (kleur: zie productnaam).",
+  "bullets": [
+   "Fleximat flexibele snijplank van kunststof met een antislipzijde, zodat de plank tijdens gebruik op zijn plaats blijft.",
+   "Buigbaar: na het snijden tilt u de plank op en buigt u de hoeken naar elkaar toe, zodat ingrediënten via de trechtervorm in de pan glijden of snijafval in de afvalemmer.",
+   "Kleurcode: geel voor gevogelte, blauw voor vis, wit voor brood, groen voor groenten en fruit, rood voor rauw vlees.",
+   "Let op: trek de uiteinden niet helemaal naar elkaar toe, de plank kan breken.",
+   "Vaatwasmachinebestendig in het bovenste rek; voor optimale conditie reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e406e3f2",
+   "7f659201",
+   "e19a538e",
+   "8b28ddf2",
+   "ad6480aa"
+  ],
+  "brandName": "Il Cucinino",
+  "colours": [
+   "blauw",
+   "geel",
+   "groen",
+   "rood",
+   "wit"
+  ],
+  "mismatches": [
+   {
+    "topic": "Gele plank: tekst noemt rode plank",
+    "websiteSays": "Pagina geel: \"Gebruik de rode snijplank enkel voor het snijden van gevogelte\"",
+    "note": "Tekst op de gele pagina noemt de rode plank; controleer.",
+    "only": "Il Cucinino Fleximat flexibele snijplank 38 x 29 cm"
+   }
+  ]
+ }
+]

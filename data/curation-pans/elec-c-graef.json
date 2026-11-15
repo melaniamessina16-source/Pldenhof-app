@@ -1,0 +1,303 @@
+[
+ {
+  "match": [
+   "Graef\\ BA806\\ broodbakmachine"
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "broodbakmachines"
+  ],
+  "suitedFor": "Voor het bakken van deeg, broden en het bereiden van jam, compote, chutney of pap.",
+  "bullets": [
+   "Graef BA806 broodbakmachine, bakt broden van 500 tot 750 gram.",
+   "36 vooraf ingestelde programma's, waaronder 5 voor jam; ook handmatig in te stellen (rijstijden en bruiningsgraad).",
+   "Metalen behuizing en touchscreen; navulopening in het deksel voor noten, granen of rozijnen.",
+   "Uitgestelde start ('s avonds aanzetten, 's ochtends vers brood); houdt brood nog 1 uur warm; pauzeknop.",
+   "Geleverd inclusief broodbakpan en receptenboek.",
+   "Eerst helemaal laten afkoelen; broodbakblik en kneedhaken met warm water en afwasmiddel reinigen, de machine met een vochtige doek."
+  ],
+  "keys": [
+   "1b7718e7"
+  ],
+  "brandName": "Graef",
+  "requires": [
+   "36 programma"
+  ]
+ },
+ {
+  "match": [
+   "Graef\\ Family\\ Line\\ handmixer\\ 20,9\\ cm\\ crème"
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het kloppen van room en eiwit, het kneden van deeg en mengen van ingrediënten.",
+  "bullets": [
+   "Graef Family Line handmixer van crèmekleurig kunststof, 600 W, 7 snelheden/standen.",
+   "Wordt geleverd met 2 kloppers en 2 deeghaken.",
+   "Voor kloppen, roeren, mengen, kneden en mixen van bijvoorbeeld slagroom en eiwit, taartdeeg, beslag, dressings en sauzen.",
+   "Start telkens op stand 1 om spetteren te voorkomen.",
+   "Reinig de behuizing met een vochtige doek; de accessoires zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "704a9b8b"
+  ],
+  "requires": [
+   "deeghaken"
+  ]
+ },
+ {
+  "match": [
+   "Graef\\ GK502\\ waterkoker\\ met\\ zwanenhals\\ zwart"
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": "Voor het gecontroleerd schenken van heet water voor drip-coffee/filterkoffie.",
+  "bullets": [
+   "Graef GK502 waterkoker met zwanenhals, 900 ml, van zwartgekleurd roestvrij staal.",
+   "Temperatuur per graad instelbaar tussen 40 en 100 °C en vast te houden op die temperatuur.",
+   "Bijvoorbeeld rond 92 °C voor filterkoffie of 67 °C voor witte thee.",
+   "Tuit druppelt niet en schenkt nauwkeurig.",
+   "Buitenkant reinigen met een vochtige doek; ontkalken kan met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "2142cdf9"
+  ],
+  "requires": [
+   "zwanenhals"
+  ]
+ },
+ {
+  "match": [
+   "Graef\\ HB502\\ staafmixer\\ zwart"
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het blenden van soepen, smoothies, sauzen en nog veel meer.",
+  "bullets": [
+   "Graef HB502 staafmixer van zwart kunststof en roestvrij staal, 800 W, lengte 37,5 cm.",
+   "5 snelheden en een turbofunctie.",
+   "Geleverd met kunststof beker van 700 ml, hakmolen en ballongarde.",
+   "Hakmolen voor noten, pesto's en tapenade; ballonklopper voor eiwitten of slagroom.",
+   "Mes is los te draaien van de motor; mes en accessoires zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "67a941ed"
+  ],
+  "requires": [
+   "ballongarde"
+  ]
+ },
+ {
+  "match": [
+   "Graef\\ HB602\\ staafmixer\\ 40\\ cm\\ zwart"
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het blenden van soepen, smoothies, sauzen en nog veel meer.",
+  "bullets": [
+   "Graef HB602 staafmixer van zwart kunststof en roestvrij staal, 1200 W, lengte 40 cm.",
+   "Volgens de tekst 2 snelheden, aan te passen met een Clic Clic systeem; motor tot 15.000 rpm.",
+   "Hakmolentje voor noten, pesto's en tapenade.",
+   "Mixstaaf is los te draaien van de motor voor reiniging; reinigen met warm water en afwasmiddel, het motorhuis is niet waterbestendig."
+  ],
+  "keys": [
+   "3a37a99d"
+  ],
+  "requires": [
+   "Clic Clic"
+  ],
+  "mismatches": [
+   {
+    "topic": "Snelheden",
+    "websiteSays": "De tekst zegt \"2 snelheden\"; de specificaties tonen bij Snelheden alleen het getal 27020.",
+    "note": "Waarschijnlijk een opmaakfout (datum) in de specificaties; controleer het aantal snelheden."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Graef\\ HB82\\ draadloze\\ staafmixer\\ 200\\ W"
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het pureren van soepen, sauzen, het mixen van beslag of luchtig kloppen van slagroom.",
+  "bullets": [
+   "Graef HB82 draadloze staafmixer van roestvrij staal en kunststof, 200 W.",
+   "Geleverd met een kunststof mengbeker van 600 ml.",
+   "Op te laden in drie uur; batterijduur daarna maximaal 30 minuten gebruik.",
+   "\"Stepless Touch Control\" voor het regelen van de snelheid; maximaal toerental 13500 toeren per minuut.",
+   "Gewicht 890 gram inclusief batterij; mixgedeelte is af te koppelen voor reiniging.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3b4b15c6"
+  ],
+  "requires": [
+   "Stepless Touch Control"
+  ]
+ },
+ {
+  "match": [
+   "Graef\\ Master\\ M10\\ snijmachine\\ massief\\ metaal\\ grijs"
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van brood, kaas, groenten en vleeswaren in gelijkmatige plakken.",
+  "bullets": [
+   "Graef Master M10 snijmachine met roestvrijstalen glad, hol geslepen mes van 17 cm en een 170 Watt condensatormotor.",
+   "Snijdikte instelbaar van 0 tot 20 mm; ook flinterdun snijden van carpaccio en gedroogde ham.",
+   "Mes staat achter een afdekplaat: minder weerstand bij het snijden.",
+   "Afneembare slede met geïntegreerde startknop: de machine start zodra u de slede vastgrijpt; de knop is vast te zetten in de aan-stand.",
+   "Kunststof opvangschaal meegeleverd; kartelmessen voor brood apart leverbaar.",
+   "Reinigen met een vochtige doek; mes, afdekplaat en slede met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7781f512"
+  ],
+  "requires": [
+   "condensatormotor"
+  ],
+  "mismatches": [
+   {
+    "topic": "Modelnaam in de tekst",
+    "websiteSays": "In de tekst staat \"De Graef M182 is voorzien van afneembare slede met geïntegreerde startknop\"; de productnaam is Graef Master M10.",
+    "note": "Controleer of M182 hetzelfde model is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Graef\\ MT1000\\ Mytiny\\ snijmachine\\ grijs",
+   "Graef\\ MYtiny\\ MT1003\\ inklapbare\\ snijmachine\\ rood"
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Graef MYtiny universele, inklapbare snijmachine: makkelijk op te bergen of mee te nemen.",
+   "Gegolfd mes met een diameter van 17 cm, voor het snijden van brood, vleeswaren en andere etenswaren; mes is uitneembaar voor reiniging.",
+   "Behuizing van aluminium en kunststof; snijdikte traploos in te stellen tussen 0 en 15 mm met de draaiknop.",
+   "Voor dikke en dunne plakken ham, kaas en worst.",
+   "Reinigen met een vochtige doek; het mes met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0abcbe8c",
+   "8befadae"
+  ],
+  "requires": [
+   "inklapbaar"
+  ]
+ },
+ {
+  "match": [
+   "Graef\\ MYtiny\\ MT1006\\ inklapbare\\ snijmachine"
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Graef MT1006 universele, inklapbare snijmachine: makkelijk op te bergen of mee te nemen.",
+   "Gegolfd mes met een diameter van 17 cm, voor het snijden van brood, vleeswaren en andere etenswaren; mes is uitneembaar voor reiniging.",
+   "Behuizing van aluminium en kunststof; snijdikte traploos in te stellen tussen 0 en 15 mm met de draaiknop.",
+   "Voor dikke en dunne plakken ham, kaas en worst.",
+   "Reinigen met een vochtige doek; het mes met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5693e6d9"
+  ],
+  "requires": [
+   "MT1006"
+  ]
+ },
+ {
+  "match": [
+   "Graef\\ Sliced\\ Kitchen\\ G50\\ snijmachine\\ ø\\ 17\\ cm\\ "
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Graef Sliced Kitchen G50 universele snijmachine, 170 W.",
+   "Gegolfd mes van 17 cm; voornamelijk geschikt voor het snijden van brood.",
+   "Behuizing van aluminium en kunststof; snijdikte traploos in te stellen tussen 0 en 20 mm met de draaiknop.",
+   "Voor dikke en dunne plakken ham, kaas en worst; mes is uitneembaar voor reiniging.",
+   "Reinigen met een vochtige doek; het mes met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6bc79592"
+  ],
+  "requires": [
+   "Sliced Kitchen"
+  ]
+ },
+ {
+  "match": [
+   "Graef\\ TO62\\ broodrooster\\ 2\\ sleuven\\ rvs\\ zwart"
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Graef TO62 broodrooster met 2 sleuven, 888 W; roestvrij staal met hoogglans zwarte kunststof behuizing.",
+   "Voor het toasten van brood en bagels of het maken van tosti's.",
+   "6 bruiningsgraden, in te stellen met een draaiknop; opwarmfunctie en ontdooifunctie.",
+   "Goed geïsoleerde behuizing: de buitenkant blijft koel; uitneembare kruimellade; antislippootjes.",
+   "Reinigen met een vochtige doek; de kruimellade met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "aa648f89"
+  ],
+  "requires": [
+   "888 W"
+  ]
+ },
+ {
+  "match": [
+   "Graef\\ waterkoker\\ 1\\ liter\\ kunststof\\ rvs\\ wit",
+   "Graef\\ waterkoker\\ 1\\ liter\\ kunststof\\ rvs\\ zwart"
+  ],
+  "brandID": "graef",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": "Voor het eenvoudig en snel koken van water.",
+  "bullets": [
+   "Graef waterkoker van 1 liter, glanzend, kunststof met roestvrij staal.",
+   "Snoerloze ketel, 360 graden draaibaar op het basisstation; snoer op te bergen in de bodem.",
+   "Schakelaar met verlichting; schakelt vanzelf uit als het water kookt of de ketel van het station wordt gehaald.",
+   "Dubbelwandige ketel met een roestvrij stalen binnenzijde met maataanduiding; uitneembaar kalkfilter in de tuit.",
+   "Buitenzijde reinigen met een vochtige doek, de binnenzijde zo nodig met een anti-kalkmiddel."
+  ],
+  "keys": [
+   "de9581e9",
+   "22d9bd4a"
+  ],
+  "requires": [
+   "kalkfilter"
+  ],
+  "colours": [
+   "wit",
+   "zwart"
+  ]
+ }
+]

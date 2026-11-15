@@ -1,0 +1,976 @@
+[
+ {
+  "match": [
+   "KitchenAid\\ 3\\-in\\-1\\ pasta\\ accessoire\\ rvs"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "3-in-1 pasta accessoire van roestvrij staal voor de KitchenAid keukenmixer; geschikt voor alle KitchenAid keukenmixers.",
+   "Combineert een pastaroller met twee snijders voor spaghetti en fettuccine, zonder het accessoire te verwisselen.",
+   "Verstelbare roller voor verschillende diktes pastadeeg, bijvoorbeeld voor lasagne, ravioli en gevulde pasta.",
+   "Wordt op de accessoireaansluiting van de keukenmixer bevestigd en door de mixer aangedreven.",
+   "Geleverd met een reinigingsborstel; de bovenkap is afneembaar. Verwijder bloem en deegresten met de borstel en neem het accessoire zo nodig af met een droge doek."
+  ],
+  "keys": [
+   "6e951d10"
+  ],
+  "brandName": "KitchenAid"
+ },
+ {
+  "match": [
+   "KitchenAid\\ 5KEK1701\\ waterkoker\\ 1,7\\ liter\\ amandelwit",
+   "KitchenAid\\ 5KEK1701\\ waterkoker\\ 1,7\\ liter\\ keizerrood",
+   "KitchenAid\\ 5KEK1701\\ waterkoker\\ 1,7\\ liter\\ pistache",
+   "KitchenAid\\ 5KEK1701\\ waterkoker\\ 1,7\\ liter\\ roestvrij\\ staal",
+   "KitchenAid\\ 5KEK1701\\ waterkoker\\ 1,7\\ liter\\ vulkaanzwart"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": "Voor het verwarmen van water voor verschillende soorten thee, koffie, instant-soep of andere bereidingen.",
+  "bullets": [
+   "5KEK1701 instelbare waterkoker van roestvrij staal, 1,7 liter; vermogen 2400 W.",
+   "Instelbaar van 50 tot 100 graden Celsius met de regelaar aan de onderzijde.",
+   "Watervenster: u ziet hoeveel water er in de ketel zit. Ruim vuldeksel aan de bovenzijde.",
+   "Bij de gewenste temperatuur klinkt een geluidssignaal en knippert een controlelampje.",
+   "Antidrup schenktuit en kalkfilter.",
+   "Reinigen: afnemen met een vochtige doek; tegen ketelsteen kunt u een anti-ketelsteenspons gebruiken."
+  ],
+  "keys": [
+   "3269a3bc",
+   "94103665",
+   "feaabde9",
+   "bbd01c62",
+   "e5d1fbdd"
+  ],
+  "requires": [
+   "5KEK1701"
+  ],
+  "colours": [
+   "amandelwit",
+   "keizerrood",
+   "pistache",
+   "roestvrij staal",
+   "vulkaanzwart"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ 5KMT2109\\ broodrooster\\ amandelwit",
+   "KitchenAid\\ 5KMT2109\\ broodrooster\\ keizerrood",
+   "KitchenAid\\ 5KMT2109\\ broodrooster\\ roestvrij\\ staal",
+   "KitchenAid\\ 5KMT2109\\ broodrooster\\ vulkaanzwart"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "5KMT2109 broodrooster van roestvrij staal met extra brede sleuven: voor brood, maar ook bagels, pitabroodjes of Engelse muffins.",
+   "7 bruiningsgraden; functies voor ontdooien, bagel, opnieuw opwarmen en \"nog iets langer\".",
+   "Bagelfunctie: roostert de snijkant van de bagel, terwijl de buitenzijde geleidelijk wordt verwarmd.",
+   "Afmetingen volgens de tekst: hoogte 21,1 cm, lengte 30,7 cm, breedte 17,5 cm.",
+   "Neem de toaster af met een vochtige doek en was de kruimellade met de hand af."
+  ],
+  "keys": [
+   "cba1f78d",
+   "ed4b880a",
+   "03f9421b",
+   "c74ccb35"
+  ],
+  "requires": [
+   "5KMT2109"
+  ],
+  "colours": [
+   "amandelwit",
+   "keizerrood",
+   "roestvrij staal",
+   "vulkaanzwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Vermogen",
+    "websiteSays": "Specificatie Vermogen: \"823 W, 980 W\"; tekst: \"vermogen van 980 Watt\"",
+    "note": "Controleer het vermogen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ 5KSB2073\\ Pure\\ Power\\ Blender\\ 2\\ liter\\ houtskoolgrijs"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het pureren van fruit, het blenden van groenten en het fijnmalen van ijsklontjes.",
+  "bullets": [
+   "Pure Power Blender 5KSB2073: BPA-vrije Tritan-mengbeker van 2 liter; vermogen 1200 W (piekvermogen 1,5 pk).",
+   "10 snelheden en 3 vooraf ingestelde programma's: ijs crushen, smoothies maken en een schoonmaakcyclus.",
+   "Geribbelde mengbeker stuurt de ingrediënten terug naar de messen voor een sterke maalstroom.",
+   "Multifunctioneel deksel laat stoom ontsnappen bij warme ingrediënten.",
+   "Reinig de kan met de schoonmaakcyclus en daarna met warm water en afwasmiddel; de behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "fc7f8cca"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur behuizing",
+    "websiteSays": "Naam: \"houtskoolgrijs\"; spec Kleur: grijs; tekst: \"De behuizing is gemaakt van zwart kunststof\"",
+    "note": "Controleer de kleur van de behuizing."
+   }
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ 5KSB2073\\ Pure\\ Power\\ Blender\\ 2\\ liter\\ keizerrood",
+   "KitchenAid\\ 5KSB2073\\ Pure\\ Power\\ Blender\\ 2\\ liter\\ mat\\ zwart",
+   "KitchenAid\\ 5KSB2073\\ Pure\\ Power\\ Blender\\ 2\\ liter\\ porseleinwit"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het pureren van fruit, het blenden van groenten en het fijnmalen van ijsklontjes.",
+  "bullets": [
+   "Pure Power Blender 5KSB2073: BPA-vrije Tritan-mengbeker van 2 liter; vermogen 1200 W (piekvermogen 1,5 pk).",
+   "10 snelheden en 3 vooraf ingestelde programma's: ijs crushen, smoothies maken en een schoonmaakcyclus.",
+   "Geribbelde mengbeker stuurt de ingrediënten terug naar de messen voor een sterke maalstroom.",
+   "Multifunctioneel deksel laat stoom ontsnappen bij warme ingrediënten.",
+   "Reinig de kan met de schoonmaakcyclus en daarna met warm water en afwasmiddel; de behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "ef17f0f5"
+  ],
+  "colours": [
+   "keizerrood",
+   "mat zwart",
+   "porseleinwit"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ 5KSMMGA\\ voedselmolen\\ metaal"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Metalen voedselmolen (5KSMMGA) voor gebruik met alle standmixers van KitchenAid.",
+   "Molenhuis van gegoten aluminium; messen en snijplaten van roestvrij staal.",
+   "Voor het fijnhakken en malen van vlees, vis, groenten, harde kazen en gedroogd brood.",
+   "Geleverd met drie snijplaten, een vierslagsmes, twee worstvultrechters, een worstvulplaat, een aanvoerplateau, een reinigingsborstel en een kunststof stamper.",
+   "Machine hoogstens op snelheid 4 laten draaien. Demontabel: reinig de losse onderdelen met warm water en afwasmiddel; mes en snijplaten zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "5c836abc"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ zeef\\-\\ en\\ weegschaalaccessoires\\ 5KSMSFTA"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zeef- en weegschaalaccessoires 5KSMSFTA: geschikt voor alle KitchenAid keukenmachines.",
+   "Onderdelen: aanvoertrechter, digitale weegschaal, uitneembare zeef en doorvoertrechter.",
+   "U weegt bloem af en voegt die toe aan de mengkom terwijl de machine draait; zonder de zeef ook grovere droge ingrediënten.",
+   "Inhoud aanvoertrechter: ongeveer 500 gram bloem. Doorvoertrechter is draaibaar, ook om alleen te wegen en te zeven.",
+   "De weegschaal is uitneembaar en ook los als weegschaal te gebruiken.",
+   "Aanvoertrechter en zeef zijn vaatwasmachinebestendig; de overige onderdelen met een vochtige doek schoonmaken."
+  ],
+  "keys": [
+   "33355949"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ Artisan\\ broodrooster\\ 2\\ sleuven\\ zink\\ amandelwit",
+   "KitchenAid\\ Artisan\\ broodrooster\\ 2\\ sleuven\\ zink\\ appelrood",
+   "KitchenAid\\ Artisan\\ broodrooster\\ 2\\ sleuven\\ zink\\ keizerrood",
+   "KitchenAid\\ Artisan\\ broodrooster\\ 2\\ sleuven\\ zink\\ onyx\\-zwart"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "broodroosters"
+  ],
+  "suitedFor": "Voor het toasten van brood, bagels of tosti's.",
+  "bullets": [
+   "Artisan broodrooster met 2 sleuven; vermogen 1250 W; 7 verschillende bruiningsgraden.",
+   "4 toastfuncties: bagel, ontdooien, sandwich en toast; signaal als het brood gereed is.",
+   "Automatisch dalen en stijgen van het brood; u kunt tussentijds omhooghalen om de voortgang te controleren.",
+   "Is de toast na 45 seconden niet verwijderd, dan houdt de broodrooster deze tot 3 minuten warm.",
+   "Tosti's bereidt u met de bijgeleverde tostiklem; uitneembare kruimellade.",
+   "5 jaar garantie van KitchenAid op de broodrooster.",
+   "Reinigen met een vochtige doek, warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4938e27c",
+   "1d5b941e",
+   "a50cb303",
+   "72c7b99c"
+  ],
+  "requires": [
+   "tostiklem"
+  ],
+  "colours": [
+   "amandelwit",
+   "appelrood",
+   "keizerrood",
+   "onyx-zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen",
+    "websiteSays": "Appelrood: Hoogte 22,5 cm en Lengte 33 cm; de andere kleuren: Hoogte 33 cm en Lengte 22,5 cm",
+    "note": "Hoogte en lengte lijken omgewisseld; controleer de afmetingen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Amandelwit\\ \\-\\ 5KSM175PSEAC",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Tingrijs\\ \\-\\ 5KSM175PSEMS",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Fresh\\ Linen\\ \\-\\ 5KSM175PSEFL",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ IJsblauw\\ \\-\\ 5KSM175PSEIC",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Vulkaanzwart\\ \\-\\ 5KSM175PSEBK",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Keizerrood\\ \\-\\ 5KSM175PSEER",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Pistache\\ \\-\\ 5KSM175PSEPT",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Wit",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Appelrood\\ \\-\\ 5KSM175PSECA",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Poederdoos\\ Roze\\ \\-\\ 5KSM175PSEDR",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Inktblauw\\ \\-\\ 5KSM175PSEIB"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Artisan Elegance standmixer van gegoten zink; wordt geleverd met twee roestvrijstalen mengkommen (4,8 liter en 3 liter) en een schenkschild.",
+   "Bijgeleverd: deeghaak, draadgarde, platte menghaak en platte menghaak met siliconen rand (flexiklopper).",
+   "Aansluitpunt aan de voorzijde voor de vele accessoires: zo maakt u van de KitchenAid een multifunctionele keukenmachine.",
+   "Planetair mixsysteem: de klopper komt langs alle delen van de kom; mengt, roert, klopt en kneedt deeg, beslag, saus of room.",
+   "Draadgarde voor eiwitten en slagroom, deeghaak voor gistdegen; de flexiklopper schraapt met een siliconen rand langs de wand van de kom.",
+   "Vermogen 300 W; 10 standen (volgens de specificaties)."
+  ],
+  "keys": [
+   "0a60503a",
+   "133a1894",
+   "66c44c2c",
+   "6aeed6c6",
+   "6dd25610",
+   "991679f6",
+   "a5607e73",
+   "b767085f",
+   "badf9672",
+   "cc790e77",
+   "f28437f7"
+  ],
+  "requires": [
+   "Artisan Elegance"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur in de naam",
+    "websiteSays": "De naam eindigt op de kleur en het artikelnummer (bijvoorbeeld \"Amandelwit - 5KSM175PSEAC\")",
+    "note": "Elke kleur staat daardoor als apart product; controleer of ze samengevoegd moeten worden."
+   }
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Onyx\\ zwart\\ ",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Contour\\ zilver\\ \\-\\ 5KSM175PSECU",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Juniper\\ \\-\\ 5KSM175PSEJP",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Porseleinwit\\ \\-\\ 5KSM175PSEPL",
+   "KitchenAid\\ Artisan\\ Elegance\\ standmixer\\ 4,8\\ liter\\ Vintage\\ Blauw\\ \\-\\ 5KSM175PSEVB"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Artisan Elegance standmixer van gegoten zink; wordt geleverd met twee roestvrijstalen mengkommen (4,8 liter en 3 liter) en een schenkschild.",
+   "Bijgeleverd: deeghaak, draadgarde, platte menghaak en platte menghaak met siliconen rand (flexiklopper).",
+   "Aansluitpunt aan de voorzijde voor de vele accessoires: zo maakt u van de KitchenAid een multifunctionele keukenmachine.",
+   "Planetair mixsysteem: de klopper komt langs alle delen van de kom; mengt, roert, klopt en kneedt deeg, beslag, saus of room.",
+   "Draadgarde voor eiwitten en slagroom, deeghaak voor gistdegen; de flexiklopper schraapt met een siliconen rand langs de wand van de kom.",
+   "10 standen (volgens de specificaties)."
+  ],
+  "keys": [
+   "590646f6",
+   "61c13ae8",
+   "c91f6636",
+   "f5b81e36",
+   "fd5c401f"
+  ],
+  "requires": [
+   "Artisan Elegance"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur in de naam",
+    "websiteSays": "De naam eindigt op de kleur en het artikelnummer (bijvoorbeeld \"Amandelwit - 5KSM175PSEAC\")",
+    "note": "Elke kleur staat daardoor als apart product; controleer of ze samengevoegd moeten worden."
+   }
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ Artisan\\ K400\\ blender\\ 1,4\\ liter\\ Amandelwit",
+   "KitchenAid\\ Artisan\\ K400\\ blender\\ 1,4\\ liter\\ Appelrood",
+   "KitchenAid\\ Artisan\\ K400\\ blender\\ 1,4\\ liter\\ Inkt\\ blauw",
+   "KitchenAid\\ Artisan\\ K400\\ blender\\ 1,4\\ liter\\ Keizerrood",
+   "KitchenAid\\ Artisan\\ K400\\ blender\\ 1,4\\ liter\\ Medaillion\\ zilver",
+   "KitchenAid\\ Artisan\\ K400\\ blender\\ 1,4\\ liter\\ Onyx\\ zwart",
+   "KitchenAid\\ Artisan\\ K400\\ blender\\ 1,4\\ liter\\ Pistache",
+   "KitchenAid\\ Artisan\\ K400\\ blender\\ 1,4\\ liter\\ Vulkaanzwart"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het pureren van fruit en het fijnmalen van ijsklontjes.",
+  "bullets": [
+   "Artisan K400 blender: BPA-vrije glazen mengbeker van 1,4 liter; behuizing van zwaar gegoten metaal; vermogen 1200 W (piekvermogen 1,5 pk).",
+   "5 snelheden, drie mengprogramma's (ijs crushen, drankjes met ijs, smoothies) en een schoonmaakcyclus.",
+   "Vierkante mengbeker, zodat de inhoud niet langs de wanden omhoog kolkt; langzame startfunctie, zodat de blender niet spat.",
+   "Reinig de kan met de schoonmaakcyclus en daarna met warm water en afwasmiddel; de behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "572b0a2b",
+   "eb385621",
+   "47cd1f30",
+   "35ce0ff6",
+   "a9d6816f",
+   "b88a959a",
+   "a763a3ee",
+   "85693b45"
+  ],
+  "requires": [
+   "K400"
+  ],
+  "colours": [
+   "Amandelwit",
+   "Appelrood",
+   "Inkt blauw",
+   "Keizerrood",
+   "Medaillion zilver",
+   "Onyx zwart",
+   "Pistache",
+   "Vulkaanzwart"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ Artisan\\ Original\\ standmixer\\ 4,8\\ liter\\ Keizerrood\\ \\-\\ 5KSM125EER"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Artisan standmixer (5KSM125) van gegoten zink met een roestvrijstalen mengkom van 4,8 liter; vermogen 300 W; 10 standen.",
+   "Geleverd met platte menghaak (kruimeldeeg en puree), deeghaak (bijvoorbeeld brooddeeg) en draadgarde (dun beslag of slagroom).",
+   "Aansluitpunt aan de voorzijde voor accessoires, zoals gehaktmolen, pastamachine, citruspers of groenterasp.",
+   "5 jaar garantie van KitchenAid op de standmixer.",
+   "Behuizing reinigen met warm water en een vochtige doek; standaard accessoires met warm water en afwasmiddel; de roestvrijstalen kom is vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "969f71f5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Modelnummer in de tekst",
+    "websiteSays": "Naam: 5KSM125; de tekst noemt ook \"KitchenAid Artisan KSM150 keukenmachine\"",
+    "note": "Controleer het modelnummer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ Artisan\\ slowjuicer\\ accessoire"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Slowjuicer opzetstuk voor de KitchenAid Artisan standmixer: maakt sap van fruit, groenten en noten; aangedreven door de mixer.",
+   "Wijde opening voor grote stukken fruit, snelheidsregelaar en drie filterstanden om de hoeveelheid vruchtvlees te regelen (vruchtvleesvrije of -volle sappen, sauzen, jam of geleien).",
+   "Van BPA-vrij kunststof en roestvrij staal; plaats de juicer op de voorkant van de mixer.",
+   "De onderdelen zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "175c7e1b"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ Artisan\\ waterkoker\\ 1,5\\ liter\\ aluminium\\ amandelwit",
+   "KitchenAid\\ Artisan\\ waterkoker\\ 1,5\\ liter\\ aluminium\\ appelrood",
+   "KitchenAid\\ Artisan\\ waterkoker\\ 1,5\\ liter\\ aluminium\\ onyx\\ zwart",
+   "KitchenAid\\ Artisan\\ waterkoker\\ 1,5\\ liter\\ aluminium\\ tingrijs",
+   "KitchenAid\\ Artisan\\ waterkoker\\ 1,5\\ liter\\ aluminium\\ vulkaanzwart"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Artisan dubbelwandige waterkoker van 1,5 liter; instelbaar van 50 tot 100 ºC; buitenzijde aluminium, binnenkant kunststof met roestvrijstalen bodem.",
+   "Dankzij de dubbele wanden blijft het water na het verwarmen op temperatuur.",
+   "Temperatuurmeter geeft de temperatuur precies weer, ook wanneer de waterkoker niet op de voet staat.",
+   "Soft grip handgreep; kookelement weggewerkt; kalkfilter is uitneembaar (reinigen met schoonmaakazijn).",
+   "Reinig de behuizing met warm water en afwasmiddel; zo nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "b6330492",
+   "fefcaa86",
+   "1b767804",
+   "aaa70a57",
+   "49dda8ac"
+  ],
+  "requires": [
+   "dubbelwandige"
+  ],
+  "colours": [
+   "amandelwit",
+   "appelrood",
+   "onyx zwart",
+   "tingrijs",
+   "vulkaanzwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Gewicht",
+    "websiteSays": "Vulkaanzwart: Gewicht 21 kg; de andere kleuren 2,1 kg",
+    "note": "Waarschijnlijk typefout; controleer het gewicht."
+   },
+   {
+    "topic": "Vermogen",
+    "websiteSays": "Alleen op de pagina's onyx zwart, tingrijs en vulkaanzwart staat Vermogen 2400 W in de specificaties",
+    "note": "Controleer het vermogen van amandelwit en appelrood."
+   }
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ broodmengkom\\ met\\ deksel\\ 4,7\\ liter\\ keramiek\\ crème"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodmengkom met deksel van 4,7 liter, van sterk crèmekleurig keramiek (geur- en smaakneutraal en krasbestendig), voor de KitchenAid standmixer.",
+   "Met de bijgeleverde keramieken deksel kan het deeg direct van de mixer de oven in (tot 260 °C volgens de specificaties).",
+   "Vaatwasmachine-, vriezer-, oven- en magnetronbestendig.",
+   "Sterke handgreep; wordt met de kunststof ring van uw standmixer in de basis van de mixer gedraaid.",
+   "Met een extra kom hoeft u niet af te wassen tussen het mengen van verschillende beslagen."
+  ],
+  "keys": [
+   "4965d297"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ deeghaak\\ gecoat\\ staal\\ wit"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Deeghaak van gecoat roestvrij staal (wit); voor het mengen van allerlei soorten deeg.",
+   "Wordt standaard bij een KitchenAid standmixer geleverd (Artisan KSM-modellen); dit is een reserve of vervanging, geschikt voor de modellen genoemd op de pagina.",
+   "Vaatwasmachinebestendig, maar handafwas geeft het beste behoud."
+  ],
+  "keys": [
+   "ebd84f29"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal",
+    "websiteSays": "Naam: \"gecoat staal\"; spec Materiaal: \"metaal\"; tekst: \"gecoat roestvrijstaal\"",
+    "note": "Controleer het materiaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ deegklopper\\ gecoat\\ aluminium\\ wit\\ voor\\ 4,8\\ liter\\ en\\ 4,3\\ liter"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Deegklopper van gecoat aluminium (wit, emaille coating) voor de KitchenAid standmixer van 4,8 of 4,3 liter (zie de naam).",
+   "Maakt boter klein voor gebak zonder de boter eerst te smelten; ook voor het pureren of kleinmaken van groenten en fruit.",
+   "Mengt koude boter door bloem; verdeelt de ingrediënten gelijkmatig.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e67e3ee3"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ deegklopper\\ rvs\\ voor\\ 4,8\\ liter\\ en\\ 4,3\\ liter"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Deegklopper van roestvrij staal voor de KitchenAid standmixer van 4,8 of 4,3 liter (zie de naam).",
+   "Maakt boter klein voor gebak zonder de boter eerst te smelten; ook voor het pureren of kleinmaken van groenten en fruit.",
+   "Mengt koude boter door bloem; verdeelt de ingrediënten gelijkmatig.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "fc21b2c8"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ draadgarde\\ staal\\ grijs"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Draadgarde van roestvrij staal met aluminium kop voor de KitchenAid Artisan standmixer (modellen genoemd op de pagina); reserve of vervanging.",
+   "Let op: niet geschikt voor de KitchenAid Heavy Duty.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "94c9226c"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ flexibele\\ menghaak\\ metaal\\ grijs\\ voor\\ 6,9\\ liter"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Flexibele menghaak (flexiklopper) 5KFE voor de KitchenAid standmixer van 6,9 liter (zie de naam).",
+   "De flexibele siliconen zijkant veegt langs de kom, zodat u de randen niet met een schraper hoeft schoon te maken.",
+   "Voor normale tot zware mengsels, zoals deeg voor cakes, koekjes en taart, aardappelpuree of suikergoed.",
+   "De afstand tot de kom stelt u in met de stelschroef (zie de handleiding van de standmixer).",
+   "Reinigen met warm water en afwasmiddel; vaatwasser niet aanbevolen."
+  ],
+  "keys": [
+   "93007ea9"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ flexiklopper\\ gecoat\\ metaal\\ wit\\ voor\\ 4,8\\ liter\\ en\\ 4,3\\ liter"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Flexiklopper (platte menghaak met flexibele siliconen zijkant) 5KFE voor de KitchenAid standmixer met kantelbare kop van 4,8 en 4,3 liter (zie de naam).",
+   "De flexibele siliconen zijkant veegt langs de kom, zodat u de randen niet met een schraper hoeft schoon te maken.",
+   "Voor normale tot zware mengsels, zoals deeg voor cakes, koekjes en taart, aardappelpuree of suikergoed.",
+   "De afstand tot de kom stelt u in met de stelschroef (zie de handleiding van de standmixer).",
+   "Reinigen met warm water en afwasmiddel; vaatwasser niet aanbevolen."
+  ],
+  "keys": [
+   "078dd4be"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ foodprocessor\\ accessoire\\ voor\\ standmixer"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Foodprocessor accessoire voor de KitchenAid standmixer: gemonteerd op de accessoire-as van de mixer, die de motor aandrijft.",
+   "Snijdt in plakjes, blokjes en reepjes of raspt fijn; ExactSlice: de snijdikte stelt u in met de hendel aan de zijkant.",
+   "Meegeleverd: blokjes-set (blokjes van 8 x 8 x 8 mm), dubbelzijdige rasp, julienneschijf en een opbergdoos voor de messen en onderdelen.",
+   "Open onderzijde: het gesneden product valt in de mengkom van de standmixer.",
+   "Alle onderdelen behalve de behuizing zijn vaatwasmachinebestendig; handafwas komt de levensduur ten goede."
+  ],
+  "keys": [
+   "34195f4b"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ fruit\\-\\ en\\ groentezeef\\ kunststof\\ wit"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Fruit- en groentezeef (5FVSP) voor het pureren van fruit en groente met de kracht van de KitchenAid standmixer; geschikt voor alle KitchenAid keukenmachines.",
+   "Pureert en zeeft fruit en groente voor sauzen, jams en babyvoeding; scheidt pitten, steeltjes en schillen.",
+   "Volledig uit elkaar te halen. Alle onderdelen behalve de veer en de schacht zijn vaatwasmachinebestendig; veer en schacht met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "802816db"
+  ],
+  "mismatches": [
+   {
+    "topic": "Gebruik met voedselmolen",
+    "websiteSays": "Tekst: \"wordt gebruikt in combinatie met de KitchenAid FGA voedselmolen\"",
+    "note": "Controleer of het zeefaccessoire los op de mixer past of alleen met de voedselmolen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ handmixer\\ met\\ accessoires\\ kunststof\\ crème\\ 8\\-delig"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het kloppen van room en eiwit, het kneden van deeg en het mengen van ingrediënten.",
+  "bullets": [
+   "Handmixer van crèmekleurig kunststof met accessoires (8-delig); vermogen 85 W; 9 standen.",
+   "Geleverd met bolgardes, deeghaken, turbo kloppers en een mengstaaf.",
+   "Start telkens op stand 1 om spetteren te voorkomen.",
+   "Reinig de behuizing met een vochtige doek; de accessoires zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "176a26e3"
+  ],
+  "requires": [
+   "handmixer"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ handmixer\\ met\\ accessoires\\ kunststof\\ grijs\\ 8\\-delig",
+   "KitchenAid\\ handmixer\\ met\\ accessoires\\ kunststof\\ rood\\ 8\\-delig",
+   "KitchenAid\\ handmixer\\ met\\ accessoires\\ kunststof\\ zwart\\ 8\\-delig",
+   "KitchenAid\\ handmixer\\ met\\ accessoires\\ kunststof\\ Pistache\\ 8\\-de"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het kloppen van room en eiwit, het kneden van deeg en het mengen van ingrediënten.",
+  "bullets": [
+   "Handmixer van kunststof met accessoires (8-delig); vermogen 85 W; 9 standen.",
+   "Geleverd met bolgardes, deeghaken, turbo kloppers en een mengstaaf.",
+   "Start telkens op stand 1 om spetteren te voorkomen.",
+   "Reinig de behuizing met een vochtige doek; de accessoires zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "47ec3344",
+   "4cf508fc"
+  ],
+  "requires": [
+   "handmixer"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ hulpstukkenpakket\\ \\-\\ rasp\\ gehaktmolen\\ passe\\-vite\\ "
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Basis hulpstukkenpakket (5KSMFPPC): geeft de KitchenAid standmixer de mogelijkheden van een foodprocessor.",
+   "Bestaat uit: groentenrasp (MVSA), gehaktmolen (FGA), groenten- en fruitzeef (FVSP) en drie verschillende trommelraspen.",
+   "Voor het schaven, raspen, fijnhakken, malen, pureren en zeven; ook voor gehakt en pesto.",
+   "Alle hulpstukken zijn uit elkaar te halen. Kunststof onderdelen zijn vaatwasmachinebestendig; reinig de roestvrijstalen messen, veren en raspen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "01cc143b"
+  ]
+ },
+ {
+  "match": [
+   "Kitchenaid\\ Japanse\\ groentesnijderaccessoire"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Japanse groentesnijder accessoire voor de KitchenAid standmixer: snijdt of \"schilt\" lange dunne plakken van stevige groenten en fruit (katsumaruki), zoals komkommer, courgette, wortel, zoete aardappel, appel en aardappel.",
+   "Te gebruiken voor salades of als alternatief voor lasagnebladen; geleverd met twee messen voor twee diktes.",
+   "Gebruik: groenten in lengtes van maximaal 11,5 cm op de centrale as spiesen, mes in de startpositie, standmixer op stand twee.",
+   "Groenten en fruit moeten recht (wortel, komkommer, courgette) of gelijkmatig rond (appel, aardappel, bataat) zijn."
+  ],
+  "keys": [
+   "408cd21f"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ mengkom\\ 3\\ liter\\ rvs\\ glans",
+   "KitchenAid\\ mengkom\\ 4,83\\ liter\\ rvs\\ glans"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Roestvrijstalen mengkom voor de KitchenAid standmixer (inhoud in de naam); aanvulling of reserve bij de Artisan standmixer.",
+   "Geschikt voor alle KitchenAid mixers met een kantelbare kop (zie de pagina voor de inhoudsmaten).",
+   "Vaatwasmachine- en vriezerbestendig.",
+   "Met een extra kom hoeft u niet af te wassen tussen het mengen van verschillende beslagen."
+  ],
+  "keys": [
+   "f4a35aa4",
+   "4ea65883"
+  ],
+  "requires": [
+   "kantelbare kop"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ mengkom\\ 4,8\\ liter\\ glas\\ met\\ silicone\\ deksel"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Glazen mengkom van 4,8 liter met siliconen deksel voor de KitchenAid standmixer; duurzaam, sterk glas, zodat u het mixen kunt volgen.",
+   "Vaatwasmachine-, vriezer- en magnetronbestendig.",
+   "Sterke handgreep, voorgevormde gietmond en maataanduiding in liter en cups.",
+   "Wordt in de basis van de standmixer gedraaid; met het deksel dekt u deeg, room of saus af om te bewaren."
+  ],
+  "keys": [
+   "4be03d31"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ pastapers\\ opzetstuk\\ kunststof\\ wit"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pastapers opzetstuk (5KPEXTA) voor verse pasta; geschikt voor alle KitchenAid keukenmachines; de standmixer perst het deeg door de vorm.",
+   "6 bijgeleverde vormen: spaghetti, fusilli, grote macaroni, kleine macaroni, rigatoni en bucatini; elke vorm bestaat uit een metalen schijf en 2 kunststof schijven.",
+   "Geleverd met een combinatie-accessoire, opbergdoos en reinigingsborstel.",
+   "Lengte bepaalt u met het gespannen draadje onder de pers; laat pers en vormen na gebruik drogen en reinig ze met de borstel."
+  ],
+  "keys": [
+   "1cc76cb9"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ platte\\ menghaak\\ rvs"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Platte menghaak van roestvrij staal: reserve of vervanging van de standaard meegeleverde platte menghaak bij de KitchenAid Artisan standmixer (modellen op de pagina).",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "f4edfdea"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ roomijsmaker\\ voor\\ 4,8\\ en\\ 4,3\\ liter\\ standmixer"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Roomijsmaker voor de KitchenAid standmixer (4,8 en 4,3 liter): maakt met de motor van de mixer tot 1,9 liter ijs.",
+   "Room-, sorbet- of yoghurtijs in 20-30 minuten; de kom moet vooraf in de vriezer; dikke geïsoleerde wanden houden de kou vast.",
+   "Speciale ijsklopper mengt het ijs regelmatig en zacht.",
+   "Past op mixers met kantelbare kop of in hoogte verstelbare kom, met enkele uitzonderingen (zie de website).",
+   "Reinig de ijskom met lauw water en een zachte borstel of spons, direct na gebruik."
+  ],
+  "keys": [
+   "1b2d9dab"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ roterende\\ groenteschaaf\\ en\\ \\-raspset\\ rvs\\ "
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Roterende groenteschaaf en -rasp (5KSMVSA) voor alle KitchenAid standmixers.",
+   "Raspt of snijdt rauwe wortel- en bladgroenten, aardappelen, uien, fruit, noten, chocoladerepen en kaas.",
+   "Geleverd met behuizing, duwer, afsluitring en 3 trommels: middelgrove schaaftrommel, middelgrove rasptrommel en grove rasptrommel.",
+   "Uit te breiden met de optionele trommels (EMVSC).",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e3467cc3"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ schenkschild\\ kunststof\\ transparant\\ \\-\\ 5KSMTHPS"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Schenkschild (5KSMTHPS) van transparant kunststof voor de KitchenAid Keukenmixer met kantelbare kop (modellen op de pagina).",
+   "Klikt met kliklipjes op de kom; voorkomt spatten; door de grote, schuine vulopening voegt u ingrediënten toe tijdens het mixen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e10e740c"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ set\\ draadgarde,\\ menghaak,\\ kneedhaak\\ voor\\ 4,8\\ liter\\ mixers\\ rvs"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Set van 3 roestvrijstalen accessoires (5KSM5TH3PSS): draadgarde, menghaak en kneedhaak; aanvulling of vervanging.",
+   "Voor het opkloppen van room, mengen van beslag of kneden van deeg.",
+   "Let op: alleen compatibel met de 4,8 L mixers/keukenrobots met kantelbare kop.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "28900623"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ Spiralizer\\ spiraalsnijder\\ en\\ schilaccessoire"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Spiralizer: spiraalsnijder en schilaccessoire voor de KitchenAid standmixer; schilt en snijdt groenten en fruit in slierten, plakken of krullen.",
+   "Opzetten: schilmes, krulmes met kleine kern, krulmes met grote kern, dun spiraalmes en medium spiraalmes.",
+   "De twee spiraalmessen maken slierten van circa 4 mm en 7 mm breed (groentepasta); de krulmessen maken lange brede spiralen.",
+   "Basis op de standmixer monteren, een opzetmes kiezen en klaar om te schillen of snijden."
+  ],
+  "keys": [
+   "ee715ba2"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ tandwiel\\ voor\\ blender\\ zwart"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Reparatieset: tandwiel om het aandrijftandwiel te vervangen van oudere KitchenAid Artisan blenders met typenummer beginnend met KSB5.",
+   "Let op: het tandwiel heeft linkse draad (met de klok mee losdraaien, tegen de klok in vastdraaien); een extra dunne steeksleutel is nodig (niet meegeleverd)."
+  ],
+  "keys": [
+   "8fb22ee8"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ voedselmolen\\ en\\ fruit\\-\\ en\\ groentenzeef\\ kunststof"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Set van de KitchenAid gehaktmolen (voedselmolen) en de groenten- en fruitzeef, te gebruiken met de KitchenAid standmixer.",
+   "Voedselmolen maalt vlees, vis, groenten en gedroogd brood; draai de keukenrobot op snelheid 4 en gebruik de voedselstamper.",
+   "De zeef gaat op de voedselmolen: tomaten passeren, appelmoes pureren of babyvoeding maken.",
+   "Demontabel: reinig de losse onderdelen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "825c986c"
+  ]
+ },
+ {
+  "match": [
+   "KitchenAid\\ voedselmolen\\ kunststof\\ wit"
+  ],
+  "brandID": "kitchenaid",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Voedselmolen (FGA) van wit kunststof met roestvrijstalen stermes en maalschijven voor grof en fijn malen; geschikt voor alle KitchenAid keukenmachines.",
+   "Maalt vlees, vis, groenten en gedroogd brood; aansluiten op het aandrijfpunt van de KitchenAid; snelheid 4, met de voedselstamper.",
+   "Volledig uit elkaar te halen. Alle onderdelen behalve het mes en de maalschijven zijn vaatwasmachinebestendig; mes en maalschijven met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f9032188"
+  ]
+ }
+]

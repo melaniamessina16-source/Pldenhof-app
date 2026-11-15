@@ -1,0 +1,438 @@
+[
+ {
+  "match": [
+   "Cristel\\ aanzetstaal\\ ovaal\\ 25\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het onderhouden van Cristel keukenmessen; botte messen worden er snel en gemakkelijk scherp mee gemaakt.",
+  "bullets": [
+   "Ovaal aanzetstaal van gehard roestvrij staal, met een ergonomisch handvat van kunststof.",
+   "Voor het dagelijks onderhoud: het aanzetstaal zet de snede van het mes opnieuw recht, waardoor het mes minder weerstand heeft bij het snijden.",
+   "Volgens de website: mes onder een hoek van 20° langs het staal trekken, circa 5 keer per kant van het mes.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet van het mes.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "08bfb3b3"
+  ],
+  "brandName": "Cristel",
+  "mismatches": [
+   {
+    "topic": "Naam en specificaties: lengte",
+    "websiteSays": "Naam: 25 cm; specificaties: Lengte 38 cm, tekst: inclusief heft # cm lang",
+    "note": "Controleer of 25 cm de lengte van het staal is en 38 cm de totale lengte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ magnetisch\\ messenblok\\ 8\\ messen\\ beukenhout"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magnetisch messenblok van beukenhout: combineert het gemak van een vrijstaand messenblok met de overzichtelijkheid van een magneetstrip.",
+   "De messen kleven door de magneet in de plank tegen het blok; ze zijn op elke plek in de keuken onder handbereik en toch veilig opgeborgen.",
+   "Plaats voor 8 messen (volgens de productnaam). Messen niet inbegrepen.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "c6234b41"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Marttiini\\ broodmes\\ 21\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor brood en aanverwante producten, met zo min mogelijk kruimels.",
+  "bullets": [
+   "Broodmes met gekarteld lemmet.",
+   "Cristel Marttiini: Cristel heeft voor deze messenlijn de hulp ingeroepen van het Finse Marttiini; het staal wordt in het Duitse Solingen gesmeed.",
+   "Het messenstaal loopt door het hele heft; de kunststof greep is eenvoudig in onderhoud en robuust.",
+   "Met een krop, zodat zich geen vuil kan ophopen tussen lemmet en heft; de gewichtsverdeling is prettig.",
+   "Wordt geleverd met een beschermhoes voor het lemmet.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "0093477f"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Marttiini\\ worst\\-/tomatenmes\\ 14\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor producten die aan de binnenkant zacht en aan de buitenkant taai zijn, zoals worst en tomaten.",
+  "bullets": [
+   "Worst-/tomatenmes met gekarteld lemmet.",
+   "Cristel Marttiini: Cristel heeft voor deze messenlijn de hulp ingeroepen van het Finse Marttiini; het staal wordt in het Duitse Solingen gesmeed.",
+   "Het messenstaal loopt door het hele heft; de kunststof greep is eenvoudig in onderhoud en robuust.",
+   "Met een krop, zodat zich geen vuil kan ophopen tussen lemmet en heft; de gewichtsverdeling is prettig.",
+   "Wordt geleverd met een beschermhoes voor het lemmet.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "aed16d0d"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Marttiini\\ fileermes\\ 18\\ cm\\ messenstaal\\ zwart",
+   "Cristel\\ Marttiini\\ vleesmes\\ 21\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het in plakken snijden van producten.",
+  "bullets": [
+   "Smal mes: producten blijven minder snel aan het lemmet kleven bij het snijden.",
+   "Cristel Marttiini: Cristel heeft voor deze messenlijn de hulp ingeroepen van het Finse Marttiini; het staal wordt in het Duitse Solingen gesmeed.",
+   "Het messenstaal loopt door het hele heft; de kunststof greep is eenvoudig in onderhoud en robuust.",
+   "Met een krop, zodat zich geen vuil kan ophopen tussen lemmet en heft; de gewichtsverdeling is prettig.",
+   "Wordt geleverd met een beschermhoes voor het lemmet.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "f00dc274"
+  ],
+  "colours": [
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Productnaam en tekst verschillen",
+    "websiteSays": "De tekst noemt dit mes een \"trancheermes\"; de naam is fileermes (18 cm) of vleesmes (21 cm)",
+    "note": "Controleer of de tekst bij dit product hoort."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Marttiini\\ koksmes\\ 16\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Koksmes: breed, daardoor veelzijdig te gebruiken.",
+   "Een koksmes is het breedst toepasbaar van alle messen in de keuken.",
+   "Cristel Marttiini: Cristel heeft voor deze messenlijn de hulp ingeroepen van het Finse Marttiini; het staal wordt in het Duitse Solingen gesmeed.",
+   "Het messenstaal loopt door het hele heft; de kunststof greep is eenvoudig in onderhoud en robuust.",
+   "Met een krop, zodat zich geen vuil kan ophopen tussen lemmet en heft; de gewichtsverdeling is prettig.",
+   "Wordt geleverd met een beschermhoes voor het lemmet.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "d0696778"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Marttiini\\ koksmes\\ 21\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Koksmes: breed, daardoor veelzijdig te gebruiken; een gangbare maat voor koksmessen.",
+   "Een koksmes is het breedst toepasbaar van alle messen in de keuken.",
+   "Cristel Marttiini: Cristel heeft voor deze messenlijn de hulp ingeroepen van het Finse Marttiini; het staal wordt in het Duitse Solingen gesmeed.",
+   "Het messenstaal loopt door het hele heft; de kunststof greep is eenvoudig in onderhoud en robuust.",
+   "Met een krop, zodat zich geen vuil kan ophopen tussen lemmet en heft; de gewichtsverdeling is prettig.",
+   "Wordt geleverd met een beschermhoes voor het lemmet.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "7ef46dc1"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Marttiini\\ officemes\\ 9\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Door de geronde vorm naar de punt goed te gebruiken om bijvoorbeeld groente of fruit met veel precisie te snijden.",
+  "bullets": [
+   "Officemes.",
+   "Cristel Marttiini: Cristel heeft voor deze messenlijn de hulp ingeroepen van het Finse Marttiini; het staal wordt in het Duitse Solingen gesmeed.",
+   "Het messenstaal loopt door het hele heft; de kunststof greep is eenvoudig in onderhoud en robuust.",
+   "Met een krop, zodat zich geen vuil kan ophopen tussen lemmet en heft; de gewichtsverdeling is prettig.",
+   "Wordt geleverd met een beschermhoes voor het lemmet.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "e1133984"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Marttiini\\ Santoku\\ mes\\ 18\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van vis, vlees en groenten.",
+  "bullets": [
+   "Santokumes met kuiltjes in het lemmet, zodat producten niet aan het lemmet blijven kleven.",
+   "Cristel Marttiini: Cristel heeft voor deze messenlijn de hulp ingeroepen van het Finse Marttiini; het staal wordt in het Duitse Solingen gesmeed.",
+   "Het messenstaal loopt door het hele heft; de kunststof greep is eenvoudig in onderhoud en robuust.",
+   "Met een krop, zodat zich geen vuil kan ophopen tussen lemmet en heft; de gewichtsverdeling is prettig.",
+   "Wordt geleverd met een beschermhoes voor het lemmet.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "b59699e9"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Marttiini\\ tourneermes\\ 7\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Als schilmes of om groenten te tourneren.",
+  "bullets": [
+   "Tourneermes met gekromd lemmet.",
+   "Cristel Marttiini: Cristel heeft voor deze messenlijn de hulp ingeroepen van het Finse Marttiini; het staal wordt in het Duitse Solingen gesmeed.",
+   "Het messenstaal loopt door het hele heft; de kunststof greep is eenvoudig in onderhoud en robuust.",
+   "Met een krop, zodat zich geen vuil kan ophopen tussen lemmet en heft; de gewichtsverdeling is prettig.",
+   "Wordt geleverd met een beschermhoes voor het lemmet.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "a91e7629"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Marttiini\\ uitbeenmes\\ 15\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het uitbenen van stukken vlees met het bot er nog in.",
+  "bullets": [
+   "Extra smal uitbeenmes, waardoor het gemakkelijker is om bijvoorbeeld een lamsrek schoon te maken.",
+   "Cristel Marttiini: Cristel heeft voor deze messenlijn de hulp ingeroepen van het Finse Marttiini; het staal wordt in het Duitse Solingen gesmeed.",
+   "Het messenstaal loopt door het hele heft; de kunststof greep is eenvoudig in onderhoud en robuust.",
+   "Met een krop, zodat zich geen vuil kan ophopen tussen lemmet en heft; de gewichtsverdeling is prettig.",
+   "Wordt geleverd met een beschermhoes voor het lemmet.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "c7e1276d"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Marttiini\\ messenset\\ messenstaal\\ zwart\\ 3\\-delig"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Goed te gebruiken als basisset waarmee u veel verschillende basisingrediënten in de keuken snijdt.",
+  "bullets": [
+   "Set van 3 messen uit de Cristel Marttiini-lijn: officemes 9 cm, koksmes 16 cm en vleesmes 18 cm.",
+   "Het messenstaal loopt door het hele heft.",
+   "Cristel Marttiini: Cristel heeft voor deze messenlijn de hulp ingeroepen van het Finse Marttiini; het staal wordt in het Duitse Solingen gesmeed.",
+   "Met een krop, zodat zich geen vuil kan ophopen tussen lemmet en heft; de gewichtsverdeling is prettig.",
+   "Wordt geleverd met een beschermhoes voor het lemmet.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "5674bc08"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Panoply\\ grapefruitmes\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om partjes uit een grapefruit of sinaasappel te snijden.",
+  "bullets": [
+   "Roestvrijstalen grapefruitmes uit de Panoply-serie met een gebogen lemmet en twee gekartelde zijden.",
+   "Door de twee gekartelde zijden geschikt voor zowel links- als rechtshandig gebruik.",
+   "Op te hangen aan het ophangoog; vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "8c49fe4f"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Panoply\\ oestermes\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het openen van oesters.",
+  "bullets": [
+   "Roestvrijstalen oestermes uit de Panoply-serie met een aan beide zijden geslepen lemmet.",
+   "Website: plaats het mes tussen de twee schelpen en wrik rustig heen en weer; schraap langs de vlakke kant van de oester om de spier los te snijden.",
+   "Bij het openen is het aan te raden de hand waarmee u de oester vasthoudt te beschermen met een daarvoor bestemde handschoen.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "c3d94ded"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Panoply\\ officemes\\ 9,5\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor schillen, tourneren en snijden van kleine hoeveelheden groente, vlees en vis.",
+  "bullets": [
+   "Roestvrijstalen officemes uit de Panoply-serie.",
+   "Na gebruik te bevestigen aan het Panoply rek van Cristel voor makkelijk opbergen.",
+   "Vaatwasserbestendig."
+  ],
+  "keys": [
+   "9739c86d"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Panoply\\ universeel\\ mes\\ 11\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en snijden van groenten, vlees en vis.",
+  "bullets": [
+   "Universeel mes uit de Panoply-serie, gemaakt van roestvrij staal.",
+   "Na gebruik te bevestigen aan de Panoply rekken van Cristel voor makkelijk opbergen.",
+   "Vaatwasserbestendig."
+  ],
+  "keys": [
+   "90a7240d"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ roterend\\ messenblok\\ vierkant\\ acaciahout"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Roterend messenblok van acaciahout met een uitneembare inzet van kunststof vezels waarin de messen willekeurig ingezet kunnen worden.",
+   "Door aan het blok te draaien vindt u altijd het juiste mes.",
+   "Door de messen afzonderlijk van elkaar te bewaren blijven ze langer scherp. Messen niet inbegrepen.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "1bf90a69"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ staand\\ messenblok\\ 8\\ messen\\ beukenhout"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Staand messenblok van beukenhout met een uitneembare inzet van kunststof vezels waarin de messen willekeurig ingezet kunnen worden.",
+   "Plaats voor 8 messen (volgens de productnaam). Messen niet inbegrepen.",
+   "Door de messen afzonderlijk van elkaar te bewaren blijven ze langer scherp.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "2be1d1c2"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ snijplank\\ 20,3\\ x\\ 15\\ cm\\ houtcomposiet\\ bruin",
+   "Cristel\\ snijplank\\ 23\\ x\\ 23\\ cm\\ houtcomposiet\\ bruin",
+   "Cristel\\ snijplank\\ 37\\ x\\ 27,5\\ cm\\ houtcomposiet\\ bruin",
+   "Cristel\\ snijplank\\ met\\ geul\\ 44\\ x\\ 32,5\\ cm\\ houtcomposiet\\ bruin",
+   "Cristel\\ snijplank\\ met\\ handgreep\\ 34\\ x\\ 19\\ cm\\ houtcomposiet\\ zwart",
+   "Cristel\\ snijplank\\ met\\ handgreep\\ 46\\ x\\ 19\\ cm\\ houtcomposiet\\ zwart"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Om diverse ingrediënten op te snijden.",
+  "bullets": [
+   "Snijplank van houtcomposiet; duurzaam geproduceerd en licht van gewicht.",
+   "Niet poreus: er kunnen geen bacteriën in de plank trekken.",
+   "FSC-gecertificeerd. Sommige snijplanken hebben een sapgeul om vloeistoffen op te vangen.",
+   "Vaatwasserbestendig."
+  ],
+  "keys": [
+   "e96da3c4"
+  ],
+  "colours": [
+   "bruin",
+   "zwart"
+  ]
+ }
+]

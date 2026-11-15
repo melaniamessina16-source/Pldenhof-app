@@ -1,0 +1,189 @@
+[
+ {
+  "match": [
+   "Espressions\\ Combo\\ MixMaster\\ keukenmachine\\ "
+  ],
+  "brandID": "espressions",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het mengen, mixen en kneden van bijvoorbeeld deeg, beslag en slagroom.",
+  "bullets": [
+   "Espressions Combo MixMaster keukenmachine (planetaire mixer) van gietaluminium, kom van 4,5 liter.",
+   "12 traploos instelbare snelheden, slowstartfunctie, snelheid op het LCD, pauzeknop en timer.",
+   "Accessoires: deeghaak, draadgarde, bisschop haak, bisschop haak met siliconen rand en multimolen.",
+   "Aansluitpunt aan de voorzijde voor accessoires, zoals de meegeleverde multimolen (voor o.a. eigen gehaktmengsel).",
+   "Kop is omhoog te kantelen voor het vervangen van gereedschap of het afnemen van de kom (machine daarbij uitzetten)."
+  ],
+  "keys": [
+   "437e74dc"
+  ],
+  "brandName": "Espressions",
+  "requires": [
+   "multimolen"
+  ]
+ },
+ {
+  "match": [
+   "Espressions\\ Mycook\\ Professional\\ keukenmachine\\ 2\\ liter\\ zwart"
+  ],
+  "brandID": "espressions",
+  "typeIDs": [
+   "foodprocessors"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Espressions Mycook Professional keukenmachine van kunststof, kom van 2 liter, 1.800 W.",
+   "Voor pureren, mengen, kloppen, roeren, emulgeren, smelten, verwarmen en koken.",
+   "Inductieverwarming in bodem en wand: 40 °C tot 120 °C in stappen van 10 °C; kan tegelijk verwarmen en roteren op 10 snelheden.",
+   "Handmatige bediening met draaiknoppen en display voor temperatuur, tijd en snelheid; timer.",
+   "Voor sauzen, crèmes en zalven zonder erbij te blijven.",
+   "Mengkom en mes zijn te demonteren en met warm water en afwasmiddel te reinigen; de motorbasis met een vochtige doek."
+  ],
+  "keys": [
+   "4d37bb20"
+  ],
+  "requires": [
+   "Mycook"
+  ]
+ },
+ {
+  "match": [
+   "Espressions\\ Smart\\ Kettle\\ Silent\\ waterkoker\\ 1,7\\ liter\\ rvs"
+  ],
+  "brandID": "espressions",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Espressions Smart Kettle Silent waterkoker van roestvrij staal, 1,7 liter, 2300 W.",
+   "5 temperatuurinstellingen voor verschillende theesoorten of het opschenken van koffie; voet met bedieningspaneel en display.",
+   "Quiet Shield boven het element reduceert het geluid; volgens de tekst 69 dB tijdens gebruik.",
+   "Vlak ontwerp: ook kleine hoeveelheden water, vanaf 0,5 liter, te verwarmen.",
+   "Reinigen met een vochtige doek; regelmatig ontkalken voor het correct functioneren van het Quiet Shield."
+  ],
+  "keys": [
+   "4d6053c5"
+  ],
+  "requires": [
+   "Quiet Shield"
+  ]
+ },
+ {
+  "match": [
+   "Espressions\\ The\\ Blender\\ 2\\ liter"
+  ],
+  "brandID": "espressions",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het bereiden van smoothies, sauzen, soepen en crushed ice.",
+  "bullets": [
+   "Espressions the Blender EP9900, 1.400 watt, Tritan mengkan van 2 liter; behuizing van geborsteld aluminium.",
+   "Motor tot 22.000 toeren per minuut; vier automatische programma's: Ice Crush, Smoothie, Pulse en Slow Start.",
+   "Tritan kan is BPA-vrij, breukbestendig en heeft een nauwkeurige schenktuit.",
+   "Werkt alleen als de kan correct is geplaatst en het deksel goed is afgesloten; tamper meegeleverd.",
+   "Snelheid via grote draaiknop aan de voorzijde.",
+   "Mengkan en deksel reinigen met warm water en afwasmiddel; behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "b2f8a4cb"
+  ],
+  "requires": [
+   "EP9900"
+  ]
+ },
+ {
+  "match": [
+   "Espressions\\ The\\ Claypot\\ multicooker\\ 3,8\\ liter"
+  ],
+  "brandID": "espressions",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Espressions The Claypot multicooker, 3,8 liter, met een aardewerken binnenpan van kaolien klei.",
+   "Voor stoofgerechten, rijst, pasta en havermout.",
+   "Kookstanden: slowcooken, braden (Braise), sauteren (Sear/Sauté), rijst koken (White/Brown Rice), Oats, Pasta en warmhouden (Keep Warm).",
+   "Binnenpan is ovenbestendig en kan direct op tafel worden gebruikt.",
+   "Reinig de binnenpan met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c91cce4f"
+  ],
+  "requires": [
+   "Claypot"
+  ]
+ },
+ {
+  "match": [
+   "Espressions\\ theJuicer\\ citruspers\\ rvs"
+  ],
+  "brandID": "espressions",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het persen van verschillende soorten citrusvruchten.",
+  "bullets": [
+   "Espressions theJuicer citruspers van gegoten aluminium en roestvrij staal, 340 W.",
+   "Met een druk op de knop kiest u voor een heldere drank of sap vol vruchtvlees.",
+   "De pers slaat automatisch aan of uit wanneer u de pershendel overhaalt; perst grote en kleine citrusvruchten en zelfs granaatappels.",
+   "Voedselveilig reservoir met schenktuit met druppelstop; brede basis voor een stevige stand.",
+   "Snoer rolt compact op in de machine; bestaat uit losse onderdelen die makkelijk te reinigen zijn."
+  ],
+  "keys": [
+   "69671a07"
+  ],
+  "requires": [
+   "pershendel"
+  ]
+ },
+ {
+  "match": [
+   "Espressions\\ The\\ MixMaster\\ II\\ standmixer"
+  ],
+  "brandID": "espressions",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Espressions The MixMaster II standmixer (keukenmachine) van gegoten aluminium met roestvrijstalen details; 1.000 W inductiemotor.",
+   "Roestvrijstalen mengkom van 5 liter; gewicht circa 9 kg: stabiel ook bij zwaarder deeg.",
+   "12 traploos instelbare snelheden, geïntegreerde digitale timer en LCD-display; slow-startfunctie.",
+   "Planetair mengsysteem; voor eiwit en slagroom kloppen, cake- en pannenkoekenbeslag mengen en brood- of pastadeeg kneden (circa 1 kg brooddeeg of 500 g pastadeeg).",
+   "Geleverd met roestvrijstalen mengkom, kneedhaak, garde, ankervormige menghaak en transparante spatdeksel met vulopening.",
+   "Mengkom en accessoires reinigen met warm water en afwasmiddel; buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "8876c947"
+  ],
+  "requires": [
+   "Mixmaster II"
+  ]
+ },
+ {
+  "match": [
+   "Espressions\\ Vacu\\ Pro\\ 2\\ vacumeermachine\\ zwart\\ rvs"
+  ],
+  "brandID": "espressions",
+  "typeIDs": [
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Espressions Vacu Pro 2 vacuümmachine van roestvrij staal en kunststof.",
+   "Geschikt voor intensief gebruik: dubbele pomp en een zelf koelende aluminium sealbar voor het dichten van zakken.",
+   "Voor het vacumeren van etenswaren in zak of doos; voor langer houdbaar maken en sous-vide bereiding.",
+   "Te gebruiken met zakken of de speciale Espressions containers; slang meegeleverd."
+  ],
+  "keys": [
+   "55e55120"
+  ],
+  "requires": [
+   "Vacu Pro"
+  ]
+ }
+]

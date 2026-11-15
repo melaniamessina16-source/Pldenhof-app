@@ -1,0 +1,1281 @@
+[
+ {
+  "match": [
+   "Tojiro\\ bakkersmes\\ 27\\ cm\\ messenstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro bakkersmes (ook superslicer genoemd) met golfkartel, lemmet van 27 cm, totale lengte 41 cm.",
+   "Snijdt door brood en cakes met nauwelijks kruimels; bij uitstek geschikt voor het doorsnijden van biscuits voor het vullen.",
+   "Snijdt ook groenten, fruit en vlees.",
+   "Lemmet van messenstaal (spec: molybdeen-vanadiumstaal), donker houten heft met 3 klinknagels; ergonomisch gevormd heft.",
+   "Op het lemmet staan Japanse tekens.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b3b325cc"
+  ],
+  "brandName": "Tojiro"
+ },
+ {
+  "match": [
+   "Tojiro\\ Basic\\ koksmes\\ 18\\ cm\\ Damascus\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Basic koksmes, lemmet van 18 cm, totale lengte 30 cm; lemmet van VG10 Damascus staal, heft van gelamineerd pakkahout.",
+   "Allround keukenmes voor het snijden van groenten, vlees, vis en kruiden; rechte rug en licht gebogen snede, geschikt voor hak- en wiegbewegingen.",
+   "Dun uitgeslepen lemmet voor nauwkeurig en efficiënt snijden; blijft volgens de pagina zeer lang scherp.",
+   "Aanbevolen: met de hand afwassen en bijhouden met een wetsteen of slijper met de juiste slijphoek.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c925b38e"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Basic\\ koksmes\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Basic koksmes, lemmet van 20 cm, totale lengte 31,5 cm; voor het snijden van allerlei soorten etenswaren.",
+   "Tojiro Basic: lemmet van VG10-staal; heft van dunne lagen pakkahout, vastgezet met roestvrijstalen nagels.",
+   "Heft ligt natuurlijk in de hand, is goed waterafstotend en zeer hygiënisch.",
+   "Op het lemmet staan Japanse tekens; Basic-collectie van het Japanse messenmerk Tojiro.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6d2a6b4c"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Basic\\ Nakiri\\ mes\\ 16,5\\ cm\\ messenstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Basic Nakiri, lemmet van 16,5 cm, totale lengte 28,5 cm; voor het snijden van verschillende soorten etenswaren.",
+   "Tojiro Basic: lemmet van VG10-staal; heft van dunne lagen pakkahout, vastgezet met roestvrijstalen nagels.",
+   "Heft ligt natuurlijk in de hand, is goed waterafstotend en zeer hygiënisch.",
+   "Op het lemmet staan Japanse tekens; Basic-collectie van het Japanse messenmerk Tojiro.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "58207ced"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lemmetlengte",
+    "websiteSays": "Naam en tekst 16,5 cm; spec Lengte lemmet: 16 cm",
+    "note": "Waarschijnlijk afronding; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Basic\\ Nakirimes\\ 16,5\\ cm\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Basic Damascus Nakiri, lemmet van 16,5 cm.",
+   "Nakiri: traditioneel Japans groentemes met recht lemmet voor het snijden, hakken en fijnsnijden van groenten en kruiden.",
+   "Lemmet van 37 lagen damaststaal met een kern van VG-10 messenstaal; damastafwerking, hardheid circa 61 HRC.",
+   "Handvat van gelamineerd pakkahout.",
+   "Dun uitgeslepen snede, dubbelzijdig geslepen: geschikt voor links- en rechtshandigen.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "54c61652"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Basic\\ officemes\\ 13,5\\ cm\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Basic Damascus officemes, lemmet van 13,5 cm.",
+   "Officemes voor nauwkeurig snijwerk: groenten schoonmaken, fruit schillen, kleinere ingrediënten fijnsnijden.",
+   "Lemmet van 37 lagen damaststaal met een kern van VG-10 messenstaal; damastafwerking, hardheid circa 61 HRC.",
+   "Handvat van gelamineerd pakkahout.",
+   "Dun uitgeslepen snede, dubbelzijdig geslepen: geschikt voor links- en rechtshandigen.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "cfcadb6d"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Basic\\ officemes\\ 13,5\\ cm\\ messenstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Basic officemes, lemmet van 13,5 cm, totale lengte 24,5 cm; voor het snijden en schillen van groenten en fruit.",
+   "Tojiro Basic: lemmet van VG10-staal; heft van dunne lagen pakkahout, vastgezet met roestvrijstalen nagels.",
+   "Heft ligt natuurlijk in de hand, is goed waterafstotend en zeer hygiënisch.",
+   "Op het lemmet staan Japanse tekens; Basic-collectie van het Japanse messenmerk Tojiro.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ca357518"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lemmetlengte",
+    "websiteSays": "Naam en tekst 13,5 cm; spec Lengte lemmet: 13 cm",
+    "note": "Waarschijnlijk afronding; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Basic\\ Santoku\\ 17\\ cm\\ Damascus\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Basic Damascus Santoku, lemmet van 17 cm; lemmet van VG10 Damascus staal, heft van gelamineerd pakkahout.",
+   "Santoku vertaalt uit het Japans naar drie deugden (vlees, vis en groenten): een alleskunner in de keuken.",
+   "Rechte rug en licht gebogen snede: geschikt voor hak- en wiegbewegingen.",
+   "Dun uitgeslepen lemmet voor nauwkeurig en efficiënt snijden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3f37bfb1"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Basic\\ Santoku\\ mes\\ 17\\ cm\\ messenstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Basic Santoku, lemmet van 17 cm, totale lengte 28,5 cm; voor het snijden van verschillende soorten etenswaren.",
+   "Tojiro Basic: lemmet van VG10-staal; heft van dunne lagen pakkahout, vastgezet met roestvrijstalen nagels.",
+   "Heft ligt natuurlijk in de hand, is goed waterafstotend en zeer hygiënisch.",
+   "Op het lemmet staan Japanse tekens; Basic-collectie van het Japanse messenmerk Tojiro.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7ad2fe7f"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ wetsteen\\ 8000"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Professional slijpsteen korrel 8000: voor het uiterst fijne naslijpen en polijsten van messen.",
+   "Aluminiumoxide; afmeting 26,5 x 8 x 4 cm, gewicht 835 gram; geleverd met een antislipplatform.",
+   "Steen vooraf in water weken; als afwerkingsstap gebruiken na stenen met lagere korrel (zoals 1000, 3000 of 4000).",
+   "Mes onder een constante hoek over de steen bewegen (doorgaans 15 tot 20 graden voor Japanse messen).",
+   "Afwassen met water."
+  ],
+  "keys": [
+   "ecf0ba01"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec Materiaal",
+    "websiteSays": "keramiek",
+    "note": "De tekst noemt aluminiumoxide; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ combinatie\\ wetsteen\\ korrel\\ 1000\\ en\\ 3000",
+   "Tojiro\\ combinatie\\ wetsteen\\ korrel\\ 220\\ en\\ 1000"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro combinatie-wetsteen met een grove en een fijne zijde (de korrels staan in de productnaam); voor grof én fijn slijpen en polijsten van messen.",
+   "Gemaakt van siliciumcarbide en gefuseerd aluminiumoxide; ontworpen om messen op Japanse wijze te slijpen en te polijsten.",
+   "Voor gebruik elke keer 10 tot 15 minuten onder water laten staan; tijdens het slijpen altijd een dun laagje water op de steen houden.",
+   "Geschikt voor eenzijdig én tweezijdig geslepen messen."
+  ],
+  "keys": [
+   "3e5d89e2"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP\\-37\\ koksmes\\ 18\\ cm\\ 37\\-laags\\ damaststaal",
+   "Tojiro\\ DP\\-37\\ koksmes\\ 24\\ cm\\ 37\\-laags\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP-37 koksmes (maat in de productnaam); voor groenten, fruit, vlees of vis tijdens de voorbereidingen.",
+   "Gesmeed van 37 lagen staal met een kern van zeer hard VG10 kobaltstaal (hardheid 60 HRC), aan weerszijden omgeven door 36 lagen staal in verschillende hardheden.",
+   "Modern heft naar westers voorbeeld, met drie klinknagels aan de doorlopende angel; reinigen met warm water en afwasmiddel.",
+   "Heft van 'eco-wood' (composiet van houtvezels en silicone), duurzaam en bestand tegen stoten of breken."
+  ],
+  "keys": [
+   "5dee620a"
+  ],
+  "mismatches": [
+   {
+    "topic": "Heft",
+    "websiteSays": "Spec Materiaal handgreep: Micarta; tekst: heft van 'eco-wood'",
+    "note": "Controleer het heftmateriaal; in de bullets staat het materiaal uit de tekst."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP\\-37\\ Nakirimes\\ 16,5\\ cm\\ 37\\-laags\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP-37 Nakiri, lemmet van 16,5 cm, totale lengte 29,5 cm; Japans groentemes voor flinterdunne plakken en juliennes.",
+   "De rechte, bijna vierkante vorm maakt contact over de hele lengte met de snijplank, zodat gesneden groenten (prei, bosui, tomaat, paprika) niet aan elkaar blijven hangen.",
+   "Gesmeed van 37 lagen staal met een kern van zeer hard VG10 kobaltstaal (hardheid 60 HRC), aan weerszijden omgeven door 36 lagen staal in verschillende hardheden.",
+   "Modern heft naar westers voorbeeld, met drie klinknagels aan de doorlopende angel; reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9bcce9a5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lemmetlengte",
+    "websiteSays": "Naam en tekst 16,5 cm; spec Lengte lemmet: 16 cm",
+    "note": "Waarschijnlijk afronding; controleer."
+   },
+   {
+    "topic": "Heft",
+    "websiteSays": "Spec Materiaal handgreep: Micarta; tekst: heft van 'eco-wood'",
+    "note": "Controleer het heftmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP\\-37\\ Santokumes\\ 17\\ cm\\ 37\\-laags\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP-37 Santoku, lemmet van 17 cm, totale lengte 29,5 cm; Santoku is Japans voor drie deugden: vlees, vis en groenten.",
+   "Relatief rechte vorm van het lemmet: veel contact met de snijplank, makkelijk voor dunne groentejuliennes.",
+   "Gesmeed van 37 lagen staal met een kern van zeer hard VG10 kobaltstaal (hardheid 60 HRC), aan weerszijden omgeven door 36 lagen staal in verschillende hardheden.",
+   "Modern heft naar westers voorbeeld, met drie klinknagels aan de doorlopende angel; reinigen met warm water en afwasmiddel.",
+   "Heft van 'eco-wood' (composiet van houtvezels en silicone)."
+  ],
+  "keys": [
+   "860f1a6e"
+  ],
+  "mismatches": [
+   {
+    "topic": "Heft",
+    "websiteSays": "Spec Materiaal handgreep: POM kunststof (schalen); tekst: heft van 'eco-wood'",
+    "note": "Controleer het heftmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP\\-37\\ vleesmes\\ 27\\ cm\\ 37\\-laags\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP-37 vleesmes, lemmet van 27 cm, totale lengte 40 cm; voor het snijden van zowel rauw als gaar vlees.",
+   "Lang, recht lemmet: snijden met een heen-en-weer gaande beweging geeft nette plakken vlees.",
+   "Gesmeed van 37 lagen staal met een kern van zeer hard VG10 kobaltstaal (hardheid 60 HRC), aan weerszijden omgeven door 36 lagen staal in verschillende hardheden.",
+   "Modern heft naar westers voorbeeld, met drie klinknagels aan de doorlopende angel; reinigen met warm water en afwasmiddel.",
+   "Heft van 'eco-wood' (composiet van houtvezels en silicone)."
+  ],
+  "keys": [
+   "2da9a12c"
+  ],
+  "mismatches": [
+   {
+    "topic": "Heft",
+    "websiteSays": "Spec Materiaal handgreep: Micarta; tekst: heft van 'eco-wood'",
+    "note": "Controleer het heftmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP3\\ Kiritsuke\\ koksmes\\ 16\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP3 Bunka koksmes, lemmet van 16 cm, kern van VG-10 messenstaal; full tang lemmet, hardheid 60 HRC.",
+   "Bunka: veelzijdig Japans keukenmes met een spits toelopende K-tip; voor vlees, vis, groenten en kruiden.",
+   "Handvat van ECO-Wood (gelamineerd materiaal). DP3-serie wordt in Japan vervaardigd (Decarburization Prevention-technologie).",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "844ef306"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: type mes",
+    "websiteSays": "Naam: \"Kiritsuke koksmes 16 cm\"; tekst: \"Tojiro DP3 Bunka koksmes\"",
+    "note": "Controleer of het een Kiritsuke of een Bunka is."
+   },
+   {
+    "topic": "Heft",
+    "websiteSays": "Spec Materiaal handgreep: Micarta; tekst: ECO-Wood",
+    "note": "Controleer het heftmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP3\\ Kiritsuke\\ mes\\ 21\\ cm\\ 3\\-laags\\ VG10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP3 Kiritsuke, lemmet van 21 cm, totale lengte 34,5 cm; voor groenten, vlees en vis; door de vorm van de punt ook voor fijner snijwerk.",
+   "Gesmeed uit drielaags staal: kern van hard VG10 kobaltstaal (60 HRC), aan weerszijden omgeven door roestvast chroomstaal.",
+   "Heft van 'eco-wood' (composiet van houtvezels en silicone), met drie klinknagels aan de doorlopende angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "cf05b974"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec Lengte",
+    "websiteSays": "21 cm, 34,5 cm",
+    "note": "Twee maten in één spec: lemmet en totale lengte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP3\\ koksmes\\ 18\\ cm\\ 3\\-laags\\ kobaltstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP3 koksmes, lemmet van 18 cm, totale lengte 31 cm; voor groenten, fruit, vlees of vis tijdens de voorbereidingen.",
+   "Gesmeed uit drielaags staal: kern van hard VG10 kobaltstaal (60 HRC), aan weerszijden omgeven door roestvast chroomstaal.",
+   "Heft van 'eco-wood' (composiet van houtvezels en silicone), met drie klinknagels aan de doorlopende angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d09ece70"
+  ],
+  "mismatches": [
+   {
+    "topic": "Heft",
+    "websiteSays": "Spec Materiaal handgreep: Micarta; tekst: heft van 'eco-wood'",
+    "note": "Controleer het heftmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP3\\ koksmes\\ Deba\\ 17\\ cm\\ 3\\-laags\\ VG10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP3 Deba, lemmet van 17 cm, totale lengte 30 cm; voor het uitbenen en fileren van vis en gevogelte.",
+   "Gesmeed uit drielaags staal: kern van hard VG10 kobaltstaal (60 HRC), aan weerszijden roestvast chroomstaal.",
+   "Greep van houtcomposiet, vastgezet met drie nagels; het messenstaal loopt door tot de angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "61a0d5a2"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP3\\ Santokumes\\ 17\\ cm\\ 3\\-laags\\ kobaltstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP3 Santoku, lemmet van 17 cm, totale lengte 29,5 cm; Santoku is Japans voor drie deugden: vlees, vis en groenten.",
+   "Gesmeed uit drielaags staal: kern van hard VG10 kobaltstaal (60 HRC), aan weerszijden omgeven door roestvast chroomstaal.",
+   "Heft van 'eco-wood' (composiet van houtvezels en silicone), met drie klinknagels aan de doorlopende angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "33495fb1"
+  ],
+  "mismatches": [
+   {
+    "topic": "Heft",
+    "websiteSays": "Spec Materiaal handgreep: Micarta; tekst: heft van 'eco-wood'",
+    "note": "Controleer het heftmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP3\\ Santokumes\\ 21\\ cm\\ 3\\-laags\\ VG\\-10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP3 Santoku, lemmet van 21 cm, kern van VG-10 messenstaal in drielaagse constructie; hardheid circa 60 HRC.",
+   "Santoku: veelzijdig Japans keukenmes voor vlees, vis en groenten; full tang constructie.",
+   "Ergonomisch handvat van versterkt gelamineerd materiaal. DP3-serie wordt in Japan vervaardigd (Decarburization Prevention-technologie).",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "af6d6e52"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP3\\ uitbeenmes\\ 15\\ cm\\ 3\\-laags\\ kobaltstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP3 uitbeenmes uit de DP3-serie; de achteroverhellende curve en het smalle lemmet geven volledige controle bij het uitbenen.",
+   "Gesmeed uit drielaags staal: kern van hard VG10 kobaltstaal (60 HRC), aan weerszijden omgeven door roestvast chroomstaal.",
+   "Heft van 'eco-wood' (composiet van houtvezels en silicone), met drie klinknagels aan de doorlopende angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "02b649c5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam en tekst",
+    "websiteSays": "Naam: \"uitbeenmes 15 cm\", spec Lengte 15 cm; tekst: \"Tojiro DP3 schilmes heeft een 9 cm lang lemmet\", totale lengte 20,5 cm",
+    "note": "De tekst noemt het product eerst een schilmes met lemmet van 9 cm; controleer maat en type. Maat daarom niet in de bullets."
+   },
+   {
+    "topic": "Heft",
+    "websiteSays": "Spec Materiaal handgreep: Micarta; tekst: heft van 'eco-wood'",
+    "note": "Controleer het heftmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ DP3\\ vleesmes\\ 24\\ cm\\ 3\\-laags\\ kobaltstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro DP3 vleesmes, lemmet van 24 cm, totale lengte 36,5 cm; voor het snijden of trancheren van rauw en gegaard vlees.",
+   "Lang recht lemmet: lange slagen voor mooie gladde plakken.",
+   "Gesmeed uit drielaags staal: kern van hard VG10 kobaltstaal (60 HRC), aan weerszijden omgeven door roestvast chroomstaal.",
+   "Heft van 'eco-wood' (composiet van houtvezels en silicone), met drie klinknagels aan de doorlopende angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8f2e7ba0"
+  ],
+  "mismatches": [
+   {
+    "topic": "Heft",
+    "websiteSays": "Spec Materiaal handgreep: Micarta; tekst: heft van 'eco-wood'",
+    "note": "Controleer het heftmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Flash\\ koksmes\\ 16\\ cm\\ 63\\-laags\\ damaststaal",
+   "Tojiro\\ Flash\\ koksmes\\ 18\\ cm\\ 63\\-laags\\ damaststaal",
+   "Tojiro\\ Flash\\ koksmes\\ 21\\ cm\\ 63\\-laags\\ damaststaal",
+   "Tojiro\\ Flash\\ koksmes\\ 24\\ cm\\ 63\\-laags\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Flash koksmes van 63-laags damaststaal (maat in de productnaam); voor groenten, fruit, vlees en vis.",
+   "Door de ronding van het lemmet is een wiegende beweging eenvoudig.",
+   "Tojiro Flash: lemmet van damast met een kern van VG-10 kobaltstaal (hardheid 60 HRC).",
+   "Micarta heft met roestvaststalen inleg voor de balans",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a41ff4d4"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Flash\\ Santokumes\\ 18\\ cm\\ 63\\-laags\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Flash Santoku, lemmet van 18 cm, totale lengte 31,5 cm; 63-laags damast; voor vlees, vis en groenten.",
+   "Tojiro Flash: lemmet van damast met een kern van VG-10 kobaltstaal (hardheid 60 HRC).",
+   "Micarta heft met roestvaststalen inleg voor de balans",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6da3de72"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Flash\\ uitbeenmes\\ 15\\ cm\\ 63\\-laags\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Flash uitbeenmes, lemmet van 15 cm, totale lengte 30 cm; 63-laags damast; voor het uitbenen van vlees, wild en gevogelte.",
+   "Smal lemmet: u draait gemakkelijk om botten en gewrichten, met minimaal verlies van vlees.",
+   "Tojiro Flash: lemmet van damast met een kern van VG-10 kobaltstaal (hardheid 60 HRC).",
+   "Micarta heft met roestvaststalen inleg voor de balans",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "293ba70f"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Flash\\ universeelmes\\ 15\\ cm\\ VG\\-10\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Flash universeel mes (pettymes), lemmet van 15 cm; 63 lagen damaststaal met kern van VG-10 kobaltmessenstaal; hardheid circa 60 ±1 HRC.",
+   "Voor het schillen en snijden van fruit, groenten en kleinere ingrediënten; wordt ook vaak als kleiner koksmes gebruikt.",
+   "Dun uitgeslepen, dubbelzijdig geslepen snede.",
+   "Micarta handvat met roestvaststalen inleg en roestvaststalen bolster.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "8ef2ffd8"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Flash\\ vleesmes\\ 21\\ cm\\ 63\\-laags\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Flash vleesmes, lemmet van 21 cm, totale lengte 35 cm; 63-laags damast; voor zowel rauw als gaar vlees.",
+   "Lang recht lemmet voor nette plakken met een heen-en-weer gaande beweging.",
+   "Tojiro Flash: lemmet van damast met een kern van VG-10 kobaltstaal (hardheid 60 HRC).",
+   "Micarta heft met roestvaststalen inleg voor de balans",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6a13d871"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Gai\\ Santoku\\ mes\\ 17\\ cm\\ messenstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Gai Santoku, lemmet van 17 cm, totale lengte 29,5 cm; voor groenten, fruit, vlees of vis.",
+   "Lemmet van VG10-staal bekleed met 37 lagen Damascus-staal; heft van micarta-kunststof met roestvrijstalen nagels.",
+   "Gai betekent 'pantser' in het Japans: verwijzing naar het pantserachtige heft.",
+   "Zeer scherp geslepen; op het lemmet staan Japanse tekens.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "213203b3"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ messentas\\ voor\\ 5\\ messen\\ canvas"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messentas van stevig canvas voor vijf messen (lemmetlengte tot 30 cm); ook geschikt voor een slijpstaaf of pincet.",
+   "Aparte vakken beschermen de messen en houden ze uit elkaar; op te rollen en te sluiten met banden.",
+   "Breedte 44 cm; licht van gewicht en eenvoudig mee te nemen.",
+   "Schoonhouden met een vochtige doek."
+  ],
+  "keys": [
+   "7095081d"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lengte",
+    "websiteSays": "Spec Lengte: 54 cm; tekst: 54,5 centimeter",
+    "note": "Controleer de maat."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ MV\\ Series\\ Deba\\ /\\ Kliefer\\ mes\\ 16,5\\ cm"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro MV Series Deba / Kliefer, lemmet van 16,5 cm; voor het uitbenen en fileren van vis en gevogelte.",
+   "Tojiro MV: molybdeen-vanadiumstaal; roestwerend en daardoor gemakkelijker in onderhoud dan carbon- of damaststaal.",
+   "Lemmet is eenzijdig geslepen, alleen geschikt voor rechtshandig gebruik.",
+   "Heft van lichtgekleurd magnoliahout (waterbestendig), krop/manchet van synthetische hars.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "53c78d23"
+  ],
+  "mismatches": [
+   {
+    "topic": "Heft",
+    "websiteSays": "Spec Materiaal handgreep: Elastomeer kunststof; tekst: magnoliahout met krop van synthetische hars",
+    "note": "Controleer het heftmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ MV\\ Series\\ Deba\\ koksmes\\ 18\\ cm"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro MV Series Deba, lemmet van 18 cm; voor het uitbenen en fileren van vis en gevogelte.",
+   "Tojiro MV: molybdeen-vanadiumstaal; roestwerend en daardoor gemakkelijker in onderhoud dan carbon- of damaststaal.",
+   "Lemmet is eenzijdig geslepen, alleen geschikt voor rechtshandig gebruik.",
+   "Heft van lichtgekleurd magnoliahout (waterbestendig), krop/manchet van synthetische hars.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "533409d6"
+  ],
+  "mismatches": [
+   {
+    "topic": "Heft",
+    "websiteSays": "Spec Materiaal handgreep: Elastomeer kunststof; tekst: magnoliahout met krop van synthetische hars",
+    "note": "Controleer het heftmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ MV\\ Yanagi\\ Sashimimes\\ 30\\ cm\\ messenstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro MV Series Yanagi-Sashimi, lemmet van 30 cm; voor bereiding en verwerking van vis.",
+   "Tojiro MV: molybdeen-vanadiumstaal; roestwerend en daardoor gemakkelijker in onderhoud dan carbon- of damaststaal.",
+   "Lemmet is eenzijdig geslepen, alleen geschikt voor rechtshandig gebruik.",
+   "Heft van lichtgekleurd magnoliahout (waterbestendig), krop/manchet van synthetische hars.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7fbb129d"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Powdered\\ High\\ Speed\\ Steel\\ koksmes\\ 21\\ cm\\ poederstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Powdered High Speed Steel koksmes, lemmet van 21 cm, totale lengte 33,5 cm; voor groenten, fruit, vlees of vis.",
+   "Drielaags staal: kern van extreem hard poederstaal, omgeven door een chroomstaallegering die het lemmet tegen corrosie beschermt.",
+   "Poederstaal: niet uit één stuk gesmeed maar gesinterd uit zeer fijne metaaldeeltjes; resultaat is een zeer nauwkeurig gevormd en extreem hard mes.",
+   "Zwart heft van 'eco-wood' (composiet van houtvezels en silicone), met drie klinknagels aan de doorlopende angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "49b88ca5"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Powdered\\ High\\ Speed\\ Steel\\ koksmes\\ 24\\ cm\\ poederstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Powdered High Speed Steel koksmes, lemmet van 24 cm, totale lengte 36,5 cm; voor groenten, fruit, vlees of vis; door de lengte verwerkt u snel grote hoeveelheden.",
+   "Drielaags staal: kern van extreem hard poederstaal, omgeven door een chroomstaallegering die het lemmet tegen corrosie beschermt.",
+   "Poederstaal: niet uit één stuk gesmeed maar gesinterd uit zeer fijne metaaldeeltjes; resultaat is een zeer nauwkeurig gevormd en extreem hard mes.",
+   "Zwart heft van 'eco-wood' (composiet van houtvezels en silicone), met drie klinknagels aan de doorlopende angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "316e11d6"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Powdered\\ High\\ Speed\\ Steel\\ Santokumes\\ 17\\ cm\\ poederstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Powdered High Speed Steel Santoku, lemmet van 17 cm, totale lengte 29,5 cm; Santoku vertaalt uit het Japans naar drie deugden (vlees, vis en groenten).",
+   "Drielaags staal: kern van extreem hard poederstaal, omgeven door een chroomstaallegering die het lemmet tegen corrosie beschermt.",
+   "Poederstaal: niet uit één stuk gesmeed maar gesinterd uit zeer fijne metaaldeeltjes; resultaat is een zeer nauwkeurig gevormd en extreem hard mes.",
+   "Zwart heft van 'eco-wood' (composiet van houtvezels en silicone), met drie klinknagels aan de doorlopende angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8cb8c15d"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Powdered\\ High\\ Speed\\ Steel\\ universeel\\ mes\\ 15\\ cm\\ poederstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Powdered High Speed Steel universeel mes, lemmet van 15 cm, totale lengte 26 cm; smal lemmet voor kleine snijwerkzaamheden zoals het schoonmaken en schillen van groenten.",
+   "Drielaags staal: kern van extreem hard poederstaal, omgeven door een chroomstaallegering die het lemmet tegen corrosie beschermt.",
+   "Poederstaal: niet uit één stuk gesmeed maar gesinterd uit zeer fijne metaaldeeltjes; resultaat is een zeer nauwkeurig gevormd en extreem hard mes.",
+   "Zwart heft van 'eco-wood' (composiet van houtvezels en silicone), met drie klinknagels aan de doorlopende angel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "bf768a04"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ koksmes\\ 18\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro koksmes, lemmet van 18 cm; veelzijdig voor vlees, vis, groenten en kruiden.",
+   "Tojiro Pro: kern van VG-10 messenstaal met roestvaststalen buitenlagen (drielaags); hardheid 60 ±1 HRC.",
+   "Volledig roestvaststalen handvat (18/8) met Tornado-patroon voor extra grip, ook als het nat of vettig is; naadloze overgang lemmet-handvat.",
+   "Dubbelzijdig geslepen: voor links- en rechtshandigen. Pro-serie wordt in Japan vervaardigd, ontworpen voor intensief dagelijks gebruik.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "d582c254"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ koksmes\\ 21\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro koksmes, lemmet van 21 cm; veelzijdig voor vlees, vis, groenten en kruiden.",
+   "Tojiro Pro: kern van VG-10 messenstaal met roestvaststalen buitenlagen (drielaags); hardheid 60 ±1 HRC.",
+   "Volledig roestvaststalen handvat (18/8) met Tornado-patroon voor extra grip, ook als het nat of vettig is; naadloze overgang lemmet-handvat.",
+   "Dubbelzijdig geslepen: voor links- en rechtshandigen. Pro-serie wordt in Japan vervaardigd, ontworpen voor intensief dagelijks gebruik.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "42906716"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ koksmes\\ 24\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro koksmes, lemmet van 24 cm; voor grotere ingrediënten en lange, vloeiende snijbewegingen.",
+   "Tojiro Pro: kern van VG-10 messenstaal met roestvaststalen buitenlagen (drielaags); hardheid 60 ±1 HRC.",
+   "Volledig roestvaststalen handvat (18/8) met Tornado-patroon voor extra grip, ook als het nat of vettig is; naadloze overgang lemmet-handvat.",
+   "Dubbelzijdig geslepen: voor links- en rechtshandigen. Pro-serie wordt in Japan vervaardigd, ontworpen voor intensief dagelijks gebruik.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "79e60ec2"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ Nakirimes\\ 16,5\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro Nakiri, lemmet van 16,5 cm; traditioneel Japans groentemes met recht lemmet voor snijden, hakken en fijnsnijden van groenten en kruiden.",
+   "Tojiro Pro: kern van VG-10 messenstaal met roestvaststalen buitenlagen (drielaags); hardheid 60 ±1 HRC.",
+   "Volledig roestvaststalen handvat (18/8) met Tornado-patroon voor extra grip, ook als het nat of vettig is; naadloze overgang lemmet-handvat.",
+   "Dubbelzijdig geslepen: voor links- en rechtshandigen. Pro-serie wordt in Japan vervaardigd, ontworpen voor intensief dagelijks gebruik.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "1459dd60"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ officemes\\ 12\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro officemes, lemmet van 12 cm; voor nauwkeurig snijwerk: groenten schoonmaken, fruit schillen, kleinere ingrediënten fijnsnijden.",
+   "Tojiro Pro: kern van VG-10 messenstaal met roestvaststalen buitenlagen (drielaags); hardheid 60 ±1 HRC.",
+   "Volledig roestvaststalen handvat (18/8) met Tornado-patroon voor extra grip, ook als het nat of vettig is; naadloze overgang lemmet-handvat.",
+   "Dubbelzijdig geslepen: voor links- en rechtshandigen. Pro-serie wordt in Japan vervaardigd, ontworpen voor intensief dagelijks gebruik.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "4c30691d"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ Santokumes\\ 17\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro Santoku, lemmet van 17 cm; veelzijdig Japans keukenmes voor vlees, vis en groenten.",
+   "Tojiro Pro: kern van VG-10 messenstaal met roestvaststalen buitenlagen (drielaags); hardheid 60 ±1 HRC.",
+   "Volledig roestvaststalen handvat (18/8) met Tornado-patroon voor extra grip, ook als het nat of vettig is; naadloze overgang lemmet-handvat.",
+   "Dubbelzijdig geslepen: voor links- en rechtshandigen. Pro-serie wordt in Japan vervaardigd, ontworpen voor intensief dagelijks gebruik.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "68cb1757"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ universeelmes\\ 15\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro universeel mes, lemmet van 15 cm; voor uiteenlopende dagelijkse snijtaken met groenten, fruit, vlees en kleinere ingrediënten.",
+   "Tojiro Pro: kern van VG-10 messenstaal met roestvaststalen buitenlagen (drielaags); hardheid 60 ±1 HRC.",
+   "Volledig roestvaststalen handvat (18/8) met Tornado-patroon voor extra grip, ook als het nat of vettig is; naadloze overgang lemmet-handvat.",
+   "Dubbelzijdig geslepen: voor links- en rechtshandigen. Pro-serie wordt in Japan vervaardigd, ontworpen voor intensief dagelijks gebruik.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "fe940653"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ vleesmes\\ 24\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro vleesmes, lemmet van 24 cm; lang, smal lemmet voor het nauwkeurig snijden en trancheren van vlees en gevogelte.",
+   "Tojiro Pro: kern van VG-10 messenstaal met roestvaststalen buitenlagen (drielaags); hardheid 60 ±1 HRC.",
+   "Volledig roestvaststalen handvat (18/8) met Tornado-patroon voor extra grip, ook als het nat of vettig is; naadloze overgang lemmet-handvat.",
+   "Dubbelzijdig geslepen: voor links- en rechtshandigen. Pro-serie wordt in Japan vervaardigd, ontworpen voor intensief dagelijks gebruik.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "4e4775ef"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ vleesmes\\ 27\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro vleesmes, lemmet van 27 cm; lang, smal lemmet voor het nauwkeurig snijden en trancheren van vlees en gevogelte; extra lang, geschikt voor grotere stukken vlees.",
+   "Tojiro Pro: kern van VG-10 messenstaal met roestvaststalen buitenlagen (drielaags); hardheid 60 ±1 HRC.",
+   "Volledig roestvaststalen handvat (18/8) met Tornado-patroon voor extra grip, ook als het nat of vettig is; naadloze overgang lemmet-handvat.",
+   "Dubbelzijdig geslepen: voor links- en rechtshandigen. Pro-serie wordt in Japan vervaardigd, ontworpen voor intensief dagelijks gebruik.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "ba4427e3"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\-Pro\\ wetsteenhouder\\ 31\\ \\-\\ 62\\ cm\\ rvs\\ glans"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro wetsteenhouder van glanzend roestvrij staal; uitschuifbaar, te plaatsen boven de gootsteen (gootsteenbreedte 31 tot 62 cm).",
+   "Voor een losse wetsteen met een lengte van 17 tot 26,5 cm; vastklemmen met de meegeleverde schroefklemmen.",
+   "Houdt het werkblad schoon van slijpsel; de wetsteen kan eenvoudig nat gehouden worden onder de kraan.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "93c2ccea"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ Yanagi\\ sashimimes\\ 24\\ cm\\ SD\\ Molybdenum\\ Vanadium"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro Yanagi sashimimes, lemmet van 24 cm, totale lengte 38 cm; lemmet van molybdeen-vanadiumstaal.",
+   "Yanagi: traditioneel mes van de Japanse sushi-chef voor het snijden van rauwe vis voor sashimi en sushi.",
+   "Lang, smal, enkelzijdig geslepen lemmet voor uiterst precieze en gladde snedes zonder het product te beschadigen.",
+   "Naadloos roestvrijstalen heft; gebruiken op een snijplank van hout, composiet of kunststof. Reinigen met warm water en afwasmiddel en mes zorgvuldig afdrogen."
+  ],
+  "keys": [
+   "b6984b18"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec lemmet",
+    "websiteSays": "Spec Materiaal lemmet: VG10 + 13-chroom roestvast staal (DP clad); tekst: lemmet van molybdeen-vanadiumstaal",
+    "note": "Controleer het lemmetmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ Yanagi\\ sashimimes\\ 30\\ cm"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro Yanagi sashimimes, lemmet van 30 cm, totale lengte 44 cm; lemmet van molybdeen-vanadiumstaal.",
+   "Yanagi: traditioneel mes van de Japanse sushi-chef voor het snijden van rauwe vis voor sashimi en sushi.",
+   "Lang, smal, enkelzijdig geslepen lemmet voor uiterst precieze en gladde snedes zonder het product te beschadigen.",
+   "Naadloos roestvrijstalen heft; gebruiken op een snijplank van hout, composiet of kunststof. Reinigen met warm water en afwasmiddel en mes zorgvuldig afdrogen."
+  ],
+  "keys": [
+   "79acea94"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec lemmet",
+    "websiteSays": "Spec Materiaal lemmet: VG10 + 13-chroom roestvast staal (DP clad); tekst: lemmet van molybdeen-vanadiumstaal",
+    "note": "Controleer het lemmetmateriaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Pro\\ Yanagi\\ Sashimimes\\ 27\\ cm\\ messenstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Pro Yanagi sashimimes, lemmet van 27 cm, van molybdeen-vanadiumstaal (slijtvast, corrosiebestendig, eenvoudig te onderhouden).",
+   "Yanagi (ook Yanagiba): traditioneel Japans sashimimes voor rauwe vis, sushi en sashimi.",
+   "Enkelzijdige slijping, speciaal voor rechtshandige gebruikers; lange, vloeiende snijbewegingen.",
+   "Volledig roestvaststalen handvat (18/8) met Tornado-patroon voor stevige grip, ook met natte of vettige handen."
+  ],
+  "keys": [
+   "70ededa5"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Professional\\ wetsteen\\ 1000"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Professional slijpsteen korrel 1000: middelgrove korrel om botte messen weer een nieuwe snede te geven en messen regelmatig scherp te houden, ook bij intensief gebruik.",
+   "Gemaakt van aluminiumoxide; afmeting 21,5 x 7,5 x 6,5 cm, gewicht circa 1955 gram.",
+   "Steen vooraf in water weken. Mes onder een constante hoek over de steen bewegen (doorgaans 15 tot 20 graden voor Japanse messen).",
+   "Afwassen met water."
+  ],
+  "keys": [
+   "a225a6a2"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec Materiaal",
+    "websiteSays": "keramiek",
+    "note": "De tekst noemt aluminiumoxide; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Professional\\ wetsteen\\ 220"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Professional slijpsteen korrel 220: grove korrel voor het herstellen van beschadigde of sterk botte messen; verwijdert snel materiaal en vormt de basis van een nieuwe snede.",
+   "Gemaakt van siliciumcarbide; afmeting 21 x 8 x 5,5 cm, gewicht circa 1460 gram.",
+   "Steen vooraf in water weken. Mes onder een constante hoek over de steen bewegen (doorgaans 15 tot 20 graden voor Japanse messen).",
+   "Afwassen met water."
+  ],
+  "keys": [
+   "f6b0b265"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec Materiaal",
+    "websiteSays": "keramiek",
+    "note": "De tekst noemt siliciumcarbide; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Professional\\ wetsteen\\ 4000"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Professional slijpsteen korrel 4000: fijne korrel voor het fijne naslijpen en afwerken van messen, na het voorbewerken met grovere stenen.",
+   "Gemaakt van aluminiumoxide; afmeting 26,5 x 8 x 4 cm, gewicht 880 gram; geleverd met een antislipplatform.",
+   "Steen vooraf in water weken. Mes onder een constante hoek over de steen bewegen (doorgaans 15 tot 20 graden voor Japanse messen).",
+   "Afwassen met water."
+  ],
+  "keys": [
+   "2df5193b"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec Materiaal",
+    "websiteSays": "keramiek",
+    "note": "De tekst noemt aluminiumoxide; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Reppu\\ Kiritsuke\\ koksmes\\ 15\\ cm\\ SG2\\ staal",
+   "Tojiro\\ Reppu\\ Kiritsuke\\ koksmes\\ 17\\ cm\\ SG2\\ staal",
+   "Tojiro\\ Reppu\\ Kiritsuke\\ koksmes\\ 21\\ cm\\ SG2\\ staal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Reppu Kiritsuke koksmes (maat in de productnaam); Kiritsuke: veelzijdig Japans keukenmes met K-tip voor vlees, vis, groenten en kruiden.",
+   "Kern van SG2 poedermessenstaal met roestvaststalen buitenlagen (drielaagse San Mai-constructie); hardheid 62 HRC.",
+   "Gestraalde afwerking die contrasteert met het gepolijste golvende patroon langs de snede.",
+   "Achthoekig Japans handvat van teakhout (van nature goed bestand tegen vocht).",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "30ba9633"
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Shippu\\ Black\\ koksmes\\ 24\\ cm\\ damaststaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Shippu Black koksmes, lemmet van 24 cm; voor vlees, vis en groenten.",
+   "Lemmet van 63-laags hoogglans damaststaal met zwarte nerfstructuur; hardheid 60 HRC; zeer scherp geslepen.",
+   "Op het lemmet staan Japanse tekens; heft strak en modern vormgegeven.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e784b0a5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Heft",
+    "websiteSays": "Tekst: donker hout / kastanjehout met krop van waterbuffelhoorn; spec: Magnolia hout + buffelhoorn ferrule",
+    "note": "Controleer de houtsoort van het heft; niet in de bullets genoemd."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Tojiro\\ Zen\\ Black\\ schilmes\\ 9\\ cm\\ kobaltstaal"
+  ],
+  "brandID": "tojiro",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tojiro Zen Black schilmes, lemmet van 9 cm; voor het uit de hand schillen en snijden van fruit en groenten.",
+   "Lemmet met kern van kobaltstaal, bekleed met zachter staal voor meer sterkte en corrosiebestendigheid.",
+   "Heft van donker, gebrand kastanjehout; zeer scherp geslepen; op het lemmet staan Japanse tekens.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "61fb181b"
+  ]
+ }
+]

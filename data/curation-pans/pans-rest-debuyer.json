@@ -1,0 +1,53 @@
+[
+ {
+  "match": [
+   "De\\ Buyer\\ Prima\\ Matera\\ Induction\\ koekenpan\\ ø\\ 24\\ cm\\ koper\\ met\\ gietijzeren\\ greep"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "koper",
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken van diverse ingrediënten.",
+  "bullets": [
+   "Koekenpan, diameter 24 cm, hoogte 4 cm.",
+   "Prima Matera Induction: 90% koper aan de buitenzijde en 10% 18/8 roestvrij staal aan de binnenzijde; koperdikte 2 mm (spec).",
+   "Speciale inductiebodem: geschikt voor gas, elektrisch, keramisch, halogeen en inductie, in tegenstelling tot andere koperen pannen.",
+   "Roestvrijstalen binnenzijde: goede hygiëne en het koper beïnvloedt de smaak niet; ergonomische gietijzeren handgreep.",
+   "Koperen buitenkant verkleurt door gebruik (rustiek uiterlijk); herstellen met koperpoets.",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "24afc7a8"
+  ]
+ },
+ {
+  "match": [
+   "De\\ Buyer\\ Prima\\ Matera\\ Induction\\ kookpan\\ ø\\ 16\\ cm\\ koper\\ met\\ gietijzeren\\ greep"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "koper",
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van diverse ingrediënten.",
+  "bullets": [
+   "Kookpan, diameter 16 cm, inhoud 1,8 liter.",
+   "Prima Matera Induction: 90% koper aan de buitenzijde en 10% 18/8 roestvrij staal aan de binnenzijde; koperdikte 2 mm (spec).",
+   "Speciale inductiebodem: geschikt voor gas, elektrisch, keramisch, halogeen en inductie, in tegenstelling tot andere koperen pannen.",
+   "Roestvrijstalen binnenzijde: goede hygiëne en het koper beïnvloedt de smaak niet; ergonomische gietijzeren handgreep.",
+   "Koperen buitenkant verkleurt door gebruik (rustiek uiterlijk); herstellen met koperpoets.",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "1af7e372"
+  ],
+  "mismatches": [
+   {
+    "topic": "Deksel",
+    "websiteSays": "Tekst: \"kookpan met deksel\"; productnaam noemt geen deksel",
+    "note": "Check of er een deksel bij zit."
+   }
+  ]
+ }
+]

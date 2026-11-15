@@ -1,0 +1,25 @@
+[
+ {
+  "match": [
+   "100%\\ Chef\\ mini\\ paletmes\\ 22\\ cm\\ rvs"
+  ],
+  "brandID": "100chef",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor nauwkeurig werk: dresseren van gerechten, in de moleculaire keuken en bij het decoreren van taarten.",
+  "bullets": [
+   "100% Chef mini paletmes van roestvrij staal; totale lengte 22 cm, blad 12 cm (specificaties).",
+   "Het kleine formaat maakt het geschikt voor nauwkeurig werk.",
+   "Voor het dresseren van gerechten, in de moleculaire keuken en bij het decoreren van taarten.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "d1ff5708"
+  ],
+  "brandName": "100% Chef",
+  "requires": [
+   "moleculaire keuken"
+  ]
+ }
+]

@@ -1,0 +1,24 @@
+[
+ {
+  "match": [
+   "Ihr\\ Bedtime\\ Stories\\ Botermes\\ rvs\\ wit\\ set\\ van\\ 2"
+  ],
+  "brandID": "ihr",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het smeren van boter of andere etenswaren.",
+  "bullets": [
+   "Ihr Bedtime Stories botermes van roestvrij staal met een heft van porselein; set van 2, 12 cm lang.",
+   "Voor het smeren van boter of andere etenswaren.",
+   "Reinigen met de hand."
+  ],
+  "keys": [
+   "b9f66785"
+  ],
+  "brandName": "Ihr",
+  "requires": [
+   "porselein"
+  ]
+ }
+]

@@ -1,0 +1,297 @@
+[
+ {
+  "match": [
+   "Pateru\\ Aogami\\ 2\\ Santoku\\ 16,5\\ cm\\ carbonstaal"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pateru Aogami 2 Santoku, lemmet van 16,5 cm.",
+   "Kern van Aogami No. 2 koolstofstaal, aan beide zijden bekleed met roestvast staal (drielaagse San Mai-constructie).",
+   "Hardheid 60-62 HRC; donkere kurouchi-afwerking met gehamerd tsuchime-patroon.",
+   "Achthoekig wa-handvat van pakkahout.",
+   "Santoku: veelzijdig Japans keukenmes voor vlees, vis en groenten.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen; door het hoge koolstofgehalte kan de snede oxideren (normaal bij deze staalsoort)."
+  ],
+  "keys": [
+   "ac3584da"
+  ],
+  "brandName": "Japanese Knife Company",
+  "mismatches": [
+   {
+    "topic": "Specificaties: totale lengte",
+    "websiteSays": "Totale lengte: 16,5 cm (gelijk aan de lemmetlengte in de tekst)",
+    "note": "Controleer of de totale lengte klopt; de tekst noemt alleen de lemmetlengte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Pateru\\ Aogami\\ 2\\ Sujihiki\\ vleesmes\\ 22,5\\ cm\\ carbonstaal"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pateru Aogami 2 Sujihiki vleesmes, lemmet van 22,5 cm.",
+   "Sujihiki: Japans trancheermes met lang, smal lemmet voor het nauwkeurig snijden van vlees en vis.",
+   "Kern van Aogami No. 2 koolstofstaal, aan beide zijden bekleed met roestvast staal (drielaagse San Mai-constructie).",
+   "Hardheid 60-62 HRC; donkere kurouchi-afwerking met gehamerd tsuchime-patroon.",
+   "Achthoekig wa-handvat van pakkahout.",
+   "Reinigen met warm water en afwasmiddel en direct goed afdrogen; de snede kan oxideren (hoog koolstofgehalte)."
+  ],
+  "keys": [
+   "659103a8"
+  ],
+  "mismatches": [
+   {
+    "topic": "Specificaties: totale lengte",
+    "websiteSays": "Totale lengte: 22,5 cm (gelijk aan de lemmetlengte in de tekst)",
+    "note": "Controleer of de totale lengte klopt; de tekst noemt alleen de lemmetlengte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Pateru\\ officemes\\ 15\\ cm\\ SG\\-2\\ staal"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pateru officemes, lemmet van 15 cm.",
+   "69 lagen damaststaal met een kern van SG2 poedermessenstaal; hardheid 63 ±1 HRC; gepolijste afwerking.",
+   "Achthoekig Japans wa-handvat van olijfhout.",
+   "Voor nauwkeurig snijwerk: groenten schoonmaken, fruit schillen, kleinere ingrediënten fijnsnijden.",
+   "Volgens de pagina vervaardigd in Japan door de Ono Knife Workshop.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "327a4944"
+  ]
+ },
+ {
+  "match": [
+   "Pateru\\ Santoku\\ 18\\ cm\\ SG\\-2\\ staal"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pateru Santoku, lemmet van 18 cm.",
+   "69 lagen damaststaal met een kern van SG2 poedermessenstaal; hardheid 63 ±1 HRC; gepolijste afwerking.",
+   "Achthoekig Japans wa-handvat van olijfhout.",
+   "Santoku: veelzijdig Japans keukenmes voor vlees, vis en groenten.",
+   "Volgens de pagina vervaardigd in Japan door de Ono Knife Workshop.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "a551308c"
+  ]
+ },
+ {
+  "match": [
+   "Pateru\\ Warikomi\\ Gyuto\\ 21\\ cm\\ AUS\\-10"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pateru Warikomi Gyuto (koksmes), lemmet van 21 cm.",
+   "Koksmes: veelzijdig keukenmes voor vlees, vis, groenten en kruiden.",
+   "Kern van AUS-10 roestvast messenstaal, hardheid 61 ±1 HRC.",
+   "Drielaagse Warikomi-constructie; matte afwerking.",
+   "Doorlopend lemmet (full tang) met zwart pakkahouten handvat, bevestigd met drie klinknagels.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "cdf6899c"
+  ]
+ },
+ {
+  "match": [
+   "Pateru\\ Warikomi\\ Nakiri\\ 18\\ cm\\ AUS\\-10"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pateru Warikomi Nakiri, lemmet van 18 cm.",
+   "Nakiri: traditioneel Japans groentemes met recht lemmet voor het snijden, hakken en fijnsnijden van groenten en kruiden.",
+   "Kern van AUS-10 roestvast messenstaal, hardheid 61 ±1 HRC.",
+   "Drielaagse Warikomi-constructie; matte afwerking.",
+   "Doorlopend lemmet (full tang) met zwart pakkahouten handvat, bevestigd met drie klinknagels.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "95803bcf"
+  ]
+ },
+ {
+  "match": [
+   "Pateru\\ Warikomi\\ Petty\\ mes\\ 13,5\\ cm\\ AUS\\-10"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pateru Warikomi Petty (universeel mes), lemmet van 13,5 cm.",
+   "Universeel mes voor uiteenlopende dagelijkse snijtaken met groenten, fruit, vlees en kleinere ingrediënten.",
+   "Kern van AUS-10 roestvast messenstaal, hardheid 61 ±1 HRC.",
+   "Drielaagse Warikomi-constructie; matte afwerking.",
+   "Doorlopend lemmet (full tang) met zwart pakkahouten handvat, bevestigd met drie klinknagels.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "eef6f2cc"
+  ]
+ },
+ {
+  "match": [
+   "Pateru\\ Warikomi\\ Santoku\\ 16,5\\ cm\\ AUS\\-10"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pateru Warikomi Santoku, lemmet van 16,5 cm.",
+   "Santoku: veelzijdig Japans keukenmes voor vlees, vis en groenten.",
+   "Kern van AUS-10 roestvast messenstaal, hardheid 61 ±1 HRC.",
+   "Drielaagse Warikomi-constructie; matte afwerking.",
+   "Doorlopend lemmet (full tang) met zwart pakkahouten handvat, bevestigd met drie klinknagels.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "be456113"
+  ]
+ },
+ {
+  "match": [
+   "Enkoku\\ Gyuto\\ 21\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Enkoku Gyuto, lemmet van 21 cm.",
+   "Gyuto: het Japanse equivalent van het klassieke koksmes; voor vlees, vis, groenten en kruiden.",
+   "67 lagen damaststaal met een kern van VG-10 messenstaal; hardheid 60 ±1 HRC.",
+   "Gepolijste afwerking met gehamerd tsuchime-patroon; dubbelzijdig geslepen.",
+   "Achthoekig Japans wa-handvat van gerookt eikenhout.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "1033c9be"
+  ],
+  "mismatches": [
+   {
+    "topic": "Specificaties: totale lengte",
+    "websiteSays": "Totale lengte: 21 cm (gelijk aan de lemmetlengte in de tekst)",
+    "note": "Controleer of de totale lengte klopt; de tekst noemt alleen de lemmetlengte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Enkoku\\ Nakiri\\ 16\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Enkoku Nakiri, lemmet van 16 cm.",
+   "Nakiri: traditioneel Japans groentemes met recht lemmet voor het snijden, hakken en fijnsnijden van groenten en kruiden.",
+   "67 lagen damaststaal met een kern van VG-10 messenstaal; hardheid 60 ±1 HRC.",
+   "Gepolijste afwerking met gehamerd tsuchime-patroon; dubbelzijdig geslepen.",
+   "Achthoekig Japans wa-handvat van gerookt eikenhout.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "370b7910"
+  ],
+  "mismatches": [
+   {
+    "topic": "Specificaties: totale lengte",
+    "websiteSays": "Totale lengte: 16 cm (gelijk aan de lemmetlengte in de tekst)",
+    "note": "Controleer of de totale lengte klopt; de tekst noemt alleen de lemmetlengte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Enkoku\\ officemes\\ 15\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Enkoku officemes, lemmet van 15 cm.",
+   "Officemes voor nauwkeurig snijwerk: groenten schoonmaken, fruit schillen, kleinere ingrediënten fijnsnijden.",
+   "67 lagen damaststaal met een kern van VG-10 messenstaal; hardheid 60 ±1 HRC.",
+   "Gepolijste afwerking met gehamerd tsuchime-patroon; dubbelzijdig geslepen.",
+   "Achthoekig Japans wa-handvat van gerookt eikenhout.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "79166c6f"
+  ],
+  "mismatches": [
+   {
+    "topic": "Specificaties: totale lengte",
+    "websiteSays": "Totale lengte: 15 cm (gelijk aan de lemmetlengte in de tekst)",
+    "note": "Controleer of de totale lengte klopt; de tekst noemt alleen de lemmetlengte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Enkoku\\ Santoku\\ 17\\ cm\\ VG\\-10\\ staal"
+  ],
+  "brandID": "japaneseknifecompany",
+  "typeIDs": [
+   "japanse-messen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Enkoku Santoku, lemmet van 17 cm.",
+   "Santoku: veelzijdig Japans keukenmes voor vlees, vis en groenten.",
+   "67 lagen damaststaal met een kern van VG-10 messenstaal; hardheid 60 ±1 HRC.",
+   "Gepolijste afwerking met gehamerd tsuchime-patroon; dubbelzijdig geslepen.",
+   "Achthoekig Japans wa-handvat van gerookt eikenhout.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen. Niet geschikt voor de vaatwasser."
+  ],
+  "keys": [
+   "3b018fb5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Specificaties: totale lengte",
+    "websiteSays": "Totale lengte: 17 cm (gelijk aan de lemmetlengte in de tekst)",
+    "note": "Controleer of de totale lengte klopt; de tekst noemt alleen de lemmetlengte."
+   }
+  ]
+ }
+]

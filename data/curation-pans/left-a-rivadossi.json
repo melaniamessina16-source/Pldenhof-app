@@ -1,0 +1,207 @@
+[
+ {
+  "match": [
+   "Rivadossi\\ Sandro\\ Bamboo\\ tafelmes\\ champagne",
+   "Rivadossi\\ Sandro\\ Bamboo\\ tafelmes\\ olijfgroen"
+  ],
+  "brandID": "rivadossi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het eten van diverse gerechten.",
+  "bullets": [
+   "Rivadossi Sandro Bamboo tafelmes van roestvrij staal met een heft van acryl in de vorm van een bamboestok.",
+   "Voor het eten van diverse gerechten.",
+   "Vaatwasmachinebestendig tot 65°C."
+  ],
+  "keys": [
+   "068b8f51",
+   "674001ae"
+  ],
+  "brandName": "Rivadossi Sandro",
+  "requires": [
+   "bamboestok",
+   "tot 65°C"
+  ],
+  "colours": [
+   "champagne",
+   "olijfgroen"
+  ]
+ },
+ {
+  "match": [
+   "Rivadossi\\ Sandro\\ Classic\\ botermes\\ pauw\\-blauw",
+   "Rivadossi\\ Sandro\\ Classic\\ botermes\\ pink"
+  ],
+  "brandID": "rivadossi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het smeren van boter en andere voedingsmiddelen.",
+  "bullets": [
+   "Rivadossi Sandro Classic botermes van roestvrij staal met een acryl heft met een decoratief element.",
+   "Voor het smeren van boter en andere voedingsmiddelen.",
+   "Vaatwasmachinebestendig tot 65°C."
+  ],
+  "keys": [
+   "0fe8b2b3"
+  ],
+  "requires": [
+   "decoratief element",
+   "tot 65°C"
+  ],
+  "colours": [
+   "pauw-blauw",
+   "pink"
+  ]
+ },
+ {
+  "match": [
+   "Rivadossi\\ Sandro\\ Classic\\ kaasmes\\ bordeaux",
+   "Rivadossi\\ Sandro\\ Classic\\ kaasmes\\ ivoor",
+   "Rivadossi\\ Sandro\\ Classic\\ kaasmes\\ pauw\\-blauw",
+   "Rivadossi\\ Sandro\\ Classic\\ kaasmes\\ sage",
+   "Rivadossi\\ Sandro\\ Classic\\ kaasmes\\ pink"
+  ],
+  "brandID": "rivadossi",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het snijden en smeren van kazen.",
+  "bullets": [
+   "Rivadossi Sandro Classic kaasmes van roestvrij staal met een acryl heft met een decoratief element.",
+   "Voor het snijden en smeren van kazen.",
+   "Vaatwasmachinebestendig tot 65°C."
+  ],
+  "keys": [
+   "7e64f7c6",
+   "459d146c",
+   "b30fa1e1",
+   "926cb99c"
+  ],
+  "requires": [
+   "decoratief element",
+   "tot 65°C"
+  ],
+  "colours": [
+   "bordeaux",
+   "ivoor",
+   "pauw-blauw",
+   "sage",
+   "pink"
+  ]
+ },
+ {
+  "match": [
+   "Rivadossi\\ Sandro\\ Classic\\ tafelmes\\ bordeaux",
+   "Rivadossi\\ Sandro\\ Classic\\ tafelmes\\ ivoor",
+   "Rivadossi\\ Sandro\\ Classic\\ tafelmes\\ pauw\\-blauw",
+   "Rivadossi\\ Sandro\\ Classic\\ tafelmes\\ pink",
+   "Rivadossi\\ Sandro\\ Classic\\ tafelmes\\ sage"
+  ],
+  "brandID": "rivadossi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van diverse gerechten.",
+  "bullets": [
+   "Rivadossi Sandro Classic tafelmes van roestvrij staal met een acryl heft met een decoratief element.",
+   "Voor het snijden van diverse gerechten.",
+   "Vaatwasmachinebestendig tot 65°C."
+  ],
+  "keys": [
+   "1bdf7c6f",
+   "2a5b5398",
+   "a2d53100"
+  ],
+  "requires": [
+   "decoratief element",
+   "tot 65°C"
+  ],
+  "colours": [
+   "bordeaux",
+   "ivoor",
+   "pauw-blauw",
+   "sage",
+   "pink"
+  ]
+ },
+ {
+  "match": [
+   "Rivadossi\\ Sandro\\ Cortina\\ tafelmes\\ iepenhout"
+  ],
+  "brandID": "rivadossi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het eten van diverse gerechten.",
+  "bullets": [
+   "Rivadossi Sandro Cortina tafelmes van roestvrij staal met een heft van iepenhout.",
+   "Voor het eten van diverse gerechten.",
+   "De tekst zegt: reinig het houten bestek met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "dcd47c58"
+  ],
+  "requires": [
+   "iepenhout",
+   "houten Rivadossi"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reinigen: handafwas of vaatwasser",
+    "websiteSays": "Specificatie Reiniging: \"vaatwasmachinebestendig\". De tekst zegt: \"Reinig het houten Rivadossi Sandro bestek met warm water en afwasmiddel.\"",
+    "note": "Een houten heft in de vaatwasser: controleer bij de leverancier voordat u dat aan een klant zegt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Rivadossi\\ Sandro\\ Elena\\ botermes\\ rood"
+  ],
+  "brandID": "rivadossi",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het smeren van boter en andere voedingsmiddelen.",
+  "bullets": [
+   "Rivadossi Sandro Elena botermes van roestvrij staal met een rood acryl heft met een decoratief element.",
+   "Voor het smeren van boter en andere voedingsmiddelen.",
+   "Vaatwasmachinebestendig tot 65°C."
+  ],
+  "keys": [
+   "de5a1241"
+  ],
+  "requires": [
+   "decoratief element",
+   "tot 65°C"
+  ]
+ },
+ {
+  "match": [
+   "Rivadossi\\ Sandro\\ Elena\\ kaasmes\\ blauw",
+   "Rivadossi\\ Sandro\\ Elena\\ kaasmes\\ rood"
+  ],
+  "brandID": "rivadossi",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het snijden en smeren van kazen.",
+  "bullets": [
+   "Rivadossi Sandro Elena kaasmes van roestvrij staal met een acryl heft met een decoratief element.",
+   "Voor het snijden en smeren van kazen.",
+   "Vaatwasmachinebestendig tot 65°C."
+  ],
+  "keys": [
+   "5152823d"
+  ],
+  "requires": [
+   "decoratief element",
+   "tot 65°C"
+  ],
+  "colours": [
+   "blauw",
+   "rood"
+  ]
+ }
+]

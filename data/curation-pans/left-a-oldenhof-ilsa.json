@@ -1,0 +1,54 @@
+[
+ {
+  "match": [
+   "Oldenhof\\ gebogen\\ glaceermes\\ 25\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Om oppervlakken van bijvoorbeeld taarten glad te strijken, of als spatel om pannenkoeken te keren.",
+  "bullets": [
+   "Oldenhof gebogen glaceermes (paletmes), 25 cm, van roestvrij staal met een kunststof greep.",
+   "Om taarten en cupcakes te voorzien van bijvoorbeeld ganache, fondant of glazuur; ook om pannenkoeken te keren.",
+   "De lichte knik vergroot het overzicht.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "48f5b6a8"
+  ],
+  "brandName": "Oldenhof",
+  "requires": [
+   "pannenkoeken"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst noemt een ander product",
+    "websiteSays": "De tweede alinea van deze pagina heet \"Oldenhof glaceermes recht\", terwijl de naam \"gebogen glaceermes\" zegt.",
+    "note": "Gekopieerde tekst van het rechte mes; de eerste alinea noemt wel de lichte knik.",
+    "only": "Oldenhof gebogen glaceermes 25 cm rvs"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ glaceermes\\ recht\\ 25\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Om oppervlakken van bijvoorbeeld taarten glad te strijken, of als spatel om pannenkoeken te keren.",
+  "bullets": [
+   "Oldenhof glaceermes recht (paletmes), 25 cm, van roestvrij staal met een kunststof greep.",
+   "Om taarten en cupcakes te voorzien van bijvoorbeeld ganache, fondant of glazuur; ook om pannenkoeken te keren.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "886f8046"
+  ],
+  "requires": [
+   "pannenkoeken"
+  ]
+ }
+]

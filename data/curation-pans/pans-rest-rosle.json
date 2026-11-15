@@ -1,0 +1,361 @@
+[
+ {
+  "match": [
+   "Rösle\\ aspergepan\\ Elegance\\ met\\ inzet\\ ø\\ 16\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het gaar koken van bijvoorbeeld asperges en pasta's.",
+  "bullets": [
+   "Elegance aspergepan met zeefinzet van roestvrij staal, met glazen deksel (zo is het kookproces te volgen); diameter 16 cm, hoogte 29 cm.",
+   "Ingekapselde bodem met aluminium kern voor gelijkmatige warmtegeleiding.",
+   "Geschikt voor elektrisch, gas, inductie, keramisch en de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "b470508c"
+  ],
+  "brandName": "Rösle"
+ },
+ {
+  "match": [
+   "Rösle\\ braadslede\\ 40\\ x\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het aanbraden en stoven van vlees, vis, gevogelte en groenten.",
+  "bullets": [
+   "Braadslede uit de Elegance-serie van 18/10 roestvrij staal, met glazen deksel en stoominzet.",
+   "Ingekapselde bodem met aluminium kern verdeelt de warmte gelijkmatig: op de kookplaat aanbraden en in dezelfde braadslede in de oven stoven.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven; glazen deksel hittebestendig tot 200 °C.",
+   "Met de stoominzet vis of groenten boven heet water garen, gerechten warmhouden of ingrediënten ontdooien.",
+   "Inklapbare roestvrijstalen handgrepen; vaatwasserbestendig."
+  ],
+  "keys": [
+   "b379c78c"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Ebonic\\ Pro\\-Nero\\ keramische\\ pannenset\\ 5\\-delig"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Ebonic ProNero pannenset van 5 delen: steelpan met 4 kookpannen in verschillende formaten, met deksels.",
+   "Set: steelpan (1,4 liter, ø 16 cm), kookpan met deksel (1,4 liter, ø 16 cm), kookpan met deksel (3,4 liter, ø 20 cm), lage kookpan met deksel (2,9 liter, ø 20 cm), soeppan met deksel (5,8 liter, ø 24 cm).",
+   "Tri-ply (3-laags) materiaal: rvs 18/10 binnen, aluminium midden, rvs 18/0 buiten; ProNero keramische coating met beschermende netstructuur tegen krassen van spatels of ander kookgerei.",
+   "Geschikt voor gas, elektrisch, keramisch, halogeen, inductie en de oven (spec).",
+   "Afwassen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "942355e6"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Elegance\\ soeppan\\ 13\\ liter\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Ideaal voor het bereiden van grote hoeveelheden soep, stoofpot of zelfs om jam in in te koken.",
+  "bullets": [
+   "Elegance soeppan (Partytopf) van 18/10 roestvrij staal, diameter 28 cm, hoogte 23,5 cm, met glazen deksel (hittebestendig tot 180 °C).",
+   "Ingekapselde bodem met aluminium kern: zeer gelijkmatige warmteverdeling en warmteopslag.",
+   "Rondlopende schenkrand voor drupvrij afgieten; interne schaalverdeling.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "Reinigen met warm water en afwasmiddel of in de vaatwasser."
+  ],
+  "keys": [
+   "72c85472"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "Naam en tekst: 13 liter; spec Inhoud: 12,8 liter",
+    "note": "Check de inhoud."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ PureElements\\ keramische\\ koekenpan\\ ø\\ 20\\ cm",
+   "Rösle\\ PureElements\\ keramische\\ koekenpan\\ ø\\ 24\\ cm",
+   "Rösle\\ PureElements\\ keramische\\ koekenpan\\ ø\\ 28\\ cm"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van bijvoorbeeld een eitje, een visfilet of groentes.",
+  "bullets": [
+   "PureElements keramische koekenpan van roestvrij staal met ingekapselde bodem met aluminium kern.",
+   "Binnenzijde met ProCeraPlus anti-aanbaklaag: natuurlijke kwartscoating zonder PTFE/PFAS, het eten blijft niet plakken.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie; steel met afgeronde greep.",
+   "Afwassen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "258546e4"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reiniging",
+    "websiteSays": "Spec Reiniging verschilt per maat: Handafwas of Vaatwasmachinebestendig; tekst: afwassen met warm water en afwasmiddel",
+    "note": "Check per maat of de pan in de vaatwasser mag."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Silence\\ Pro\\ braadslede\\ 44\\ x\\ 29,6\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het braden, stomen (met de inzet), ontdooien en warmhouden.",
+  "bullets": [
+   "Silence Pro braadslede van roestvrij staal met glasdeksel en stoominzet; siliconen coating op handgrepen en deksel.",
+   "Temperatuurbestendig tot 220 °C, glazen deksel tot 180 °C; te gebruiken op diverse warmtebronnen en in de oven.",
+   "Inzet voor stomen, ontdooien en warmhouden.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "d872aee2"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen",
+    "websiteSays": "Naam: 44 x 29,6 cm; tekst: buitenmaten 40,9 x 28,5 x 18,1 cm; spec: lengte 28,9, breedte 40,9, hoogte 18,1 cm",
+    "note": "Check de afmetingen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Silence\\ Pro\\ crêpepan\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bakken van crêpes, eieren of stukken vis of vlees.",
+  "bullets": [
+   "Silence Pro crêpepan van roestvrij staal, diameter 28 cm, totale lengte inclusief steel 51,5 cm; steel met siliconen coating.",
+   "Binnenzijde met ProResist anti-aanbaklaag: het eten blijft niet plakken.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie; maximumtemperatuur 200°C (spec).",
+   "Vaatwasmachinebestendig, maar voor het beste behoud met de hand afwassen (spec: handafwas)."
+  ],
+  "keys": [
+   "cd0971ac"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Silence\\ Pro\\ hoge\\ kookpan\\ met\\ glasdeksel\\ ø\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Silence Pro hoge kookpan van 18/10 roestvrij staal, ø 20 cm, inhoud 3,5 liter, met glazen deksel (hittebestendig tot 160 °C) met siliconen rand voor stil koken.",
+   "Ingekapselde bodem met aluminium kern.",
+   "Deksel kan in twee vaste standen hangen om af te gieten (grote ingrediënten of fijne producten als pasta) zonder vergiet; kan ook in de steel worden gehaakt om condens op te vangen.",
+   "Geschikt voor gas, elektrisch, keramisch en inductie; oven tot 160 °C; maatverdeling aan de binnenzijde.",
+   "Afwasmachine of met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7c34c33b"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Silence\\ Pro\\ keramische\\ koekenpan\\ ø\\ 20\\ cm",
+   "Rösle\\ Silence\\ Pro\\ keramische\\ koekenpan\\ ø\\ 28\\ cm\\ rvs",
+   "Rösle\\ Silence\\ Pro\\ keramische\\ koekenpan\\ ø\\ 24\\ cm"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van bijvoorbeeld een eitje, een visfilet of groentes.",
+  "bullets": [
+   "Silence Pro keramische koekenpan.",
+   "Roestvrij staal met ingekapselde bodem met aluminium kern; steel met siliconen coating.",
+   "Binnenzijde met ProCeraPlus anti-aanbaklaag: natuurlijke kwartscoating zonder PTFE/PFAS.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Afwassen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "1ad0f496",
+   "2807cc7a"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Silence\\ Pro\\ keramische\\ koekenpan\\ ø\\ 32\\ cm"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van bijvoorbeeld een eitje, een visfilet of groentes.",
+  "bullets": [
+   "Silence Pro keramische koekenpan met tegengreep.",
+   "Roestvrij staal met ingekapselde bodem met aluminium kern; steel met siliconen coating.",
+   "Binnenzijde met ProCeraPlus anti-aanbaklaag: natuurlijke kwartscoating zonder PTFE/PFAS.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Afwassen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "a2f650e7"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Silence\\ Pro\\ kookpan\\ met\\ glasdeksel\\ ø\\ 16\\ cm\\ rvs",
+   "Rösle\\ Silence\\ Pro\\ kookpan\\ met\\ glasdeksel\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Silence Pro kookpan met glasdeksel van 18/10 roestvrij staal.",
+   "Ingekapselde bodem met aluminium kern: slaat warmte op en verdeelt die efficiënt door de pan.",
+   "Glazen deksel (hittebestendig tot 160 °C) met siliconen rand voor stil koken; handgrepen en dekselrand met siliconencoating tegen hitte.",
+   "Deksel kan in twee vaste standen hangen om af te gieten zonder vergiet; ook in de steel te haken om condens op te vangen.",
+   "Geschikt voor gas, elektrisch, keramisch en inductie; oven tot 160 °C; maatverdeling aan de binnenzijde.",
+   "Afwasmachine of met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "42b1e401"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Silence\\ Pro\\ lage\\ kookpan\\ met\\ glasdeksel\\ ø\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Silence Pro lage kookpan met glasdeksel van 18/10 roestvrij staal.",
+   "Ingekapselde bodem met aluminium kern: slaat warmte op en verdeelt die efficiënt door de pan.",
+   "Glazen deksel (hittebestendig tot 160 °C) met siliconen rand voor stil koken; handgrepen en dekselrand met siliconencoating tegen hitte.",
+   "Deksel kan in twee vaste standen hangen om af te gieten zonder vergiet; ook in de steel te haken om condens op te vangen.",
+   "Geschikt voor gas, elektrisch, keramisch en inductie; oven tot 160 °C; maatverdeling aan de binnenzijde.",
+   "Afwasmachine of met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "618e1d72"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Silence\\ Pro\\ soeppan\\ met\\ glasdeksel\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Silence Pro soeppan met glasdeksel van 18/10 roestvrij staal.",
+   "Ingekapselde bodem met aluminium kern: slaat warmte op en verdeelt die efficiënt door de pan.",
+   "Glazen deksel (hittebestendig tot 160 °C) met siliconen rand voor stil koken; handgrepen en dekselrand met siliconencoating tegen hitte.",
+   "Deksel kan in twee vaste standen hangen om af te gieten zonder vergiet; ook in de steel te haken om condens op te vangen.",
+   "Geschikt voor gas, elektrisch, keramisch en inductie; oven tot 160 °C; maatverdeling aan de binnenzijde.",
+   "Afwasmachine of met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c6e86002"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Silence\\ Pro\\ pannenset\\ rvs\\ 4\\-delig"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Silence Pro pannenset van 4 pannen van roestvrij staal: steelpan ø 16 cm en hoge kookpannen met deksel ø 16, 20 en 24 cm.",
+   "Elke pan met ingekapselde bodem met aluminium kern; deksels van gehard glas (tot 160 °C) met siliconen rand voor stil koken.",
+   "Geschikt voor gas, elektrisch, keramisch en inductie; oven tot 160 °C; inwendige maatverdeling.",
+   "Spec: PFAS-vrije coating."
+  ],
+  "keys": [
+   "26ad0af6"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reiniging",
+    "websiteSays": "Spec: handafwas; tekst: pannen zijn vaatwasmachinebestendig; ook \"was af met warm water en afwasmiddel\"",
+    "note": "Check of de set in de vaatwasser mag."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Silence\\ Pro\\ steelpan\\ ø\\ 16\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Silence Pro steelpan van 18/10 roestvrij staal, ø 16 cm, inhoud 1,4 liter.",
+   "Ergonomische steel met siliconencoating (hittebestendig tot 200 °C) voor één-handig gebruik; steel om op te hangen; geïntegreerde steun voor keukenhulpen.",
+   "Ingekapselde bodem met aluminium kern; maatverdeling aan de binnenzijde.",
+   "Geschikt voor gas, elektrisch, keramisch, inductie en de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "b9086596"
+  ]
+ },
+ {
+  "match": [
+   "Rösle\\ Silence\\ Pro\\ stoompan\\ met\\ glasdeksel\\ ø\\ 28\\ cm\\ rvs"
+  ],
+  "brandID": "rosle",
+  "typeIDs": [
+   "roestvrijstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Silence Pro stoompan van 18/10 roestvrij staal, ø 28 cm, inhoud 4,5 liter, met stoominzet en glazen deksel met siliconen rand (hittebestendig tot 160 °C).",
+   "Inzetbaar stoomrooster met siliconen opleg; thermometer wordt meegeleverd.",
+   "ProResist anti-aanbaklaag met siliciumcarbide-deeltjes; de pan is ook los te gebruiken als braad- of serveerpan.",
+   "Ingekapselde sandwichbodem met aluminium kern; geschikt voor gas, elektrisch, keramisch, inductie en de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "5affed86"
+  ]
+ }
+]

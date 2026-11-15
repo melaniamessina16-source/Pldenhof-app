@@ -1,0 +1,48 @@
+[
+ {
+  "match": [
+   "Kuhn\\ Rikon\\ Duromatic\\ snelkookpan\\ 3,5\\ liter\\ ø\\ 20\\ cm\\ met",
+   "Kuhn\\ Rikon\\ Duromatic\\ snelkookpan\\ 5\\ liter\\ ø\\ 22\\ cm\\ met",
+   "Kuhn\\ Rikon\\ Duromatic\\ snelkookpan\\ 7\\ liter\\ ø\\ 22\\ cm\\ met",
+   "Kuhn\\ Rikon\\ Duromatic\\ snelkookpan\\ 8\\ liter\\ ø\\ 24\\ cm\\ met\\ zijgrepen"
+  ],
+  "brandID": "kuhnrikon",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken en stomen onder hoge druk.",
+  "bullets": [
+   "Duromatic Inox snelkookpan van roestvrij staal met compacte handgrepen aan weerszijden.",
+   "Bereidingstijd tot wel 70% korter; bespaart energie en behoudt meer kleur, smaak en voedingsstoffen.",
+   "Zelf-vergrendelend deksel dat niet te openen is zolang de pan onder druk staat.",
+   "Superthermic bodem: geschikt voor alle soorten kookplaten, inclusief inductie.",
+   "Maximaal voor tweederde vullen; voor groenten is vaak 100 - 200 ml water genoeg.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "238b773c"
+  ],
+  "brandName": "Kuhn Rikon"
+ },
+ {
+  "match": [
+   "Kuhn\\ Rikon\\ hoge\\ kookpan\\ 12\\ liter\\ ø\\ 28\\ cm\\ rvs",
+   "Kuhn\\ Rikon\\ hoge\\ kookpan\\ 8,5\\ liter\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "kuhnrikon",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van soep of grote hoeveelheden ingrediënten.",
+  "bullets": [
+   "Hoge kookpan (soeppan) van hoogwaardig roestvrij staal, met glasdeksel.",
+   "Dikke bodem voor goede en gelijkmatige warmtegeleiding.",
+   "Holle grepen: blijven relatief koel tijdens het koken.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "18821df2"
+  ]
+ }
+]

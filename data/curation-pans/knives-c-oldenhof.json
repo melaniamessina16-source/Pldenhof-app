@@ -1,0 +1,2153 @@
+[
+ {
+  "match": [
+   "Oldenhof\\ 2\\-traps\\ kelnersmes\\ rvs\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het openen van wijnflessen met kurk en flesjes bier.",
+  "bullets": [
+   "Kelnersmes van roestvrij staal; de gereedschappen zijn inklapbaar.",
+   "Opent wijnflessen met kurk en flesjes bier.",
+   "Reinigen met een vochtige doek.",
+   "Reiniging volgens specificaties: handafwas."
+  ],
+  "keys": [
+   "4bc114cc"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ aanzetstaal\\ 20,3\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het dagelijks onderhoud van messen: het zet de snede opnieuw recht.",
+  "bullets": [
+   "Aanzetstaal van roestvrij staal met zwart kunststof heft.",
+   "Voor het aanzetten van messen met een lemmet tot 20 cm lengte.",
+   "Een aanzetstaal zet de snede opnieuw recht; het mes heeft daardoor minder weerstand bij het snijden. Het mes wordt feitelijk niet scherper dan voor het aanzetten.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet van het mes.",
+   "Werkwijze op de pagina: mes onder 20° tegen het staal, met lichte druk naar beneden en naar u toe trekken, circa 5 keer per kant.",
+   "Reiniging volgens specificaties: handafwas."
+  ],
+  "keys": [
+   "7a16c49c"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ aanzetstaal\\ 25,5\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het langer scherp houden van messen.",
+  "bullets": [
+   "Roestvrijstalen aanzetstaal met kunststof handgreep.",
+   "Het staal is 25,5 cm lang; geschikt voor messen met een lemmetlengte van 25 cm.",
+   "Een aanzetstaal zet de snede opnieuw recht; het mes heeft daardoor minder weerstand bij het snijden. Het mes wordt feitelijk niet scherper dan voor het aanzetten.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet van het mes.",
+   "Reiniging volgens specificaties: handafwas."
+  ],
+  "keys": [
+   "e80ff939"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Basic\\ broodmes\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Het Oldenhof Basic broodmes snijdt moeiteloos door harde korsten.",
+  "bullets": [
+   "Oldenhof Basic broodmes, lemmet van messenstaal met kartel.",
+   "Snijdt moeiteloos door harde korsten.",
+   "Gestanst uit roestvrij messenstaal; het zwarte kunststof heft is aangegoten en aan het lemmet vast.",
+   "Het heft heeft een ruw oppervlak voor een goede grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "bbe98051"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Basic\\ officemes\\ 10,2\\ cm\\ messenstaal",
+   "Oldenhof\\ Basic\\ officemes\\ 12,7\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het voorbereiden of schillen van groenten.",
+  "bullets": [
+   "Oldenhof Basic officemes, lemmet van messenstaal met een gladde snede.",
+   "Gestanst uit roestvrij messenstaal; het zwarte kunststof heft is aangegoten.",
+   "Voor het voorbereiden of schillen van groenten.",
+   "Het heft heeft een ruw oppervlak voor een goede grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "41cee74f"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Basic\\ schilmes\\ 7\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor snij- en schilwerk vanuit de hand.",
+  "bullets": [
+   "Oldenhof Basic schilmes, lemmet van messenstaal met een gladde snede.",
+   "Het zwarte kunststof heft is aangegoten.",
+   "Het rechte schilmes gebruikt u voor snij- en schilwerk vanuit de hand.",
+   "Gestanst uit roestvrij messenstaal; het heft heeft een ruw oppervlak voor een goede grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "59bfee75"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Basic\\ schilmes\\ 8\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor snij- en schilwerk vanuit de hand.",
+  "bullets": [
+   "Oldenhof Basic schilmes, lemmet van messenstaal met een gladde snede.",
+   "Het zwarte kunststof heft is aangegoten.",
+   "Het rechte schilmes gebruikt u voor snij- en schilwerk vanuit de hand.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5b6ec121"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst hoort bij een ander mes",
+    "websiteSays": "De pagina is \"Basic schilmes\" met een aangegoten heft, maar de onderste tekst gaat over het \"Oldenhof Classic mes\": gesmeed uit Duits messenstaal, doorlopende angel, 3 klinknagels",
+    "note": "Controleer of dit een Basic- of een Classic-mes is voordat u iets over smeden of klinknagels zegt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Basic\\ tourneermes\\ 6\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Het gebogen lemmet is geschikt voor het schillen en snijden van ronde groenten en fruit.",
+  "bullets": [
+   "Oldenhof Basic tourneermes, lemmet van messenstaal met een gladde snede.",
+   "Het gebogen lemmet leent zich voor het schillen en snijden van ronde groenten en fruit.",
+   "Gestanst uit roestvrij messenstaal; het zwarte kunststof heft is aangegoten.",
+   "Het heft heeft een ruw oppervlak voor een goede grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a4ff54f6"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Basic\\ worst\\-\\ /\\ tomatenmes\\ 11\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor producten met een taai vel en een zacht binnenste, zoals tomaat, paprika en worst.",
+  "bullets": [
+   "Oldenhof Basic worst- / tomatenmes met gekarteld lemmet en zwart aangegoten heft.",
+   "De kartels maken het mes geschikt voor producten met een taai vel en een zacht binnenste, zoals tomaat, paprika en worst.",
+   "Door de ronde punt ook geschikt als ontbijtmes: bij het smeren steekt de punt het brood niet kapot.",
+   "Gestanst uit roestvrij messenstaal; het heft heeft een ruw oppervlak voor een goede grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "21da9a94"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ botermes\\ 11\\ cm\\ rvs\\ kunststof\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het scheppen en smeren van harde en zachte boter.",
+  "bullets": [
+   "Botermes van roestvrij staal met kunststof handvat.",
+   "Het lemmet loopt breed uit: voor het scheppen en smeren van harde en zachte boter.",
+   "De tekst noemt het vaatwasmachinebestendig; de specificaties noemen handafwas."
+  ],
+  "keys": [
+   "0c44e2d7"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reiniging",
+    "websiteSays": "Tekst: \"vaatwasmachinebestendig\"; specificatie Reiniging: handafwas",
+    "note": "Controleer hoe het mes gereinigd moet worden."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ breed\\ paletmes\\ 13\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het verdelen van dun beslag of icing in vormen of pannen van roestvrij staal, of voor het keren van etenswaren op een teppanyaki- of plancha-plaat.",
+  "bullets": [
+   "Paletmes met breed roestvrijstalen lemmet en zwarte kunststof handgreep.",
+   "Voor het verdelen van dun beslag of een icing in vormen of pannen van roestvrij staal.",
+   "Ook voor het keren van etenswaren op een teppanyaki-plaat.",
+   "Voor het glaceren en decoreren van taart en cake.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "5aadf28e"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ broodmes\\ 25\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om brood in plakken te snijden.",
+  "bullets": [
+   "Broodmes van roestvrij staal met zwart kunststof handvat en een scherpe kartel.",
+   "Om brood in plakken te snijden.",
+   "Reinigen met warm water en afwasmiddel.",
+   "Reiniging volgens specificaties: handafwas."
+  ],
+  "keys": [
+   "8a433d48"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ broodmes\\ 20,3\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Door het gekartelde lemmet snijdt het mes eenvoudig door de knapperige korst van brood.",
+  "bullets": [
+   "Oldenhof Classic broodmes, lemmet van messenstaal met kartel.",
+   "Snijdt door de knapperige korst van brood.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "94373e1e"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ flexibel\\ fileermes\\ 15\\ cm"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om vis te fileren of vlees te ontvliezen.",
+  "bullets": [
+   "Oldenhof Classic flexibel fileermes met een flexibel lemmet.",
+   "Het lemmet buigt mee om zo dun mogelijk vis te fileren of vlees te ontvliezen.",
+   "Kunststof heft met drie klinknagels aan de doorlopende angel vastgeklonken.",
+   "Reinigen met mild sop en warm water en goed afdrogen.",
+   "Niet vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "28727d15"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ flexibel\\ fileermes\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het fileren van vlees en vis.",
+  "bullets": [
+   "Oldenhof Classic flexibel fileermes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3c1671a5"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ koksmes\\ 15\\ cm\\ messenstaal",
+   "Oldenhof\\ Classic\\ koksmes\\ 20\\ cm\\ messenstaal",
+   "Oldenhof\\ Classic\\ koksmes\\ 25\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor al uw snijwerk, van vlees tot groenten.",
+  "bullets": [
+   "Oldenhof Classic koksmes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5f754d47"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ koksmes\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten en vlees.",
+  "bullets": [
+   "Oldenhof Classic koksmes, lemmet van messenstaal.",
+   "Kunststof heft met 3 klinknagels aan een doorlopende angel bevestigd.",
+   "De ronding van het lemmet maakt een goed rollende snijbeweging mogelijk.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a94d8448"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ messenset\\ 3\\-delig"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van grote en kleine stukken groenten en vlees in de keuken.",
+  "bullets": [
+   "Oldenhof Classic messenset met drie messen, als basis voor de keuken.",
+   "Gemaakt van Duitse kwaliteit messenstaal; kunststof heft vastgeklonken.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel.",
+   "Reiniging volgens specificaties: handafwas."
+  ],
+  "keys": [
+   "bc20a10f"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ officemes\\ 10\\ cm\\ messenstaal",
+   "Oldenhof\\ Classic\\ officemes\\ 11,5\\ cm\\ messenstaal",
+   "Oldenhof\\ Classic\\ officemes\\ 9\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor al het kleine snijwerk in de keuken.",
+  "bullets": [
+   "Oldenhof Classic officemes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5d1a09fb"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ santoku\\ mes\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, vlees en vis.",
+  "bullets": [
+   "Oldenhof Classic santoku mes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "629ab2ff"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ schilmes\\ 9\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en snijden van groenten en fruit.",
+  "bullets": [
+   "Oldenhof Classic schilmes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1bb0fd63"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ steakmes\\ met\\ kartel\\ 11,4\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het aan tafel snijden van bereide stukken vlees.",
+  "bullets": [
+   "Oldenhof Classic steakmes, lemmet van messenstaal met kartel.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Voor het aan tafel snijden van bereide stukken vlees.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7b182632"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ tourneermes\\ 7\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een tourneermes is een krom schilmes voor het snijden van ronde groenten en fruit.",
+  "bullets": [
+   "Oldenhof Classic tourneermes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "25b9cdfe"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ uitbeenmes\\ 15,2\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het uitbenen van vlees.",
+  "bullets": [
+   "Oldenhof Classic uitbeenmes, lemmet van messenstaal.",
+   "Met het smalle lemmet draait u het mes gemakkelijk in alle richtingen voor eenvoudig uitbenen van vlees.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6b791fe6"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ universeel\\ mes\\ 15\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor al uw snijwerk van groenten, vlees en vis.",
+  "bullets": [
+   "Oldenhof Classic universeel mes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b6e4284d"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ vleesmes\\ 18\\ cm\\ messenstaal",
+   "Oldenhof\\ Classic\\ vleesmes\\ 20,3\\ cm\\ messenstaal",
+   "Oldenhof\\ Classic\\ vleesmes\\ 23\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van zowel rauw als bereid vlees.",
+  "bullets": [
+   "Oldenhof Classic vleesmes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3253f8de"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ vleesmes\\ met\\ kuiltjes\\ 25\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van rauw en bereid vlees.",
+  "bullets": [
+   "Oldenhof Classic vleesmes met kuiltjes in het lemmet.",
+   "Door de kuiltjes blijven etenswaren niet aan het mes plakken.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5c9c83c2"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ worst\\-\\ /\\ tomatenmes\\ 11,5\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van tomaat en worst: de kartels snijden door het taaie vel.",
+  "bullets": [
+   "Oldenhof Classic worst- / tomatenmes, lemmet van messenstaal.",
+   "Het lemmet is voorzien van kartels waardoor u eenvoudig door het taaie vel van tomaat en worst snijdt.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit Duits messenstaal; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "46f818c5"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Classic\\ worst\\-\\ /\\ tomatenmes\\ 12,7\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van worst en tomaat: de fijne kartels snijden door het taaie vel.",
+  "bullets": [
+   "Oldenhof Classic worst- en tomatenmes van Duits messenstaal met fijne kartels.",
+   "De fijne kartels snijden eenvoudig door het taaie vel van worst en tomaat.",
+   "Gemaakt van relatief zacht staal: makkelijk te onderhouden, maar sneller aan slijpen toe. Zachter dan het staal van bijvoorbeeld Wüsthof of Güde (volgens de tekst).",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel en goed afdrogen; bewaren in een messenhoes of messenblok."
+  ],
+  "keys": [
+   "31f4a84b"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ gebogen\\ glaceermes\\ 15\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het glaceren en decoreren van bijvoorbeeld taarten.",
+  "bullets": [
+   "Gebogen glaceermes (paletmes) met roestvrijstalen lemmet en zwart kunststof heft.",
+   "Voor het glaceren en decoreren van bijvoorbeeld taarten.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "03c1c3dd"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ gebogen\\ glaceermes\\ 21\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het aanbrengen van fondant of ganache op taarten en cupcakes.",
+  "bullets": [
+   "Gebogen glaceer- of paletmes van roestvrij staal en zwart kunststof.",
+   "Voor het aanbrengen van fondant of ganache op taarten en cupcakes.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "276ceeff"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ gebogen\\ glaceermes\\ 27\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om fondant en icing aan te brengen op cakes, taarten en cupcakes.",
+  "bullets": [
+   "Gebogen glaceermes van roestvrij staal met kunststof handgreep.",
+   "Om fondant en icing aan te brengen op cakes, taarten en cupcakes.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "a1eeeaec"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ geknikt\\ paletmes\\ 20\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het gladstrijken van fondant of glazuur op taarten en cupcakes.",
+  "bullets": [
+   "Geknikt paletmes (glaceermes) met roestvrijstalen lemmet en zwarte kunststof handgreep.",
+   "Voor het gladstrijken van fondant of glazuur op taarten en cupcakes.",
+   "Door het geknikte lemmet blijft uw hand vrij van de ondergrond.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "baefdbe6"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ geknikt\\ paletmes\\ 30\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het uitstrijken, verdelen en gladstrijken van ingrediënten.",
+  "bullets": [
+   "Geknikt paletmes van roestvrij staal met een lang, smal blad.",
+   "Door de geknikte vorm ontstaat ruimte tussen de hand en het werkoppervlak.",
+   "Voor het verdelen van crèmes, glazuur en vullingen over taarten en gebak, en voor het gladstrijken van beslag.",
+   "Het blad biedt een groot werkoppervlak voor grotere taarten, plaatgebak en andere patisserie.",
+   "Reinigen met warm water en afwasmiddel of in de afwasmachine."
+  ],
+  "keys": [
+   "cff6c1b6"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Gift\\ Novels\\ kaasmessenset\\ 3\\-delig"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor harde en zachte kazen; tijdens borrels, kaasplanken of feestelijke diners.",
+  "bullets": [
+   "Kaasmessenset met drie verschillende messen voor harde en zachte kazen.",
+   "Wordt geleverd in een geschenkdoos.",
+   "Materiaal volgens specificaties: roestvrij staal en hout.",
+   "Reinigen met warm water en afwasmiddel.",
+   "Reiniging volgens specificaties: handafwas."
+  ],
+  "keys": [
+   "5a2c87be"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Gift\\ Novels\\ kaasmessenset\\ 4\\-delig"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor kaasplanken of borrels.",
+  "bullets": [
+   "Kaasmessenset met vier verschillende kaasmessen in een geschenkdoos.",
+   "Elk mes heeft een speciaal blad voor het snijden en serveren van zachte en hardere kaassoorten.",
+   "Materiaal volgens specificaties: roestvrij staal en hout.",
+   "Reinigen met warm water en afwasmiddel.",
+   "Reiniging volgens specificaties: handafwas."
+  ],
+  "keys": [
+   "4e79c537"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ glaceermes\\ 10\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het gladstrijken van fondant of glazuur op taarten of kleinere gebakjes.",
+  "bullets": [
+   "Glaceermes met licht gebogen roestvrijstalen lemmet en zwarte kunststof handgreep.",
+   "Voor precies werk: gladstrijken van fondant of glazuur op taarten of kleinere gebakjes.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "0b406927"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ glaceermes\\ recht\\ 10\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het gladstrijken van fondant of glazuur op taarten en cupcakes.",
+  "bullets": [
+   "Klein glaceermes met roestvrijstalen lemmet en zwarte kunststof handgreep.",
+   "Voor het gladstrijken van fondant of glazuur op taarten en cupcakes.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "40d55205"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ glaceermes\\ recht\\ 14\\ cm"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Recht glaceermes van roestvrij staal en kunststof.",
+   "De website geeft verder geen tekst of specificaties."
+  ],
+  "keys": [
+   "0f29bd81"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ glaceermes\\ recht\\ 18\\ cm",
+   "Oldenhof\\ glaceermes\\ recht\\ 27\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het gladstrijken van fondant of glazuur op taarten.",
+  "bullets": [
+   "Glaceermes met roestvrijstalen lemmet en zwarte kunststof handgreep.",
+   "Voor het gladstrijken van fondant of glazuur op taarten.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "1d2d2970"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: glaceermes recht 18 cm",
+    "websiteSays": "Naam \"recht 18 cm\"; specificatie Lengte: 20 cm",
+    "note": "Controleer de lengte.",
+    "only": "Oldenhof glaceermes recht 18 cm"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ glaceermes\\ recht\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het gladstrijken van fondant of glazuur op taarten.",
+  "bullets": [
+   "Glaceermes van roestvrij staal met kunststof handgreep.",
+   "Voor het gladstrijken van fondant of glazuur op taarten.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "1d2d2970",
+   "886f8046"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ glaceermes\\ recht\\ 23\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om fondant en icing aan te brengen op cakes, taarten en cupcakes.",
+  "bullets": [
+   "Recht glaceermes met een blad van roestvrij staal en een handgreep van zwart kunststof.",
+   "Om fondant en icing aan te brengen op cakes, taarten en cupcakes.",
+   "Totale lengte 23 cm."
+  ],
+  "keys": [
+   "8c9b5143"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ kaasmes\\ met\\ gaten\\ 12,5\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van zachte kazen.",
+  "bullets": [
+   "Kaasmes met gaten in een glad lemmet van messenstaal; de gaten zorgen dat zachte kaas niet aan het lemmet kleeft.",
+   "Voor het snijden van zachte kazen.",
+   "Gemaakt van Duitse kwaliteit messenstaal; de angel loopt door tot achteraan het heft en is met klinknagels bevestigd.",
+   "Reinigen met warm water en afwasmiddel.",
+   "Reiniging volgens specificaties: handafwas."
+  ],
+  "keys": [
+   "29778434"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ kaasmes\\ met\\ uitsparingen\\ 14\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van zachte kaas.",
+  "bullets": [
+   "Kaasmes van roestvrij staal met kunststof heft; totale lengte 26 cm.",
+   "De uitsparingen en het gekartelde lemmet zorgen dat u eenvoudig door zachte kaas snijdt.",
+   "Met de puntjes aan het uiteinde van het lemmet legt u blokjes kaas gemakkelijk op een bord.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "482b8f2c"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ kaasmessen\\ muizen\\ set\\ van\\ 3"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Geschikt voor zachte tot harde kazen.",
+  "bullets": [
+   "Set van drie roestvrijstalen kaasmessen met houten heften in de vorm van een muis.",
+   "Bestaat uit een vork met twee tanden (om de kaas vast te houden), een breed kaasmes (harde kaas) en een smal kaasmes (zachte kaas).",
+   "De kaasmesjes zijn 13 cm lang.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "7a9ed68b"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ kaasmessenset\\ in\\ kurken\\ etui\\ 5\\-delig"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Geschikt voor zachte tot harde kazen.",
+  "bullets": [
+   "Set van vier roestvrijstalen kaasmessen met heften van geperste kurk (goede grip), in een kurken etui.",
+   "De kaasmesjes zijn 15,5 tot 18 cm lang (inclusief heft).",
+   "Het etui is gemaakt van vellen kurk op een katoenen ondergrond; opgerold 20 x 10 cm, uitgerold 20 x 39 cm.",
+   "Reinigen van de messen met warm water en afwasmiddel; het etui met een vochtige doek."
+  ],
+  "keys": [
+   "35654ed7"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 5-delig",
+    "websiteSays": "Naam en specificatie \"5-delig\"; de tekst noemt vier kaasmessen in een etui",
+    "note": "Controleer of het etui als vijfde deel meetelt."
+   },
+   {
+    "topic": "Afmeting etui",
+    "websiteSays": "Tekst: \"Opgerold is de etui 20 x 10 x cm groot\" (derde maat ontbreekt)",
+    "note": "Controleer de afmeting."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ King\\ Deluxe\\ 1000W\\ XL\\ wetsteen\\ 21\\ x\\ 6,5\\ cm\\ korrel\\ 1000\\ bruin"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het onderhouden en slijpen van matig botte messen.",
+  "bullets": [
+   "King 1000W XL wetsteen van keramiek, korrel 1000: fijn genoeg voor het onderhouden en slijpen van matig botte messen.",
+   "20,7 cm lang, 6,9 cm breed en 6 cm dik; extra dikke, massieve steen met een zeer lange levensduur, ook als u hem regelmatig opnieuw vlakt.",
+   "Geschikt voor eenzijdig en tweezijdig geslepen messen; slijphoek bepaalt u zelf, dus ook Duitse en Japanse messen.",
+   "Ook voor beitels, scharen en andere gereedschappen.",
+   "Laat de steen bij elk gebruik 10 tot 15 minuten onder water staan en houd tijdens het slijpen een dun laagje water op de steen.",
+   "Spoel na gebruik schoon met water en laat goed opdrogen."
+  ],
+  "keys": [
+   "64cd187c"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 21 x 6,5 cm",
+    "websiteSays": "Naam \"21 x 6,5 cm\"; tekst en specificaties: 20,7 cm lang, 6,9 cm breed, 6 cm dik",
+    "note": "Controleer de afmetingen."
+   },
+   {
+    "topic": "Naam: King Deluxe",
+    "websiteSays": "Naam \"King Deluxe 1000W XL\"; tekst noemt \"King 1000W XL\" en \"King Medium wetsteen\"",
+    "note": "Controleer de productnaam."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ King\\ wetsteen\\ fijn\\ 21\\ x\\ 7,3\\ cm\\ korrel\\ 8000\\ met\\ reinigingssteen"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het naslijpen, polijsten en onderhouden van messen.",
+  "bullets": [
+   "Dubbelzijdige King wetsteen van keramiek, korrel 8000 (fijn).",
+   "Voor het naslijpen en polijsten van messen die op een grovere korrel zijn geslepen, en voor regelmatig onderhoud.",
+   "18,5 cm lang, 6,3 cm breed en 2,5 cm dik; wordt geleverd met een reinigingssteen en een kunststof basis die ook opbergdoos en anti-slipbasis is.",
+   "Maak de steen voor gebruik nat en houd hem tijdens het slijpen nat; week de fijne steen niet in water, hij kan barsten.",
+   "Geschikt voor Duitse en Japanse messen, ook voor beitels, scharen en ander gereedschap."
+  ],
+  "keys": [
+   "87c7d0cb"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 21 x 7,3 cm",
+    "websiteSays": "Naam \"21 x 7,3 cm\"; tekst en specificaties: 18,5 cm lang, 6,3 cm breed",
+    "note": "Controleer de afmetingen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ messenblok\\ voor\\ 8\\ messen\\ beukenhout\\ naturel"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Beukenhouten messenblok, transparant gelakt, massief hout.",
+   "Plaats voor 8 messen, 1 aanzetstaal en 1 schaar.",
+   "30 cm lang, 10 cm breed, 23,5 cm hoog; 4 rubberen anti-slipvoetjes.",
+   "Reinig het messenblok met een vochtige doek."
+  ],
+  "keys": [
+   "c685372d"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ messenblok\\ voor\\ 8\\ messen\\ beukenhout\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Beukenhouten messenblok, zwart gelakt, massief hout.",
+   "Plaats voor 8 messen, 1 aanzetstaal en 1 schaar.",
+   "30 cm lang, 10 cm breed, 23,5 cm hoog; 4 rubberen anti-slipvoetjes.",
+   "Reinig het messenblok met een vochtige doek."
+  ],
+  "keys": [
+   "606b4a9c"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Milano\\ magnetisch\\ messenblok\\ hout\\ naturel"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magnetisch messenblok van vier verticale elementen, geschikt voor circa 9-12 messen.",
+   "15 cm breed, 18 cm lang en 27 cm hoog.",
+   "Drie elementen hebben magneten waar de messen tegenaan kleven; het vierde element is decoratief.",
+   "De magneten zitten in het hout verwerkt.",
+   "Afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "5b747a9d"
+  ],
+  "mismatches": [
+   {
+    "topic": "Specificatie Totale diameter",
+    "websiteSays": "Specificatie \"Totale diameter: Slurp Publishers\"",
+    "note": "Onzinwaarde op de website; niet overnemen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Pisa\\ magnetisch\\ messenblok\\ vierkant\\ voor\\ 8\\ messen\\ beukenhout\\ naturel"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Beukenhouten magnetisch messenblok, vierkant: plaats voor 8 messen en één aanzetstaal.",
+   "Messen worden op 8 posities door magneten vastgehouden; voor het aanzetstaal is een rond gat van 1,4 cm diameter.",
+   "Vierkant, 20 cm lang en breed; het blok helt circa 20 graden over.",
+   "Afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "91f7bf39"
+  ],
+  "mismatches": [
+   {
+    "topic": "Hoogte",
+    "websiteSays": "Tekst: \"31 cm hoog\"; specificatie Hoogte: 30 cm",
+    "note": "Controleer de hoogte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Verona\\ messenblok\\ 26\\ cm\\ beukenhout"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Beukenhouten messenblok, massief, geschikt voor 10-12 messen.",
+   "25 cm lang, 26 cm hoog, 13 cm breed; de brede sleuven passen voor 2 of 3 messen, afhankelijk van de breedte.",
+   "4 rubberen voetjes voor stabiliteit op het aanrecht.",
+   "Reinig het messenblok met een vochtige doek."
+  ],
+  "keys": [
+   "fa478970"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Venezia\\ magnetisch\\ messenblok\\ 28\\ cm\\ beukenhout\\ bruin"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magnetisch messenblok van beukenhout: schuin geplaatste leggers met magneten aan de binnenzijde, plaats voor 6 messen.",
+   "Rubberen voetjes voor een stabiele plaatsing op het aanrecht.",
+   "Reinig het messenblok met een vochtige doek."
+  ],
+  "keys": [
+   "452920d2"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen",
+    "websiteSays": "Tekst: \"28 x 21 x 12 cm (l x b x h)\"; specificaties: Breedte 12 cm, Hoogte 21 cm, Lengte 28 cm",
+    "note": "Controleer breedte en hoogte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Venezia\\ magnetisch\\ messenblok\\ 28\\ cm\\ hout\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magnetisch messenblok van zwart hout: schuin geplaatste leggers met magneten aan de binnenzijde, plaats voor 6 messen.",
+   "Rubberen voetjes voor een stabiele plaatsing op het aanrecht.",
+   "Reinig het messenblok met een vochtige doek."
+  ],
+  "keys": [
+   "e1b9f554"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen",
+    "websiteSays": "Tekst: \"28 x 21 x 12 cm (l x b x h)\"; specificaties: Breedte 12 cm, Hoogte 21 cm, Lengte 28 cm",
+    "note": "Controleer breedte en hoogte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Venezia\\ magnetisch\\ messenblok\\ 5\\ elementen\\ hout\\ blank"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magnetisch messenblok van blank gelakt hout, 5 elementen: schuin geplaatste leggers met magneten aan de binnenzijde.",
+   "Plaats voor 12 messen: 3 kleinere messen naast elkaar op elk van de voorste twee leggers, 2 messen naast elkaar op elk van de bovenste drie.",
+   "34 x 12,5 x 21 cm.",
+   "Rubberen voetjes voor een stabiele plaatsing op het aanrecht.",
+   "Reinig het messenblok met een vochtige doek."
+  ],
+  "keys": [
+   "beba9afc"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Venezia\\ magnetisch\\ messenblok\\ 5\\ elementen\\ hout\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magnetisch messenblok van zwart gelakt hout, 5 elementen: schuin geplaatste leggers met magneten aan de binnenzijde.",
+   "Plaats voor 12 messen: 3 kleinere messen naast elkaar op elk van de voorste twee leggers, 2 messen naast elkaar op elk van de bovenste drie.",
+   "34 x 12,5 x 21 cm.",
+   "Rubberen voetjes voor een stabiele plaatsing op het aanrecht.",
+   "Reinig het messenblok met een vochtige doek."
+  ],
+  "keys": [
+   "1cc540ab"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Venezia\\ magnetisch\\ messenblok\\ voor\\ 8\\ messen\\ beukenhout\\ naturel"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magnetisch messenblok van transparant gelakt beukenhout, plaats voor 8 messen.",
+   "Bestaat uit 4 diagonale leggers met magneten, verbonden door een zwarte ruggengraat.",
+   "De magneten zitten in het hout verwerkt.",
+   "Afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "936011b3"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Venezia\\ magnetisch\\ messenblok\\ voor\\ 8\\ messen\\ beukenhout\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magnetisch messenblok van transparant gelakt beukenhout, plaats voor 8 messen.",
+   "Bestaat uit 4 diagonale leggers met magneten, verbonden door een zwarte ruggengraat.",
+   "Voorzien van magneten aan de binnenzijde.",
+   "Afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "87cd7e7c"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ messenblok\\ voor\\ 9\\ delen\\ beukenhout"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Beukenhouten messenblok, transparant gelakt, massief hout.",
+   "Plaats voor 9 onderdelen: 6 messen, 1 vleesvork, 1 aanzetstaal en 1 schaar.",
+   "30 cm lang, 10 cm breed, 23,5 cm hoog; 4 rubberen anti-slipvoetjes.",
+   "Reinig het messenblok met een vochtige doek."
+  ],
+  "keys": [
+   "52b9eba9"
+  ],
+  "mismatches": [
+   {
+    "topic": "Capaciteit",
+    "websiteSays": "Specificatie Capaciteit: 8 messen; tekst: 9 onderdelen, waarvan 6 messen",
+    "note": "Controleer hoeveel messen erin passen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ messenblok\\ voor\\ 9\\ onderdelen\\ hout\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zwart messenblok van massief beukenhout, voor maximaal 9 verschillende onderdelen tot 24,5 cm, waaronder een aanzetstaal en een keukenschaar.",
+   "Afmeting 8,5 x 19,5 x 21,5 cm; anti-slipvoetjes.",
+   "De onderdelen liggen veilig in de uitsparingen.",
+   "Reinig de buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "20f213f0"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ messenlegger\\ 40,5\\ cm\\ beukenhout\\ bruin"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messenlegger van beukenhout: plaats voor 3 kleine en 4 grote messen.",
+   "40,5 cm lang, 13,5 cm breed en 8 cm hoog.",
+   "Ligt plat, dus ook op te bergen in een lade; de messen liggen beschermd en veilig.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "d7670b5c"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ ovaal\\ messenblok\\ beukenhout"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Ovaal messenblok van massief beukenhout, voor maximaal 7 verschillende onderdelen, waaronder een aanzetstaal en een keukenschaar.",
+   "Afmeting 20,5 x 11 x 24 cm; anti-slipvoetjes.",
+   "Reinig de buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "72d01bfc"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Venezia\\ magnetisch\\ messenblok\\ 28\\ cm\\ walnoothout"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Venezia magnetisch messenblok van massief walnoothout, voor maximaal 6 messen van maximaal 29 cm.",
+   "Afmeting 12,5 x 21,5 x 23,5 cm; anti-slipvoetjes.",
+   "De messen blijven op hun plek dankzij een krachtige magneet.",
+   "Reinig de buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "0068dfb8"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 28 cm",
+    "websiteSays": "Naam \"28 cm\"; tekst en specificatie: 12,5 x 21,5 x 23,5 cm (Lengte 12,5 cm)",
+    "note": "Controleer de afmetingen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Venezia\\ magnetisch\\ messenblok\\ 5\\ elementen\\ walnoothout"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Venezia magnetisch messenblok van massief walnoothout, 5 elementen, voor maximaal 14 messen.",
+   "Afmeting 12,5 x 21 x 25 cm; anti-slipvoetjes.",
+   "De messen blijven op hun plek dankzij een krachtige magneet.",
+   "Reinig de buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "383a5aea"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ messenset\\ met\\ messenblok\\ hout\\ 7\\-delig"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van uw dagelijkse etenswaren.",
+  "bullets": [
+   "7-delige messenset van Duits messenstaal: 5 messen, een aanzetstaal en een messenblok.",
+   "Messen: koksmes 20 cm, vleesmes 20 cm, tomatenmes 13 cm, broodmes 20 cm en officemesje 10 cm; aanzetstaal 20 cm.",
+   "Kunststof heft met 3 klinknagels aan de doorlopende angel; de brede krop beschermt uw vingers.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6e8aff6e"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ oestermes\\ 16\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oestermes van messenstaal, 16 cm lang; het lemmet is 5,7 cm.",
+   "Het smalle lemmet heeft een stevige punt om tussen de schelpen van de oester te wrikken.",
+   "Houtkunststof heft met 2 klinknagels, voor een stevige grip.",
+   "Gemaakt van Franse kwaliteit messenstaal.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e66c99c6"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ paletmes\\ extra\\ groot\\ breed\\ 13\\ cm"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om een taart te bestrijken met icing of crème, of dun beslag te verdelen in een vorm of pan.",
+  "bullets": [
+   "Extra groot paletmes, 13 cm, brede uitvoering, van roestvrij staal en kunststof.",
+   "Om een taart te bestrijken met icing of crème of dun beslag te verdelen in een vorm of pan."
+  ],
+  "keys": [
+   "1a6a7441"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ paletmes\\ middel\\ breed\\ 13\\ cm"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om een taart te bestrijken met icing of crème, of dun beslag te verdelen in een vorm of pan.",
+  "bullets": [
+   "Paletmes van gemiddelde maat, 13 cm, brede uitvoering, van roestvrij staal en kunststof.",
+   "Om een taart te bestrijken met icing of crème of dun beslag te verdelen in een vorm of pan."
+  ],
+  "keys": [
+   "29245639"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ paletmes\\ klein\\ breed"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het verdelen van dun beslag in een roestvrijstalen pan of voor het keren van etenswaren op een teppanyaki-plaat.",
+  "bullets": [
+   "Paletmes met roestvrijstalen lemmet en zwarte kunststof handgreep.",
+   "Voor het verdelen van dun beslag in een roestvrijstalen pan of voor het keren van etenswaren op een teppanyaki-plaat.",
+   "Vaatwasmachinebestendig (volgens de tekst)."
+  ],
+  "keys": [
+   "035d1793"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ broodmes\\ 20,3\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Door het gekartelde lemmet snijdt u eenvoudig door de harde korst van brood.",
+  "bullets": [
+   "Oldenhof Sabatier broodmes, lemmet van messenstaal met kartel.",
+   "Snijdt eenvoudig door de harde korst van brood.",
+   "Kunststof heft met 3 klinknagels aan de doorlopende angel bevestigd.",
+   "Sabatier-vorm: ronde overgang van het heft en een verlengde krop achter het lemmet; slank Frans lemmet.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "90fb44f6"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ flexibel\\ fileermes\\ 15\\ cm\\ messenstaal",
+   "Oldenhof\\ Sabatier\\ flexibel\\ fileermes\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het dun snijden van vlees en vis.",
+  "bullets": [
+   "Oldenhof Sabatier flexibel fileermes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Sabatier-vorm: ronde overgang van het heft en een verlengde krop achter het lemmet; slank Frans lemmet.",
+   "Het heft bestaat uit twee zwarte schelpdelen, met klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4f68b64d"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ hammes\\ met\\ kuiltjes\\ 30,5\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Het mes is licht flexibel en geschikt om ham soepel te snijden.",
+  "bullets": [
+   "Oldenhof Sabatier hammes of zalmmes, lemmet van messenstaal met kuiltjes.",
+   "Licht flexibel; geschikt om ham soepel te snijden, door de lengte ook dunne plakjes.",
+   "Door de kuiltjes blijft ham of zalm niet aan het mes plakken.",
+   "Kunststof heft met 3 klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d4bfc616"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst: officemes",
+    "websiteSays": "De onderste tekst spreekt van \"het Oldenhof Sabatier officemes\"",
+    "note": "Tekst lijkt van een ander Sabatier-mes overgenomen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ koksmes\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor al uw snijwerk in de keuken, van vlees en vis tot groenten.",
+  "bullets": [
+   "Oldenhof Sabatier koksmes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Sabatier-vorm: ronde overgang van het heft en een verlengde krop achter het lemmet; slank Frans lemmet.",
+   "Het heft bestaat uit twee zwarte schelpdelen, met klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "dc18480e"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ messenset\\ 3\\-delig\\ messenstaal\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oldenhof Sabatier messenset: koksmes (20 cm), broodmes (20 cm) en officemes (10 cm).",
+   "Messenstalen lemmeten met doorlopende angel, aan weerszijden gevat in zwarte kunststof heftdelen.",
+   "Basisset voor een veelzijdige start van een messenverzameling; officemes en koksmes voor groenten en fruit, het broodmes voor brood en taart.",
+   "Reinigen met warm water en afwasmiddel; officemes en koksmes blijven langer scherp als u ze af en toe aanzet."
+  ],
+  "keys": [
+   "4974f476"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ officemes\\ 15,2\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het gecontroleerd en precies snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Oldenhof Sabatier officemes met een lemmet van messenstaal, langgerekter dan een klein koksmes.",
+   "Volgens de tekst het grootste officemes uit de Sabatier lijn.",
+   "Gemaakt van relatief zacht staal: makkelijk te onderhouden, maar sneller aan slijpen toe.",
+   "Kunststof heft met 3 klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel en goed afdrogen; bewaren in een messenhoes of messenblok."
+  ],
+  "keys": [
+   "75776aa7"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lengte",
+    "websiteSays": "Naam 15,2 cm; tekst \"lemmet met een lengte van 15 cm\"; specificatie Lengte lemmet: 14 cm",
+    "note": "Controleer de lemmetlengte."
+   },
+   {
+    "topic": "Tekst: vleesmes",
+    "websiteSays": "De onderste tekst spreekt van \"het Oldenhof Sabatier vleesmes\"",
+    "note": "Tekst lijkt van het vleesmes overgenomen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ officemes\\ 7,5\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van kleine hoeveelheden vlees, vis en groenten.",
+  "bullets": [
+   "Oldenhof Sabatier officemes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Sabatier-vorm: ronde overgang van het heft en een verlengde krop achter het lemmet; slank Frans lemmet.",
+   "Het heft bestaat uit twee zwarte schelpdelen, met klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3e6914eb"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ schilmes\\ 9\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen van groenten en fruit.",
+  "bullets": [
+   "Oldenhof Sabatier schilmes, lemmet van messenstaal.",
+   "Voor het snijden en schillen van groenten en fruit.",
+   "Kunststof heft met 3 klinknagels aan de doorlopende angel bevestigd.",
+   "Sabatier-vorm: ronde overgang van het heft en een verlengde krop achter het lemmet; slank Frans lemmet.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "776e3a6b"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst: tourneermes",
+    "websiteSays": "De eerste alinea spreekt van \"het Oldenhof Sabatier tourneermes\"; de pagina heet schilmes",
+    "note": "Controleer of dit een schilmes of een tourneermes is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ steakmes\\ kartel\\ 13\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van bereid vlees aan tafel.",
+  "bullets": [
+   "Oldenhof Sabatier steakmes met kartel, lemmet van messenstaal.",
+   "Voor het snijden van bereid vlees aan tafel.",
+   "De krop beschermt uw vingers tegen uitschieten.",
+   "Kunststof heft met 3 klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "dd89774e"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ tourneermes\\ 7\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen van ronde groenten, zoals appels en aardappels.",
+  "bullets": [
+   "Oldenhof Sabatier tourneermes, lemmet van messenstaal.",
+   "Kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Sabatier-vorm: ronde overgang van het heft en een verlengde krop achter het lemmet; slank Frans lemmet.",
+   "Het heft bestaat uit twee zwarte schelpdelen, met klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4b8812a5"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ uitbeenmes\\ 12,7\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om botten uit vlees en graten uit vis te snijden.",
+  "bullets": [
+   "Oldenhof Sabatier uitbeenmes, lemmet van messenstaal.",
+   "Snijdt botten uit vlees en graten uit vis; de duidelijke krop beschermt uw vingers.",
+   "Kunststof heft met 3 klinknagels aan de doorlopende angel bevestigd.",
+   "Sabatier-vorm: ronde overgang van het heft en een verlengde krop achter het lemmet; slank Frans lemmet.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "15a51e81"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ vleesmes\\ 15\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het dun snijden of trancheren van vlees.",
+  "bullets": [
+   "Oldenhof Sabatier vleesmes met een lemmet van messenstaal; kleinere variant van het vleesmes van 20 cm uit de Sabatier lijn.",
+   "Gemaakt van relatief zacht staal: makkelijk te onderhouden, maar sneller aan slijpen toe.",
+   "Kunststof heft met 3 klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel en goed afdrogen; bewaren in een messenhoes of messenblok."
+  ],
+  "keys": [
+   "1fb330a8"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lengte",
+    "websiteSays": "Naam 15 cm; tekst 15 cm; specificatie Lengte lemmet: 14 cm",
+    "note": "Controleer de lemmetlengte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Sabatier\\ vleesmes\\ 20\\ cm"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het dun snijden of trancheren van vlees.",
+  "bullets": [
+   "Oldenhof Sabatier vleesmes, lemmet van messenstaal.",
+   "Voor het dun snijden of trancheren van vlees.",
+   "Kunststof heft met 3 klinknagels aan de doorlopende angel bevestigd.",
+   "Sabatier-vorm: ronde overgang van het heft en een verlengde krop achter het lemmet; slank Frans lemmet.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "38f6b703"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ snijplank\\ 40\\ x\\ 28\\ x\\ 2,5\\ cm\\ beukenhout"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Snijplank van beukenhout, 40 cm lang en 28 cm breed (naam: 2,5 cm dik).",
+   "Formaat voor dagelijks gebruik in de keuken.",
+   "Beukenhout is zacht genoeg om op te snijden maar niet zo hard dat het mes of lemmet beschadigt.",
+   "Handgreep van beukenhout.",
+   "Aan te raden: inoliën met een smaakneutrale olie zoals druivenpit- of minerale olie; dit voorkomt verkleuring, uitdroging en kromtrekken of splijten.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6b23f1e2"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ grapefruitmes\\ 8\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van partjes uit een grapefruit.",
+  "bullets": [
+   "Oldenhof Solo grapefruitmes, lemmet van messenstaal.",
+   "Kartels aan twee zijden: voor links- en rechtshandig gebruik.",
+   "Snijdt moeiteloos partjes uit een grapefruit.",
+   "De angel van het mes loopt door tot achteraan het heft en is met klinknagels bevestigd.",
+   "Gemaakt van Duitse kwaliteit messenstaal.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ed0bf9e9"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ hakbijl\\ 14\\ cm\\ messenstaal",
+   "Oldenhof\\ Solo\\ hakbijl\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om grote stukken vlees en botten te doorklieven.",
+  "bullets": [
+   "Oldenhof Solo hakbijl van gesmeed messenstaal, met zwart kunststof heft.",
+   "Om grote stukken vlees en botten te doorklieven.",
+   "De angel van het mes loopt door tot achteraan het heft en is met klinknagels bevestigd.",
+   "Gemaakt van Duitse kwaliteit messenstaal.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "eb010ff4"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ kaasmes\\ 9,5\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het serveren van een kaasplank.",
+  "bullets": [
+   "Oldenhof Solo kaasmes met gekarteld lemmet, ronde punt en een gevorkt uiteinde.",
+   "Gebruik het mes bij het serveren van een kaasplank; door de kartels en de ronde punt snijdt u zachte en half-harde kazen.",
+   "De angel van het mes loopt door tot achteraan het heft en is met klinknagels bevestigd.",
+   "Gemaakt van Duitse kwaliteit messenstaal.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "591af58c"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ messenset\\ messenstaal\\ 4\\-delig"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Volgens de tekst uitstekend geschikt voor de startende kok.",
+  "bullets": [
+   "Oldenhof Solo messenset met koksmes, broodmes, vleesmes en officemes.",
+   "Lemmeten van messenstaal die doorlopen tot achteraan het heft; zwart kunststof heft met drie klinknagels.",
+   "Koksmes: lemmet 20 cm (totaal 33 cm). Broodmes: lemmet 20 cm (totaal 32 cm). Vleesmes: lemmet 15,5 cm (totaal 27,5 cm). Officemes: lemmet 9 cm (totaal 19 cm).",
+   "Aan te raden: de gladgeslepen messen regelmatig aanzetten op een aanzetstaal.",
+   "Gemaakt van Duitse kwaliteit messenstaal; reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e85c7e46"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ oestermes\\ 7\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oldenhof Solo oestermes met lemmet van messenstaal.",
+   "Sterk zwart kunststof heft met klinknagels, voor een stevige grip.",
+   "Het smalle lemmet heeft een stevige punt om tussen de schelpen van de oester te wrikken.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ed3801bc"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ ontbijtmes\\ 10\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het smeren van brood.",
+  "bullets": [
+   "Oldenhof Solo ontbijtmes met lemmet van messenstaal en zwart kunststof heft, aan de angel vastgeklonken.",
+   "Door de ronde punt en het brede lemmet uitermate geschikt voor het smeren van brood.",
+   "De snede heeft een kartel, zodat brood ook eenvoudig te snijden is.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3a5d08d4"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ schilmes\\ 9\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden en schillen vanuit de hand.",
+  "bullets": [
+   "Oldenhof Solo schilmes met lemmet van messenstaal.",
+   "Zwart kunststof heft met klinknagels aan de angel bevestigd.",
+   "Voor het snijden en schillen vanuit de hand.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a5644840"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ slagersmes\\ 25\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om grote stukken vlees in porties te snijden en braadstukken te trancheren.",
+  "bullets": [
+   "Oldenhof Solo slagersmes met lemmet van messenstaal en aangegoten kunststof heft.",
+   "Snijdt grote stukken vlees in porties en trancheert braadstukken.",
+   "Gemaakt van Duitse kwaliteit messenstaal; reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "54fe8a7e"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ steakmes\\ glad\\ 12,5\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oldenhof Solo steakmes met gladde snede en lemmet van messenstaal.",
+   "De gladde snede snijdt de vezels van het vlees door in plaats van ze uit elkaar te trekken.",
+   "Zwart kunststof heft met klinknagels vastgeklonken.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e3259d77"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ keukenmes\\ glad\\ lemmet\\ 13\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oldenhof Solo mes met gladde snede en lemmet van messenstaal; de tekst noemt het een steakmes.",
+   "De gladde snede snijdt de vezels van het vlees door in plaats van ze uit elkaar te trekken.",
+   "Zwart kunststof heft met klinknagels vastgeklonken.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8532f8c6"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: keukenmes",
+    "websiteSays": "Naam \"keukenmes glad lemmet\"; de tekst spreekt van \"Oldenhof Solo steakmes\"",
+    "note": "Controleer of dit een steakmes of een keukenmes is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ steakmes\\ met\\ golfkartel\\ 13\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oldenhof Solo steakmes met golfkartel op het lemmet van messenstaal.",
+   "De golfkartel vereenvoudigt het snijden van de sappigste steaks.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6dce6310"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ steakmes\\ met\\ kartel\\ 13\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oldenhof Solo steakmes met gekarteld lemmet van messenstaal en zwart kunststof heft.",
+   "Het lemmet is 13 cm lang; in totaal is het mes 23 cm lang.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "925ee62b"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ steakmessenset\\ met\\ kartel\\ 13\\ cm\\ messenstaal\\ 4\\ "
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van bereid vlees aan tafel.",
+  "bullets": [
+   "Set van 4 Oldenhof Solo steakmessen met lemmet van messenstaal.",
+   "Zwart kunststof heft met klinknagels vastgeklonken.",
+   "De snede heeft een kleine kartel aan de voorzijde van het mes.",
+   "Voor het snijden van bereid vlees aan tafel.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5ccde5ba"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Solo\\ worst\\-\\ /\\ tomatenmes\\ 11\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor producten met een taai vel en een zacht binnenste, zoals tomaat, paprika en worst.",
+  "bullets": [
+   "Oldenhof Solo worst- / tomatenmes met 11 cm lang lemmet met microkartels.",
+   "Snijdt eenvoudig door producten met een taai vel en een zacht binnenste: tomaat en paprika, maar ook worst.",
+   "De gevorkte punt maakt het makkelijk plakjes tomaat en worst op te pakken en te serveren.",
+   "Heft met klinknagels vastgeklonken aan het lemmet; gemaakt van Duitse kwaliteit messenstaal.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "fcecde13"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ tafelmes\\ met\\ garden\\ design\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het eten van allerlei soorten gerechten.",
+  "bullets": [
+   "Tafelmes van roestvrij staal, 21 cm lang, met kunststof handvat met garden-opdruk.",
+   "Voor het eten van allerlei gerechten; vrolijk design.",
+   "Te combineren met de vork en lepel uit deze collectie.",
+   "De tekst noemt het vaatwasmachinebestendig; de specificaties noemen handafwas."
+  ],
+  "keys": [
+   "af1e0452"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reiniging",
+    "websiteSays": "Tekst: \"vaatwasmachinebestendig\"; specificatie Reiniging: handafwas",
+    "note": "Controleer hoe het mes gereinigd moet worden."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ tafelmes\\ met\\ Mondriaan\\ design\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het eten van allerlei soorten gerechten.",
+  "bullets": [
+   "Tafelmes van roestvrij staal, 21 cm lang, met kunststof handvat met Mondriaan-opdruk.",
+   "Voor het eten van allerlei gerechten; vrolijk design.",
+   "Te combineren met de vork en lepel uit deze collectie.",
+   "De tekst noemt het vaatwasmachinebestendig; de specificaties noemen handafwas."
+  ],
+  "keys": [
+   "31333fea"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reiniging",
+    "websiteSays": "Tekst: \"vaatwasmachinebestendig\"; specificatie Reiniging: handafwas",
+    "note": "Controleer hoe het mes gereinigd moet worden."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ tomaten\\-/worstmes\\ 11\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van tomaat, paprika en worst.",
+  "bullets": [
+   "Oldenhof worst- / tomatenmes met 11 cm lang lemmet met microkartels.",
+   "Snijdt eenvoudig door producten met een taai vel en een zacht binnenste: tomaat en paprika, maar ook worst.",
+   "De gevorkte punt maakt het makkelijk plakjes tomaat en worst op te pakken en te serveren.",
+   "Duitse kwaliteit messenstaal; angel doorlopend tot achteraan het heft, met klinknagels bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a6551291"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ tourneermes\\ 6\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen, snijden en modeleren van groenten en fruit, zoals appels.",
+  "bullets": [
+   "Zwart Oldenhof tourneermes met stalen lemmet en kunststof heft; licht van gewicht.",
+   "Gekromd lemmet voor het schillen, snijden en modeleren van groenten en fruit, zoals appels.",
+   "Reinigen met warm water en een milde zeep."
+  ],
+  "keys": [
+   "7947eb60"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ wiegemes\\ 25\\ cm\\ messenstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het fijnsnijden van kruiden of kaas.",
+  "bullets": [
+   "Oldenhof Basic wiegemes (mezzaluna) van roestvrij staal met zwarte kunststof grepen.",
+   "Het lemmet heeft de vorm van een halve maan: wiegende beweging over de snijplank.",
+   "Voor het fijnsnijden van kruiden of kaas; hakt verse kruiden snel fijn.",
+   "De tekst noemt het mes 25 cm lang.",
+   "Reinigen met warm water en afwasmiddel; lengte volgens de tekst 25 cm."
+  ],
+  "keys": [
+   "abbc685e"
+  ],
+  "mismatches": [
+   {
+    "topic": "Totale lengte",
+    "websiteSays": "Tekst: \"Het wiegemes is 25 cm lang\"; specificatie Totale lengte: 18 cm",
+    "note": "Controleer de afmeting."
+   }
+  ]
+ }
+]

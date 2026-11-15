@@ -1,0 +1,251 @@
+[
+ {
+  "match": [
+   "Solis\\ Citrus\\ Juicer\\ rvs"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": "Voor het persen van verschillende soorten citrusvruchten, van kleine limoenen tot grote sinaasappels.",
+  "bullets": [
+   "Solis Citrus Juicer van roestvrij staal met mat afgewerkte behuizing; vermogen 160 Watt.",
+   "Start automatisch zodra de persarm naar beneden wordt gedrukt.",
+   "Schenktuit met druppelstop; antislip zuignapvoeten.",
+   "Losse onderdelen zijn te verwijderen voor reiniging, met warm water en afwasmiddel; buitenzijde met een vochtige doek."
+  ],
+  "keys": [
+   "b609d90e"
+  ],
+  "brandName": "Solis",
+  "requires": [
+   "zuignapvoeten"
+  ]
+ },
+ {
+  "match": [
+   "Solis\\ Duo\\ airfryer\\ 11\\ liter"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "airfryers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Solis Duo airfryer: twee afzonderlijk instelbare bereidingsladen van elk 5,5 liter, totaal 11 liter; 2200 watt.",
+   "Tien automatische bereidingsprogramma's (onder meer friet, kip, vlees, vis, groenten en cake); temperatuur 80 tot 200 °C; tijd handmatig 1 tot 60 minuten.",
+   "Synchronisatiefunctie: beide laden klaar op hetzelfde moment.",
+   "Rapid Air-technologie; verlicht kijkvenster in beide laden; herinneringsfunctie voor het omschudden.",
+   "Uitneembare manden met PFAS-vrije keramische coating; twee manden en twee mandroosters meegeleverd.",
+   "Reinigen na afkoelen met warm water en mild afwasmiddel; behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "cfb28cf7"
+  ],
+  "requires": [
+   "synchronisatiefunctie"
+  ]
+ },
+ {
+  "match": [
+   "Solis\\ Uno\\ airfryer\\ 7\\ liter"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "airfryers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Solis Uno airfryer, zwart, inhoud 7 liter, vermogen 2200 watt.",
+   "Tien automatische bereidingsprogramma's (onder meer friet, kip, vis, groenten en steak); temperatuur 80 tot 200 °C; timer 1 tot 60 minuten.",
+   "Rapid Air-technologie; naast de bovenwarmte een afzonderlijk inschakelbaar verwarmingselement aan de onderzijde.",
+   "Verlicht kijkvenster, herinneringsfunctie voor het omschudden, automatische uitschakeling na 30 seconden.",
+   "Uitneembare bakplaat met PFAS-vrije keramische antiaanbaklaag; behuizing blijft koel.",
+   "Reinigen na afkoelen met warm water en afwasmiddel; behuizing met een vochtige doek."
+  ],
+  "keys": [
+   "019f5b2b"
+  ],
+  "requires": [
+   "Rapid Air"
+  ]
+ },
+ {
+  "match": [
+   "Solis\\ Eco\\ Boil\\ Kettle\\ waterkoker\\ 1,7\\ liter"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Solis Eco Boil Kettle waterkoker, inhoud 1,7 liter, BPA-vrij.",
+   "Dubbelwandig: de buitenkant wordt niet heet.",
+   "3D-verwarmingssysteem: water wordt van onderen en van de zijkanten verwarmd, wat minder energie verbruikt dan een klassieke waterkoker.",
+   "Stiller door de speciale vorm van het waterreservoir.",
+   "Met de hand reinigen, indien nodig met kalkreiniger."
+  ],
+  "keys": [
+   "b3bc9566"
+  ],
+  "requires": [
+   "3D-verwarmingssysteem"
+  ]
+ },
+ {
+  "match": [
+   "Solis\\ Gelateria\\ Pro\\ Touch\\ ijsmachine\\ rvs"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "ijsmachines"
+  ],
+  "suitedFor": "Voor het bereiden van een heerlijk ijsgerecht of het zelf maken van yoghurt.",
+  "bullets": [
+   "Solis Gelateria Pro Touch ijsmachine van roestvrij staal: voor (frozen) yoghurt, sorbetijs of roomijs.",
+   "Programma's kiezen via het touch-screen of de machine instellen naar eigen recept.",
+   "Brede vulopening om tijdens de bereiding ingrediënten toe te voegen; transparant kijkvenster.",
+   "Per keer 1,5 liter ijs of 1,8 liter yoghurt.",
+   "Koelfunctie: houdt het ijs tot wel 20 minuten op temperatuur.",
+   "Geleverd met uitneembare ijsemmer, roerspatel, borstel en gebruiksaanwijzing; alle onderdelen BPA-vrij."
+  ],
+  "keys": [
+   "cc88d52e"
+  ],
+  "requires": [
+   "koelfunctie"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen",
+    "websiteSays": "De tekst zegt 43 x 25 x 29 cm; de specificaties zeggen Breedte 43 cm, Hoogte 25 cm, Lengte 43 cm.",
+    "note": "Controleer de afmetingen op de doos."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Solis\\ Gelatissima\\ ijsmachine"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "ijsmachines"
+  ],
+  "suitedFor": "Voor het maken van ijs of sorbet.",
+  "bullets": [
+   "Solis Gelatissima ijsmachine, wit kunststof, 1 liter ijs per keer.",
+   "Ingebouwd koelsysteem: geen diepvries nodig.",
+   "Drie standen: roeren, koelen en roeren, of alleen koelen; u bepaalt zelf hoelang de machine koud blijft.",
+   "Voor sorbet, frozen yoghurt, gelato en roomijs; ingrediënten als chocolade, vers fruit en noten zijn tijdens de bereiding toe te voegen.",
+   "Geleverd met roerwerk (BPA-vrij) en reinigingsborstel; ijsemmer is uitneembaar.",
+   "Behuizing met een vochtige doek reinigen; kunststof onderdelen en ijsemmer met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "74328fb6"
+  ],
+  "requires": [
+   "koelsysteem"
+  ]
+ },
+ {
+  "match": [
+   "Solis\\ Multi\\ Juicer"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Solis Multi Juicer: compacte elektrische sapjuicer van wit kunststof, BPA-vrij, inhoud 300 ml.",
+   "Met een druk op de knop perst hij diverse vruchten; anti-druppeltuit.",
+   "Twee kegels: grijs voor ronde vruchten (sinaasappels, citroenen, limoenen, grapefruit), zwart voor gesneden fruit (meloen, ananas, bessen, mango).",
+   "Reservoir en sapkegels mogen in de vaatwasser; de juicer zelf afnemen met een doek."
+  ],
+  "keys": [
+   "94a3a891"
+  ],
+  "requires": [
+   "twee verschillende kegels"
+  ]
+ },
+ {
+  "match": [
+   "Solis\\ Vac\\ Premium\\ Autolock\\ vacumeerapparaat"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Solis Vac Premium Autolock: automatisch vacumeerapparaat, 120 watt, roestvrij staal en kunststof.",
+   "Voor vacuümzakken en -rollen tot 30 centimeter breed; met één druk op de knop vergrendelt het deksel, vacumeert en sealt het apparaat.",
+   "Pulsefunctie: lucht handmatig en geleidelijk verwijderen bij kwetsbare of vochtige ingrediënten.",
+   "Geïntegreerde foliesnijder; aansluiting voor Solis vacuümcontainers (apart verkrijgbaar).",
+   "Anti-vingerafdrukcoating; bovenste en onderste afdichting zijn uitneembaar en verwisselbaar.",
+   "Uitneembare druipbak reinigen met warm water en afwasmiddel; behuizing met een licht vochtige doek."
+  ],
+  "keys": [
+   "2cefab47"
+  ],
+  "requires": [
+   "Autolock"
+  ]
+ },
+ {
+  "match": [
+   "Solis\\ Vac\\ Prestige\\ vacumeerapparaat\\ met\\ rolhouder\\ rvs"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Solis Vac Prestige vacumeerapparaat met rolhouder: kunststof behuizing met roestvrijstalen afwerking, 130 Watt vacuümpomp (onderdruk -0.8 bar).",
+   "Voor vacumeerzakken tot maximaal 30 cm breed; ingebouwde rolhouder om zakken op maat te maken.",
+   "Twee snelheden (stevige en delicate producten), twee sealstanden (droog of vochtig), pulsefunctie en seal-only functie.",
+   "Slang voor vacuümpotten (potten apart verkrijgbaar) meegeleverd, met opbergvak in de klep.",
+   "Meegeleverd: 2 maten vacuümrollen en 5 grote vacuümzakken.",
+   "Voor langer houdbaar maken, invriezen of sous-vide voorbereiding."
+  ],
+  "keys": [
+   "f094b56a"
+  ],
+  "requires": [
+   "rolhouder"
+  ],
+  "mismatches": [
+   {
+    "topic": "Modelnaam in de tekst",
+    "websiteSays": "De tekst noemt de machine ook \"Solis Vac Premium vacumeerapparaat\" en \"Solis Vac Pro\"; de productnaam is Solis Vac Prestige.",
+    "note": "Controleer of het hetzelfde model is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Solis\\ Vario\\ Temp\\ Kettle\\ waterkoker\\ 1,7\\ liter\\ rvs"
+  ],
+  "brandID": "solis",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Solis Vario Temp Kettle waterkoker van roestvrij staal, inhoud 1,7 liter.",
+   "Vier voorgeprogrammeerde standen: 70 °C (groene thee), 80 °C (witte thee), 90 °C (koffie), 100 °C (zwarte thee), aangegeven met kleuren.",
+   "Schakelt automatisch uit met een hoorbaar signaal; warmhoudfunctie houdt het water tot wel 2 uur op temperatuur.",
+   "Uitneembaar kalkfilter; droogkookbeveiliging; transparant kijkvenster; 360° draaibaar.",
+   "Buitenzijde reinigen met een licht vochtige doek, kalkfilter regelmatig onder de warme kraan."
+  ],
+  "keys": [
+   "6c5cbd8f"
+  ],
+  "requires": [
+   "warmhoudfunctie"
+  ]
+ }
+]

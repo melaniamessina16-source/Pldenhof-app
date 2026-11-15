@@ -1,0 +1,124 @@
+[
+ {
+  "match": [
+   "Serax\\ INKU\\ by\\ Sergio\\ Herman\\ koksmes\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "serax",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees en groenten (vlees, vis en groenten tijdens de mise-en-place).",
+  "bullets": [
+   "INKU by Sergio Herman koksmes met een messenstalen lemmet en een kersenhouten heft.",
+   "INKU-collectie, voor Serax ontwikkeld door topkok Sergio Herman; geïnspireerd door Japan: minimalistisch maar toch stijlvol.",
+   "In het lemmet zijn duidelijk de lagen van het staal te zien: een professioneel uiterlijk.",
+   "Heft van kersenhout: af en toe inwrijven met wat plantaardige olie. Reinigen met warm water en afwasmiddel; handafwas.",
+   "Regelmatig aanzetten op een aanzetstaal houdt de scherpte langer behouden."
+  ],
+  "keys": [
+   "19b909e9"
+  ],
+  "brandName": "Serax"
+ },
+ {
+  "match": [
+   "Serax\\ INKU\\ by\\ Sergio\\ Herman\\ schilmes\\ 9\\ cm\\ messenstaal"
+  ],
+  "brandID": "serax",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen van groenten en fruit.",
+  "bullets": [
+   "INKU by Sergio Herman schilmes met een messenstalen lemmet en een kersenhouten heft.",
+   "INKU-collectie, voor Serax ontwikkeld door topkok Sergio Herman; geïnspireerd door Japan: minimalistisch maar toch stijlvol.",
+   "In het lemmet zijn duidelijk de lagen van het staal te zien: een professioneel uiterlijk.",
+   "Heft van kersenhout: af en toe inwrijven met wat plantaardige olie. Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "78d1a5a4"
+  ]
+ },
+ {
+  "match": [
+   "Serax\\ INKU\\ by\\ Sergio\\ Herman\\ steakmes\\ 12\\ cm\\ messenstaal"
+  ],
+  "brandID": "serax",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om vlees, vis en groenten aan tafel te snijden.",
+  "bullets": [
+   "INKU by Sergio Herman steakmes met een messenstalen lemmet en een kersenhouten heft.",
+   "INKU-collectie, voor Serax ontwikkeld door topkok Sergio Herman; geïnspireerd door Japan: minimalistisch maar toch stijlvol.",
+   "In het lemmet zijn duidelijk de lagen van het staal te zien: een professioneel uiterlijk.",
+   "Heft van kersenhout: af en toe inwrijven met wat plantaardige olie. Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "8297b364"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst noemt koksmes",
+    "websiteSays": "De eerste alinea eindigt met: \"Gebruik het Serax INKU koksmes voor het snijden van vlees en groenten.\"",
+    "note": "Tekst noemt koksmes bij een steakmes; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Serax\\ Surface\\ by\\ Sergio\\ Herman\\ officemes"
+  ],
+  "brandID": "serax",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor kleine snijtaken in de keuken, bijvoorbeeld het schillen van fruit en groenten of het fijnsnijden van een teen knoflook.",
+  "bullets": [
+   "Surface officemes met een messenstalen lemmet en een esdoornhouten heft.",
+   "Surface by Sergio Herman: stone-washed (het staal wordt voor het slijpen geëtst en samen met stenen in een trommel gewassen), met een verweerd ogend oppervlak.",
+   "Tweedelig heft van esdoornhout, met klinknagels aan de doorlopende angel geklonken; esdoornhout is van nature waterafstotend, af en toe inwrijven met wat plantaardige olie.",
+   "Reinigen met warm water en afwasmiddel; handafwas. Regelmatig aanzetten op een aanzetstaal houdt de scherpte langer behouden."
+  ],
+  "keys": [
+   "d871afeb"
+  ]
+ },
+ {
+  "match": [
+   "Serax\\ Surface\\ by\\ Sergio\\ Herman\\ steakmes"
+  ],
+  "brandID": "serax",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het serveren van steak en andere vleesgerechten; het glad geslepen mes snijdt gemakkelijk door vlees zonder de structuur te beschadigen.",
+  "bullets": [
+   "Surface steakmes met een messenstalen lemmet en een esdoornhouten heft.",
+   "Surface by Sergio Herman: stone-washed (het staal wordt voor het slijpen geëtst en samen met stenen in een trommel gewassen), met een verweerd ogend oppervlak.",
+   "Tweedelig heft van esdoornhout, met klinknagels aan de doorlopende angel geklonken; esdoornhout is van nature waterafstotend, af en toe inwrijven met wat plantaardige olie.",
+   "Reinigen met warm water en afwasmiddel; handafwas. Regelmatig aanzetten op een aanzetstaal houdt de scherpte langer behouden."
+  ],
+  "keys": [
+   "5b26a54b"
+  ]
+ },
+ {
+  "match": [
+   "Serax\\ Passe\\-Partout\\ snijplank\\ 45\\ x\\ 27\\ cm\\ h\\ 2,8\\ cm\\ hout\\ zwart"
+  ],
+  "brandID": "serax",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Passe-Partout snijplank van zwart gekleurd hout, ontworpen door Vincent van Duysen.",
+   "De serie Passe-Partout is ontworpen voor het Belgische serviesmerk Serax; de onderdelen hebben contrasterende afwerkingen en zijn te combineren met ander servies.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "a6775f8e"
+  ]
+ }
+]

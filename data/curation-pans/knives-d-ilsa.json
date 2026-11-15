@@ -1,0 +1,68 @@
+[
+ {
+  "match": [
+   "Oldenhof\\ canneleermes\\ 16\\ cm\\ kunststof"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om gemakkelijk een sierlijk patroon in de schil van citrusvruchten, komkommer of courgette te snijden; ook om fruit decoratief te schillen.",
+  "bullets": [
+   "Canneleermes van kunststof en roestvrij staal; de slierten zijn te gebruiken ter decoratie van bijvoorbeeld cocktails.",
+   "Zet de groente of het fruit bij gebruik op een stabiel oppervlak, zodat u makkelijker de juiste druk zet.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "80fcc87e"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst noemt een ander merk",
+    "websiteSays": "Eerste alinea: \"Met het scherpe canneleermes van Ilsa...\"; de rest van de tekst en de naam zeggen Oldenhof",
+    "note": "Controleer merknaam in de tekst (Ilsa of Oldenhof)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ decoratiemes\\ rvs\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het decoratief snijden van groenten, boter, aardappelen en komkommer.",
+  "bullets": [
+   "Decoratiemesje van kunststof en roestvrij staal: druk het mesje verticaal naar beneden voor een zigzagsnede.",
+   "De greep heeft een ophangoog. Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "b2fd85cd"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ grapefruitmes\\ 10\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het uitsnijden van partjes grapefruit of andere citrusvruchten.",
+  "bullets": [
+   "Grapefruitmes met een smal, gebogen roestvrijstalen lemmet; door de kromming volgt het mes de vorm van de vrucht.",
+   "Aan twee zijden gekarteld, voor links- en rechtshandig gebruik.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "825c2eaa"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ }
+]

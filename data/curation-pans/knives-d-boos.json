@@ -1,0 +1,417 @@
+[
+ {
+  "match": [
+   "Boos\\ Blocks\\ rustieke\\ snijplank\\ 53\\ x\\ 30,5\\ x\\ 4,5\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Gemaakt van Noord-Amerikaans esdoornhout, met een rustieke afwerking aan de zijkanten.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Het hout heeft een warme uitstraling, is mesvriendelijk en heeft de juiste hardheid om diepe kerven tegen te gaan.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "e141d99a"
+  ],
+  "brandName": "Boos blocks"
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Chef's\\ snijplank\\ BBQ\\ 51\\ x\\ 38\\ x\\ 4\\ cm\\ esdoornhout\\ ",
+   "Boos\\ Blocks\\ Chef's\\ snijplank\\ met\\ sapgeul\\ 46\\ x\\ 27\\ x\\ 4\\ cm\\ \\ esdoornhout\\ ",
+   "Boos\\ Blocks\\ Chef's\\ snijplank\\ met\\ sapgeul\\ 51\\ x\\ 35\\ x\\ 4\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Chef's snijplank van Noord-Amerikaans esdoornhout met een sapgeul rondom, zodat sap of vocht niet van de plank af stroomt.",
+   "Gefreesde handgrepen aan de kopse kanten.",
+   "De onderzijde is niet voorzien van een sapgeul.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "8aba4e6e",
+   "9bccbf38"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ ChefLite\\ snijplank\\ 31\\ x\\ 20\\ cm\\ esdoornhout",
+   "Boos\\ Blocks\\ ChefLite\\ snijplank\\ 46\\ x\\ 31\\ x\\ 6\\ cm\\ langshout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ChefLite langshouten snijplank van Noord-Amerikaans esdoornhout.",
+   "Gefreesde handgrepen aan de kopse kanten.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "316ef9fe",
+   "653f7a0a"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Classic\\ hakblok\\ ø\\ 46\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Classic kopshouten hakblok, rond, van Noord-Amerikaans esdoornhout.",
+   "Dikke snijplank; beide zijden zijn te gebruiken als mesvriendelijke ondergrond voor snijden en hakken.",
+   "Het hout is mesvriendelijk en heeft de juiste hardheid om diepe kerven tegen te gaan.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "958e2c37"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Geneve\\ snijplank\\ met\\ walnoot\\ greep\\ 49,5\\ x\\ 30,5\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "'Geneve' snijplank van Noord-Amerikaans esdoornhout met walnoothouten eindstukken.",
+   "De eindstukken dienen als greep (gefreesde handgrepen) en tillen de plank een paar millimeter boven het werkblad.",
+   "De walnoten eindstukken zijn met halfhoutverbindingen aan de plank bevestigd.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "59fc63a5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: lengte",
+    "websiteSays": "Naam: 49,5 x 30,5 cm; specificaties: Lengte 46 cm",
+    "note": "Controleer de lengte van de plank (mogelijk met of zonder eindstukken)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Prepmaster\\ snijplank\\ 38\\ x\\ 35\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Prepmaster langshouten snijplank van Noord-Amerikaans esdoornhout met een uitneembaar bakje voor snijafval.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "68e2bcd3"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Prepmaster\\ snijplank\\ 46\\ x\\ 46\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Prepmaster langshouten snijplank van Noord-Amerikaans esdoornhout met een bakje voor snijafval (restbakje).",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "426539a2",
+   "aec36705"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Prestige\\ snijplank\\ 40,5\\ x\\ 25\\ x\\ 3,2\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Prestige snijplank van Noord-Amerikaans esdoornhout met aan beide kanten een handgreep.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "36a12702"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Prestige\\ snijplank\\ met\\ sapgeul\\ 40,5\\ x\\ 25\\ x\\ 3,5\\ cm\\ esdoornhout",
+   "Boos\\ Blocks\\ Prestige\\ snijplank\\ met\\ sapgeul\\ 46\\ x\\ 31\\ x\\ 3,5\\ cm\\ esdoornhout",
+   "Boos\\ Blocks\\ Prestige\\ snijplank\\ met\\ sapgeul\\ 51\\ x\\ 38\\ x\\ 3,5\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "De zijde met sapgeul is bedoeld voor bijvoorbeeld grote braadstukken; de vlakke zijde is te gebruiken als reguliere snijplank.",
+  "bullets": [
+   "Prestige langshouten snijplank van Noord-Amerikaans esdoornhout met een ophangoog in één hoek.",
+   "Eén zijde heeft een sapgeul rondom; de andere zijde is vlak.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "1b5eaf45"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ ProChef\\ BBQ\\ snijplank\\ 46\\ x\\ 31\\ x\\ 4\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "De zijde met sapgeul leent zich uitstekend voor het snijden van vochtige producten, zoals bereid vlees of watermeloen.",
+  "bullets": [
+   "ProChef BBQ langshouten snijplank van Noord-Amerikaans esdoornhout; extra dik.",
+   "Aan één zijde voorzien van een sapgeul; gefreesde handgrepen aan de kopse kanten.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "4d2bae27"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ ProChef\\ ronde\\ snijplank\\ ø\\ 46\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ProChef ronde snijplank van Noord-Amerikaans esdoornhout; extra dik.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "f9f0e66f"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ ProChef\\ snijplank\\ 51\\ x\\ 38\\ x\\ 4\\ cm\\ esdoornhout",
+   "Boos\\ Blocks\\ ProChef\\ snijplank\\ 51\\ x\\ 38\\ x\\ 6\\ cm\\ esdoornhout",
+   "Boos\\ Blocks\\ ProChef\\ snijplank\\ 61\\ x\\ 46\\ x\\ 6\\ cm\\ esdoornhout",
+   "Boos\\ Blocks\\ ProChef\\ snijplank\\ 61\\ x\\ 46\\ x\\ 4\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ProChef langshouten snijplank van Noord-Amerikaans esdoornhout; extra dik.",
+   "Gefreesde handgrepen aan de kopse kanten.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "99ed29b5",
+   "ddae42a0"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ ProChef\\ snijplank\\ met\\ rvs\\ grepen\\ 61\\ x\\ 46\\ x\\ 6\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ProChef langshouten snijplank van Noord-Amerikaans esdoornhout; extra dik.",
+   "Voorzien van sterke handgrepen aan de kopse kanten (volgens de naam: rvs grepen) en een sapgeul.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "f9fbaa7e"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ ProChef\\ snijplank\\ met\\ sapgeul\\ 51\\ x\\ 38\\ x\\ 6\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Tijdens het snijden komt vocht van gesneden ingrediënten in de sapgeul terecht.",
+  "bullets": [
+   "ProChef langshouten snijplank van Noord-Amerikaans esdoornhout; extra dik.",
+   "Gefreesde handgrepen aan de kopse kanten en een sapgeul.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "682774ce"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Walnut\\ Collection\\ hakblok\\ ø\\ 46\\ cm\\ walnoothout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Walnut Collection kopshouten hakblok, rond, van Noord-Amerikaans walnoothout.",
+   "Dikke snijplank; beide zijden zijn te gebruiken als mesvriendelijke ondergrond voor snijden en hakken.",
+   "Walnoothout heeft een donkere kleur met een warme uitstraling.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "e20e6ddf"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Walnut\\ Collection\\ snijplank\\ 46\\ x\\ 31\\ cm\\ walnootho"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Walnut Collection langshouten snijplank van Noord-Amerikaans walnoothout; donkere kleur, warme uitstraling.",
+   "Gefreesde handgrepen aan de kopse kanten.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "78f9f37d",
+   "b740df0c"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Walnut\\ Collection\\ snijplank\\ met\\ sapgeul\\ 61\\ x\\ 46\\ x\\ 4\\ cm\\ walnoothout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Walnut langshouten snijplank van Noord-Amerikaans walnoothout met gefreesde handgrepen aan de kopse kanten.",
+   "Eén zijde heeft een sapgeul: sappen stromen daar tijdens het snijden naartoe en het werkoppervlak blijft schoon.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "640a7f82"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ snijplank\\ 46\\ x\\ 33\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Dunne snijplank (met vierkante hoek) van Noord-Amerikaans esdoornhout met een warme uitstraling.",
+   "Heeft de juiste hardheid om diepe kerven tegen te gaan en is tegelijk mesvriendelijk.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "91d41f48"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Prepmaster\\ snijplank\\ 61\\ x\\ 46\\ cm\\ esdoornhout"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Prepmaster langshouten snijplank van Noord-Amerikaans esdoornhout met een bakje voor snijafval (restbakje).",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen; handafwas."
+  ],
+  "keys": [
+   "aec36705"
+  ]
+ },
+ {
+  "match": [
+   "Boos\\ Blocks\\ Walnut\\ Collection\\ snijplank\\ 51\\ x\\ 38\\ cm\\ walnootho"
+  ],
+  "brandID": "boosblocks",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Walnut Collection langshouten snijplank van Noord-Amerikaans walnoothout; donkere kleur, warme uitstraling.",
+   "Gefreesde handgrepen aan de kopse kanten.",
+   "Beide zijden zijn te gebruiken als mesvriendelijke snijondergrond.",
+   "Onderhoud: wrijf de plank iedere 3 tot 4 weken, afhankelijk van het gebruik, in met speciale Boos olie of crème voor snijplanken.",
+   "Reinigen met een vochtige doek en afwasmiddel en direct afdrogen."
+  ],
+  "keys": [
+   "b740df0c"
+  ]
+ }
+]

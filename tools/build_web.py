@@ -41,7 +41,7 @@ def main(raw=None):
     # brand folders photographed in the shop (data/folders/), e.g. the Sage comparison chart
     shutil.copyfile('data/folders/sage.json', os.path.join(WEB, 'data/sage.json'))
     figures = sorted('img/booklet/' + f for f in os.listdir(os.path.join(WEB, 'img/booklet')) if f.endswith('.webp'))
-    images = sorted({v['image'] for p in cat['products'] for v in p['variants']} | set(figures))
+    images = figures   # product photos are cached separately (sw.js IMG cache + background prefetch in app.js)
     h = hashlib.sha256()
     for f in SHELL[1:] + images:
         h.update(f.encode()); h.update(open(os.path.join(WEB, f), 'rb').read())

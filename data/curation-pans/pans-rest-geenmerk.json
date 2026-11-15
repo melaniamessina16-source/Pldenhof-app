@@ -1,0 +1,83 @@
+[
+ {
+  "match": [
+   "Cristel\\ Castel'Pro\\ Multiply\\ sauspan\\ ø\\ 14\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Castel'Pro Multiply sauspan van roestvrij staal (naam: Cristel), diameter 14 cm, inhoud 1 liter, hoogte 10 cm.",
+   "Opgebouwd uit vijf lagen: buiten 18/0 edelstaal, drie lagen aluminium, binnen 18/10 edelstaal; ontwikkeld voor de professionele keuken en voor thuis.",
+   "Geronde wanden: gemakkelijk roeren met garde of lepel; gebogen schenkrand om druppelvrij uit te schenken.",
+   "Geschikt voor alle warmtebronnen en de oven (18/0 staal).",
+   "Vaatwasmachinebestendig (dichtgelegde gietrand); gegoten roestvrijstalen grepen geleiden weinig warmte."
+  ],
+  "keys": [
+   "febd305d"
+  ],
+  "mismatches": [
+   {
+    "topic": "Merk",
+    "websiteSays": "Merkveld op de website is leeg; naam en tekst: Cristel",
+    "note": "Merk afgeleid uit de naam."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ kookpan\\ ø\\ 12\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het koken van diverse soorten en hoeveelheden groenten, soep en saus.",
+  "bullets": [
+   "Strate Removable kookpan van roestvrij staal met geborstelde afwerking (naam: Cristel), diameter 12 cm, inhoud 0,6 liter.",
+   "Bodem met drie lagen (inductie roestvrij staal - aluminium - 18/10 roestvrij staal): snelle en gelijkmatige warmteverdeling.",
+   "Verwijderbare handvatten (los te verkrijgen): zo kan de pan ook in de oven.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven; maximumtemperatuur 300°C (spec).",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "57c54536"
+  ],
+  "mismatches": [
+   {
+    "topic": "Merk",
+    "websiteSays": "Merkveld op de website is leeg; naam en tekst: Cristel",
+    "note": "Merk afgeleid uit de naam."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Strate\\ Removable\\ soeppan\\ ø\\ 24\\ cm\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van soep of andere gerechten die veel ruimte nodig hebben.",
+  "bullets": [
+   "Strate Removable soeppan van roestvrij staal (naam: Cristel), diameter 24 cm, inhoud 9,5 liter.",
+   "Extra dikke bodem met aluminium plaat die in L-vorm de hele bodem omkapselt; roestvrijstalen bodem voor goede verwarming op inductie.",
+   "Aan twee zijden een metalen greepje waaraan een steel of een stel handgrepen kan worden bevestigd; grepen en stelen worden afzonderlijk verkocht.",
+   "Geschikt voor elektrisch, gas, halogeen, inductie, keramisch en de oven; maximumtemperatuur 300°C (spec).",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "d263b1d2"
+  ],
+  "mismatches": [
+   {
+    "topic": "Merk",
+    "websiteSays": "Merkveld op de website is leeg; naam en tekst: Cristel",
+    "note": "Merk afgeleid uit de naam."
+   }
+  ]
+ }
+]

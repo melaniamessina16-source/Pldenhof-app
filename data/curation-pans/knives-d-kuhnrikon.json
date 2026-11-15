@@ -1,0 +1,110 @@
+[
+ {
+  "match": [
+   "Kuhn\\ Rikon\\ Kindermes\\ glad\\ hond\\ rvs\\ oranje",
+   "Kuhn\\ Rikon\\ Kindermes\\ kartel\\ hond\\ rvs\\ blauw",
+   "Kuhn\\ Rikon\\ Kindermes\\ kartel\\ hond\\ rvs\\ zwart"
+  ],
+  "brandID": "kuhnrikon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van zacht voedsel of het smeren van bijvoorbeeld pindakaas.",
+  "bullets": [
+   "Kindvriendelijk kindermes, vormgegeven als een hondje, met een aantrekkelijke vormgeving voor jonge kinderen (glad of kartel en kleur: zie productnaam).",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "27c2cee7"
+  ],
+  "brandName": "Kuhn Rikon",
+  "colours": [
+   "oranje",
+   "blauw",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Kuhn\\ Rikon\\ Kindermessen\\ glad\\ en\\ kartel\\ hond\\ rvs\\ blauw\\ groen",
+   "Kuhn\\ Rikon\\ Kindermessen\\ glad\\ en\\ kartel\\ hond\\ rvs\\ oranje\\ zwart"
+  ],
+  "brandID": "kuhnrikon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van zacht voedsel of het smeren van bijvoorbeeld pindakaas.",
+  "bullets": [
+   "Set van 2 kindvriendelijke kindermessen (glad en kartel), vormgegeven als een hondje (kleuren: zie productnaam).",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "25443477"
+  ],
+  "colours": [
+   "blauw groen",
+   "oranje zwart"
+  ]
+ },
+ {
+  "match": [
+   "Kuhn\\ Rikon\\ Kinderset\\ snijplank\\ en\\ wiegemes"
+  ],
+  "brandID": "kuhnrikon",
+  "typeIDs": [
+   "keukenmessen",
+   "snijplanken"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Kinderset met een wiegemes en een snijplank, beide aantrekkelijk vormgegeven voor de jonge hobbykoks.",
+   "De groene snijplank ziet eruit als een schaap en is bedoeld voor het snijden van groente en fruit.",
+   "Het wiegemes ziet eruit als een kat, is voorzien van een beschermkap en is kindvriendelijk; voor het snijden van groenten of fruit.",
+   "De kunststof producten uit de set zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "f7b13d81"
+  ]
+ },
+ {
+  "match": [
+   "Kuhn\\ Rikon\\ Snijplank\\ schaap\\ 23\\ x\\ 18,5\\ cm\\ kunststof\\ groen"
+  ],
+  "brandID": "kuhnrikon",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Voor het snijden van groente en fruit.",
+  "bullets": [
+   "Kinder-snijplank, aantrekkelijk vormgegeven voor de jonge hobbykoks: de groene plank ziet eruit als een schaap.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "0227ba49"
+  ],
+  "colours": [
+   "groen"
+  ]
+ },
+ {
+  "match": [
+   "Kuhn\\ Rikon\\ Wiegemes\\ Kat\\ rvs\\ rood"
+  ],
+  "brandID": "kuhnrikon",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten of fruit.",
+  "bullets": [
+   "Kindvriendelijk wiegemes, aantrekkelijk vormgegeven voor de jonge hobbykoks: het ziet eruit als een kat.",
+   "Voorzien van een beschermkap.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "3f3c087a"
+  ],
+  "colours": [
+   "rood"
+  ]
+ }
+]

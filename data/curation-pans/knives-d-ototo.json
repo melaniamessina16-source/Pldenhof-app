@@ -1,0 +1,41 @@
+[
+ {
+  "match": [
+   "Ototo\\ Ninja\\ Board\\ snijplank\\ hout"
+  ],
+  "brandID": "ototo",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Voor het snijden van groenten en fruit, met een knipoog.",
+  "bullets": [
+   "Snijplank van hardhout in de vorm van een ninja; 25,4 x 17,8 cm, 1,5 cm dik.",
+   "Met geïntegreerde meshouder en een bijgeleverd mes.",
+   "Ototo ontwerpt keukengerei met humor: volledig functionerend, maar met een eigen draai.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "e3478668"
+  ],
+  "brandName": "Ototo"
+ },
+ {
+  "match": [
+   "Ototo\\ Pirate\\ Board\\ snijplank\\ hout"
+  ],
+  "brandID": "ototo",
+  "typeIDs": [
+   "snijplanken"
+  ],
+  "suitedFor": "Voor het snijden van groenten en fruit, met een knipoog.",
+  "bullets": [
+   "Snijplank van beukenhout in de vorm van een piraat; 30,2 x 17,8 cm, 1,5 cm dik.",
+   "Met geïntegreerde meshouder en een bijgeleverd mes.",
+   "Ototo ontwerpt keukengerei met humor: volledig functionerend, maar met een eigen draai.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "ab336c74"
+  ]
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "match": [
+   "Continenta\\ messenblok\\ voor\\ 7\\ delen\\ 22\\ x\\ 9,5\\ x\\ 20\\ cm\\ acacia"
+  ],
+  "brandID": "continenta",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Om keukenmessen op te bergen; de horizontale plaatsing helpt de snijkanten te beschermen.",
+  "bullets": [
+   "Messenblok voor 7 delen, 22 x 9,5 x 20 cm; plaats voor maximaal 5 messen.",
+   "Messenblok van geolied acaciahout; het donkere hout is met natuurlijke olie behandeld, waardoor de houtnerf zichtbaar blijft.",
+   "Horizontale plaatsing: de messen rusten niet met de snede op de onderzijde van de sleuven, wat de snijkanten helpt te beschermen; een aantal sleuven is ruim genoeg voor grotere en gesmede keukenmessen.",
+   "Aparte openingen voor een aanzetstaal en een keukenschaar; afgewerkt met een metalen Continenta-logo.",
+   "Reinigen met een vochtige doek en eventueel een kleine hoeveelheid afwasmiddel; het hout volledig laten drogen en zo nodig opnieuw behandelen met houtbalsem of olie. Niet vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "53b7ff3a"
+  ],
+  "brandName": "Continenta",
+  "mismatches": [
+   {
+    "topic": "Spelfout",
+    "websiteSays": "Eerste alinea: \"maximaal 5 messenen is voorzien van sleuven\"",
+    "note": "Woorden aan elkaar geschreven (messen en)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Continenta\\ messenblok\\ voor\\ 9\\ delen\\ 22\\ x\\ 11,5\\ x\\ 22\\ cm\\ acacia"
+  ],
+  "brandID": "continenta",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Om keukenmessen op te bergen; de horizontale plaatsing helpt de snijkanten te beschermen.",
+  "bullets": [
+   "Messenblok voor 9 delen, 22 x 11,5 x 22 cm; plaats voor maximaal 7 messen.",
+   "Messenblok van geolied acaciahout; het donkere hout is met natuurlijke olie behandeld, waardoor de houtnerf zichtbaar blijft.",
+   "Horizontale plaatsing: de messen rusten niet met de snede op de onderzijde van de sleuven, wat de snijkanten helpt te beschermen; een aantal sleuven is ruim genoeg voor grotere en gesmede keukenmessen.",
+   "Aparte openingen voor een aanzetstaal en een keukenschaar; afgewerkt met een metalen Continenta-logo.",
+   "Reinigen met een vochtige doek en eventueel een kleine hoeveelheid afwasmiddel; het hout volledig laten drogen en zo nodig opnieuw behandelen met houtbalsem of olie. Niet vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "e045f396"
+  ]
+ }
+]

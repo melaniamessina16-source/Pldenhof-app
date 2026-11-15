@@ -1,0 +1,3522 @@
+[
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ schilmes\\ 8\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en schoonmaken van groenten en fruit uit de hand.",
+  "bullets": [
+   "Schilmes uit de Wüsthof Classic serie met een lemmet van 8 cm van gesmeed messenstaal.",
+   "De rechte snede is bedoeld voor het schillen en schoonmaken van groenten en fruit uit de hand.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Zwart kunststof heft, met klinknagels vastgeklonken aan de angel; met een krop tussen heft en lemmet voor vingerbescherming.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2c7fd619"
+  ],
+  "brandName": "Wüsthof"
+ },
+ {
+  "match": [
+   "Wüsthof\\ kaasmes\\ 12\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van half-harde tot harde kazen.",
+  "bullets": [
+   "Kaasmes met een lemmet van 12 cm van messenstaal en een kunststof heft.",
+   "Het speciale geëtste lemmet zorgt ervoor dat de kaas niet plakt.",
+   "Speciaal geschikt voor half-harde tot harde kazen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7773c454"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messenbeschermer\\ 26,5\\ x\\ 3\\ cm\\ kunststof\\ wit"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messenbeschermer van kunststof, 26,5 x 3 cm, aan de binnenzijde voorzien van rood vilt.",
+   "Beschermt het lemmet van het mes; het mes kan er ook veilig mee worden vervoerd.",
+   "De hoes blijft goed om het mes geklemd zitten.",
+   "In de lengte op maat te knippen, zodat hij goed om een specifiek mes aansluit.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "5a434e73"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messenbeschermer\\ 31,5\\ x\\ 3\\ cm\\ kunststof\\ wit"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messenbeschermer van wit kunststof, 31,5 x 3 cm (lengte x breedte).",
+   "De binnenzijde is van vilt, zacht genoeg voor alle messen.",
+   "De hoezen blijven goed om de messen geklemd zitten en beschermen zo niet alleen de messen, maar ook de handen.",
+   "Het lemmet is beschermd en het mes is veilig te vervoeren.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "a1c06c75"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messenblok\\ 15\\ x\\ 15\\ x\\ 28,5\\ cm\\ donker\\ beukenhout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messenblok van massief donker beukenhout, 15 x 15 x 28,5 cm (lengte x breedte x hoogte).",
+   "Biedt ruimte aan 12 keukenmessen van verschillende formaten en één aanzetstaal.",
+   "Aan de binnenkant een kunststof borstel, zodat de messen naar wens kunnen worden opgeborgen.",
+   "Wordt exclusief messen geleverd.",
+   "Het blok mag niet te nat worden: reinigen met een lichtvochtige doek en afdrogen met een droge (thee)doek."
+  ],
+  "keys": [
+   "d00288fe"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messentas\\ 50,5\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messentas van zacht afwasbaar kunststof, 50,5 cm lang, voor het veilig opbergen en vervoeren van messen.",
+   "Plaats voor 9 messen met een maximale lemmetlengte van 34 cm.",
+   "De tas is op te rollen en sluit af met klittenband.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "fc9e97fd"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messentas\\ 43\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messentas van zacht afwasbaar kunststof, 43 cm lang, voor het veilig opbergen en vervoeren van messen.",
+   "Plaats voor 6 messen met een maximale lemmetlengte van 26 cm.",
+   "De tas is op te rollen en sluit af met klittenband.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "fc9e97fd"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ universele\\ messenslijper\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messenslijper met vier opties: grove of fijne slijping en Europese of Aziatische hoek.",
+   "Het slijpgedeelte bestaat uit vier sleuven waar u de messen rechtstandig doorheen trekt.",
+   "Met deze messenslijper kunt u elk mes slijpen.",
+   "Reinigen met een doek; de slijper niet nat maken."
+  ],
+  "keys": [
+   "881ce2ff"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ aanzetstaal\\ 23\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Aanzetstaal van roestvrij staal, slijpgedeelte 23 cm, totale lengte 34 cm inclusief het ergonomische kunststof handvat.",
+   "Voor het aanzetten van messen met een maximale lemmetlengte van 23 cm.",
+   "Bedoeld voor het dagelijks onderhoud: het aanzetten zet de snede van het mes opnieuw recht, waardoor het mes minder weerstand heeft bij het snijden.",
+   "Het mes wordt ongeveer 5 keer per kant langs het staal getrokken, onder een hoek van 20°.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet."
+  ],
+  "keys": [
+   "e777a385"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ aanzetstaal\\ 18\\ cm\\ rvs"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Aanzetstaal uit de Wüsthof Classic serie met een staallengte van 18 cm; inclusief zwart kunststof heft 32,8 cm.",
+   "Voor het aanzetten van messen met een gladde snede.",
+   "Heeft dezelfde vormgeving als de messen uit de Classic serie.",
+   "Bedoeld voor het dagelijks onderhoud: het aanzetten zet de snede van het mes opnieuw recht.",
+   "Het mes wordt ongeveer 5 keer per kant langs het staal getrokken, onder een hoek van 20°."
+  ],
+  "keys": [
+   "9e3f0689"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ aanzetstaal\\ 23\\ cm\\ rvs"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Aanzetstaal uit de Wüsthof Classic serie met een staallengte van 23 cm; inclusief zwart kunststof heft 33 cm.",
+   "Voor het aanzetten van messen met een lemmet tot 23 cm lengte.",
+   "Het heft is met klinknagels geklonken en past bij de messen van de Wüsthof Classic serie.",
+   "Bedoeld voor het dagelijks onderhoud: het aanzetten zet de snede van het mes opnieuw recht.",
+   "Het mes wordt ongeveer 5 keer per kant langs het staal getrokken, onder een hoek van 20°."
+  ],
+  "keys": [
+   "2ee790ad"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ aanzetstaal\\ 26\\ cm"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Aanzetstaal uit de Wüsthof Classic serie met een staallengte van 26 cm; inclusief zwart kunststof heft 38 cm.",
+   "Voor het aanzetten van messen met een lemmet tot 26 cm lengte.",
+   "Het heft is met klinknagels geklonken en past bij de messen van de Wüsthof Classic serie.",
+   "Bedoeld voor het dagelijks onderhoud: het aanzetten zet de snede van het mes opnieuw recht.",
+   "Het mes wordt ongeveer 5 keer per kant langs het staal getrokken, onder een hoek van 20°."
+  ],
+  "keys": [
+   "427415ba"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ bakkersmes\\ met\\ golfkartel\\ 26\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het doorsnijden van brood en cakes, en van biscuits voordat u ze vult.",
+  "bullets": [
+   "Bakkersmes (super slicer) uit de Wüsthof Classic serie met een lemmet van 26 cm van messenstaal met golfkartel; totale lengte 38,5 cm inclusief zwart kunststof heft.",
+   "Door de bolle golfkartel ontstaan er nauwelijks kruimels bij het snijden van brood en cakes.",
+   "Bij uitstek geschikt voor het doorsnijden van biscuits voordat u ze vult; snijdt ook moeiteloos door groenten, fruit en vlees.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2e3845de"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ broodmes\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodmes uit de Wüsthof Classic serie met een gekarteld lemmet van messenstaal, 20 cm lang.",
+   "Snijdt eenvoudig brood met zachte en harde korsten, maar ook taart en cakes.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Zwart kunststof heft, met klinknagels vastgeklonken aan de angel; met een krop tussen heft en lemmet voor vingerbescherming.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "cd75e1e7"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ broodmes\\ 23\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ broodmes\\ 23\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodmes uit de Wüsthof Classic serie met een gekarteld lemmet van messenstaal, 23 cm lang.",
+   "Zwart kunststof heft, met klinknagels aan het mes bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "537fe677",
+   "5a4b7718"
+  ],
+  "mismatches": [
+   {
+    "topic": "Twee pagina's met dezelfde naam",
+    "websiteSays": "Twee pagina's heten \"Wüsthof Classic broodmes 23 cm messenstaal\": een met Snedevorm golfkartel (tekst: golfkartel die zelf ook gekarteld is, totale lengte 35,8 cm), een met Snedevorm kartel (tekst: gekarteld lemmet, hardheid 58 HRC).",
+    "note": "Controleer of dit twee verschillende messen zijn en welk artikel de klant bedoelt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ broodmes\\ 26\\ cm"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodmes uit de Wüsthof Classic serie met een gekarteld lemmet van messenstaal, 26 cm lang.",
+   "Snijdt eenvoudig brood met zachte en harde korsten.",
+   "Dankzij het lange lemmet leent het mes zich ook voor het horizontaal doorsnijden van taartbodems.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Zwart kunststof heft, met klinknagels vastgeklonken aan de angel; met een krop tussen heft en lemmet voor vingerbescherming.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0e08e5c8"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Chai\\ Dao\\ chinees\\ koksmes\\ met\\ kuiltjes\\ 17\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Chai Dao (Chinees koksmes) uit de Wüsthof Classic serie met een lemmet van 17 cm met kuiltjes, zodat etenswaren niet vastkleven aan het messenstaal; totale lengte 29,5 cm.",
+   "Traditionele Chinese mesvorm, even veelzijdig als een westers koksmes.",
+   "Het rechte lemmet snijdt zeer fijne groentejulliene; er is genoeg ronding voor een wiegbeweging bij het fijnhakken van kruiden, gember of knoflook.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "790766ab"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Chinees\\ koksmes\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees en groenten.",
+  "bullets": [
+   "Chinees koksmes uit de Wüsthof Classic serie met een lemmet van 18 cm lang en 7,8 cm breed.",
+   "Traditionele Chinese vorm, bedoeld voor het snijden van vlees en groenten.",
+   "De zeer rechte snede snijdt eenvoudig ragfijne juliennes; het brede lemmet is ook geschikt om gesneden groenten of vlees op te scheppen en in de wok te doen.",
+   "Niet geschikt om als bijl te gebruiken, ondanks de vorm.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d506ff13"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ extra\\ breed\\ koksmes\\ 20\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ extra\\ breed\\ koksmes\\ 26\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Extra breed koksmes uit de Wüsthof Classic serie met een messenstalen lemmet dat extra breed is voor meer gebruiksgemak.",
+   "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1755e990"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ extra\\ zwaar\\ koksmes\\ 36\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Extra zwaar koksmes uit de Wüsthof Classic serie met een messenstalen lemmet.",
+   "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "54dd4cad"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lemmetlengte",
+    "websiteSays": "Naam: 36 cm; specificaties: Lengte 36 cm, 50,5 cm; tekst: lemmet van 32 cm en totale lengte 50,3 cm.",
+    "note": "Controleer de lemmetlengte (36 of 32 cm) en de totale lengte (50,5 of 50,3 cm)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ flexibel\\ fileermes\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Flexibel fileermes uit de Wüsthof Classic serie met een lemmet van 16 cm; totale lengte 28 cm inclusief zwart kunststof heft.",
+   "Door de flexibiliteit van het lemmet kunt u nauwkeurig vis fileren en vlees ontvliezen met minimaal verlies aan afsnijdsels.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1864c143"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ flexibel\\ fileermes\\ 18\\ cm\\ messenstaal\\ zwart",
+   "Wüsthof\\ Classic\\ smal\\ flexibel\\ fileermes\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Fileermes uit de Wüsthof Classic serie met een smal flexibel lemmet.",
+   "Door de flexibiliteit van het lemmet kunt u nauwkeurig vis fileren en vlees ontvliezen met minimaal verlies aan afsnijdsels.",
+   "Het smalle lemmet is extra wendbaar.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "90078466"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ flexibel\\ fileermes\\ met\\ kuiltjes\\ 32\\ cm\\ messen"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om vlees en vis te fileren.",
+  "bullets": [
+   "Flexibel fileermes uit de Wüsthof Classic serie met een messenstalen lemmet van 32 cm met kuiltjes.",
+   "Groot en flexibel om eenvoudig vlees en vis te fileren.",
+   "De kuiltjes vormen luchtbellen tussen de vis en het lemmet, waardoor u minder weerstand ervaart tijdens het snijden.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "bf0a29ec"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ flexibel\\ fileermes\\ \\-\\ smal\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Flexibel fileermes uit de Wüsthof Classic serie met een extra smal flexibel lemmet van 20 cm; totale lengte 30,5 cm inclusief zwart kunststof heft.",
+   "Door de flexibiliteit van het smalle lemmet kunt u nauwkeurig vis en vlees fileren met minimaal verlies aan afsnijdsels.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7e2bf1ab"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ flexibel\\ uitbeenmes\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Flexibel uitbeenmes uit de Wüsthof Classic serie met een smal lemmet van 16 cm; totale lengte 28,5 cm.",
+   "Door de extra smalle vorm snijdt u met het fileer- en uitbeenmes exact rond botten en gewrichten.",
+   "Het flexibele lemmet geeft optimale bewegingsvrijheid en controle bij het snijwerk.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "eeb84763"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ gebogen\\ vleesvork\\ 16\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ gebogen\\ vleesvork\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het uit de pan nemen van vlees en bij het voorsnijden en serveren ervan.",
+  "bullets": [
+   "Gebogen vleesvork uit de Wüsthof Classic serie, gemaakt van gesmeed messenstaal.",
+   "De gebogen vorm maakt de vork gemakkelijk te gebruiken bij het in plakken snijden van vlees.",
+   "Voor het uit de pan nemen van vlees en bij het voorsnijden en serveren ervan; samen met een steakmes houdt u het bereide vlees stevig vast.",
+   "Messenstaal met een hardheid van 58 HRC; kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a45349ec"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ hakbijl\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Door het dikke staal en de robuuste uitvoering geschikt om ook stukken bot door te hakken.",
+  "bullets": [
+   "Hakbijl uit de Wüsthof Classic serie met een lemmet van 16 cm lang en 7 cm breed.",
+   "Door het dikke staal en de robuuste uitvoering geschikt om ook stukken bot door te hakken.",
+   "Zwart heft, met drie klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "56779ed1"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ aanzetstaal\\ 26\\ cm"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Aanzetstaal uit de Wüsthof Classic Ikon serie, 26 cm lang; inclusief zwarte kunststof handgreep 38 cm.",
+   "Heeft dezelfde vormgeving als de messen uit de Classic Ikon serie.",
+   "Bedoeld voor het dagelijks onderhoud: het aanzetten zet de snede van het mes opnieuw recht.",
+   "Het mes wordt ongeveer 5 keer per kant langs het staal getrokken, onder een hoek van 20°.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet."
+  ],
+  "keys": [
+   "3e905370"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ broodmes\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodmes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 20 cm; totale lengte 32 cm inclusief zwart kunststof heft.",
+   "Door de kartels snijdt u eenvoudig door de harde korst van brood.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft voor een comfortabele grip; de angel loopt door tot achterin het heft en het heft is met klinknagels aan de angel bevestigd.",
+   "De tweede krop aan de achterzijde van het mes geeft het mes een goede balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "71abdf32"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ broodmes\\ met\\ dubbele\\ kartel\\ 23\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodmes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 23 cm met golfkartel, die zelf ook gekarteld is.",
+   "De kartels zorgen ervoor dat u eenvoudig door de korst van het brood snijdt.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft voor een comfortabele grip; de angel loopt door tot achterin het heft en het heft is met klinknagels aan de angel bevestigd.",
+   "De tweede krop aan de achterzijde van het mes geeft het mes een goede balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d9eec939"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ Chinees\\ koksmes\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Chinees koksmes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 18 cm lang en 7,75 cm breed (spec: 7,8 cm).",
+   "Voorzien van een gladde snede; te gebruiken om te snijden met een Chinese snijtechniek.",
+   "Niet te gebruiken als bijl, ondanks de vorm.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ed8f19c8"
+  ],
+  "mismatches": [
+   {
+    "topic": "Breedte lemmet",
+    "websiteSays": "Tekst: 7,75 cm breed; specificatie: Breedte 7,8 cm.",
+    "note": "Afronding; controleer of dit klopt als een klant de breedte vraagt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ Chinees\\ koksmes\\ en\\ tweetraps\\ messenslijper"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tweedelige set: Chinees koksmes en tweetraps messenslijper uit de Wüsthof Classic Ikon serie.",
+   "Het koksmes heeft een lemmet van messenstaal van 18 cm lang en 7,75 cm breed, met gladde snede; te gebruiken voor een Chinese snijtechniek.",
+   "Het mes is niet als bijl te gebruiken, ondanks de vorm.",
+   "De handslijper heeft een slijpopening met een grove en een met een fijne korrel: trek het mes door de openingen om de scherpte terug te geven.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e1b4c747"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ extra\\ smal\\ fileermes\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om vis te fileren en vlees te ontvliezen.",
+  "bullets": [
+   "Extra smal fileermes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 18 cm; totale lengte 31 cm.",
+   "Met het fileermes fileert u vis en ontvliest u vlees.",
+   "Door het zeer smalle lemmet optimale bewegingsvrijheid voor zeer nauwkeurig fileerwerk.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft voor een comfortabele grip; de angel loopt door tot achterin het heft en het heft is met klinknagels aan de angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0e903159"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ flexibel\\ fileermes\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om zelf verse vis te fileren.",
+  "bullets": [
+   "Flexibel fileermes uit de Wüsthof Classic Ikon serie met een flexibel lemmet van 16 cm; totale lengte 28,5 cm.",
+   "Om zelf verse vis te fileren.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft voor een comfortabele grip; de angel loopt door tot achterin het heft en het heft is met klinknagels aan de angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e21f6ae5"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ koksmes\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Koksmes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 16 cm; totale lengte 29 cm.",
+   "Voor het snijden van vlees, vis en groenten.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft voor een comfortabele grip; de angel loopt door tot achterin het heft en het heft is met klinknagels aan de angel bevestigd.",
+   "De tweede krop aan de achterzijde van het mes geeft het mes een goede balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1005d529"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ koksmes\\ 18\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ Ikon\\ koksmes\\ 20\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ Ikon\\ koksmes\\ 23\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Koksmes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal; lengte lemmet staat in de productnaam.",
+   "Voor het snijden van vlees, vis en groenten.",
+   "Zwart kunststof heft, met klinknagels aan de doorlopende angel vastgeklonken.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "De tweede krop aan de achterzijde van het mes geeft het mes een goede balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e38b396c"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ koksmes\\ 26\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Koksmes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 26 cm; totale lengte 39 cm.",
+   "Voor het snijden van vlees, vis en groenten.",
+   "Zwart kunststof heft, met klinknagels aan de doorlopende angel vastgeklonken.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "De tweede krop aan de achterzijde van het mes geeft het mes een goede balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1486c3ad"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ messenset\\ koksmes\\ en\\ officemes\\ messenstaal\\ 2\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tweedelige messenset uit de Wüsthof Classic Ikon serie: koksmes en officemes.",
+   "Beide messen zijn van messenstaal met een zwart kunststof greep.",
+   "Het koksmes heeft een lemmet van 20 cm en is voor het snijden van vlees, vis en groenten.",
+   "Het officemes heeft een messenstalen lemmet van 9 cm, voor bijvoorbeeld groenten en fruit.",
+   "De messen blijven scherp door ze regelmatig met een messenstaal te behandelen.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "28335bc2"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ messenset\\ messenstaal\\ 3\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Met deze messen kunt u de meeste veelvoorkomende snijtaken in de keuken uitvoeren.",
+  "bullets": [
+   "Driedelige messenset uit de Wüsthof Classic Ikon serie: koksmes, vleesmes en officemes.",
+   "Met deze messen kunt u de meeste veelvoorkomende snijtaken in de keuken uitvoeren.",
+   "Het officemes en koksmes regelmatig aanzetten op een aanzetstaal houdt ze lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5e20ff0c"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ messenset\\ met\\ messenblok\\ 6\\-delig\\ crème"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een goede basis waarmee u de meeste snijtaken in de keuken kunt uitvoeren.",
+  "bullets": [
+   "Messenblok van zwart beukenhout met aluminium voet, gevuld met een zesdelige messenset uit de Wüsthof Classic Ikon serie.",
+   "Inhoud: officemes (lemmet 9 cm), worst-/tomatenmes (14 cm), vleesmes (16 cm), broodmes (20 cm), koksmes (20 cm) en santokumes (17 cm).",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "26f2f194"
+  ],
+  "colours": [
+   "crème"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 6-delig crème",
+    "websiteSays": "Naam: \"6-delig crème\"; specificaties: Aantal delen 7 en Kleur wit; tekst: blok van zwart beukenhout met aluminium voet, zesdelige messenset.",
+    "note": "Controleer kleur van het blok (crème/wit of zwart) en of het om 6 of 7 delen gaat (6 messen + blok?)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ messenset\\ met\\ messenblok\\ beukenhout\\ 8\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een uitgebreide basis waarmee nagenoeg alle snijtaken uitgevoerd kunnen worden.",
+  "bullets": [
+   "Messenblok van beukenhout, gevuld met een messenset uit de Wüsthof Classic Ikon serie.",
+   "Inhoud: tourneermes 7 cm, officemes 9 cm, broodmes 20 cm, vleesmes 16 cm, koksmes 20 cm, aanzetstaal 23 cm en keukenschaar.",
+   "Gebruik het aanzetstaal om de gladde messen te onderhouden.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "52bdb482"
+  ],
+  "mismatches": [
+   {
+    "topic": "Schilmes of tourneermes",
+    "websiteSays": "Tekst: \"De set bestaat uit: een schilmes, officemes, ...\"; opsomming daaronder: \"Tourneermes 7 cm\".",
+    "note": "Controleer welk mes in de set zit (schilmes of tourneermes)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ messenset\\ met\\ messenblok\\ beukenhout\\ zwart\\ 10\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een basis waarmee u de meeste snijtaken in de keuken kunt uitvoeren.",
+  "bullets": [
+   "Modern vormgegeven messenblok van zwart beukenhout met aluminium voet, gevuld met een negendelige messenset uit de Wüsthof Classic Ikon serie.",
+   "Inhoud: tourneermes, officemes, tomatenmes, vleesmes, vleesvork, broodmes, santokumes, koksmes en een aanzetstaal.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft voor een comfortabele grip; de angel loopt door tot achterin het heft en het heft is met klinknagels aan de angel bevestigd.",
+   "De tweede krop aan de achterzijde van het mes geeft het mes een goede balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a71e5766"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 10-delig",
+    "websiteSays": "Naam en specificaties: 10-delig (Aantal delen 10); tekst: \"gevuld met een 9-delige messenset\" (negen onderdelen opgesomd).",
+    "note": "Waarschijnlijk 9 onderdelen plus blok; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ messenset\\ met\\ messenblok\\ beukenhout\\ zwart\\ 7\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een goede basis waarmee u de meeste snijtaken in de keuken kunt uitvoeren.",
+  "bullets": [
+   "Modern vormgegeven messenblok van zwart beukenhout met aluminium voet, gevuld met een zesdelige messenset uit de Wüsthof Classic Ikon serie.",
+   "Inhoud: officemes, tomatenmes, vleesmes, broodmes, Santoku en een koksmes.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "159ecdc6"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 7-delig",
+    "websiteSays": "Naam en specificaties: 7-delig (Aantal delen 7); tekst: \"gevuld met een zesdelige messenset\" (zes messen opgesomd).",
+    "note": "Waarschijnlijk 6 messen plus blok; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ messenset\\ met\\ messenblok\\ eikenhout\\ zwart\\ 8\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een uitgebreide basis waarmee nagenoeg alle snijtaken uitgevoerd kunnen worden.",
+  "bullets": [
+   "Messenblok uit de Wüsthof Classic Ikon serie, gevuld met een complete messenset.",
+   "Inhoud: broodmes, koksmes, universeel mes, officemes, schilmes, aanzetstaal en keukenschaar.",
+   "Gebruik het aanzetstaal om de gladde messen te onderhouden.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "afc1606a"
+  ],
+  "mismatches": [
+   {
+    "topic": "Houtsoort messenblok",
+    "websiteSays": "Naam en specificaties: eikenhout (Materiaal: Eikenhout); tekst: \"Het Wüsthof Classic Ikon messenblok is van zwart beukenhout\".",
+    "note": "Controleer of het blok van eikenhout of beukenhout is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ messenset\\ met\\ messenblok\\ essenhout\\ zwart\\ 9\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een uitgebreide basis waarmee u nagenoeg alle snijtaken in de keuken kunt uitvoeren.",
+  "bullets": [
+   "Messenblok van zwart essenhout uit de Wüsthof Classic Ikon serie, gevuld met een complete messenset.",
+   "Inhoud: schilmes, officemes, worstmes, broodmes, koksmes, Santoku mes, aanzetstaal en keukenschaar.",
+   "Gebruik het aanzetstaal om de gladde messen te onderhouden.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "77972231"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ messenset\\ santoku\\ en\\ groentemes\\ messenstaal\\ 2\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tweedelige messenset uit de Wüsthof Classic Ikon serie: Santokumes met kuiltjes en schilmes (ook groentenmes genoemd).",
+   "Beide messen zijn van messenstaal met een zwart kunststof greep.",
+   "Het Santokumes heeft een lemmet van 17 cm (totale lengte 30,5 cm) voor het snijden van vlees, vis en groenten.",
+   "Het schilmes heeft een lemmet van 8 cm (totale lengte 18,5 cm) voor het schillen van groente en fruit, of om het te snijden.",
+   "De messen blijven scherp door ze regelmatig met een messenstaal te behandelen.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "29d5c8d4"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ Nakiri\\ mes\\ 17\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Nakiri mes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 17 cm; totale lengte 29,5 cm.",
+   "Over de gehele lengte van het lemmet zijn kuiltjes aangebracht, waardoor etenswaren er niet aan kleven.",
+   "Relatief rechte snede; gebaseerd op traditioneel Japanse nakiri messen.",
+   "Zwart kunststof heft, met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b8b6d6bd"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ officemes\\ 12\\ cm"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van kleinere stukken groenten, fruit en vlees.",
+  "bullets": [
+   "Officemes uit de Wüsthof Classic Ikon serie met een messenstalen lemmet van 12 cm; totale lengte 22,5 cm.",
+   "Voor het snijden van kleinere stukken groenten, fruit en vlees.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1da3719b"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ officemes\\ 9\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van kleinere groenten, fruit en vlees.",
+  "bullets": [
+   "Officemes uit de Wüsthof Classic Ikon serie met een messenstalen lemmet van 9 cm; totale lengte 19,5 cm.",
+   "Voor het snijden van kleinere groenten, fruit en vlees.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "18e0238e"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ Santoku\\ mes\\ met\\ kuiltjes\\ 17\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Santoku mes met kuiltjes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 17 cm; totale lengte 30,5 cm.",
+   "Voor het snijden van vlees, vis en groenten.",
+   "De kuiltjes in het lemmet zorgen ervoor dat de ingrediënten niet aan het mes blijven plakken.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft voor een comfortabele grip; de angel loopt door tot achterin het heft en het heft is met klinknagels aan de angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6f49a8f5"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ Santokumes\\ met\\ kuiltjes\\ 14\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Santokumes met kuiltjes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 14 cm; totale lengte 26 cm.",
+   "Voor het snijden van vlees, vis en groenten.",
+   "De kuiltjes in het lemmet zorgen ervoor dat de ingrediënten niet aan het mes blijven plakken.",
+   "Kunststof heft, met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4a2d1d8d"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ schilmes\\ 8\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en schoonmaken van groenten en fruit uit de hand.",
+  "bullets": [
+   "Schilmes (ook groentenmes genoemd) uit de Wüsthof Classic Ikon serie met een messenstalen lemmet van 8 cm; totale lengte 18,5 cm.",
+   "Het rechte mes is voor het schillen en schoonmaken van groenten en fruit uit de hand.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "bc8ba91d"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ steakmes\\ 12\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees op het bord.",
+  "bullets": [
+   "Steakmes uit de Wüsthof Classic Ikon serie met een messenstalen lemmet van 12 cm; totale lengte 22,9 cm.",
+   "Met het steakmes snijdt u vlees op het bord.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes langdurig scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "149e3792"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ steakmessenset\\ messenstaal\\ 4\\ stuks"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees op het bord.",
+  "bullets": [
+   "Steakmessenset van vier messen uit de Wüsthof Classic Ikon serie.",
+   "Elk mes heeft een messenstalen lemmet van 12 cm; totale lengte 22,9 cm.",
+   "Met het steakmes snijdt u vlees op het bord.",
+   "Regelmatig aanzetten op een aanzetstaal houdt de messen langdurig scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c13e81a3"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ Superslicer\\ 26\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het doorsnijden van brood en cakes, en van biscuits voordat u ze vult.",
+  "bullets": [
+   "Bakkersmes (superslicer) uit de Wüsthof Classic Ikon serie met een lemmet van 26 cm van messenstaal met golfkartel; totale lengte 39,5 cm.",
+   "Dankzij de bolle golfkartel ontstaan er nauwelijks kruimels bij het snijden van brood en cakes.",
+   "Bij uitstek geschikt voor het doorsnijden van biscuits voordat u ze vult; snijdt ook moeiteloos door groenten, fruit en vlees.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "72261620"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ tourneermes\\ 7\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en tourneren van groentes.",
+  "bullets": [
+   "Tourneer- of schilmes uit de Wüsthof Classic Ikon serie met een messenstalen lemmet van 7 cm; totale lengte 17,5 cm.",
+   "Voor het schillen en tourneren van groentes.",
+   "Door de holle vorm van het lemmet kunt u zeer dun schillen.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "22869b26"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ trancheerset\\ messenstaal\\ 2\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het trancheren van vlees in de keuken of aan tafel.",
+  "bullets": [
+   "Tweedelige trancheerset uit de Wüsthof Classic Ikon serie: vleesmes met een lemmetlengte van 20 cm en vleesvork met een lengte van 16 cm.",
+   "Beide onderdelen zijn gesmeed van messenstaal en voorzien van een kunststof heft.",
+   "Voor het trancheren van vlees in de keuken of aan tafel.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9d54bfb2"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ uitbeenmes\\ 14\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Uitbeenmes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 14 cm; totale lengte 26,5 cm.",
+   "Dankzij het smalle lemmet snijdt u soepel om botten heen met minimaal verlies van vlees.",
+   "Zwart kunststof heft, met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0bfbbffa"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ vleesmes\\ 16\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ Ikon\\ vleesmes\\ 20\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ Ikon\\ vleesmes\\ 23\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vleesmes uit de Wüsthof Classic Ikon serie met een messenstalen lemmet; lengte lemmet staat in de productnaam.",
+   "Door de relatief rechte vorm van het lemmet snijdt en trancheert u eenvoudig uw vlees.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft voor een comfortabele grip; de angel loopt door tot achterin het heft en het heft is met klinknagels aan de angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f0d80c3b"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ vleesvork\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het uit de pan nemen van vlees en bij het portioneren en serveren van vlees.",
+  "bullets": [
+   "Vleesvork uit de Wüsthof Classic Ikon serie met tanden van 16 cm, gemaakt van gesmeed messenstaal; totale lengte 26,5 cm inclusief zwart kunststof heft.",
+   "Voor het uit de pan nemen van vlees en bij het portioneren en serveren van vlees.",
+   "Samen met een steakmes houdt u het bereide vlees stevig vast.",
+   "Messenstaal met een hardheid van 58 HRC; kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "facbdf9b"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ worst\\-\\ en\\ tomatenmes\\ 14\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Worst- en tomatenmes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 14 cm; totale lengte 25 cm.",
+   "De kartels zorgen ervoor dat u eenvoudig door het taaie vel van worst en tomaat snijdt.",
+   "Kunststof heft, met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9d4b2898"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Ikon\\ gevorkte\\ worst\\-\\ en\\ tomatenmes\\ 14\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Gevorkt worst- en tomatenmes uit de Wüsthof Classic Ikon serie met een lemmet van messenstaal van 14 cm; totale lengte 25 cm.",
+   "De kartels zorgen ervoor dat u eenvoudig door het taaie vel van tomaat en worst snijdt.",
+   "Met de gevorkte punt pakt u de plakjes tomaat eenvoudig op.",
+   "Kunststof heft, met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0635c25b"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ kaasmes\\ 14\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om (half-)harde kaas te snijden.",
+  "bullets": [
+   "Kaasmes uit de Wüsthof Classic serie met een glad lemmet van messenstaal van 14 cm; totale lengte 24,7 cm.",
+   "Voorzien van een gevorkte punt om de afgesneden kaas op te pakken.",
+   "Voor (half-)harde kaas, eventueel licht ingevet met neutrale olie.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "aa5a120e"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ koksmes\\ 12\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ koksmes\\ 14\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Koksmes uit de Wüsthof Classic serie met een kort messenstalen lemmet; lengte lemmet staat in de productnaam.",
+   "Het korte lemmet maakt het mes geschikt voor kleine precieze werkjes, bijvoorbeeld het maken van groentedecoraties.",
+   "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ee8f9474"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ koksmes\\ 16\\ cm\\ halfkrop\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis, en van kleinere hoeveelheden of kleine groenten, bijvoorbeeld sjalotten.",
+  "bullets": [
+   "Koksmes met halve bolster (halfkrop) uit de Wüsthof Classic serie met een messenstalen lemmet van 16 cm; totale lengte 28 cm.",
+   "De halve bolster maakt het mes beter te slijpen en iets lichter.",
+   "Het middellange lemmet is geschikt voor het snijden van kleinere hoeveelheden of kleine groenten, bijvoorbeeld sjalotten.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "80cac532"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ koksmes\\ 18\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ koksmes\\ 20\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ koksmes\\ 23\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Koksmes uit de Wüsthof Classic serie met een messenstalen lemmet; lengte lemmet staat in de productnaam.",
+   "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Zwart kunststof heft, met klinknagels vastgeklonken aan de angel; met een krop tussen heft en lemmet voor vingerbescherming.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "bcf10f9c"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ koksmes\\ 20\\ cm\\ halfkrop\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van dagelijkse hoeveelheden van allerlei groenten.",
+  "bullets": [
+   "Koksmes met halve bolster (halfkrop) uit de Wüsthof Classic serie met een messenstalen lemmet van 20 cm; totale lengte 33,1 cm.",
+   "De halve bolster maakt het mes beter te slijpen en iets lichter.",
+   "Het relatief lange lemmet is geschikt voor het snijden van dagelijkse hoeveelheden van allerlei groenten.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7782940c"
+  ],
+  "mismatches": [
+   {
+    "topic": "Totale lengte",
+    "websiteSays": "Specificaties: Lengte 33 cm; tekst: totale lengte 33,1 cm.",
+    "note": "Afronding; controleer indien nodig."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ koksmes\\ 23\\ cm\\ halfkrop\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van dagelijkse hoeveelheden van allerlei groenten, inclusief grote producten als kool.",
+  "bullets": [
+   "Koksmes met halve bolster (halfkrop) uit de Wüsthof Classic serie met een messenstalen lemmet van 23 cm; totale lengte 36,1 cm.",
+   "De halve bolster maakt het mes beter te slijpen en iets lichter.",
+   "Het lange lemmet is geschikt voor het snijden van dagelijkse hoeveelheden van allerlei groenten, inclusief grote producten als kool.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "fc4dbe32"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ koksmes\\ 26\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ koksmes\\ 32\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Koksmes uit de Wüsthof Classic serie met een messenstalen lemmet; lengte lemmet staat in de productnaam.",
+   "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Zwart kunststof heft, met klinknagels vastgeklonken aan de angel; met een krop tussen heft en lemmet voor vingerbescherming.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "325e2acc"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ koksmes\\ met\\ kuiltjes\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Koksmes uit de Wüsthof Classic serie met een van kuiltjes voorzien messenstalen lemmet van 20 cm; totale lengte 33,5 cm.",
+   "De kuiltjes vormen luchtbellen en zorgen voor minder wrijving: u snijdt met minder moeite door bijvoorbeeld harde wortelgroenten en aardappelen.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c39b3879"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ 3\\-delig\\ messenstaal\\ met\\ koksmes"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Driedelige messenset uit de Wüsthof Classic serie: koksmes van 20 cm, vleesmes van 16 cm en officemes van 9 cm.",
+   "De messen hebben een messenstalen lemmet en een zwart kunststof heft, vastgeklonken met drie klinknagels.",
+   "Regelmatig aanzetten op een aanzetstaal houdt de messen lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "796aa500"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ messenstaal\\ 2\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tweedelige messenset uit de Wüsthof Classic serie: Santoku mes met kuiltjes van 17 cm en officemes van 8 cm.",
+   "Beide messen hebben een messenstalen lemmet en een zwart kunststof heft, vastgeklonken met drie klinknagels.",
+   "Regelmatig aanzetten op een aanzetstaal houdt de messen lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "df0886dc"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ met\\ broodmes\\ messenstaal\\ 3\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Driedelige messenset uit de Wüsthof Classic serie: koksmes van 20 cm, broodmes van 20 cm en officemes van 9 cm.",
+   "De messen hebben een messenstalen lemmet en een zwart kunststof heft, vastgeklonken met drie klinknagels.",
+   "De messen met een glad lemmet regelmatig aanzetten op een aanzetstaal houdt ze lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "11cc742e"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ messenstaal\\ 5\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vijfdelige messenset uit de Wüsthof Classic serie: koksmes van 20 cm, vleesmes van 23 cm, broodmes van 20 cm, officemes van 10 cm en een aanzetstaal van 23 cm.",
+   "De messen hebben een messenstalen lemmet en een zwart kunststof heft, vastgeklonken met drie klinknagels.",
+   "Regelmatig aanzetten op een aanzetstaal houdt de messen lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ffb358aa"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ messenstaal\\ 6\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zesdelige messenset uit de Wüsthof Classic serie: koksmes van 20 cm, vleesmes van 23 cm, broodmes van 20 cm, uitbeenmes van 14 cm, officemes van 10 cm en een aanzetstaal van 23 cm.",
+   "De messen hebben een messenstalen lemmet en een zwart kunststof heft, vastgeklonken met drie klinknagels.",
+   "Regelmatig aanzetten op een aanzetstaal houdt de messen lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a865fdb0"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ met\\ messenblok\\ 10\\-delig",
+   "Wüsthof\\ Classic\\ messenset\\ met\\ messenblok\\ 10\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het voorbereiden en verwerken van o.a. groenten, fruit, vlees of vis; de set is de ideale set voor dagelijkse kookwerkzaamheden.",
+  "bullets": [
+   "Messenblok met messenset uit de Wüsthof Classic serie, 24 x 12 x 23 cm (de blokken zijn volgens de tekst van donkerbruin hout of massief beukenhout).",
+   "De set bestaat uit: tourneermesje 7 cm, officemesje 10 cm, worstmes 14 cm, broodmes 23 cm, vleesmes 20 cm, koksmes 20 cm, vleesvork 16 cm, keukenschaar en aanzetstaal 23 cm.",
+   "Reinigen met warm water en een milde zeep."
+  ],
+  "keys": [
+   "a5a8acb6",
+   "b80ff154"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 10-delig",
+    "websiteSays": "Naam en specificaties: 10-delig (Aantal delen 10); tekst: \"Het blok wordt geleverd met een 9-delige set\" (negen onderdelen opgesomd).",
+    "note": "Waarschijnlijk 9 onderdelen plus blok; controleer."
+   },
+   {
+    "topic": "Kleur/houtsoort blok",
+    "websiteSays": "Twee pagina's met dezelfde naam: \"messenset met messenblok 10-delig\"; een met spec Kleur bruin en tekst \"donkerbruin hout\", de ander met Kleur zwart en tekst \"massief beukenhout\".",
+    "note": "Controleer welk blok bij welk artikel hoort; beide pagina's hebben dezelfde productnaam."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ met\\ messenblok\\ 13\\-delig",
+   "Wüsthof\\ Classic\\ messenset\\ met\\ messenblok\\ 13\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Met de zeer uitgebreide set kunt u nagenoeg alle snijtaken in de keuken aan.",
+  "bullets": [
+   "Messenset uit de Wüsthof Classic serie in een essenhouten messenblok: messen, een vleesvork, een schaar en een aanzetstaal.",
+   "Met de zeer uitgebreide set kunt u nagenoeg alle snijtaken in de keuken aan.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "baf43ca3",
+   "02cd43af"
+  ],
+  "mismatches": [
+   {
+    "topic": "Twee pagina's met dezelfde naam (13-delig)",
+    "websiteSays": "Twee pagina's heten \"Wüsthof Classic messenset met messenblok 13-delig\": een met zwart essenhouten blok en \"9 messen, een vleesvork, een schaar en een aanzetstaal\"; een met licht essenhouten blok (Kleur bruin, zwart) en \"12 messen, een vleesvork, een schaar en een aanzetstaal\" (15 onderdelen).",
+    "note": "Controleer welk artikel welke inhoud heeft; 12 messen past niet bij 13-delig."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ met\\ messenblok\\ beukenhout\\ 10\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Met deze messenset kunt u nagenoeg alle snijwerkzaamheden in de keuken aan.",
+  "bullets": [
+   "Beukenhouten messenblok gevuld met een zesdelige messenset uit de Wüsthof Classic serie, aangevuld met een aanzetstaal, vleesvork en keukenschaar.",
+   "Inhoud: schilmes 7 cm, officemes 10 cm, worst-/tomatenmes 14 cm, broodmes met dubbele kartel 23 cm, vleesvork 16 cm, vleesmes 20 cm, koksmes 20 cm, keukenschaar en aanzetstaal 23 cm.",
+   "De glad geslepen messen regelmatig aanzetten op het aanzetstaal houdt ze lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8d0c8ef7"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 10-delig",
+    "websiteSays": "Naam en specificaties: 10-delig (Aantal delen 6); tekst: zesdelige messenset aangevuld met aanzetstaal, vleesvork en keukenschaar, plus beukenhouten messenblok (negen onderdelen opgesomd plus blok).",
+    "note": "Controleer het aantal delen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ met\\ messenblok\\ beukenhout\\ 6\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het voorbereiden en verwerken van o.a. groenten, fruit, vlees of vis; de set is de ideale set voor dagelijkse kookwerkzaamheden.",
+  "bullets": [
+   "Messenblok van lichtbruin hout (24 x 12 x 23 cm) met een vijfdelige set uit de Wüsthof Classic serie.",
+   "Inhoud: officemesje 9 cm, broodmes 20 cm, vleesmes 20 cm, koksmes 20 cm en aanzetstaal 23 cm.",
+   "Reinigen met warm water en een milde zeep."
+  ],
+  "keys": [
+   "dd829524"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 6-delig",
+    "websiteSays": "Naam en specificaties: 6-delig (Aantal delen 6); tekst: \"Het blok wordt geleverd met een 5-delige set\" (vijf onderdelen opgesomd).",
+    "note": "Waarschijnlijk 5 onderdelen plus blok; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ met\\ messenblok\\ beukenhout\\ zwart\\ 6\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het voorbereiden en verwerken van o.a. groenten, fruit, vlees of vis; de set is de ideale set voor dagelijkse kookwerkzaamheden.",
+  "bullets": [
+   "Messenblok van donkerbruin hout (24 x 12 x 23 cm) met een vijfdelige set uit de Wüsthof Classic serie.",
+   "Inhoud: officemesje 9 cm, broodmes 20 cm, vleesmes 20 cm, koksmes 20 cm en aanzetstaal 23 cm.",
+   "Reinigen met warm water en een milde zeep."
+  ],
+  "keys": [
+   "9e93cb7c"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 6-delig",
+    "websiteSays": "Naam en specificaties: 6-delig (Aantal delen 6); tekst: \"Het blok wordt geleverd met een 5-delige set\" (vijf onderdelen opgesomd).",
+    "note": "Waarschijnlijk 5 onderdelen plus blok; controleer."
+   },
+   {
+    "topic": "Kleur blok",
+    "websiteSays": "Naam: \"beukenhout zwart\"; specificaties: Kleur bruin; tekst: \"donkerbruin hout\".",
+    "note": "Controleer de kleur van het blok."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ met\\ messenblok\\ bruin\\ 13\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een basis waarmee u de meeste snijwerkzaamheden in de keuken aan kan.",
+  "bullets": [
+   "Beukenhouten messenblok van donkerbruin hout met negen messen, een vleesvork, een aanzetstaal en een keukenschaar (volgens de tekst); uit de Wüsthof Classic serie.",
+   "Inhoud volgens de opsomming: schilmesje 8 cm, officemesje 10 cm, worstmes 14 cm, broodmes 23 cm, vleesmes 20 cm, koksmes 20 cm, Santoku mes 17 cm, hakbijl 16 cm, vleesvork 16 cm, keukenschaar en aanzetstaal 23 cm.",
+   "De glad geslepen messen regelmatig aanzetten op het bijgeleverde aanzetstaal houdt ze lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "82bd4da5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal messen in het blok",
+    "websiteSays": "Tekst: \"beukenhouten messenblok met negen messen, een vleesvork, een aanzetstaal en een keukenschaar\"; de opsomming noemt acht messen (incl. hakbijl); naam: 13-delig.",
+    "note": "Controleer de inhoud van het blok."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ met\\ messenblok\\ essenhout\\ zwart\\ 8\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een basis waarmee u de meeste snijwerkzaamheden in de keuken aan kan.",
+  "bullets": [
+   "Zwart essenhouten messenblok met vijf messen, een aanzetstaal en een keukenschaar; uit de Wüsthof Classic serie.",
+   "Inhoud: schilmesje 8 cm, officemesje 12 cm, broodmes 20 cm, vleesmes 20 cm, koksmes 20 cm, keukenschaar en aanzetstaal 23 cm.",
+   "De glad geslepen messen regelmatig aanzetten op het bijgeleverde aanzetstaal houdt ze lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "86c0a6e4"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ messenset\\ met\\ messenblok\\ beukenhout\\ 8\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een basis waarmee u de meeste snijwerkzaamheden in de keuken aan kan.",
+  "bullets": [
+   "Beukenhouten messenblok met vijf messen, een aanzetstaal en keukenschaar; uit de Wüsthof Classic serie.",
+   "Inhoud: groentemes 8 cm, officemes 12 cm, koksmes 20 cm, broodmes 20 cm, vleesmes 20 cm, keukenschaar 20 cm en aanzetstaal.",
+   "De glad geslepen messen regelmatig aanzetten op het bijgeleverde aanzetstaal houdt ze lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "09ff10bf"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Nakirimes\\ met\\ kuiltjes\\ 17\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten.",
+  "bullets": [
+   "Nakirimes uit de Wüsthof Classic serie met een van kuiltjes voorzien messenstalen lemmet van 17 cm; totale lengte 29 cm.",
+   "De Nakiri is een klassieke Japanse mesvorm voor het snijden van groenten.",
+   "Door het rechte lemmet maakt het mes veel contact met de snijplank, waardoor u eenvoudig zeer fijne juliennes snijdt.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ed57f2f2"
+  ]
+ },
+ {
+  "match": [
+   "Wusthof\\ Classic\\ off\\-set\\ broodmes\\ golfkartel\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van brood op de plank.",
+  "bullets": [
+   "Off-set broodmes uit de Wüsthof Classic serie met een lemmet van messenstaal met golfkartel van 20 cm; totale lengte 32,4 cm.",
+   "Door de bolle golfkartel ontstaan er nauwelijks kruimels bij het snijden van brood en cakes.",
+   "Bij uitstek geschikt voor het snijden van brood op de plank: de hoge handgreep zorgt ervoor dat uw vingers de plank nooit raken.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b2a7171b"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ officemes\\ 10\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ officemes\\ 12\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het voorbereiden van groenten, fruit en vlees in de keuken.",
+  "bullets": [
+   "Officemes uit de Wüsthof Classic serie met een messenstalen lemmet; lengte lemmet staat in de productnaam.",
+   "Met het officemes bereidt u groenten, fruit en vlees voor in de keuken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Zwart kunststof heft, met klinknagels vastgeklonken aan de angel; met een krop tussen heft en lemmet voor vingerbescherming.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b25be0a7"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ officemes\\ 9\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het voorbereiden van groenten, fruit en vlees in de keuken.",
+  "bullets": [
+   "Officemes uit de Wüsthof Classic serie met een messenstalen lemmet van 9 cm.",
+   "Met het officemes bereidt u groenten, fruit en vlees voor in de keuken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Zwart kunststof heft, met klinknagels vastgeklonken aan de angel; met een krop tussen heft en lemmet voor vingerbescherming.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3aed1fd9"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ koksmes\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Koksmes uit de Wüsthof Classic serie met een messenstalen lemmet van 16 cm; totale lengte 28,5 cm.",
+   "Het middellange lemmet is geschikt voor het snijden van kleinere hoeveelheden of kleine groenten, bijvoorbeeld sjalotten.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b7e0b927"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Santoku\\ koksmes\\ met\\ kuiltjes\\ 14\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Santoku koksmes uit de Wüsthof Classic serie met een lemmet van messenstaal van 14 cm; totale lengte 24,5 cm inclusief vastgeklonken kunststof heft.",
+   "Voor het snijden van vlees, vis en groenten.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "df44f2a0"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ Santoku\\ mes\\ met\\ kuiltjes\\ 17\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Santoku mes met kuiltjes uit de Wüsthof Classic serie met een messenstalen lemmet van 17 cm; totale lengte 30,5 cm.",
+   "Santoku is Japans voor \"drie deugden\"; het mes is geschikt voor het snijden van vlees, vis en groenten.",
+   "De kuiltjes in het lemmet zorgen voor minder wrijving en weerstand tijdens het snijden.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e791d9e0"
+  ],
+  "mismatches": [
+   {
+    "topic": "Serie in de tekst",
+    "websiteSays": "Naam: \"Wüsthof Classic Santoku mes met kuiltjes\"; tekst begint met \"Het Wüsthof Ikon Santoku mes\".",
+    "note": "Tekst noemt Ikon in plaats van Classic; controleer de serie."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ schilmes\\ 7\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Ideaal voor het schillen en decoratief snijden van fruit en groenten.",
+  "bullets": [
+   "Smal schilmes uit de Wüsthof Classic serie met een lemmet van 7 cm.",
+   "Het korte smalle lemmet maakt precies werken uit de pols mogelijk.",
+   "Ideaal voor het schillen en decoratief snijden van fruit en groenten.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "216c5eee"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ slagersmes\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om gemakkelijk door (grote) stukken vlees te snijden.",
+  "bullets": [
+   "Slagersmes uit de Wüsthof Classic serie met een messenstalen lemmet van 20 cm.",
+   "Het lemmet is over de hele lengte voorzien van kuiltjes, waardoor de etenswaren niet aan het lemmet kleven.",
+   "Om gemakkelijk door (grote) stukken vlees te snijden.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "51666509"
+  ],
+  "mismatches": [
+   {
+    "topic": "Totale lengte",
+    "websiteSays": "Specificaties: Lengte 33,8 cm; tekst: totale lengte 33,7 cm.",
+    "note": "Afronding; controleer indien nodig."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ smal\\ koksmes\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smal koksmes uit de Wüsthof Classic serie met een messenstalen lemmet van 16 cm; totale lengte 28 cm.",
+   "Geschikt voor uiteenlopende doeleinden zoals het snijden van vlees en ideaal voor het verdelen van grote vruchten en groenten.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0e32eaa8"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ smal\\ uitbeenmes\\ met\\ gekromd\\ lemmet\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smal uitbeenmes uit de Wüsthof Classic serie met een extra smal, omhoog lopend (gekromd) lemmet van 18 cm.",
+   "De extra smalle vorm maakt exact snijden mogelijk: het is eenvoudig om botten, graten en gewrichten heen te snijden.",
+   "Ook geschikt voor het ontvliezen van vlees.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "23bd2532"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ steakmes\\ 12\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om moeiteloos door een biefstuk te snijden.",
+  "bullets": [
+   "Steakmes uit de Wüsthof Classic serie met een lemmet van messenstaal van 12 cm.",
+   "Het mes met de gladde snede snijdt moeiteloos door een biefstuk met een minimaal verlies aan vocht.",
+   "De vorm is aangepast aan het snijden op een bord aan tafel.",
+   "Zwart kunststof heft, met drie klinknagels bevestigd.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp."
+  ],
+  "keys": [
+   "8765c87a"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ steakmessenset\\ 12\\ cm\\ 4\\ stuks"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van bereid vlees aan tafel.",
+  "bullets": [
+   "Set van 4 steakmessen uit de Wüsthof Classic serie, lemmet 12 cm; totale lengte 23 cm.",
+   "De messen zijn uit één stuk messenstaal gesmeed en hebben een zwarte kunststof handgreep.",
+   "Een steakmes gebruikt u voor het snijden van bereid vlees aan tafel.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "36cb026e"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ steakmessenset\\ messenstaal\\ 6\\ stuks"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van bereid vlees aan tafel.",
+  "bullets": [
+   "Set van 6 steakmessen uit de Wüsthof Classic serie met een lemmetlengte van 11,4 cm.",
+   "De messen hebben een messenstalen lemmet en een zwart kunststof heft, vastgeklonken met drie klinknagels.",
+   "Voor het snijden van bereid vlees aan tafel.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3a0a7620"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ tomatenmes\\ 14\\ cm"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om moeiteloos door zelfs de rijpste tomaat of paprika te snijden.",
+  "bullets": [
+   "Tomatenmes uit de Wüsthof Classic serie met een gekarteld messenstalen lemmet van 14 cm.",
+   "Het uiteinde van het lemmet is gevorkt: met de vork aan de punt pakt u eenvoudig de plakjes op.",
+   "Snijdt moeiteloos door zelfs de rijpste tomaat of paprika; de kartels zorgen ervoor dat u de vrucht niet pletst.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4e17f04d"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ tourneermes\\ 7\\ cm"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en tourneren, het tonvormig snijden van wortelgroenten van groenten en fruit.",
+  "bullets": [
+   "Tourneermes uit de Wüsthof Classic serie met een lemmet van 7 cm, gemaakt van gesmeed messenstaal.",
+   "Voor het schillen en tourneren, het tonvormig snijden van wortelgroenten van groenten en fruit.",
+   "Dankzij de holle vorm van de snede schilt u zeer dun.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "fe78d952"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ trancheerset\\ messenstaal\\ 2\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het trancheren van bereid vlees aan tafel.",
+  "bullets": [
+   "Tweedelige trancheerset uit de Wüsthof Classic serie: vleesmes met een lemmetlengte van 20 cm en vleesvork met een lengte van 16 cm.",
+   "Het mes en de vork hebben een messenstalen lemmet en een zwart kunststof heft, vastgeklonken met drie klinknagels.",
+   "De set is ideaal voor het trancheren van bereid vlees aan tafel.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4176ef3e"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ uitbeenmes\\ 10\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ uitbeenmes\\ 14\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Uitbeenmes uit de Wüsthof Classic serie met een smal messenstalen lemmet; lengte lemmet staat in de productnaam.",
+   "Door het smalle lemmet kunt u eenvoudig en nauwkeurig vlees uitbenen.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e7d25b3f"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ uitbeenmes\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Uitbeenmes uit de Wüsthof Classic serie met een smal messenstalen lemmet van 16 cm; totale lengte 27,5 cm.",
+   "Door het smalle lemmet kunt u eenvoudig en nauwkeurig vlees uitbenen.",
+   "Kunststof heft, met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4acd0536"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ vleesmes\\ 14\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vleesmes uit de Wüsthof Classic serie met een slank messenstalen lemmet van 14 cm; totale lengte 26,1 cm.",
+   "Door de relatief rechte vorm van het lemmet snijdt en trancheert u eenvoudig rauw en bereid vlees.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2f7738aa"
+  ],
+  "mismatches": [
+   {
+    "topic": "Totale lengte",
+    "websiteSays": "Specificaties: Lengte 26 cm; tekst: totale lengte 26,1 cm.",
+    "note": "Afronding; controleer indien nodig."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ vleesmes\\ 16\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ vleesmes\\ 20\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ vleesmes\\ 23\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ vleesmes\\ 26\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vleesmes uit de Wüsthof Classic serie met een messenstalen lemmet; lengte lemmet staat in de productnaam.",
+   "Door de relatief rechte vorm van het lemmet snijdt en trancheert u eenvoudig rauw en bereid vlees.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3c2bab28"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ vleesmes\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vleesmes uit de Wüsthof Classic serie met een messenstalen lemmet van 18 cm; totale lengte 30 cm.",
+   "Door de relatief rechte vorm van het lemmet snijdt en trancheert u eenvoudig rauw en gaar vlees.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b5a26e3b"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ vleesmes\\ met\\ kuiltjes\\ 20\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ vleesmes\\ met\\ kuiltjes\\ 23\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vleesmes uit de Wüsthof Classic serie met een messenstalen lemmet met kuiltjes; lengte lemmet staat in de productnaam.",
+   "Door de relatief rechte vorm van het lemmet snijdt en trancheert u eenvoudig rauw en gaar vlees.",
+   "De kuiltjes in het lemmet vormen luchtbellen tussen het mes en het vlees, waardoor u tijdens het snijden minder weerstand ervaart.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "fe9caa85"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ vleesvork\\ 16\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ vleesvork\\ 18\\ cm\\ messenstaal",
+   "Wüsthof\\ Classic\\ vleesvork\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het uit de pan nemen van vlees en bij het voorsnijden en serveren ervan.",
+  "bullets": [
+   "Vleesvork uit de Wüsthof Classic serie, gemaakt van gesmeed messenstaal; lengte tanden staat in de productnaam.",
+   "Voor het uit de pan nemen van vlees en bij het voorsnijden en serveren ervan; samen met een steakmes houdt u het bereide vlees stevig vast.",
+   "Messenstaal met een hardheid van 58 HRC; kunststof heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "df928c59"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ worst\\-\\ /\\ tomatenmes\\ 14\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Worst- en tomatenmes uit de Wüsthof Classic serie met een gekarteld lemmet van messenstaal van 14 cm.",
+   "De kartels \"bijten\" eenvoudig door de taaie buitenkant van worst: u snijdt eenvoudig plakjes van zelfs de droogste worsten.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0100a843"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ zalm\\-/\\ hammes\\ 26\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van dunne plakjes gedroogde ham (bijvoorbeeld Pata Negra, Parma of Iberico) en voor het dun snijden van zalm.",
+  "bullets": [
+   "Zalm-/hammes uit de Wüsthof Classic serie met een messenstalen lemmet van 26 cm; totale lengte 38 cm.",
+   "Met het ham-/zalmmes snijdt u eenvoudig dunne plakjes gedroogde ham, bijvoorbeeld Pata Negra, Parma of Iberico.",
+   "Ook te gebruiken voor het dun snijden van zalm.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b1109620"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ zalm\\-/\\ hammes\\ met\\ kuiltjes\\ 26\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van dunne plakjes gedroogde ham (bijvoorbeeld Pata Negra, Parma of Iberico) en van zalm.",
+  "bullets": [
+   "Zalm-/hammes met kuiltjes uit de Wüsthof Classic serie met een messenstalen lemmet van 26 cm; totale lengte 38 cm.",
+   "Met het hammes snijdt u eenvoudig dunne plakjes gedroogde ham, bijvoorbeeld Pata Negra, Parma of Iberico; ook voor het snijden van zalm.",
+   "De kuiltjes vormen tijdens het snijden luchtbellen tussen het lemmet en het vlees, waardoor u met minder frictie door de ham of zalm snijdt.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "40927cdf"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Cook's\\ Case\\ messentas\\ 48\\ cm\\ kunststof\\ zwart\\ "
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cook's Case messentas van zwart kunststof, 48 x 35 x 6 cm (lengte x breedte x hoogte), met ruimte voor 12 messen.",
+   "Voorzien van diverse compartimenten, een verstelbare schouderband en twee handvaten, zodat u de tas gemakkelijk kunt vervoeren.",
+   "Voor extra veiligheid wordt de tas geleverd met een codeslot.",
+   "Voor het veilig vervoeren en opbergen van messen.",
+   "Afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "1905f8f0"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ dubbel\\ wiegemes\\ 18\\ cm\\ messenstaal\\ zwart",
+   "Wüsthof\\ dubbel\\ wiegemes\\ 23\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het gemakkelijk snijden van kruiden.",
+  "bullets": [
+   "Dubbel wiegemes met een dubbel messenstalen lemmet; lengte van het lemmet staat in de productnaam.",
+   "Twee kunststof handgrepen, zodat het mes lekker in de handen ligt.",
+   "Gebruik: het mes over de kruiden heen en weer wiegen en steeds een stukje opschuiven, zo snijdt u kruiden gemakkelijk fijn.",
+   "Gebruik een ondergrond die goed is voor het behoud van het mes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f709a327"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Gourmet\\ broodmes\\ 20\\ cm\\ rvs\\ zwart",
+   "Wüsthof\\ Gourmet\\ broodmes\\ 23\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodmes uit de Wüsthof Gourmet serie met een gekarteld lemmet van messenstaal; lengte van het lemmet staat in de productnaam.",
+   "Snijdt eenvoudig brood met zachte en harde korsten, maar ook taart en cakes.",
+   "Zwart kunststof heft, met klinknagels aan het mes bevestigd.",
+   "Gourmet: met een laser uit één stuk plaatstaal gesneden, wat een dun en zeer licht mes oplevert; de angel loopt door tot achteraan het heft, dat met klinknagels is bevestigd.",
+   "X50 Cr MoV 15 staal, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "cb1e1cc7"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Gourmet\\ kaasmes\\ 14\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om zachter harde kaas te snijden.",
+  "bullets": [
+   "Kaasmes met gaten uit de Wüsthof Gourmet serie met een glad lemmet van messenstaal van 14 cm.",
+   "De gaten in het lemmet zorgen dat zachte kaas niet aan het lemmet verkleeft.",
+   "Het zwarte heft is met drie klinknagels aan het mes bevestigd.",
+   "Gourmet: met een laser uit één stuk plaatstaal gesneden, wat een dun en zeer licht mes oplevert; de angel loopt door tot achteraan het heft, dat met klinknagels is bevestigd.",
+   "X50 Cr MoV 15 staal, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "fff90deb"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Gourmet\\ koksmes\\ 16\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van diverse ingrediënten, zoals groenten, vlees en vis.",
+  "bullets": [
+   "Koksmes uit de Wüsthof Gourmet serie van roestvrij staal met een kunststof heft; lemmet 16 cm.",
+   "Voor het snijden van diverse ingrediënten, zoals groenten, vlees en vis.",
+   "Gourmet: met een laser uit één stuk plaatstaal gesneden, wat een dun en zeer licht mes oplevert; de angel loopt door tot achteraan het heft, dat met klinknagels is bevestigd.",
+   "X50 Cr MoV 15 staal, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ed92212c"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Gourmet\\ messenset\\ rvs\\ 2\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Praktisch als basisset voor het snijden van diverse ingrediënten.",
+  "bullets": [
+   "Tweedelige messenset uit de Wüsthof Gourmet serie: Chinees koksmes (lemmet 18 cm) en Santokumes met kuiltjes in het lemmet (lemmet 17 cm).",
+   "Beide messen zijn bedoeld voor veelzijdig gebruik in de keuken en hebben dezelfde rol als het Europese model koksmes.",
+   "Gourmet: met een laser uit één stuk plaatstaal gesneden, wat een dun en zeer licht mes oplevert; de angel loopt door tot achteraan het heft, dat met klinknagels is bevestigd.",
+   "X50 Cr MoV 15 staal, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "aa9e12fa"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Gourmet\\ messenset\\ rvs\\ 3\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een goede basis voor de beginnende kok.",
+  "bullets": [
+   "Driedelige messenset uit de Wüsthof Gourmet serie: Santoku (lemmet 17 cm), Chinees koksmes (lemmet 18 cm) en een robuuste keukenschaar.",
+   "Met de messen snijdt u vlees, vis en groenten; met de keukenschaar knipt u gemakkelijk gevogeltekarkassen, kruiden en andere ingrediënten.",
+   "Gourmet: met een laser uit één stuk plaatstaal gesneden, wat een dun en zeer licht mes oplevert; de angel loopt door tot achteraan het heft, dat met klinknagels is bevestigd.",
+   "X50 Cr MoV 15 staal, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e07d57f5"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Gourmet\\ paletmes\\ 15\\ cm\\ rvs\\ zwart",
+   "Wüsthof\\ Gourmet\\ paletmes\\ 25\\ cm\\ rvs\\ zwart",
+   "Wüsthof\\ Gourmet\\ paletmes\\ 30\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Als keerspatel in een pan zonder anti-aanbaklaag, of om crèmes of glazuur uit te strijken.",
+  "bullets": [
+   "Paletmes (ook wel pannemes of glaceerspatel genoemd) uit de Wüsthof Gourmet serie van messenstaal; lengte staat in de productnaam.",
+   "Te gebruiken als keerspatel in een pan zonder anti-aanbaklaag, of om crèmes of glazuur mee uit te strijken.",
+   "Het paletmes zit met twee klinknagels vastgeklonken in de handgreep.",
+   "Met een laser uit één stuk plaatstaal gesneden, wat een dun en zeer licht mes oplevert.",
+   "X50 Cr MoV 15 staal, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e4fc5d82",
+   "85460c35"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Gourmet\\ uitbeenmes\\ 14\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om eenvoudig en nauwkeurig vlees uit te benen.",
+  "bullets": [
+   "Uitbeenmes uit de Wüsthof Gourmet serie met een messenstalen lemmet van 14 cm; totale lengte 27 cm.",
+   "Door het smalle lemmet kunt u eenvoudig en nauwkeurig vlees uitbenen.",
+   "Gourmet: met een laser uit één stuk plaatstaal gesneden, wat een dun en zeer licht mes oplevert; de angel loopt door tot achteraan het heft, dat met klinknagels is bevestigd.",
+   "X50 Cr MoV 15 staal, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ca2dcf48"
+  ],
+  "colours": [
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Serie in de tekst",
+    "websiteSays": "Naam en specificaties: Wüsthof Gourmet uitbeenmes; tekst begint met \"Het Wüsthof Classic uitbeenmes\".",
+    "note": "Tekst noemt Classic in plaats van Gourmet; controleer de serie."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Gourmet\\ universeel\\ mes\\ 16\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van verschillende producten of gerechten.",
+  "bullets": [
+   "Universeel mes uit de Wüsthof Gourmet serie van messenstaal, dat roestbestendig is en lang scherp blijft; lemmet 16 cm met gladde snede.",
+   "Voor het snijden van verschillende producten of gerechten.",
+   "Gourmet: met een laser uit één stuk plaatstaal gesneden, wat een dun en zeer licht mes oplevert; de angel loopt door tot achteraan het heft, dat met klinknagels is bevestigd.",
+   "X50 Cr MoV 15 staal, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "fc3489c7"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Gourmet\\ visfileermes\\ 20\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om eenvoudig en nauwkeurig vis te fileren.",
+  "bullets": [
+   "Visfileermes uit de Wüsthof Gourmet serie met een messenstalen lemmet van 20 cm.",
+   "Door het smalle lemmet kunt u eenvoudig en nauwkeurig vis fileren.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gourmet: met een laser uit één stuk plaatstaal gesneden, wat een dun en zeer licht mes oplevert; de angel loopt door tot achteraan het heft, dat met klinknagels is bevestigd.",
+   "X50 Cr MoV 15 staal, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d8ec9ef4"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Gourmet\\ vleesmes\\ 20\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vleesmes uit de Wüsthof Gourmet serie met een messenstalen lemmet van 20 cm; totale lengte 32,2 cm.",
+   "Door de relatief rechte vorm van het lemmet snijdt en trancheert u eenvoudig rauw en bereid vlees.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gourmet: met een laser uit één stuk plaatstaal gesneden, wat een dun en zeer licht mes oplevert; de angel loopt door tot achteraan het heft, dat met klinknagels is bevestigd.",
+   "X50 Cr MoV 15 staal, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5b529236"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Gourmet\\ worst\\-\\ /tomatenmes\\ 12\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Worst- en tomatenmes uit de Wüsthof Gourmet serie met een gekarteld lemmet van messenstaal van 12 cm.",
+   "De kartels snijden eenvoudig door de taaie buitenkant van worst: u snijdt eenvoudig plakjes van droge worsten en andere producten met een taaie schil.",
+   "Het zwarte heft is met drie klinknagels aan het mes bevestigd.",
+   "Gourmet: met een laser uit één stuk plaatstaal gesneden, wat een dun en zeer licht mes oplevert; de angel loopt door tot achteraan het heft, dat met klinknagels is bevestigd.",
+   "X50 Cr MoV 15 staal, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a7f30ff8"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ hakbijl\\ 16\\ cm\\ messentaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Door het dikke staal en de robuuste uitvoering geschikt om ook stukken bot door te hakken.",
+  "bullets": [
+   "Hakbijl met een lemmet van 16 cm; totale lengte 30 cm.",
+   "Door het dikke staal en de robuuste uitvoering geschikt om ook stukken bot door te hakken.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Zwart kunststof heft, met drie klinknagels aan de doorlopende angel bevestigd; krop tussen heft en lemmet voor vingerbescherming.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5d537815"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ hakbijl\\ 18\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Perfect voor het hakken van grote stukken vlees en om botten te klieven.",
+  "bullets": [
+   "Hakbijl met een lemmet van messenstaal van 18 cm, met een hardheid van 56 HRC.",
+   "Perfect voor het hakken van grote stukken vlees en om botten te klieven.",
+   "Messenstaal X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte; goed bestand tegen roest en vlekken.",
+   "Zwart kunststof heft, met drie klinknagels aan de angel vastgeklonken.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "cb6fc2ae"
+  ],
+  "mismatches": [
+   {
+    "topic": "Productiemethode",
+    "websiteSays": "Eerste alinea: \"De hakbijl is lasergesneden\"; vervolgtekst: \"De Wüsthof hakbijl is gesmeed uit één stuk messenstaal\".",
+    "note": "Tegenstrijdig: lasergesneden of gesmeed? Controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ aanzetstaal\\ 26\\ cm\\ messentaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Aanzetstaal uit de Wüsthof Ikon serie met kunststof handgreep: totale lengte 37,5 cm, staal 26 cm.",
+   "Het aanzetstaal wordt op de pagina roestvrijstalen aanzetstaal genoemd.",
+   "Voor het aanzetten van uw messen; bedoeld voor het dagelijks onderhoud.",
+   "Het mes wordt ongeveer 5 keer per kant langs het staal getrokken, onder een hoek van 20°.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet."
+  ],
+  "keys": [
+   "fbef9af3"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ broodmes\\ 20\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van brood, cakes en taarten.",
+  "bullets": [
+   "Broodmes uit de Wüsthof Ikon serie met een gekarteld lemmet van gesmeed messenstaal van 20 cm; totale lengte 32,3 cm inclusief grenadillehouten heft.",
+   "Met het broodmes snijdt u brood, cakes en taarten; met de kartel zaagt u eenvoudig door zowel harde als zachte broden zonder deze samen te drukken.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft dat comfortabel in de hand ligt; aan weerszijden schilden van Afrikaans Grenadil hout, met klinknagels bevestigd; een tweede krop achteraan geeft het mes een prettige balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8fb1f224"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ broodmes\\ met\\ dubbele\\ kartel\\ 23\\ cm\\ messenstaal\\ hout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Broodmes uit de Wüsthof Ikon serie met een lemmet van messenstaal van 23 cm met golfkartel, die zelf ook gekarteld is; totale lengte 35,6 cm.",
+   "De kartels zorgen ervoor dat u eenvoudig door de korst van het brood snijdt.",
+   "Heft van grenadillehout, met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft dat comfortabel in de hand ligt; aan weerszijden schilden van Afrikaans Grenadil hout, met klinknagels bevestigd; een tweede krop achteraan geeft het mes een prettige balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "be51be9e"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ Chinees\\ koksmes\\ 18\\ cm\\ messenstaal\\ hout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Chinees koksmes uit de Wüsthof Ikon serie met een lemmet van messenstaal van 18 cm lang en 7,75 cm breed; heft van grenadillehout.",
+   "Voorzien van een gladde snede; te gebruiken om te snijden met een Chinese snijtechniek.",
+   "Niet te gebruiken als bijl, ondanks de vorm.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a519f543"
+  ],
+  "mismatches": [
+   {
+    "topic": "Breedte lemmet",
+    "websiteSays": "Tekst: 7,75 cm breed; specificatie: Breedte 7,8 cm.",
+    "note": "Afronding; controleer indien nodig."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ groentemes\\ 8\\ cm\\ messenstaal\\ hout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en schoonmaken van groenten en fruit.",
+  "bullets": [
+   "Groentemes uit de Wüsthof Ikon serie met een recht lemmet van 8 cm; totale lengte 18,5 cm inclusief grenadillehouten heft.",
+   "Voor het schillen en schoonmaken van groenten en fruit.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes langdurig scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft dat comfortabel in de hand ligt; aan weerszijden schilden van Afrikaans Grenadil hout, met klinknagels bevestigd; een tweede krop achteraan geeft het mes een prettige balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b970705a"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ koksmes\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees en vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Koksmes uit de Wüsthof Ikon serie met een messenstalen lemmet van 16 cm; totale lengte 28,5 cm inclusief grenadillehouten heft.",
+   "Voor het snijden van groenten, fruit, vlees en vis tijdens de voorbereidingen voor het koken.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft dat comfortabel in de hand ligt; aan weerszijden schilden van Afrikaans Grenadil hout, met klinknagels bevestigd; een tweede krop achteraan geeft het mes een prettige balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "da7e0245"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ koksmes\\ 20\\ cm\\ messenstaal\\ hout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees en bijvoorbeeld vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Koksmes uit de Wüsthof Ikon serie met een messenstalen lemmet van 20 cm; totale lengte 34,5 cm inclusief grenadillehouten heft.",
+   "Voor het snijden van groenten, fruit, vlees en bijvoorbeeld vis tijdens de voorbereidingen voor het koken.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft dat comfortabel in de hand ligt; aan weerszijden schilden van Afrikaans Grenadil hout, met klinknagels bevestigd; een tweede krop achteraan geeft het mes een prettige balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f09f714b"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ messenset\\ messenstaal\\ hout\\ 3\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Driedelige messenset uit de Wüsthof Ikon serie met drie messen voor verschillende doeleinden: koksmes 20 cm, vleesmes 20 cm en officemes 9 cm.",
+   "De messen zijn van hoogwaardig messenstaal met een ergonomisch gevormde greep van Afrikaans Grenadil hout.",
+   "Koksmes: groenten, fruit, vlees en bijvoorbeeld vis. Vleesmes: dankzij de smalle, rechte vorm snijdt of trancheert u moeiteloos vlees. Officemes: groenten, fruit en vlees prepareren voor het snijwerk.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5414f268"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ messenset\\ met\\ messenblok\\ beukenhout\\ bruin\\ 10\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tienedelige set uit de Wüsthof Ikon serie: beukenhouten messenblok in de kleur \"choco\", 8 messen en een aanzetstaal.",
+   "Messen met een greep van Afrikaans Grenadil hout, ergonomisch gevormd.",
+   "Inhoud: koksmes 20 cm, broodmes 20 cm, santokumes 17 cm, vleesmes 16 cm, vleesvork 16 cm, worst-/tomatenmes 14 cm, officemes 9 cm, tourneermes 7 cm en aanzetstaal 26 cm.",
+   "De messen regelmatig aanzetten met het aanzetstaal houdt ze langer in goede conditie.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "75edd8f3"
+  ],
+  "mismatches": [
+   {
+    "topic": "Aantal onderdelen",
+    "websiteSays": "Tekst: \"De 10-delige ... messenset bestaat uit 8 messen voor verschillende doeleinden, een aanzetstaal en een messenblok\" (zes plus vork opgesomd); de opsomming noemt 7 messen, een vleesvork, een aanzetstaal en een blok.",
+    "note": "Controleer wat er in de set zit."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ messenset\\ met\\ messenblok\\ beukenhout\\ bruin\\ 7\\-delig"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Een goede basis voor de meeste snijtaken in de keuken.",
+  "bullets": [
+   "Messenset uit de Wüsthof Ikon serie met 6 messen en een bruin gekleurd beukenhouten messenblok met aluminium voet.",
+   "Met deze messenset heeft u een goede basis voor de meeste snijtaken in de keuken.",
+   "De messen zijn gesmeed uit één stuk messenstaal; de tweede krop achteraan het heft geeft een bijzondere balans; aan weerszijden van de angel zijn Afrikaans grenadilhouten schilden met klinknagels bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "725bc5b9"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ officemes\\ 12\\ cm\\ messenstaal\\ hout",
+   "Wüsthof\\ Ikon\\ officemes\\ 9\\ cm\\ messenstaal\\ hout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om groenten, fruit en vlees voor te bereiden voor het snijwerk.",
+  "bullets": [
+   "Officemes uit de Wüsthof Ikon serie met een messenstalen lemmet en een grenadillehouten heft; lengte staat in de productnaam.",
+   "Met het officemes prepareert u groenten, fruit en vlees voor het snijwerk.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes langdurig scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft dat comfortabel in de hand ligt; aan weerszijden schilden van Afrikaans Grenadil hout, met klinknagels bevestigd; een tweede krop achteraan geeft het mes een prettige balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7d8c6140"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ Santoku\\ mes\\ met\\ kuiltjes\\ 14\\ cm\\ messenstaal\\ hout",
+   "Wüsthof\\ Ikon\\ Santoku\\ mes\\ met\\ kuiltjes\\ 17\\ cm\\ messenstaal\\ hout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Geschikt voor het snijden van vlees, vis en groenten.",
+  "bullets": [
+   "Santoku mes met kuiltjes uit de Wüsthof Ikon serie met een messenstalen lemmet en een grenadillehouten heft; lengte staat in de productnaam.",
+   "Santoku is Japans voor \"drie deugden\"; het mes is geschikt voor het snijden van vlees, vis en groenten.",
+   "De kuiltjes in het lemmet zorgen voor minder wrijving en weerstand tijdens het snijden.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft dat comfortabel in de hand ligt; aan weerszijden schilden van Afrikaans Grenadil hout, met klinknagels bevestigd; een tweede krop achteraan geeft het mes een prettige balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "533e438b"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ steakmes\\ 12\\ cm\\ messenstaal\\ hout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees op het bord.",
+  "bullets": [
+   "Steakmes uit de Wüsthof Ikon serie met een messenstalen lemmet van 12 cm; totale lengte 22,2 cm inclusief grenadillehouten heft.",
+   "Met het steakmes snijdt u vlees op het bord.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes langdurig scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft dat comfortabel in de hand ligt; aan weerszijden schilden van Afrikaans Grenadil hout, met klinknagels bevestigd; een tweede krop achteraan geeft het mes een prettige balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "d8db4648"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ steakmessenset\\ messenstaal\\ hout\\ 4\\ stuks"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees op het bord.",
+  "bullets": [
+   "Set van vier steakmessen uit de Wüsthof Ikon serie; elk mes heeft een messenstalen lemmet van 12 cm en is 22,2 cm lang inclusief grenadillehouten heft.",
+   "Met het steakmes snijdt u vlees op het bord.",
+   "Regelmatig aanzetten op een aanzetstaal houdt de messen langdurig scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft dat comfortabel in de hand ligt; aan weerszijden schilden van Afrikaans Grenadil hout, met klinknagels bevestigd; een tweede krop achteraan geeft het mes een prettige balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "debe9add"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ tourneermes\\ 7\\ cm\\ messenstaal\\ hout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en tourneren, het tonvormig snijden, van groentes.",
+  "bullets": [
+   "Tourneermes uit de Wüsthof Ikon serie met een hol gevormd lemmet van 7 cm; totale lengte 17,8 cm.",
+   "Het heft is van Afrikaans grenadilhout en met klinknagels aan de doorlopende angel bevestigd.",
+   "Voor het schillen en tourneren, het tonvormig snijden, van groentes; door de holle vorm van de snede kunt u zeer dun schillen.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes langdurig scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a7742418"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ vleesmes\\ 16\\ cm\\ messenstaal\\ hout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vleesmes uit de Wüsthof Ikon serie met een messenstalen lemmet van 16 cm; totale lengte 28,5 cm inclusief grenadillehouten heft.",
+   "Dankzij de rechte vorm snijdt of trancheert u moeiteloos uw vlees.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes langdurig scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft dat comfortabel in de hand ligt; aan weerszijden schilden van Afrikaans Grenadil hout, met klinknagels bevestigd; een tweede krop achteraan geeft het mes een prettige balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7991d12c"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ vleesmes\\ 20\\ cm\\ messenstaal\\ hout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vleesmes uit de Wüsthof Ikon serie met een messenstalen lemmet van 20 cm; totale lengte 33,5 cm inclusief grenadillehouten heft.",
+   "Dankzij de rechte vorm snijdt of trancheert u moeiteloos uw vlees.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Organisch gevormd heft dat comfortabel in de hand ligt; aan weerszijden schilden van Afrikaans Grenadil hout, met klinknagels bevestigd; een tweede krop achteraan geeft het mes een prettige balans.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "12d3f47f"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ vleesvork\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het uit de pan nemen van vlees en bij het portioneren en serveren van vlees.",
+  "bullets": [
+   "Vleesvork uit de Wüsthof Ikon serie met tanden van 16 cm, gemaakt van gesmeed messenstaal; totale lengte 26,5 cm inclusief grenadillehouten heft.",
+   "Voor het uit de pan nemen van vlees en bij het portioneren en serveren van vlees; samen met een steakmes houdt u het bereide vlees stevig vast.",
+   "Messenstaal met een hardheid van 58 HRC; heft met klinknagels aan de doorlopende angel bevestigd.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ac984282"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal heft",
+    "websiteSays": "Eerste alinea: \"Grenadil-houten heft\"; vervolgtekst: \"Het kunststof heft is met klinknagels aan de doorlopende angel bevestigd\" (en daarna: Afrikaans Grenadil hout).",
+    "note": "Tekst noemt zowel kunststof als grenadilhouten heft; controleer."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Ikon\\ worst\\-\\ en\\ tomatenmes\\ 14\\ cm\\ messenstaal\\ hout"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Worst- en tomatenmes uit de Wüsthof Ikon serie met een lemmet van messenstaal van 14 cm; totale lengte 25 cm.",
+   "De kartels zorgen ervoor dat u eenvoudig door het taaie vel van worst en tomaat snijdt.",
+   "Heft van grenadillehout, met klinknagels aan de doorlopende angel bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte en een hoge mate van roest- en vlekwerendheid); gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7fe01c8e"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ kaasmes\\ met\\ gaten\\ 14\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om zachter harde kaas te snijden.",
+  "bullets": [
+   "Kaasmes met gaten uit de Wüsthof Classic serie met een glad lemmet van messenstaal van 14 cm.",
+   "De gaten in het lemmet zorgen dat zachte kaas niet aan het lemmet verkleeft.",
+   "Het zwarte heft is met drie klinknagels aan het mes bevestigd.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2b0a10b4"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ magnetisch\\ messenblok\\ beukenhout\\ "
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magnetisch messenblok van massief beukenhout met een Y-vorm en 6 magnetische vlakken waarop u keukenmessen kunt stallen.",
+   "De vlakken zijn voor keukenmessen met een lemmet tot 24 cm; ze zijn 7,5 cm breed en bieden ruimte aan 2 kleine keukenmessen of 1 groot keukenmes.",
+   "Vilten onderkant, zodat het blok niet op het aanrecht krast als u eraan draait om het juiste mes te pakken.",
+   "Het blok mag niet te nat worden: reinigen met een lichtvochtige doek en afdrogen met een droge (thee)doek."
+  ],
+  "keys": [
+   "843547b3"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messenbeschermer\\ 12\\ x\\ 2,5\\ cm\\ kunststof\\ wit"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messenbeschermer van wit kunststof, 12 x 2,5 cm, aan de binnenzijde voorzien van vilt (volgens de tekst zwart vilt).",
+   "Beschermt het lemmet van het mes; het mes kan er ook veilig mee worden vervoerd.",
+   "De hoes blijft goed om het mes geklemd zitten.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "b35159f3"
+  ],
+  "colours": [
+   "wit"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messenbeschermer\\ 16\\ x\\ 3,5\\ cm\\ magnetisch\\ zwart",
+   "Wüsthof\\ messenbeschermer\\ 26\\ x\\ 3,5\\ cm\\ magnetisch\\ zwart",
+   "Wüsthof\\ messenbeschermer\\ 26\\ x\\ 5,5\\ cm\\ magnetisch\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magnetische messenbeschermer van kunststof, aan de binnenzijde voorzien van grijs vilt; afmetingen staan in de productnaam.",
+   "Door de magneten is de beschermer te openen; door hem te sluiten blijft het mes goed geklemd.",
+   "Beschermt het lemmet van het mes; het mes kan er ook veilig mee worden vervoerd.",
+   "In de lengte op maat te knippen, zodat hij goed om een specifiek mes aansluit.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "4a79f05e"
+  ],
+  "colours": [
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen 16 x 3,5 cm",
+    "websiteSays": "Naam en tekst: 16 x 3,5 cm; specificaties: Breedte 16 cm, Lengte 25 cm.",
+    "note": "Controleer de afmetingen van \"messenbeschermer 16 x 3,5 cm magnetisch zwart\".",
+    "only": "Wüsthof messenbeschermer 16 x 3,5 cm magnetisch"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messenbeschermer\\ 20,5\\ x\\ 2,5\\ cm\\ kunststof\\ wit",
+   "Wüsthof\\ messenbeschermer\\ 20,5\\ x\\ 5\\ cm\\ kunststof\\ wit",
+   "Wüsthof\\ messenbeschermer\\ 27\\ x\\ 5\\ cm\\ kunststof\\ wit"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messenbeschermer van wit kunststof, aan de binnenzijde voorzien van zwart vilt; afmetingen staan in de productnaam.",
+   "Beschermt het lemmet van het mes; het mes kan er ook veilig mee worden vervoerd.",
+   "De hoes blijft goed om het mes geklemd zitten.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "2dad713e"
+  ],
+  "colours": [
+   "wit"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messenbeschermer\\ 26,5\\ x\\ 3\\ cm\\ kunststof\\ grijs",
+   "Wüsthof\\ messenbeschermer\\ 31,5\\ x\\ 3\\ cm\\ kunststof\\ grijs"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messenbeschermer van kunststof, aan de binnenzijde voorzien van rood vilt; afmetingen staan in de productnaam.",
+   "Beschermt het lemmet van het mes; het mes kan er ook veilig mee worden vervoerd.",
+   "De hoes blijft goed om het mes geklemd zitten.",
+   "In de lengte op maat te knippen, zodat hij goed om een specifiek mes aansluit.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "937a22e2"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messenblok\\ beukenhout\\ zwart\\ "
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messenblok van zwart beukenhout, 18 x 11 x 28 cm (lengte x breedte x hoogte).",
+   "Biedt ruimte aan 8 keukenmessen van verschillende formaten.",
+   "Aan de binnenkant een kunststof borstel, zodat de messen naar wens kunnen worden opgeborgen.",
+   "Wordt exclusief messen geleverd.",
+   "Het blok mag niet te nat worden: reinigen met een lichtvochtige doek en afdrogen met een droge (thee)doek."
+  ],
+  "keys": [
+   "4f5f7976"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messenmagneet\\ 30\\ cm\\ kunststof\\ grijs"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Grijze kunststof magneetstrip van 30 cm lengte, aan de wand te bevestigen.",
+   "Twee magneten houden de messen op de strip; ook grote messen kunnen er veilig aan hangen. Desgewenst ook vorken of lepels.",
+   "Bevestigingsmateriaal en een boorsjabloon zijn bij iedere strip bijgesloten.",
+   "Ook te bevestigen op andere plaatsen, bijvoorbeeld in een lade of aan de binnenkant van een kastdeur.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "ec79ebcf"
+  ],
+  "colours": [
+   "grijs"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messenmagneet\\ 45\\ cm\\ kunststof\\ grijs"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Grijze kunststof messenmagneet van 45 cm lengte, aan de wand te bevestigen.",
+   "Twee magneten houden de messen op de strip; ook grote messen kunnen er veilig aan hangen. Desgewenst ook vorken of lepels.",
+   "Bevestigingsmateriaal en een boorsjabloon zijn bij iedere strip bijgesloten.",
+   "Ook te bevestigen op andere plaatsen, bijvoorbeeld in een lade of aan de binnenkant van een kastdeur.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "2836e05c"
+  ],
+  "colours": [
+   "grijs"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messenmagneet\\ 50\\ cm\\ aluminium\\ grijs"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Grijze aluminium messenmagneet van 50 cm lengte, aan de wand te bevestigen.",
+   "Twee magneten houden de messen op de strip; ook grote messen kunnen er veilig aan hangen. Desgewenst ook vorken of lepels.",
+   "Bevestigingsmateriaal en een boorsjabloon zijn bij iedere strip bijgesloten.",
+   "Ook te bevestigen op andere plaatsen, bijvoorbeeld in een lade of aan de binnenkant van een kastdeur.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "9a361cd7"
+  ],
+  "colours": [
+   "grijs"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ messentas\\ 71\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Messentas voor het veilig vervoeren en opbergen van messen; gesloten 51 cm lang en 17 cm breed.",
+   "Plaats voor maximaal 10 messen en toebehoren.",
+   "De tas is op te rollen en sluit af met klittenband.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "7e23170b"
+  ],
+  "colours": [
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: 71 cm",
+    "websiteSays": "Naam: \"messentas 71 cm\"; specificaties: Lengte 51 cm; tekst: gesloten 51 cm lang. Materiaal: tekst zegt \"zwart textiel\", specificaties en vervolgtekst zeggen kunststof.",
+    "note": "Controleer de lengte (71 of 51 cm; mogelijk geopend 71 cm) en het materiaal (textiel of kunststof)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ oestermes\\ 16,1\\ cm\\ "
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het openen van oesters en het lossnijden van de sluitspier.",
+  "bullets": [
+   "Oestermes met een lemmet van messenstaal en een zwart kunststof heft; 16,1 cm lang.",
+   "Sterk lemmet, waardoor u voldoende grip heeft en gemakkelijk kracht kunt uitoefenen bij het openen van oesters.",
+   "Gebruik: de punt tussen de twee schelphelften plaatsen en de schelp met een draaiende beweging openwrikken; daarna de sluitspier lossnijden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "42c6df1d"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ oestermes\\ 16,2\\ cm\\ "
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het openen van oesters en het lossnijden van de sluitspier.",
+  "bullets": [
+   "Oestermes met een lemmet van messenstaal en een zwart kunststof heft; 16,2 cm lang.",
+   "Sterk lemmet, waardoor u voldoende grip heeft en gemakkelijk kracht kunt uitoefenen bij het openen van oesters.",
+   "Tussen het lemmet en het heft zit een stalen schild dat de vingers beschermt tegen de scherpe oesterschelpen.",
+   "Gebruik: de punt tussen de twee schelphelften plaatsen en de schelp met een draaiende beweging openwrikken; daarna de sluitspier lossnijden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2db41136"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ oestermes\\ 17\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het openen van oesters en het lossnijden van de sluitspier.",
+  "bullets": [
+   "Oestermes met een kort sterk lemmet van messenstaal van 6 cm en een zwart kunststof heft van 11 cm; totale lengte 17 cm.",
+   "Tussen het lemmet en het heft zit een stalen schild dat de vingers beschermt tegen de scherpe oesterschelpen.",
+   "Gebruik: de punt tussen de twee schelphelften plaatsen en de schelp met een draaiende beweging openwrikken; daarna de sluitspier lossnijden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "82a36076"
+  ],
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ Classic\\ smal\\ koksmes\\ met\\ kuiltjes\\ 16\\ cm\\ messenstaal"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten, fruit, vlees of vis tijdens de voorbereidingen voor het koken.",
+  "bullets": [
+   "Smal koksmes met kuiltjes uit de Wüsthof Classic serie met een messenstalen lemmet van 16 cm; totale lengte 28,3 cm.",
+   "De kuiltjes in het lemmet vormen luchtbellen en zorgen voor minder wrijving: u snijdt met minder moeite door bijvoorbeeld harde wortelgroenten en aardappelen.",
+   "Regelmatig aanzetten op een aanzetstaal houdt het mes lang scherp.",
+   "Gesmeed uit één stuk messenstaal (X50 Cr MoV 15, verrijkt met molybdeen en vanadium voor een langdurige scherpte), goed bestand tegen roest en vlekken; gehard tot 58 HRC.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "e58ddf17"
+  ]
+ },
+ {
+  "match": [
+   "Wüsthof\\ steakmessenset\\ hout\\ 4\\ stuks"
+  ],
+  "brandID": "wusthof",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het snijden van vlees; als tafelmes bij een vleesgerecht.",
+  "bullets": [
+   "Set van 4 steakmessen met een houten handgreep en een lemmet van messenstaal van 12 cm.",
+   "Gladde snede, daardoor geschikt voor het snijden van vlees; te gebruiken als tafelmes bij een vleesgerecht.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ca51b752"
+  ]
+ }
+]

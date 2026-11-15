@@ -1,0 +1,70 @@
+[
+ {
+  "match": [
+   "Nordic\\ Ware\\ Anniversary\\ Braided\\ Loaf\\ Pan\\ bakvorm\\ 700\\ gram"
+  ],
+  "brandID": "nordicware",
+  "typeIDs": [
+   "bakvormen"
+  ],
+  "suitedFor": "Voor het bakken van een cake of brood in een gevlochten vorm.",
+  "bullets": [
+   "Nordic Ware Braided Loaf Pan bakvorm van aluminium, 26 cm lang en 15 cm breed.",
+   "Voor een cake of brood in een gevlochten vorm.",
+   "Aluminium geeft een goede hittegeleiding, zodat de cakejes gelijkmatig en vlot garen.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "0a262904"
+  ],
+  "brandName": "Nordic Ware",
+  "requires": [
+   "gevlochten"
+  ]
+ },
+ {
+  "match": [
+   "Nordic\\ Ware\\ Heavy\\ Weight\\ Angel\\ Food\\ pan\\ 3,8\\ liter\\ aluminium"
+  ],
+  "brandID": "nordicware",
+  "typeIDs": [
+   "bakvormen"
+  ],
+  "suitedFor": "Voor het bereiden van een luchtige Angel Food Cake.",
+  "bullets": [
+   "Ronde Nordic Ware Angel Food Cake bakvorm van aluminium, diameter 25,5 cm, inhoud 3,8 liter.",
+   "Uit één stuk aluminium gevormd.",
+   "Aluminium zorgt voor een snelle en gelijkmatige warmtegeleiding, zodat de inhoud gelijkmatig rijst; smaak-, geur- en kleurneutraal.",
+   "Traditionele Angel Food Cake: de vorm niet invetten. Bij regulier cake- of biscuitbeslag wel invetten.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "6924712d"
+  ],
+  "requires": [
+   "Angel Food"
+  ]
+ },
+ {
+  "match": [
+   "Nordic\\ Ware\\ Loaf\\ Pan\\ bakvorm\\ 250\\ gram\\ aluminium\\ grijs"
+  ],
+  "brandID": "nordicware",
+  "typeIDs": [
+   "bakvormen"
+  ],
+  "suitedFor": "Voor het bakken van cakes of broden tot 250 gram.",
+  "bullets": [
+   "Nordic Ware Loaf Pan bakvorm van aluminium, 22 x 12 x 7 cm.",
+   "Voor het bakken van cakes of broden tot 250 gram.",
+   "Aluminium geeft een goede warmtegeleiding, zodat broden goed rijzen en gelijkmatig garen.",
+   "Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "aa035c86"
+  ],
+  "requires": [
+   "warmtegeleiding"
+  ]
+ }
+]

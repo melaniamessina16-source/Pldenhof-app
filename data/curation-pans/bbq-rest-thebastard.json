@@ -1,0 +1,957 @@
+[
+ {
+  "match": [
+   "The\\ Bastard\\ Bluetooth\\ thermometer\\ probe"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Bluetooth thermometer probe van roestvrij staal.",
+   "Meet de kerntemperatuur van het gerecht.",
+   "Alleen te gebruiken in combinatie met de The Bastard Bluetooth thermometer."
+  ],
+  "keys": [
+   "3582d1d0"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Butcher\\ Paper\\ Roll\\ 30\\ m"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Als vervanging van aluminiumfolie om vlees beter te laten garen.",
+  "bullets": [
+   "The Bastard Butcher Paper Roll: papieren rol van 50 cm breed en 30 meter lang, met een BBQ print.",
+   "Houdt het vlees vochtig, maar laat het genoeg ademen voor een knapperige korst (bij aluminium verliest de korst volgens de pagina zijn knapperigheid)."
+  ],
+  "keys": [
+   "d0d1369d"
+  ],
+  "mismatches": [
+   {
+    "topic": "Lengte",
+    "websiteSays": "Specificaties: Lengte 300 meter; naam en tekst: 30 m / 30 meter",
+    "note": "Controleren welke lengte klopt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Charcoal\\ Basket\\ Large\\ rvs"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Charcoal Basket van roestvrij staal voor de The Bastard Large barbecue.",
+   "In de houtskoolmand stookt u eenvoudig en zuinig uw houtskool.",
+   "Het rooster in het midden verdeelt de houtskool in een directe of indirecte vuurbron.",
+   "Te combineren met de Ash Lifter om houtskool en as te scheiden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "55d21a5d"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Chicken\\ sitter\\ aardewerk\\ zwart"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het 'zittend' garen van hele kippen.",
+  "bullets": [
+   "The Bastard Chicken sitter van zwart geglazuurd aardewerk; 13,5 cm doorsnede aan de basis, 11 cm hoog.",
+   "De kip gaart gelijkmatig en krijgt rondom een goudbruin en krokant vel.",
+   "De holle sitter kunt u vullen met bijvoorbeeld bier, wijn of citroensap met knoflook en verse kruiden.",
+   "Te gebruiken op de barbecue of in de oven.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "7f8553a9"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Compact\\ High\\ Level\\ Stand"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Compact High Level Stand: zwarte stalen barbecuestandaard voor de The Bastard Compact kamado vanaf Model 2020.",
+   "De barbecue wordt vastgeklemd en krijgt een werkhoogte van 85 cm.",
+   "Beschermt het oppervlak eronder (zoals gazon of vlonder) tegen de hitte.",
+   "Wijd uitlopende poten met anti-slip voetjes.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "dbf7b9ee"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Double\\ Pizza\\ Cutter\\ rvs"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om snel en netjes pizza's te snijden.",
+  "bullets": [
+   "The Bastard dubbele pizzasnijder van kunststof en roestvrij staal.",
+   "Met twee handen te gebruiken, voor extra grip en kracht.",
+   "Het mes is van scherp roestvrij staal.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "7f1d0688"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ druippan\\ Compact\\ ø\\ 25\\ cm\\ staal"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om vet en vocht van de bereiding op te vangen of voor het bereiden van taarten en andere gerechten in de kamado.",
+  "bullets": [
+   "The Bastard druippan Compact: ronde druippan, 25 cm doorsnede en 4 cm hoog.",
+   "Onder het braadstuk plaatsen om vocht en vet op te vangen: voorkomt opflakkeren van het vuur en houdt de plate setter schoon.",
+   "Ook te gebruiken als taartvorm, bijvoorbeeld voor clafoutis of lasagne op de barbecue.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "df56c52c"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ druippan\\ Medium\\ ø\\ 28\\ cm\\ aluminium\\ zwart"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om vet en vocht van de bereiding op te vangen of voor het bereiden van taarten en andere gerechten in de kamado.",
+  "bullets": [
+   "The Bastard druippan Medium: ronde druippan van aluminium met anti-aanbaklaag, 4 cm hoog.",
+   "Onder het braadstuk plaatsen om vocht en vet op te vangen: voorkomt opflakkeren van het vuur en houdt de plate setter schoon.",
+   "Ook te gebruiken als taartvorm, bijvoorbeeld voor clafoutis of lasagne op de barbecue.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "734ae172"
+  ],
+  "mismatches": [
+   {
+    "topic": "Diameter",
+    "websiteSays": "Naam en specificaties: ø 28 cm; tekst: \"heet een diameter van 25 cm\"",
+    "note": "Tekst is waarschijnlijk van de Compact overgenomen; controleren welke diameter klopt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Essentials\\ Rack\\ Medium"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Essentials Rack voor de Medium kamado, van staal.",
+   "Eenvoudig aan de zijkant van de barbecue te monteren (aan het tafelscharnier).",
+   "Biedt plaats aan 3 verschillende accessoires, zoals een grill of een platesetter, en daarnaast verschillende gereedschappen."
+  ],
+  "keys": [
+   "d9556945"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Grill\\ Clipper\\ rvs"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het gemakkelijk en veilig verwijderen van het grillrooster.",
+  "bullets": [
+   "The Bastard Grill Clipper van roestvrij staal.",
+   "Voor een zwaar grillrooster adviseert de pagina twee tangen te gebruiken.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "70a14941"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Grill\\ Grate\\ grillrooster\\ Small\\ 27,3\\ x\\ 26,6\\ cm\\ "
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het grillen van vlees, vis en groenten.",
+  "bullets": [
+   "The Bastard Grill Grate grillrooster voor de The Bastard Small barbecue, van roestvrij staal; 27,3 x 26,6 cm.",
+   "Versterkt de warmte, waardoor het effect van een infraroodbrander ontstaat.",
+   "De Grill Grate Cleaner Fork (om het rooster schoon te maken of ingrediënten om te keren) wordt niet meegeleverd."
+  ],
+  "keys": [
+   "434d143c"
+  ],
+  "mismatches": [
+   {
+    "topic": "Breedte",
+    "websiteSays": "Specificaties: Breedte 26,5 cm; tekst en naam: 26,6 cm",
+    "note": "Kleine afwijking; controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Grill\\ Pins\\ rvs\\ 6\\ stuks"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Grill Pins van roestvrij staal: set van 6, elk 15 cm lang, in een bewaardoos.",
+   "Samen te gebruiken als grillverhoger, spareribrek, satéhouder en meer.",
+   "Naast elkaar gelegd houden ze een sparerib, meerdere satéstokjes of groenten vast; door het rooster te verhogen verandert u de afstand tot het vuur.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "be2c1b4e"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ grillrooster\\ Compact\\ ø\\ 33,5\\ cm\\ rvs"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om te grillen, bakken en braden.",
+  "bullets": [
+   "The Bastard grillrooster Compact van roestvrij staal, 33,5 cm diameter; past precies op de The Bastard Compact barbecue.",
+   "Wordt standaard bij de barbecue geleverd; te gebruiken als extra rooster of ter vervanging van het oude.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6a0ddf60"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ grillrooster\\ Small\\ ø\\ 25\\ cm\\ rvs"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om te grillen, bakken en braden.",
+  "bullets": [
+   "The Bastard grillrooster Small van roestvrij staal, 25 cm diameter; past precies op de The Bastard Small barbecue.",
+   "Wordt standaard bij de barbecue geleverd; te gebruiken als extra rooster of ter vervanging van het oude.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "95ece38d"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ grillrooster\\ Compact\\ ø\\ 34\\ cm\\ gietijzer"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om gerechten een uitgesproken grillstreep en grillsmaak te geven.",
+  "bullets": [
+   "The Bastard gietijzeren grillrooster van 34 cm diameter, speciaal voor de The Bastard Compact kamado.",
+   "Het zware gietijzer neemt boven het vuur veel warmte op en geeft die af aan het voedsel: aantrekkelijke grillstreep.",
+   "Ideaal voor gevogelte, vlees en groenten; voor het beste resultaat het product dun met olie insmeren.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c7a21919"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ grillrooster\\ Large\\ ø\\ 49\\ cm\\ gietijzer"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het grillen van etenswaren; ze krijgen er bruine grillstrepen van.",
+  "bullets": [
+   "The Bastard gietijzeren grillrooster van 49 cm diameter voor de The Bastard Large, niet te gebruiken met het The Bastard Multi Level Systeem.",
+   "Het zware gietijzer neemt boven het vuur veel warmte op en geeft die af aan het voedsel.",
+   "Voor het beste resultaat het product dun met olie insmeren.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5a3faf1c"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ grillrooster\\ Medium\\ ø\\ 40\\ cm\\ gietijzer"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het grillen van etenswaren; ze krijgen er bruine grillstrepen van.",
+  "bullets": [
+   "The Bastard gietijzeren grillrooster van 40 cm diameter voor de The Bastard Medium, niet te gebruiken met het The Bastard Multi Level Systeem.",
+   "Het zware gietijzer neemt boven het vuur veel warmte op en geeft die af aan het voedsel.",
+   "Voor het beste resultaat het product dun met olie insmeren.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "24974347"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ grillverhoger\\ voor\\ de\\ Compact\\ rvs"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard grillverhoger voor de Compact, van roestvrij staal, in de vorm van een halve cirkel.",
+   "Geeft 50% extra grilloppervlak; twee helften te combineren voor een groter oppervlak.",
+   "De drie poten blijven op het standaard The Bastard rooster staan.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "626ea28b"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ grillverhoger\\ voor\\ de\\ Large\\ rvs"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard grillverhoger voor de Large, van roestvrij staal, in de vorm van een halve cirkel.",
+   "Extra grilloppervlak; twee helften te combineren voor een volledig rond oppervlak.",
+   "De drie poten blijven op het standaard The Bastard rooster staan.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8fd8e1b8"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Half\\ Moon\\ druippan\\ voor\\ Compact"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om vet en vocht van de bereiding op te vangen of voor het bereiden van taarten en andere gerechten in de kamado.",
+  "bullets": [
+   "The Bastard Half Moon druippan van aluminium voor de The Bastard Compact.",
+   "Onder het braadstuk plaatsen om vocht en vet op te vangen: voorkomt opflakkeren van het vuur en houdt de plate setter schoon.",
+   "Ook te gebruiken als halve taartvorm, bijvoorbeeld voor clafoutis of lasagne op de barbecue.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4c856bc1"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Half\\ Moon\\ rooster\\ voor\\ Medium\\ gietijzer"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om extra ruimte te creëren en gerechten te grillen in de kamado.",
+  "bullets": [
+   "The Bastard Half Moon rooster van gietijzer voor de The Bastard Medium.",
+   "Voor extra oppervlakte, bijvoorbeeld om grote stukken vlees, spiezen of vers fruit te grillen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9b0657f5"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Half\\ Moon\\ rooster\\ voor\\ XL\\ gietijzer"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om extra ruimte te creëren en gerechten te grillen in de kamado.",
+  "bullets": [
+   "The Bastard Half Moon rooster van gietijzer voor de The Bastard XL.",
+   "Voor extra oppervlakte, bijvoorbeeld om grote stukken vlees, spiezen of vers fruit te grillen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6cdb0f14"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ hoes\\ Medium\\ zwart",
+   "The\\ Bastard\\ hoes\\ Medium\\ zwart"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard hoes voor de Bastard Medium barbecue, van kunststof.",
+   "Voorzien van klittenband voor een optimale afsluiting.",
+   "Hiermee kan de barbecue in regen en wind buiten blijven staan.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "107050f9"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Infinity\\ Gasket\\ voor\\ Large"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Infinity Gasket: reserve-vilt van glasvezel voor de The Bastard Large, om weer goed luchtdicht af te sluiten.",
+   "Volgens de pagina een nog betere afsluiting, eenvoudig schoon te maken en slijtvaster dan standaard kamado-vilt.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "f5854139"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Infinity\\ Gasket\\ voor\\ Medium"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Infinity Gasket: reserve-vilt van glasvezel voor de The Bastard Medium, om weer goed luchtdicht af te sluiten.",
+   "Volgens de pagina een nog betere afsluiting, eenvoudig schoon te maken en slijtvaster dan standaard kamado-vilt.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "24a05843"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Infinity\\ Gasket\\ voor\\ Small"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Infinity Gasket: reserve-vilt van glasvezel voor de The Bastard Small, om weer goed luchtdicht af te sluiten.",
+   "Volgens de pagina een nog betere afsluiting, eenvoudig schoon te maken en slijtvaster dan standaard kamado-vilt.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "b24bb4ab"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Infinity\\ Gasket\\ voor\\ XL"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Infinity Gasket: reserve-vilt van glasvezel voor de The Bastard XL, om weer goed luchtdicht af te sluiten.",
+   "Volgens de pagina een nog betere afsluiting, eenvoudig schoon te maken en slijtvaster dan standaard kamado-vilt.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "57132a7e"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Kit\\ Cleaner\\ en\\ Wax\\ Polish\\ 2\\ x\\ 500\\ ml\\ "
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Kit Cleaner en Wax Polish: twee flessen van 500 ml (1 liter in totaal).",
+   "De Cleaner reinigt de keramische buitenzijde en de metalen onderdelen grondig.",
+   "De Wax Polish geeft de keramische buitenzijde van de kamado een beschermende waslaag.",
+   "Cleaner met doek of spons aanbrengen, 30 seconden laten intrekken, met schuurspons verwijderen en afspoelen; daarna de wax dun aanbrengen en goed uitwrijven."
+  ],
+  "keys": [
+   "32d6b211"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Wax\\ Polish\\ 500\\ ml\\ "
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Wax Polish, fles van 500 ml.",
+   "Geeft de keramische buitenzijde van de kamado een beschermende waslaag.",
+   "Oppervlak eerst volledig schoon, stofvrij en droog maken; na goed schudden dun aanbrengen met een doek en goed uitwrijven."
+  ],
+  "keys": [
+   "dd7ac385"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Model\\ 2021\\ XL\\ Urban\\ Compleet\\ barbecue\\ keramiek\\ zwart"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Model 2021 XL Urban Compleet: mat zwarte keramische kamado, diameter 59 cm en 140 cm hoog volgens de tekst.",
+   "Voor grillen, bakken, slow cooken, roken, stoven en koken.",
+   "Geleverd met gietijzeren Top Cap, Easy Open-scharnier, Infinity Gasket, houten zijplanken, stabiel onderstel, plate setter, extra dik grillrooster, houtskoolmand en roestvrijstalen aslifter.",
+   "De 2021-editie heeft een betere aansluiting en strakkere afwerking van de Top Cap, een vernieuwde thermometer in de deksel en een Fun & Care-set (stickervel, bieropener, tools, lakstift, etui).",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "8a88b42c"
+  ],
+  "mismatches": [
+   {
+    "topic": "Diameter",
+    "websiteSays": "Specificaties: Diameter 58 cm; tekst: diameter van 59 cm",
+    "note": "Controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Model\\ 2024\\ Large\\ Solo\\ barbecue\\ keramiek\\ zwart"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Model 2024 Large Solo: zwarte keramische kamado, diameter 49 cm.",
+   "Voor grillen, bakken, slow cooken, roken, stoven en koken.",
+   "Gietijzeren Top Cap (precisie topschijf) om de temperatuur af te stellen, Easy Open-scharniersysteem en slijtvast Infinity Gasket voor een luchtdichte afsluiting.",
+   "Geleverd met Multi Level Systeem (inclusief plate setter), extra dik grillrooster, houtskoolmand en roestvrijstalen aslifter.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "bff00a4c"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Model\\ 2024\\ Large\\ Urban\\ Solo\\ barbecue\\ keramiek\\ matzwart"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Model 2024 Large Urban Solo: matzwarte keramische kamado, diameter 49 cm.",
+   "Voor grillen, bakken, slow cooken, roken, stoven en koken.",
+   "Gietijzeren Top Cap (precisie topschijf) om de temperatuur af te stellen, Easy Open-scharniersysteem en slijtvast Infinity Gasket voor een luchtdichte afsluiting.",
+   "Geleverd met Multi Level Systeem (inclusief plate setter), extra dik grillrooster, houtskoolmand en roestvrijstalen aslifter.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "f23b68d7"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Model\\ 2024\\ Medium\\ solo\\ barbecue\\ keramiek\\ zwart"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Model 2024 Medium Solo: zwarte keramische kamado, diameter 40 cm.",
+   "Voor grillen, bakken, slow cooken, roken, stoven en koken.",
+   "Gietijzeren Top Cap (precisie topschijf) om de temperatuur af te stellen, Easy Open-scharniersysteem en slijtvast Infinity Gasket voor een luchtdichte afsluiting.",
+   "Geleverd met Multi Level Systeem (inclusief plate setter), extra dik grillrooster, houtskoolmand en roestvrijstalen aslifter.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "d2e5fb35"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Model\\ 2024\\ Medium\\ Urban\\ Solo\\ barbecue\\ keramiek\\ matzwart"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Model 2024 Medium Urban Solo: matzwarte keramische kamado, diameter 40 cm.",
+   "Voor grillen, bakken, slow cooken, roken, stoven en koken.",
+   "Gietijzeren Top Cap (precisie topschijf) om de temperatuur af te stellen, Easy Open-scharniersysteem en slijtvast Infinity Gasket voor een luchtdichte afsluiting.",
+   "Geleverd met Multi Level Systeem (inclusief plate setter), extra dik grillrooster, houtskoolmand en roestvrijstalen aslifter.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "ff49b307"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Model\\ 2024\\ Medium\\ Compleet\\ barbecue\\ keramiek\\ zwart"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard Model 2024 Medium Compleet: zwarte keramische kamado, diameter 42 cm en 114 cm hoog inclusief onderstel volgens de tekst.",
+   "Voor grillen, bakken, slow cooken, roken, stoven en koken.",
+   "Gietijzeren Top Cap (precisie topschijf) om de temperatuur af te stellen, Easy Open-scharniersysteem en slijtvast Infinity Gasket voor een luchtdichte afsluiting.",
+   "Compleet geleverd met houten zijplanken, stabiel onderstel, Multi Level Systeem (inclusief plate setter), extra dik grillrooster, houtskoolmand en roestvrijstalen aslifter.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "e0440e20"
+  ],
+  "mismatches": [
+   {
+    "topic": "Hoogte",
+    "websiteSays": "Specificaties: Hoogte 1,15 meter; tekst: 114 cm inclusief onderstel",
+    "note": "Controleren."
+   }
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ VX\\ Large\\ Compleet\\ barbecue\\ keramiek\\ matzwart"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard VX Large Compleet: matzwarte keramische kamado, diameter 49 cm en 131 (cm) hoog inclusief onderstel volgens de tekst.",
+   "Voor grillen, bakken, slow cooken, roken, stoven en koken.",
+   "Nieuwe gietijzeren Top Cap voor temperatuurcontrole; Infinity Gasket voor een luchtdichte afsluiting.",
+   "Scharnier geoptimaliseerd voor inbouw in een buitenkeuken of op een tafel; verbeterde ergonomische handgreep; nieuwe zwarte thermometer; luchtinlaat onderaan met dubbele schuifdeur.",
+   "Compleet geleverd met zijplanken van bamboe met stalen frame, stabiel onderstel, Multi Level Systeem (inclusief plate setter), extra dik grillrooster, houtskoolmand en roestvrijstalen aslifter.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "5739da5b"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ VX\\ Large\\ Solo\\ barbecue\\ keramiek\\ matzwart"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "kamado"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard VX Large Solo: matzwarte keramische kamado, diameter 49 cm.",
+   "Voor grillen, bakken, slow cooken, roken, stoven en koken.",
+   "Nieuwe gietijzeren Top Cap voor temperatuurcontrole; Infinity Gasket voor een luchtdichte afsluiting.",
+   "Scharnier geoptimaliseerd voor inbouw in een buitenkeuken of op een tafel; verbeterde ergonomische handgreep; nieuwe zwarte thermometer; luchtinlaat onderaan met dubbele schuifdeur.",
+   "Geleverd met Multi Level Systeem (inclusief plate setter), extra dik grillrooster, houtskoolmand en roestvrijstalen aslifter.",
+   "Bezorging: barbecues en grote apparatuur worden binnen Nederland (behalve de waddeneilanden) gratis tot de voordeur bezorgd; levering de volgende dag is meestal niet mogelijk.",
+   "Op de pagina staat dat de barbecue niet als cadeau kan worden ingepakt."
+  ],
+  "keys": [
+   "a152110c"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Multilevel\\ Cooking\\ System\\ Medium"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor gelijktijdig direct en indirect koken op diverse niveaus.",
+  "bullets": [
+   "The Bastard Multilevel Cooking System voor de The Bastard Medium.",
+   "De set bestaat uit een roestvrijstalen houder en een grillverhoger.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ad315393"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Pizza\\ Shovel\\ 2021\\ hout"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om pizza te bereiden op de schep, in een pizzaoven of op de kamado te schuiven en daarna op te dienen.",
+  "bullets": [
+   "The Bastard Pizza Shovel 2021: pizzaschep volledig van hout.",
+   "Reinigen met warm water en afwasmiddel; direct afdrogen."
+  ],
+  "keys": [
+   "6d31c5cd"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Rotisserie\\ Skewer\\ Rack\\ rvs"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het bereiden van stukken vlees of groenten aan een spies, in combinatie met de The Bastard Pizza-Rotisserie.",
+  "bullets": [
+   "The Bastard Rotisserie Skewer Rack van roestvrij staal.",
+   "Op de rotisserie plaatsen: het rek draait rond, zodat u de spiesen niet zelf hoeft te draaien.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "63ecb4fe"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Square\\ Plate\\ Setter\\ Medium\\ ø\\ 30\\ cm\\ keramiek"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Om indirect te koken in de The Bastard Medium.",
+  "bullets": [
+   "The Bastard Square Plate Setter Medium: keramisch hitteschild met roestvrijstalen rooster, 30 cm diameter.",
+   "Werkt als hitteschild: de barbecue wordt een oven, voor indirect grillen, lange bereidingen en grote stukken vlees (pulled pork, pizza, hele kip, spareribs).",
+   "Voorkomt dat vet op de houtskool druipt en dat gerechten aanbranden.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2e68aa3d"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ vervangingsvilt\\ Medium"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard vervangingsvilt voor de The Bastard Medium: zelfklevend, extra hittebestendig.",
+   "Beschermt het keramiek en voorkomt valse luchttoevoer.",
+   "Vervangen als het oude niet meer goed afsluit."
+  ],
+  "keys": [
+   "99e06c3e"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ vervangingsvilt\\ Small"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "The Bastard vervangingsvilt voor de The Bastard Small: zelfklevend, extra hittebestendig.",
+   "Beschermt het keramiek en voorkomt valse luchttoevoer.",
+   "Vervangen als het oude niet meer goed afsluit."
+  ],
+  "keys": [
+   "f5bddda6"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ koekenpan\\ met\\ 2\\ grepen\\ ø\\ 28\\ cm\\ gietijzer"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires",
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van hamburgers, groenten of aardappelen, maar ook voor het inkoken van sauzen.",
+  "bullets": [
+   "The Bastard koekenpan met 2 grepen van gietijzer, diameter 28 cm.",
+   "Uit één stuk gegoten, dus stevig; de twee handvatten zijn makkelijk te bedienen.",
+   "Houdt warmte lang vast; de pagina adviseert de pan eerst langzaam op te warmen.",
+   "Voor gebruik inbranden en na gebruik vet houden, dan roest de pan minder snel.",
+   "Reinigen met warm water en afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "6a530b16"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Phantom\\ koekenpan\\ ø\\ 24\\ cm\\ plaatstaal",
+   "The\\ Bastard\\ Phantom\\ koekenpan\\ ø\\ 28\\ cm\\ plaatstaal"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires",
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bakken van diverse ingrediënten op de barbecue.",
+  "bullets": [
+   "The Bastard Phantom koekenpan van carbonstaal; het oppervlak is genitreerd en volgens de pagina sterk en roestvrij.",
+   "Geschikt voor op hoog en direct vuur; geen anti-aanbaklaag.",
+   "Voor het eerste gebruik inbranden met plantaardige olie en na gebruik vet houden tegen roest; patina vormt de natuurlijke anti-aanbaklaag.",
+   "Reinigen met enkel heet water, zonder afwasmiddel, en goed afdrogen.",
+   "Diameter verschilt per uitvoering: zie de naam (24 of 28 cm)."
+  ],
+  "keys": [
+   "55212b84"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Phantom\\ Plancha\\ Ring\\ Compact"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor gelijkmatig bakken van (delicate of vloeibare) gerechten, zoals vlees, vis, groente, flensjes of eieren.",
+  "bullets": [
+   "The Bastard Phantom Plancha Ring van gietijzer, speciaal voor de The Bastard Compact kamado.",
+   "Gladde plancha plaat met in het midden een rooster om te grillen.",
+   "Het half-open middenstuk laat de lucht door de kamado circuleren, zodat u de temperatuur kunt beheersen.",
+   "Te gebruiken in combinatie met het standaard rooster.",
+   "Reinigen met warm water."
+  ],
+  "keys": [
+   "c497aa4b"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Phantom\\ Plancha\\ Ring\\ Medium"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor gelijkmatig bakken van (delicate of vloeibare) gerechten, zoals vlees, vis, groente, flensjes of eieren.",
+  "bullets": [
+   "The Bastard Phantom Plancha Ring van gietijzer, speciaal voor de The Bastard Medium kamado, behalve bij gebruik van het Bastard Multilevel Cooking systeem.",
+   "Gladde plancha plaat met in het midden een rooster om te grillen.",
+   "Het half-open middenstuk laat de lucht door de kamado circuleren, zodat u de temperatuur kunt beheersen.",
+   "Te gebruiken in combinatie met het standaard rooster.",
+   "Reinigen met warm water."
+  ],
+  "keys": [
+   "4a48d668"
+  ]
+ },
+ {
+  "match": [
+   "The\\ Bastard\\ Plancha\\ Large\\ ø\\ 29\\ cm\\ gietijzer"
+  ],
+  "brandID": "thebastard",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor grillen en bakken van vlees, vis, groente, flensjes of eieren.",
+  "bullets": [
+   "The Bastard Plancha / Grill- en Bakrooster van gietijzer met een gladde zijde, 29 cm diameter (specificaties).",
+   "Te gebruiken in combinatie met het standaard rooster in de The Bastard Medium of Large.",
+   "Voor bijvoorbeeld tosti's, delicate visfilets, flensjes of het bakken van eieren.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9127f638"
+  ]
+ }
+]

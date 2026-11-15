@@ -1,0 +1,45 @@
+[
+ {
+  "match": [
+   "Puresigns\\ One\\ fruitmes\\ 17,5\\ cm\\ rvs\\ mat\\ 2\\ stuks"
+  ],
+  "brandID": "puresigns",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Puresigns One fruitmes, 17,5 cm, van gematteerd 18/10 roestvrij staal; geleverd per twee.",
+   "Het dikke materiaal en de moderne vormgeving maken het een elegant stuk eetgerei.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "e043c60f"
+  ],
+  "brandName": "Puresigns",
+  "requires": [
+   "fruitmes"
+  ]
+ },
+ {
+  "match": [
+   "Puresigns\\ One\\ tafelmes\\ rvs\\ mat\\ "
+  ],
+  "brandID": "puresigns",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Puresigns One tafelmes van gematteerd 18/10 roestvrij staal.",
+   "Het dikke materiaal en de moderne vormgeving maken het een elegant stuk eetgerei.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "11cb9aad"
+  ],
+  "requires": [
+   "tafelmes"
+  ]
+ }
+]

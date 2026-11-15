@@ -959,6 +959,61 @@
    "sections": [],
    "brandIDs": [],
    "mismatchIDs": []
+  },
+  {
+   "id": "airfryers",
+   "categoryID": "klein-elektrisch",
+   "name": "Airfryers",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "keramiek-aardewerk",
+   "categoryID": "pannen",
+   "name": "Keramiek en aardewerk",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "overig-snijgereedschap",
+   "categoryID": "messen",
+   "name": "Scharen, vorken en spatels",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "bakvormen",
+   "categoryID": "pannen",
+   "name": "Bakvormen",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
+  },
+  {
+   "id": "kaasmessen",
+   "categoryID": "messen",
+   "name": "Kaasmessen",
+   "subtitle": null,
+   "oneLiner": null,
+   "facts": [],
+   "sections": [],
+   "brandIDs": [],
+   "mismatchIDs": []
   }
  ],
  "brands": [

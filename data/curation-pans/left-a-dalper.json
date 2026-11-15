@@ -1,0 +1,92 @@
+[
+ {
+  "match": [
+   "Dalper\\ botermes\\ 15\\ cm\\ rvs\\ glans"
+  ],
+  "brandID": "dalper",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Ideaal voor het uitsmeren van boter.",
+  "bullets": [
+   "Dalper botermes, 15 cm, van roestvrij staal; het uiteinde van het lemmet is verbreed.",
+   "Ideaal voor het scheppen en smeren van harde en zachte boter.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "ad75ab1a"
+  ],
+  "brandName": "Dalper",
+  "requires": [
+   "uitloopt"
+  ]
+ },
+ {
+  "match": [
+   "Dalper\\ kaasmes\\ 14\\ cm\\ rvs\\ glans"
+  ],
+  "brandID": "dalper",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het prikken van stukken en het snijden van verschillende soorten kaas.",
+  "bullets": [
+   "Dalper kaasmes, 14 cm, van roestvrij staal.",
+   "Met een vorkje (golvende uitloop in twee punten) aan het einde van het lemmet om de kaas na het snijden op te prikken.",
+   "Voor verschillende soorten kaas, zoals Goudse kaas en brie.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "535ce7ff"
+  ],
+  "requires": [
+   "vorkje",
+   "Goudse kaas"
+  ]
+ },
+ {
+  "match": [
+   "Dalper\\ New\\ York\\ botermes\\ rvs\\ mat"
+  ],
+  "brandID": "dalper",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Dalper New York botermes van mat roestvrij staal.",
+   "Tijdloos en eenvoudig vormgegeven, past binnen iedere tafelsetting.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "8e4265c0"
+  ],
+  "requires": [
+   "tijdloos en eenvoudig vormgegeven"
+  ]
+ },
+ {
+  "match": [
+   "Dalper\\ New\\ York\\ vismes\\ rvs\\ glanzend\\ 6\\ stuks",
+   "Dalper\\ New\\ York\\ vismes\\ rvs\\ mat\\ 6\\ stuks"
+  ],
+  "brandID": "dalper",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Dalper New York vismessen van mat roestvrij staal; set van 6 stuks.",
+   "Tijdloos en eenvoudig vormgegeven, past binnen iedere tafelsetting.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "8ec3a95f",
+   "f92948bf"
+  ],
+  "requires": [
+   "tijdloos en eenvoudig vormgegeven",
+   "vismes"
+  ]
+ }
+]

@@ -1,0 +1,48 @@
+[
+ {
+  "match": [
+   "Ritter\\ Piatto\\ 5\\ handsnijmachine\\ met\\ bamboe\\ plank"
+  ],
+  "brandID": "ritter",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van tal van voedingsmiddelen, zoals groente, fruit, vlees en brood.",
+  "bullets": [
+   "Ritter Piatto 5 handsnijmachine van zilverkleurig metaal met bamboe snijplank; handmatig aangedreven (slinger met beukenhouten handgreep).",
+   "Het bamboe opvangplateau is tevens een snijplank.",
+   "Snijdikte (max. 20 mm) aan te passen met een draaiknop.",
+   "Zuignapjes aan de onderzijde voor stabiliteit.",
+   "Reinigen met warm water, een geschikt reinigingsmiddel en een vochtige doek."
+  ],
+  "keys": [
+   "078bb17c"
+  ],
+  "brandName": "Ritter",
+  "requires": [
+   "Piatto 5"
+  ]
+ },
+ {
+  "match": [
+   "Ritter\\ Podio\\ 3\\ handsnijmachine"
+  ],
+  "brandID": "ritter",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van tal van voedingsmiddelen, zoals groente, fruit, vlees en brood.",
+  "bullets": [
+   "Ritter Podio 3 handsnijmachine van zilverkleurig metaal; handmatig aangedreven (slinger met zwarte kunststof handgreep).",
+   "Snijdikte (max. 20 mm) aan te passen met een draaiknop.",
+   "Zuignapjes aan de onderzijde voor stabiliteit.",
+   "Reinigen met warm water, een geschikt reinigingsmiddel en een vochtige doek."
+  ],
+  "keys": [
+   "63146828"
+  ],
+  "requires": [
+   "Podio 3"
+  ]
+ }
+]

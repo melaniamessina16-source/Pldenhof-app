@@ -1,0 +1,2826 @@
+[
+ {
+  "match": [
+   "Looftlighter\\ elektrische\\ barbecue\\-aansteker"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het aansteken van een houtskoolbarbecue, kamado, houtgestookte pizzaoven of open haard.",
+  "bullets": [
+   "Elektrische barbecue-aansteker: hete lucht tot 700 °C voor het aansteken van houtskool, briketten en houtblokken",
+   "Vermogen 1800 W, snoer van 3 meter, werkt op netstroom van 230 V",
+   "Aanmaakblokjes en aanmaakvloeistof zijn niet nodig",
+   "Volgens de fabrikant komt de brandstof in ongeveer 60 seconden tot ontbranding",
+   "Voorzien van een steun die ook als flesopener dient",
+   "Materiaal: kunststof en roestvrij staal. Na gebruik volledig laten afkoelen voordat u hem opbergt"
+  ],
+  "keys": [
+   "d856fd95"
+  ],
+  "brandName": "Big Green Egg",
+  "mismatches": [
+   {
+    "topic": "Merk",
+    "websiteSays": "Merk op de pagina: Big Green Egg; productnaam: Looftlighter elektrische barbecue-aansteker",
+    "note": "Controleer of dit een Looftlighter-product is dat onder Big Green Egg staat."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smokewood\\ Red\\ Wine\\ rookhout\\ Mini\\ Blocks\\ 1\\ kg"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokewood Red Wine rookhout, gemaakt van hout van gebruikte wijn- en portvaten",
+   "Verpakking van 1 kg met blokjes (Mini Blocks)",
+   "De blokjes kunt u direct over de hete kolen strooien",
+   "De vaten worden na circa 10 jaar niet meer gebruikt om wijn te rijpen en zijn in de regel van Amerikaans eiken, maar ook van inlands eiken"
+  ],
+  "keys": [
+   "c1851331"
+  ]
+ },
+ {
+  "match": [
+   "Smokewood\\ Red\\ Wine\\ rookhout\\ Rough\\ Cut\\ 500\\ gram"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Rookhout in verpakking van 500 gram, snippers van 5 tot 8 mm grootte",
+   "Ideaal voor gasbarbecues en rookdoosjes",
+   "Productnaam zegt Red Wine, de tekst op de pagina beschrijft Whiskey rookhout (hout van whiskyvaten, Amerikaans eikenhout)"
+  ],
+  "keys": [
+   "e72c8c00"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: Smokewood Red Wine rookhout Rough Cut 500 gram",
+    "websiteSays": "Tekst: \"Het Smokewood Whiskey rookhout is vervaardigd uit hout van gebruikte whiskyvaten\" (ook de uitleg eronder gaat over whisky)",
+    "note": "Controleer of dit Red Wine of Whiskey rookhout is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Smokewood\\ Whiskey\\ rookhout\\ Rough\\ Cut\\ 700\\ gram"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokewood Whiskey rookhout, gemaakt van hout van gebruikte whiskyvaten (Amerikaans eikenhout)",
+   "Verpakking van 700 gram snippers",
+   "De snippers 30 minuten in een beetje water laten weken voordat u ze over de gloeiende kolen strooit",
+   "Het aroma van de whisky komt tijdens het gebruik vrij en geeft smaak aan vlees, vis of groenten"
+  ],
+  "keys": [
+   "1d98a256"
+  ]
+ },
+ {
+  "match": [
+   "Smokewood\\ Whiskey\\ rookhout\\ snippers\\ 400\\ gram"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Smokewood Whiskey rookhout, gemaakt van hout van gebruikte whiskyvaten (Amerikaans eikenhout)",
+   "Verpakking van 400 gram snippers van 5 tot 8 mm grootte",
+   "Ideaal voor gasbarbecues en rookdoosjes",
+   "Het aroma van de whisky komt tijdens het gebruik vrij en geeft smaak aan vlees, vis of groenten"
+  ],
+  "keys": [
+   "47800391"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ ash\\ tool\\ barbecuepook\\ mini\\ /\\ small\\ /\\ minimax\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Roestvrij stalen pook met een oog om hem na gebruik op te hangen",
+   "Voor het verwijderen van as en als pook voor het aanwakkeren van het vuur",
+   "Volgens de pagina geschikt voor de Big Green Egg mini en smal",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "7aa783e1"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: mini / small / minimax",
+    "websiteSays": "Tekst: \"Geschikt voor de Big Green Egg mini en smal\"",
+    "note": "Controleer of ook Minimax erbij hoort (naam noemt minimax, tekst niet) en of \"smal\" Small bedoelt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ ash\\ tool\\ barbecuepook\\ XL\\ /\\ XXL\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Roestvrij stalen pook met een oog om hem na gebruik op te hangen",
+   "Voor het verwijderen van as en als pook voor het aanwakkeren van het vuur",
+   "Geschikt voor de Big Green Egg Extra Large en Extra Extra Large",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "a44b2eed"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ ash\\ tool\\ remover\\ medium\\ /\\ large\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Roestvrij stalen pook van 46 cm lengte met een oog om hem na gebruik op te hangen en een silicone handvat voor goede grip",
+   "Voor het verwijderen van as en als pook voor het aanwakkeren van het vuur",
+   "Geschikt voor de Big Green Egg medium en large",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "6cf2de7e"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Baking\\ Stone\\ Extra\\ Large\\ ø\\ 46\\ cm\\ keramiek"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Baking Stone Extra Large: keramiek, diameter 46 cm",
+   "Keramieken steen voor het bakken van pizza's, brood en koekjes in de Big Green Egg",
+   "Rond; reinigen met warm water en afwasmiddel",
+   "Op het standaard rooster of de Plate Setter plaatsen en samen met de barbecue laten opwarmen, zodat de steen niet barst door het grote temperatuurverschil"
+  ],
+  "keys": [
+   "35952bf1"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Baking\\ Stone\\ Large\\ ø\\ 36\\ cm\\ keramiek"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Baking Stone Large: keramiek, diameter 36 cm",
+   "Keramieken steen voor het bakken van pizza's, brood en koekjes in de Big Green Egg",
+   "Rond; reinigen met warm water en afwasmiddel",
+   "Op het standaard rooster of de Plate Setter plaatsen en samen met de barbecue laten opwarmen, zodat de steen niet barst door het grote temperatuurverschil"
+  ],
+  "keys": [
+   "4be33397"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Baking\\ Stone\\ Medium\\ ø\\ 30,5\\ cm\\ keramiek"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Baking Stone Medium: keramiek, diameter 30,5 cm",
+   "Keramieken steen voor het bakken van pizza's, brood en koekjes in de Big Green Egg",
+   "Rond; reinigen met warm water en afwasmiddel",
+   "Op het standaard rooster van de Egg plaatsen",
+   "Geschikt voor gebruik met de Big Green Egg Small, Medium en Minimax"
+  ],
+  "keys": [
+   "b00e9d10"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Deep\\ Dish\\ Baking\\ Stone\\ ø\\ 36\\ cm"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Deep Dish Baking Stone: keramiek, diameter 36 cm, hoogte 5 cm",
+   "Keramieken steen voor het bakken van pizza's, brood en koekjes in de Big Green Egg",
+   "Rond; reinigen met warm water en afwasmiddel",
+   "Op het standaard rooster van de Egg plaatsen",
+   "Geschikt voor gebruik met de Big Green Egg Large en Extra Large"
+  ],
+  "keys": [
+   "38a89fea"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ barbecuetang\\ 30\\ cm\\ silicone\\ groen",
+   "Big\\ Green\\ Egg\\ barbecuetang\\ 40\\ cm\\ silicone\\ groen"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Barbecuetang van roestvrij staal met silicone uiteinde, voor het omkeren van ingrediënten op de barbecue",
+   "Het silicone geeft meer grip, zowel op de tang als op het product op de barbecue",
+   "Volgens de tekst geschikt tot 250°C",
+   "Vaatwasmachinebestendig"
+  ],
+  "keys": [
+   "77a850fd"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximumtemperatuur",
+    "websiteSays": "Spec: Maximumtemperatuur 260°C; tekst: \"geschikt voor gebruik tot temperaturen van 250°C\"",
+    "note": "Controleer welke maximumtemperatuur klopt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Beer\\ Can\\ Chicken\\ Sitter\\ opvouwbaar\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het braden en roosteren van een hele kip in de Big Green Egg.",
+  "bullets": [
+   "Beer Can Chicken Sitter van roestvrij staal, past precies om een bierblikje",
+   "Een hele kip staat erop, zodat hete lucht rondom de kip kan circuleren en deze overal kookt en kleurt",
+   "Hol van binnen: plaats voor een blikje bier of andere dranken voor extra smaak en vocht",
+   "Opvouwbaar na gebruik",
+   "Vaatwasmachinebestendig"
+  ],
+  "keys": [
+   "75aa955c"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Brede\\ \\(vis\\)spatel\\ met\\ gaatjes\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor gebruik op de barbecue, plancha of grillplaat.",
+  "bullets": [
+   "Brede spatel van roestvrij staal met gaatjes; het extra brede blad is bedoeld om grotere stukken vlees, vis of groenten om te draaien zonder dat ze breken of verschuiven",
+   "Ergonomische handgreep die volgens de pagina koel blijft tijdens het gebruik",
+   "Ophangoog om hem op te bergen",
+   "Vaatwasmachinebestendig"
+  ],
+  "keys": [
+   "8d24e79f"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Butcher\\ Paper\\ 26\\ cm\\ x\\ 22,8\\ meter"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Butcher Paper: papieren rol van 26 cm breed en 22,8 meter lang met Big Green Egg-print",
+   "Te gebruiken als vervanging van aluminium: houdt het vlees vochtig maar laat genoeg ademen voor een knapperige korst",
+   "Bij aluminium komt er vrijwel geen vocht bij het vlees, waardoor de korst zijn knapperigheid verliest"
+  ],
+  "keys": [
+   "a0ca878c"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Cast\\ Iron\\ Grate\\ Extra\\ Extra\\ Large\\ "
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cast Iron Grate van gietijzer voor de Big Green Egg XXL",
+   "Wordt in de firebox geplaatst, het houtskool komt erbovenop",
+   "Door de openingen ontstaat een opwaartse luchtstroom en valt de as in de basis, zodat hij via de luchtregelaar eenvoudig te verwijderen is",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "daa67041"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Cast\\ Iron\\ Skillet\\ ø\\ 36\\ cm\\ "
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cast Iron Skillet van gietijzer, diameter 36 cm, zwart",
+   "Te gebruiken als gietijzeren koekenpan of braadslede, met twee handgrepen en een opstaande rand",
+   "Voor aanbraden van vlees of groente of het smoren of stoven van gerechten",
+   "Te gebruiken met de Big Green Egg XXLarge, XLarge en Large, op het standaard rooster",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "ed1ab2d2"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Charcoal\\ Storage\\ Bag\\ 9\\ kg"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Charcoal Storage Bag voor 9 kg houtskool, beschermt het houtskool tegen invloeden van buitenaf",
+   "Gemaakt van duurzaam polyester, met een apart vakje voor bijvoorbeeld lucifers of aansteekblokjes",
+   "Makkelijk te openen en sluiten door een rolsluiting met kliksysteem"
+  ],
+  "keys": [
+   "7d611a5c"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal",
+    "websiteSays": "Spec Materiaal: gietijzer; tekst: \"gemaakt van duurzaam polyester\"",
+    "note": "Controleer het materiaal (gietijzer past niet bij een tas)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Chef's\\ Flavor\\ marinade\\-injector\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Marinade-injector van roestvrij staal om marinade te injecteren in vlees en gevogelte, maar ook in groente en fruit",
+   "Brengt de etenswaren extra op smaak, tot in de kern",
+   "Spoelen met warm water"
+  ],
+  "keys": [
+   "e3851fe0"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Chiminea\\ Limited\\ Edition"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "overige-bbq"
+  ],
+  "suitedFor": "Voor een houtvuur en extra warmte bij een zitplek in de tuin.",
+  "bullets": [
+   "Chiminea Limited Edition: houtgestookte tuinhaard van keramiek met groen porseleinglazuur",
+   "Afmetingen 66 x 53 x 110,5 cm (l x b x h), gewicht 33 kg",
+   "Op een stalen onderstel, met aan de voorzijde een vonkenrooster met acaciahouten handvat",
+   "Onderstel, vonkenrooster en schoorsteenkap hebben een hittebestendige poedercoating",
+   "Wordt geleverd met 2,5 kg rode lavasteen voor op de bodem; aansteken met aanmaakhoutjes en aanmaakblokjes, daarna aanvullen met houtblokken van ongeveer 30 cm",
+   "Uitgebracht ter gelegenheid van het 50-jarig jubileum van Big Green Egg",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur"
+  ],
+  "keys": [
+   "3fb8b6c2"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ ConvEGGtor\\ Basket\\ voor\\ Extra\\ Extra\\ Large\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ConvEGGtor Basket van roestvrij staal, alleen geschikt voor de Big Green Egg Extra Extra Large",
+   "Biedt ruimte aan 1-2 halve pizzastenen (Half ConvEGGtor Stones), om te grillen of als warmteschild voor indirect koken",
+   "Houdt de stenen bij elkaar en maakt het verplaatsen in en uit de barbecue makkelijk",
+   "Onderdeel van de EGGspander kit van Big Green Egg",
+   "Reinigen met heet water, een zachte borstel en milde zeep"
+  ],
+  "keys": [
+   "521309b3"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ ConvEGGtor\\ Extra\\ Large\\ keramisch\\ wit"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ConvEGGtor (ook plate setter genoemd) van keramiek, om in de Big Green Egg Extra Large indirect te koken",
+   "Vormt een hitteschild dat de gerechten op het rooster beschermt tegen de vlammen van de houtskool; vet en vocht vallen niet in de vlammen, dus minder opflakkeringen en verbranden",
+   "Met de pootjes omhoog in de uitsparingen van de binnenring plaatsen; het stalen grillrooster komt op de pootjes",
+   "Bij grote stukken vlees low-and-slow: druippan onder het rooster tegen vuil worden en inbranden van het keramiek; bij pizzasteen of Dutch Oven is die niet nodig"
+  ],
+  "keys": [
+   "6f9b4d54"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ ConvEGGtor\\ Large\\ ø\\ 42\\ cm\\ keramisch\\ wit"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ConvEGGtor (ook plate setter genoemd) van keramiek, om in de Big Green Egg Large indirect te koken",
+   "Diameter 42 cm, hoogte 9,5 cm",
+   "Vormt een hitteschild dat de gerechten op het rooster beschermt tegen de vlammen van de houtskool; vet en vocht vallen niet in de vlammen, dus minder opflakkeringen en verbranden",
+   "Met de pootjes omhoog in de uitsparingen van de binnenring plaatsen; het stalen grillrooster komt op de pootjes",
+   "Bij grote stukken vlees low-and-slow: druippan onder het rooster tegen vuil worden en inbranden van het keramiek; bij pizzasteen of Dutch Oven is die niet nodig"
+  ],
+  "keys": [
+   "ab03a6e6"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ ConvEGGtor\\ Mini\\ ø\\ 24\\ cm\\ keramisch\\ wit"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ConvEGGtor (ook plate setter genoemd) van keramiek, om in de Big Green Egg Mini indirect te koken",
+   "Diameter 24 cm, hoogte 3,5 cm",
+   "Vormt een hitteschild dat de gerechten op het rooster beschermt tegen de vlammen van de houtskool; vet en vocht vallen niet in de vlammen, dus minder opflakkeringen en verbranden",
+   "Met de pootjes omhoog in de uitsparingen van de binnenring plaatsen; het stalen grillrooster komt op de pootjes",
+   "Bij grote stukken vlees low-and-slow: druippan onder het rooster tegen vuil worden en inbranden van het keramiek; bij pizzasteen of Dutch Oven is die niet nodig"
+  ],
+  "keys": [
+   "8e94a79b"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ ConvEGGtor\\ Minimax\\ ø\\ 33\\ cm\\ keramisch\\ wit"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ConvEGGtor (ook plate setter genoemd) van keramiek, om in de Big Green Egg Minimax indirect te koken",
+   "Diameter 33 cm volgens tekst en naam, hoogte 9 cm",
+   "Vormt een hitteschild dat de gerechten op het rooster beschermt tegen de vlammen van de houtskool; vet en vocht vallen niet in de vlammen, dus minder opflakkeringen en verbranden",
+   "Met de pootjes omhoog in de uitsparingen van de binnenring plaatsen; het stalen grillrooster komt op de pootjes",
+   "Bij grote stukken vlees low-and-slow: druippan onder het rooster tegen vuil worden en inbranden van het keramiek; bij pizzasteen of Dutch Oven is die niet nodig"
+  ],
+  "keys": [
+   "0474b763"
+  ],
+  "mismatches": [
+   {
+    "topic": "Diameter ConvEGGtor Minimax",
+    "websiteSays": "Naam en tekst: 33 cm; spec Diameter: 36 cm",
+    "note": "Controleer de diameter."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ ConvEGGtor\\ Small\\ ø\\ 30\\ cm\\ keramisch\\ wit"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ConvEGGtor (ook plate setter genoemd) van keramiek, om in de Big Green Egg Small indirect te koken",
+   "Diameter 30 cm, hoogte 7,5 cm",
+   "Vormt een hitteschild dat de gerechten op het rooster beschermt tegen de vlammen van de houtskool; vet en vocht vallen niet in de vlammen, dus minder opflakkeringen en verbranden",
+   "Met de pootjes omhoog in de uitsparingen van de binnenring plaatsen; het stalen grillrooster komt op de pootjes",
+   "Bij grote stukken vlees low-and-slow: druippan onder het rooster tegen vuil worden en inbranden van het keramiek; bij pizzasteen of Dutch Oven is die niet nodig"
+  ],
+  "keys": [
+   "95412092"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Corner\\ Frame\\ voor\\ Large\\ barbecue"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Corner Frame om de Big Green Egg in een hoekopstelling te plaatsen; een Egg Large past er precies in",
+   "Lengte en breedte 96,5 cm, hoogte 88 cm; verschil in hoogte tussen middelste en bovenste plank is 37 cm",
+   "Bovenzijde en poten van aluminium, onderste frame en het kruis waarop de Egg rust van staal",
+   "Wordt geleverd met 3x Caster Kit wieltjes",
+   "Onderdeel van het Modular Outdoor Workspace-systeem: uit te breiden met een Expansion Frame of Expansion Cabinet",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "bd085be0"
+  ],
+  "mismatches": [
+   {
+    "topic": "Wieltjes",
+    "websiteSays": "\"3x Caster Kit wieltjes 2 stuks\"",
+    "note": "Onduidelijk hoeveel wieltjes er geleverd worden (3x Caster Kit, of 2 stuks)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Corner\\ Frame\\ voor\\ XL\\ barbecue"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Corner Frame om de Big Green Egg in een hoekopstelling te plaatsen; een Egg Extra Large past er precies in",
+   "Lengte en breedte 96,5 cm, hoogte 88 cm; verschil in hoogte tussen middelste en bovenste plank is 37 cm",
+   "Bovenzijde en poten van aluminium, onderste frame en het kruis waarop de Egg rust van staal",
+   "Wordt geleverd met 3x Caster Kit wieltjes",
+   "Onderdeel van het Modular Outdoor Workspace-systeem: uit te breiden met een Expansion Frame of Expansion Cabinet",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "ccb483c3"
+  ],
+  "mismatches": [
+   {
+    "topic": "Wieltjes",
+    "websiteSays": "\"3x Caster Kit wieltjes 2 stuks\"",
+    "note": "Onduidelijk hoeveel wieltjes er geleverd worden (3x Caster Kit, of 2 stuks)."
+   },
+   {
+    "topic": "Hoogte",
+    "websiteSays": "Spec Hoogte: 77 cm; tekst: hoogte 88 cm",
+    "note": "Controleer de hoogte."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Diamond\\ Coated\\ Nylon\\ Bristle\\ Grid\\ Scrubber"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Barbecueborstel van kunststof met borstel van diamond coated nylon en een ophanghaak",
+   "Voor het reinigen van het barbecuerooster; de borstelharen tasten het materiaal van het rooster niet aan",
+   "Lange steel, zodat u niet hoeft te wachten tot de Egg is afgekoeld",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "e8baf779"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ druippan\\ voor\\ ConvEGGtor\\ Extra\\ Large",
+   "Big\\ Green\\ Egg\\ druippan\\ voor\\ ConvEGGtor\\ Medium",
+   "Big\\ Green\\ Egg\\ druippan\\ voor\\ ConvEGGtor\\ Small"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Druippan voor het opvangen van sap en vocht tijdens het gebruik van de ConvEGGtor; plaatst u op de ConvEGGtor in de Big Green Egg van de maat in de productnaam (Extra Large, Medium of Small)",
+   "Houdt de barbecue smetvrij; de sappen zijn te gebruiken voor het maken van marinades",
+   "De druippan is eenvoudig te verwijderen met de Big Green Egg Plate Setter Lifter",
+   "Materiaal aluminium en staal met antikleeflaag, zwart; reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "73e8ae26",
+   "21d0e322",
+   "7a6b9688"
+  ],
+  "requires": [
+   "druippan"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Dual\\ zone\\ Deflector\\ Kit\\ Large"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor tegelijk direct en indirect grillen op de Big Green Egg Large.",
+  "bullets": [
+   "Dual Zone Deflector Kit Large: roestvrij stalen Deflector Basket en twee keramische Split Deflectors, ontworpen voor de Big Green Egg Large",
+   "Beide deflectors samen vormen een volledig hitteschild voor indirect koken; met één deflector ontstaat een directe en een indirecte zone",
+   "Basket heeft geïntegreerde handvatten en laat een onbelemmerde luchtstroom toe; rookhout is makkelijk toe te voegen",
+   "Basis voor koken op meerdere niveaus, te combineren met onder meer de Half Cast Iron Grid, Half Cast Iron Plancha, Half Perforated Grid en het 2-Piece Multi Level Rack",
+   "Keramische deflectors schoonbranden tijdens het opwarmen; de basket met warm water en een zachte borstel reinigen"
+  ],
+  "keys": [
+   "c02e25be"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Dutch\\ Oven\\ ovaal\\ ø\\ 35\\ cm\\ gietijzer\\ groen"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Ovale Dutch Oven van groen geëmailleerd gietijzer, inhoud 5,2 liter",
+   "Deksel is ook te gebruiken als ondiepe bakpan",
+   "Voor eenpansgerechten, braden en stoven van grote stukken vlees en stoofschotels op de kamado; ook soepen",
+   "Geschikt voor de Big Green Egg XXLarge, XLarge en Large; ook te gebruiken op het fornuis of in de oven",
+   "Vaatwasmachinebestendig, handafwas komt de levensduur ten goede"
+  ],
+  "keys": [
+   "0d7e9af1"
+  ],
+  "mismatches": [
+   {
+    "topic": "Diameter",
+    "websiteSays": "Naam en spec: 35 cm; tekst: \"diameter van 34 cm\"",
+    "note": "Controleer de afmeting."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Egg\\ Frame\\ Mate\\ acaciahouten\\ zijplank"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Frame Mate: acaciahouten zijplank voor extra ruimte bij een Big Green Egg Modular Frame",
+   "Te gebruiken met de Modular Egg Frames Medium, Large, Extra Large en 2 XL",
+   "Opklapbaar en te monteren aan de rechter- of linkerzijde",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "1c30c7b0"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Egg\\ Genius\\ interactieve\\ temperatuurcontroller"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Genius: temperatuurcontroller voor de Big Green Egg, bedienbaar en te volgen via de app op smartphone, tablet of computer",
+   "Meet en regelt de temperatuur: de blower past de ventilatiesnelheid aan, voor een constante temperatuur",
+   "Toont grafieken van het temperatuurverloop en geeft meldingen als de bereiding op temperatuur is of de temperatuur te hoog of te laag is",
+   "Opent u de deksel, dan detecteert de Genius de temperatuurdaling en schakelt de ventilator tijdelijk uit",
+   "Geleverd inclusief 2 probes voor metingen tot 260°C; 1 jaar garantie"
+  ],
+  "keys": [
+   "80c04168"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Egg\\ Genius\\ Meat\\ Probe"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Extra Meat Probe voor de Big Green Egg Genius temperatuurcontroller",
+   "Meet de temperatuur van de bereiding"
+  ],
+  "keys": [
+   "c6da3511"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Egg\\ Genius\\ Pit\\ Probe"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Extra Pit Probe voor de Big Green Egg Genius temperatuurcontroller",
+   "Meet de omgevingstemperatuur in de barbecue"
+  ],
+  "keys": [
+   "9bbce833"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Egg\\ Genius\\ Y\\-Cable"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Extra Y-Cable voor de Big Green Egg Genius temperatuurcontroller",
+   "Om de Genius met nog meer probes of sondes te verbinden"
+  ],
+  "keys": [
+   "1755a2d9"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ EGGspander\\ Kit\\ voor\\ Large\\ 5\\-delig",
+   "Big\\ Green\\ Egg\\ EGGspander\\ Kit\\ voor\\ Extra\\ Large\\ 5\\-delig"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "EGGspander Kit van 5 onderdelen, van roestvrij staal, alleen te gebruiken op de Big Green Egg in de maat uit de productnaam (Large of Extra Large)",
+   "Bestaat uit een 2-delig Multi Level Rack (verhoogd, verschuifbaar rooster van 10 cm hoog; ook omgekeerd te gebruiken voor low-level Cowboy Style grillen), een ConvEGGtor Basket en 2 roestvrijstalen halve grillroosters",
+   "Om diverse gerechten tegelijk te grillen, warm te houden of te slowcooken",
+   "Losse onderdelen reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "a21d36c4",
+   "fc68adbe"
+  ],
+  "requires": [
+   "EGGspander"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Cast\\ Iron\\ Half\\ Grid\\ voor\\ Large\\ gietijzer",
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Cast\\ Iron\\ Half\\ Grid\\ voor\\ Extra\\ Large\\ gietijzer",
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Cast\\ Iron\\ Half\\ Grid\\ voor\\ Medium"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cast Iron Half Grid voor het EGGspander systeem: half rooster van gietijzer, alleen te gebruiken op de Big Green Egg in de maat uit de productnaam (Medium, Large of Extra Large)",
+   "Tweezijdig te gebruiken: de andere zijde geeft extra brede grillstrepen",
+   "Voor het grillen van diverse ingrediënten",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "fb457fde",
+   "3c4aca44",
+   "1338e40d"
+  ],
+  "requires": [
+   "Cast Iron Half Grid"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ convEGGtor\\ Basket\\ voor\\ Large\\ rvs",
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ convEGGtor\\ Basket\\ voor\\ Extra\\ Large\\ rvs",
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ convEGGtor\\ Basket\\ voor\\ Medium\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ConvEGGtor Basket van roestvrij staal voor het EGGspander systeem, alleen te gebruiken op de Big Green Egg in de maat uit de productnaam (Medium, Large of Extra Large)",
+   "Houder voor de ConvEGGtor; multi-level rek waarmee u direct en indirect kunt grillen, het normale grillrooster kan hoger geplaatst worden",
+   "Grepen zijn ook met barbecuehandschoenen aan makkelijk vast te pakken",
+   "Losse onderdelen reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "7138849b",
+   "db57a441",
+   "40d2a7a4"
+  ],
+  "requires": [
+   "convEGGtor Basket"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Half\\ Baking\\ Stone\\ voor\\ Extra\\ Large\\ keramiek",
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Half\\ Baking\\ Stone\\ voor\\ Medium\\ keramiek"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Half Baking Stone: keramieken halve steen voor het EGGspander systeem, alleen te gebruiken op de Big Green Egg in de maat uit de productnaam (Medium of Extra Large)",
+   "Voor het langzaam garen van diverse ingrediënten; voorkomt het risico op verbranden van vlees langs de randen dat er bij de reguliere ConvEGGtor is",
+   "Bij de 5-delige EGGspander Kit past er maar één Half Baking Stone op de middelste etage"
+  ],
+  "keys": [
+   "8ab63bff",
+   "55d3fe6b"
+  ],
+  "requires": [
+   "Half Baking Stone"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Multi\\ Level\\ Rack\\ voor\\ Large\\ 2\\-delig",
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Multi\\ Level\\ Rack\\ voor\\ Extra\\ Large\\ 2\\-delig"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "2-delig Multi Level Rack voor het EGGspander systeem: verhoogd en verschuifbaar roestvrijstalen rooster van 10 cm hoog",
+   "Alleen te gebruiken op de Big Green Egg in de maat uit de productnaam (Large of Extra Large)",
+   "Ook omgekeerd te gebruiken voor low-level Cowboy Style grillen",
+   "Te gebruiken met het standaard roestvrijstalen grillrooster en te combineren met de ConvEGGtor Basket",
+   "Losse onderdelen reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "340b1fc2",
+   "0b9aa2bd"
+  ],
+  "requires": [
+   "Multi Level Rack"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Perforated\\ Half\\ Grid\\ voor\\ Large",
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Perforated\\ Half\\ Grid\\ voor\\ Extra\\ Large"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Perforated Half Grid voor het EGGspander systeem: half rooster van geperforeerd aluminium met antikleeflaag, hittebestendig tot 232°C",
+   "Voor het grillen van kleine ingrediënten",
+   "Alleen te gebruiken op de Big Green Egg in de maat uit de productnaam (Large of Extra Large)"
+  ],
+  "keys": [
+   "fb43e40e",
+   "277b3d39"
+  ],
+  "requires": [
+   "Perforated Half Grid"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Stainless\\ Steel\\ Half\\ Grid\\ voor\\ Large",
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Stainless\\ Steel\\ Half\\ Grid\\ voor\\ Extra\\ Large"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Stainless Steel Half Grid voor het EGGspander systeem: half roestvrijstalen rooster",
+   "Voor het grillen van ingrediënten, of op een hoger niveau voor het warmhouden van gerechten",
+   "Alleen te gebruiken op de Big Green Egg in de maat uit de productnaam (Large of Extra Large)"
+  ],
+  "keys": [
+   "d172520b",
+   "34aa2000"
+  ],
+  "requires": [
+   "Stainless Steel Half Grid"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Eucalyptus\\ Table\\ voor\\ Large\\ barbecue"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tafel voor de Big Green Egg Large van FSC-gecertificeerd eucalyptushout; lengte 160 cm, breedte 77 cm, hoogte 85 cm",
+   "Stabiele inbouwplaats voor de Egg, met werkruimte, een ruim werkblad en een royaal onderblad (legplank) voor accessoires of houtskool",
+   "De uitsparing is op maat, zodat de Egg stabiel staat en goed ventileert",
+   "Het hout is volgens de pagina bestand tegen weersinvloeden, mits goed onderhouden",
+   "Voor goede luchtcirculatie onder de barbecue een Big Green Egg Table Nest gebruiken",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "70fce345"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Eucalyptus\\ Table\\ voor\\ XL\\ barbecue"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tafel voor de Big Green Egg Extra Large van FSC-gecertificeerd eucalyptushout; lengte 165 cm, breedte 93 cm, hoogte 85 cm",
+   "Stabiele inbouwplaats voor de Egg, met werkruimte, een ruim werkblad en een royaal onderblad (legplank) voor accessoires of houtskool",
+   "De uitsparing is op maat, zodat de Egg stabiel staat en goed ventileert",
+   "Het hout is volgens de pagina bestand tegen weersinvloeden, mits goed onderhouden",
+   "Voor goede luchtcirculatie onder de barbecue een Big Green Egg Table Nest gebruiken",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "1d1f9dff"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maat Egg",
+    "websiteSays": "Naam en eerste zin: Extra Large; verderop: \"inbouwplaats voor de Large EGG\" en \"speciaal ontworpen voor de Big Green Egg Large\"",
+    "note": "Controleer voor welke Egg-maat deze tafel is (tekst is van de Large-tafel overgenomen?)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Expansion\\ Cabinet\\ "
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Expansion Cabinet in zwart aluminium met poedercoating, afmeting 76 x 76 x 77 cm, voor extra opslag in de buitenkeuken",
+   "Deurtjes met een stevige handgreep; om waterdicht servies, houtskool of accessoires in op te bergen",
+   "Optioneel uit te breiden; wordt geleverd met bevestigingsmateriaal (Connector Pack) en levelers",
+   "Reinigen met warm water en een mild reinigingsmiddel",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "44357358"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Expansion\\ Cabinet\\ met\\ Acacia\\ Wood\\ Insert"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Expansion Cabinet in zwart aluminium met poedercoating, afmeting 76 x 76 x 77 cm, voor extra opslag in de buitenkeuken",
+   "Deurtjes met een stevige handgreep; om waterdicht servies, houtskool of accessoires in op te bergen",
+   "Aan de bovenzijde voorzien van een acacia houten werkblad",
+   "Optioneel uit te breiden; wordt geleverd met bevestigingsmateriaal (Connector Pack) en levelers",
+   "Reinigen met warm water en een mild reinigingsmiddel",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "1f8a01d3"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ extra\\ hittebestendig\\ vilt\\ voor\\ Large\\ en\\ Extra\\ Large"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zelfklevend vilt voor de Big Green Egg Large en Extra Large",
+   "Extra hittebestendig, beschermt het keramiek en voorkomt valse luchttoevoer",
+   "Wordt standaard meegeleverd op elke Big Green Egg; eenvoudig te vervangen, eens per 2 jaar"
+  ],
+  "keys": [
+   "60ddc4bd"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ extra\\ hittebestendig\\ vilt\\ voor\\ Mini,\\ Small,\\ Medium"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zelfklevend vilt voor de Big Green Egg Mini, MiniMax, Small en Medium",
+   "Extra hittebestendig, beschermt het keramiek en voorkomt valse luchttoevoer",
+   "Wordt standaard meegeleverd op elke Big Green Egg; eenvoudig te vervangen, eens per 2 jaar"
+  ],
+  "keys": [
+   "f57aa099"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: voor Mini, Small, Medium",
+    "websiteSays": "Tekst: \"Voor Big Green Egg Mini, MiniMax, Small en Medium\"",
+    "note": "Naam noemt MiniMax niet, tekst wel."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Fire\\ Bowl\\ kolenmand\\ rvs\\ voor\\ Extra\\ Extra\\ Large",
+   "Big\\ Green\\ Egg\\ Fire\\ Bowl\\ kolenmand\\ rvs\\ voor\\ Extra\\ Large"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Fire Bowl: roestvrij stalen kolenmand, volgens de productnaam voor de Big Green Egg Extra Extra Large of Extra Large",
+   "Zorgt voor betere luchtcirculatie, zodat het houtskool sneller ontbrandt, en voor makkelijker schoonmaken",
+   "Met praktische handgrepen en een scheidingswand, zodat u in verschillende zones kunt koken",
+   "Makkelijk bij te vullen tijdens het gebruik",
+   "Reinigen met warm water en een mild reinigingsmiddel"
+  ],
+  "keys": [
+   "4ec3438c",
+   "e095f5d6"
+  ],
+  "requires": [
+   "scheidingswand"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Fire\\ Bowl\\ kolenmand\\ rvs\\ voor\\ Large",
+   "Big\\ Green\\ Egg\\ Fire\\ Bowl\\ kolenmand\\ rvs\\ voor\\ Medium",
+   "Big\\ Green\\ Egg\\ Fire\\ Bowl\\ kolenmand\\ rvs\\ voor\\ Minimax"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Fire Bowl: roestvrij stalen kolenmand, volgens de productnaam voor de Big Green Egg Large, Medium of Minimax",
+   "Zorgt voor betere luchtcirculatie, zodat het houtskool sneller ontbrandt, en voor makkelijker schoonmaken",
+   "Met praktische handgrepen",
+   "Makkelijk bij te vullen tijdens het gebruik",
+   "Voor het ontsteken en branden van houtskool tijdens het grillen",
+   "Reinigen met warm water en een mild reinigingsmiddel"
+  ],
+  "keys": [
+   "4e5c3dd5"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ FireRing\\ MiniMax\\ keramisch"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "FireRing van keramiek voor de Big Green Egg MiniMax, als vervangend onderdeel",
+   "Keramische binnenrand die op de Fire Box staat en zorgt voor de juiste afstand tussen de kolen en het rooster",
+   "Isoleert hitte goed"
+  ],
+  "keys": [
+   "27fb4ba2"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ gevogelte\\ standaard\\ 20\\ cm\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor de bereiding van gegrilde kip of kalkoen op de Big Green Egg.",
+  "bullets": [
+   "Gevogelte standaard van roestvrij staal, 20 x 14 cm",
+   "Gevogelte (kip of kalkoen) staat rechtop op de houder en wordt zo van binnen en buiten gaar gestoomd",
+   "Door de rechtstaande houding bedruipt het gevogelte zichzelf, voor een krokante bruine korst",
+   "Vaatwasmachinebestendig"
+  ],
+  "keys": [
+   "438401ae"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Gietijzeren\\ grillrooster\\ Large\\ ø\\ 45,7\\ cm\\ zwart",
+   "Big\\ Green\\ Egg\\ Gietijzeren\\ grillrooster\\ Medium",
+   "Big\\ Green\\ Egg\\ Gietijzeren\\ grillrooster\\ Mini"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Gietijzeren grillrooster dat past op de Big Green Egg in de maat uit de productnaam (Large, Medium of Mini)",
+   "Geeft de echte grillsmaak en grillstrepen; door de vorm van de spijlen aan twee zijden te gebruiken",
+   "Voor het roosteren en grillen van onder meer gevogelte, vlees en groenten; de dikke spijlen schroeien het vlees dicht zonder dat sappen verloren gaan",
+   "Gietijzer houdt warmte goed vast",
+   "Vet de etenswaren in, niet het rooster; reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "01579ecb",
+   "1c2fcc96",
+   "fc216457"
+  ],
+  "requires": [
+   "gietijzeren"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Grid\\ Lifter\\ 25\\ cm\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Grill Lifter van roestvrij staal met groene kunststof handgreep, 25 cm lang",
+   "Voor het optillen van het gietijzeren rooster uit de Big Green Egg: een kwartslag draaien en optillen",
+   "Plaat onder de handgreep beschermt de hand tegen opstijgende hitte",
+   "Bij de Large uitvoering voor extra veiligheid twee Grill Lifters gebruiken",
+   "Reinigen met een vochtige doek"
+  ],
+  "keys": [
+   "5260c882"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Grid/Rack\\ Cleaner\\ 21\\ cm\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Grid/Rack Cleaner: schraper van roestvrij staal met houten handgreep, 21 cm lang",
+   "Voor het reinigen van het (gietijzeren) Big Green Egg grillrooster; door de houten handgreep ook van de heetste grillplaten",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "2636eb8f"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Grill\\ Gripper\\ 21\\ cm\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Grill Gripper: tang van roestvrij staal, 21 cm lang",
+   "Voor het makkelijk en veilig verwijderen van het grillrooster uit de Big Green Egg",
+   "Bij de Big Green Egg Large voor extra veiligheid twee tangen gebruiken",
+   "Reinigen met een vochtige doek"
+  ],
+  "keys": [
+   "febec752"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Grill\\ Press\\ gietijzer"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Grill Press van gietijzer, voor het aandrukken van hamburgers of andere stukken vlees of groenten op de barbecue",
+   "Roestvrijstalen handgreep die minder heet wordt dan het gietijzer, zodat u hem beter met een handschoen kunt vastpakken",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "02247e77"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Grilling\\ Mitt\\ ovenwant\\ silicone\\ zwart"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Grilling Mitt: zwarte handschoen van hittebestendig silicone, one size, volledig waterdicht",
+   "Bestand tegen temperaturen tot 232°C",
+   "Binnenzijde gevoerd met katoen-polyester, buitenzijde met anti-slip reliëf",
+   "Voor het omdraaien van vlees, controleren van de temperatuur of verplaatsen van accessoires op de Big Green Egg",
+   "Buitenzijde reinigen met een vochtige doek en heet water"
+  ],
+  "keys": [
+   "0d9e5db0"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ grillplank\\ 28\\ x\\ 12,5\\ cm\\ cederhout\\ 2\\ stuks",
+   "Big\\ Green\\ Egg\\ grillplank\\ 28\\ x\\ 12,5\\ cm\\ elzenhout\\ 2\\ stuks"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Geschikt voor gebruik op de gas- of houtskoolbarbecue.",
+  "bullets": [
+   "Set van 2 grillplanken van 28 x 12,5 cm, van cederhout of elzenhout (staat in de productnaam)",
+   "Vlees, vis of groenten op de plank op de barbecue leggen voor een verfijnde rooksmaak",
+   "Minimaal een uur in water weken (eventueel met bier, citroensap of zout), inwrijven met olie en bestrooien met grof zout zodat het eten makkelijker loskomt",
+   "Na gebruik afspoelen met warm water en laten drogen; afhankelijk van bereidingstijd en temperatuur meerdere keren te gebruiken"
+  ],
+  "keys": [
+   "8d9a8c74",
+   "8c0307b3"
+  ],
+  "requires": [
+   "grillplank"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Grillspatel\\ met\\ sleuven\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Grillspatel van roestvrij staal en kunststof, extra lang voor het veilig hanteren van eten op de barbecue",
+   "Voor het omkeren van hamburgers, andere stukken vlees of groenten; met sleuven",
+   "Oog aan de achterkant om hem op te hangen",
+   "Vaatwasmachinebestendig"
+  ],
+  "keys": [
+   "74b220a3"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ grillverhoger\\ 2\\-laags\\ voor\\ XL\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "2-laags grillverhoger voor de Big Green Egg Extra Large: geëmailleerd rooster dat de kookcapaciteit verdubbelt",
+   "Ook ideaal voor het nagaren van ingrediënten",
+   "Vergroot het bakoppervlak: bijvoorbeeld vlees op de gewone grill en groenten op de grillverhoger",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "345fcc52"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Half\\ ConvEGGtor\\ Stone\\ voor\\ Extra\\ Extra\\ Large\\ keramiek"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Half ConvEGGtor Stone van keramiek, alleen geschikt voor de Big Green Egg 2XL",
+   "Halvemaanvormig, ruimtebesparend; houdt warmte extreem goed vast en verdeelt en reguleert de temperatuur geleidelijk",
+   "Als tussenlaag voor twee zones, of als convectieschild met twee delen tegen elkaar",
+   "Perfect voor het bakken van bijvoorbeeld brood of pizza",
+   "Onderdeel van de EGGspander kit; reinigen met heet water, een zachte borstel en milde zeep"
+  ],
+  "keys": [
+   "aed8af7b"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Half\\ Grid\\ Medium\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Half Grid Medium: half roestvrijstalen rooster voor de Big Green Egg Medium, of in combinatie met de ConvEGGtor Basket M",
+   "Voor het grillen van ingrediënten of op een hoger niveau voor het warmhouden van gerechten",
+   "Te combineren met een half moon griddle, plancha of andere kooktechniek",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "f8827615"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Half\\ Moon\\ geperforeerd\\ rooster\\ voor\\ XL\\ en\\ XXL"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het bakken van groenten, paddenstoelen en zeevruchten.",
+  "bullets": [
+   "Half Moon geperforeerd rooster van gecoat staal, geschikt voor de Big Green Egg XL en XXL",
+   "Wordt op het standaard rooster van de Egg geplaatst",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "26b37631"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Half\\ moon\\ grillverhoger\\ voor\\ Big\\ Green\\ Egg\\ XL"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Half Moon grillverhoger van metaal voor de Big Green Egg XL, op het standaard grillrooster te plaatsen",
+   "Voor het langzaam laten doorgaren van gegrild vlees en het warmhouden van etenswaren",
+   "Opvangbakje voorkomt dat vocht op de ingrediënten op het standaard rooster druipt",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "6bac3542"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Half\\ Moon\\ rooster\\ voor\\ Extra\\ Large\\ gietijzer\\ zwart"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Half Moon rooster van gietijzer, past op de Big Green Egg Extra Large",
+   "Voor het grillen van etenswaren"
+  ],
+  "keys": [
+   "17649dbc"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Hoes\\ Modular\\ Frame\\ 2XL\\ /\\ XL\\ /\\ Large"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zwarte kunststof hoes voor de Big Green Egg Extra Extra Large, Extra Large en Large Egg (inclusief Modular Frame)",
+   "Extra bescherming tegen regen en wisselingen in de temperatuur",
+   "Beschermt alleen de bovenzijde van de barbecue"
+  ],
+  "keys": [
+   "cfe2955a"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ hoes\\ Small\\ vinyl\\ zwart"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zwarte hoes (kunststof/vinyl) van Big Green Egg die de barbecue beschermt tegen elk weertype, geschikt voor de Big Green Egg Small"
+  ],
+  "keys": [
+   "46e252d0"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ hoes\\ universeel\\ voor\\ Medium,\\ Large\\ en\\ Extra\\ Large\\ vinyl\\ zwart\\ "
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zwarte hoes (kunststof/vinyl) van Big Green Egg die de barbecue beschermt tegen elk weertype, geschikt voor de Big Green Egg Medium, Large en Extra Large (universeel)"
+  ],
+  "keys": [
+   "bb76941b"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ hoes\\ universeel\\ voor\\ Mini\\ en\\ MiniMax\\ vinyl\\ zwart"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zwarte hoes (kunststof/vinyl) van Big Green Egg die de barbecue beschermt tegen elk weertype, geschikt voor de Big Green Egg Mini met Carrier en MiniMax met Carrier (universeel)"
+  ],
+  "keys": [
+   "523f39ab"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ hoes\\ XXL\\ vinyl\\ zwart"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zwarte hoes (kunststof/vinyl) van Big Green Egg die de barbecue beschermt tegen elk weertype, geschikt voor de Big Green Egg Extra Extra Large"
+  ],
+  "keys": [
+   "652b6aa9"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ hoes\\ voor\\ Large\\ en\\ Extra\\ Large\\ deksel\\ vinyl\\ zwart"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zwarte kunststof hoes met extra bescherming tegen regen en wisselingen in de temperatuur",
+   "Beschermt alleen de bovenzijde van de barbecue",
+   "Alleen te gebruiken met de Large en Extra Large in combinatie met de tafel"
+  ],
+  "keys": [
+   "b9d3f33c"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Hoes\\ voor\\ Eucalyptus\\ Wood\\ Table"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zwarte kunststof hoes met extra bescherming tegen regen en wisselingen in de temperatuur",
+   "Beschermt alleen de bovenzijde van de barbecue",
+   "Alleen te gebruiken met de Large in combinatie met de Modular tafel"
+  ],
+  "keys": [
+   "e9518241"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: Hoes voor Eucalyptus Wood Table",
+    "websiteSays": "Tekst: \"alleen te gebruiken met de Large in combinatie met de Modular tafel\"",
+    "note": "Controleer voor welke tafel deze hoes is (naam noemt Eucalyptus Wood Table, tekst de Modular tafel)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Instant\\ Read\\ Digital\\ thermometer"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor een snelle en nauwkeurige meting van een kerntemperatuur.",
+  "bullets": [
+   "Digitale thermometer voor de kerntemperatuur van het gerecht, bijvoorbeeld biefstuk",
+   "Leest de kerntemperatuur razendsnel af (3-4 seconden), zeer nauwkeurig tot 232°C",
+   "Display draait vanzelf mee in de juiste leesrichting",
+   "Compleet geleverd met hygiënisch opbergtasje",
+   "Buitenzijde reinigen met een vochtige doek en de metalen thermometer met heet water"
+  ],
+  "keys": [
+   "7ce3a5e8"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Instant\\ Read\\ thermometer\\ met\\ flesopener\\ "
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor een snelle en nauwkeurige meting van een kerntemperatuur en voor het openen van een biertje (of flesje fris).",
+  "bullets": [
+   "Instant Read thermometer met flesopener voor de kerntemperatuur van het gerecht, bijvoorbeeld biefstuk",
+   "Kerntemperatuur binnen 4 seconden afgelezen",
+   "Maateenheid Fahrenheit en Celsius (volgens de specificaties)",
+   "Buitenzijde reinigen met een vochtige doek en de metalen thermometer met heet water"
+  ],
+  "keys": [
+   "520a1106"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ intEGGrated\\ Nest\\ \\+\\ Handler\\ voor\\ Extra\\ Extra\\ Large",
+   "Big\\ Green\\ Egg\\ intEGGrated\\ Nest\\ \\+\\ Handler\\ voor\\ Extra\\ Large",
+   "Big\\ Green\\ Egg\\ intEGGrated\\ Nest\\ \\+\\ Handler\\ voor\\ Large",
+   "Big\\ Green\\ Egg\\ intEGGrated\\ Nest\\ \\+\\ Handler\\ voor\\ Medium"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "intEGGrated Nest + Handler van gecoat staal, voor de Big Green Egg in de maat uit de productnaam (Medium, Large, Extra Large of Extra Extra Large)",
+   "De Egg plaatst u eenvoudig in het nest; voor het veilig en eenvoudig verplaatsen van de barbecue, ook op een ruwe of oneffen ondergrond",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "456d156b",
+   "5b3f0043",
+   "ab7da49a",
+   "ebb773dd"
+  ],
+  "requires": [
+   "intEGGrated Nest"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ kalkoenhouder\\ ø\\ 15,5\\ cm\\ keramiek\\ wit"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het braden en roosteren van een hele kalkoen in de Big Green Egg.",
+  "bullets": [
+   "Kalkoenhouder van wit keramiek: diameter onderzijde 15,5 cm, totale hoogte 16 cm",
+   "Hete lucht circuleert rondom de kalkoen, zodat die op elke plek kookt en kleurt, met een krokant bruin vel",
+   "Hol van binnen: plaats voor een blikje bier of andere dranken voor extra smaak en vocht",
+   "Vaatwasmachinebestendig"
+  ],
+  "keys": [
+   "9e2f8643"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ kalkoenhouder\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Geschikt voor gebruik op de Big Green Egg barbecue.",
+  "bullets": [
+   "Kalkoenhouder van roestvrij staal",
+   "Kalkoen verticaal op de houder plaatsen om hem van binnen en buiten gaar te stomen",
+   "Dankzij de rechtstaande houding bedruipt het gevogelte zichzelf, voor een krokante bruine korst",
+   "Vaatwasmachinebestendig"
+  ],
+  "keys": [
+   "74694541"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Low\\ \\&\\ Slow\\ pakket\\ 4\\-delig"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Low & Slow pakket van 4 onderdelen: Chef's Flavor Injector, Wood Chips Apple, Butcher Paper en Meat Claws, plus drie recepten ter inspiratie",
+   "Basis om de kamado om te toveren tot slowcooker",
+   "Wood Chips geven een frisse smaak; de injector maakt vlees sappiger; na het garen kan het vlees rusten in het Butcher Paper zodat het malser wordt; met de Meat Claws trekt u het vlees uit elkaar"
+  ],
+  "keys": [
+   "c9431243"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Mates\\ zijplanken\\ Extra\\ Large\\ acaciahout\\ 2\\ stuks",
+   "Big\\ Green\\ Egg\\ Mates\\ zijplanken\\ Large\\ acaciahout\\ 2\\ stuks",
+   "Big\\ Green\\ Egg\\ Mates\\ zijplanken\\ Medium\\ acaciahout\\ 2\\ stuks",
+   "Big\\ Green\\ Egg\\ Mates\\ zijplanken\\ MiniMax\\ acaciahout\\ 2\\ stuks",
+   "Big\\ Green\\ Egg\\ Mates\\ zijplanken\\ Small\\ acaciahout\\ 2\\ stuks"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Set van twee Mate zijplanken van massief acaciahout en metaal, te monteren aan de Big Green Egg in de maat uit de productnaam (Small, MiniMax, Medium, Large of Extra Large)",
+   "Inklapbaar, zodat de Egg met zijplanken compact op te bergen is",
+   "Voor het neerzetten van ingrediënten of het bewaren van barbecuehulpen",
+   "Montagekit wordt bijgeleverd; het hout is duurzaam geoogst, heeft een unieke tekening en is hittebestendig",
+   "Reinigen met warm water en afwasmiddel en goed laten drogen"
+  ],
+  "keys": [
+   "345341cd",
+   "5c12980a",
+   "0486ddfb",
+   "071fcf25",
+   "cc4d43b5"
+  ],
+  "requires": [
+   "zijplanken"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Measuring\\ Cups\\ "
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Maatscheppenset van roestvrij staal, 4 delen met maataanduiding in cups: 1/4, 1/3, 1/2 en 1 cup",
+   "Voor het afmeten van ingrediënten als meel en suiker",
+   "Met ophangoog, aan een ring",
+   "Vaatwasmachinebestendig"
+  ],
+  "keys": [
+   "37a1a672"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Meat\\ Claws\\ 13,5\\ cm\\ rvs\\ 2\\ stuks"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Meat Claws (2 stuks) van kunststof en roestvrij staal, om langzaam gegaard vlees van elkaar los te trekken voor pulled pork en pulled chicken",
+   "Ook om grotere stukken vlees, kip of kalkoen te verplaatsen",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "1e634d3f"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Caster\\ Kit\\ wieltjes\\ 2\\ stuks"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Caster Kit: 2 wieltjes voor het Modular Outdoor Workspace-systeem, waarvan één met remsysteem",
+   "Verhoogt de werkhoogte met 10 cm",
+   "Onder het Egg Frame zijn 4 wieltjes nodig; combineert u het Egg Frame met een Expansion Frame, dan in totaal 6 wieltjes om het gewicht goed te verdelen"
+  ],
+  "keys": [
+   "8d39bc1f"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Egg\\ Frame\\ L"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Modular Outdoor Workspace Egg Frame L: frame waar een Big Green Egg Large precies in past",
+   "Lengte en breedte 76 cm, hoogte 77 cm; verschil in hoogte tussen de middelste en bovenste plank is 37 cm",
+   "Bovenzijde en poten van aluminium, onderste frame en het kruis waarop de Egg rust van staal",
+   "Geleverd inclusief roestvrijstalen Grid Insert (onderste plank), haakjes om barbecuegerei op te hangen en 4 stelvoetjes",
+   "Wieltjes apart te koop: werkhoogte dan 10 cm hoger",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "5af996c3"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen frame",
+    "websiteSays": "Spec: breedte 75 cm, hoogte 75 cm; tekst: lengte en breedte 76 cm, hoogte 77 cm",
+    "note": "Controleer de afmetingen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Egg\\ Frame\\ M"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Modular Outdoor Workspace Egg Frame M: frame waar een Big Green Egg Medium precies in past",
+   "Lengte en breedte 76 cm, hoogte 77 cm; verschil in hoogte tussen de middelste en bovenste plank is 30 cm",
+   "Bovenzijde en poten van aluminium, onderste frame en het kruis waarop de Egg rust van staal",
+   "Geleverd inclusief roestvrijstalen Grid Insert (onderste plank), haakjes om barbecuegerei op te hangen en 4 stelvoetjes",
+   "Wieltjes apart te koop: werkhoogte dan 10 cm hoger",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "72d38114"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen frame",
+    "websiteSays": "Spec: breedte 75 cm, hoogte 75 cm; tekst: lengte en breedte 76 cm, hoogte 77 cm",
+    "note": "Controleer de afmetingen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Egg\\ Frame\\ XL"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Modular Outdoor Workspace Egg Frame XL: frame waar een Big Green Egg Extra Large precies in past",
+   "Lengte en breedte 76 cm, hoogte 77 cm; verschil in hoogte tussen de middelste en bovenste plank is 30 cm",
+   "Bovenzijde en poten van aluminium, onderste frame en het kruis waarop de Egg rust van staal",
+   "Geleverd inclusief roestvrijstalen Grid Insert (onderste plank), haakjes om barbecuegerei op te hangen en 4 stelvoetjes",
+   "Wieltjes apart te koop: werkhoogte dan 10 cm hoger",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "7a789fd1"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Egg\\ Frame\\ XXL"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Modular Outdoor Workspace Egg Frame XXL: frame waar een Big Green Egg Extra Extra Large precies in past",
+   "Lengte en breedte 76 cm, hoogte 77 cm; verschil in hoogte tussen de middelste en bovenste plank is 30 cm",
+   "Bovenzijde en poten van aluminium, onderste frame en het kruis waarop de Egg rust van staal",
+   "Geleverd inclusief roestvrijstalen Grid Insert (onderste plank), haakjes om barbecuegerei op te hangen en 4 stelvoetjes",
+   "Wieltjes apart te koop: werkhoogte dan 10 cm hoger",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "bf6f9338"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen frame",
+    "websiteSays": "Spec: breedte 75 cm, hoogte 75 cm; tekst: lengte en breedte 76 cm, hoogte 77 cm",
+    "note": "Controleer de afmetingen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Expansion\\ Frame"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Modular Outdoor Workspace Expansion Frame: uitbreiding van de werkruimte van het Modular Outdoor Workspace-systeem; lengte en breedte 76 cm, hoogte 77 cm",
+   "Bovenzijde en poten van aluminium, middelste en onderste frame van staal",
+   "Uit te breiden met apart verkrijgbare planken; 4 stelvoetjes voor stabiel plaatsen",
+   "Wieltjes apart te koop: werkhoogte dan 10 cm hoger"
+  ],
+  "keys": [
+   "aa10fa53"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen frame",
+    "websiteSays": "Spec: breedte 75 cm, hoogte 75 cm; tekst: lengte en breedte 76 cm, hoogte 77 cm",
+    "note": "Controleer de afmetingen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Expansion\\ Frame\\ Grid\\ Insert\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Frame Grid Insert: rooster van 304 roestvrij staal",
+   "Past precies in het Expansion Frame van het Modular Outdoor Workspace-systeem; te monteren op de onderste, middelste of bovenste plank",
+   "Kan met de bolle kant naar boven of naar beneden gemonteerd worden",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "1e591af2"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Expansion\\ Frame\\ Insert\\ acaciahout"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Frame Insert: plank van acaciahout, geleverd inclusief verzinkte schroeven",
+   "Past precies in het Expansion Frame van het Modular Outdoor Workspace-systeem; te monteren op de onderste, middelste of bovenste plank",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "48468a5d"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Expansion\\ Frame\\ Insert\\ Distressed\\ Acacia\\ Wood"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Frame Insert: plank van verweerd (Distressed) acaciahout, geleverd inclusief verzinkte schroeven",
+   "Past precies in het Expansion Frame van het Modular Outdoor Workspace-systeem; te monteren op de onderste, middelste of bovenste plank"
+  ],
+  "keys": [
+   "bbbb68be"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Expansion\\ Frame\\ Insert\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Frame Insert: plank van 304 roestvrij staal, geleverd inclusief siliconen buisjes die contact tussen de plank en het Expansion Frame voorkomen",
+   "Past precies in het Expansion Frame van het Modular Outdoor Workspace-systeem; te monteren op de onderste, middelste of bovenste plank",
+   "Gratis bezorging binnen Nederland (niet de Waddeneilanden) tot de voordeur; levering meestal niet de volgende dag"
+  ],
+  "keys": [
+   "70058b56"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Tool\\ Hooks\\ ophangrail\\ incl\\.\\ schroeven"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tool Hooks ophangrail van roestvrij staal voor het Modular Outdoor Workspace-systeem, voor extra ophangruimte",
+   "Zo heeft u tijdens het barbecueën al uw gereedschap bij de hand",
+   "Geleverd inclusief schroeven"
+  ],
+  "keys": [
+   "ce592e82"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modus\\ Operandi\\ boekenstandaard"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Standaard voor het boek Modus Operandi (naslagwerk met 904 pagina's en 322 recepten): bovenop is ruimte om het boek opengeklapt te presenteren, eronder kunt u het werkboek en de omdoos bewaren",
+   "Gemaakt van zwart gepoedercoat staal en hout",
+   "Het kookboek is niet inbegrepen"
+  ],
+  "keys": [
+   "23accedb"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Nest\\ Handler\\ voor\\ Big\\ Green\\ Egg\\ Extra\\ Large",
+   "Big\\ Green\\ Egg\\ Nest\\ Handler\\ voor\\ Big\\ Green\\ Egg\\ Medium",
+   "Big\\ Green\\ Egg\\ Nest\\ Handler\\ voor\\ Big\\ Green\\ Egg\\ XXL"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Nest Handler van gecoat staal, te bevestigen aan de Big Green Egg en het Nest, in de maat uit de productnaam (Medium, Extra Large of XXL)",
+   "Voor het veilig en eenvoudig verplaatsen van de barbecue, ook op een ruwe of oneffen ondergrond",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "3dddd142",
+   "aa5cd878",
+   "0e156d0c"
+  ],
+  "requires": [
+   "Nest Handler"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ nest\\ onderstel\\ voor\\ Big\\ Green\\ Egg\\ Extra\\ Large",
+   "Big\\ Green\\ Egg\\ nest\\ onderstel\\ voor\\ Big\\ Green\\ Egg\\ Large",
+   "Big\\ Green\\ Egg\\ nest\\ onderstel\\ voor\\ Big\\ Green\\ Egg\\ Medium",
+   "Big\\ Green\\ Egg\\ nest\\ onderstel\\ voor\\ Big\\ Green\\ Egg\\ Small",
+   "Big\\ Green\\ Egg\\ nest\\ onderstel\\ voor\\ Big\\ Green\\ Egg\\ XXL"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Nest onderstel voor de Big Green Egg in de maat uit de productnaam (Small, Medium, Large, Extra Large of XXL); met 4 wielen en twee remmen om de barbecue vast te zetten",
+   "Zorgt voor de ideale werkhoogte en voor veilig en eenvoudig verplaatsen",
+   "Reinigen met een vochtige doek"
+  ],
+  "keys": [
+   "cf0f6334",
+   "dbe2b2f4",
+   "eaa08911",
+   "43ae51d0",
+   "aae473a7"
+  ],
+  "requires": [
+   "nest onderstel"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Carrier\\ voor\\ Big\\ Green\\ Egg\\ Mini"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Carrier van gecoat staal voor de Big Green Egg Mini: onderstel voor de ideale werkhoogte, waarop de barbecue veilig staat en te verplaatsen is",
+   "Reinigen met een vochtige doek"
+  ],
+  "keys": [
+   "57e06b4a"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ ConvEGGtor\\ Medium\\ ø\\ 36\\ cm\\ keramisch\\ wit"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "ConvEGGtor (ook plate setter genoemd) van keramiek, om in de Big Green Egg Medium indirect te koken",
+   "Diameter 36 cm, hoogte 9 cm",
+   "Vormt een hitteschild dat de gerechten op het rooster beschermt tegen de vlammen van de houtskool; vet en vocht vallen niet in de vlammen, dus minder opflakkeringen en verbranden",
+   "Met de pootjes omhoog in de uitsparingen van de binnenring plaatsen; het stalen grillrooster komt op de pootjes",
+   "Bij grote stukken vlees low-and-slow: druippan onder het rooster tegen vuil worden en inbranden van het keramiek; bij pizzasteen of Dutch Oven is die niet nodig"
+  ],
+  "keys": [
+   "1fba3fa4"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ peper\\-\\ en\\ zoutstel\\ keramiek\\ groen"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Peper- en zoutstel van keramiek in de vorm van twee kleine Big Green Eggs, afmeting 5 x 8 cm",
+   "Het beste met de hand afwassen"
+  ],
+  "keys": [
+   "6a1901d1"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ pizzaschep\\ 65\\ cm\\ aluminium\\ groen"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pizzaschep van aluminium met groene kunststof handgreep, totale lengte 65 cm",
+   "Dun blad dat ruimte biedt aan een pizza van 30 x 30 cm, om onder de deegbodem te schuiven; ook voor het verplaatsen van zelfgebakken vloerbroden van en naar de Egg",
+   "Softgrip steel met antislipoppervlak, te hanteren zonder ovenwanten",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "be5fb25a"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ pizzaschep\\ hardhout"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Pizzaschep volledig van hardhout, met taps toelopend blad om de schep moeiteloos onder pizza's of andere bereidingen te schuiven",
+   "Reinigen met warm water en afwasmiddel, daarna direct afdrogen"
+  ],
+  "keys": [
+   "68decebf"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Plate\\ Lifter\\ voor\\ Big\\ Green\\ Egg\\ Extra\\ Large",
+   "Big\\ Green\\ Egg\\ Plate\\ Lifter\\ voor\\ Big\\ Green\\ Egg\\ Large",
+   "Big\\ Green\\ Egg\\ Plate\\ Lifter\\ voor\\ Big\\ Green\\ Egg\\ Medium",
+   "Big\\ Green\\ Egg\\ Plate\\ Lifter\\ voor\\ Big\\ Green\\ Egg\\ Small\\ /\\ MiniMax"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Plate Lifter van roestvrij staal met houten handgreep, om de Plate Setter (ConvEGGtor) veilig uit de Big Green Egg te halen; maat volgens de productnaam (Medium, Large, Extra Large of Small / MiniMax)",
+   "Het propeller-ontwerp haakt u om de plate setter, zodat u hem veilig kunt verplaatsen, ook als hij heet is of de kamado al brandt",
+   "Ontworpen door barbecuespecialist Ralph de Kok",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "fbcdca81",
+   "9974fc4c",
+   "25ececde",
+   "89838e53"
+  ],
+  "requires": [
+   "Plate Lifter"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Portable\\ Nest\\ MiniMax\\ staal\\ zwart"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Portable Nest van staal, alleen geschikt voor de Big Green Egg MiniMax",
+   "Stabiel, volledig inklapbaar en compact mee te nemen (strand, camping, buurtfeest)",
+   "Kookhoogte van 60 cm; de barbecue is te verplaatsen aan de stevige handgrepen",
+   "Reinigen met een vochtige doek en mild reinigingsmiddel"
+  ],
+  "keys": [
+   "85c900ad"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Quick\\-Read\\ thermometer"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Quick-Read thermometer voor de kerntemperatuur aan de binnenzijde van een bereiding, zoals een braadstuk",
+   "Meet in 5-6 seconden; groot LCD, in Fahrenheit of Celsius instelbaar",
+   "Compact formaat voor in de (schort)zak; geleverd met beschermhoesje",
+   "Reinigen met een vochtige doek"
+  ],
+  "keys": [
+   "6328b9e9"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Rain\\ Cap\\ voor\\ MiniMax,\\ Small\\ gietijzer"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Rain Cap van gietijzer: dekt de rEGGulator af tijdens een plotse bui",
+   "Sluit de rEGGulator voor een deel af terwijl de luchttoevoer onveranderd blijft; makkelijk te verwijderen en op te bergen",
+   "Alleen te gebruiken in combinatie met de rEGGulator en uitsluitend voor de MiniMax en Small"
+  ],
+  "keys": [
+   "4e6ec037"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ rEGGulator\\ voor\\ MiniMax,\\ Small\\ gietijzer"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "rEGGulator van gietijzer met roestwerende coating: alternatief voor de standaard sluiting bovenop de Egg, mag na gebruik op de barbecue blijven zitten",
+   "Luchttoevoer veilig en traploos in te stellen (greep met laag silicone), voor meer controle over garing en temperatuur",
+   "Alleen geschikt voor de MiniMax en Small"
+  ],
+  "keys": [
+   "01dc03ed"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Ribs\\ and\\ Roasting\\ Rack\\ voor\\ M\\ en\\ S\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Roasting Rack (braadrek) om een groot stuk vlees in te braden, bijvoorbeeld een hele kip; omgedraaid ook voor spareribs",
+   "Boven een druippan te gebruiken om afdruipend vet op te vangen",
+   "Reinigen met warm water en afwasmiddel",
+   "Geschikt voor de Big Green Egg Medium en Small"
+  ],
+  "keys": [
+   "5e473e3a"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal",
+    "websiteSays": "Eerste zin: \"gemaakt van porselein\"; verder in de tekst en spec: roestvrij staal",
+    "note": "Controleer het materiaal."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Ribs\\ and\\ Roasting\\ Rack\\ voor\\ XXL,\\ XL\\ en\\ L\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Roasting Rack (braadrek) om een groot stuk vlees in te braden, bijvoorbeeld een hele kip; omgedraaid ook voor spareribs",
+   "Boven een druippan te gebruiken om afdruipend vet op te vangen",
+   "Reinigen met warm water en afwasmiddel",
+   "Geschikt voor de Big Green Egg XXLarge, XLarge en Large",
+   "Roestvrij staal"
+  ],
+  "keys": [
+   "7c3d9a63"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ rookhout\\ Apple\\ 2,9\\ liter"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Big Green Egg rookhout Apple in een zak van 2,9 liter, voor het roken in de barbecue",
+   "De smaak Apple geeft een natuurlijke en iets zoete en milde rooksmaak; past goed bij vis en kip",
+   "Voor gebruik langdurig in water laten weken: voorkomt verbranden van de snippers en geeft meer rook",
+   "Geeft een subtiele smaak aan de bereidingen"
+  ],
+  "keys": [
+   "188f67c3"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ rookhout\\ Cherry\\ 2,9\\ liter"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Big Green Egg rookhout Cherry in een zak van 2,9 liter, voor het roken in de barbecue",
+   "De smaak Cherry geeft een milde en iets fruitige smaak; past goed bij wild en gevogelte, maar ook varkenshaas, kip, lam of biefstuk",
+   "Voor gebruik langdurig in water laten weken: voorkomt verbranden van de snippers en geeft meer rook",
+   "Geeft een subtiele smaak aan de bereidingen"
+  ],
+  "keys": [
+   "d6a8da13"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ rookhout\\ Hickory\\ 2,9\\ liter"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Big Green Egg rookhout Hickory in een zak van 2,9 liter, voor het roken in de barbecue",
+   "De smaak Hickory geeft een natuurlijke rooksmaak aan vlees; past goed bij biefstuk, hamburgers, varkensvlees, gevogelte en vis",
+   "Voor gebruik langdurig in water laten weken: voorkomt verbranden van de snippers en geeft meer rook",
+   "Geeft een subtiele smaak aan de bereidingen"
+  ],
+  "keys": [
+   "fac608bc"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ rookhout\\ Pecan\\ 2,9\\ liter"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Big Green Egg rookhout Pecan in een zak van 2,9 liter, voor het roken in de barbecue",
+   "De smaak Pecan geeft een natuurlijke rooksmaak; past goed bij biefstuk, hamburgers, varkensvlees, lamsvlees, gevogelte en vis",
+   "Voor gebruik langdurig in water laten weken: voorkomt verbranden van de snippers en geeft meer rook",
+   "Geeft een subtiele smaak aan de bereidingen"
+  ],
+  "keys": [
+   "486b263d"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Wood\\ Chunks\\ 9\\ liter\\ Apple"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Big Green Egg Wood Chunks Apple in een zak van 9 liter, voor het roken in de barbecue",
+   "De appelsmaak geeft een natuurlijke rooksmaak aan vlees; deze zoete smaak past goed bij vis, varkensvlees of gevogelte",
+   "Voor gebruik langdurig in water laten weken: voorkomt verbranden en geeft meer rook"
+  ],
+  "keys": [
+   "7e646733"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Wood\\ Chunks\\ 9\\ liter\\ Hickory"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Big Green Egg Wood Chunks Hickory in een zak van 9 liter, voor het roken in de barbecue",
+   "De smaak Hickory geeft een natuurlijke rooksmaak aan vlees; past goed bij biefstuk, hamburgers, varkensvlees, gevogelte en vis",
+   "Voor gebruik langdurig in water laten weken: voorkomt verbranden en geeft meer rook"
+  ],
+  "keys": [
+   "bc9d0b6f"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Wood\\ Chunks\\ 9\\ liter\\ Mesquite"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Big Green Egg Wood Chunks Mesquite in een zak van 9 liter, voor het roken in de barbecue",
+   "Mesquite (een peulvruchtenboom die voornamelijk in het noorden van Mexico voorkomt) geeft een natuurlijke rooksmaak aan vlees; pittige en kruidige smaak, past goed bij biefstuk, hamburgers, varkensvlees, gevogelte en vis",
+   "Voor gebruik langdurig in water laten weken: voorkomt verbranden en geeft meer rook"
+  ],
+  "keys": [
+   "bc09aa16"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ sitting\\ chicken\\ 11\\ cm\\ keramiek\\ wit"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het braden en roosteren van een hele kip in de Big Green Egg.",
+  "bullets": [
+   "Sitting chicken van wit keramiek, 11 x 12,5 cm",
+   "Hete lucht circuleert rondom de kip, zodat die op elke plek kookt en kleurt, met een krokant bruin vel",
+   "Hol van binnen: plaats voor een blikje bier of andere dranken voor extra smaak en vocht",
+   "Vaatwasmachinebestendig"
+  ],
+  "keys": [
+   "ef9c4b55"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ SpeediClean\\ barbecueborstel"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "SpeediClean barbecueborstel van kunststof met borstel van boomvezels, ophanghaak en schraper, voor het reinigen van het barbecuerooster",
+   "Lange steel, zodat u niet hoeft te wachten tot de Egg is afgekoeld",
+   "De borstel is te vervangen en los te verkrijgen; de boomvezelharen tasten het materiaal van het rooster niet aan",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "426e5af0"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ SpeediClean\\ Dual\\ Brush\\ barbecueborstel"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "SpeediClean Dual Brush barbecueborstel van kunststof met twee borstels van boomvezels en een handvat, voor het reinigen van het barbecuerooster",
+   "De borstel is te vervangen en los te verkrijgen; de boomvezelharen tasten het materiaal van het rooster niet aan",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "dd11757e"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ SpeediClean\\ schoonmaakborstel\\ vervangende\\ kop\\ palmyra\\ 2\\ stuks"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vervangende roestvrijstalen opzetkoppen (2 stuks) voor de Big Green Egg SpeediClean-schoonmaakborstel",
+   "Borstelkoppen met boomvezelharen voor het reinigen van het barbecuerooster; de harentasten het rooster niet aan",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "5b61733b"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Speedilight\\ aanmaakblokjes\\ 24\\ stuks"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Speedilight aanmaakblokjes: verpakking van 24 blokjes van circa 4 x 4 cm, verdeeld over 3 tabletten",
+   "Gemaakt van natuurlijke vezels, zonder chemische brandversnellers of petroleum, volledig vrij van geur en smaak",
+   "Veilig te gebruiken in Big Green Eggs, kamado's en barbecues om houtskool en brikettenvuur aan te maken",
+   "Met 2 tot 3 blokjes brandt de Egg in circa 20 minuten met een houtskoolvuur waarop u kunt grillen"
+  ],
+  "keys": [
+   "a4b056d8"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Stainless\\ Steel\\ Grid\\ Large",
+   "Big\\ Green\\ Egg\\ Stainless\\ Steel\\ Grid\\ Medium",
+   "Big\\ Green\\ Egg\\ Stainless\\ Steel\\ Grid\\ Mini",
+   "Big\\ Green\\ Egg\\ Stainless\\ Steel\\ Grid\\ Small\\ en\\ MiniMax",
+   "Big\\ Green\\ Egg\\ Stainless\\ Steel\\ Grid\\ XLarge",
+   "Big\\ Green\\ Egg\\ Stainless\\ Steel\\ Grid\\ XXLarge"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Stainless Steel Grid: roestvrijstalen rooster dat past op de Big Green Egg in de maat uit de productnaam (Mini, Small en MiniMax, Medium, Large, XLarge of XXLarge)",
+   "Wordt standaard bij de Egg geleverd; los te gebruiken als extra rooster of ter vervanging van het oude rooster",
+   "Om te grillen, bakken en braden",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "77d9db96",
+   "659c6deb",
+   "43145a5a",
+   "91069688",
+   "c340c650",
+   "823c91cc"
+  ],
+  "requires": [
+   "Stainless Steel Grid"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Tafel\\ nest\\ voor\\ Big\\ Green\\ Egg\\ Extra\\ Large",
+   "Big\\ Green\\ Egg\\ Tafel\\ nest\\ voor\\ Big\\ Green\\ Egg\\ Large",
+   "Big\\ Green\\ Egg\\ Tafel\\ nest\\ voor\\ Big\\ Green\\ Egg\\ Medium",
+   "Big\\ Green\\ Egg\\ Tafel\\ nest\\ voor\\ Big\\ Green\\ Egg\\ XXL"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Tafel nest: metalen standaard voor de Big Green Egg in de maat uit de productnaam (Medium, Large, Extra Large of XXL)",
+   "Om de barbecue op een tafel of ander (hoger) oppervlak te plaatsen; beschermt dat oppervlak, zoals tafel, aanrecht of vlonder, tegen de hitte van de barbecue",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "8af919e3",
+   "effe1367",
+   "d696cb0d",
+   "ca9f7e07"
+  ],
+  "requires": [
+   "Tafel nest"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ thermische\\ barbecuehandschoen\\ silicone\\ zwart"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor bescherming van uw handen tegen de hitte.",
+  "bullets": [
+   "Thermische barbecuehandschoen met een siliconen laag voor extra grip en bescherming",
+   "Biedt volgens de pagina 100% isolatie"
+  ],
+  "keys": [
+   "02c118d0"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ thermometer"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Reserve-thermometer voor de thermometer die standaard in de deksel van de Big Green Egg zit",
+   "Temperatuurbereik 50°C tot 400°C, toont graden Celsius en Fahrenheit",
+   "Eenvoudig te vervangen en te bevestigen aan het deksel; reinigen met een vochtige doek"
+  ],
+  "keys": [
+   "c5c2111a"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Thermometer\\ ø\\ 5\\ cm\\ voor\\ OP\\ de\\ Dome\\ L\\-XL\\-XXL"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Reserve-thermometer (ø 5 cm) voor de thermometer die standaard in de deksel van de Big Green Egg L, XL of XXL zit",
+   "Temperatuurbereik 50°C tot 400°C"
+  ],
+  "keys": [
+   "0b4d1cc7"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Tool\\ Set\\ 3\\-delig\\ rvs"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het flippen van vis, hamburgers of andere etenswaren en het bestrijken met olie daarvan.",
+  "bullets": [
+   "Tool Set van 3 delen: wijde spatel, normale spatel en borstel, van roestvrij staal met kunststof grepen",
+   "Extra lang, zodat uw vingers niet te dicht bij het vuur komen",
+   "Vaatwasmachinebestendig"
+  ],
+  "keys": [
+   "90038921"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Ash\\ Pan\\ metaal\\ zwart"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het schoon afvoeren van as uit de Big Green Egg.",
+  "bullets": [
+   "Ash Pan van zwart metaal",
+   "Sluit goed aan op de schuif onderaan de Egg, zodat de as eenvoudig en schoon de barbecue uit glijdt",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "230a7f72"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ braadpan\\ 5,2\\ liter\\ ø\\ 27\\ cm\\ gietijzer\\ zwart"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "gietijzer",
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Braadpan van ongeëmailleerd gietijzer, diameter 27 cm, inhoud 5,2 liter, met hengsel",
+   "Geschikt voor alle warmtebronnen, ook inductie, voor de oven en voor open vuur; te gebruiken op de barbecue en het fornuis",
+   "Met het hengsel op te hangen, bijvoorbeeld boven de open haard",
+   "Voor stoofschotels, soepen, gevogelte, vleesstukken, maar ook om brood in te bakken; er ontstaat vanzelf een anti-aanbakeffect",
+   "Bij voorkeur reinigen met heet water en een borstel en direct afdrogen; bij gebruik van afwasmiddel de pan daarna inwrijven met plantaardige olie"
+  ],
+  "keys": [
+   "aee6829b"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Carbon\\ Steel\\ Grill\\ Wok\\ ø\\ 40\\ cm\\ voor\\ Large\\ en\\ Extra\\ Large"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "plaatstaal",
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het roerbakken en in korte tijd garen van vlees, vis of groenten.",
+  "bullets": [
+   "Carbon Steel Grill Wok van staal, diameter 40 cm, vlakke bodem, geleverd inclusief bamboe wokspatel",
+   "Alleen geschikt voor de Big Green Egg Large en Extra Large in combinatie met de EGGspander",
+   "Extra brede grepen, ook met handschoenen makkelijk te verplaatsen",
+   "Reinigen met heet water en een milde zeep"
+  ],
+  "keys": [
+   "a4453861"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Cast\\ Iron\\ Plancha\\ Griddle\\ \\-\\ Large"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": "Voor het grillen en bakken van vlees, vis, flensjes of eieren.",
+  "bullets": [
+   "Cast Iron Plancha Griddle (Grill- en Bakrooster) van gietijzer, voor gebruik met het standaard rooster van de Big Green Egg Large of groter",
+   "Twee zijden: geribbeld (geschikt voor tosti's en delicate visfilets) en glad (geschikt voor flensjes of het bakken van eieren)",
+   "Reinigen met warm water en afwasmiddel, goed afdrogen"
+  ],
+  "keys": [
+   "ab80fa8c"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ EGGspander\\ System\\ Half\\ Plancha\\ Griddle\\ gietijzer\\ Large"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "EGGspander System Half Plancha Griddle Large: grillplaat van gietijzer voor het EGGspander systeem, alleen te gebruiken op de Big Green Egg Large",
+   "Tweezijdig te gebruiken: een gladde en een geribbelde zijde",
+   "Voor het grillen van diverse ingrediënten",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "1b1254b1"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ messenset\\ rvs\\ 2\\-delig"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van groenten en vlees voor op de barbecue.",
+  "bullets": [
+   "Messenset van 2 delen: koksmes met lemmet van 20 cm en officemes met lemmet van 9 cm",
+   "Geheel van roestvrij staal met een hoog percentage carbon, waardoor de messen eenvoudig vlijmscherp te slijpen zijn",
+   "Ergonomisch gevormd heft voor een goede grip",
+   "Reinigen met warm water en afwasmiddel"
+  ],
+  "keys": [
+   "4290961e"
+  ]
+ },
+ {
+  "match": [
+   "Big\\ Green\\ Egg\\ Modular\\ Outdoor\\ Workspace\\ Connector\\ Pack\\ Modular\\ Frames"
+  ],
+  "brandID": "biggreenegg",
+  "typeIDs": [
+   "bbq-accessoires"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Zwart Modular Outdoor Workspace Connector Pack van staal: verbindt twee meubels van het Modular systeem extra veilig en stabiel",
+   "Per twee tafels 1 set; de zwarte onderdelen worden onzichtbaar aan de onderzijde bevestigd",
+   "Voor een stabiele ondergrond wanneer de Egg en Modular Frames een vaste plek in de tuin hebben"
+  ],
+  "keys": [
+   "9af58522"
+  ]
+ }
+]

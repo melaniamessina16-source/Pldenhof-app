@@ -1,0 +1,49 @@
+[
+ {
+  "match": [
+   "Cristel\\ Panoply\\ \\-\\ Kaasmes\\ kartel\\ met\\ tweetand"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cristel Panoply kaasmes met kartel en tweetand, volledig van roestvrij staal.",
+   "Door de fijne tanden snijdt het mes zowel harde als zachte kazen; de openingen in het lemmet zorgen dat de kaas niet aan het mes blijft plakken.",
+   "Zeer scherp; na gebruik op te hangen aan het ophangoog.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "6ef36ed2"
+  ],
+  "requires": [
+   "openingen",
+   "ophangoog"
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ Panoply\\ planchaspatel\\ rvs"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Om ingrediënten te verplaatsen op een bakplaat of plancha, zonder met uw hand tegen de plaat te komen.",
+  "bullets": [
+   "Cristel Panoply planchaspatel van roestvrij staal, 31 cm lang en 6,5 cm breed.",
+   "Om ingrediënten te verplaatsen op een bakplaat of plancha, zonder met uw hand tegen de plaat te komen.",
+   "Doordat de spatel breed is, is hij gemakkelijker te gebruiken voor het verplaatsen van etenswaren.",
+   "Door het oog aan de handgreep na gebruik op te hangen (serie Panoply is ontworpen om in de keuken op te hangen).",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "b43755b6"
+  ],
+  "requires": [
+   "planchaspatel",
+   "op te hangen"
+  ]
+ }
+]

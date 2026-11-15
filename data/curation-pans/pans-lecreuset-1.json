@@ -1,0 +1,641 @@
+[
+ {
+  "match": [
+   "Le\\ Creuset\\ 2\\-in\\-1\\ steelpan\\ 2,3\\ liter\\ ø\\ 22\\ cm\\ gietijzer\\ kersrood"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bereiden van soep en stoofgerechten.",
+  "bullets": [
+   "2-in-1 steelpan van geëmailleerd gietijzer; het deksel is ook los te gebruiken als gietijzeren pan.",
+   "Als steelpan voor soep en stoofgerechten; met deksel houdt de pan de smaken en het vocht goed in de pan.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Het gietijzer zorgt voor een gelijkmatige warmteverdeling door de hele pan, ook op laag vuur.",
+   "Duurzame laag email aan de binnen- en buitenzijde: ondoordringbaar en glad, dus eenvoudig schoon te houden en kleur-, geur- en smaakneutraal. Het email beschermt het gietijzer tegen voedselzuren.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Handafwas: reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "c643e4b8"
+  ],
+  "requires": [
+   "2-in-1"
+  ],
+  "colours": [
+   "kersrood"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Balti\\-dish\\ serveerpan\\ ø\\ 24\\ cm\\ gietijzer\\ Azure",
+   "Le\\ Creuset\\ Balti\\-dish\\ serveerpan\\ ø\\ 24\\ cm\\ gietijzer\\ Flint",
+   "Le\\ Creuset\\ Balti\\-dish\\ serveerpan\\ ø\\ 24\\ cm\\ gietijzer\\ Meringue",
+   "Le\\ Creuset\\ Balti\\-dish\\ serveerpan\\ ø\\ 24\\ cm\\ gietijzer\\ Sea\\ Salt",
+   "Le\\ Creuset\\ Balti\\-dish\\ serveerpan\\ ø\\ 24\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ Balti\\-dish\\ serveerpan\\ ø\\ 24\\ cm\\ gietijzer\\ mat\\ zwart",
+   "Le\\ Creuset\\ Balti\\-dish\\ serveerpan\\ ø\\ 24\\ cm\\ gietijzer\\ vulcanique"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het maken van snelle curries, zoals balti (British Indian Restaurant-gerechten).",
+  "bullets": [
+   "Balti-dish serveerpan van geëmailleerd gietijzer, 2,7 liter: ongeveer voor 4 à 5 personen.",
+   "Voor snelle curries (balti): korte bereidingstijd op redelijk hoge temperatuur.",
+   "Het gietijzer houdt de warmte goed vast, dus de pan blijft op temperatuur als nieuwe ingrediënten erin gaan.",
+   "Ronde zijwanden: ingrediënten zijn gemakkelijk om te scheppen tijdens het garen.",
+   "Geschikt voor alle hittebronnen, inclusief inductie, en voor de oven.",
+   "Opstaande greepjes: de pan oogt leuk op tafel.",
+   "Handafwas: reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "45f9f1c3",
+   "76b332b2",
+   "137882e1",
+   "2873936d",
+   "13d9e63b",
+   "58b3d0d4",
+   "cd015d8c"
+  ],
+  "requires": [
+   "Balti"
+  ],
+  "colours": [
+   "Azure",
+   "Flint",
+   "Meringue",
+   "Sea Salt",
+   "kersrood",
+   "mat zwart",
+   "vulcanique"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ BBQ\\ Outdoor\\ braadpan\\ ø\\ 25\\ cm\\ 4\\ liter\\ gietijzer"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bereiden van bijvoorbeeld stoofschotels of het bakken van brood op de barbecue.",
+  "bullets": [
+   "BBQ Outdoor braadpan van matzwart geëmailleerd gietijzer.",
+   "Geschikt voor gebruik op bijvoorbeeld de barbecue of open vuur.",
+   "Het gietijzer verwarmt gelijkmatig en houdt de warmte lang vast.",
+   "De laag emaille maakt inbranden overbodig: de pan is direct geschikt voor gebruik.",
+   "De matzwarte emaille ontwikkelt in de loop van de tijd een patina, waardoor de prestaties verder worden verbeterd.",
+   "Extra grote grepen: eenvoudig te hanteren met bijvoorbeeld barbecuehandschoenen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5eda0419"
+  ],
+  "requires": [
+   "BBQ Outdoor"
+  ],
+  "mismatches": [
+   {
+    "topic": "Maximumtemperatuur BBQ Outdoor braadpan",
+    "websiteSays": "Specificaties: Maximumtemperatuur 300°C. Tekst: \"geschikt voor gebruik op bijvoorbeeld de barbecue of open vuur tot een temperatuur van 450°C\" en \"De pannen zijn geschikt voor gebruik tot een temperatuur van 450°C\".",
+    "note": "Controleer de maximale temperatuur voordat je er een getal aan noemt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ BBQ\\ Outdoor\\ grillpan\\ vierkant\\ 26\\ cm\\ gietijzer"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BBQ Outdoor grillpan, vierkant, van matzwart geëmailleerd gietijzer.",
+   "Voor het grillen van diverse ingrediënten.",
+   "Geschikt voor gebruik op bijvoorbeeld de barbecue of open vuur.",
+   "Het gietijzer verwarmt gelijkmatig en houdt de warmte lang vast.",
+   "De laag emaille maakt inbranden overbodig: de pan is direct geschikt voor gebruik.",
+   "De matzwarte emaille ontwikkelt in de loop van de tijd een patina, waardoor de prestaties verder worden verbeterd.",
+   "Extra grote grepen: eenvoudig te hanteren met bijvoorbeeld barbecuehandschoenen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "43b0ca87"
+  ],
+  "requires": [
+   "BBQ Outdoor"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ BBQ\\ Outdoor\\ grillplaat\\ rechthoek\\ 40\\ cm\\ gietijzer"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BBQ Outdoor grillplaat (plancha), rechthoekig, van matzwart geëmailleerd gietijzer.",
+   "Voor het bakken van diverse ingrediënten.",
+   "Geschikt voor gebruik op bijvoorbeeld de barbecue of open vuur.",
+   "Het gietijzer verwarmt gelijkmatig en houdt de warmte lang vast.",
+   "De laag emaille maakt inbranden overbodig: de pan is direct geschikt voor gebruik.",
+   "De matzwarte emaille ontwikkelt in de loop van de tijd een patina, waardoor de prestaties verder worden verbeterd.",
+   "Extra grote grepen: eenvoudig te hanteren met bijvoorbeeld barbecuehandschoenen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4a401bdd"
+  ],
+  "requires": [
+   "BBQ Outdoor"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ BBQ\\ Outdoor\\ koekenpan\\ ø\\ 25\\ cm\\ gietijzer"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "BBQ Outdoor koekenpan van matzwart geëmailleerd gietijzer.",
+   "Voor het bakken van diverse ingrediënten.",
+   "Geschikt voor gebruik op bijvoorbeeld de barbecue of open vuur.",
+   "Het gietijzer verwarmt gelijkmatig en houdt de warmte lang vast.",
+   "De laag emaille maakt inbranden overbodig: de pan is direct geschikt voor gebruik.",
+   "De matzwarte emaille ontwikkelt in de loop van de tijd een patina, waardoor de prestaties verder worden verbeterd.",
+   "Extra grote grepen: eenvoudig te hanteren met bijvoorbeeld barbecuehandschoenen.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "53edd597"
+  ],
+  "requires": [
+   "BBQ Outdoor"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Bloesem\\ Signature\\ braadpan\\ ø\\ 26\\ cm\\ gietijzer\\ Sea",
+   "Le\\ Creuset\\ Bloesem\\ Signature\\ braadpan\\ ø\\ 26\\ cm\\ gietijzer\\ Shel",
+   "Le\\ Creuset\\ Bloesem\\ Signature\\ braadpan\\ ø\\ 26\\ cm\\ gietijzer\\ Whit"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor stoofgerechten, soepen, sauzen en grotere stukken vlees of gevogelte.",
+  "bullets": [
+   "Bloesem Signature braadpan van geëmailleerd gietijzer, 5,2 liter: ruim genoeg voor maaltijden voor meerdere personen.",
+   "Deksel met bloemendecor, geïnspireerd op de Franse anemoonbloem; extra grote grepen voor een stevige grip.",
+   "Gietijzeren deksel met dezelfde wanddikte als de pan: draagt bij aan gecontroleerd en gelijkmatig garen.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "Gelijkmatige warmteverdeling door de hele pan, ook bij lage temperaturen.",
+   "Gladde emaillelaag: kleur-, geur- en smaakneutraal en eenvoudig te reinigen.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "fa3d1329",
+   "f607a212",
+   "10720fa7"
+  ],
+  "requires": [
+   "Bloesem"
+  ],
+  "colours": [
+   "Sea",
+   "Shel",
+   "Whit"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleurnaam in productnaam afgekapt",
+    "websiteSays": "Productnamen eindigen op \"Sea\", \"Shel\" en \"Whit\"; de tekst noemt de kleuren Sea Salt, Shell Pink en White.",
+    "note": "Naam op de website is afgekapt; de kleurnaam is niet aangepast."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Bloesem\\ Signature\\ Campagnard\\ braadpan\\ ø\\ 26\\ cm\\ gietijzer\\ Shell\\ Pink",
+   "Le\\ Creuset\\ Bloesem\\ Signature\\ Campagnard\\ braadpan\\ ø\\ 26\\ cm\\ gietijzer\\ Wit",
+   "Le\\ Creuset\\ Bloesem\\ Signature\\ Campagnard\\ braadpan\\ ø\\ 26\\ cm\\ gietijzer\\ Sea\\ Salt"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor ruime porties vlees of aardappelen; ook te gebruiken als braadpan, hapjespan of ovenschaal.",
+  "bullets": [
+   "Bloesem Signature Campagnard (multifunctionele braadpan) van geëmailleerd gietijzer, 2,2 liter.",
+   "Laag, elegant formaat: ook geschikt om gerechten in op te dienen. Te gebruiken als braadpan, hapjespan of ovenschaal, met of zonder deksel.",
+   "Deksel met bloemenmotief, geïnspireerd op de Franse anemoonbloem.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en voor de oven.",
+   "De pan wordt geleverd met een roestvrijstalen knop; de metalen knop op het deksel is hittebestendig tot 260°C.",
+   "Gelijkmatige warmteverdeling door de hele pan, zelfs op een kleine hittebron.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1739d743",
+   "b24f71c3",
+   "335ba622"
+  ],
+  "requires": [
+   "Campagnard"
+  ],
+  "colours": [
+   "Shell Pink",
+   "Wit",
+   "Sea Salt"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ braadpan\\ hartvormig\\ met\\ rvs\\ knop\\ 2\\ liter\\ gietijzer\\ wit",
+   "Le\\ Creuset\\ braadpan\\ hartvormig\\ met\\ rvs\\ knop\\ 2\\ liter\\ gietijzer\\ Shell\\ Pink\\ ",
+   "Le\\ Creuset\\ braadpan\\ hartvormig\\ met\\ rvs\\ knop\\ 2\\ liter\\ gietijzer\\ kersrood"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het koken van soepen, stoofgerechten en eenpansgerechten; ook voor het bakken van een hartvormige taart.",
+  "bullets": [
+   "Hartvormige braad-/stoofpan van geëmailleerd gietijzer, 2 liter, met extra grote grepen.",
+   "Voor het koken van soepen, stoofgerechten en eenpansgerechten; ook voor een hartvormige taart.",
+   "De gietijzeren deksel draagt bij aan de warmteverdeling, zodat het braadstuk rondom regelmatig gaart. De pan kan tijdens het stoven ook in de oven.",
+   "Gebruik voor stukken vlees en gevogelte, stoofgerechten als boeuf bourguignon en hachee of dikke soep zoals erwtensoep en pompoensoep.",
+   "Duurzame laag email aan de binnen- en buitenzijde: ondoordringbaar en glad, kleur-, geur- en smaakneutraal.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f0874156",
+   "9e7248db",
+   "6e2dd988"
+  ],
+  "requires": [
+   "hartvormige"
+  ],
+  "colours": [
+   "wit",
+   "Shell Pink ",
+   "kersrood"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ braadslede\\ 4,9\\ liter\\ 33\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ braadslede\\ 4,9\\ liter\\ 33\\ cm\\ gietijzer\\ mat\\ zwart",
+   "Le\\ Creuset\\ braadslede\\ 4,9\\ liter\\ 33\\ cm\\ gietijzer\\ vulcanique",
+   "Le\\ Creuset\\ braadslede\\ 6,6\\ liter\\ 37\\ cm\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ braadslede\\ 6,6\\ liter\\ 37\\ cm\\ gietijzer\\ mat\\ zwart",
+   "Le\\ Creuset\\ braadslede\\ 6,6\\ liter\\ 37\\ cm\\ gietijzer\\ vulcanique"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken en braden van etenswaren.",
+  "bullets": [
+   "Braadslede van geëmailleerd gietijzer, voor het bakken en braden.",
+   "Zeer sterke emaillelaag die kras- en vlekbestendig is; het materiaal is geur- en smaakneutraal.",
+   "Breng de braadslede langzaam op laag vuur op temperatuur: gietijzer absorbeert de warmte en geeft die gelijkmatig af.",
+   "Houdt warmte lang vast: het gerecht kan in de slede aan tafel worden gepresenteerd.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f7fd7ef9",
+   "b72fe8e5",
+   "471d3108",
+   "f6c098a0",
+   "d47243ce",
+   "fa890dec"
+  ],
+  "requires": [
+   "braadslede"
+  ],
+  "colours": [
+   "kersrood",
+   "mat zwart",
+   "vulcanique"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ crêpepan\\ ø\\ 27\\ cm\\ geëmailleerd\\ gietijzer\\ kersrood",
+   "Le\\ Creuset\\ crêpepan\\ ø\\ 27\\ cm\\ geëmailleerd\\ gietijzer\\ zwart"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van pannenkoeken en crêpes.",
+  "bullets": [
+   "Ronde crêpepan van geëmailleerd gietijzer, voor pannenkoeken en crêpes.",
+   "Wordt geleverd met een houten beslagverdeler.",
+   "Gietijzeren greep in één stuk meegegoten.",
+   "Goede en gelijkmatige warmteverdeling, zodat crêpes overal gelijk garen; de lage rand maakt keren eenvoudig.",
+   "Le Creuset biedt een levenslange garantie op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "4fe3ea5c",
+   "fee19e2c"
+  ],
+  "requires": [
+   "beslagverdeler"
+  ],
+  "colours": [
+   "kersrood",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ koekenpan\\ ø\\ 20\\ cm",
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ koekenpan\\ ø\\ 24\\ cm",
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ koekenpan\\ ø\\ 26\\ cm",
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ koekenpan\\ ø\\ 28\\ cm",
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ koekenpan\\ ø\\ 30\\ cm"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van diverse ingrediënten.",
+  "bullets": [
+   "Essential Ceramic koekenpan.",
+   "Aluminium pan met een PFOA- en PFAS-vrije, keramische anti-aanbaklaag aan de binnen- en buitenzijde.",
+   "De keramische laag is bestand tegen krassen en vlekken en veilig te gebruiken met metalen keukengerei; bakken en braden kan met of zonder vetstoffen.",
+   "Roestvrijstalen plaat aan de onderzijde: geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Door de metalen handgreep ook geschikt voor de oven: tot 280°C, of tot 220°C met een hittebestendig glazen deksel van Le Creuset.",
+   "Gesmede, stevige aluminium kern voor een uitzonderlijke warmteverdeling; de roestvrijstalen grepen zijn hol van binnen voor een koele grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "dd63ba2b"
+  ],
+  "requires": [
+   "Essential Ceramic"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ koekenpannenset\\ ø\\ 24\\ \\+\\ 28\\ cm"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van diverse ingrediënten.",
+  "bullets": [
+   "Essential Ceramic koekenpannenset van 2 koekenpannen.",
+   "Aluminium pan met een PFOA- en PFAS-vrije, keramische anti-aanbaklaag aan de binnen- en buitenzijde.",
+   "De keramische laag is bestand tegen krassen en vlekken en veilig te gebruiken met metalen keukengerei; bakken en braden kan met of zonder vetstoffen.",
+   "Roestvrijstalen plaat aan de onderzijde: geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Door de metalen handgreep ook geschikt voor de oven: tot 280°C, of tot 220°C met een hittebestendig glazen deksel van Le Creuset.",
+   "Gesmede, stevige aluminium kern voor een uitzonderlijke warmteverdeling; de roestvrijstalen grepen zijn hol van binnen voor een koele grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "61b57c7f"
+  ],
+  "requires": [
+   "Essential Ceramic"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ kookpan\\ met\\ deksel\\ ø\\ 20\\ cm",
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ kookpan\\ met\\ deksel\\ ø\\ 24\\ cm"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het koken van diverse ingrediënten.",
+  "bullets": [
+   "Essential Ceramic kookpan, wordt geleverd met een glazen deksel.",
+   "Aluminium pan met een PFOA- en PFAS-vrije, keramische anti-aanbaklaag aan de binnen- en buitenzijde.",
+   "De keramische laag is bestand tegen krassen en vlekken en veilig te gebruiken met metalen keukengerei; bakken en braden kan met of zonder vetstoffen.",
+   "Roestvrijstalen plaat aan de onderzijde: geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Door de metalen handgreep ook geschikt voor de oven: tot 280°C, of tot 220°C met een hittebestendig glazen deksel van Le Creuset.",
+   "Gesmede, stevige aluminium kern voor een uitzonderlijke warmteverdeling; de roestvrijstalen grepen zijn hol van binnen voor een koele grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "afac87ea"
+  ],
+  "requires": [
+   "Essential Ceramic"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ pannenset\\ 4\\-delig"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken en bereiden van diverse ingrediënten.",
+  "bullets": [
+   "Essential Ceramic pannenset: 2 koekenpannen, een steelpan en een hapjespan.",
+   "Aluminium pan met een PFOA- en PFAS-vrije, keramische anti-aanbaklaag aan de binnen- en buitenzijde.",
+   "De keramische laag is bestand tegen krassen en vlekken en veilig te gebruiken met metalen keukengerei; bakken en braden kan met of zonder vetstoffen.",
+   "Roestvrijstalen plaat aan de onderzijde: geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Door de metalen handgreep ook geschikt voor de oven: tot 280°C, of tot 220°C met een hittebestendig glazen deksel van Le Creuset.",
+   "Gesmede, stevige aluminium kern voor een uitzonderlijke warmteverdeling; de roestvrijstalen grepen zijn hol van binnen voor een koele grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "cbd20b1b"
+  ],
+  "requires": [
+   "Essential Ceramic"
+  ],
+  "mismatches": [
+   {
+    "topic": "Pannenset 4-delig: maten",
+    "websiteSays": "Tekst: koekenpan 20 cm, koekenpan 28 cm, steelpan 18 cm, hapjespan 26 cm. Specificaties bij Diameter: 18 cm, 20 cm, 28 cm.",
+    "note": "In de specificaties ontbreekt 26 cm (hapjespan); controleer welke pannen in de set zitten."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ Provençaalse\\ sauteerpan\\ met\\ deksel\\ ø\\ 28\\ cm",
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ Provençaalse\\ sauteerpan\\ met\\ deksel\\ ø\\ 30\\ cm"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het sauteren of roerbakken van diverse ingrediënten.",
+  "bullets": [
+   "Essential Ceramic Provençaalse sauteerpan (hapjespan), wordt geleverd met een glazen deksel.",
+   "Handgrepen aan weerszijden: de pan past ook eenvoudig in de oven.",
+   "Aluminium pan met een PFOA- en PFAS-vrije, keramische anti-aanbaklaag aan de binnen- en buitenzijde.",
+   "De keramische laag is bestand tegen krassen en vlekken en veilig te gebruiken met metalen keukengerei; bakken en braden kan met of zonder vetstoffen.",
+   "Roestvrijstalen plaat aan de onderzijde: geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Door de metalen handgreep ook geschikt voor de oven: tot 280°C, of tot 220°C met een hittebestendig glazen deksel van Le Creuset.",
+   "Gesmede, stevige aluminium kern voor een uitzonderlijke warmteverdeling; de roestvrijstalen grepen zijn hol van binnen voor een koele grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "8378b406"
+  ],
+  "requires": [
+   "Provençaalse"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ rechte\\ sauteerpan\\ met\\ deksel\\ ø\\ 26\\ cm"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het sauteren of roerbakken van diverse ingrediënten.",
+  "bullets": [
+   "Essential Ceramic sauteerpan met rechte wand (hapjespan), wordt geleverd met een glazen deksel.",
+   "Aluminium pan met een PFOA- en PFAS-vrije, keramische anti-aanbaklaag aan de binnen- en buitenzijde.",
+   "De keramische laag is bestand tegen krassen en vlekken en veilig te gebruiken met metalen keukengerei; bakken en braden kan met of zonder vetstoffen.",
+   "Roestvrijstalen plaat aan de onderzijde: geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Door de metalen handgreep ook geschikt voor de oven: tot 280°C, of tot 220°C met een hittebestendig glazen deksel van Le Creuset.",
+   "Gesmede, stevige aluminium kern voor een uitzonderlijke warmteverdeling; de roestvrijstalen grepen zijn hol van binnen voor een koele grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "59636a10"
+  ],
+  "requires": [
+   "rechte wand"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ sauteerpan\\ ø\\ 28\\ cm",
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ sauteerpan\\ ø\\ 30\\ cm"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het sauteren of roerbakken van diverse ingrediënten.",
+  "bullets": [
+   "Essential Ceramic sauteerpan (hapjespan).",
+   "Aluminium pan met een PFOA- en PFAS-vrije, keramische anti-aanbaklaag aan de binnen- en buitenzijde.",
+   "De keramische laag is bestand tegen krassen en vlekken en veilig te gebruiken met metalen keukengerei; bakken en braden kan met of zonder vetstoffen.",
+   "Roestvrijstalen plaat aan de onderzijde: geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Door de metalen handgreep ook geschikt voor de oven: tot 280°C, of tot 220°C met een hittebestendig glazen deksel van Le Creuset.",
+   "Gesmede, stevige aluminium kern voor een uitzonderlijke warmteverdeling; de roestvrijstalen grepen zijn hol van binnen voor een koele grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b7b624f9"
+  ],
+  "requires": [
+   "Essential Ceramic"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ steelpan\\ met\\ deksel\\ ø\\ 16\\ cm",
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ steelpan\\ met\\ deksel\\ ø\\ 18\\ cm",
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ steelpan\\ met\\ deksel\\ ø\\ 20\\ cm"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het koken van diverse ingrediënten of het maken van sauzen.",
+  "bullets": [
+   "Essential Ceramic steelpan, wordt geleverd met een glazen deksel.",
+   "Aluminium pan met een PFOA- en PFAS-vrije, keramische anti-aanbaklaag aan de binnen- en buitenzijde.",
+   "De keramische laag is bestand tegen krassen en vlekken en veilig te gebruiken met metalen keukengerei; bakken en braden kan met of zonder vetstoffen.",
+   "Roestvrijstalen plaat aan de onderzijde: geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Door de metalen handgreep ook geschikt voor de oven: tot 280°C, of tot 220°C met een hittebestendig glazen deksel van Le Creuset.",
+   "Gesmede, stevige aluminium kern voor een uitzonderlijke warmteverdeling; de roestvrijstalen grepen zijn hol van binnen voor een koele grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3ea9b48c"
+  ],
+  "requires": [
+   "steelpan"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ wok\\ met\\ oren\\ ø\\ 32\\ cm"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het roerbakken en wokken van diverse ingrediënten.",
+  "bullets": [
+   "Essential Ceramic wokpan met oren: handgrepen aan beide zijden van de pan.",
+   "Aluminium pan met een PFOA- en PFAS-vrije, keramische anti-aanbaklaag aan de binnen- en buitenzijde.",
+   "De keramische laag is bestand tegen krassen en vlekken en veilig te gebruiken met metalen keukengerei; bakken en braden kan met of zonder vetstoffen.",
+   "Roestvrijstalen plaat aan de onderzijde: geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Door de metalen handgreep ook geschikt voor de oven: tot 280°C, of tot 220°C met een hittebestendig glazen deksel van Le Creuset.",
+   "Gesmede, stevige aluminium kern voor een uitzonderlijke warmteverdeling; de roestvrijstalen grepen zijn hol van binnen voor een koele grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3936d15a"
+  ],
+  "requires": [
+   "wokpan met oren"
+  ]
+ },
+ {
+  "match": [
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ wokpan\\ ø\\ 26\\ cm",
+   "Le\\ Creuset\\ Essential\\ Ceramic\\ wokpan\\ met\\ steel\\ ø\\ 30\\ cm"
+  ],
+  "brandID": "lecreuset",
+  "typeIDs": [
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het roerbakken en wokken van diverse ingrediënten.",
+  "bullets": [
+   "Essential Ceramic wokpan.",
+   "Aluminium pan met een PFOA- en PFAS-vrije, keramische anti-aanbaklaag aan de binnen- en buitenzijde.",
+   "De keramische laag is bestand tegen krassen en vlekken en veilig te gebruiken met metalen keukengerei; bakken en braden kan met of zonder vetstoffen.",
+   "Roestvrijstalen plaat aan de onderzijde: geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Door de metalen handgreep ook geschikt voor de oven: tot 280°C, of tot 220°C met een hittebestendig glazen deksel van Le Creuset.",
+   "Gesmede, stevige aluminium kern voor een uitzonderlijke warmteverdeling; de roestvrijstalen grepen zijn hol van binnen voor een koele grip.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "6b19fd81"
+  ],
+  "requires": [
+   "wokpan"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reiniging Essential Ceramic wokpan",
+    "websiteSays": "Specificaties: Reiniging vaatwasmachinebestendig. Tekst: \"Reinig de Le Creuset Essential Ceramic koekenpan met warm water en afwasmiddel.\" Bij de andere Essential Ceramic-pannen staat handafwas.",
+    "note": "Controleer of de pan in de vaatwasser mag."
+   }
+  ]
+ }
+]

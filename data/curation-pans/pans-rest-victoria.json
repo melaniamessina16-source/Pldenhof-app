@@ -1,0 +1,503 @@
+[
+ {
+  "match": [
+   "Victoria\\ braadpan\\ ø\\ 20\\ cm\\ geëmailleerd\\ gietijzer",
+   "Victoria\\ braadpan\\ ø\\ 24\\ cm\\ geëmailleerd\\ gietijzer",
+   "Victoria\\ braadpan\\ ø\\ 26\\ cm\\ geëmailleerd\\ gietijzer",
+   "Victoria\\ braadpan\\ ø\\ 28\\ cm\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het stoven of braden van vlees, groenten of vis.",
+  "bullets": [
+   "Braadpan van gietijzer; pan en handvatten zijn in één stuk gegoten.",
+   "In de fabriek op hoge temperatuur voorbehandeld met plantaardige olie, daardoor klaar voor gebruik; bij zure ingrediënten nog enkele lagen olie aanbrengen.",
+   "Gietijzer verdeelt de warmte optimaal bij rustig voorverwarmen: gelijkmatig bruin en gaar.",
+   "Reinigen met warm water en afwasmiddel, direct afdrogen en een dun laagje olie inwrijven (spec: handafwas)."
+  ],
+  "keys": [
+   "c4008e83"
+  ],
+  "mismatches": [
+   {
+    "topic": "Emaille of voorbehandeld",
+    "websiteSays": "Naam en eerste alinea: geëmailleerd gietijzer; verdere tekst: in de fabriek op hoge temperatuur voorbehandeld met plantaardige olie",
+    "note": "Check of de pan geëmailleerd of voorbehandeld (ingebrand) is; dat bepaalt de onderhoudsadvies (olie inwrijven)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ braadpan\\ zonder\\ deksel\\ ø\\ 14\\ cm\\ 570\\ ml\\ gietijzer",
+   "Victoria\\ braadpan\\ zonder\\ deksel\\ ø\\ 16\\ cm\\ 820\\ ml\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Om gerechten in te bereiden en te serveren, op het fornuis of op de barbecue.",
+  "bullets": [
+   "Braadpan zonder deksel van gietijzer; klein handvat aan beide zijkanten, pan en handvatten in één stuk gegoten.",
+   "Is gelijk klaar voor gebruik; optimale warmtespreiding bij rustig voorverwarmen.",
+   "Spec: geschikt voor barbecue, elektrisch, gas, halogeen, keramisch en oven (inductie wordt niet genoemd).",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "996b4ea5"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "Naam: ø 16 cm 820 ml; spec Inhoud: 800 ml",
+    "note": "Check de inhoud.",
+    "only": "Victoria braadpan zonder deksel ø 16 cm 820 ml gietijzer"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ crêpepan\\ ø\\ 26\\ cm\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor crêpes, pannenkoeken, flatbread en tortilla's, om in te bereiden en op te dienen.",
+  "bullets": [
+   "Crêpepan van geëmailleerd gietijzer; in de fabriek geëmailleerd, direct klaar voor gebruik.",
+   "Uitstekende warmteverdeling als de pan goed is voorverwarmd.",
+   "Spec: geschikt voor barbecue, elektrisch, gas, halogeen, inductie, keramisch en oven.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "2c5f58f9"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ dubbelzijdige\\ grillplaat\\ 33\\ x\\ 21\\ cm\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken of grillen van groenten, vlees of andere etenswaren.",
+  "bullets": [
+   "Dubbelzijdige grillplaat van geëmailleerd gietijzer: één kant met grillstrepen, de andere kant glad.",
+   "Aan de twee korte einden een handgreep die uit één stuk met de plaat bestaat.",
+   "In de fabriek geëmailleerd, klaar voor gebruik; optimale warmtespreiding bij rustig voorverwarmen.",
+   "Spec: geschikt voor elektrisch, gas, halogeen en keramisch (inductie en oven niet genoemd).",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "3687b2ad"
+  ],
+  "mismatches": [
+   {
+    "topic": "Afmetingen",
+    "websiteSays": "Tekst: \"33 cm lang en 21 cm lang\"",
+    "note": "Tweede maat is waarschijnlijk de breedte (spec: breedte 21 cm); check."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ dubbelzijdige\\ grillplaat\\ 47\\ x\\ 25\\ cm\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken en grillen van bijvoorbeeld vis, pannenkoeken en steaks.",
+  "bullets": [
+   "Dubbelzijdige grillplaat van geëmailleerd gietijzer; omgedraaid als bakplaat te gebruiken.",
+   "Aan beide korte zijden is een handgreep uitgespaard.",
+   "Gietijzer zorgt voor optimale warmtespreiding en gelijkmatige garing en bruining.",
+   "Spec: geschikt voor elektrisch, gas, halogeen en keramisch (inductie en oven niet genoemd).",
+   "Reinigen met warm water en een afwasborstel, direct afdrogen; kleine onvolkomenheden in het oppervlak zijn volgens de tekst normaal."
+  ],
+  "keys": [
+   "c0872907"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ grillpan\\ 26\\ x\\ 26\\ cm\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van hamburgers, groenten of aardappelen in weinig vet.",
+  "bullets": [
+   "Grillpan van geëmailleerd gietijzer met tegengreep en een schenktuit aan beide zijkanten; pan en handvat in één stuk gegoten.",
+   "Bodem met uitgesproken ribbel, geschikt om te grillen.",
+   "In de fabriek geëmailleerd, klaar voor gebruik; optimale warmtespreiding bij rustig voorverwarmen.",
+   "Spec: geschikt voor elektrisch, gas, halogeen, inductie en keramisch.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "07435149"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ mini\\-braadpan\\ ø\\ 9\\ cm\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Om individuele gerechten in te garen of te serveren.",
+  "bullets": [
+   "Mini-braadpan van mat zwart geëmailleerd gietijzer, met twee greepjes en een deksel.",
+   "Stevige emaillelaag: direct klaar voor gebruik en beschermd tegen roestvorming.",
+   "Spec: geschikt voor barbecue, elektrisch, gas, halogeen, inductie, keramisch en oven.",
+   "Stoten en grote temperatuurverschillen voorkomen, dan blijft de emaillelaag zo goed mogelijk behouden.",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "21748f03"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ mini\\ serveerpan\\ ø\\ 14\\ cm\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Ideaal voor het serveren van kleine gerechten, bijgerechten of desserts rechtstreeks uit de oven.",
+  "bullets": [
+   "Mini serveerpan van gietijzer.",
+   "Uitstekende warmtegeleiding en -behoud: gerechten garen gelijkmatig en blijven lang warm.",
+   "Geschikt voor de oven, het fornuis, de barbecue of boven open vuur; spec vermeldt ook inductie.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "35d7ade6"
+  ],
+  "mismatches": [
+   {
+    "topic": "Emaille",
+    "websiteSays": "Naam: geëmailleerd gietijzer; tekst noemt alleen \"hoogwaardig gietijzer\"",
+    "note": "Check of de pan geëmailleerd is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ mini\\ skillet\\ /\\ blinipan\\ ø\\ 12\\ cm\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van hamburgers, groenten of aardappelen.",
+  "bullets": [
+   "Mini skillet / blinipan van geëmailleerd gietijzer met een schenktuit aan beide zijkanten; pan en handvat in één stuk gegoten.",
+   "In de fabriek geëmailleerd, klaar voor gebruik; optimale warmtespreiding bij rustig voorverwarmen.",
+   "Spec: geschikt voor elektrisch, gas, halogeen, inductie en keramisch.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "a9f0250d"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ paellapan\\ ø\\ 33\\ cm\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bereiden van gerechten zoals paella.",
+  "bullets": [
+   "Paellapan van mat zwart geëmailleerd gietijzer; twee grepen aan de bovenwand gegoten, schenktuiten aan beide zijden.",
+   "Stevige emaillelaag: direct klaar voor gebruik en beschermd tegen roestvorming.",
+   "Spec: geschikt voor barbecue, elektrisch, gas, halogeen, inductie, keramisch en oven.",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "29bcf530"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam in tekst",
+    "websiteSays": "Tekst: \"Gebruik de wok voor het bereiden van gerechten zoals paella\"",
+    "note": "Tekst noemt het product een wok; de pagina is een paellapan."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ paellapan\\ ø\\ 33\\ cm\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bereiden en serveren van paella en andere eenpansgerechten.",
+  "bullets": [
+   "Paellapan van gietijzer met twee grepen en een schenktuit aan beide zijkanten; pan en handvat in één stuk gegoten.",
+   "In de fabriek op hoge temperatuur voorbehandeld met plantaardige olie, klaar voor gebruik; bij zure ingrediënten nog enkele lagen olie aanbrengen.",
+   "Spec: geschikt voor barbecue, elektrisch, gas, halogeen, inductie, keramisch en oven.",
+   "Reinigen met warm water en afwasmiddel, direct afdrogen en een dun laagje olie inwrijven (spec: handafwas)."
+  ],
+  "keys": [
+   "0b565165"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ poffertjespan\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor de bereiding van 15 poffertjes per keer.",
+  "bullets": [
+   "Ronde poffertjespan van gietijzer met 2 handgrepen voor extra draaggemak; voor 15 poffertjes per keer.",
+   "Gelijkmatige verspreiding van de warmte door de pan.",
+   "In de fabriek op hoge temperatuur voorbehandeld met plantaardige olie; bij zure ingrediënten nog enkele lagen olie aanbrengen.",
+   "Spec: geschikt voor elektrisch, gas, halogeen, inductie en keramisch.",
+   "Reinigen met warm water en afwasmiddel, direct afdrogen en een dun laagje olie inwrijven."
+  ],
+  "keys": [
+   "8591e556"
+  ],
+  "mismatches": [
+   {
+    "topic": "Emaille of voorbehandeld",
+    "websiteSays": "Naam en eerste alinea: geëmailleerd gietijzer; verdere tekst: in de fabriek op hoge temperatuur voorbehandeld met plantaardige olie",
+    "note": "Check of de pan geëmailleerd of voorbehandeld (ingebrand) is; dat bepaalt de onderhoudsadvies (olie inwrijven)."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ sauspan\\ 1,89\\ liter\\ ø\\ 20\\ cm\\ gietijzer\\ zwart"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen, frituren of het bereiden en serveren van kaasfondue.",
+  "bullets": [
+   "Sauspan van geëmailleerd gietijzer met een schenktuit aan beide zijkanten; pan en handvat in één stuk gegoten.",
+   "In de fabriek geëmailleerd, klaar voor gebruik; optimale warmtespreiding bij rustig voorverwarmen.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "617b32be"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "Naam: 1,89 liter; spec Inhoud: 1,85 liter",
+    "note": "Check de inhoud."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ sauspan\\ bol\\ ø\\ 12\\ cm\\ voorbehandeld\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bereiden en serveren van sauzen, boter, dips of kleine porties.",
+  "bullets": [
+   "Compacte sauspan (bol) van gietijzer, vooraf ingebrand met natuurlijke plantaardige olie: duurzame, natuurlijke antiaanbaklaag.",
+   "Het gietijzer warmt gelijkmatig op en houdt de warmte lang vast.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, oven, barbecue en open vuur.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "f0039210"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ sauspan\\ bol\\ ø\\ 20\\ cm\\ voorbehandeld\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bereiden van sauzen, soepen, stoofgerechten of kleine porties pasta.",
+  "bullets": [
+   "Sauspan (bol) van gietijzer, vooraf ingebrand met natuurlijke plantaardige olie: direct klaar voor gebruik en een natuurlijke antiaanbaklaag.",
+   "Het gietijzer houdt de warmte lang vast; gerechten garen gelijkmatig en blijven warm, zelfs aan tafel.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, oven, barbecue en open vuur.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "f7c5dd01"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ sauspan\\ bol\\ ø\\ 12\\ cm\\ 420\\ ml\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Om sauzen in te bereiden of te verwarmen, op het fornuis of op de barbecue.",
+  "bullets": [
+   "Geëmailleerde sauspan (bol) van gietijzer met een schenktuit aan beide zijkanten; pan en handvat in één stuk gegoten.",
+   "Afgeronde zijwanden: gemakkelijk roeren.",
+   "In de fabriek geëmailleerd, klaar voor gebruik; optimale warmtespreiding bij rustig voorverwarmen.",
+   "Spec: geschikt voor barbecue, elektrisch, gas, halogeen, inductie en keramisch.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "802aacb7"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ skillet\\ grillpan\\ met\\ 2\\ grepen\\ ø\\ 26\\ cm\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van hamburgers, groenten of aardappelen in weinig vet.",
+  "bullets": [
+   "Skillet grillpan met twee grepen, van geëmailleerd gietijzer; pan en handvatten in één stuk gegoten.",
+   "Bodem met uitgesproken ribbel, geschikt om te grillen.",
+   "In de fabriek geëmailleerd, klaar voor gebruik; optimale warmtespreiding bij rustig voorverwarmen.",
+   "Spec: geschikt voor elektrisch, gas, halogeen, inductie en keramisch.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "2d2de36d"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ skillet\\ koekenpan\\ ø\\ 25\\ cm\\ gietijzer\\ zwart"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van hamburgers, groenten of aardappelen.",
+  "bullets": [
+   "Skillet koekenpan van geëmailleerd gietijzer met een schenktuit aan beide zijkanten; pan en handvat in één stuk gegoten.",
+   "In de fabriek geëmailleerd, klaar voor gebruik; geschikt voor alle warmtebronnen.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "5e7768cc"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ skillet\\ koekenpan\\ met\\ 2\\ grepen\\ ø\\ 26\\ cm\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van hamburgers, groenten of aardappelen.",
+  "bullets": [
+   "Geëmailleerde skillet koekenpan met twee tegengrepen; pan en handvatten in één stuk gegoten.",
+   "In de fabriek geëmailleerd, klaar voor gebruik; optimale warmtespreiding bij rustig voorverwarmen.",
+   "Spec: geschikt voor elektrisch, gas, halogeen, inductie en keramisch.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "e8ec8015"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ skillet\\ koekenpan\\ met\\ 2\\ grepen\\ ø\\ 26\\ cm\\ voorbehandeld\\ gietijzer\\ "
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van hamburgers, groenten of aardappelen.",
+  "bullets": [
+   "Skillet koekenpan met twee grepen van voorbehandeld gietijzer; pan en handvatten in één stuk gegoten; hoeft niet ingebrand te worden.",
+   "In de fabriek op hoge temperatuur voorbehandeld met plantaardige olie; bij zure ingrediënten nog enkele lagen olie aanbrengen.",
+   "Spec: geschikt voor elektrisch, gas, halogeen, inductie en keramisch.",
+   "Reinigen met warm water en afwasmiddel, direct afdrogen en een dun laagje olie inwrijven (spec: handafwas)."
+  ],
+  "keys": [
+   "ca78b896"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ skillet\\ koekenpan\\ ø\\ 16\\ cm\\ geëmailleerd\\ gietijzer\\ ",
+   "Victoria\\ skillet\\ koekenpan\\ ø\\ 20\\ cm\\ geëmailleerd\\ gietijzer",
+   "Victoria\\ skillet\\ koekenpan\\ ø\\ 30\\ cm\\ geëmailleerd\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van hamburgers, groenten of aardappelen.",
+  "bullets": [
+   "Skillet koekenpan van geëmailleerd gietijzer met een schenktuit aan beide zijkanten; pan en handvat in één stuk gegoten.",
+   "In de fabriek geëmailleerd, klaar voor gebruik; optimale warmtespreiding bij rustig voorverwarmen.",
+   "Spec: geschikt voor elektrisch, gas, halogeen, inductie en keramisch.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "1317a6c5"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ skillet\\ koekenpan\\ ø\\ 16\\ cm\\ voorbehandeld\\ gietijzer\\ ",
+   "Victoria\\ skillet\\ koekenpan\\ ø\\ 20\\ cm\\ voorbehandeld\\ gietijzer\\ ",
+   "Victoria\\ skillet\\ koekenpan\\ ø\\ 30\\ cm\\ voorbehandeld\\ gietijzer\\ "
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bakken van hamburgers, groenten of aardappelen.",
+  "bullets": [
+   "Skillet koekenpan van voorbehandeld gietijzer met een schenktuit aan beide zijkanten; pan en handvat in één stuk gegoten; hoeft niet ingebrand te worden.",
+   "In de fabriek op hoge temperatuur voorbehandeld met plantaardige olie; bij zure ingrediënten nog enkele lagen olie aanbrengen.",
+   "Spec: geschikt voor elektrisch, gas, halogeen, inductie en keramisch.",
+   "Reinigen met warm water en afwasmiddel, direct afdrogen en een dun laagje olie inwrijven (spec: handafwas)."
+  ],
+  "keys": [
+   "0d8d6ea5"
+  ]
+ },
+ {
+  "match": [
+   "Victoria\\ wok\\ ø\\ 35,5\\ cm\\ 5,8\\ liter\\ gietijzer"
+  ],
+  "brandID": "victoria",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bereiden van roerbak-, wok- of stoofgerechten.",
+  "bullets": [
+   "Wok van geëmailleerd gietijzer met twee grepen aan de bovenwand gegoten; diameter 35,5 cm, inhoud 5,8 liter.",
+   "Ronde zijwanden en kleine bodem: geschikt voor zowel kleine als grote bereidingen.",
+   "In de fabriek geëmailleerd, klaar voor gebruik; optimale warmtespreiding bij rustig voorverwarmen.",
+   "Spec: geschikt voor elektrisch, gas, halogeen, inductie en keramisch.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "3e7430a6"
+  ]
+ }
+]

@@ -1,0 +1,465 @@
+[
+ {
+  "match": [
+   "Bamix\\ Baking\\ Box\\ staafmixer\\ 200\\ W\\ wit",
+   "Bamix\\ Baking\\ Box\\ zwart",
+   "Bamix\\ Superbox\\ staafmixerset\\ 30\\ cm\\ kunststof\\ rood",
+   "Bamix\\ Superbox\\ staafmixerset\\ 30\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Complete Bamix-set: Bamix DeLuxe staafmixer 200 W met krulsnoer, hakmolen en minifoodprocessor.",
+   "Onderdelen: processormolen, poederschijf, SliceSy met 6 hulpstukken, standaard, maatbeker 1 liter met handgreep, bekerset, multimes, klopper, menger en vleesmes.",
+   "Met de staafmixer maalt en hakt u noten of maakt u pesto; de SliceSy is een kleine foodprocessor met sikkelmes, raspen en schaven voor onder andere kaas en rauwkost.",
+   "Toerental volgens de tekst 12.000 tot 17.000 toeren per minuut; geleverd met verschillende messen voor verschillende doeleinden.",
+   "Alle producten van Bamix zijn BPA-vrij.",
+   "Reinigen: houd de mixstaaf onder de warme kraan; de losse onderdelen wassen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "1ed4dde7",
+   "159109bf",
+   "daa2a142",
+   "b5a5895e"
+  ],
+  "brandName": "Bamix",
+  "requires": [
+   "Slicesy met 6 hulpstukken"
+  ],
+  "colours": [
+   "wit",
+   "zwart",
+   "rood"
+  ],
+  "mismatches": [
+   {
+    "topic": "Toerental",
+    "websiteSays": "De tekst zegt 12.000 tot 17.000 toeren per minuut; de specificaties van Bamix Baking Box (zwart) zeggen 10.000 tpm, 17.000 tpm.",
+    "note": "Controleer het toerental op de doos.",
+    "only": "Bamix Baking Box"
+   },
+   {
+    "topic": "Toerental",
+    "websiteSays": "De tekst zegt 12.000 tot 17.000 toeren per minuut; de specificaties van Bamix Superbox (rood en zwart) zeggen 10.000 tpm, 16.000 tpm.",
+    "note": "Controleer het toerental op de doos.",
+    "only": "Bamix Superbox staafmixerset 30 cm kunststof"
+   }
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ Batterypack\\ voor\\ Cordless\\ en\\ Cordless\\ Plus\\ staafmixer\\ rood",
+   "Bamix\\ Batterypack\\ voor\\ Cordless\\ en\\ Cordless\\ Plus\\ staafmixer\\ wit",
+   "Bamix\\ Batterypack\\ voor\\ Cordless\\ en\\ Cordless\\ Plus\\ staafmixer\\ zwart"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Extra oplaadbare batterij (Batterypack) voor de Bamix Cordless en Cordless Plus staafmixer: geen wachttijd als de batterij leeg is.",
+   "Capaciteit 25.92 Watt; gaat tot wel 20 minuten mee.",
+   "LED-lampjes bovenop tonen de batterijstatus.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "96a62475",
+   "3cfc4b64",
+   "4e55918c"
+  ],
+  "requires": [
+   "25.92 Watt"
+  ],
+  "colours": [
+   "rood",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ Bundle\\ accessoireset\\ 3\\-delig"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Bamix Bundle accessoireset 3-delig, voor gebruik met een Bamix staafmixer: processormolen van 200 ml met poederschijf en twee mengbekers van 400 en 600 ml met deksel.",
+   "Processormolen voor kleine hoeveelheden droge en natte ingrediënten, zoals noten, kruiden, specerijen, harde kaas, chocolade, knoflook en ui; ook voor pesto en tapenade.",
+   "Met de poederschijf worden kleine hoeveelheden kruiden en specerijen extra fijn gemalen.",
+   "Mengbekers voor sauzen, dressings, marinades en dips; met deksel om de bereiding af te sluiten en te bewaren.",
+   "De mengbekers zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "bcbf7653"
+  ],
+  "requires": [
+   "accessoireset"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ Classic\\ EO\\ 140\\ staafmixer\\ zwart"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Bamix Classic EO 140 staafmixer, vermogen 140 watt, 10.000 tot wel 16.000 toeren per minuut.",
+   "Voor het malen, kloppen en mengen van soepen, sauzen, tapenades en het hakken van kaas.",
+   "Wordt geleverd met een klopper, een multimes en een menger.",
+   "Bediening met twee knoppen voor verschillende snelheden.",
+   "Reinigen: houd de roestvrijstalen mixstaaf onder warm water."
+  ],
+  "keys": [
+   "f750f800"
+  ],
+  "requires": [
+   "Classic EO 140"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ Cordless\\ Plus\\ draadloze\\ staafmixer\\ 34\\ cm\\ rood",
+   "Bamix\\ Cordless\\ Plus\\ draadloze\\ staafmixer\\ 34\\ cm\\ wit",
+   "Bamix\\ Cordless\\ Plus\\ draadloze\\ staafmixer\\ 34\\ cm\\ zwart"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Bamix Cordless Plus draadloze staafmixer van kunststof, lengte 34 cm.",
+   "Twee standen plus boosterfunctie: stand 1 tot 8.000 toeren, stand 2 tot 14.000 toeren, booster tot 15.000 toeren per minuut.",
+   "Een opgeladen batterij gaat tot 20 minuten mee.",
+   "Wordt geleverd met oplaadstation en 3 mesjes: multimes, klopschijf en menger.",
+   "Alle producten van Bamix zijn BPA-vrij.",
+   "Reinigen: houd de mixstaaf onder de warme kraan; de losse onderdelen wassen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "ab4c2f12"
+  ],
+  "requires": [
+   "boosterstand"
+  ],
+  "colours": [
+   "rood",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ hakker\\ ø\\ 11\\ cm\\ acryl\\ transparant",
+   "Bamix\\ processor\\ ø\\ 12\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het malen en pureren van ingrediënten.",
+  "bullets": [
+   "Bamix hakker (hakbak/hakmolen): accessoire dat past op alle Bamix staafmixers, ongeacht leeftijd of type.",
+   "Voor het fijnhakken van droge ingrediënten zoals chocolade, koffiebonen, gedroogde specerijen, noten en kaas; ook voor het pureren van mierikswortel, knoflook of chili.",
+   "Ingrediënten in de kom, deksel erop, staafmixer op de as: in enkele seconden fijngehakt.",
+   "BPA-vrij.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a9e54631",
+   "463f484f"
+  ],
+  "requires": [
+   "hakker"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ klopper\\ voor\\ staafmixer\\ ø\\ 3,5\\ cm\\ rvs"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het luchtig opkloppen van eiwit, slagroom en sabayon.",
+  "bullets": [
+   "Bamix klopper (accessoire van roestvrij staal) voor het opkloppen van eiwit, slagroom, sabayon of melk.",
+   "Past op alle Bamix staafmixers, ongeacht type of leeftijd.",
+   "Het schijfje staat schuin ten opzichte van de as en slaat zo lucht in het mengsel.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "1a208e14"
+  ],
+  "requires": [
+   "klopper"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ mixerhulpstuk\\ voor\\ staafmixer\\ ø\\ 3,5\\ cm\\ rvs"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het emulgeren van sauzen met een Bamix staafmixer.",
+  "bullets": [
+   "Bamix mixerhulpstuk (emulgeerschijfje van roestvrij staal): voor mayonaise en andere sauzen.",
+   "De opengewerkte structuur zorgt voor een snelle emulsie en gaat schiften tegen.",
+   "Past op alle Bamix staafmixers, ongeacht type of leeftijd.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "69c5e726"
+  ],
+  "requires": [
+   "mixerhulpstuk"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ poederschijf\\ accessoire\\ ø\\ 10\\ cm\\ kunststof"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het vermalen van droge ingrediënten, zoals kaneel, peper of suiker tot poeder.",
+  "bullets": [
+   "Bamix poederschijf (powderdisk) van kunststof, accessoire voor de Bamix.",
+   "Voor het fijnmalen van kruiden en specerijen, zoals gedroogde salie, kardemom of kaneel.",
+   "Volgens de tekst hittebestendig van -20 tot +70 °C.",
+   "BPA-vrij.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "3d30bc05"
+  ],
+  "requires": [
+   "powderdisk"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ Luxury\\ Line\\ The\\ Queen\\ 200\\ W\\ 24\\-karaats\\ goud"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Bamix Luxury Line The Queen: gemaakt van 24 karaats goud en geheel met de hand samengesteld.",
+   "Vermogen 200 Watt, 12.000 tot wel 17.000 toeren per minuut.",
+   "Wordt geleverd met klopper, menger, multimes en vleesmes, standaard, processormolen en poederschijf, maatbeker en bekerset.",
+   "Reinigen: houd de mixstaaf onder de warme kraan; de losse onderdelen met warm water en afwasmiddel. Tik de Bamix niet af op de rand van een kom of pan."
+  ],
+  "keys": [
+   "a7501cfd"
+  ],
+  "requires": [
+   "Queen"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ M200\\ BBQ\\-box\\ Grill\\ \\&\\ Chill\\ staafmixer\\ 34\\ cm\\ zwart"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Bamix M200 BBQ-box (Grill & Chill): M200 staafmixer van zwart kunststof, lengte 34 cm, vermogen 200 Watt.",
+   "Wordt geleverd met 4 mesjes (hakmesje, emulgeerschijf, klopschijf en vleesmesje), standaard, processormolen, powderdisk, bekerset, schort en een receptenboek met barbecue-inspiratie.",
+   "Het sikkelvormige vleesmes is bedoeld voor het malen van vlees voor tartaar en paté.",
+   "M200-uitvoering met extra lang krulsnoer.",
+   "Toerental volgens de tekst 10.000 tot 18.000 toeren per minuut.",
+   "BPA-vrij.",
+   "Reinigen: houd de mixstaaf onder de warme kraan; de losse onderdelen wassen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "0b77e579"
+  ],
+  "requires": [
+   "BBQ-box"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ M200\\ Deluxe\\ staafmixer\\ zwart"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Bamix M200 Deluxe staafmixer van zwart kunststof, lengte 34 cm, vermogen 200 Watt, 10.000 tot 16.000 toeren per minuut.",
+   "Set: staafmixer, standaard, klopper, menger, multimes en hakmolen.",
+   "Snoerlengte 1,9 meter.",
+   "BPA-vrij.",
+   "Reinigen: houd de mixstaaf onder de warme kraan; de losse onderdelen met warm water en afwasmiddel. Tik de staafmixer nooit af op de rand van een pan of kom."
+  ],
+  "keys": [
+   "550f7f29"
+  ],
+  "requires": [
+   "snoerlengte van 1,9 meter"
+  ],
+  "mismatches": [
+   {
+    "topic": "Snoerlengte",
+    "websiteSays": "De specificaties tonen bij Snoerlengte alleen het getal 27119; de tekst zegt 1,9 meter.",
+    "note": "Waarschijnlijk een opmaakfout (datum) op de website."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ Oplaadstation\\ voor\\ Cordless\\ en\\ Cordless\\ Plus\\ staafmixer\\ rood",
+   "Bamix\\ Oplaadstation\\ voor\\ Cordless\\ en\\ Cordless\\ Plus\\ staafmixer\\ wit",
+   "Bamix\\ Oplaadstation\\ voor\\ Cordless\\ en\\ Cordless\\ Plus\\ staafmixer\\ zwart"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Oplaadstation voor de Bamix Cordless en Cordless Plus staafmixer, horizontaal.",
+   "Fast Charging-functie: de batterij is snel weer opgeladen.",
+   "Een opgeladen batterij gaat tot wel 20 minuten mee; LED-lampjes bovenop de staafmixer tonen de batterijstatus.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "1232e33b",
+   "f8036fa5",
+   "af499d06"
+  ],
+  "requires": [
+   "Fast Charging"
+  ],
+  "colours": [
+   "rood",
+   "wit",
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ SliceSy\\ hak\\-\\ en\\ raspset\\ ø\\ 15\\ cm\\ kunststof\\ zwart\\ 11\\-del"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Bamix SliceSy hak- en raspset: met een Bamix staafmixer erop wordt het een foodprocessor.",
+   "Bak van wit kunststof met zwarte deksel, antislipbasis onder de bak.",
+   "Komt met 5 raspen (in een kunststof schijf), een extra scherp dubbel mes met beschermhoesje en een pusher.",
+   "Te gebruiken voor vlees, vis en groenten.",
+   "BPA-vrij.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "a7569ab1"
+  ],
+  "requires": [
+   "SliceSy"
+  ],
+  "mismatches": [
+   {
+    "topic": "Kleur",
+    "websiteSays": "De naam en de specificaties zeggen zwart; de tekst zegt \"De bak is vervaardigd uit wit kunststof met een zwarte deksel\".",
+    "note": "Controleer de kleur."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ Swissline\\ M200\\ staafmixer\\ kunststof\\ zilver"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Bamix Swissline staafmixer in zilver (kunststof), lengte 34 cm, vermogen 200 Watt, 12.000 tot wel 17.000 toeren per minuut.",
+   "Voor het malen en hakken van noten of het maken van pesto.",
+   "Wordt geleverd met processormolen, standaard, maatbeker 1 liter met handgreep en multimes, klopper, hakmolen en menger.",
+   "2 snelheden; snoerlengte 1,9 meter.",
+   "BPA-vrij.",
+   "Reinigen: houd de mixstaaf onder de warme kraan; de losse onderdelen wassen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "f154c055"
+  ],
+  "requires": [
+   "Swissline"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ Swissline\\ staafmixer\\ 200\\ W\\ Red\\ Swiss\\ Cross"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Bamix Swissline staafmixer in rood met Zwitsers kruis, vermogen 200 Watt, 12.000 tot wel 17.000 toeren per minuut.",
+   "Voor het malen en hakken van noten of het maken van pesto.",
+   "Wordt geleverd met processormolen, standaard, maatbeker 1 liter met handgreep en multimes, klopper en menger.",
+   "BPA-vrij.",
+   "Reinigen: houd de mixstaaf onder de warme kraan; de losse onderdelen wassen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "83e575cf"
+  ],
+  "requires": [
+   "Zwitsers kruis"
+  ]
+ },
+ {
+  "match": [
+   "Bamix\\ To\\ Go\\ staafmixer\\ 200\\ W\\ crème"
+  ],
+  "brandID": "bamix",
+  "typeIDs": [
+   "mixers"
+  ],
+  "suitedFor": "Voor het bereiden van verse smoothies, dips, soep of saus.",
+  "bullets": [
+   "Bamix To Go set: crèmekleurige Bamix Mono staafmixer, 200 watt, met krulsnoer.",
+   "Blend direct in de bijgeleverde dubbelwandige roestvrijstalen thermosbeker en neem je smoothie of soep mee.",
+   "Set bevat ook een receptenboekje voor meeneemgerechten en multimes, klopper, vleesmes en menger.",
+   "Toerental volgens de tekst 11.000 tot 16.000 toeren per minuut.",
+   "BPA-vrij.",
+   "Reinigen: houd de mixstaaf onder de warme kraan; de losse onderdelen wassen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "81751abe"
+  ],
+  "requires": [
+   "thermosbeker"
+  ],
+  "colours": [
+   "crème"
+  ]
+ }
+]

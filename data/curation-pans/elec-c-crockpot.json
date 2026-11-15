@@ -1,0 +1,188 @@
+[
+ {
+  "match": [
+   "Crock\\-Pot\\ 5\\-in\\-1\\ Multi\\ Cooker\\ \\-\\ Slowcooker\\ 5,6\\ liter"
+  ],
+  "brandID": "crockpot",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Crock-Pot 5-in-1 Multi Cooker met functies voor sauteren, slowcooken, braden, bakken en stomen.",
+   "Digitaal display en grote bedieningsknoppen om programma, temperatuur en tijd in te stellen; instelbaar van 65 °C tot 230 °C of op een automatische opwarmfunctie.",
+   "Aluminium binnenpan met anti-aanbaklaag, inhoud 5,6 liter: éénpansgerechten voor maximaal 6 personen.",
+   "Slow-cooking: langzaam opwarmen tot 95 °C; timer 30 minuten tot 12 uur, daarna warmhoudstand. Braden en bakken: 65 tot 230 °C.",
+   "Sauteerfunctie met 5 temperatuuropties."
+  ],
+  "keys": [
+   "883e1b93"
+  ],
+  "brandName": "Crock-Pot",
+  "requires": [
+   "5-in-1"
+  ]
+ },
+ {
+  "match": [
+   "Crock\\-Pot\\ CR052\\ slowcooker\\ 4,7\\ liter\\ "
+  ],
+  "brandID": "crockpot",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Crock-Pot digitale slowcooker CR052, 4,7 liter, voor maaltijden voor 4 à 5 personen.",
+   "Uitneembare ovenbestendige (en magnetronbestendige) aardewerken binnenpot met glazen deksel; behuizing van metaal.",
+   "2 standen, Low en High, programmeerbare timer en warmhoudstand; het glazen deksel heeft een scharnier aan de achterzijde.",
+   "Slowcooken neemt over het algemeen 3 tot 10 uur in beslag; schema met kooktijden in de gebruiksaanwijzing.",
+   "Schaal en deksel zijn vaatwasmachinebestendig; behuizing afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "d48ae547"
+  ],
+  "requires": [
+   "scharnier"
+  ]
+ },
+ {
+  "match": [
+   "Crock\\-Pot\\ CR112\\ Sizzle\\ \\&\\ Stew\\ slowcooker\\ 6,5\\ liter"
+  ],
+  "brandID": "crockpot",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Crock-Pot CR112 Sizzle & Stew slowcooker, uitneembare aluminium binnenpan van 6,5 liter, voor circa 6 tot 8 personen.",
+   "De binnenpan is geschikt voor gas-, keramische, inductie- en elektrische kookplaten: eerst aanbraden, dan terug in de slowcooker.",
+   "Twee kookstanden (Low en High) en een automatische warmhoudstand; kooktijd programmeerbaar via het digitale display (doorgaans 4 tot 10 uur).",
+   "Glazen deksel om het garen te volgen zonder warmteverlies.",
+   "Binnenpan en deksel reinigen met warm water en afwasmiddel of in de afwasmachine; buitenzijde met een licht vochtige doek.",
+   "Let op: 24 uur op kamertemperatuur laten komen na ontvangst, anders kan de binnenpan beschadigen of barsten."
+  ],
+  "keys": [
+   "bb222e68"
+  ],
+  "requires": [
+   "Sizzle & Stew"
+  ]
+ },
+ {
+  "match": [
+   "Crock\\-Pot\\ CR113\\ digitale\\ slowcooker\\ 3,5\\ liter\\ zwart"
+  ],
+  "brandID": "crockpot",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Crock-Pot digitale slowcooker CR113, 3,5 liter, voor maaltijden voor 4 personen.",
+   "Uitneembare ovenbestendige aardewerken binnenpot met deksel; behuizing van metaal.",
+   "Programmeerbare timer tot 20 uur; daarna warmhoudstand, die zich na 6 uur uitschakelt.",
+   "2 standen, Low en High; one-touch knoppen.",
+   "Schaal en deksel zijn vaatwasmachinebestendig; behuizing afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "ae14e91e"
+  ],
+  "requires": [
+   "one-touch"
+  ]
+ },
+ {
+  "match": [
+   "Crock\\-Pot\\ CR507\\ digitale\\ slowcooker\\ 4,7\\ liter\\ metaal\\ zwart\\ "
+  ],
+  "brandID": "crockpot",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Crock-Pot digitale slowcooker CR507, 4,7 liter, voor maaltijden voor 4 à 5 personen.",
+   "Uitneembare ovenbestendige aardewerken binnenpot met deksel; behuizing van metaal.",
+   "Programmeerbare timer tot 20 uur; daarna warmhoudstand, die zich na 6 uur uitschakelt.",
+   "2 standen, Low en High; one-touch knoppen.",
+   "Schaal en deksel zijn vaatwasmachinebestendig; behuizing afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "2949401e"
+  ],
+  "requires": [
+   "one-touch"
+  ]
+ },
+ {
+  "match": [
+   "Crock\\-Pot\\ digitale\\ slowcooker\\ 5,7\\ liter\\ rvs\\ zwart"
+  ],
+  "brandID": "crockpot",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Crock-Pot digitale slowcooker van roestvrij staal, 5,7 liter, voor 6 personen.",
+   "Uitneembare oven- en magnetronbestendige aardewerken binnenpot met glazen deksel.",
+   "Programmeerbare timer tot 20 uur; daarna automatisch warmhoudstand, die zich na 6 uur uitschakelt.",
+   "2 standen, Low en High; one-touch knoppen.",
+   "Schaal en deksel zijn vaatwasmachinebestendig; behuizing afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "60e2cfa6"
+  ],
+  "requires": [
+   "one-touch"
+  ]
+ },
+ {
+  "match": [
+   "Crock\\-Pot\\ CR111\\ Sizzle\\ \\&\\ Stew\\ digitale\\ slowcooker\\ 3,5\\ liter"
+  ],
+  "brandID": "crockpot",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Crock-Pot CR111 Sizzle & Stew digitale slowcooker, aluminium binnenpan van 3,5 liter, voor 3 à 4 personen.",
+   "Vlees eerst aanbraden op het fornuis (binnenpan voor gas, elektrisch, keramisch, halogeen en inductie), na afkoelen in de Crock-Pot verder laten garen.",
+   "Digitaal bedieningssysteem om de bereidingstijd te programmeren; 2 kookstanden (Low en High) en een warmhoudstand.",
+   "Voor stoofgerechten, draadjesvlees en het trekken van bouillons.",
+   "Binnenpan en deksel reinigen met warm water en afwasmiddel; behuizing met een vochtige doek.",
+   "Let op: 24 uur op kamertemperatuur laten komen na ontvangst, anders kan de binnenpan beschadigen of barsten."
+  ],
+  "keys": [
+   "0bdb33c0"
+  ],
+  "requires": [
+   "Sizzle & Stew"
+  ]
+ },
+ {
+  "match": [
+   "Crock\\-Pot\\ Time\\ Select\\ CR066\\ slowcooker\\ 5,6\\ liter"
+  ],
+  "brandID": "crockpot",
+  "typeIDs": [
+   "slow-multicookers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Crock-Pot Time Select CR066 slowcooker, 5,6 liter, voor 5 à 6 personen.",
+   "Uitneembare ovenbestendige binnenpot van aardewerk met glazen deksel; behuizing van metaal.",
+   "Programmeerbare eindtijd: bij het inschakelen stelt u de gewenste eindtijd in en het soort ingrediënt (vlees, gevogelte, soep of groente); de Crock-Pot bepaalt het garingstraject.",
+   "Schaal en deksel zijn vaatwasmachinebestendig; behuizing afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "523aa6ba"
+  ],
+  "requires": [
+   "eindtijd"
+  ]
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "match": [
+   "Magimix\\ Power\\ Blender\\ 5\\ XL\\ 2\\ liter\\ rvs\\ mat\\ chroom"
+  ],
+  "brandID": "magimix",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Magimix Power Blender 5 XL, 1500 Watt, glazen mengbeker van 2 liter; behuizing van roestvrij staal in mat chroom.",
+   "5 snelheden en een pulseknop; voor ijsblokken tot gestampt ijs, smoothies, soepen en desserts.",
+   "Automatische reinigingsfunctie; lichtdichte deksel met dop met maatverdeling.",
+   "Glazen kom met dikke hittebestendige wand en maataanduiding (cups, fl. oz, liters en pints).",
+   "Geleverd met een receptenboekje; gratis app voor Apple en Android.",
+   "Glazen mengkan is vaatwasmachinebestendig; afneembare bodem en mes met warm water en afwasmiddel reinigen, motorbehuizing met een vochtige doek."
+  ],
+  "keys": [
+   "0232ce55"
+  ],
+  "brandName": "Magimix",
+  "requires": [
+   "BlenderMix"
+  ],
+  "mismatches": [
+   {
+    "topic": "Merk ontbreekt",
+    "websiteSays": "Deze pagina heeft geen merk in de lijst; de naam begint met Magimix.",
+    "note": "Merk is door ons als Magimix gezet."
+   }
+  ]
+ }
+]

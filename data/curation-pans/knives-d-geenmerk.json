@@ -1,0 +1,92 @@
+[
+ {
+  "match": [
+   "Global\\ G\\-666/09\\ messentas\\ voor\\ 9\\ messen\\ zwart"
+  ],
+  "brandID": "global",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het opbergen en vervoeren van uw messen.",
+  "bullets": [
+   "Global messentas G-666/09 van zwart textiel (naam: voor 9 messen).",
+   "Stoer design; gaat dicht met een klittenbandsluiting, zodat de tas veilig dicht zit."
+  ],
+  "keys": [
+   "abd5300e"
+  ],
+  "brandName": "Global",
+  "mismatches": [
+   {
+    "topic": "Aantal messen",
+    "websiteSays": "Naam: \"voor 9 messen\"; beschrijving: \"opbergen en vervoeren van 10 messen\"",
+    "note": "Controleer hoeveel messen er in de tas passen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Nogent\\ Daily\\ gekarteld\\ tafelmes\\ 11\\ cm\\ zwart"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Ontworpen voor het snijden van vlees, groenten en andere gerechten aan tafel.",
+  "bullets": [
+   "Gekarteld tafelmes met een zwart handvat van polypropyleen; karteling voor extra grip en gelijkmatige sneden zonder ingrediënten samen te drukken.",
+   "Afgeronde punt voor extra veiligheid aan tafel; compact formaat en licht handvat.",
+   "Nogent Daily-serie; wordt geproduceerd in Frankrijk. Vaatwasmachinebestendig of reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "92d954b1"
+  ],
+  "brandName": "Nogent",
+  "mismatches": [
+   {
+    "topic": "Serie: Daily of Classic",
+    "websiteSays": "Naam: \"Nogent Daily\"; eerste alinea: \"Nogent Classic gekarteld tafelmes\"",
+    "note": "Controleer of dit een Daily- of Classic-mes is."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Cristel\\ messenblok\\ 23\\ x\\ ø\\ 10,5\\ cm\\ beukenhout"
+  ],
+  "brandID": "cristel",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Cilindrisch messenblok van beukenhout met een uitneembare binnenkant van polypropyleen die zorgt dat uw messen niet beschadigen of dof worden.",
+   "De binnenkant is uitneembaar en schoon te maken met een droge doek."
+  ],
+  "keys": [
+   "7dc2f934"
+  ],
+  "brandName": "Cristel"
+ },
+ {
+  "match": [
+   "De\\ Buyer\\ Ultra\\ Mandoline\\ rvs"
+  ],
+  "brandID": "debuyer",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Ultra (Revolution) mandoline van roestvrij staal met een dubbel horizontaal mes: een gladde en een gegolfde (micro-gekartelde) kant, voor zowel stevige als zachte groenten en citrus.",
+   "Het vlakke mes snijdt van flinterdunne plakjes tot plakken van maximaal 10 millimeter dikte.",
+   "Wordt geleverd met een dubbelzijdig horizontaal mes, 3 julienne-inzetstukken (2, 4 en 10 mm), een vingerbeschermer in rvs, een ingrediëntenhouder en een houder voor de julienne messen.",
+   "Blokjes en ruiten snijden kan met het gepatenteerde Cube-systeem in 2, 4 en 10 millimeter.",
+   "Te plaatsen onder een hoek door de voetsteunen uit te klappen, met ruimte voor een kom of snijplank eronder. Het frame is vaatwasmachinebestendig; de messen reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "9395695c"
+  ],
+  "brandName": "De Buyer"
+ }
+]

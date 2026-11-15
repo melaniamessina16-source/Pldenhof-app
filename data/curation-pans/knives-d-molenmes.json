@@ -1,0 +1,80 @@
+[
+ {
+  "match": [
+   "Robert\\ Herder\\ Molenmes\\ macadamia\\-olie\\ met\\ citroenolie\\ 20\\ ml"
+  ],
+  "brandID": "molenmes",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Om het houten heft van uw carbonstalen molenmes te onderhouden.",
+  "bullets": [
+   "Robert Herder houtolie voor molenmessen: koudgeperste notenolie van macadamia-olie (90%) met citroenolie (10%), in een flesje.",
+   "Druppel een beetje olie op een katoenen doek en wrijf het heft goed in; laat het hout bij voorkeur 24 uur rusten zodat de olie goed kan intrekken."
+  ],
+  "keys": [
+   "1219b689"
+  ],
+  "brandName": "Molenmes"
+ },
+ {
+  "match": [
+   "Robert\\ Herder\\ molenmes\\ roestgum"
+  ],
+  "brandID": "molenmes",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Voor het wegboenen van roestvlekken en verkleuringen op molenmessen van carbonstaal.",
+  "bullets": [
+   "Robert Herder roestgum voor molenmessen. De meeste molenmessen van Robert Herder zijn van carbonstaal en verkleuren door gebruik.",
+   "Gebruik de roestgum droog."
+  ],
+  "keys": [
+   "2c1c5361"
+  ]
+ },
+ {
+  "match": [
+   "Robert\\ Herder\\ molenmes\\ schilmes\\ 8,5\\ cm\\ carbonstaal\\ beukenhout\\ lang\\ heft",
+   "Robert\\ Herder\\ molenmes\\ schilmes\\ 8,5\\ cm\\ carbonstaal\\ kersenhout\\ lang\\ heft"
+  ],
+  "brandID": "molenmes",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het schillen en snijden van groenten en fruit.",
+  "bullets": [
+   "Robert Herder molenmes schilmes met een lemmet van carbonstaal; gestanst uit carbonstaal.",
+   "Extra lang heft van beukenhout of kersenhout (zie productnaam), met klinknagels aan de doorlopende angel bevestigd.",
+   "Het carbonstaal is extra sterk, kan zeer scherp geslepen worden en blijft zeer lang scherp.",
+   "Carbonstaal heeft een hoog koolstofgehalte: het lemmet verkleurt door gebruik, wat het snijden niet belemmert.",
+   "Robert Herder molenmessen zijn zeer dun geslepen (Solinger Dünnschliff): minder weerstand bij het snijden; handmatig blauw gepolijst.",
+   "Voor een lange levensduur het heft regelmatig inoliën. Reinigen met warm water en afwasmiddel; handafwas."
+  ],
+  "keys": [
+   "7c7d6757",
+   "5c1dbb3a"
+  ]
+ },
+ {
+  "match": [
+   "Robert\\ Herder\\ molenmes\\ tourneermes\\ 5,5\\ cm\\ carbonstaal\\ kersenhout",
+   "Robert\\ Herder\\ molenmes\\ tourneermes\\ 5,9\\ cm\\ carbonstaal\\ beukenhout"
+  ],
+  "brandID": "molenmes",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Om groente en fruit tonvormig te snijden (tourneren) vanuit de hand; ook geschikt voor het schillen van groenten en fruit.",
+  "bullets": [
+   "Robert Herder molenmes tourneer- of schilmes met een lemmet van carbonstaal.",
+   "Heft van kersenhout of beukenhout (zie productnaam), met klinknagels aan de doorlopende angel bevestigd.",
+   "Robert Herder molenmessen zijn zeer dun geslepen (Solinger Dünnschliff): minder weerstand bij het snijden; handmatig blauw gepolijst."
+  ],
+  "keys": [
+   "e342bbe9",
+   "d1b8faf9"
+  ]
+ }
+]

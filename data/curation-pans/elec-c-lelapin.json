@@ -1,0 +1,22 @@
+[
+ {
+  "match": [
+   "Le\\ Lapin\\ elektrische\\ waterkoker\\ 1,7\\ liter\\ zwart"
+  ],
+  "brandID": "lelapin",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Le Lapin elektrische waterkoker van roestvrij staal met zwarte coating, 1,7 liter.",
+   "In 1990 ontworpen door Nikolai Carels, geïnspireerd op de vorm van een konijn.",
+   "Houten handvat dat koel blijft; gaat aan met één druk op de knop.",
+   "Reinigen met een vochtige doek; indien nodig de binnenkant ontkalken met een speciale ontkalker."
+  ],
+  "keys": [
+   "1556db6e"
+  ],
+  "brandName": "Le Lapin"
+ }
+]

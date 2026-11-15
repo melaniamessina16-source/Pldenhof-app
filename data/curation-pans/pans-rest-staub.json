@@ -1,0 +1,30 @@
+[
+ {
+  "match": [
+   "Staub\\ braadpan\\ ø\\ 26\\ cm\\ gietijzer\\ Espresso"
+  ],
+  "brandID": "staub",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Ideaal voor soep en stoofgerechten, zoals boeuf bourguignon.",
+  "bullets": [
+   "Ronde Espresso Cocotte braadpan van geëmailleerd gietijzer, diameter 26 cm.",
+   "Emaillelaag binnen en buiten: ondoordringbaar, beschermt tegen voedselzuren en neemt geen smaak, geur of kleur op.",
+   "Gietijzeren deksel met picots (zelfbedruipend): condens valt terug op de bereiding, zodat het eten mals en sappig blijft.",
+   "Geschikt voor inductie en de oven (spec: ook gas, elektrisch, halogeen, keramisch, grill).",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "04e94cab"
+  ],
+  "brandName": "Staub",
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "Tekst: inhoud 5 liter (4- tot 6-persoons); spec Inhoud: 5,2 liter",
+    "note": "Check de inhoud."
+   }
+  ]
+ }
+]

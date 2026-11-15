@@ -1,0 +1,35 @@
+[
+ {
+  "match": [
+   "Aarke\\ waterkoker\\ 1,2\\ liter\\ Matte\\ Black",
+   "Aarke\\ waterkoker\\ 1,2\\ liter\\ Sand",
+   "Aarke\\ waterkoker\\ 1,2\\ liter\\ Stainless\\ Steel"
+  ],
+  "brandID": "aarke",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Aarke waterkoker van roestvrij staal met warmtebestendig handvat, 1,2 liter, 2200 W.",
+   "Temperatuur instelbaar van 40 °C tot 100 °C, met warmhoudfunctie; de LED-indicator geeft aan wanneer het water aan het afkoelen is.",
+   "Volledig roestvrijstalen ontwerp zonder plastic onderdelen, dus BPA-vrij; dubbelwandig.",
+   "Anti-druppel schenktuit en ingebouwde droogkookbeveiliging (schakelt automatisch uit bij te weinig water).",
+   "Reinigen van de buitenkant met een zachte, vochtige doek."
+  ],
+  "keys": [
+   "d6c79aad",
+   "32710e26",
+   "3d07f6de"
+  ],
+  "brandName": "Aarke",
+  "requires": [
+   "dubbelwandig"
+  ],
+  "colours": [
+   "Matte Black",
+   "Sand",
+   "Stainless Steel"
+  ]
+ }
+]

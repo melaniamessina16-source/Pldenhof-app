@@ -1,0 +1,74 @@
+[
+ {
+  "match": [
+   "Vesta\\ Imersa\\ Tower\\ Sous\\-Vide\\ SV330"
+  ],
+  "brandID": "vesta",
+  "typeIDs": [
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vesta Imersa Tower Sous-Vide SV330: dompelaar om een grote bak of pan om te vormen tot een wateroven.",
+   "Verwarmt maximaal 80 liter water, nauwkeurigheid 0,1 °C; temperatuurbereik 5 °C tot 95 °C; 2300 Watt.",
+   "Ingebouwde pomp circuleert het water (10 liter per minuut) voor een gelijkmatige warmteverdeling.",
+   "Bediening via het touchscherm of de smart wifi-app.",
+   "Reinigen met warm water en afwasmiddel; houd display en bedieningspaneel droog (afnemen met een vochtige doek)."
+  ],
+  "keys": [
+   "adbc8bd5"
+  ],
+  "brandName": "Vesta",
+  "requires": [
+   "Imersa Tower"
+  ]
+ },
+ {
+  "match": [
+   "Vesta\\ Profi\\ Vac\\ Pro\\ l\\ Chamber\\ vacumeermachine\\ met\\ droge\\ pomp\\ rvs\\ "
+  ],
+  "brandID": "vesta",
+  "typeIDs": [
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vesta Vac Pro I Chamber kamer-vacuümmachine van roestvrij staal en kunststof, met droge pomp van 580 watt.",
+   "Geschikt voor zowel vloeistoffen als vaste/vochtige etenswaren; de vacuümkamer voorkomt lekken.",
+   "Zak in de machine leggen, deksel sluiten: de machine vacumeert en sluit de zak.",
+   "Droge pomp is onderhoudsvriendelijk en kan langduriger achter elkaar worden gebruikt dan de pompen in kleinere machines; druk -985 mbar.",
+   "Geschikt voor de keuken van een hobbykok en voor kleine restaurants of ander kleinschalig commercieel gebruik.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "ee7abade"
+  ],
+  "requires": [
+   "droge pomp"
+  ]
+ },
+ {
+  "match": [
+   "Vesta\\ Profi\\ Chamber\\ Vac\\ C15\\ vacumeermachine\\ met\\ olie\\ pomp\\ rvs"
+  ],
+  "brandID": "vesta",
+  "typeIDs": [
+   "sous-vide-vacumeren"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Vesta Chamber Vac C15 kamer-vacuümmachine van roestvrij staal en kunststof, met oliepomp van 1000 watt.",
+   "Geschikt voor zowel vloeistoffen als vaste/vochtige etenswaren; de vacuümkamer voorkomt lekken.",
+   "Zak in de machine leggen, deksel sluiten: de machine vacumeert en sluit de zak.",
+   "Oliepomp heeft geregeld een olieverversing nodig; kan langduriger achter elkaar worden gebruikt dan de droge pomp; druk -1009 mbar.",
+   "Geschikt voor de keuken van een hobbykok en voor restaurants of ander commercieel gebruik.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "62b5c777"
+  ],
+  "requires": [
+   "oliepomp"
+  ]
+ }
+]

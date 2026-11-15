@@ -1,0 +1,98 @@
+[
+ {
+  "match": [
+   "Jean\\ Dubost\\ botermes\\ 7\\ cm\\ eikenhout"
+  ],
+  "brandID": "jeandubost",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het smeren van boter of andere etenswaren.",
+  "bullets": [
+   "Botermes van roestvrij staal met heft van eikenhout; lemmet 7 cm.",
+   "Voor het smeren van boter of andere etenswaren.",
+   "Jean Dubost messen worden volledig ontworpen en gemaakt in Thiers, Frankrijk; het bedrijf bestaat sinds 1920.",
+   "Reinigen met warm water en mild afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "e229f88d"
+  ],
+  "brandName": "Jean Dubost"
+ },
+ {
+  "match": [
+   "Jean\\ Dubost\\ botermes\\ 7\\ cm\\ olijfhout"
+  ],
+  "brandID": "jeandubost",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het smeren van boter of andere etenswaren.",
+  "bullets": [
+   "Botermes van roestvrij staal met heft van olijfhout.",
+   "Voor het smeren van boter of andere etenswaren.",
+   "Jean Dubost messen worden volledig ontworpen en gemaakt in Thiers, Frankrijk; het bedrijf bestaat sinds 1920.",
+   "Reinigen met warm water en mild afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "156cd3a9"
+  ]
+ },
+ {
+  "match": [
+   "Jean\\ Dubost\\ kaasmes\\ 10\\ cm\\ olijfhout"
+  ],
+  "brandID": "jeandubost",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Voor het smeren en snijden van kaas.",
+  "bullets": [
+   "Kaasmes van roestvrij staal met heft van olijfhout.",
+   "Voor het smeren en snijden van kaas.",
+   "Jean Dubost messen worden volledig ontworpen en gemaakt in Thiers, Frankrijk; het bedrijf bestaat sinds 1920.",
+   "Reinigen met warm water en mild afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "429fc269"
+  ]
+ },
+ {
+  "match": [
+   "Jean\\ Dubost\\ officemes\\ 9\\ cm\\ olijfhout"
+  ],
+  "brandID": "jeandubost",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van kleine producten, zoals groenten of fruit.",
+  "bullets": [
+   "Officemes van roestvrij staal met heft van olijfhout.",
+   "Voor het snijden van kleine producten, zoals groenten of fruit.",
+   "Jean Dubost messen worden volledig ontworpen en gemaakt in Thiers, Frankrijk; het bedrijf bestaat sinds 1920.",
+   "Reinigen met warm water en mild afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "c38651a9"
+  ]
+ },
+ {
+  "match": [
+   "Jean\\ Dubost\\ officemes\\ op\\ kaart\\ 9\\ cm\\ eikenhout"
+  ],
+  "brandID": "jeandubost",
+  "typeIDs": [
+   "keukenmessen"
+  ],
+  "suitedFor": "Voor het snijden van allerlei kleine producten.",
+  "bullets": [
+   "Officemes op kaart, van roestvrij staal met heft van eikenhout.",
+   "Voor het snijden van allerlei kleine producten.",
+   "Jean Dubost messen worden volledig ontworpen en gemaakt in Thiers, Frankrijk; het bedrijf bestaat sinds 1920.",
+   "Reinigen met warm water en mild afwasmiddel, goed afdrogen."
+  ],
+  "keys": [
+   "5375efb1"
+  ]
+ }
+]

@@ -1,0 +1,43 @@
+[
+ {
+  "match": [
+   "Blendtec\\ Designer\\ 650\\ Power\\ Blender\\ 2,8\\ liter\\ Black",
+   "Blendtec\\ Designer\\ 650\\ Power\\ Blender\\ 2,8\\ liter\\ Pomegranate"
+  ],
+  "brandID": "blendtec",
+  "typeIDs": [
+   "blenders-juicers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Blendtec Designer 650 power blender, 1550 W, 3 PK motor; mengkom van BPA-vrij kunststof met inhoud 2,8 liter en maataanduiding.",
+   "8 standen, pulsefunctie, 6 automatische programma's (onder andere smoothies, bevroren desserts en warme soepen) en een digitale timer.",
+   "Lasergesneden messen van gehard roestvrij staal.",
+   "Voor pureren, hakken en blenden: smoothies, soepen, sappen, beslag, kruidenboter en marinades.",
+   "Behuizing reinigen met een vochtige doek; de beker reinigen door hem half te vullen met warm water en afwasmiddel en 30 tot 60 seconden te laten draaien."
+  ],
+  "keys": [
+   "a50aa7ac"
+  ],
+  "brandName": "Blendtec",
+  "requires": [
+   "3 PK motor"
+  ],
+  "colours": [
+   "Black",
+   "Pomegranate"
+  ],
+  "mismatches": [
+   {
+    "topic": "Bediening",
+    "websiteSays": "De eerste alinea zegt \"dankzij het touchscreen\", de rest van de tekst zegt \"kunststof behuizing met 6 knoppen\".",
+    "note": "Controleer of de bediening een touchscreen of knoppen is."
+   },
+   {
+    "topic": "Afmetingen",
+    "websiteSays": "De tekst zegt 39,6 x 17,6 x 23,5 cm (l x b x h); de specificaties zeggen Lengte 23,5, Breedte 17,6, Hoogte 39,5 cm.",
+    "note": "Lengte en hoogte staan omgewisseld en 39,6 versus 39,5."
+   }
+  ]
+ }
+]

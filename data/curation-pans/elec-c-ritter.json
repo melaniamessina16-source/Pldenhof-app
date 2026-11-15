@@ -1,0 +1,129 @@
+[
+ {
+  "match": [
+   "Ritter\\ Elexa\\ 7\\ inklapbare\\ snijmachine\\ metaal"
+  ],
+  "brandID": "ritter",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van tal van voedingsmiddelen, zoals groente, fruit, vlees en brood.",
+  "bullets": [
+   "Ritter Elexa 7 inklapbare snijmachine van metaal met opvouwbare serveertafel; 65 W.",
+   "Compact: 34 x 10 x 20 cm (lxbxh), 3,6 kg; ingeklapt amper 10 cm breed.",
+   "Moment- en continue werking, met twee vingers in te schakelen.",
+   "Snijdikte traploos van flinterdunne plakjes tot 14 mm.",
+   "Compleet geleverd met gekarteld mes en uitgebreide handleiding.",
+   "Reinigen met warm water, een geschikt reinigingsmiddel en een vochtige doek; mes en slede zijn eenvoudig te ontgrendelen en te verwijderen."
+  ],
+  "keys": [
+   "b457d1fc"
+  ],
+  "brandName": "Ritter",
+  "requires": [
+   "serveertafel"
+  ]
+ },
+ {
+  "match": [
+   "Ritter\\ Lupo\\ 13\\ snijmachine\\ metaal"
+  ],
+  "brandID": "ritter",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van vleeswaren, brood of andere producten op verschillende diktes.",
+  "bullets": [
+   "Ritter Lupo 13 professionele snijmachine van zilverkleurig metaal, 41 x 32,5 x 26,5 cm.",
+   "Veiligheidsschakelaar, duurschakelaar en elektronische snelheidsregeling.",
+   "Compleet geleverd met gekarteld mes en uitgebreide handleiding.",
+   "Snijdikte volgens de tekst in te stellen van 0 tot 22 mm.",
+   "Reinigen met warm water, een geschikt reinigingsmiddel en een vochtige doek; mes en slede zijn eenvoudig te ontgrendelen en te verwijderen."
+  ],
+  "keys": [
+   "25c3b24d"
+  ],
+  "requires": [
+   "duurschakelaar"
+  ],
+  "mismatches": [
+   {
+    "topic": "Snijdikte",
+    "websiteSays": "De tekst zegt \"in te stellen van 0 tot 22 mm\"; de specificaties zeggen Snijdikte 0 - 20 mm.",
+    "note": "Controleer de maximale snijdikte op de doos of in de handleiding."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Ritter\\ Orbis\\ 05\\ compacte\\ snijmachine\\ kunststof"
+  ],
+  "brandID": "ritter",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van tal van voedingsmiddelen, zoals groente, fruit, vlees en brood.",
+  "bullets": [
+   "Ritter Orbis 05 compacte snijmachine van witte kunststof met afneembare en deelbare slede; 65 W.",
+   "Compact: 34 x 10,5 x 21 cm (lxbxh), 1,7 kg; ingeklapt amper 10,5 cm breed.",
+   "Veiligheidsschakelaar en elektronische snelheidsregeling.",
+   "Snijdikte traploos van flinterdunne plakjes tot 14 mm.",
+   "Compleet geleverd met getand mes en uitgebreide handleiding.",
+   "Reinigen met warm water, een geschikt reinigingsmiddel en een vochtige doek; mes en slede zijn eenvoudig te ontgrendelen en te verwijderen."
+  ],
+  "keys": [
+   "a5b4c3f9"
+  ],
+  "requires": [
+   "deelbare slede"
+  ]
+ },
+ {
+  "match": [
+   "Ritter\\ Secura\\ 9\\ professionele\\ snijmachine\\ metaal"
+  ],
+  "brandID": "ritter",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van tal van voedingsmiddelen, zoals groente, fruit, vlees en brood.",
+  "bullets": [
+   "Ritter Secura 9 professionele snijmachine van zilverkleurig metaal met afneembare slede; 130 W.",
+   "Formaat 37 x 30 x 24,5 cm (lxbxh), 5,3 kg; lichte kanteling in de schuifglijbaan voor grotere en zwaardere ingrediënten.",
+   "Veiligheidsschakelaar, duurschakelaar en elektronische snelheidsregeling.",
+   "Snijdikte traploos van flinterdunne plakjes tot 23 mm.",
+   "Compleet geleverd met gekarteld mes en uitgebreide handleiding.",
+   "Reinigen met warm water, een geschikt reinigingsmiddel en een vochtige doek; mes en slede zijn eenvoudig te ontgrendelen en te verwijderen."
+  ],
+  "keys": [
+   "e934ddf6"
+  ],
+  "requires": [
+   "Secura 9"
+  ]
+ },
+ {
+  "match": [
+   "Ritter\\ Sinus\\ 1\\ snijmachine\\ metaal"
+  ],
+  "brandID": "ritter",
+  "typeIDs": [
+   "snijmachines"
+  ],
+  "suitedFor": "Voor het snijden van tal van voedingsmiddelen, zoals groente, fruit, vlees en brood.",
+  "bullets": [
+   "Ritter Sinus 1 snijmachine van zilverkleurig metaal met bodemplaat van onbreekbaar veiligheidsglas; 65 W.",
+   "Compact: 34,5 x 22 x 26,5 cm (lxbxh), 4,3 kg.",
+   "Veiligheids- en duurschakelaar.",
+   "Snijdikte traploos van flinterdunne plakjes tot 20 mm.",
+   "Compleet geleverd met gekarteld mes, verwijderbare snijlade en uitgebreide handleiding.",
+   "Reinigen met warm water, een geschikt reinigingsmiddel en een vochtige doek."
+  ],
+  "keys": [
+   "89f8990f"
+  ],
+  "requires": [
+   "Sinus 1"
+  ]
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "match": [
+   "Kai\\ keukenschaar\\ 25,5\\ cm\\ messenstaal\\ zwart"
+  ],
+  "brandID": "kai",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor al uw knipwerk in de keuken, van kruiden tot bindtouw.",
+  "bullets": [
+   "Kai keukenschaar, 25,5 cm, van messenstaal (AUS8A-staal, hardheid 58 HRC) met zwart kunststof.",
+   "Voor thuisgebruik én professioneel gebruik.",
+   "Voor al uw knipwerk in de keuken, van kruiden tot bindtouw.",
+   "Met een Duplex Interlock stelschroef die ook bij intensief gebruik niet los kan gaan.",
+   "Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "724688eb"
+  ],
+  "brandName": "Kai",
+  "requires": [
+   "Duplex Interlock"
+  ]
+ }
+]

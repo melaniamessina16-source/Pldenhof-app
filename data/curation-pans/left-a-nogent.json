@@ -1,0 +1,25 @@
+[
+ {
+  "match": [
+   "Nogent\\ Daily\\ paletmes\\ met\\ knik\\ 15\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "nogent",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het keren, optillen en verplaatsen van ingrediënten tijdens het koken.",
+  "bullets": [
+   "Nogent Daily paletmes met knik, 15 cm blad van roestvrij staal, zwart handvat van polypropyleen.",
+   "Voor het keren, optillen en verplaatsen van ingrediënten tijdens het koken; ook om groenten, vlees en vis om te draaien of op te scheppen.",
+   "De knik geeft extra ruimte tussen hand en bakoppervlak; het compacte formaat is handig bij kleinere bereidingen en pannen.",
+   "Vaatwasmachinebestendig, of reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "2697ed4f"
+  ],
+  "brandName": "Nogent",
+  "requires": [
+   "knik in het paletmes"
+  ]
+ }
+]

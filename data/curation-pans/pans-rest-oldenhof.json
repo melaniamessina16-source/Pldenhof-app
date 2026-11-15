@@ -1,0 +1,334 @@
+[
+ {
+  "match": [
+   "Oldenhof\\ braadslede\\ 40\\ x\\ 26\\ x\\ 7\\ cm\\ gietijzer\\ rood"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor ovengerechten als lasagne en moussaka, en op de kookplaat voor het aanbraden van braadstukken, deglaceren voor jus of als rechthoekige koekenpan.",
+  "bullets": [
+   "Rode braadslede/ovenschaal van gietijzer, aan de binnen- en buitenzijde dubbel geëmailleerd: kleur-, geur- en smaakneutraal.",
+   "Verdeelt de warmte over het hele oppervlak en houdt veel warmte vast, zodat gerechten op tafel lang warm blijven.",
+   "Te gebruiken in de oven en op gas-, elektrische en inductiekookplaten (mits de inductiekookplaat geschikt is voor rechthoekige pannen).",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "c451414b"
+  ],
+  "brandName": "Oldenhof",
+  "mismatches": [
+   {
+    "topic": "Warmtebronnen",
+    "websiteSays": "Spec Geschikt voor: gas, inductie; tekst: oven, gas, elektrisch en inductie",
+    "note": "Spec noemt niet alle warmtebronnen uit de tekst."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ braadslede\\ met\\ rooster\\ 31\\ x\\ 22,5\\ cm\\ rvs",
+   "Oldenhof\\ braadslede\\ met\\ rooster\\ 37\\ x\\ 28,5\\ cm\\ rvs",
+   "Oldenhof\\ braadslede\\ met\\ rooster\\ 40\\ x\\ 29,3\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het bereiden van bijvoorbeeld vlees, gevogelte en groenten in de oven.",
+  "bullets": [
+   "Braadslede van roestvrij staal met uitneembaar rooster en stevig geklonken handgrepen.",
+   "Op het rooster ligt vlees of gevogelte boven de bodem, zodat vet en braadvocht eronder worden opgevangen.",
+   "Zonder rooster te gebruiken voor geroosterde aardappelen, groenten en andere ovengerechten.",
+   "Braadslede en rooster zijn vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "7f77d660"
+  ]
+ },
+ {
+  "match": [
+   "Chasseur\\ braadpan\\ 4\\ liter\\ ø\\ 24\\ cm\\ gietijzer\\ mat\\ zwart",
+   "Chasseur\\ braadpan\\ 6,1\\ liter\\ ø\\ 28\\ cm\\ gietijzer\\ mat\\ zwart",
+   "Chasseur\\ braadpan\\ 6,1\\ liter\\ ø\\ 28\\ cm\\ gietijzer\\ rood",
+   "Chasseur\\ braadpan\\ 8,8\\ liter\\ ø\\ 32\\ cm\\ gietijzer\\ rood"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het maken van gerechten, bijvoorbeeld soepen of stoofgerechten.",
+  "bullets": [
+   "Oldenhof by Chasseur braadpan van geëmailleerd gietijzer met een matzwarte binnenzijde; ronde pan met gietijzeren deksel.",
+   "Aan binnen- en buitenzijde een duurzame laag email: de pan neemt geen geuren, smaken en kleuren op.",
+   "Gietijzer zorgt voor een gelijkmatige warmteverdeling door de hele pan, ook op laag vuur; het gietijzeren deksel draagt bij aan de warmteverdeling.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en dankzij de hittebestendige roestvrijstalen knop ook voor de oven.",
+   "Levenslange garantie van Chasseur op fabricage- en kwaliteitsdefecten van het gietijzer.",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "70fefe21",
+   "e642d7c5",
+   "9dbeb05e"
+  ],
+  "requires": [
+   "matzwarte binnenzijde"
+  ],
+  "colours": [
+   "mat zwart",
+   "rood"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ crêpepan\\ ø\\ 28\\ cm"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "plaatstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het bakken van crêpes en pannenkoeken.",
+  "bullets": [
+   "Crêpepan van staal met een antikleeflaag en een stalen steel.",
+   "Goede warmtegeleiding; de steel wordt bij goed gebruik niet heet.",
+   "Vaatwasmachinebestendig; voor het beste behoud met de hand afwassen (spec: handafwas)."
+  ],
+  "keys": [
+   "f6c00b42"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal",
+    "websiteSays": "Spec Materiaal: staal (geen type vermeld)",
+    "note": "Ingedeeld als plaatstaal met antiaanbaklaag; check of dat klopt."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Dutch\\ Oven\\ braadpan\\ ø\\ 26\\ cm\\ ongeëmailleerd\\ gietijzer"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bereiden van stoofschotels, soepen, het braden van vlees en het bakken van groenten en vis.",
+  "bullets": [
+   "Dutch Oven van zwart, ongeëmailleerd gietijzer: een braadpan en een koekenpan die precies op elkaar passen.",
+   "Voorbehandeld met plantaardige olie; tijdens gebruik ontwikkelt het gietijzer vanzelf een natuurlijke anti-aanbaklaag.",
+   "Ideaal voor stoofgerechten, soepen, grote stukken vlees, gevogelte en zelfs brood.",
+   "Spec: geschikt voor barbecue, gas, halogeen, keramisch, open vuur en oven.",
+   "Reinigen bij voorkeur met keukenpapier en heet water; pan licht vettig houden; na afwasmiddel inwrijven met een beetje plantaardige olie."
+  ],
+  "keys": [
+   "31ab710e"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Golden\\ Heritage\\ braadslede\\ 33\\ x\\ 23\\ cm\\ staal",
+   "Oldenhof\\ Golden\\ Heritage\\ braadslede\\ 38\\ x\\ 30\\ cm\\ staal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "plaatstaal",
+   "aluminium-antiaanbak"
+  ],
+  "suitedFor": "Voor het in de oven bereiden van diverse gerechten.",
+  "bullets": [
+   "Golden Heritage braadslede (bakblik) van stevig staal met een duurzame goudkleurige anti-aanbaklaag, PFAS-vrij.",
+   "Het dikke staal geeft stevigheid en geleidt de warmte snel en gelijkmatig.",
+   "Spec: geschikt voor de oven en vaatwasmachinebestendig.",
+   "Voor het beste resultaat vooraf invetten met boter, margarine of plantaardige olie."
+  ],
+  "keys": [
+   "97255d38",
+   "b563675f"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ grillpan\\ met\\ 2\\ grepen\\ ø\\ 31\\ cm\\ gietijzer\\ rood"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het grillen van diverse ingrediënten als vlees, vis en groenten.",
+  "bullets": [
+   "Ronde skillet grillpan met 2 grepen, van rood geëmailleerd gietijzer.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie; spec noemt ook de oven.",
+   "Gladde onderkant: voorkomt krassen op een glazen kookplaat.",
+   "Ribbels: vet loopt weg en geven een decoratief effect; de pan geeft warmte vooral af als infraroodstraling.",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "3b4a2e59"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ grillplaat\\ rechthoekig\\ 23\\ x\\ 36\\ cm\\ gietijzer"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het grillen van vlees, vis en groenten.",
+  "bullets": [
+   "Rechthoekige grillplaat van geëmailleerd gietijzer met geribbeld bakoppervlak.",
+   "Geschikt voor gas, elektrisch, keramisch en inductie, en voor de oven.",
+   "Ribbels geven grillstrepen en bieden ruimte voor afvoer van vet en braadvocht; houdt warmte langdurig vast.",
+   "Emaille voorkomt dat het oppervlak vocht, geuren en smaken opneemt; ook geschikt voor zure ingrediënten zoals tomaat en citroensap.",
+   "Op inductie: minimaal vijf minuten voorverwarmen op ongeveer een derde van het maximale vermogen, dan geleidelijk verhogen; boosterfunctie niet gebruiken.",
+   "Reinigen (afgekoeld) met warm water, zachte borstel en eventueel mild afwasmiddel; goed afdrogen."
+  ],
+  "keys": [
+   "c6f9dd99"
+  ],
+  "mismatches": [
+   {
+    "topic": "Materiaal",
+    "websiteSays": "Spec Materiaal: roestvrij staal, gietijzer; naam en tekst: (geëmailleerd) gietijzer",
+    "note": "Check of er ook roestvrij staal in zit."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ lage\\ braadpan\\ ø\\ 31\\ cm\\ gietijzer\\ rood"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor onder meer gehaktballen, risotto's of ovenschotels.",
+  "bullets": [
+   "Lage braadpan van geëmailleerd gietijzer, rond, met deksel en korte handgrepen.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "Emaillelaag beschermt het ijzer en neemt geen smaak of geur op; zeer gladde bodem; gladde laag emaille aan de onderzijde voorkomt krassen op glazen kookplaat.",
+   "Met of zonder deksel te gebruiken als braadpan, hapjespan of ovenschaal.",
+   "Reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "01c582ea"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ mosselpan\\ ø\\ 24\\ cm\\ zwart\\ plaatstaal"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "plaatstaal"
+  ],
+  "suitedFor": "Voor het bereiden en serveren van mosselen.",
+  "bullets": [
+   "Mosselpan van zwart geëmailleerd plaatstaal met een zeer harde emaillelaag: geur- en smaakneutraal en beschermd tegen voedselzuren.",
+   "Onderste deel om de mosselen te bereiden; het bovenste deel is schaal voor de schelpen en deksel.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "87c5cc0f"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ Savoyard\\ caquelon\\ fonduepan\\ ø\\ 24\\ cm\\ gietijzer\\ rood"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het bereiden en serveren van kaasfondue.",
+  "bullets": [
+   "Savoyard caquelon (fonduepan) van dubbel geëmailleerd gietijzer, extreem glad afgewerkt: voorkomt aanbranden en is eenvoudig te reinigen.",
+   "Houdt na verwarmen de temperatuur lang vast; eventueel op een rechaud om de warmte nog langer vast te houden.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie, en de oven.",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "88f8d707"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ skillet\\ grillpan\\ 26\\ x\\ 26\\ cm\\ gietijzer\\ rood"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het grillen van diverse ingrediënten als vlees, vis en groenten.",
+  "bullets": [
+   "Vierkante skillet grillpan met vaste steel en tegengreep, van rood geëmailleerd gietijzer.",
+   "Geschikt voor alle warmtebronnen, inclusief inductie; spec noemt ook de oven.",
+   "Gladde onderkant: voorkomt krassen op een glazen kookplaat.",
+   "Ribbels: vet loopt weg en geven een decoratief effect; de pan geeft warmte vooral af als infraroodstraling.",
+   "Reinigen met warm water en afwasmiddel (spec: handafwas)."
+  ],
+  "keys": [
+   "db299dd6"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ skillet\\ grillpan\\ 26\\ x\\ 26\\ cm\\ ongeëmailleerd\\ gietijzer"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het grillen van vlees, vis en groenten.",
+  "bullets": [
+   "Vierkante skillet grillpan van zwart, ongeëmailleerd gietijzer met tegengreep en schenktuitjes; voorbehandeld met plantaardige olie, direct klaar voor gebruik.",
+   "Ribbels: ingrediënten liggen niet rechtstreeks op de bodem, overtollig vet en vocht lopen weg.",
+   "Geschikt voor o.a. barbecue, oven en open vuur (spec: barbecue, gas, halogeen, keramisch, open vuur, oven).",
+   "Tijdens gebruik ontwikkelt het gietijzer vanzelf een natuurlijke anti-aanbaklaag.",
+   "Reinigen bij voorkeur met keukenpapier en heet water; pan licht vettig houden; na afwasmiddel inwrijven met een beetje plantaardige olie."
+  ],
+  "keys": [
+   "92627df9"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ stoompan\\ met\\ deksel\\ ø\\ 16\\ cm\\ rvs"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "roestvrijstaal"
+  ],
+  "suitedFor": "Voor het stomen van groenten; ook dumplings of bapao.",
+  "bullets": [
+   "Stoompan met deksel van roestvrij staal: hoge kookpan, stoom-inzet en deksel (3-delige set), diameter 16 cm, inhoud 1 liter.",
+   "Dikke capsulebodem; geschikt voor alle warmtebronnen, inclusief inductie.",
+   "Stomen zorgt voor beter behoud van smaak- en voedingsstoffen.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "7c670be2"
+  ]
+ },
+ {
+  "match": [
+   "Oldenhof\\ wok\\ ongeëmailleerd\\ gietijzer"
+  ],
+  "brandID": "oldenhof",
+  "typeIDs": [
+   "gietijzer"
+  ],
+  "suitedFor": "Voor het roerbakken van diverse ingrediënten.",
+  "bullets": [
+   "Wok van ongeëmailleerd gietijzer met aan beide zijkanten een handgreep; pan en handvaten in één stuk gegoten.",
+   "Voor gebruik moet de pan ingebrand worden.",
+   "Gelijkmatige warmteverdeling; onderzijde glanzend geëmailleerd en daardoor ook goed geschikt voor inductie; geschikt voor alle warmtebronnen.",
+   "Reinigen met warm water en afwasmiddel en direct afdrogen (spec: handafwas)."
+  ],
+  "keys": [
+   "f3068fd0"
+  ]
+ }
+]

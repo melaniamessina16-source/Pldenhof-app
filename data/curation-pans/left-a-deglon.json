@@ -1,0 +1,103 @@
+[
+ {
+  "match": [
+   "Deglon\\ Massive\\ paletmes\\ 15\\ cm\\ hout\\ zwart",
+   "Deglon\\ Massive\\ paletmes\\ 18\\ cm\\ hout\\ zwart",
+   "Deglon\\ Massive\\ paletmes\\ 21\\ cm\\ hout\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het afstrijken van taarten of opmaken van gerechten.",
+  "bullets": [
+   "Deglon Massive paletmes met een stijf roestvrijstalen blad, dat veel controle geeft over wat u ermee bewerkt.",
+   "Houten heft met messingbolster: goede balans en op meerdere manieren comfortabel vast te houden.",
+   "Voor het afstrijken van taarten of opmaken van gerechten.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "08c58aac"
+  ],
+  "brandName": "Deglon",
+  "requires": [
+   "messingbolster"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ geknikt\\ paletmes\\ 12\\ cm\\ kunststof\\ zwart"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het afwerken van een afstrijklaag over uw baksel, of als keerspatel in een pan zonder anti-aanbaklaag.",
+  "bullets": [
+   "Deglon geknikt paletmes, 12 cm, van roestvrij staal met een zwart kunststof handgreep.",
+   "Door de knik in het lemmet komen er geen vingerafdrukken in glazuur of crème.",
+   "Voor het afwerken van een afstrijklaag over uw baksel, of als keerspatel in een pan zonder anti-aanbaklaag.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "4ca72608"
+  ],
+  "requires": [
+   "afstrijklaag",
+   "knik in het lemmet"
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ paletmes\\ flexibel\\ 12\\ cm\\ rvs"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor nauwkeurig werk op kleine oppervlakken: decoreren, gladstrijken en aanbrengen van crèmes, glazuren en andere bereidingen.",
+  "bullets": [
+   "Deglon flexibel paletmes van roestvrij staal met een smal, gebogen en flexibel lemmet.",
+   "Ontworpen voor nauwkeurig werk op kleine oppervlakken.",
+   "Het lemmet is geslepen met een aflopende dikte, voor extra flexibiliteit en controle; de gebogen vorm voorkomt dat de hand het werkoppervlak raakt.",
+   "Ergonomische handgreep; vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "1b6340ae"
+  ],
+  "requires": [
+   "aflopende dikte"
+  ],
+  "mismatches": [
+   {
+    "topic": "Naam: lengte",
+    "websiteSays": "De naam zegt \"flexibel 12 cm\"; de specificaties zeggen Lengte 23 cm.",
+    "note": "Waarschijnlijk is 12 cm het lemmet en 23 cm de totale lengte; controleer dit."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Deglon\\ teppan\\ yaki\\ en\\ plancha\\ spatel\\ 14\\ cm\\ rvs\\ zwart",
+   "Deglon\\ teppan\\ yaki\\ en\\ plancha\\ spatel\\ 16\\ cm\\ kunststof\\ zwart\\ rvs"
+  ],
+  "brandID": "deglon",
+  "typeIDs": [
+   "overig-snijgereedschap"
+  ],
+  "suitedFor": "Voor het keren van gerechten op de teppan yaki of plancha.",
+  "bullets": [
+   "Deglon teppan yaki en plancha spatel van rvs met een zwart kunststof handvat.",
+   "Voor het keren van gerechten op de teppan yaki of plancha.",
+   "Het grote, brede blad keert gerechten gemakkelijk om op grote bakplaten.",
+   "Met de relatief scherpe rand steekt u stukken vlees en vis los zonder ze te beschadigen; ook om zachte producten zoals ei en rijst los te maken en klein te hakken.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "b1f4c5b6"
+  ],
+  "requires": [
+   "relatief scherpe rand"
+  ]
+ }
+]

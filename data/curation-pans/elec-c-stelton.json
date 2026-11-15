@@ -1,0 +1,40 @@
+[
+ {
+  "match": [
+   "Stelton\\ EM77\\ waterkoker\\ 1,5\\ liter\\ wit"
+  ],
+  "brandID": "stelton",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Stelton EM77 waterkoker van witte kunststof, 1,5 liter; diameter 13,3 cm, hoogte 25 cm.",
+   "Ontworpen in de klassieke lijn van thermosflessen; ontwerp van de EM-collectie door Erik Magnussen.",
+   "Reinig de buitenzijde met een vochtige doek; periodiek de binnenzijde ontkalken."
+  ],
+  "keys": [
+   "1e8a762a"
+  ],
+  "brandName": "Stelton"
+ },
+ {
+  "match": [
+   "Stelton\\ Emma\\ waterkoker\\ 1,2\\ liter\\ zwart"
+  ],
+  "brandID": "stelton",
+  "typeIDs": [
+   "waterkokers"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Stelton Emma waterkoker van zwart gelakt roestvrij staal met houten handvat, 1,2 liter, 2200 W.",
+   "Krachtig verwarmingselement en losse basis.",
+   "25,5 cm hoog, diameter 16 cm, inclusief tuit en handvat 21 cm breed.",
+   "Reinigen met een vochtige doek; indien nodig ontkalken met een geschikte snelontkalker."
+  ],
+  "keys": [
+   "44d8c32d"
+  ]
+ }
+]

@@ -1,0 +1,104 @@
+[
+ {
+  "match": [
+   "Benriner\\ Catch\\ Japanse\\ mandoline\\ 6,4\\ cm\\ met\\ opvangbank\\ kunststof"
+  ],
+  "brandID": "benriner",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Benriner Japanse mandoline No. 64 met opvangbak van transparante kunststof; de gesneden producten belanden niet over het hele aanrecht.",
+   "Snijvlak van 6,4 cm breed; snijdikte traploos verstelbaar van 0,5 tot 5 mm met de stelschroef aan de onderzijde.",
+   "Inclusief transparant witte vingerbeschermer en drie roestvrijstalen mesjes voor reepjes van 2, 3 en 4 mm breed.",
+   "Maakt gemakkelijk plakjes van groenten en fruit in gelijkmatige dikte.",
+   "Reinigen met warm water en afwasmiddel. (mandoline, mesjes en opvangbak)."
+  ],
+  "keys": [
+   "df45f6a6"
+  ],
+  "brandName": "Benriner",
+  "mismatches": [
+   {
+    "topic": "Kleur",
+    "websiteSays": "Spec: Kleur blauw, gebroken wit; de tekst noemt ivoorkleurig kunststof met transparant witte vingerbeschermer",
+    "note": "Controleer de kleur van het product."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Benriner\\ Japanse\\ mandoline\\ 'Jumbo'\\ No\\.\\ 120\\ kunststof\\ wit"
+  ],
+  "brandID": "benriner",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Benriner Japanse mandoline 'Jumbo' No. 120 van kunststof.",
+   "Snijvlak van 12 cm; snijdikte traploos instelbaar van 0,5 tot 9 mm met de stelschroef aan de onderzijde.",
+   "Voorzien van een handgreep en een vingerbeschermer voor extra houvast en veiligheid.",
+   "Maakt gemakkelijk plakken van groente en fruit in gelijkmatige dikte.",
+   "Reinigen met warm water en afwasmiddel. (mandoline en mesjes)."
+  ],
+  "keys": [
+   "ff19b2f3"
+  ]
+ },
+ {
+  "match": [
+   "Benriner\\ Japanse\\ mandoline\\ No\\.\\ 64\\ kunststof\\ wit"
+  ],
+  "brandID": "benriner",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Benriner Japanse mandoline No. 64 van ivoorkleurig kunststof met transparant witte vingerbeschermer.",
+   "Snijvlak van 6,4 cm breed; snijdikte traploos verstelbaar van 0,5 tot 5 mm met de stelschroef aan de onderzijde.",
+   "Inclusief drie roestvrijstalen mesjes voor reepjes van 2, 3 en 4 mm breed.",
+   "Maakt gemakkelijk plakjes van groenten en fruit in gelijkmatige dikte.",
+   "Reinigen met warm water en afwasmiddel. (mandoline en mesjes)."
+  ],
+  "keys": [
+   "0200782b"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec Snijbreedte",
+    "websiteSays": "Snijbreedte: 26825",
+    "note": "Waarde is geen maat (waarschijnlijk datumfout); de tekst noemt een snijvlak van 6,4 cm."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Benriner\\ Japanse\\ mandoline\\ 'Super'\\ No\\.\\ 95\\ kunststof\\ wit"
+  ],
+  "brandID": "benriner",
+  "typeIDs": [
+   "mandolines"
+  ],
+  "suitedFor": null,
+  "bullets": [
+   "Benriner 'Super' Japanse mandoline No. 95 van kunststof.",
+   "Snijvlak van 9,5 cm breed; snijdikte instelbaar van 0,5 tot 8 mm (volgens de specs traploos via de stelschroef aan de onderzijde).",
+   "Voorzien van een handgreep en een vingerbeschermer voor extra houvast en veiligheid.",
+   "Snijdt plakken en reepjes van groenten, zoals rode biet.",
+   "Reinigen met warm water en afwasmiddel. (mandoline en mesjes)."
+  ],
+  "keys": [
+   "6176580d"
+  ],
+  "mismatches": [
+   {
+    "topic": "Spec Snijbreedte",
+    "websiteSays": "Snijbreedte: 26751",
+    "note": "Waarde is geen maat (waarschijnlijk datumfout); de tekst noemt een snijvlak van 9,5 cm."
+   }
+  ]
+ }
+]

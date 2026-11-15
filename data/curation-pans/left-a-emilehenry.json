@@ -1,0 +1,287 @@
+[
+ {
+  "match": [
+   "Emile\\ Henry\\ BBQ\\ Plancha\\ grill\\ 42,5\\ x\\ 27,5\\ cm\\ zwart"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Voor het bereiden van vlees- en visgerechten van de barbecue.",
+  "bullets": [
+   "Emile Henry BBQ plancha grill van non-poreus, geglazuurd aardewerk; 42,5 x 27,5 cm.",
+   "Geschikt voor vlees- en visgerechten van de barbecue.",
+   "Bestand tegen temperaturen van -20°C tot +270°C: geschikt voor de barbecue, oven, magnetron en vriezer.",
+   "Het materiaal houdt de warmte zeer goed vast.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "978eac5d"
+  ],
+  "brandName": "Emile Henry",
+  "requires": [
+   "non-poreus",
+   "+270"
+  ]
+ },
+ {
+  "match": [
+   "Emile\\ Henry\\ Delight\\ tajine\\ ø\\ 33\\ cm\\ keramiek\\ Grand\\ Cru",
+   "Emile\\ Henry\\ Delight\\ tajine\\ ø\\ 33\\ cm\\ keramiek\\ Slate",
+   "Emile\\ Henry\\ Delight\\ tajine\\ ø\\ 33\\ cm\\ keramiek\\ Jaune\\ Provence",
+   "Emile\\ Henry\\ Delight\\ tajine\\ ø\\ 33\\ cm\\ keramiek\\ Perle",
+   "Emile\\ Henry\\ Delight\\ tajine\\ ø\\ 33\\ cm\\ keramiek\\ Tuscany\\ Orange",
+   "Emile\\ Henry\\ Delight\\ tajine\\ ø\\ 33\\ cm\\ keramiek\\ White"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Voor stoofgerechten voor 6 tot 8 personen.",
+  "bullets": [
+   "Emile Henry Delight tajine, diameter 33 cm, inhoud 4 liter.",
+   "Van vlambestendig, geglazuurd aardewerk.",
+   "Het conische deksel houdt het vocht in de pan.",
+   "Te gebruiken op alle warmtebronnen, inclusief inductie, en in de oven.",
+   "Reinigen met warm water en mild afwasmiddel."
+  ],
+  "keys": [
+   "9f7f7c45",
+   "b2b9593d",
+   "26438abe",
+   "3d97f01d",
+   "b97f6084"
+  ],
+  "requires": [
+   "vlambestendig geglazuurd aardewerk",
+   "inclusief inductie",
+   "warm water en mild afwasmiddel",
+   "6 tot 8 personen"
+  ],
+  "colours": [
+   "Grand Cru",
+   "Slate",
+   "Jaune Provence",
+   "Perle",
+   "Tuscany Orange",
+   "White"
+  ],
+  "mismatches": [
+   {
+    "topic": "Reinigen: handafwas of vaatwasser",
+    "websiteSays": "Specificatie Reiniging: \"handafwas\" bij Grand Cru, Slate, Tuscany Orange en White; \"Vaatwasmachinebestendig\" bij Jaune Provence en Perle. De tekst noemt alleen reinigen met warm water en mild afwasmiddel.",
+    "note": "Dezelfde tajine, maar de pagina's verschillen in de specificatie. Controleer bij de leverancier of de vaatwasser mag."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Emile\\ Henry\\ Delight\\ tajine\\ ø\\ 26\\ cm\\ keramiek\\ zwart"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Voor stoofgerechten voor 4 tot 6 personen.",
+  "bullets": [
+   "Emile Henry Delight tajine, diameter 26 cm, inclusief deksel 18,7 cm hoog, inhoud 1,85 liter (specificaties).",
+   "Van vlambestendig, geglazuurd aardewerk; een vernieuwd type aardewerk dat ook inductiegeschikt is.",
+   "Het conische deksel houdt het vocht in de pan.",
+   "Te gebruiken op alle warmtebronnen, inclusief inductie; specificaties: ook oven, minimaal -20°C en maximaal 350°C.",
+   "Reinigen met warm water en mild afwasmiddel; specificatie: handafwas."
+  ],
+  "keys": [
+   "a2baa048"
+  ],
+  "requires": [
+   "inclusief inductie",
+   "vernieuwd type aardewerk"
+  ],
+  "mismatches": [
+   {
+    "topic": "Inhoud",
+    "websiteSays": "Specificaties: 1,85 liter. Tekst: \"een inhoud van 1,9 liter\".",
+    "note": "Afgeronde waarde; controleer op de verpakking."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Emile\\ Henry\\ tajine\\ ø\\ 27\\ cm\\ keramiek\\ zwart"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Voor stoofmaaltijden voor 4 tot 6 personen.",
+  "bullets": [
+   "Emile Henry tajine, diameter 27 cm, inclusief deksel 20 cm hoog, inhoud 1,8 liter.",
+   "Van vlambestendig, geglazuurd aardewerk; goede warmteverdeling, houdt de warmte lang vast.",
+   "Voor een egale garing van onder meer vis, lam en kip.",
+   "Het conische deksel houdt het vocht in de pan, zodat het niet uitdroogt.",
+   "Voor directe warmtebronnen (gas, elektrisch of keramisch) en desgewenst de oven.",
+   "10 jaar garantie van Emile Henry. Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "0a6f6f8b"
+  ],
+  "requires": [
+   "10 jaar garantie",
+   "vaatwasmachinebestendig"
+  ],
+  "mismatches": [
+   {
+    "topic": "Geschikt voor: warmtebronnen",
+    "websiteSays": "Eerste alinea: \"geschikt voor het gebruik met directe hittebronnen (gas of oven)\". Tweede alinea: \"bedoeld om op directe warmtebronnen (gas, elektrisch of keramisch) te gebruiken, maar kan desgewenst ook in de oven worden gebruikt\". Specificatie: gas, elektrisch, keramisch, halogeen, oven.",
+    "note": "De teksten noemen niet dezelfde warmtebronnen. Controleer bij de leverancier voordat u iets belooft over elektrisch, keramisch of halogeen."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Emile\\ Henry\\ tajine\\ ø\\ 32\\ cm\\ aardewerk\\ rood",
+   "Emile\\ Henry\\ tajine\\ ø\\ 32\\ cm\\ aardewerk\\ zwart"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Voor stoofmaaltijden voor 6 tot 8 personen.",
+  "bullets": [
+   "Emile Henry tajine, diameter 32 cm, inclusief deksel 21 cm hoog, inhoud 2,5 liter.",
+   "Van vlambestendig, geglazuurd aardewerk; goede warmteverdeling, houdt de warmte lang vast.",
+   "Voor een egale garing van onder meer vis, lam en kip.",
+   "Het conische deksel houdt het vocht in de pan, zodat het niet uitdroogt.",
+   "10 jaar garantie van Emile Henry. Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "0e68e2da",
+   "1d418683"
+  ],
+  "requires": [
+   "10 jaar garantie",
+   "vaatwasmachinebestendig"
+  ],
+  "colours": [
+   "rood",
+   "zwart"
+  ],
+  "mismatches": [
+   {
+    "topic": "Geschikt voor: warmtebronnen",
+    "websiteSays": "Specificatie: \"gas, oven\". Eerste alinea: \"geschikt voor gebruik op gas of in de oven\". Tweede alinea: \"bedoeld om op directe warmtebronnen (gas, elektrisch of keramisch) te gebruiken, maar kan desgewenst ook in de oven worden gebruikt\".",
+    "note": "Of elektrisch en keramisch mag, is niet eenduidig. Daarom staan de warmtebronnen niet in de tekst; controleer bij de leverancier."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Emile\\ Henry\\ Papillote\\ vispan\\ 41\\ cm\\ aardewerk\\ Fusain",
+   "Emile\\ Henry\\ Papillote\\ vispan\\ 41\\ cm\\ aardewerk\\ Grand\\ Cru"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Om vis, groenten of kip te bereiden voor twee tot drie personen.",
+  "bullets": [
+   "Emile Henry Papillote vispan, 41 x 24 x 10 cm, inhoud 2,2 liter.",
+   "Van HR-keramiek (High Resistance) van Emile Henry; de ingrediënten garen in hun eigen vocht, zonder vet of olie.",
+   "Diepe schaal met goed sluitend deksel dat stoom vasthoudt.",
+   "Kan rechtstreeks in de oven of magnetron; het keramiek houdt gerechten lang warm, dus u kunt direct aan tafel serveren.",
+   "Met de hand vervaardigd in Bourgondië.",
+   "Vaatwasmachinebestendig."
+  ],
+  "keys": [
+   "68d349f9",
+   "eed93bb1"
+  ],
+  "requires": [
+   "HR®-keramiek",
+   "Bourgondië",
+   "vaatwasmachinebestendig"
+  ],
+  "colours": [
+   "Fusain",
+   "Grand Cru"
+  ]
+ },
+ {
+  "match": [
+   "Emile\\ Henry\\ Sublime\\+\\ braadpan\\ 3\\ liter\\ keramiek\\ Grand\\ Cru",
+   "Emile\\ Henry\\ Sublime\\+\\ braadpan\\ 4\\ liter\\ keramiek\\ Grand\\ Cru",
+   "Emile\\ Henry\\ Sublime\\+\\ braadpan\\ 5,5\\ liter\\ keramiek\\ Grand\\ Cru",
+   "Emile\\ Henry\\ Sublime\\+\\ braadpan\\ 7\\ liter\\ keramiek\\ Grand\\ Cru"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Voor stoofgerechten, soepen en andere langzaam gegaarde bereidingen.",
+  "bullets": [
+   "Sublime+ braadpan van geglazuurd aardewerk (Flame Ceramic keramiek) met een gekleurd deksel.",
+   "Geschikt voor stoofgerechten, soepen en andere langzaam gegaarde bereidingen; ook om aan te braden.",
+   "Het materiaal zorgt voor een gelijkmatige warmteverdeling en houdt de warmte lang vast.",
+   "Volgens de tekst geschikt voor gas, elektrisch en keramisch koken, en voor oven, magnetron en vriezer; kan van het fornuis of uit de oven op tafel.",
+   "Vaatwasmachinebestendig, of reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "b508aee4",
+   "58628392"
+  ],
+  "requires": [
+   "Flame Ceramic",
+   "afwasmachine"
+  ],
+  "colours": [
+   "Grand Cru"
+  ],
+  "mismatches": [
+   {
+    "topic": "Geschikt voor: warmtebronnen",
+    "websiteSays": "De tekst noemt gas, elektrisch en keramisch koken, plus oven, magnetron en vriezer. De specificaties noemen daarnaast inductie, halogeen, grill, koelkast en barbecue.",
+    "note": "Controleer bij de leverancier of de pan op inductie mag voordat u dat aan een klant belooft."
+   }
+  ]
+ },
+ {
+  "match": [
+   "Emile\\ Henry\\ Sublime\\+\\ lage\\ braadpan\\ 4\\ liter\\ keramiek\\ Grand\\ Cr"
+  ],
+  "brandID": "emilehenry",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Voor stoofgerechten, soepen en andere langzaam gegaarde bereidingen.",
+  "bullets": [
+   "Sublime+ lage braadpan van geglazuurd aardewerk (Flame Ceramic keramiek) met een gekleurd deksel; diameter 29 cm, inhoud 4 liter.",
+   "Geschikt voor stoofgerechten, soepen en andere langzaam gegaarde bereidingen; ook om aan te braden.",
+   "Het materiaal zorgt voor een gelijkmatige warmteverdeling en houdt de warmte lang vast.",
+   "Volgens de tekst geschikt voor gas, elektrisch en keramisch koken, en voor oven, magnetron en vriezer; kan van het fornuis of uit de oven op tafel.",
+   "Vaatwasmachinebestendig, of reinigen met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "5339ecfb"
+  ],
+  "requires": [
+   "Flame Ceramic",
+   "afwasmachine"
+  ],
+  "colours": [
+   "Grand Cru",
+   "Grand Cr"
+  ],
+  "mismatches": [
+   {
+    "topic": "Geschikt voor: warmtebronnen",
+    "websiteSays": "De tekst noemt gas, elektrisch en keramisch koken, plus oven, magnetron en vriezer. De specificaties noemen daarnaast inductie, halogeen, grill, koelkast en barbecue.",
+    "note": "Controleer bij de leverancier of de pan op inductie mag voordat u dat aan een klant belooft."
+   },
+   {
+    "topic": "Naam: afgekapt",
+    "websiteSays": "Productnaam eindigt op \"keramiek Grand Cr\"",
+    "note": "De naam op de website is afgekapt (waarschijnlijk Grand Cru, zoals in de tekst)."
+   }
+  ]
+ }
+]

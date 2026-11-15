@@ -1,0 +1,58 @@
+[
+ {
+  "match": [
+   "HK\\ Living\\ 70's\\ KCU0022\\ botermes\\ Lemon\\ 4\\ stuks"
+  ],
+  "brandID": "hkliving",
+  "typeIDs": [
+   "tafel-en-zakmessen"
+  ],
+  "suitedFor": "Om zachte tot halfharde boter te smeren of kleine broodjes te besmeren.",
+  "bullets": [
+   "HK Living 70's botermes Lemon, set van 4 botermessen met roestvrijstalen lemmetten en handgrepen van hars in lemon-kleur.",
+   "Ontworpen voor dagelijks gebruik: ideaal om zachte tot halfharde boter te smeren of kleine broodjes te besmeren.",
+   "Vaatwasmachinebestendig; reinigen met warm water en mild afwasmiddel, afdrogen."
+  ],
+  "keys": [
+   "24864acd"
+  ],
+  "brandName": "HK Living",
+  "requires": [
+   "hars",
+   "halfharde boter"
+  ]
+ },
+ {
+  "match": [
+   "HK\\ Living\\ KCU0019\\ kaasmessenset\\ Sage\\ 3\\-delig",
+   "HK\\ Living\\ KCU0020\\ kaasmessenset\\ Lemon\\ 3\\-delig",
+   "HK\\ Living\\ KCU0025\\ kaasmessenset\\ Cream\\ 3\\-delig"
+  ],
+  "brandID": "hkliving",
+  "typeIDs": [
+   "kaasmessen"
+  ],
+  "suitedFor": "Voor het snijden en presenteren van harde, halfharde en zachte kazen.",
+  "bullets": [
+   "HK Living kaasmessenset, 3-delig: drie kaasmessen met roestvrijstalen lemmetten.",
+   "Elk mes is bedoeld voor het snijden van harde, halfharde of zachte kazen.",
+   "Specificaties: vaatwasmachinebestendig; de teksten raden reinigen met warm water en mild afwasmiddel en goed afdrogen aan."
+  ],
+  "keys": [
+   "bff6a7b1",
+   "324fe297",
+   "b19f04ea"
+  ],
+  "requires": [
+   "kaasmessenset",
+   "harde"
+  ],
+  "mismatches": [
+   {
+    "topic": "Specificatie Lengte",
+    "websiteSays": "De specificaties noemen \"Lengte: 3 cm\" (Sage en Lemon) en \"Lengte: 4 cm\" (Cream) voor een kaasmesje.",
+    "note": "Waarschijnlijk niet de lengte van het mes; geen maat in de tekst opgenomen."
+   }
+  ]
+ }
+]

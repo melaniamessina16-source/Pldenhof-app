@@ -1,0 +1,71 @@
+[
+ {
+  "match": [
+   "Fischer\\ aanzetstaal\\ ovaal\\ 30\\ cm\\ rvs\\ zwart",
+   "Fischer\\ aanzetstaal\\ 30\\ cm\\ rvs\\ zwart"
+  ],
+  "brandID": "fischer",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Om uw messen langer scherp te houden.",
+  "bullets": [
+   "Roestvrijstalen aanzetstaal met een kunststof handgreep.",
+   "Voor het dagelijks onderhoud van uw messen: een aanzetstaal zet de snede opnieuw recht, waardoor het mes minder weerstand heeft bij het snijden.",
+   "Volgens de website: houd het staal met de punt naar beneden op de snijplank, zet de snede in een hoek van 20° bovenaan het staal en trek het mes langzaam naar u toe; circa 5 keer per kant.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet van het mes.",
+   "Handafwas."
+  ],
+  "keys": [
+   "21a30eae"
+  ],
+  "brandName": "Fischer",
+  "colours": [
+   "zwart"
+  ]
+ },
+ {
+  "match": [
+   "Fischer\\ Titanium\\ II\\ aanzetstaal\\ ovaal\\ 30\\ cm"
+  ],
+  "brandID": "fischer",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Ook geschikt voor extra geharde messen.",
+  "bullets": [
+   "Titanium II ovaal aanzetstaal met een extreem harde titanium-nitride-coating (goudkleurig oppervlak); de coating gedraagt zich als keramiek.",
+   "Voor het dagelijks onderhoud van uw messen: een aanzetstaal zet de snede opnieuw recht, waardoor het mes minder weerstand heeft bij het snijden.",
+   "Volgens de website: houd het staal met de punt naar beneden op de snijplank, zet de snede in een hoek van 20° bovenaan het staal en trek het mes langzaam naar u toe; circa 5 keer per kant.",
+   "Aanzetten gaat het beste als het aanzetstaal even lang of langer is dan het lemmet van het mes.",
+   "Afnemen met een vochtige doek."
+  ],
+  "keys": [
+   "b5927703"
+  ]
+ },
+ {
+  "match": [
+   "Fischer\\ Bisbell\\ Classic\\ messenmagneet\\ 45\\ cm\\ aluminium\\ glans"
+  ],
+  "brandID": "fischer",
+  "typeIDs": [
+   "messen-onderhoud"
+  ],
+  "suitedFor": "Om uw messen op een veilige en overzichtelijke manier op te bergen.",
+  "bullets": [
+   "Bisbell Classic messenmagneet van aluminium met smalle magnetische stroken; aan de muur of in een kast te bevestigen.",
+   "Bevestigingsmateriaal wordt meegeleverd. Reinigen met een vochtige doek."
+  ],
+  "keys": [
+   "e2c9b435"
+  ],
+  "mismatches": [
+   {
+    "topic": "Tekst noemt een ander merk",
+    "websiteSays": "Eerste alinea: \"De grijze aluminium messenmagneet van Oldenhof heeft een lengte van...\"",
+    "note": "De eerste alinea noemt Oldenhof; controleer of de tekst bij dit Fischer-product hoort."
+   }
+  ]
+ }
+]

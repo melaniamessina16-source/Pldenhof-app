@@ -1,0 +1,31 @@
+[
+ {
+  "match": [
+   "Spring\\ Eco\\ caquelon\\ /\\ fonduepan\\ ø\\ 24\\ cm\\ mat\\ wit",
+   "Spring\\ Eco\\ caquelon\\ /\\ fonduepan\\ ø\\ 24\\ cm\\ mat\\ zwart"
+  ],
+  "brandID": "spring",
+  "typeIDs": [
+   "keramiek-aardewerk"
+  ],
+  "suitedFor": "Om kaasfondue mee te maken op een rechaud, tot 6 personen.",
+  "bullets": [
+   "Spring Eco caquelon / fonduepan van aardewerk, diameter 24 cm, inhoud 2 liter.",
+   "Met ergonomische handgreep.",
+   "Gebruik op een rechaud om kaasfondue te maken, tot 6 personen.",
+   "Goede warmteretentie: houdt de kaas lang warm.",
+   "Handafwas met warm water en afwasmiddel."
+  ],
+  "keys": [
+   "cb68e661"
+  ],
+  "requires": [
+   "rechaud",
+   "warmteretentie"
+  ],
+  "colours": [
+   "mat wit",
+   "mat zwart"
+  ]
+ }
+]
