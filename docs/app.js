@@ -76,6 +76,7 @@
 
   // ---------- data ----------
   let RAW = null, EN = null;
+  const HIDDEN_GROUPS = new Set(['kassa-groepen']);
   const SKIPKEYS = new Set(['id', 'url', 'image', 'imageURL', 'productURL', 'officialURL', 'originalDescription', 'ean', 'articleNumber', 'colorHex', 'symbol', 'tone', 'kind', 'status']);
   function translate(o, k) {
     if (Array.isArray(o)) return o.map(x => translate(x, k));
@@ -92,6 +93,7 @@
       [RAW, B, Q, TASKS, sage] = await Promise.all([getJSON('data/catalog.json'), getJSON('data/booklet.json').catch(() => ({ groups: [] })),
         getJSON('data/quiz.json').then(q => q.quizzes).catch(() => []), getJSON('data/tasks.json').catch(() => null), getJSON('data/sage.json').catch(() => null)]);
       if (sage) FOLDERS[sage.brandID] = sage;
+      B.groups = B.groups.filter(g => !HIDDEN_GROUPS.has(g.id));   // Meli 15 Nov: till product groups hidden for now
     }
     if (LANG === 'en' && !EN) EN = await getJSON('data/catalog.en.json').catch(() => ({}));
     C = LANG === 'en' ? translate(RAW) : RAW;
@@ -101,6 +103,7 @@
     idx.type = Object.fromEntries(C.typeGuides.map(t => [t.id, t]));
     idx.brand = Object.fromEntries(C.brands.map(b => [b.id, b]));
     idx.product = Object.fromEntries(C.products.map(p => [p.id, p]));
+    idx.raw = Object.fromEntries(RAW.products.map(p => [p.id, p]));
     idx.mm = Object.fromEntries(C.mismatches.map(m => [m.id, m]));
     idx.group = Object.fromEntries(B.groups.map(g => [g.id, g]));
     idx.groupOfCat = Object.fromEntries(B.groups.filter(g => g.categoryID).map(g => [g.categoryID, g]));
@@ -130,13 +133,63 @@
   const openMismatchCount = () => C.mismatches.filter(m => m.status !== 'confirmed' && m.status !== 'resolved').length;
   const QUIZ_PRODUCT = { 'profitec-go-2': 'profitec-go-2-0', 'sage-oracle-jet': 'sage-the-oracle-jet' };
 
+  // product text changed in the app by the developer or a boss wins over the curated website text
+  const edited = p => S.textFor(p.id);
+  const suitedOf = p => { const o = edited(p); return o ? o.suitedFor || '' : p.suitedFor?.text || ''; };
+  const bulletsOf = p => { const o = edited(p); return o ? o.bullets : p.tellTheCustomer; };
+
+  // subgroups inside a type: a spec from the website that splits the type, otherwise a word from the product name
+  const FEATURE_SPEC = { halfautomaat: 'Verwarmingssysteem', volautomaat: 'Koffievorm', 'aluminium-antiaanbak': 'Coating', gietijzer: 'Materiaal',
+    keukenmessen: 'Snedevorm', 'japanse-messen': 'Snedevorm', 'tafel-en-zakmessen': 'Snedevorm', koper: 'Serie', plaatstaal: 'Serie', 'overige-bbq': 'Brandstof' };
+  const KINDS = [
+    [/pannenset|pannenserie|\d-delig|\bset\b/, 'Sets', 'Sets'], [/deksel/, 'Deksels', 'Lids'], [/snelkookpan/, 'Snelkookpannen', 'Pressure cookers'],
+    [/koekenpan|bakpan/, 'Koekenpannen', 'Frying pans'], [/hapjespan|sauteuse|sauteerpan/, 'Hapjespannen en sauteuses', 'Sauté pans'], [/wok/, 'Woks', 'Woks'],
+    [/grillpan|grillplaat|plancha/, 'Grillpannen', 'Grill pans'], [/steelpan|sauspan|melkpan/, 'Steelpannen', 'Saucepans'],
+    [/braadpan|stoofpan|braadslede|cocotte|faitout/, 'Braadpannen en stoofpannen', 'Casseroles'], [/kookpan|soeppan|pastapan|stoompan|kookpot/, 'Kookpannen', 'Stockpots'],
+    [/paella/, 'Paellapannen', 'Paella pans'], [/crêpe|crepe|pannenkoek|poffert|blini/, 'Pannenkoek- en poffertjespannen', 'Pancake pans'],
+    [/messenset|messenblok|\bblok\b/, 'Messensets en messenblokken', 'Knife sets and blocks'], [/santoku/, 'Santoku', 'Santoku'], [/koksmes|chef/, 'Koksmessen', "Chef's knives"],
+    [/broodmes/, 'Broodmessen', 'Bread knives'], [/schilmes|officemes|tourneermes/, 'Schilmessen', 'Paring knives'], [/vleesmes|trancheer|carving/, 'Vleesmessen', 'Carving knives'],
+    [/groentemes|nakiri|usuba/, 'Groentemessen', 'Vegetable knives'], [/filet|fileer/, 'Fileermessen', 'Filleting knives'], [/uitbeen/, 'Uitbeenmessen', 'Boning knives'],
+    [/steakmes/, 'Steakmessen', 'Steak knives'], [/tomatenmes/, 'Tomatenmessen', 'Tomato knives'], [/kaasmes/, 'Kaasmessen', 'Cheese knives'],
+    [/wetsteen|slijpsteen|slijper|aanzet/, 'Slijpen en aanzetten', 'Sharpening'], [/schaar/, 'Scharen', 'Scissors'], [/magneet|messenstrip/, 'Magneetstrips', 'Magnetic strips'],
+    [/handmixer/, 'Handmixers', 'Hand mixers'], [/staafmixer/, 'Staafmixers', 'Stick blenders'], [/standmixer|keukenmachine|keukenrobot/, 'Keukenmachines', 'Stand mixers'],
+    [/blender/, 'Blenders', 'Blenders'], [/sapcentrifuge|slowjuicer|juicer/, 'Sapcentrifuges en juicers', 'Juicers'], [/citruspers/, 'Citruspersen', 'Citrus presses'],
+    [/teamaker|tea maker/, 'Teamakers', 'Tea makers'], [/waterkoker|kettle/, 'Waterkokers', 'Kettles'], [/broodrooster/, 'Broodroosters', 'Toasters'],
+    [/wafel/, 'Wafelijzers', 'Waffle irons'], [/tosti/, 'Tosti-ijzers', 'Sandwich makers'], [/contactgrill|grill/, 'Grills', 'Grills'],
+    [/tamper/, 'Tampers', 'Tampers'], [/uitklop|knock/, 'Uitklopbakken', 'Knock boxes'], [/melkopschuim|melkkan|melkpitcher/, 'Melkopschuimers en melkkannen', 'Milk frothers and jugs'],
+    [/mokapot|moka|percolator/, 'Mokapotten', 'Moka pots'], [/cafeti[eè]re|french press|coffee press/, 'Cafetières', 'French presses'], [/filter/, 'Filters', 'Filters'],
+    [/koffiemolen|grinder/, 'Koffiemolens', 'Grinders'], [/thermometer/, 'Thermometers', 'Thermometers'], [/hoes|cover/, 'Hoezen', 'Covers'],
+    [/houtskool|briket/, 'Houtskool en briketten', 'Charcoal'], [/rookhout|chunks|chips|rookplank/, 'Rookhout', 'Smoking wood'], [/pizza/, 'Pizza', 'Pizza'],
+    [/rooster|grid|grate/, 'Roosters', 'Grids'], [/tang|spatel|vork/, 'Tangen en spatels', 'Tongs and spatulas'], [/handschoen/, 'Handschoenen', 'Gloves'],
+    [/aansteker|aanmaak|starter/, 'Aansteken', 'Lighting'], [/borstel|reinig|schoonmaak/, 'Schoonmaken', 'Cleaning'], [/tafel|onderstel|nest|stand/, 'Tafels en onderstellen', 'Tables and stands']];
+  function subgroupOf(p, typeID) {
+    const raw = idx.raw[p.id] || p;
+    const lab = FEATURE_SPEC[typeID];
+    if (lab) { const i = (raw.specs || []).findIndex(x => x.label === lab);
+      if (i >= 0) { const v = String((p.specs || [])[i]?.value || raw.specs[i].value).trim(); return { key: 'spec:' + v.toLowerCase(), label: v.charAt(0).toUpperCase() + v.slice(1) }; }
+      return { key: 'zz', label: L(`${lab} niet vermeld`, 'Not stated on the website'), last: true }; }
+    const n = String(raw.name || '').toLowerCase(); const k = KINDS.find(([re]) => re.test(n));
+    return k ? { key: 'kind:' + k[1], label: L(k[1], k[2]) } : { key: 'zz', label: L('Overig', 'Other'), last: true };
+  }
+  // products of one type split into subgroups (only when that gives at least 2 groups)
+  function subgroups(list, typeID) {
+    const m = new Map();
+    list.forEach(p => { const g = subgroupOf(p, typeID); if (!m.has(g.key)) m.set(g.key, { ...g, list: [] }); m.get(g.key).list.push(p); });
+    const gs = [...m.values()].sort((a, b) => (a.last ? 1 : 0) - (b.last ? 1 : 0) || b.list.length - a.list.length || a.label.localeCompare(b.label));
+    return gs.length > 1 ? gs : [{ key: 'all', label: '', list }];
+  }
+  // a grid of product photos; tap one for the normal product page
+  const photoGrid = list => `<div class="pgrid">${list.map(p => `<a class="pcard" href="#/p/${esc(p.id)}"><div class="pcard-img"><img loading="lazy" src="${esc(productImg(p))}" alt="">${outCount(p) ? `<span class="flagdot corner">${IC('flag')}</span>` : ''}</div>
+    <div class="pcard-name">${esc(p.name)}</div>${p.variants.length > 1 ? `<div class="pcard-sub">${p.variants.length} ${L('kleuren', 'colours')}</div>` : ''}</a>`).join('')}</div>`;
+  const groupedGrid = (list, typeID) => subgroups(list, typeID).map(g => `${g.label ? `<div class="subhead"><span>${esc(g.label)}</span><span class="faint">${g.list.length}</span></div>` : ''}${photoGrid(g.list)}`).join('');
+
   // ---------- components ----------
   function productRow(p, sub) {
     const out = outCount(p);
     return `<a class="row" href="#/p/${esc(p.id)}">
       <img class="thumb" loading="lazy" src="${esc(productImg(p))}" alt="">
       <div class="grow"><div class="name">${esc(p.name)}</div>
-        <div class="sub">${esc(sub ?? (p.suitedFor?.text || ''))}</div>
+        <div class="sub">${esc(sub ?? suitedOf(p))}</div>
         ${out ? `<div style="margin-top:6px"><span class="pill neg">${out === p.variants.length ? L('Uitverkocht', 'Out of stock') : L(`${out} kleur${out > 1 ? 'en' : ''} uitverkocht`, `${out} colour${out > 1 ? 's' : ''} out of stock`)}</span></div>` : ''}
       </div>${chev}</a>`;
   }
@@ -298,14 +351,50 @@
   }
   function openMenu() { const m = document.getElementById('menu'); m.innerHTML = menuHTML(); m.classList.add('open'); }
   function closeMenu() { document.getElementById('menu').classList.remove('open'); }
+  // swipe to the right opens the side menu, swipe to the left closes it (not "go back")
+  (() => {
+    let x0 = null, y0 = 0, t0 = 0, skip = false;
+    document.addEventListener('touchstart', e => {
+      if (e.touches.length !== 1) { x0 = null; return; }
+      const t = e.touches[0]; x0 = t.clientX; y0 = t.clientY; t0 = Date.now();
+      // leave sideways-scrolling rows (tables, shelves, chips) and open dialogs alone
+      skip = !!e.target.closest('.ctable-wrap,.shelf,.chips,.seg,.swatches,#dlg.open,input,textarea') || document.body.classList.contains('gate');
+    }, { passive: true });
+    document.addEventListener('touchend', e => {
+      if (x0 == null || skip) return;
+      const t = e.changedTouches[0]; const dx = t.clientX - x0, dy = t.clientY - y0; x0 = null;
+      if (Math.abs(dx) < 60 || Math.abs(dy) > Math.abs(dx) * 0.6 || Date.now() - t0 > 800) return;
+      const open = document.getElementById('menu').classList.contains('open');
+      if (dx > 0 && !open) openMenu(); else if (dx < 0 && open) closeMenu();
+    }, { passive: true });
+  })();
 
   // ---------- dialog ----------
   function openDialog(html) { const d = document.getElementById('dlg'); d.innerHTML = `<div class="dlg-backdrop" data-act="closedlg"></div><div class="dlg-card">${html}</div>`; d.classList.add('open'); setTimeout(() => d.querySelector('input,textarea')?.focus(), 50); }
   function closeDialog() { document.getElementById('dlg').classList.remove('open'); }
 
+  async function saveText(productID, suited, bullets, reset) {
+    const r = await S.saveText(productID, suited, bullets, reset);
+    if (r && !r.error) { closeDialog(); toast(reset ? L('Websitetekst teruggezet', 'Website text put back') : L('Tekst opgeslagen', 'Text saved')); route(); return; }
+    const why = { offline: L('Geen internet. Probeer het opnieuw als je online bent.', 'No internet. Try again when you are online.'),
+      setup: L('Dit is nog niet ingesteld in de database (supabase-texts.sql).', 'This is not set up in the database yet (supabase-texts.sql).'),
+      forbidden: L('Alleen de developer en bazen kunnen teksten aanpassen.', 'Only the developer and bosses can change texts.'),
+      login: L('Log opnieuw in.', 'Log in again.') }[r?.error] || L('Opslaan mislukt.', 'Saving failed.');
+    toast(why);
+  }
+
   // ---------- views ----------
   const views = {};
 
+  // one tile per brand (same style as the department tiles), with the photo of one of its products
+  function brandTiles() {
+    const count = {}; const first = {};
+    C.products.forEach(p => { count[p.brandID] = (count[p.brandID] || 0) + 1; if (!first[p.brandID]) first[p.brandID] = p; });
+    return C.brands.filter(b => count[b.id] || FOLDERS[b.id]).sort((a, b) => a.name.localeCompare(b.name))
+      .map(b => { const n = count[b.id] || 0; const cats = new Set(C.products.filter(p => p.brandID === b.id).map(p => idx.type[p.typeIDs[0]]?.categoryID).filter(Boolean));
+        return `<a class="tile btile" href="#/b/${esc(b.id)}"><div class="tile-top"><span class="bimg">${first[b.id] ? `<img loading="lazy" src="${esc(productImg(first[b.id]))}" alt="">` : IC('tag')}</span><span class="tile-arrow">${IC('arrow')}</span></div>
+          <div><div class="label">${esc(b.name)}</div><div class="count">${n} ${n === 1 ? L('product', 'product') : L('producten', 'products')}${cats.size > 1 ? ` · ${cats.size} ${L('afdelingen', 'departments')}` : ''}</div></div></a>`; }).join('');
+  }
   views.home = () => {
     const a = S.account; const n = openMismatchCount();
     const h = new Date().getHours();
@@ -325,11 +414,8 @@
       <div class="tiles">${B.groups.map((g, i) => {
         const np = g.categoryID ? productsOfCat(g.categoryID).length : 0;
         return `<a class="tile" href="#/g/${esc(g.id)}"><div class="tile-top">${icon(g.id, i)}<span class="tile-arrow">${IC('arrow')}</span></div><div><div class="label">${esc(LT(g.title))}</div><div class="count">${np ? `${np} ${L('producten', 'products')} · ` : ''}${g.topics.length ? `${g.topics.length} ${g.topics.length > 1 ? L('onderwerpen', 'topics') : L('onderwerp', 'topic')}` : ''}</div></div></a>`; }).join('')}</div>
-      <div class="section-title"><h2>${L('Merken', 'Brands')}</h2><span class="muted small">${L('overzicht en vergelijken', 'overview and compare')}</span></div>
-      <div class="chips">${C.brands.map(b => ({ b, n: C.products.filter(p => p.brandID === b.id).length })).filter(x => x.n || FOLDERS[x.b.id]).sort((x, y) => y.n - x.n)
-        .map(({ b, n }) => `<a class="chip" href="#/b/${esc(b.id)}">${esc(b.name)} <span class="faint">${n}</span></a>`).join('')}</div>
-      <div class="section-title"><h2>${L('Alle producten', 'All products')}</h2><a href="#/zoek">${L('Zoeken', 'Search')} →</a></div>
-      <div class="shelf">${C.products.map(p => `<a class="shelf-item" href="#/p/${esc(p.id)}"><div class="shelf-img"><img loading="lazy" src="${esc(productImg(p))}" alt="">${outCount(p) ? `<span class="flagdot corner">${IC('flag')}</span>` : ''}</div><div class="small">${esc(p.name)}</div></a>`).join('')}</div>
+      <div class="section-title"><h2>${L('Merken', 'Brands')}</h2><a href="#/zoek">${L('Zoeken', 'Search')} →</a></div>
+      <div class="tiles brands">${brandTiles()}</div>
       <p class="faint small" style="text-align:center;margin-top:24px">${L('Werkt zonder internet · Productinformatie van kookwinkel.nl en het informatieboekje', 'Works offline · Product information from kookwinkel.nl and the information booklet')} · ${esc(fmtDate(C.generatedOn))}</p>`;
   };
 
@@ -464,20 +550,29 @@
   views.brand = ([typeID, brandID]) => {
     const b = idx.brand[brandID]; if (!b) return notFound();
     const t = typeID ? idx.type[typeID] : null;
-    const prods = C.products.filter(p => p.brandID === brandID && (!t || p.typeIDs.includes(typeID)));
+    const all = C.products.filter(p => p.brandID === brandID);
+    const prods = t ? all.filter(p => p.typeIDs.includes(typeID)) : all;
     const F = !t || t.id === 'halfautomaat' ? FOLDERS[brandID] : null;
-    const types = t ? [t.id] : [...new Set(prods.map(p => p.typeIDs[0]))].filter(x => idx.type[x]);
-    const byType = types.map(x => ({ t: idx.type[x], list: t ? prods : prods.filter(p => p.typeIDs[0] === x) })).filter(g => g.list.length);
+    // department (catalog category) > type > products
+    const typeIDs = [...new Set(prods.map(p => p.typeIDs[0]))].filter(x => idx.type[x]);
+    const cats = C.categories.map(c => ({ c, types: typeIDs.filter(x => idx.type[x].categoryID === c.id).map(x => ({ t: idx.type[x], list: prods.filter(p => p.typeIDs[0] === x) })) }))
+      .filter(x => x.types.length);
+    const direct = t || typeIDs.length === 1 || prods.length <= 8;   // small brand or one type: show the photos straight away
+    const typeTile = (x, i) => `<a class="tile btile" href="#/t/${esc(x.t.id)}/b/${esc(brandID)}"><div class="tile-top"><span class="bimg"><img loading="lazy" src="${esc(productImg(x.list[0]))}" alt=""></span><span class="tile-arrow">${IC('arrow')}</span></div>
+      <div><div class="label">${esc(x.t.name)}</div><div class="count">${x.list.length} ${x.list.length === 1 ? L('product', 'product') : L('producten', 'products')}</div></div></a>`;
+    const body = !prods.length ? `<div class="empty">${L('Nog geen producten van dit merk in de app.', 'No products from this brand in the app yet.')}</div>`
+      : direct ? cats.map(x => x.types.map(y => `${!t && (cats.length > 1 || x.types.length > 1) ? `<h2>${esc(y.t.name)}</h2>` : ''}${groupedGrid(y.list, y.t.id)}`).join('')).join('')
+      : cats.map(x => `<div class="section-title"><h2>${esc(x.c.name)}</h2><span class="muted small">${x.types.reduce((n, y) => n + y.list.length, 0)}</span></div>
+          <div class="tiles">${x.types.map(typeTile).join('')}</div>`).join('');
     return `${top(t ? t.name : L('Merk', 'Brand'))}<div class="hero"><div class="eyebrow">${t ? esc(t.name) : L('Merkoverzicht', 'Brand overview')}</div><h1>${esc(b.name)}</h1>
         <div class="pills" style="margin-top:12px"><span class="pill">${prods.length} ${L('in de app', 'in the app')}</span>${F ? `<span class="pill">${F.models.length} ${L('modellen in de folder', 'models in the folder')}</span>` : ''}
+        ${t ? `<a class="pill" href="#/b/${esc(brandID)}">${L(`Alles van ${esc(b.name)}`, `All ${esc(b.name)}`)} →</a>` : ''}
         ${b.officialURL ? `<a class="pill accent" href="${esc(b.officialURL)}" target="_blank" rel="noopener">${L('Officiële website', 'Official website')} ↗</a>` : ''}</div></div>
+      ${body}
       ${F ? `<h2>${L('Het hele assortiment in 3 niveaus', 'The whole range in 3 levels')}</h2><p class="muted small" style="margin-top:-6px">${esc(LT(F.title))}. ${L('Tik een machine aan, of kies er een paar met ✓ om te vergelijken.', 'Tap a machine, or pick a few with ✓ to compare.')}</p>
         ${folderLevels(F, true)}${folderFormula(F)}
         <a class="btn ghost block" href="#/folder/${esc(brandID)}" style="margin:12px 0 4px">${IC('compare')} ${L('Hele vergelijkingstabel', 'Full comparison table')}</a>
         <div class="source">${L('Bron', 'Source')}: ${esc(LT(F.source))}</div>` : ''}
-      ${prods.length ? `<div class="section-title"><h2>${L('In de app', 'In the app')}</h2><span class="muted small">${L('✓ = vergelijken', '✓ = compare')}</span></div>
-        ${byType.map(g => `${byType.length > 1 ? `<div class="small muted" style="margin:14px 2px 8px">${esc(g.t.name)}</div>` : ''}<div class="list">${g.list.map(p => pickRow(p)).join('')}</div>`).join('')}`
-        : `<div class="empty">${L('Nog geen producten van dit merk in de app.', 'No products from this brand in the app yet.')}</div>`}
       ${cmpBar()}`;
   };
   // the whole folder as one table
@@ -569,9 +664,9 @@
     return `${top(brand?.name)}
       <div class="photo"><img src="${esc(v.image)}" alt="${esc(p.name + ' ' + v.colorName)}">
         ${out ? `<span class="pill neg flag">${IC('flag')} ${L('Niet op voorraad', 'Out of stock')}</span>` : ''}
-        <button class="photo-act" data-act="pmenu" data-v="${esc(v.id)}" aria-label="${L('Notitie, onjuistheid of voorraad melden', 'Add a note, report an inaccuracy or stock')}">${IC('plus')}</button></div>
+        <button class="photo-act" data-act="pmenu" data-v="${esc(v.id)}" aria-label="${L('Notitie, onjuistheid of voorraad melden', 'Add a note, report an inaccuracy or stock')}">${IC('dots')}</button></div>
       <div class="hero" style="margin-top:0"><div class="eyebrow">${p.typeIDs.map(t => esc(idx.type[t]?.name || t)).join(' · ')}</div>
-        <h1>${esc(p.name)}</h1>${p.suitedFor ? `<p class="muted">${esc(p.suitedFor.text)}</p>` : ''}
+        <h1>${esc(p.name)}</h1>${suitedOf(p) ? `<p class="muted">${esc(suitedOf(p))}</p>` : ''}
         <div class="pills" style="margin-top:12px">${brand ? `<a class="pill" href="#/b/${esc(brand.id)}">${IC('tag')} ${L(`Alles van ${esc(brand.name)}`, `All ${esc(brand.name)}`)} →</a>` : ''}
           <button class="pill ${cmp.has('p:' + p.id) ? 'accent' : ''}" data-act="pick" data-k="p:${esc(p.id)}">${IC('compare')} ${cmp.has('p:' + p.id) ? L('Gekozen om te vergelijken', 'Picked to compare') : L('Vergelijk', 'Compare')}</button></div></div>
       ${p.variants.length > 1 ? `<div class="card tight"><div class="small muted">${L('Kleur', 'Colour')}: <b style="color:var(--text)">${esc(v.colorName)}</b></div>
@@ -587,7 +682,10 @@
       ${notes.length ? `<div class="card good"><h3>${IC('pencil')} ${L('Goed om te weten', 'Good to know')}</h3>
         ${notes.map(n => `<div class="note">${esc(n.text)}<div class="meta"><span>${esc(n.author)} · ${esc(fmtTime(n.createdAt))}${n.variantID ? ` · ${L('alleen', 'only')} ${esc(idx.variant[n.variantID]?.v.colorName || '')}` : ''}</span>
           ${S.canDeleteNote(n) ? `<button class="faint" data-act="delnote" data-id="${esc(n.id)}">${L('Verwijder', 'Delete')}</button>` : ''}</div></div>`).join('')}</div>` : ''}
-      <div class="card"><h3>${L('Kort voor de klant', 'In short for the customer')}</h3><ul class="bullets">${p.tellTheCustomer.map(b => `<li>${esc(b)}</li>`).join('')}</ul>${p.autoText ? `<p class="small muted" style="margin:8px 0 0">${L('Zinnen letterlijk uit de websitetekst gehaald; nog niet door een collega nagelezen.', 'Sentences taken word for word from the website text; not yet checked by a colleague.')}</p>` : ''}${source(p.source)}</div>
+      <div class="card"><div class="card-h"><h3>${L('Kort voor de klant', 'In short for the customer')}</h3>${isManager() ? `<button class="pill" data-act="textdlg" data-p="${esc(p.id)}">${IC('pencil')} ${L('Bewerk', 'Edit')}</button>` : ''}</div>
+        <ul class="bullets">${bulletsOf(p).map(b => `<li>${esc(b)}</li>`).join('')}</ul>
+        ${edited(p) ? `<p class="small muted" style="margin:8px 0 0">${L(`Tekst aangepast door ${esc(edited(p).author || '')}, ${esc(fmtTime(edited(p).updatedAt))}. De websitetekst staat onder ‘Originele tekst van de website’.`, `Text changed by ${esc(edited(p).author || '')}, ${esc(fmtTime(edited(p).updatedAt))}. The website text is under ‘Original website text’.`)}</p>`
+          : `${p.autoText ? `<p class="small muted" style="margin:8px 0 0">${L('Zinnen letterlijk uit de websitetekst gehaald; nog niet door een collega nagelezen.', 'Sentences taken word for word from the website text; not yet checked by a colleague.')}</p>` : ''}${source(p.source)}`}</div>
       ${mismatchCard(p.mismatchIDs)}
       ${p.specs?.length ? `<div class="card"><h3 style="margin-bottom:12px">${L('Specificaties', 'Specifications')}</h3><dl class="kv">${p.specs.map(s => `<dt>${esc(s.label)}</dt><dd>${esc(s.value)}</dd>`).join('')}</dl>${source(p.source)}</div>` : ''}
       <details class="card"><summary>${L('Originele tekst van de website', 'Original website text (Dutch)')}</summary><p class="orig">${esc(p.originalDescription)}</p>
@@ -871,6 +969,7 @@
       openDialog(`<h3>${esc(x.p.name)}</h3><p class="small muted" style="margin:0 0 12px">${L('Kleur', 'Colour')}: ${cn}</p><div class="sheet">
         ${opt('notedlg', 'pencil', L('Productnotitie', 'Product note'), L('Goed om te weten. Staat boven ‘Kort voor de klant’.', 'Good to know. Shown above ‘In short for the customer’.'))}
         ${opt('issuedlg', 'alert', L('Onjuistheid melden', 'Report an inaccuracy'), L('Komt in het rapport voor de developer en bazen.', 'Goes to the report for the developer and bosses.'))}
+        ${isManager() ? opt('textdlg', 'note', L('Tekst aanpassen', 'Edit the text'), L('Alleen developer en bazen. Iedereen ziet de nieuwe tekst.', 'Developer and bosses only. Everyone sees the new text.')) : ''}
         ${opt('stock', 'flag', out ? L('Weer op voorraad', 'Back in stock') : L('Niet op voorraad', 'Out of stock'), out ? L(`${cn} is weer leverbaar`, `${cn} is available again`) : L(`Alleen voor de kleur ${cn}`, `Only for the colour ${cn}`), out ? '' : 'neg')}
         </div><button class="btn ghost block" data-act="closedlg" style="margin-top:12px">${L('Annuleer', 'Cancel')}</button>`);
       return;
@@ -883,6 +982,23 @@
         <label class="check"><input type="checkbox" name="only"> ${L('Alleen voor kleur', 'Only for colour')} ${esc(x.v.colorName)}</label>
         <div class="dlg-btns"><button type="button" class="btn ghost" data-act="closedlg">${L('Annuleer', 'Cancel')}</button><button class="btn">${L('Opslaan', 'Save')}</button></div></form>`);
       return;
+    }
+    if (act === 'textdlg') {
+      const p = idx.product[b.dataset.p] || idx.variant[b.dataset.v]?.p; if (!p || !isManager()) return;
+      const o = edited(p);
+      openDialog(`<form data-act="savetext" data-p="${esc(p.id)}"><h3>${L('Tekst aanpassen', 'Edit the text')}</h3>
+        <p class="small muted">${L("Eén punt per regel. Collega's zien de nieuwe tekst zodra hun app synchroniseert. Hiervoor is internet nodig.", 'One point per line. Colleagues see the new text once their app syncs. This needs internet.')}</p>
+        <label class="small muted">${L('Voor wie (één zin, mag leeg)', 'Who it suits (one sentence, may be empty)')}</label>
+        <textarea name="s" maxlength="400" rows="2">${esc(suitedOf(p))}</textarea>
+        <label class="small muted">${L('Kort voor de klant', 'In short for the customer')}</label>
+        <textarea name="t" required maxlength="4000" rows="9">${esc(bulletsOf(p).join('\n'))}</textarea>
+        ${o ? `<button type="button" class="btn ghost block" data-act="resettext" data-p="${esc(p.id)}" style="margin:8px 0">${L('Websitetekst terugzetten', 'Put the website text back')}</button>` : ''}
+        <div class="dlg-btns"><button type="button" class="btn ghost" data-act="closedlg">${L('Annuleer', 'Cancel')}</button><button class="btn">${L('Opslaan', 'Save')}</button></div></form>`);
+      return;
+    }
+    if (act === 'resettext') {
+      if (!confirm(L('De aangepaste tekst weghalen en de websitetekst terugzetten?', 'Remove the changed text and put the website text back?'))) return;
+      saveText(b.dataset.p, null, [], true); return;
     }
     if (act === 'issuedlg') {
       const x = idx.variant[b.dataset.v];
@@ -953,6 +1069,10 @@
     } else if (act === 'report-out') {
       S.setOut(f.dataset.p, f.dataset.v, true, f.c.value.trim()); closeDialog(); route();
       toast(L(`${idx.variant[f.dataset.v].v.colorName} gemeld als niet op voorraad`, `${idx.variant[f.dataset.v].v.colorName} reported out of stock`));
+    } else if (act === 'savetext') {
+      const bl = f.t.value.split('\n').map(x => x.replace(/^\s*[-•*]\s*/, '').trim()).filter(Boolean);
+      if (!bl.length) return;
+      await saveText(f.dataset.p, f.s.value.trim(), bl, false);
     } else if (act === 'team') {
       const c = f.c.value.trim(); if (!c) return;
       S.setTeamCode(c); f.c.value = ''; toast(L('Teamcode opgeslagen', 'Team code saved')); route();

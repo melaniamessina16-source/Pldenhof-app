@@ -6,7 +6,7 @@
    - Quiz scores: saved through the database; finished quizzes wait in a queue while offline. */
 (function () {
   const K = { notes: 'oh.notes', issues: 'oh.issues', flags: 'oh.flags', queue: 'oh.queue', since: 'oh.since', user: 'oh.user', team: 'oh.team',
-              session: 'oh.session', accounts: 'oh.accounts', quizq: 'oh.quizq', quiz: 'oh.quizres' };
+              session: 'oh.session', accounts: 'oh.accounts', quizq: 'oh.quizq', quiz: 'oh.quizres', texts: 'oh.texts' };
   const store = (s => { try { s.setItem('oh.t', '1'); s.removeItem('oh.t'); return s; } catch { return null; } });
   const LS = store(window.localStorage), SS = store(window.sessionStorage);
   const read = (k, d, s = LS) => { try { const v = s && s.getItem(k); return v == null ? d : JSON.parse(v); } catch { return d; } };
@@ -17,6 +17,7 @@
   let notes = read(K.notes, {});      // id -> note
   let flags = read(K.flags, {});      // variantID -> flag
   let issues = read(K.issues, {});    // id -> inaccuracy report
+  let texts = read(K.texts, {});      // productID -> product text changed in the app by the developer or a boss
   let queue = read(K.queue, []);      // [{table,row}]
   let quizQueue = read(K.quizq, []);  // finished quizzes not sent yet
   let quizResults = read(K.quiz, []); // last known results (own, or all for managers)
@@ -27,7 +28,7 @@
   const uid = () => (crypto.randomUUID ? crypto.randomUUID() :
     'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, c => { const r = Math.random() * 16 | 0; return (c === 'x' ? r : (r & 3 | 8)).toString(16); }));
   const now = () => new Date().toISOString();
-  const save = () => { write(K.notes, notes); write(K.issues, issues); write(K.flags, flags); write(K.queue, queue); write(K.quizq, quizQueue); write(K.quiz, quizResults); };
+  const save = () => { write(K.texts, texts); write(K.notes, notes); write(K.issues, issues); write(K.flags, flags); write(K.queue, queue); write(K.quizq, quizQueue); write(K.quiz, quizResults); };
   const emit = () => listeners.forEach(f => { try { f(); } catch (e) { console.error(e); } });
 
   const toRow = {
@@ -109,6 +110,15 @@
         else if (!flags[x.variantID] || flags[x.variantID].updatedAt <= x.updatedAt) flags[x.variantID] = x;
       }
     }
+    // product texts changed by the developer or a boss (table made by supabase-texts.sql)
+    const tr = await fetch(`${cfg.supabaseURL}/rest/v1/product_texts?select=*&limit=10000`, { headers: headers() });
+    if (tr.ok) {
+      state.textsSetup = true;
+      for (const r of await tr.json()) {
+        const x = { productID: r.product_id, suitedFor: r.suited_for, bullets: r.bullets || [], author: r.author, accountID: r.account_id, updatedAt: r.updated_at, deleted: r.deleted };
+        if (!texts[x.productID] || texts[x.productID].updatedAt <= x.updatedAt) texts[x.productID] = x;
+      }
+    } else state.textsSetup = false;
     state.lastSync = started; write(K.since, started); save();
   }
   async function pullAccounts() {
@@ -228,6 +238,19 @@
     setIssueResolved(id, resolved) {
       const i = issues[id]; if (!i) return;
       i.resolved = !!resolved; i.resolvedBy = resolved ? (this.user || null) : null; i.updatedAt = now(); save(); enqueue('issues', toRow.issues(i));
+    },
+
+    // product texts changed in the app (developer and bosses only; saved straight to the database, so internet is needed)
+    textFor(productID) { const t = texts[productID]; return t && !t.deleted ? t : null; },
+    async saveText(productID, suitedFor, bullets, reset) {
+      if (!session) return { error: 'login' };
+      if (!navigator.onLine) return { error: 'offline' };
+      let r;
+      try { r = await rpc('save_product_text', { p_token: session.token, p_product_id: productID, p_suited: suitedFor || null, p_bullets: bullets || [], p_reset: !!reset }); }
+      catch (e) { return { error: e.message === 'setup' ? 'setup' : 'server' }; }
+      if (r && r.error === 'login') endSession();
+      if (r && !r.error) { texts[productID] = r; save(); emit(); }
+      return r || { error: 'server' };
     },
 
     // out-of-stock flags

@@ -10,6 +10,7 @@
     menu: '<path d="M4 7h16M4 12h16M4 17h10"/>',
     back: '<path d="M14.5 5.5 8 12l6.5 6.5"/>',
     plus: '<path d="M12 5v14M5 12h14"/>',
+    dots: '<circle cx="12" cy="5.5" r="1.4" fill="currentColor"/><circle cx="12" cy="12" r="1.4" fill="currentColor"/><circle cx="12" cy="18.5" r="1.4" fill="currentColor"/>',
     arrow: '<path d="M7 17 17 7M9 7h8v8"/>',
     play: '<path d="M8 5.5v13l10.5-6.5z"/>',
     // menu
