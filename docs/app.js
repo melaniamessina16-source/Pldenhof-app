@@ -250,7 +250,7 @@
     if (gate.adding) return addAccountGateView();
     const sel = S.accounts.find(a => a.id === gate.selected);
     return `<div class="hero"><div class="eyebrow">Kookwinkel Oldenhof</div><h1>${L('Wie ben je?', 'Who are you?')}</h1>${langSwitch()}</div>
-      ${rankGroups(S.accounts, l => `<div class="people">${l.map(a => personBtn(a, 'pick')).join('')}</div>`)}
+      ${rankGroups(S.accounts, l => `<div class="people">${l.map(a => personBtn(a, 'pickacc')).join('')}</div>`)}
       ${sel ? `<form data-act="login" class="card" style="margin-top:14px"><h3>${L('Pincode van', 'PIN for')} ${esc(sel.name)}</h3>
         <input class="field pin" name="pin" type="password" inputmode="numeric" pattern="[0-9]*" maxlength="4" autocomplete="one-time-code" placeholder="••••" style="margin:12px 0">
         <label class="check"><input type="checkbox" name="stay" checked> ${L('Ingelogd blijven op dit toestel', 'Stay logged in on this device')}</label>
@@ -1031,7 +1031,7 @@
     else if (act === 'gateadd') { gate = { selected: null, error: '', busy: false, adding: {} }; route(); }
     else if (act === 'gatecancel') { if (gate.adding?.token) S.endManagerCheck(gate.adding.token); gate = { selected: null, error: '', busy: false }; route(); }
     else if (act === 'gatemgr') { gate.adding.managerID = b.dataset.id; gate.error = ''; route(); setTimeout(() => app.querySelector('input[name=pin]')?.focus(), 30); }
-    else if (act === 'pick') { gate.selected = b.dataset.id; gate.error = ''; route(); setTimeout(() => app.querySelector('input[name=pin]')?.focus(), 30); }
+    else if (act === 'pickacc') { gate.selected = b.dataset.id; gate.error = ''; route(); setTimeout(() => app.querySelector('input[name=pin]')?.focus(), 30); }
     else if (act === 'answer' && run && run.chosen == null) {
       run.chosen = +b.dataset.k; if (run.chosen === run.quiz.questions[run.i].correct) run.score++; route();
     } else if (act === 'quiznext' && run) {
