@@ -47,7 +47,14 @@
   const icon = (id, i) => { const c = PALETTE[i % PALETTE.length]; return `<span class="icon tint" style="--tint:${c}">${IC(GROUP_ICON[id] || 'grid')}</span>`; };
   const chev = '<span class="chev" aria-hidden="true"></span>';
   const backBtn = () => `<button class="back" onclick="history.length>1?history.back():location.hash='#/'" aria-label="${L('Terug', 'Back')}">${IC('back')}</button>`;
-  const top = title => `<div class="top">${backBtn()}<div class="title">${esc(title || '')}</div></div>`;
+  // report button (top bar, next to NL/EN): reports an inaccuracy about the page or product you are on
+  const reportBtn = () => `<button class="iconbtn report-btn" data-act="reportdlg" aria-label="${L('Onjuistheid melden', 'Report an inaccuracy')}" title="${L('Onjuistheid melden', 'Report an inaccuracy')}">${IC('alert')}</button>`;
+  const top = title => `<div class="top">${backBtn()}<div class="title">${esc(title || '')}</div>${S.account ? reportBtn() : ''}</div>`;
+  // reports about a page (not a product) are stored with product id 'page:<route>' and the page name in brackets before the text
+  const PAGE_ISSUE = 'page:';
+  const pageIssue = i => String(i.productID || '').startsWith(PAGE_ISSUE);
+  const pageIssueLabel = i => (/^\[([^\]]*)\]/.exec(i.text || '') || [])[1] || L('Pagina', 'Page');
+  const pageIssueText = i => String(i.text || '').replace(/^\[[^\]]*\]\s*/, '');
   const ROLE = { employee: () => L('Medewerker', 'Employee'), boss: () => L('Baas', 'Boss'), developer: () => 'Developer' };
   const roleName = r => (ROLE[r] || ROLE.employee)();
   const RANK = { developer: 3, boss: 2, employee: 1 };
@@ -404,6 +411,7 @@
         <div class="homebar"><button class="avbtn" data-act="menu" aria-label="${esc(a?.name || 'Menu')}">${avatar(a, 48)}</button>
           <div class="who"><div class="who-greet">${esc(greet)}</div><div class="who-name">${esc(first || 'Oldenhof')}</div></div>
           <button class="iconbtn lang-btn" data-act="lang" data-l="${LANG === 'nl' ? 'en' : 'nl'}" aria-label="${L('Switch to English', 'Naar Nederlands')}">${LANG === 'nl' ? 'EN' : 'NL'}</button>
+          ${reportBtn()}
           <button class="iconbtn" data-act="menu" aria-label="Menu">${IC('menu')}${n ? '<i class="dot"></i>' : ''}</button></div>
         <h1 class="hero-q">${L('Wat wil de klant vandaag weten?', 'What does the customer want to know today?')}</h1>
         <a class="search" href="#/zoek">${IC('search')}<span class="faint">${L('Zoek op naam, merk of barcode', 'Search by name, brand or barcode')}</span></a>
@@ -784,12 +792,18 @@
     const flags = S.outList().filter(f => idx.variant[f.variantID] && inP(f.updatedAt) && (!person || f.author === person) && (!dept || groupOfProduct(idx.product[f.productID])?.id === dept));
     const notes = S.allNotes().filter(n => idx.product[n.productID] && inP(n.createdAt) && (!person || n.author === person) && (!dept || groupOfProduct(idx.product[n.productID])?.id === dept));
     const quiz = S.quizResults().filter(r => inP(r.date) && (!person || r.accountName === person) && (!dept || r.quizID === dept));
-    const issues = S.allIssues().filter(i => idx.product[i.productID] && inP(i.createdAt) && (!person || i.author === person) && (!dept || groupOfProduct(idx.product[i.productID])?.id === dept));
+    const issues = S.allIssues().filter(i => (idx.product[i.productID] || (pageIssue(i) && !dept)) && inP(i.createdAt) && (!person || i.author === person) && (!dept || groupOfProduct(idx.product[i.productID])?.id === dept));
     const openIssues = issues.filter(i => !i.resolved), doneIssues = issues.filter(i => i.resolved);
     const people = [...new Set([...S.outList().map(f => f.author), ...S.allNotes().map(n => n.author), ...S.allIssues().map(i => i.author), ...S.quizResults().map(r => r.accountName)])].filter(Boolean).sort();
     const link = (k, v) => { const p = new URLSearchParams({ periode: period, persoon: person, afdeling: dept }); p.set(k, v); return '#/rapport?' + p.toString(); };
     report.rows = { flags, notes, quiz, issues };
-    const issueRow = i => { const p = idx.product[i.productID]; const x = i.variantID && idx.variant[i.variantID];
+    const resolveBtn = i => `<button class="pill ${i.resolved ? '' : 'accent'}" data-act="resolve" data-id="${esc(i.id)}" data-r="${i.resolved ? '0' : '1'}">${i.resolved ? L('Heropen', 'Reopen') : L('Opgelost', 'Resolved')}</button>`;
+    const pageRow = i => { const href = '#' + i.productID.slice(PAGE_ISSUE.length);
+      return `<div class="row issue ${i.resolved ? 'done' : ''}"><a href="${esc(href)}"><span class="thumb page-thumb">${IC('alert')}</span></a>
+        <div class="grow"><a class="name" href="${esc(href)}">${esc(pageIssueLabel(i))}</a><div class="sub">${esc(pageIssueText(i))}</div>
+        <div class="sub faint">${esc(i.author)} · ${esc(fmtTime(i.createdAt))}${i.resolved && i.resolvedBy ? ` · ${L('opgelost door', 'resolved by')} ${esc(i.resolvedBy)}` : ''}</div></div>
+        ${resolveBtn(i)}</div>`; };
+    const issueRow = i => { if (pageIssue(i)) return pageRow(i); const p = idx.product[i.productID]; const x = i.variantID && idx.variant[i.variantID];
       return `<div class="row issue ${i.resolved ? 'done' : ''}"><a href="#/p/${esc(p.id)}${x ? `?v=${esc(x.v.id)}` : ''}"><img class="thumb" src="${esc(x ? x.v.image : productImg(p))}" alt=""></a>
         <div class="grow"><a class="name" href="#/p/${esc(p.id)}${x ? `?v=${esc(x.v.id)}` : ''}">${esc(p.name)}</a><div class="sub">${esc(i.text)}</div>
         <div class="sub faint">${esc(i.author)} · ${esc(fmtTime(i.createdAt))}${x ? ' · ' + esc(x.v.colorName) : ''}${i.resolved && i.resolvedBy ? ` · ${L('opgelost door', 'resolved by')} ${esc(i.resolvedBy)}` : ''}</div></div>
@@ -816,7 +830,7 @@
     const lines = [[L('Soort', 'Type'), L('Datum', 'Date'), L('Persoon', 'Person'), L('Onderwerp', 'Subject'), 'Details'].map(f).join(';')];
     const { flags = [], notes = [], quiz = [], issues = [] } = report.rows || {};
     flags.forEach(x => { const v = idx.variant[x.variantID]; lines.push([L('Niet op voorraad', 'Out of stock'), x.updatedAt, x.author, v.p.name, [v.v.colorName, x.comment].filter(Boolean).join(' · ')].map(f).join(';')); });
-    issues.forEach(i => lines.push([L('Onjuistheid', 'Inaccuracy') + (i.resolved ? ' (' + L('opgelost', 'resolved') + ')' : ''), i.createdAt, i.author, idx.product[i.productID].name, [i.variantID && idx.variant[i.variantID]?.v.colorName, i.text].filter(Boolean).join(' · ')].map(f).join(';')));
+    issues.forEach(i => lines.push([L('Onjuistheid', 'Inaccuracy') + (i.resolved ? ' (' + L('opgelost', 'resolved') + ')' : ''), i.createdAt, i.author, pageIssue(i) ? pageIssueLabel(i) : idx.product[i.productID].name, pageIssue(i) ? pageIssueText(i) : [i.variantID && idx.variant[i.variantID]?.v.colorName, i.text].filter(Boolean).join(' · ')].map(f).join(';')));
     notes.forEach(n => lines.push([L('Notitie', 'Note'), n.createdAt, n.author, idx.product[n.productID].name, n.text].map(f).join(';')));
     quiz.forEach(r => lines.push(['Quiz', r.date, r.accountName, LT(Q.find(z => z.id === r.quizID)?.title) || r.quizID, `${r.score}/${r.total}`].map(f).join(';')));
     const blob = new Blob(['﻿' + lines.join('\n')], { type: 'text/csv;charset=utf-8' });
@@ -956,7 +970,7 @@
   // ---------- actions ----------
   document.addEventListener('click', e => {
     const b = e.target.closest('[data-act]'); if (!b || b.tagName === 'FORM' || b.tagName === 'SELECT') return;
-    const act = b.dataset.act;
+    let act = b.dataset.act;
     if (act === 'pick') { const k = b.dataset.k; cmp.has(k) ? cmp.delete(k) : cmp.size < 4 ? cmp.add(k) : toast(L('Maximaal 4 tegelijk', 'At most 4 at a time')); route(); return; }
     if (act === 'cmpclear') { cmp.clear(); route(); return; }
     if (act === 'cmpdrop') { cmp.delete(b.dataset.k); const [path, qs] = location.hash.split('?'); const p = new URLSearchParams(qs || '');
@@ -1000,9 +1014,27 @@
       if (!confirm(L('De aangepaste tekst weghalen en de websitetekst terugzetten?', 'Remove the changed text and put the website text back?'))) return;
       saveText(b.dataset.p, null, [], true); return;
     }
+    if (act === 'reportdlg') {
+      const [path, qs] = location.hash.split('?'); const parts = path.replace(/^#\/?/, '').split('/');
+      const pp = parts[0] === 'p' && idx.product[parts[1]];
+      if (pp) { const v = pp.variants.find(z => z.id === new URLSearchParams(qs || '').get('v')) || pp.variants[0];
+        b.dataset.v = v.id; act = 'issuedlg'; }
+      else {
+        const label = (document.querySelector('#app .hero h1')?.textContent || document.querySelector('#app .top .title')?.textContent || '').trim()
+          || (parts[0] ? parts[0] : 'Home');
+        const route = (path.replace(/^#/, '') || '/') + (qs ? '?' + qs : '');
+        openDialog(`<form data-act="addissue" data-p="${esc(PAGE_ISSUE + route)}" data-label="${esc(label)}"><h3>${L('Onjuistheid melden', 'Report an inaccuracy')}</h3>
+          <p class="small muted">${L('Over', 'About')}: <b>${esc(label)}</b></p>
+          <p class="small muted">${L('Wat klopt er niet of werkt niet goed? Dit komt in het rapport voor de developer en de bazen.', 'What is wrong or not working well? This goes to the report for the developer and the bosses.')}</p>
+          <textarea name="t" required maxlength="1000" placeholder="${L('Bijv. deze tekst klopt niet, of deze knop doet niets', 'E.g. this text is wrong, or this button does nothing')}"></textarea>
+          <div class="dlg-btns" style="margin-top:12px"><button type="button" class="btn ghost" data-act="closedlg">${L('Annuleer', 'Cancel')}</button><button class="btn">${L('Meld', 'Report')}</button></div></form>`);
+        return;
+      }
+    }
     if (act === 'issuedlg') {
       const x = idx.variant[b.dataset.v];
       openDialog(`<form data-act="addissue" data-p="${esc(x.p.id)}" data-v="${esc(x.v.id)}"><h3>${L('Onjuistheid melden', 'Report an inaccuracy')}</h3>
+        <p class="small muted">${L('Over', 'About')}: <b>${esc(x.p.name)}</b>${x.p.variants.length > 1 ? ` · ${esc(x.v.colorName)}` : ''}</p>
         <p class="small muted">${L('Wat klopt er niet? Dit komt in het rapport voor de developer en de bazen.', 'What is wrong? This goes to the report for the developer and the bosses.')}</p>
         <textarea name="t" required maxlength="1000" placeholder="${L('Bijv. de inhoud is 5,3 liter, niet 6,7', 'E.g. the capacity is 5.3 litres, not 6.7')}"></textarea>
         <div class="dlg-btns" style="margin-top:12px"><button type="button" class="btn ghost" data-act="closedlg">${L('Annuleer', 'Cancel')}</button><button class="btn">${L('Meld', 'Report')}</button></div></form>`);
@@ -1065,7 +1097,7 @@
       S.addNote(f.dataset.p, f.only.checked ? f.dataset.v : null, t); f.t.value = ''; f.t.blur(); closeDialog(); toast(L('Notitie opgeslagen', 'Note saved')); route();
     } else if (act === 'addissue') {
       const t = f.t.value.trim(); if (!t) return;
-      S.addIssue(f.dataset.p, f.dataset.v, t); f.t.blur(); closeDialog(); toast(L('Gemeld. Dank je!', 'Reported. Thank you!')); route();
+      S.addIssue(f.dataset.p, f.dataset.v || null, f.dataset.label ? `[${f.dataset.label}] ${t}` : t); f.t.blur(); closeDialog(); toast(L('Gemeld. Dank je!', 'Reported. Thank you!')); route();
     } else if (act === 'report-out') {
       S.setOut(f.dataset.p, f.dataset.v, true, f.c.value.trim()); closeDialog(); route();
       toast(L(`${idx.variant[f.dataset.v].v.colorName} gemeld als niet op voorraad`, `${idx.variant[f.dataset.v].v.colorName} reported out of stock`));
