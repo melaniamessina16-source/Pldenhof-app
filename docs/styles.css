@@ -640,3 +640,11 @@ details.card summary{font-family:var(--sans);font-weight:600}
 .card-h{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px}
 .card-h h3{margin:0}
 #dlg textarea{width:100%;margin:4px 0 10px}
+
+/* report button in the top bars (next to NL/EN on home, right side on other pages) */
+.report-btn{color:var(--accent-text)}
+.report-btn svg,.report-btn .ic{stroke:var(--accent-text)}
+.top .report-btn{width:44px;height:44px}
+.top:has(.report-btn) .title{padding-right:0}
+.page-thumb{display:grid;place-items:center;background:var(--raised);color:var(--accent-text)}
+.page-thumb .ic{width:26px;height:26px}
